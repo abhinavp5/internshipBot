@@ -1,0 +1,171 @@
+name: Sync fork from upstream (same branch names)
+
+on:
+  schedule:
+    - cron: "*/5 * * * *" # every 5 minutes
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout fork
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Add upstream and fetch
+        run: |
+          # Upstream repository
+          git remote add upstream https://github.com/SimplifyJobs/Summer2026-Internships.git
+          git fetch --prune upstream
+          git fetch --prune origin
+
+      - name: Sync all matching branches from upstream to origin
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          # Get list of upstream branches (excluding HEAD)
+          mapfile -t UPSTREAM_BRANCHES < <(git for-each-ref --format='%(refname:short)' refs/remotes/upstream/ | sed 's#^upstream/##' | grep -v '^HEAD$' | sort -u)
+
+          echo "Found upstream branches: ${UPSTREAM_BRANCHES[*]:-<none>}"
+
+          # Prepare output directory
+          mkdir -p changes
+
+          for BRANCH in "${UPSTREAM_BRANCHES[@]}"; do
+            echo "\n=== Syncing branch: ${BRANCH} ==="
+
+            # Ensure we have a local branch tracking origin/BRANCH, or create it
+            if git show-ref --verify --quiet "refs/heads/${BRANCH}"; then
+              git checkout "${BRANCH}"
+            elif git show-ref --verify --quiet "refs/remotes/origin/${BRANCH}"; then
+              git checkout -b "${BRANCH}" --track "origin/${BRANCH}"
+            else
+              # Create branch from upstream if it doesn't exist on origin yet
+              git checkout -b "${BRANCH}" "upstream/${BRANCH}"
+            fi
+
+            BEFORE_SHA=$(git rev-parse HEAD)
+
+            # Attempt fast-forward first; if not possible, do a merge commit
+            if git merge --ff-only "upstream/${BRANCH}"; then
+              echo "Fast-forwarded ${BRANCH}"
+            else
+              echo "Fast-forward not possible for ${BRANCH}; performing a merge commit"
+              git merge --no-edit "upstream/${BRANCH}"
+            fi
+
+            AFTER_SHA=$(git rev-parse HEAD)
+
+            # Record commit list and file changes introduced by the sync on this branch
+            git log --oneline "${BEFORE_SHA}..${AFTER_SHA}" > "changes/commits-${BRANCH}.txt" || true
+            git diff --name-status "${BEFORE_SHA}..${AFTER_SHA}" > "changes/files-${BRANCH}.txt" || true
+            git diff "${BEFORE_SHA}..${AFTER_SHA}" > "changes/patch-${BRANCH}.patch" || true
+
+            # Push to origin
+            git push origin "${BRANCH}"
+          done
+
+          echo "\nAll branches processed."
+
+      - name: Upload change artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: upstream-sync-changes
+          path: changes/
+
+      - name: Append summary
+        shell: bash
+        run: |
+          echo "### Upstream sync changes" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          for file in changes/commits-*.txt; do
+            [ -f "$file" ] || continue
+            BRANCH=${file#changes/commits-}
+            BRANCH=${BRANCH%.txt}
+            echo "**Branch:** ${BRANCH}" >> "$GITHUB_STEP_SUMMARY"
+            echo "Commits introduced:" >> "$GITHUB_STEP_SUMMARY"
+            sed -n '1,100p' "$file" >> "$GITHUB_STEP_SUMMARY"
+            echo "" >> "$GITHUB_STEP_SUMMARY"
+            echo "Files changed:" >> "$GITHUB_STEP_SUMMARY"
+            sed -n '1,200p' "changes/files-${BRANCH}.txt" >> "$GITHUB_STEP_SUMMARY"
+            echo "" >> "$GITHUB_STEP_SUMMARY"
+          done
+
+      - name: Extract new internship lines from README changes
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p email
+          > email/body.txt
+
+          for patch in changes/patch-*.patch; do
+            [ -f "$patch" ] || continue
+            BRANCH=${patch#changes/patch-}
+            BRANCH=${BRANCH%.patch}
+
+            # Extract added lines (+) in README files only, ignore table separators and images
+            ADDED=$(awk '/^\+\+\+ /{infile=$2} /^\+/{ if (infile ~ /README(.*)?\.md$/ && $0 !~ /^\+\+\+/) print }' "$patch" | sed 's/^+//' | grep -E "\S" | grep -vE '^\|\s*-+|^!\[|^<img' || true)
+
+            if [ -n "$ADDED" ]; then
+              {
+                echo "Branch: $BRANCH"
+                echo "New internship lines:"
+                echo "$ADDED"
+                echo ""
+              } >> email/body.txt
+            fi
+          done
+
+          if [ ! -s email/body.txt ]; then
+            echo "No new internship lines detected." > email/body.txt
+          fi
+
+      - name: Upload email body artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: email-body
+          path: email/body.txt
+
+
+
+      - name: Load email body into env
+        shell: bash
+        run: |
+          EMAIL_BODY="$(cat email/body.txt)"
+          {
+            echo "EMAIL_BODY<<EOF"
+            echo "$EMAIL_BODY"
+            echo "EOF"
+          } >> "$GITHUB_ENV"
+
+      - name: Send email with changes (SMTP)
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.SMTP_SERVER }}
+          server_port: ${{ secrets.SMTP_PORT }}
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: New Internship Uploaded
+          to: ${{ secrets.TO_EMAIL }}
+          from: ${{ secrets.FROM_EMAIL }}
+          secure: true
+          ignore_cert: true
+          convert_markdown: false
+          body: ${{ env.EMAIL_BODY }}
+
+      - name: Print email body (for logs)
+        if: always()
+        shell: bash
+        run: |
+          echo "Email body:" && cat email/body.txt
