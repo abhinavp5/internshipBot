@@ -2,12 +2,11 @@ name: Sync fork from upstream (same branch names)
 
 on:
   schedule:
-    - cron: "*/5 * * * *" # every 5 minutes
+    - cron: "*/20 * * * *" # every 20 minutes
   workflow_dispatch:
 
 permissions:
   contents: write
-  workflows: write
 
 jobs:
   sync:
@@ -23,16 +22,48 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Add upstream and fetch
+      - name: Check if upstream has changes
+        id: check-for-upstream-changes
         run: |
-          # Upstream repository
+          # Add upstream remote
           git remote get-url upstream >/dev/null 2>&1 && \
             git remote set-url upstream https://github.com/SimplifyJobs/Summer2026-Internships.git || \
             git remote add upstream https://github.com/SimplifyJobs/Summer2026-Internships.git
+          
+          git fetch upstream
+          
+          HAS_CHANGES=false
+          for branch in $(git for-each-ref --format='%(refname:short)' refs/remotes/upstream/ | sed 's#^upstream/##' | grep -v '^HEAD$'); do
+            if git show-ref --verify --quiet "refs/remotes/origin/$branch"; then
+              if ! git diff --quiet "origin/$branch" "upstream/$branch" 2>/dev/null; then
+                echo "Changes detected in branch: $branch"
+                HAS_CHANGES=true
+                break
+              fi
+            else
+              echo "New branch detected: $branch" 
+              HAS_CHANGES=true
+              break
+            fi
+          done
+          
+          if [ "$HAS_CHANGES" = "false" ]; then
+            echo "skip=true" >> $GITHUB_OUTPUT
+            echo "No changes detected in any upstream branches"
+          else
+            echo "skip=false" >> $GITHUB_OUTPUT
+            echo "Changes detected, proceeding with sync"
+          fi          
+
+
+      - name: Add upstream and fetch
+        if: steps.check-for-upstream-changes.outputs.skip != 'true'
+        run: |
           git fetch --prune upstream
           git fetch --prune origin
 
       - name: Sync all matching branches from upstream to origin
+        if: steps.check-for-upstream-changes.outputs.skip != 'true'
         shell: bash
         run: |
           set -euo pipefail
@@ -82,12 +113,14 @@ jobs:
           echo "\nAll branches processed."
 
       - name: Upload change artifacts
+        if: steps.check-for-upstream-changes.outputs.skip != 'true'
         uses: actions/upload-artifact@v4
         with:
           name: upstream-sync-changes
           path: changes/
 
       - name: Append summary
+        if: steps.check-for-upstream-changes.outputs.skip != 'true'
         shell: bash
         run: |
           echo "### Upstream sync changes" >> "$GITHUB_STEP_SUMMARY"
@@ -106,6 +139,7 @@ jobs:
           done
 
       - name: Extract new internship lines from README changes
+        if: steps.check-for-upstream-changes.outputs.skip != 'true'
         shell: bash
         run: |
           set -euo pipefail
@@ -135,12 +169,14 @@ jobs:
           fi
 
       - name: Upload email body artifact
+        if: steps.check-for-upstream-changes.outputs.skip != 'true'
         uses: actions/upload-artifact@v4
         with:
           name: email-body
           path: email/body.txt
 
       - name: Check if there are new lines
+        if: steps.check-for-upstream-changes.outputs.skip != 'true'
         id: newlines
         shell: bash
         run: |
@@ -151,6 +187,7 @@ jobs:
           fi
 
       - name: Load email body into env
+        if: steps.check-for-upstream-changes.outputs.skip != 'true'
         shell: bash
         run: |
           EMAIL_BODY="$(cat email/body.txt)"
@@ -161,7 +198,7 @@ jobs:
           } >> "$GITHUB_ENV"
 
       - name: Send email with changes (SMTP)
-        if: steps.newlines.outputs.has_new == 'true'
+        if: steps.check-for-upstream-changes.outputs.skip != 'true' && steps.newlines.outputs.has_new == 'true'
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: smtp.gmail.com
@@ -176,9 +213,13 @@ jobs:
           convert_markdown: false
           body: ${{ env.EMAIL_BODY }}
 
-
       - name: Print email body (for logs)
-        if: always()
+        if: always() && steps.check-for-upstream-changes.outputs.skip != 'true'
         shell: bash
         run: |
           echo "Email body:" && cat email/body.txt
+
+      - name: Skip message
+        if: steps.check-for-upstream-changes.outputs.skip == 'true'
+        run: |
+          echo "No upstream changes detected. Skipping sync workflow."
