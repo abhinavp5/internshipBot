@@ -16,6 +16,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: Configure git
         run: |
@@ -106,8 +107,8 @@ jobs:
             git diff --name-status "${BEFORE_SHA}..${AFTER_SHA}" > "changes/files-${BRANCH}.txt" || true
             git diff "${BEFORE_SHA}..${AFTER_SHA}" > "changes/patch-${BRANCH}.patch" || true
 
-            # Push to origin
-            git push origin "${BRANCH}"
+            # Push to origin using the token
+            git push "https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git" "${BRANCH}"
           done
 
           echo "\nAll branches processed."
