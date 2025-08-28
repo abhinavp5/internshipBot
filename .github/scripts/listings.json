@@ -129607,7 +129607,7 @@
         "company_name": "Live Ramp",
         "id": "ca803844-ee3f-489d-84bd-208d2f339e07",
         "title": "Software Engineer Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -206260,7 +206260,7 @@
         "company_name": "Fizz",
         "id": "2b9c6225-2cfa-4dea-8b2b-d48dbf13661a",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -218613,7 +218613,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "c1f8e0c0-bb5d-43ae-9c09-9f6771d7b602",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -228120,7 +228120,7 @@
         "company_name": "Nokia",
         "id": "93d7ff2d-bc43-4e2f-b433-97f3e6c22c43",
         "title": "Video Coding Coop",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -238943,7 +238943,7 @@
         "company_name": "MKS Instruments",
         "id": "d12ae003-3558-4103-935f-ed7aaac8a22b",
         "title": "IT BA/Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
