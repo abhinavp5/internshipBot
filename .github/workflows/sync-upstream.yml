@@ -69,8 +69,8 @@ jobs:
         run: |
           set -euo pipefail
 
-          # Get list of upstream branches (excluding HEAD)
-          mapfile -t UPSTREAM_BRANCHES < <(git for-each-ref --format='%(refname:short)' refs/remotes/upstream/ | sed 's#^upstream/##' | grep -v '^HEAD$' | sort -u)
+          # Get list of upstream branches (excluding HEAD and invalid names)
+          mapfile -t UPSTREAM_BRANCHES < <(git for-each-ref --format='%(refname:short)' refs/remotes/upstream/ | sed 's#^upstream/##' | grep -v '^HEAD$' | grep -v '^upstream$' | grep -v '^origin$' | sort -u)
 
           echo "Found upstream branches: ${UPSTREAM_BRANCHES[*]:-<none>}"
 
@@ -80,6 +80,12 @@ jobs:
           for BRANCH in "${UPSTREAM_BRANCHES[@]}"; do
             echo "\n=== Syncing branch: ${BRANCH} ==="
 
+            # Skip invalid branch names
+            if [[ "$BRANCH" =~ ^(upstream|origin|HEAD|refs) ]]; then
+              echo "Skipping invalid branch name: ${BRANCH}"
+              continue
+            fi
+
             # Ensure we have a local branch tracking origin/BRANCH, or create it
             if git show-ref --verify --quiet "refs/heads/${BRANCH}"; then
               git checkout "${BRANCH}"
@@ -87,7 +93,13 @@ jobs:
               git checkout -b "${BRANCH}" --track "origin/${BRANCH}"
             else
               # Create branch from upstream if it doesn't exist on origin yet
-              git checkout -b "${BRANCH}" "upstream/${BRANCH}"
+              # Verify the upstream branch exists before creating
+              if git show-ref --verify --quiet "refs/remotes/upstream/${BRANCH}"; then
+                git checkout -b "${BRANCH}" "upstream/${BRANCH}"
+              else
+                echo "Warning: upstream/${BRANCH} not found, skipping"
+                continue
+              fi
             fi
 
             BEFORE_SHA=$(git rev-parse HEAD)
