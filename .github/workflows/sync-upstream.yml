@@ -25,7 +25,9 @@ jobs:
       - name: Add upstream and fetch
         run: |
           # Upstream repository
-          git remote add upstream https://github.com/SimplifyJobs/Summer2026-Internships.git
+          git remote get-url upstream >/dev/null 2>&1 && \
+            git remote set-url upstream https://github.com/SimplifyJobs/Summer2026-Internships.git || \
+            git remote add upstream https://github.com/SimplifyJobs/Summer2026-Internships.git
           git fetch --prune upstream
           git fetch --prune origin
 
@@ -137,7 +139,15 @@ jobs:
           name: email-body
           path: email/body.txt
 
-
+      - name: Check if there are new lines
+        id: newlines
+        shell: bash
+        run: |
+          if grep -qEv '^\s*$|^No new internship lines detected\.$' email/body.txt; then
+            echo "has_new=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_new=false" >> $GITHUB_OUTPUT
+          fi
 
       - name: Load email body into env
         shell: bash
@@ -150,19 +160,21 @@ jobs:
           } >> "$GITHUB_ENV"
 
       - name: Send email with changes (SMTP)
+        if: steps.newlines.outputs.has_new == 'true'
         uses: dawidd6/action-send-mail@v3
         with:
-          server_address: ${{ secrets.SMTP_SERVER }}
-          server_port: ${{ secrets.SMTP_PORT }}
-          username: ${{ secrets.SMTP_USERNAME }}
-          password: ${{ secrets.SMTP_PASSWORD }}
-          subject: New Internship Uploaded
-          to: ${{ secrets.TO_EMAIL }}
-          from: ${{ secrets.FROM_EMAIL }}
+          server_address: smtp.gmail.com
+          server_port: 465
           secure: true
+          username: ${{ secrets.MAIL_USERNAME }} # Emailing myself so using same email and pass
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: New Internship Posted
+          to: ${{ secrets.MAIL_USERNAME }}
+          from: ${{ secrets.MAIL_USERNAME }}
           ignore_cert: true
           convert_markdown: false
           body: ${{ env.EMAIL_BODY }}
+
 
       - name: Print email body (for logs)
         if: always()
