@@ -241693,5 +241693,243 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "United Parcel Service (UPS)",
+        "id": "32ee77b4-cc65-4f22-9a73-bcf9373961df",
+        "title": "GBS Data Science Internship",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1756422602,
+        "date_posted": 1756422602,
+        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---35-GLENLAKE-BUILDING-GAGLK/GBS-Data-Science-Internship---Spring-Summer-2026_R25031150",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rockwell Automation",
+        "id": "179fd5e8-131a-4382-a499-4a086ec0cd02",
+        "title": "Co-op \u2013 Embedded Software Engineer",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1756422419,
+        "date_posted": 1756422419,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--Embedded-Software-Engineer_R25-6359-1",
+        "locations": [
+            "Mayfield Heights, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Computershare",
+        "id": "e0d987a3-0ed8-4f67-832f-9215752c5a19",
+        "title": "Internship - Junior Developer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756422215,
+        "date_posted": 1756422215,
+        "url": "https://fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/jobs/job/9299",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Computershare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Computershare",
+        "id": "7a28e35e-602b-49b1-ae78-82b4c48d310e",
+        "title": "Internship - Junior Developer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756422214,
+        "date_posted": 1756422214,
+        "url": "https://fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/jobs/job/9298",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Computershare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "KBR",
+        "id": "22413d0c-af69-436c-9246-6b99b5f14d5f",
+        "title": "Information Technology Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756422242,
+        "date_posted": 1756422242,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Information-Technology-Intern_R2111336",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/KBR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Grant Thornton",
+        "id": "e42aa57a-6bc4-4146-9efe-503f02a1b1be",
+        "title": "Cybersecurity and Privacy Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756421556,
+        "date_posted": 1756421556,
+        "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/112961",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Grant-Thornton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "JD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Grant Thornton",
+        "id": "8ca781e4-7359-458e-92ab-1829989f17d3",
+        "title": "Cybersecurity and Privacy Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756421551,
+        "date_posted": 1756421551,
+        "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/112962",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Grant-Thornton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "JD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Grant Thornton",
+        "id": "77908c22-8f8e-4d33-80ab-7827b358e5c7",
+        "title": "Cybersecurity and Privacy Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756421534,
+        "date_posted": 1756421534,
+        "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/113144",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Grant-Thornton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "JD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "CMS Energy",
+        "id": "94c3e9b5-ab58-472d-9058-46f2d62cc99f",
+        "title": "Intern/Co-Op \u2013 Security Engineering & GRC Internship - Cyber Security",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756421262,
+        "date_posted": 1756421262,
+        "url": "https://careers.consumersenergy.com/job/JACKSON-InternCo-Op-Cyber-Security,-Security-Engineering-&-GRC-Internship-MI/1321338500/?ats=successfactors",
+        "locations": [
+            "Jackson, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/CMS-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "4815f92c-7d23-4eba-820d-7512c95fc50a",
+        "title": "Strategic Insights & Analytics",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756421197,
+        "date_posted": 1756421197,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insights---Analytics-2026-Co-op_R-030527",
+        "locations": [
+            "Horsham, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
