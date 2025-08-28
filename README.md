@@ -208,7 +208,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Firmware Engineering Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Waukesha, WI</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Firmware-Engineering-Intern_JR9249?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/da1f2c2b-c2ed-48f9-b0b6-9011e3365dbd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Aflac?utm_source=GHList&utm_medium=company">Aflac</a></strong></td>
@@ -1345,28 +1345,28 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">20d</td>
 </tr>
 <tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Backend Software Engineer Intern - Tiktok-Social-User and Relation - 2026 Summer - BS/MS</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Los Angeles, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://lifeattiktok.com/search/7533130855972702472?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/785b994d-44ef-428e-9446-ee6b6de6ae43?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">20d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">21d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineer Intern - Tiktok Intelligent Creation Effects - 2026 Summer - BS/MS</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://lifeattiktok.com/search/7532759383232858376?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0a5fd6e7-ade3-4274-a5f9-6aa271173b89?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">20d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">21d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineer Intern - Data Arch - Shorttext Rec - BS/MS</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://lifeattiktok.com/search/7535250563514059016?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/193fc4e6-659b-47ef-a4e3-7c2df938dc1c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">20d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">21d</td>
 </tr>
 <tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Development Engineer in Test Intern - Tiktok-Growth</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://lifeattiktok.com/search/7533135081482324231?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/68dcbaba-eb3e-4777-a533-89191abfbb44?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -2914,14 +2914,14 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Engineering Analyst Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">St Paul, MN</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://hq.wd12.myworkdayjobs.com/Securian_External/job/Saint-Paul-MN-Campus/Engineering-Analyst-Intern--Hybrid-_R-010131?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/dedcb1aa-d93d-475a-9797-94a5bcfd493f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/07d9f7f0-9f1a-4ecb-9346-f3ac39d905f2?utm_source=GHList&utm_medium=company">MKS Instruments</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">IT BA/Data Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Andover, MA</br>Austin, TX</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/Andover-MA/XMLNAME-2026-Summer-IT-BA-Data-Intern_R14779?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d12ae003-3558-4103-935f-ed7aaac8a22b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Aflac?utm_source=GHList&utm_medium=company">Aflac</a></strong></td>
@@ -3159,7 +3159,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Digital Assurance & Transparency – Data Intern - Dat</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><details><summary><strong>6 locations</strong></summary>Boston, MA</br>SF</br>LA</br>Dallas, TX</br>Norridge, IL</br>NYC</details></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Digital-Assurance---Transparency--DAT--Data-Intern---Summer-2026_555212WD?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/204eb4f0-7cf2-4da5-872c-e0cfb6f8b2cb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">2d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">3d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/LPL-Financial-Holdings?utm_source=GHList&utm_medium=company">LPL Financial Holdings</a></strong></td>
@@ -3999,17 +3999,17 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineer Intern - Applied Machine Learning-Enterprise</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.bytedance.com/en/position/7533042683796097298/detail?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1ddbd636-21b3-49e9-8dbf-f6ae0898ddad?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">20d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">21d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Data Scientist Intern - Tiktok-Product-Data Science - 2026 Summer - PhD 🎓</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://lifeattiktok.com/search/7533020328604649746?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1a3ff0e5-3781-4cab-9116-769df11e2a79?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">20d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">21d</td>
 </tr>
 <tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Data Scientist Intern - Tiktok-Search</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://lifeattiktok.com/search/7533404377287280903?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/03a0765c-185c-440c-9ffe-b0f967866d34?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -4209,7 +4209,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Applied Scientist - AI/ML</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Remote in USA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.lever.co/WealthFinancialTechnologies/84c7ccc3-774c-47e3-a0e6-696a5e99f537/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3b9c9e36-fa52-4dd0-9a56-09a52dfd6e31?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">27d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">28d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">🔥 <strong><a href="https://simplify.jobs/c/Asana?utm_source=GHList&utm_medium=company">Asana</a></strong></td>
@@ -4470,7 +4470,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Machine Learning Engineering Intern-AI Agents - 2025 Programme 🎓</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Crawley, UK</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">8d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">9d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Altice-USA?utm_source=GHList&utm_medium=company">Altice USA</a></strong></td>
@@ -4505,7 +4505,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Data Analysis Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Cambridge, MA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">13d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">14d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/KeyCorp?utm_source=GHList&utm_medium=company">KeyCorp</a></strong></td>
