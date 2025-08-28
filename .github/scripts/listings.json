@@ -235090,7 +235090,7 @@
         "company_name": "Skyworks",
         "id": "ebc9f8ca-fd9a-48f1-8f2f-7f4471de3b61",
         "title": "Embedded Firmware-Summer/Fall Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -241669,6 +241669,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Anheuser-Busch",
+        "id": "044b97ad-ef32-48d4-b057-a1321529351e",
+        "title": "University Intern - Technology",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756420334,
+        "date_posted": 1756420334,
+        "url": "https://abinbev.wd1.myworkdayjobs.com/en-US/USA/job/St-Louis-Missouri/University-Intern---Technology_30087318",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Anheuser-Busch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
