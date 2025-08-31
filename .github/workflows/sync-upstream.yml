@@ -104,12 +104,14 @@ jobs:
 
             BEFORE_SHA=$(git rev-parse HEAD)
 
-            # Attempt fast-forward first; if not possible, do a merge commit
+            # Attempt fast-forward first; if not possible, abort and use local version
             if git merge --ff-only "upstream/${BRANCH}"; then
               echo "Fast-forwarded ${BRANCH}"
             else
-              echo "Fast-forward not possible for ${BRANCH}; performing a merge commit"
-              git merge --no-edit "upstream/${BRANCH}"
+              echo "Fast-forward not possible for ${BRANCH}; aborting and using local version"
+              git merge --abort
+              # Force push your local version
+              git push "https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git" "${BRANCH}" --force-with-lease
             fi
 
             AFTER_SHA=$(git rev-parse HEAD)
