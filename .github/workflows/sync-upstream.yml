@@ -238,12 +238,13 @@ jobs:
           name: email-body
           path: email/body.txt
 
-      - name: Check if there are new lines
+      - name: Check if there are new internships
         if: steps.check-for-upstream-changes.outputs.skip != 'true'
         id: newlines
         shell: bash
         run: |
-          if grep -qEv '^\s*$|^No new internship lines detected\.$' email/body.txt; then
+          # Check if the email body contains actual internship data (not just the header/footer)
+          if grep -q "🏢 COMPANY:" email/body.txt; then
             echo "has_new=true" >> $GITHUB_OUTPUT
           else
             echo "has_new=false" >> $GITHUB_OUTPUT
