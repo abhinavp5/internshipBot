@@ -158,7 +158,14 @@ jobs:
         run: |
           set -euo pipefail
           mkdir -p email
-          > email/body.txt
+          
+          # Create a nicely formatted email header
+          cat > email/body.txt << 'EOF'
+          🚀 NEW INTERNSHIP OPPORTUNITIES DETECTED! 🚀
+          
+          The following new internships have been added to the repository:
+          
+          EOF
 
           for patch in changes/patch-*.patch; do
             [ -f "$patch" ] || continue
@@ -170,16 +177,58 @@ jobs:
 
             if [ -n "$ADDED" ]; then
               {
-                echo "Branch: $BRANCH"
-                echo "New internship lines:"
-                echo "$ADDED"
+                echo "📋 BRANCH: $BRANCH"
+                echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+                echo ""
+                
+                # Process each added line to make it more readable
+                echo "$ADDED" | while IFS= read -r line; do
+                  # Skip empty lines
+                  [[ -z "$line" ]] && continue
+                  
+                  # If it's a table row, format it nicely
+                  if [[ "$line" =~ ^\|.*\|.*\|.*\|.*\| ]]; then
+                    # Extract company, role, location, and application link
+                    company=$(echo "$line" | awk -F'|' '{gsub(/^[[:space:]]+|[[:space:]]+$/, "", $2); print $2}' | sed 's/^\*\*//;s/\*\*$//')
+                    role=$(echo "$line" | awk -F'|' '{gsub(/^[[:space:]]+|[[:space:]]+$/, "", $3); print $3}')
+                    location=$(echo "$line" | awk -F'|' '{gsub(/^[[:space:]]+|[[:space:]]+$/, "", $4); print $4}')
+                    app_link=$(echo "$line" | awk -F'|' '{gsub(/^[[:space:]]+|[[:space:]]+$/, "", $5); print $5}')
+                    
+                    echo "🏢 COMPANY: $company"
+                    echo "💼 ROLE: $role"
+                    echo "📍 LOCATION: $location"
+                    echo "🔗 APPLICATION: $app_link"
+                    echo ""
+                  else
+                    # For non-table lines, just echo them
+                    echo "$line"
+                    echo ""
+                  fi
+                done
+                
+                echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
                 echo ""
               } >> email/body.txt
             fi
           done
 
-          if [ ! -s email/body.txt ]; then
-            echo "No new internship lines detected." > email/body.txt
+          # Add footer if no new internships were found
+          if [ ! -s email/body.txt ] || [ "$(wc -l < email/body.txt)" -le 4 ]; then
+            cat > email/body.txt << 'EOF'
+          📭 NO NEW INTERNSHIPS DETECTED
+          
+          No new internship opportunities were found in the latest sync.
+          Check back later for new opportunities!
+          
+          EOF
+          else
+            # Add footer for when internships were found
+            cat >> email/body.txt << 'EOF'
+          
+          💡 TIP: Apply early! These opportunities are fresh and competition is high.
+          
+          Good luck with your applications! 🎯
+          EOF
           fi
 
       - name: Upload email body artifact
