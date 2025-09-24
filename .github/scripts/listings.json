@@ -191423,7 +191423,7 @@
         "company_name": "Nissan Global",
         "id": "c82bed76-86f3-414a-90e7-03870ce02069",
         "title": "Supply Chain Management Analytics Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -208199,6 +208199,53 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Arconic",
+        "id": "18eb075f-53bd-4ad3-9fb1-02f0acd5e8a3",
+        "title": "Application Engineer Co-Op - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758737886,
+        "date_posted": 1758737886,
+        "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/113086",
+        "locations": [
+            "West Lafayette, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Arconic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Vernova",
+        "id": "88881e7e-16c3-4233-9c0c-efa7f1e0a44d",
+        "title": "Edison Research Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1758737922,
+        "date_posted": 1752623480,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-Advanced-Research---2026-Edison-Program-Internship_R5015953-1",
+        "locations": [
+            "Schenectady, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "Master's"
         ]
     }
