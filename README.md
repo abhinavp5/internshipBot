@@ -13564,7 +13564,7 @@
 <td>Data Analyst Intern</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://dowjones.wd1.myworkdayjobs.com/en-US/dow_jones_career/job/New-York-City/Summer-2026-Internship---Data-Analyst-Intern_Job_Req_48497?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Dicks-Sporting-Goods?utm_source=GHList&utm_medium=company">Dick's Sporting Goods</a></strong></td>
@@ -16419,10 +16419,10 @@
 <td>Quantitative Finance Associate 🎓</td>
 <td>7th Avenue, NY</td>
 <td><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/745-7th-Avenue-New-York/Quantitative-Finance-Associate-Summer-Internship-Program-2026-New-York_JR-0000071534?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Barclays?utm_source=GHList&utm_medium=company">Barclays</a></strong></td>
+<td>↳</td>
 <td>Quantitative Finance Associate 🎓 🛂</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://search.jobs.barclays/job/-/-/13015/85560168928?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
