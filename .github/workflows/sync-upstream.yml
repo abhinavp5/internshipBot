@@ -152,84 +152,44 @@ jobs:
             echo "" >> "$GITHUB_STEP_SUMMARY"
           done
 
-      - name: Extract new internship lines from README changes
+      - name: Check for listings.json changes
         if: steps.check-for-upstream-changes.outputs.skip != 'true'
+        id: check-listings
         shell: bash
         run: |
           set -euo pipefail
           mkdir -p email
           
-          # Create a nicely formatted email header
-          cat > email/body.txt << 'EOF'
-          🚀 NEW INTERNSHIP OPPORTUNITIES DETECTED! 🚀
+          HAS_LISTINGS_CHANGES=false
           
-          The following new internships have been added to the repository:
-          
-          EOF
-
           for patch in changes/patch-*.patch; do
             [ -f "$patch" ] || continue
             BRANCH=${patch#changes/patch-}
             BRANCH=${BRANCH%.patch}
 
-            # Extract added lines (+) in README files only, ignore table separators and images
-            ADDED=$(awk '/^\+\+\+ /{infile=$2} /^\+/{ if (infile ~ /README(.*)?\.md$/ && $0 !~ /^\+\+\+/) print }' "$patch" | sed 's/^+//' | grep -E "\S" | grep -vE '^\|\s*-+|^!\[|^<img' || true)
-
-            if [ -n "$ADDED" ]; then
-              {
-                echo "📋 BRANCH: $BRANCH"
-                echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-                echo ""
-                
-                # Process each added line to make it more readable
-                echo "$ADDED" | while IFS= read -r line; do
-                  # Skip empty lines
-                  [[ -z "$line" ]] && continue
-                  
-                  # If it's a table row, format it nicely
-                  if [[ "$line" =~ ^\|.*\|.*\|.*\|.*\| ]]; then
-                    # Extract company, role, location, and application link
-                    company=$(echo "$line" | awk -F'|' '{gsub(/^[[:space:]]+|[[:space:]]+$/, "", $2); print $2}' | sed 's/^\*\*//;s/\*\*$//')
-                    role=$(echo "$line" | awk -F'|' '{gsub(/^[[:space:]]+|[[:space:]]+$/, "", $3); print $3}')
-                    location=$(echo "$line" | awk -F'|' '{gsub(/^[[:space:]]+|[[:space:]]+$/, "", $4); print $4}')
-                    app_link=$(echo "$line" | awk -F'|' '{gsub(/^[[:space:]]+|[[:space:]]+$/, "", $5); print $5}')
-                    
-                    echo "🏢 COMPANY: $company"
-                    echo "💼 ROLE: $role"
-                    echo "📍 LOCATION: $location"
-                    echo "🔗 APPLICATION: $app_link"
-                    echo ""
-                  else
-                    # For non-table lines, just echo them
-                    echo "$line"
-                    echo ""
-                  fi
-                done
-                
-                echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-                echo ""
-              } >> email/body.txt
+            # Check if listings.json was modified AND has added/changed lines
+            if grep -q "^+++.*listings\.json" "$patch"; then
+              # Check if there are any added lines (+) or modified lines (@@) in listings.json
+              if grep -A 1000 "^+++.*listings\.json" "$patch" | grep -q "^+"; then
+                echo "listings.json changes with added/modified lines detected in branch: $BRANCH"
+                HAS_LISTINGS_CHANGES=true
+                break
+              fi
             fi
           done
-
-          # Add footer if no new internships were found
-          if [ ! -s email/body.txt ] || [ "$(wc -l < email/body.txt)" -le 4 ]; then
-            cat > email/body.txt << 'EOF'
-          📭 NO NEW INTERNSHIPS DETECTED
           
-          No new internship opportunities were found in the latest sync.
-          Check back later for new opportunities!
-          
-          EOF
+          if [ "$HAS_LISTINGS_CHANGES" = "true" ]; then
+            echo "has_listings_changes=true" >> $GITHUB_OUTPUT
+            echo "listings.json changes with additions detected, will call Python script"
           else
-            # Add footer for when internships were found
-            cat >> email/body.txt << 'EOF'
-          
-          💡 TIP: Apply early! These opportunities are fresh and competition is high.
-          
-          Good luck with your applications! 🎯
-          EOF
+            echo "has_listings_changes=false" >> $GITHUB_OUTPUT
+            echo "No listings.json additions/changes detected"
           fi
+
+      - name: Call Python script for new opportunities
+        if: steps.check-for-upstream-changes.outputs.skip != 'true' && steps.check-listings.outputs.has_listings_changes == 'true'
+        run: |
+          python3 new_opps.py
 
       - name: Upload email body artifact
         if: steps.check-for-upstream-changes.outputs.skip != 'true'
@@ -239,19 +199,19 @@ jobs:
           path: email/body.txt
 
       - name: Check if there are new internships
-        if: steps.check-for-upstream-changes.outputs.skip != 'true'
+        if: steps.check-for-upstream-changes.outputs.skip != 'true' && steps.check-listings.outputs.has_listings_changes == 'true'
         id: newlines
         shell: bash
         run: |
-          # Check if the email body contains actual internship data (not just the header/footer)
-          if grep -q "🏢 COMPANY:" email/body.txt; then
+          # Check if the Python script created an email body with new opportunities
+          if [ -f "email/body.txt" ] && grep -q "🏢 COMPANY:" email/body.txt; then
             echo "has_new=true" >> $GITHUB_OUTPUT
           else
             echo "has_new=false" >> $GITHUB_OUTPUT
           fi
 
       - name: Load email body into env
-        if: steps.check-for-upstream-changes.outputs.skip != 'true'
+        if: steps.check-for-upstream-changes.outputs.skip != 'true' && steps.check-listings.outputs.has_listings_changes == 'true'
         shell: bash
         run: |
           EMAIL_BODY="$(cat email/body.txt)"
@@ -262,7 +222,7 @@ jobs:
           } >> "$GITHUB_ENV"
 
       - name: Send email with changes (SMTP)
-        if: steps.check-for-upstream-changes.outputs.skip != 'true' && steps.newlines.outputs.has_new == 'true'
+        if: steps.check-for-upstream-changes.outputs.skip != 'true' && steps.check-listings.outputs.has_listings_changes == 'true' && steps.newlines.outputs.has_new == 'true'
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: smtp.gmail.com
@@ -278,7 +238,7 @@ jobs:
           body: ${{ env.EMAIL_BODY }}
 
       - name: Print email body (for logs)
-        if: always() && steps.check-for-upstream-changes.outputs.skip != 'true'
+        if: always() && steps.check-for-upstream-changes.outputs.skip != 'true' && steps.check-listings.outputs.has_listings_changes == 'true'
         shell: bash
         run: |
           echo "Email body:" && cat email/body.txt
