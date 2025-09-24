@@ -126863,7 +126863,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9d257cdf-efe6-4ac9-b1f0-5ed5e11826f0",
         "title": "Quantitative Systematic Trading Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -136000,7 +136000,7 @@
         "company_name": "General Dynamics UK",
         "id": "b87e2353-babd-4d9b-bb00-db68fc13a8de",
         "title": "Co-op - Software Development and Test",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -136023,7 +136023,7 @@
         "company_name": "General Dynamics UK",
         "id": "8e4588bd-686b-4725-a852-9fcfe4a64c9d",
         "title": "Co-op - Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -136069,7 +136069,7 @@
         "company_name": "General Dynamics UK",
         "id": "7d7d8281-6e4f-4f56-8ee6-013f574bbb49",
         "title": "Co-op - Embedded Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -136092,7 +136092,7 @@
         "company_name": "General Dynamics UK",
         "id": "6edd936f-76a2-488b-bab8-11395e2a2f65",
         "title": "Co-op - Software/Systems Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -174551,7 +174551,7 @@
         "company_name": "FM Global",
         "id": "302bca3a-bec3-422d-90ce-13c40c032cab",
         "title": "Identity Services Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
