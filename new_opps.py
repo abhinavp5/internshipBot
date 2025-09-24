@@ -46,40 +46,77 @@ def extract_added_lines_from_patch(patch_file: str) -> List[str]:
 
 def parse_json_from_lines(lines: List[str]) -> Dict[str, Any]:
     """Parse JSON content from a list of lines."""
+    if not lines:
+        return {}
+    
     try:
-        # Join lines and try to parse as JSON
-        json_content = ''.join(lines)
-        return json.loads(json_content)
-    except json.JSONDecodeError:
-        # If full JSON parsing fails, try to extract individual entries
+        # Clean up the lines and try to reconstruct a valid JSON object
+        cleaned_lines = []
+        for line in lines:
+            line = line.strip()
+            if line and not line.startswith('@@'):
+                cleaned_lines.append(line)
+        
+        if not cleaned_lines:
+            return {}
+        
+        # Try to reconstruct the JSON by wrapping in braces and fixing syntax
+        json_content = ''.join(cleaned_lines)
+        
+        # Remove trailing commas
+        json_content = json_content.rstrip(',')
+        
+        # If it doesn't start with {, wrap it
+        if not json_content.strip().startswith('{'):
+            json_content = '{' + json_content + '}'
+        
+        # Try to parse the reconstructed JSON
+        parsed = json.loads(json_content)
+        return parsed
+        
+    except json.JSONDecodeError as e:
+        print(f"JSON parsing failed: {e}")
+        print(f"Attempted to parse: {json_content[:200]}...")
+        
+        # Fallback: try to extract individual company entries manually
         entries = {}
+        current_company = None
         current_entry = []
         brace_count = 0
         
-        for line in lines:
+        for line in cleaned_lines:
             line = line.strip()
             if not line:
                 continue
-                
-            current_entry.append(line)
             
-            # Count braces to detect complete JSON objects
-            brace_count += line.count('{') - line.count('}')
-            
-            # If we have a complete object, try to parse it
-            if brace_count == 0 and current_entry:
-                try:
-                    entry_json = json.loads(''.join(current_entry))
-                    # Extract company name from the entry if possible
-                    if isinstance(entry_json, dict):
-                        # This is a simplified approach - in reality, you'd need to
-                        # reconstruct the full JSON structure properly
+            # Check if this is a company name line
+            if line.endswith(': [') and '"' in line:
+                if current_company and current_entry:
+                    # Try to parse the previous company's entries
+                    try:
+                        entry_json = json.loads('[' + ''.join(current_entry) + ']')
+                        entries[current_company] = entry_json
+                    except json.JSONDecodeError:
                         pass
-                except json.JSONDecodeError:
-                    pass
+                
+                # Start new company
+                current_company = line.split('"')[1] if '"' in line else None
                 current_entry = []
+                continue
+            
+            if current_company:
+                current_entry.append(line)
         
-        return {}
+        # Don't forget the last company
+        if current_company and current_entry:
+            try:
+                entry_json = json.loads('[' + ''.join(current_entry) + ']')
+                entries[current_company] = entry_json
+            except json.JSONDecodeError:
+                pass
+        
+        return entries
+        
     except Exception as e:
         print(f"Error parsing JSON from lines: {e}")
         return {}
