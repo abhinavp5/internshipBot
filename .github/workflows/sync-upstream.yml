@@ -104,13 +104,15 @@ jobs:
 
             BEFORE_SHA=$(git rev-parse HEAD)
 
-            # Attempt fast-forward first; if not possible, use local version
-            if git merge --ff-only "upstream/${BRANCH}"; then
-              echo "Fast-forwarded ${BRANCH}"
+            # Merge upstream changes into local branch
+            if git merge "upstream/${BRANCH}" --no-edit; then
+              echo "Successfully merged upstream/${BRANCH} into ${BRANCH}"
             else
-              echo "Fast-forward not possible for ${BRANCH}; using local version"
-              # Force push your local version
-              git push "https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git" "${BRANCH}" --force-with-lease
+              echo "Merge conflict detected in ${BRANCH}, resolving automatically"
+              # Resolve conflicts by preferring upstream version
+              git checkout --theirs .
+              git add .
+              git commit -m "Resolve merge conflicts by accepting upstream changes"
             fi
 
             AFTER_SHA=$(git rev-parse HEAD)
