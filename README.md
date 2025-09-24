@@ -12111,11 +12111,11 @@
 <td>11d</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Corteva Agriscience</strong></td>
 <td>Agronomic Data Science & Pathology Intern 🎓 🛂</td>
 <td>Indianapolis, IN</br>Des Moines, IA</td>
 <td><div align="center"><a href="https://corteva.wd5.myworkdayjobs.com/en-US/ctp/job/Des-Moines-Iowa-United-States/Agronomic-Data-Science---Pathology-Intern_243100W-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0900a42f-dccc-48cd-9211-71d17135e1d7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong>Ketjen</strong></td>
