@@ -108156,7 +108156,7 @@
         "company_name": "OneMain Financial",
         "id": "4fdf538d-216b-420b-b185-938552d4e348",
         "title": "Analytics Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -143124,7 +143124,7 @@
         "company_name": "Qualcomm",
         "id": "dda95b0c-7463-4a39-9ff2-d1241bea2ba2",
         "title": "Embedded Engineering Internship - Interim Engineering Intern - SW",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -143199,7 +143199,7 @@
         "company_name": "Qualcomm",
         "id": "a084eb80-7d00-480c-a9f3-5d04a91c0b29",
         "title": "Software Engineering Internship - Interim Engineering Intern - SW",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -143298,7 +143298,7 @@
         "company_name": "Qualcomm",
         "id": "08ae34f4-279a-44df-826e-18f690d92f56",
         "title": "Information Technology \u2013 Internship - IT - Interim Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -146814,7 +146814,7 @@
         "company_name": "Meta",
         "id": "fbac3f66-5aa0-421d-987f-1ae64079d428",
         "title": "Research Scientist Intern - Neural Rendering and Split-Compute Systems - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -150495,7 +150495,7 @@
         "company_name": "FleetPulse",
         "id": "b2e85f41-3627-4cdf-aaa0-bfe1fe292880",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2026"
@@ -190109,7 +190109,7 @@
         "company_name": "Kinaxis",
         "id": "9766015b-3444-4d2a-a335-c41da8c83552",
         "title": "Co-op/Intern Developer - Back End Technologies",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -197638,7 +197638,7 @@
         "company_name": "The Federal Reserve System",
         "id": "d782edff-f7ae-479e-9062-3886bfc061f3",
         "title": "2026 Summer Intern - Technology Group - Junior",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -208266,6 +208266,52 @@
             "Burlington, VT"
         ],
         "company_url": "https://simplify.jobs/c/NuHarborSecurity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "OATEY",
+        "id": "d7f31675-62ec-496e-ab56-04ccdd6cf791",
+        "title": "Product Management Intern - Product Management",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758749997,
+        "date_posted": 1758749997,
+        "url": "https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Cleveland-OH-Headquarters/Product-Management-Intern_R6564",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/OATEY",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Cisco",
+        "id": "de61abfa-c8c4-4fc6-a865-08f0923b1031",
+        "title": "Product Management Specialist 1 Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758751281,
+        "date_posted": 1758751281,
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Product-Management-Specialist-I-Intern-United-States/1448055",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
