@@ -172020,7 +172020,7 @@
         "company_name": "Legrand NA",
         "id": "f12c4439-da73-4544-9abe-313c848354d9",
         "title": "Firmware Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -174551,7 +174551,7 @@
         "company_name": "FM Global",
         "id": "302bca3a-bec3-422d-90ce-13c40c032cab",
         "title": "Identity Services Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -174575,7 +174575,7 @@
         "company_name": "FM Global",
         "id": "0ce0eba4-b10d-48ec-b66f-1cd3bede9a6b",
         "title": "Software Engineering Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -183445,7 +183445,7 @@
         "company_name": "American Structurepoint",
         "id": "d8c8e890-ea70-4928-9246-5165a69dbb2b",
         "title": "IT Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -184094,7 +184094,7 @@
         "company_name": "GTS",
         "id": "8dc43d91-2248-4ee8-823a-09acbfea5453",
         "title": "Quantitative Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -207713,5 +207713,91 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Constellation Brands",
+        "id": "3a833108-0e8b-460e-8bfd-1b8662cf1a9c",
+        "title": "Intern - Automation - Process & Transformation - RPA",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758691428,
+        "date_posted": 1758691428,
+        "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Automation--Process---Transformation--RPA-_R-38380",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Constellation-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "date_updated": 1758692580,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00285547_en&title=Technology+Summer+Analyst+-+NAELFY26",
+        "company_name": "Accenture",
+        "title": "Technology Analyst",
+        "locations": [
+            "Chicago, IL",
+            "Arlington, VA",
+            "Atlanta, GA",
+            "Austin, TX",
+            "Boston, MA",
+            "Charlotte, NC",
+            "Houston, TX",
+            "Irving, TX",
+            "Los Angeles, CA",
+            "Morristown, NJ",
+            "New York City, NY",
+            "Philadelphia, PA",
+            "San Francisco, CA",
+            "Seattle, WA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "58507aa1-eb64-4a9c-953c-2ea12b04dd83",
+        "date_posted": 1758692580,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758692712,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://jobs.lever.co/kitware/02f29045-428c-43f3-8fd6-8d674f3713ab",
+        "company_name": "Kitware",
+        "title": "Natural Language Processing Research Internship",
+        "locations": [
+            "Clifton Park, NY"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Winter 2026",
+            "Spring 2026",
+            "Fall 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "f3f0dae8-1cef-4b03-beda-5863332368e2",
+        "date_posted": 1758692712,
+        "company_url": "",
+        "is_visible": true
     }
 ]
