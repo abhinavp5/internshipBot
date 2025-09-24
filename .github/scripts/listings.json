@@ -112438,7 +112438,7 @@
         "company_name": "Meta",
         "id": "63c2dba9-dfdb-4cbe-b33a-74cb419ed766",
         "title": "Research Scientist Intern - Computational Optics & Optimization - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -152788,7 +152788,7 @@
         "company_name": "Meta",
         "id": "b4ca9c62-9e9f-4667-ac2d-4243366cff24",
         "title": "Research Scientist Intern - Switchable Optical Devices - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
