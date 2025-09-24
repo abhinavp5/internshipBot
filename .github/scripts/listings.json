@@ -144782,7 +144782,7 @@
         "company_name": "Qualcomm",
         "id": "edec5f96-0a62-4833-9ed3-7753cf61bf78",
         "title": "Product Management Internship - Interim Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -182924,7 +182924,7 @@
         "company_name": "Zurich Insurance",
         "id": "b298b13c-8bab-4796-981e-9daeb4c22942",
         "title": "IT Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -193562,7 +193562,7 @@
         "company_name": "Motorola",
         "id": "0fd0c5f8-7c78-40b6-835d-6b9d2965f435",
         "title": "Co-Op \u2013 Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
