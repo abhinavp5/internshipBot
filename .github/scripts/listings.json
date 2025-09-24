@@ -176094,7 +176094,7 @@
         "company_name": "Shure",
         "id": "94103e1a-3f83-48bb-9369-b8c91872490b",
         "title": "Data Driven Sustainability Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -188783,7 +188783,7 @@
         "company_name": "General Dynamics UK",
         "id": "ac430c03-8f03-4a85-b704-fb535db372be",
         "title": "Co-op - Software Engineering Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -208247,6 +208247,29 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "NuHarbor Security",
+        "id": "9a302368-1842-4750-9165-9d32020dc984",
+        "title": "Intern - Cybersecurity",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758746099,
+        "date_posted": 1758746099,
+        "url": "https://www.nuharborsecurity.com/careers?gh_jid=7256174",
+        "locations": [
+            "Burlington, VT"
+        ],
+        "company_url": "https://simplify.jobs/c/NuHarborSecurity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
