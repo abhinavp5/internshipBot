@@ -141479,7 +141479,7 @@
         "company_name": "Oshkosh",
         "id": "52000689-3cd5-44c6-ae16-c836a023a002",
         "title": "Digital Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -167449,7 +167449,7 @@
         "company_name": "Ciena",
         "id": "6f590b2b-f591-4358-b9e8-a43b66e41f76",
         "title": "Automation Tools Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -192309,7 +192309,7 @@
         "company_name": "Quanta Services",
         "id": "6093c885-9c3a-4ab8-8d8b-eb2e398d31e0",
         "title": "Information Technology Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
