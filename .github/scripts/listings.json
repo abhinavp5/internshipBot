@@ -107814,7 +107814,7 @@
         "company_name": "Nuro",
         "id": "ee4d3442-846c-47b6-92ac-14448b24e980",
         "title": "Systems Engineering Intern - Scenario Taxonomy",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -109354,7 +109354,7 @@
         "company_name": "Walmart",
         "id": "e9c858c3-bc85-4c52-9fc1-0d42544907cd",
         "title": "2025 Intern Conversion: 2026 FT Software Engineer II",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -113443,7 +113443,7 @@
         "company_name": "TikTok",
         "id": "362a0ac9-188d-4372-b066-0bee0060f17c",
         "title": "Machine Learning Engineer Intern - E-commerce-Recommendation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -141712,7 +141712,7 @@
         "company_name": "Grant Thornton",
         "id": "16f65203-a923-4339-a11e-39caf6413bab",
         "title": "Audit IT Assurance Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -208316,6 +208316,56 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "3bdc1c10-38aa-4641-ad32-0387b07eccc5",
+        "title": "Research Intern - Robot Learning",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1758752296,
+        "date_posted": 1758752296,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1882694",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rocket Lab USA",
+        "id": "29fd480a-c96c-4707-ad7c-d70ff628bf3b",
+        "title": "Software Intern Spring 2026",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1758751973,
+        "date_posted": 1758751973,
+        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7447691003",
+        "locations": [
+            "Littleton, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
