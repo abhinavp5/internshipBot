@@ -177767,7 +177767,7 @@
         "company_name": "W.R. Berkley",
         "id": "183873ef-c292-4e5e-816e-4777686fefc7",
         "title": "Quantitative Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -188124,7 +188124,7 @@
         "company_name": "Rolls Royce",
         "id": "fa923e5a-5620-47b7-bd65-051da5ad16b4",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -201314,8 +201314,8 @@
             "Summer 2026"
         ],
         "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "6424f6a6-0c50-4d17-b235-3a458cf3563d",
+        "source": "Simplify",
+        "id": "cbc3645d-b022-432b-bfc5-7e75b03af682",
         "date_posted": 1758523885,
         "company_url": "",
         "is_visible": true
@@ -207560,6 +207560,85 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "e9d4dd36-b3c4-467b-8295-65693e57f10c",
+        "title": "Product Manager Intern - Creative Product - Monetization",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1758688407,
+        "date_posted": 1758688407,
+        "url": "https://lifeattiktok.com/search/7553434302518003976",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "42e6a543-4758-4ee1-ba91-cb9ca9113ccf",
+        "title": "Product Manager Intern - Brand Effectiveness - Monetization Product",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1758688409,
+        "date_posted": 1758688409,
+        "url": "https://lifeattiktok.com/search/7552972859305265415",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ASML",
+        "id": "12a07f92-564e-4b12-9e05-271308f25d29",
+        "title": "Co-op System Integration Engineer \u2013 Internship - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1758687734,
+        "date_posted": 1758223589,
+        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Co-op-System-Integration-Engineer---Spring-2026--Internship-_J-00324009",
+        "locations": [
+            "Wilton, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/ASML",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
