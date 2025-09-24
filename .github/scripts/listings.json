@@ -166513,7 +166513,7 @@
         "company_name": "NextEra Energy",
         "id": "842b6aab-5092-4c94-b278-302a32690b2c",
         "title": "IT Power Delivery Analyst \u2013 College Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -208146,6 +208146,30 @@
             "Quincy, MA"
         ],
         "company_url": "https://simplify.jobs/c/State-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Arconic",
+        "id": "935261d0-9072-4056-a500-415ec1c29595",
+        "title": "Data Engineering Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758712539,
+        "date_posted": 1758712539,
+        "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/113177",
+        "locations": [
+            "Tarentum, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Arconic",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
