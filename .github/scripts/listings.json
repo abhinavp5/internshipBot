@@ -113823,7 +113823,7 @@
         "company_name": "TikTok",
         "id": "e007b472-502b-4768-aacc-1dc8fef84704",
         "title": "Machine Learning Scientist Intern - Tiktok-Recommendation - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -198653,7 +198653,7 @@
         "company_name": "Moog ",
         "id": "b05d5a20-3e38-4841-aff6-ea7f05040025",
         "title": "Intern - Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -207689,6 +207689,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "28de4cbe-8176-4f3a-99a7-7c425d58234b",
+        "title": "Research Scientist Intern - AI & System Co-Design",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758690863,
+        "date_posted": 1758690863,
+        "url": "https://www.metacareers.com/jobs/1859723961565682",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
