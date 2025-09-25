@@ -134,63 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Shamrock Trading",
-        "id": "5fe00066-f3ec-42e1-b9c7-e82846f10958",
-        "title": "Software Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1727723362,
-        "date_posted": 1727723362,
-        "url": "https://jobs.jobvite.com/shamrock/job/owFAufwZ?nl=1&nl=1&fr=false",
-        "locations": [
-            "Overland Park, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/Shamrock-Trading",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Rivian",
-        "id": "76f0d6c2-9929-435d-ad5d-2d27fb914638",
-        "title": "Data Science \u2013 & Analytics Internship - Engineering - Summer 2025",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1727724075,
-        "date_posted": 1727724075,
-        "url": "https://careers.rivian.com/jobs/19371?lang=en-us&icims=1",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Rivian",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Rivian",
-        "id": "d5b4fc9d-d3fe-4bb8-b1d6-1928f5e0daa3",
-        "title": "Embedded Software/Firmware Internship - Summer 2025",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1727724045,
-        "date_posted": 1727724045,
-        "url": "https://careers.rivian.com/jobs/19368?lang=en-us&icims=1",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Rivian",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Rivian",
         "id": "63154598-ad12-433e-9fb8-44f165c03446",
         "title": "Software Engineering Internship - Summer 2025",
@@ -173538,7 +173481,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "57a601ba-c424-4324-8a40-7e650c4ee70a",
         "title": "Rotational Cybersecurity Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Spring 2026",
@@ -176244,7 +176187,7 @@
         "company_name": "RoviSys",
         "id": "3cdc75c9-e302-471d-9aa2-12e38b885f5b",
         "title": "Co-op \u2013 Spring 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
