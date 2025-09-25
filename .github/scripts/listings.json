@@ -172519,7 +172519,7 @@
         "company_name": "W.R. Berkley",
         "id": "772e84bd-7eb3-4373-b29b-8fad617ae11c",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -209565,6 +209565,78 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lennox International",
+        "id": "40074c92-54c6-4093-be51-301494ae1f7b",
+        "title": "IT Business Systems Analyst Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758775316,
+        "date_posted": 1758775316,
+        "url": "https://uscareers-lennox.icims.com/jobs/50057/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Lennox-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Enova",
+        "id": "20ad1eac-3efe-41d7-a1f3-cfedd8037f87",
+        "title": "Software Engineer Intern/Co-op - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758776596,
+        "date_posted": 1758776596,
+        "url": "https://job-boards.greenhouse.io/enova/jobs/7270805",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Enova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "5c702b1a-49cc-412f-81c9-206433361114",
+        "title": "Intern - Engineer - Embedded",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758776121,
+        "date_posted": 1758776121,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Intern---ENG---DEG-EMBEDDED---PE_JR83301",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
