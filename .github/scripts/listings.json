@@ -183727,7 +183727,7 @@
         "company_name": "Wipfli",
         "id": "2475f313-954b-4b78-a5e7-4875eda6037b",
         "title": "Cybersecurity Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -210820,6 +210820,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "56b93bcb-c492-46c0-ac25-2573ac74469f",
+        "title": "Embedded Software Engineering Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758824793,
+        "date_posted": 1758824793,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Embedded-Software-Engineering-Intern--Summer-2026---Onsite-_01792040",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
