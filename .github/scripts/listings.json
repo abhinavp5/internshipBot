@@ -174518,7 +174518,7 @@
         "company_name": "FM Global",
         "id": "0ce0eba4-b10d-48ec-b66f-1cd3bede9a6b",
         "title": "Software Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -184037,7 +184037,7 @@
         "company_name": "GTS",
         "id": "8dc43d91-2248-4ee8-823a-09acbfea5453",
         "title": "Quantitative Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
