@@ -128558,7 +128558,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756303435,
+        "date_updated": 1758835786,
         "sponsorship": "Other",
         "active": true,
         "degrees": [
@@ -128578,7 +128578,7 @@
         "id": "d04060a8-4131-4a9b-8c4a-e0551690708f",
         "date_posted": 1756303435,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756304916,
@@ -210960,6 +210960,33 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Google",
+        "id": "272037d1-e4a3-4ca7-9b6f-c81da333d3c1",
+        "title": "Associate Product Manager Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758835273,
+        "date_posted": 1758835273,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/110796638720533190-associate-product-manager-intern",
+        "locations": [
+            "SF",
+            "San Bruno, CA",
+            "NYC",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
