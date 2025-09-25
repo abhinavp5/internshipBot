@@ -172500,7 +172500,7 @@
         "company_name": "W.R. Berkley",
         "id": "772e84bd-7eb3-4373-b29b-8fad617ae11c",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -177710,7 +177710,7 @@
         "company_name": "W.R. Berkley",
         "id": "183873ef-c292-4e5e-816e-4777686fefc7",
         "title": "Quantitative Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -190857,7 +190857,7 @@
         "company_name": "NextEra Energy",
         "id": "7b7a4e19-68ca-4baf-8c1b-28a29628217d",
         "title": "IT AI Solutions Analyst \u2013 College Intern - Power Generation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -201993,9 +201993,9 @@
         "title": "Software Engineer - Application Development Intern/Co-op - Quantitative Research",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758657607,
+        "date_updated": 1758791643,
         "date_posted": 1758657607,
         "url": "https://job-boards.greenhouse.io/bracebridgecapital/jobs/4601203005",
         "locations": [
@@ -202005,7 +202005,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -204101,9 +204101,9 @@
         "title": "Application Engineer Intern - Marketing",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758597872,
+        "date_updated": 1758791625,
         "date_posted": 1758597872,
         "url": "https://eaton.eightfold.ai/careers/job/687232641662",
         "locations": [
@@ -206383,7 +206383,7 @@
         "company_name": "W.R. Berkley",
         "id": "0c7562e6-7d8e-4ada-b934-9b6bdd000c2f",
         "title": "Intern \u2013 Software Developer - Reactjs",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -207137,9 +207137,9 @@
         "title": "AI Applied Scientist Intern - Foundational IQ",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758681733,
+        "date_updated": 1758791215,
         "date_posted": 1758681733,
         "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Foundational-IQ_P748042",
         "locations": [
@@ -207149,7 +207149,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Master's"
         ]
     },
     {
@@ -207487,9 +207487,9 @@
         "title": "AI Scientist Co-op - Artificial Intelligence - Multiple Teams",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758683336,
+        "date_updated": 1758791231,
         "date_posted": 1758683336,
         "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-Scientist-Co-op_2522108",
         "locations": [
@@ -207499,8 +207499,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -207640,9 +207639,9 @@
         "title": "Research Scientist Intern - AI & System Co-Design",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758690863,
+        "date_updated": 1758791257,
         "date_posted": 1758690863,
         "url": "https://www.metacareers.com/jobs/1859723961565682",
         "locations": [
@@ -207652,7 +207651,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Master's"
         ]
     },
     {
@@ -207955,10 +207954,9 @@
         "title": "Software Development and AI Intern - Co-op - R&D - AI",
         "active": true,
         "terms": [
-            "Fall 2025",
-            "Winter 2026"
+            "Summer 2026"
         ],
-        "date_updated": 1758694403,
+        "date_updated": 1758791276,
         "date_posted": 1758694403,
         "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/British-Columbia-Canada/Software-Development---AI-Intern--Co-op-_R0032206",
         "locations": [
@@ -207968,8 +207966,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -208003,9 +208000,9 @@
         "title": "Research Intern - Research - Analytics",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758694887,
+        "date_updated": 1758791314,
         "date_posted": 1758694887,
         "url": "https://ideas-sas.icims.com/jobs/40105/job?mobile=true&needsRedirect=false",
         "locations": [
@@ -208015,7 +208012,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -208026,9 +208023,9 @@
         "title": "HPC/AI Software Engineering Intern - Multiple Teams",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758694797,
+        "date_updated": 1758791295,
         "date_posted": 1758694797,
         "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/HPC-AI-Software-Engineering-Intern_1192979",
         "locations": [
@@ -208041,8 +208038,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's",
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -208412,9 +208408,9 @@
         "title": "Intern Engineer - Software Engineering",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758753795,
+        "date_updated": 1758790685,
         "date_posted": 1758753795,
         "url": "https://careers-gdms.icims.com/jobs/68062/job?mobile=true&needsRedirect=false",
         "locations": [
@@ -209002,9 +208998,9 @@
         "title": "Data Engineer Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758763553,
+        "date_updated": 1758791457,
         "date_posted": 1758763553,
         "url": "https://jobs.cisco.com/jobs/ProjectDetail/Data-Engineer-Intern-United-States/1450134",
         "locations": [
@@ -209357,9 +209353,9 @@
         "title": "Autonomy Engineer Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758771503,
+        "date_updated": 1758790452,
         "date_posted": 1758771503,
         "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Pittsburgh-Pennsylvania-United-States/Autonomy-Engineer-Intern_R41050",
         "locations": [
@@ -209369,8 +209365,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -209553,9 +209548,9 @@
         "title": "IT Business Systems Analyst Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758775316,
+        "date_updated": 1758790469,
         "date_posted": 1758775316,
         "url": "https://uscareers-lennox.icims.com/jobs/50057/job?mobile=true&needsRedirect=false",
         "locations": [
@@ -209565,8 +209560,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -209649,9 +209643,9 @@
         "title": "Cybersecurity Intern - Cyber Defense",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758778280,
+        "date_updated": 1758790492,
         "date_posted": 1758778280,
         "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Cybersecurity-Intern_R41405",
         "locations": [
@@ -209748,9 +209742,9 @@
         "title": "Co-Op \u2013 Reporting Analyst - Service Design Tools & Infrastructure",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758779619,
+        "date_updated": 1758790513,
         "date_posted": 1758779619,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Co-Op---Reporting-Analyst_R57983",
         "locations": [
@@ -209794,9 +209788,9 @@
         "title": "Data Scientist Intern - Service Design Tools & Infrastructure",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758779617,
+        "date_updated": 1758791476,
         "date_posted": 1758779617,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Co-Op----Data-Scientist_R57991",
         "locations": [
@@ -209806,8 +209800,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -209818,9 +209811,9 @@
         "title": "Software Engineering Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758780743,
+        "date_updated": 1758790532,
         "date_posted": 1758780743,
         "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/2028834",
         "locations": [
@@ -209913,9 +209906,9 @@
         "title": "Associate Software Engineer \u2013 Intern to Full-Time Conversion - Corporate Functions IT",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758781284,
+        "date_updated": 1758790554,
         "date_posted": 1758781284,
         "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Findlay-Ohio/Associate-Software-Engineer--Intern-to-Full-Time-Conversion-_00018663",
         "locations": [
@@ -209936,9 +209929,9 @@
         "title": "Co-op/Intern Developer - AI/ML",
         "active": true,
         "terms": [
-            "Winter 2026"
+            "Summer 2026"
         ],
-        "date_updated": 1758782490,
+        "date_updated": 1758791521,
         "date_posted": 1758782490,
         "url": "https://careers-kinaxis.icims.com/jobs/33751/job?mobile=true&needsRedirect=false",
         "locations": [
@@ -209948,8 +209941,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -209983,9 +209975,9 @@
         "title": "Intern \u2013 Memory Solution Research Engineer",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758782287,
+        "date_updated": 1758791504,
         "date_posted": 1758782287,
         "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7477264003",
         "locations": [
@@ -209995,7 +209987,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -210053,9 +210045,9 @@
         "title": "Product Engineer Intern - Product Engineering",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758784650,
+        "date_updated": 1758790574,
         "date_posted": 1758784650,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External/job/OR---Bend/Product-Engineer-Internship_R1664-25",
         "locations": [
@@ -210065,8 +210057,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -210151,9 +210142,9 @@
         "title": "Information Security Risk and Compliance Intern - Information Security - Governance, Risk, and Compliance",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758784917,
+        "date_updated": 1758791661,
         "date_posted": 1758784917,
         "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---Virginia/Information-Security-Risk-and-Compliance-Intern_JR-118267",
         "locations": [
@@ -210163,8 +210154,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -210246,10 +210236,9 @@
         "title": "Network Design Specialist Intern - Data Communications",
         "active": true,
         "terms": [
-            "Winter 2026",
-            "Spring 2026"
+            "Summer 2026"
         ],
-        "date_updated": 1758787184,
+        "date_updated": 1758790590,
         "date_posted": 1758787184,
         "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Network-Design-Specialist-Intern_R1010582",
         "locations": [
@@ -210259,8 +210248,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -210271,10 +210259,9 @@
         "title": "AI Engineering Intern - AI Products",
         "active": true,
         "terms": [
-            "Fall 2025",
-            "Winter 2026"
+            "Summer 2026"
         ],
-        "date_updated": 1758786766,
+        "date_updated": 1758791537,
         "date_posted": 1758786766,
         "url": "https://job-boards.greenhouse.io/snackpass/jobs/5658489004",
         "locations": [
@@ -210284,9 +210271,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
