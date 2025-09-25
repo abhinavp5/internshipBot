@@ -109354,7 +109354,7 @@
         "company_name": "Walmart",
         "id": "e9c858c3-bc85-4c52-9fc1-0d42544907cd",
         "title": "2025 Intern Conversion: 2026 FT Software Engineer II",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -145280,7 +145280,7 @@
         "company_name": "RSM",
         "id": "37cd9fd0-637d-4867-986d-8da4767fc7eb",
         "title": "Cyber Testing Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -171759,7 +171759,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "cc75ebb7-54af-4871-9b94-08788b84063b",
         "title": "Quantitative Systematic Trading Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -172557,7 +172557,7 @@
         "company_name": "W.R. Berkley",
         "id": "772e84bd-7eb3-4373-b29b-8fad617ae11c",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -176283,7 +176283,7 @@
         "company_name": "Shure",
         "id": "41e961cd-8b3a-4677-8ec0-ed14cd640d75",
         "title": "Mobile Applications \u2013 Intern - Android",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -176398,7 +176398,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ad8b1567-30c9-4093-b10b-395eb58e0e33",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -176470,7 +176470,7 @@
         "company_name": "RoviSys",
         "id": "d7e5e1b2-17a9-4450-b6a8-a0afe51426eb",
         "title": "Co-op \u2013 Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -177767,7 +177767,7 @@
         "company_name": "W.R. Berkley",
         "id": "183873ef-c292-4e5e-816e-4777686fefc7",
         "title": "Quantitative Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -182150,7 +182150,7 @@
         "company_name": "Steel Dynamics",
         "id": "f2f4ab79-4acb-49c6-a5aa-a0bb34703745",
         "title": "Software Development Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -183445,7 +183445,7 @@
         "company_name": "American Structurepoint",
         "id": "d8c8e890-ea70-4928-9246-5165a69dbb2b",
         "title": "IT Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -190537,7 +190537,7 @@
         "company_name": "Origami Risk",
         "id": "f2bd20e3-71f7-4a4b-b5f5-7bef4208fe2a",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -198490,7 +198490,7 @@
         "company_name": "RTX",
         "id": "38d5c1a9-e228-4254-a4e5-236221616261",
         "title": "Electrical Engineering Intern - Hardware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -199961,7 +199961,7 @@
         "company_name": "Oshkosh",
         "id": "f64eaf13-bbff-486b-a823-bf6f876e8a0f",
         "title": "Product AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -203361,7 +203361,7 @@
         "company_name": "Autodesk",
         "id": "df82d04c-ffea-4b77-864d-eaed0415073a",
         "title": "Intern - Product Manager - DPI Finance",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -206583,9 +206583,10 @@
         "title": "Research Scientist Intern - AI & Systems Co-Design - Multiple Teams",
         "active": true,
         "terms": [
-            "Summer 2026"
+            "Fall 2025",
+            "Winter 2025"
         ],
-        "date_updated": 1758757581,
+        "date_updated": 1758673662,
         "date_posted": 1758673662,
         "url": "https://www.metacareers.com/jobs/1131500971757201",
         "locations": [
@@ -206595,7 +206596,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's"
+            "PhD"
         ]
     },
     {
@@ -208762,6 +208763,201 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Applied Materials",
+        "id": "f5ad28b4-f1e5-4eee-9a03-099b0f11d742",
+        "title": "Embedded Firmware Intern/Co-op - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1758757574,
+        "date_posted": 1758757574,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/RochesterNY/XMLNAME-2026-Spring-Embedded-Firmware-Co-Op---Bachelor-s--Rochester--NY-_R2517253",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Banner Health",
+        "id": "5792c0c1-b8f3-4288-bb06-0d1857c368bb",
+        "title": "Intern IT 1 Cybersecurity - IT Threat & Vulnerability Management",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1758757476,
+        "date_posted": 1758757476,
+        "url": "https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Health-Corp-Phoenix-2901-N-Central-Ave/Intern-IT-I-Cybersecurity-SOC_R4416898-1",
+        "locations": [
+            "California",
+            "Wyoming",
+            "Nevada",
+            "Colorado",
+            "Nebraska",
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Banner-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kinaxis",
+        "id": "2ec4349f-cc76-41c8-8a88-2b43045e703d",
+        "title": "Co-op/Intern Developer - Clients - Front End Technologies",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1758757237,
+        "date_posted": 1758757237,
+        "url": "https://careers-kinaxis.icims.com/jobs/33752/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Oshkosh",
+        "id": "7fd26e0b-fa59-4868-88ac-99d3acf8b6eb",
+        "title": "Data Analytics Intern - Advanced Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758756746,
+        "date_posted": 1758756746,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Data-Analytics-Intern_R41406",
+        "locations": [
+            "Oshkosh, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "DTCC",
+        "id": "d22678f8-771a-4dc5-921c-2fa5662d297d",
+        "title": "Information Technology Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758758492,
+        "date_posted": 1758758492,
+        "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/211725",
+        "locations": [
+            "Boston, MA",
+            "Tampa, FL",
+            "Dallas, TX",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/DTCC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "b7a10bd4-23b9-4017-88ed-5a3dccea5dcc",
+        "title": "Intern Engineer - Software Engineering",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758759535,
+        "date_posted": 1758759535,
+        "url": "https://careers-gdms.icims.com/jobs/68063/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zeiss",
+        "id": "dd122b6d-2168-48b4-b46d-3ff5263f95ea",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758762851,
+        "date_posted": 1758762851,
+        "url": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Dublin-CA/Software-Engineering-Intern_JR_1044516",
+        "locations": [
+            "Dublin, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zeiss",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KLA",
+        "id": "329b1312-ba2a-43fe-91e5-ace9536ed53d",
+        "title": "Algorithm Engineering Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758762738,
+        "date_posted": 1758762738,
+        "url": "https://kla.wd1.myworkdayjobs.com/en-US/AnnArbor/job/Ann-Arbor-MI/Algorithm-Engineering-Intern_2531398",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
