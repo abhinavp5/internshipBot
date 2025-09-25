@@ -174494,7 +174494,7 @@
         "company_name": "FM Global",
         "id": "302bca3a-bec3-422d-90ce-13c40c032cab",
         "title": "Identity Services Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -210367,5 +210367,53 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Brevan Howard",
+        "id": "08a3d53f-a9e4-4e32-a336-daedc703498b",
+        "title": "Internship Program - Credit Trading",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758797077,
+        "date_posted": 1758797077,
+        "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York-1345/XMLNAME-2026-Summer-Internship-Program---Credit-Trading--New-York_JR101228",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Brevan-Howard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "date_updated": 1758797504,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.pinterestcareers.com/jobs/7210881/software-engineer-intern-2026/?gh_jid=7210881",
+        "company_name": "Pinterest",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "San Francisco, CA",
+            "Palo Alto, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "chinenyeenete",
+        "id": "8d4606ee-5d5d-40e7-a9e4-6b2556cd405f",
+        "date_posted": 1758797504,
+        "company_url": "",
+        "is_visible": true
     }
 ]
