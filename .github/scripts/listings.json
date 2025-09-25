@@ -114,196 +114,6 @@
         "is_visible": false
     },
     {
-        "source": "Simplify",
-        "company_name": "Expedia",
-        "id": "e44b9c72-f9f1-4add-8774-d4e5cc6dd17b",
-        "title": "Software Development Engineering Intern - June 2025 - London",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1731167631,
-        "date_posted": 1727709288,
-        "url": "https://expedia.wd5.myworkdayjobs.com/search/job/UK---London/Software-Development-Engineering-Intern---June-2025---London_R-91379-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Expedia",
-        "id": "050cec36-c125-414f-a46f-1d46c4f5f9ce",
-        "title": "Data Science \u2013 Analytics Intern - June 2025 - London",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1728151977,
-        "date_posted": 1727709285,
-        "url": "https://expedia.wd5.myworkdayjobs.com/search/job/UK---London/Data-Science--Analytics-Intern---June-2025---London_R-90396-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia",
-        "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Two Six Technologies",
-        "id": "4f618c83-921c-4212-8bd0-7dba77691b8c",
-        "title": "Summer Research Intern - Infrastructure Support",
-        "active": false,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": 1727709275,
-        "date_posted": 1727709275,
-        "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5339017004",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Two Six Technologies",
-        "id": "3c22b742-89b2-4945-935c-427701512dc8",
-        "title": "Summer Research Intern - Software Testing",
-        "active": false,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": 1727709273,
-        "date_posted": 1727709273,
-        "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5339066004",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Two Six Technologies",
-        "id": "1ddcb59f-888b-4187-abd4-fd4922381a3d",
-        "title": "Summer Research Intern - Data",
-        "active": false,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": 1727709275,
-        "date_posted": 1727709275,
-        "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5338956004",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "May Mobility",
-        "id": "3b3f5fe0-2649-4f3d-9736-b444ec8ce926",
-        "title": "Autonomy \u2013 Data Science Intern",
-        "active": false,
-        "terms": [
-            "Spring 2024"
-        ],
-        "date_updated": 1727709122,
-        "date_posted": 1727709122,
-        "url": "https://boards.greenhouse.io/maymobility/jobs/7661566002",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/May-Mobility",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Two Six Technologies",
-        "id": "6299627d-447c-415c-88a7-87912e3ac78e",
-        "title": "Summer Research Intern - Front End",
-        "active": false,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": 1727709273,
-        "date_posted": 1727709273,
-        "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5339043004",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Two Six Technologies",
-        "id": "2258025c-0dfe-4fe4-918a-80933566cb8f",
-        "title": "Embedded Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1727709263,
-        "date_posted": 1727709263,
-        "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5338690004",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Expedia",
-        "id": "7bc02bfe-d78c-44e5-9b5f-8a36de58d80b",
-        "title": "Technical Program Management Intern - June 2025 - London",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1728151928,
-        "date_posted": 1727709292,
-        "url": "https://expedia.wd5.myworkdayjobs.com/search/job/UK---London/Technical-Program-Management-Intern---June-2025---London_R-90394-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia",
-        "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Two Six Technologies",
-        "id": "baa1f81f-7d6f-4266-9ea9-13c293e79805",
-        "title": "Summer Research Intern - Application Development",
-        "active": false,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": 1727709281,
-        "date_posted": 1727709281,
-        "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5338806004",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1727712121,
         "url": "https://www.google.com/about/careers/applications/jobs/results/133334514184135366-software-engineering-intern-bs-summer-2025",
         "company_name": "Google",
@@ -171702,7 +171512,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "cc75ebb7-54af-4871-9b94-08788b84063b",
         "title": "Quantitative Systematic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -176436,7 +176246,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "08b5f3e9-aa6a-4dcb-839c-f936a41196a3",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -183388,7 +183198,7 @@
         "company_name": "American Structurepoint",
         "id": "d8c8e890-ea70-4928-9246-5165a69dbb2b",
         "title": "IT Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -190880,7 +190690,7 @@
         "company_name": "NextEra Energy",
         "id": "6efafa0d-41ce-490c-9907-55271adcf462",
         "title": "IT Nuclear Automated Solutions Analyst \u2013 College Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -193667,7 +193477,7 @@
         "company_name": "skillz",
         "id": "e5cee83d-1dae-44ff-93d2-cdb661d1f53f",
         "title": "Co-Op \u2013 Business Intelligence",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -210912,6 +210722,99 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Invesco",
+        "id": "cec49268-25d0-4735-ae7b-5e5bc9bb6057",
+        "title": "Internship - Technology",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758810866,
+        "date_posted": 1758810866,
+        "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Houston-Texas/Summer-2026-Internship---Technology_R-11730-1",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Invesco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Oshkosh",
+        "id": "2293bb78-8afa-4d57-96ba-ac1289ae2708",
+        "title": "Software Defined Vehicle Intern - Enterprise Engineering - Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758812130,
+        "date_posted": 1758812130,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/US-WI-Oshkosh-Global-Headquarters/Software-Defined-Vehicle-Intern_R41498",
+        "locations": [
+            "Oshkosh, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Invesco",
+        "id": "0d12fe25-6d23-4f19-8df0-a10bf27bdda9",
+        "title": "Internship - Technology",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758813199,
+        "date_posted": 1758813199,
+        "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Summer-2026-Internship---Technology_R-11726-1",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Invesco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pinterest",
+        "id": "406bd71e-ad64-40b8-89e7-02184773a691",
+        "title": "Software Engineer Intern Winter Term 2026 - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1758813048,
+        "date_posted": 1758813048,
+        "url": "https://www.pinterestcareers.com/job-form?gh_jid=7252886",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinterest",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
