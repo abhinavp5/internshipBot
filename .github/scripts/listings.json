@@ -115,25 +115,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "The Walt Disney Company",
-        "id": "7cfde97d-405d-45eb-a046-fb39584163b8",
-        "title": "Yield Optimization Intern - Summer 2025",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1727680343,
-        "date_posted": 1727680343,
-        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Yield-Optimization-Intern--Summer-2025_10100242-1",
-        "locations": [
-            "Celebration, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Expedia",
         "id": "e44b9c72-f9f1-4add-8774-d4e5cc6dd17b",
         "title": "Software Development Engineering Intern - June 2025 - London",
@@ -175482,7 +175463,7 @@
         "company_name": "Lennox International",
         "id": "5370c3fa-9b3b-4a0e-b328-efb28408836f",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -183984,7 +183965,7 @@
         "company_name": "Wipfli",
         "id": "2475f313-954b-4b78-a5e7-4875eda6037b",
         "title": "Cybersecurity Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -210049,7 +210030,7 @@
         "company_name": "Daktronics",
         "id": "d93a7453-5761-458b-9653-179b7284a8a9",
         "title": "Firmware/Hardware Design Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -210065,6 +210046,104 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "690eecd8-25b1-41a6-8519-4eb19c91138e",
+        "title": "Product Engineer Intern - Product Engineering",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758784650,
+        "date_posted": 1758784650,
+        "url": "https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External/job/OR---Bend/Product-Engineer-Internship_R1664-25",
+        "locations": [
+            "Bend, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "State Street",
+        "id": "9d39171f-8cc2-45f0-bb86-8a918a95087d",
+        "title": "Electronic Trading Platform Software Engineer Co-Op - Global Technology Services",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1758784398,
+        "date_posted": 1758784398,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Electronic-Trading-Platform-Software-Engineer--CO-OP_R-778314",
+        "locations": [
+            "Quincy, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Clarios",
+        "id": "428529aa-80a1-4422-9fb8-da0239bf2c95",
+        "title": "Data Scientist Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758784336,
+        "date_posted": 1758784336,
+        "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Data-Scientist-Intern--Summer-2026-_WD45233",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Clarios",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "01aa6b57-b8c9-4c8c-a3d0-11d8e1b43b23",
+        "title": "Software Engineer Intern - CDN Platform",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1758783852,
+        "date_posted": 1758783852,
+        "url": "https://jobs.bytedance.com/en/position/7553422988620892423/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
