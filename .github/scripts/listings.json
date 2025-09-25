@@ -172055,7 +172055,7 @@
         "company_name": "Steel Dynamics",
         "id": "7ba65b7f-ae42-4a6b-8450-04416d267214",
         "title": "Computer Engineering Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -176037,7 +176037,7 @@
         "company_name": "Shure",
         "id": "94103e1a-3f83-48bb-9369-b8c91872490b",
         "title": "Data Driven Sustainability Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -182093,7 +182093,7 @@
         "company_name": "Steel Dynamics",
         "id": "f2f4ab79-4acb-49c6-a5aa-a0bb34703745",
         "title": "Software Development Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -206383,7 +206383,7 @@
         "company_name": "W.R. Berkley",
         "id": "0c7562e6-7d8e-4ada-b934-9b6bdd000c2f",
         "title": "Intern \u2013 Software Developer - Reactjs",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -210507,5 +210507,28 @@
         "date_posted": 1758797803,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Clarios",
+        "id": "80a856b9-aa4d-40d5-bdad-ea94d0648dc9",
+        "title": "IT Digital/AI Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758798184,
+        "date_posted": 1758798184,
+        "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/IT-Digital-AI-Intern--Summer-2026-_WD45298",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Clarios",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
