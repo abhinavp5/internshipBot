@@ -121346,7 +121346,7 @@
         "company_name": "Intel",
         "id": "699d13e3-ba18-4652-8c28-bcc7d371017c",
         "title": "Silicon Hardware Engineering \u2013 Intern - Bachelors",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -146421,7 +146421,7 @@
         "company_name": "Block",
         "id": "ccc03b68-f975-425a-9c7c-2eec827aa90c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -159893,7 +159893,7 @@
         "company_name": "Block",
         "id": "7e56f334-14c4-4d8b-8710-9bccef5f4cc0",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -173795,7 +173795,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "57a601ba-c424-4324-8a40-7e650c4ee70a",
         "title": "Rotational Cybersecurity Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Spring 2026",
@@ -176455,7 +176455,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "08b5f3e9-aa6a-4dcb-839c-f936a41196a3",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -190992,7 +190992,7 @@
         "company_name": "NextEra Energy",
         "id": "b31c008b-7634-4bed-ac01-6a17f8a2fb6e",
         "title": "IT Nuclear Solution Analyst \u2013 College Intern - Digital Twin Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -194115,7 +194115,7 @@
         "company_name": "Xcel Energy",
         "id": "22447898-d3a2-44af-a8fa-38903fd44139",
         "title": "Compute & Converge Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -197267,7 +197267,7 @@
         "company_name": "CIBC",
         "id": "e6b8c629-168e-4fb9-9d49-761fd51450d0",
         "title": "AI Governance Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -199756,7 +199756,7 @@
         "company_name": "Humana",
         "id": "ba04f45f-f62f-43ef-8801-06d1d832a5cd",
         "title": "Information Technology Co-op - Government Business IT - Telephony and IVR",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -209637,6 +209637,78 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "RSM",
+        "id": "9c731c7e-422d-4d3d-9bf3-37f246ee52c3",
+        "title": "Cyber Testing Associate - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758777151,
+        "date_posted": 1758777151,
+        "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Des-Moines/Cyber-Testing-Associate---Summer-2026_JR110638",
+        "locations": [
+            "Des Moines, IA",
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RSM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Oshkosh",
+        "id": "5174aeae-1f52-4b9d-908b-8b469931ebc7",
+        "title": "Cybersecurity Intern - Cyber Defense",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758778280,
+        "date_posted": 1758778280,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Cybersecurity-Intern_R41405",
+        "locations": [
+            "Oshkosh, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lyft",
+        "id": "1a77de56-d169-4ab5-9f99-b5a862a6a262",
+        "title": "Software Engineer Intern - Machine Learning",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758777751,
+        "date_posted": 1758777751,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8168699002?gh_jid=8168699002",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Lyft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
