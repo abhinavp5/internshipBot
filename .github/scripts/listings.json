@@ -145599,7 +145599,7 @@
         ]
     },
     {
-        "date_updated": 1756924730,
+        "date_updated": 1758827476,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [
@@ -145619,7 +145619,7 @@
         "id": "40455610-4250-4a9b-8713-92dd178b9eab",
         "date_posted": 1756924730,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756924774,
@@ -171817,7 +171817,7 @@
         "company_name": "Steel Dynamics",
         "id": "7ba65b7f-ae42-4a6b-8450-04416d267214",
         "title": "Computer Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -210844,5 +210844,30 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1758827526,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.lever.co/uncountable/6328427a-9047-44d5-82d6-56d533d8622e",
+        "company_name": "Uncountable",
+        "title": "Full-Stack Intern",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY",
+            "London, UK"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "ucwillg",
+        "id": "779747c8-51a7-4043-95d4-75311a54bca5",
+        "date_posted": 1758827526,
+        "company_url": "",
+        "is_visible": true
     }
 ]
