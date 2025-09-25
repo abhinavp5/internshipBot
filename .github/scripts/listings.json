@@ -210320,5 +210320,28 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Assured Guaranty",
+        "id": "90c42580-ebe4-4adb-814f-0d5db1b9b394",
+        "title": "Product Software Developer - Back-End Intern - Secondary Market",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758792214,
+        "date_posted": 1758792214,
+        "url": "https://boards.greenhouse.io/assuredguaranty/jobs/8181466002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Assured-Guaranty",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
