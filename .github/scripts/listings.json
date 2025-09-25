@@ -117382,7 +117382,7 @@
         "company_name": "Leidos",
         "id": "8a2ba987-83df-4d80-875e-60e75af69b30",
         "title": "Apprentice Geolocation Operator - Active",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -127016,7 +127016,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3801beb2-e473-44e1-8a9b-a3c4776098f6",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -143926,7 +143926,7 @@
         "company_name": "Arch Capital Group",
         "id": "773a39eb-e8d5-46e9-9bc7-423b194bce83",
         "title": "Technology Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -190834,7 +190834,7 @@
         "company_name": "NextEra Energy",
         "id": "820df056-8ff2-4211-9f02-163a5cb540cb",
         "title": "IT Nuclear Programmer Analyst \u2013 College Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -192748,7 +192748,7 @@
         "company_name": "SharkNinja",
         "id": "2ae5055e-0de9-400e-b939-18202ef33174",
         "title": "Summer 2026: Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -210019,7 +210019,7 @@
         "company_name": "Daktronics",
         "id": "d93a7453-5761-458b-9653-179b7284a8a9",
         "title": "Firmware/Hardware Design Co-op Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -210797,6 +210797,125 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "date_updated": 1758808365,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.pinterestcareers.com/jobs/7252886/software-engineer-intern-winter-term-2026-toronto",
+        "company_name": "Pinterest",
+        "title": "Software Engineer",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "terms": [
+            "Winter 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "0155cb82-7b69-4eb5-a98b-1d4f1460bc7a",
+        "date_posted": 1758808365,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758808631,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-rambus.icims.com/jobs/22378/data-%26-ai-intern/job",
+        "company_name": "Rambus",
+        "title": "Data & AI Intern",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Winter 2026",
+            "Spring 2026",
+            "Fall 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "f8f3ee0c-ddc6-47ca-b54c-d0ef53feb342",
+        "date_posted": 1758808631,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758808715,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://corteva.wd5.myworkdayjobs.com/en-US/ctp/job/Des-Moines-Iowa-United-States/Artificial-Intelligence-in-Breeding-Intern_243468W-1",
+        "company_name": "Corteva",
+        "title": "Artificial Intelligence in Breeding Intern",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "terms": [
+            "Spring 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "54ca52a2-d28e-4eba-b5d5-82e0a85e8610",
+        "date_posted": 1758808715,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "b4902cae-393e-46cf-8f64-0306f6c99b6f",
+        "title": "Software Engineering Intern/Co-op - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1758808722,
+        "date_posted": 1758808722,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HOR32-Wilsonville-OR-27300-SW-Parkway---Wilsonville-OR-97070-9215-USA/Software-Engineering-Co-Op--Summer-Fall-2026---Onsite-_01791541-1",
+        "locations": [
+            "Tualatin, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kinaxis",
+        "id": "567174e5-0f03-433a-874e-08075a34af0d",
+        "title": "Co-op/Intern Software Developer - Core Algorithms - Industry Teams",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1758808727,
+        "date_posted": 1758808727,
+        "url": "https://careers-kinaxis.icims.com/jobs/33754/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
