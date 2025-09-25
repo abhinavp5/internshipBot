@@ -183388,7 +183388,7 @@
         "company_name": "American Structurepoint",
         "id": "d8c8e890-ea70-4928-9246-5165a69dbb2b",
         "title": "IT Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -197886,7 +197886,7 @@
         "company_name": "Walker & Dunlop",
         "id": "960a4162-9282-4448-afe8-44d2b0442719",
         "title": "Capital Markets Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -210413,6 +210413,98 @@
         "source": "chinenyeenete",
         "id": "8d4606ee-5d5d-40e7-a9e4-6b2556cd405f",
         "date_posted": 1758797504,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758797566,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.pinterestcareers.com/jobs/7202269/software-engineer-intern-2026-remote-us/?gh_jid=7202269",
+        "company_name": "Pinterest",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Remote in USA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "chinenyeenete",
+        "id": "0708c907-60bc-4c75-a225-dc99c394e6cf",
+        "date_posted": 1758797566,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758797665,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.pinterestcareers.com/jobs/7241510/software-engineer-intern-2026/?gh_jid=7241510",
+        "company_name": "Pinterest",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "chinenyeenete",
+        "id": "7b5287e1-12c4-4209-b0b1-ff19ed1248b2",
+        "date_posted": 1758797665,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758797769,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://www.pinterestcareers.com/jobs/7268767/masters-machine-learning-internship-summer-term-2026-toronto/?gh_jid=7268767",
+        "company_name": "Pinterest",
+        "title": "Master's Machine Learning Internship",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "chinenyeenete",
+        "id": "6fb62388-2f9e-4cf0-80d9-0c0bb46ee445",
+        "date_posted": 1758797769,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758797803,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.pinterestcareers.com/jobs/7257996/software-engineer-intern-summer-term-2026-toronto/?gh_jid=7257996",
+        "company_name": "Pinterest",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "chinenyeenete",
+        "id": "20510032-d1c4-4136-8853-9724c2c7cd3f",
+        "date_posted": 1758797803,
         "company_url": "",
         "is_visible": true
     }
