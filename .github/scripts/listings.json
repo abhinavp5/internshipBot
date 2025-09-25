@@ -114,44 +114,6 @@
         "is_visible": false
     },
     {
-        "date_updated": 1731167966,
-        "url": "https://job-boards.eu.greenhouse.io/nice/jobs/4368079101?gh_jid=4368079101",
-        "company_name": "NICE",
-        "title": "DevOps Intern",
-        "locations": [
-            "Richardson, TX"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "GaryZhous",
-        "id": "d722492f-406b-4fd3-a6a6-7a86685c00ef",
-        "date_posted": 1727670184,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1731169095,
-        "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Ithaca---New-York---USA/IT-Co-op-Intern_R2024-3066",
-        "company_name": "BorgWarner",
-        "title": "IT Co-op/Intern",
-        "locations": [
-            "Ithaca, NY"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "GaryZhous",
-        "id": "fc754c0e-2358-4394-a553-ad4b83578eed",
-        "date_posted": 1727670397,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "company_name": "The Walt Disney Company",
         "id": "7cfde97d-405d-45eb-a046-fb39584163b8",
@@ -176283,7 +176245,7 @@
         "company_name": "Shure",
         "id": "41e961cd-8b3a-4677-8ec0-ed14cd640d75",
         "title": "Mobile Applications \u2013 Intern - Android",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -209580,6 +209542,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "American Century Investments",
+        "id": "896764ce-9260-4e96-af8c-8100a07aa702",
+        "title": "IT Intern - Infrastructure & Operations - Automation Focus",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758774443,
+        "date_posted": 1758774443,
+        "url": "https://americancentury.wd5.myworkdayjobs.com/en-US/AmericanCenturyInvestments/job/Kansas-City-Missouri/IT-Intern---Infrastructure---Operations--Automation-Focus-_R0005429",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Century-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
