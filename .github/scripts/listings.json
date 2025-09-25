@@ -115,44 +115,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "ManTech",
-        "id": "66bc9963-fc0a-469c-a5dd-3876490e1793",
-        "title": "Software Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1727724550,
-        "date_posted": 1727724550,
-        "url": "https://mantech.wd1.myworkdayjobs.com/en-US/External/job/USA-Remote-Work/Software-Developer-Intern_R55102",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/c6651565-44c8-4050-8412-111c54942390",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Rivian",
-        "id": "63154598-ad12-433e-9fb8-44f165c03446",
-        "title": "Software Engineering Internship - Summer 2025",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1727724098,
-        "date_posted": 1727724098,
-        "url": "https://careers.rivian.com/jobs/19340?lang=en-us&icims=1",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Rivian",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Cockroach Labs",
         "id": "59d64bb2-56df-4381-8bbf-5cd71e5fff7e",
         "title": "Engineering Internships 2025",
@@ -13058,26 +13020,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/0d1439fc-2545-44f8-abba-4bf79f9e08c1",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Walmart",
-        "id": "42c66fbc-c05a-45c6-83df-22b4a663d541",
-        "title": "2024 Intern Conversion \u2013 2025 Return Corporate Intern: Automation Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1727724822,
-        "date_posted": 1727724822,
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2024-Intern-Conversion---2025-Return-Corporate-Intern--Automation-Engineer_R-1969002",
-        "locations": [
-            "Bentonville, AR",
-            "San Bernardino, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -209724,7 +209666,7 @@
         "company_name": "Daktronics",
         "id": "d93a7453-5761-458b-9653-179b7284a8a9",
         "title": "Firmware/Hardware Design Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -210812,5 +210754,28 @@
         "date_posted": 1758827526,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pinterest",
+        "id": "a4630663-c8ce-402e-9b17-22ecf00cb6a9",
+        "title": "Software Engineer Intern Summer Term 2026 - Toronto",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758828154,
+        "date_posted": 1758828154,
+        "url": "https://www.pinterestcareers.com/job-form?gh_jid=7257996",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinterest",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
