@@ -172074,7 +172074,7 @@
         "company_name": "Steel Dynamics",
         "id": "7ba65b7f-ae42-4a6b-8450-04416d267214",
         "title": "Computer Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -174513,7 +174513,7 @@
         "company_name": "FM Global",
         "id": "302bca3a-bec3-422d-90ce-13c40c032cab",
         "title": "Identity Services Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -176056,7 +176056,7 @@
         "company_name": "Shure",
         "id": "94103e1a-3f83-48bb-9369-b8c91872490b",
         "title": "Data Driven Sustainability Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -176501,7 +176501,7 @@
         "company_name": "RoviSys",
         "id": "3cdc75c9-e302-471d-9aa2-12e38b885f5b",
         "title": "Co-op \u2013 Spring 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -209854,6 +209854,170 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "d10d9338-b908-4748-be6f-fe09263382b1",
+        "title": "Machine Learning Center of Excellence Summer Associate - Quant AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758781717,
+        "date_posted": 1758781717,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210670757",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Parsons",
+        "id": "15d64ada-2bb7-4e10-a2d5-6bffea353786",
+        "title": "Test and Evaluation Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758781676,
+        "date_posted": 1758781676,
+        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US-WV---Summit-Point/Test-and-Evaluation-Intern---Summer-2026_R172426-1",
+        "locations": [
+            "Bluemont, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Parsons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Daktronics",
+        "id": "ae65e4de-4ee4-4a7b-860e-d3b5d79baa84",
+        "title": "Product Demonstration Technical Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1758781251,
+        "date_posted": 1758781251,
+        "url": "https://careers-daktronics.icims.com/jobs/6900/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Brookings, SD"
+        ],
+        "company_url": "https://simplify.jobs/c/Daktronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Marathon Petroleum",
+        "id": "aaccc98a-a1f3-4de4-a26d-2f6588ab04cf",
+        "title": "Associate Software Engineer \u2013 Intern to Full-Time Conversion - Corporate Functions IT",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758781284,
+        "date_posted": 1758781284,
+        "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Findlay-Ohio/Associate-Software-Engineer--Intern-to-Full-Time-Conversion-_00018663",
+        "locations": [
+            "Bowling Green, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Marathon-Petroleum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kinaxis",
+        "id": "d3a15f64-ed8a-4820-ba9c-68dce12d3ecd",
+        "title": "Co-op/Intern Developer - AI/ML",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1758782490,
+        "date_posted": 1758782490,
+        "url": "https://careers-kinaxis.icims.com/jobs/33751/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Clarios",
+        "id": "7018d504-aa59-4d9d-8622-54b975ec7b1f",
+        "title": "Data Insights and Visualization Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758782472,
+        "date_posted": 1758782472,
+        "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Data-Insights---Visualization-Intern--Summer-2026-_WD45173",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Clarios",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Samsung",
+        "id": "76011733-a034-47c4-9932-c11000a226e6",
+        "title": "Intern \u2013 Memory Solution Research Engineer",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758782287,
+        "date_posted": 1758782287,
+        "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7477264003",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
