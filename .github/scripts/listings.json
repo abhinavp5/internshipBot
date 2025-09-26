@@ -141496,7 +141496,7 @@
         "company_name": "Corning",
         "id": "4adda847-3481-460b-9c8c-af901cf8f970",
         "title": "IT Intern \u2013 Servicenow Platform",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -167577,7 +167577,7 @@
         "company_name": "Super",
         "id": "5a861294-cd7b-40f0-a6d8-7f508935f9ad",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -195316,7 +195316,7 @@
         "company_name": "RESPEC",
         "id": "22e490ad-56fe-4b56-af8d-5848ada5b644",
         "title": "Student Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -206836,7 +206836,7 @@
         "company_name": "RESPEC",
         "id": "cb5e43ba-13a7-4377-b35e-62bfb1dc2d76",
         "title": "Student Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
