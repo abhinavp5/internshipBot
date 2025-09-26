@@ -114338,7 +114338,7 @@
         "company_name": "TikTok",
         "id": "fd4d4ad1-7cdb-45e6-82a7-3ad24e9bc989",
         "title": "Research Scientist Intern - Trust and Safety - CV/NLP/Multimodal LLM - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -211245,5 +211245,81 @@
         "date_posted": 1758871581,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Veritiv Corporation",
+        "id": "f74a3346-7390-48ea-9ba1-e3cc34d8ed74",
+        "title": "Business Analytics Intern - Advanced Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758872465,
+        "date_posted": 1758872465,
+        "url": "https://veritiv.wd5.myworkdayjobs.com/veritivcareers/job/USA---GA---Sandy-Springs/Business-Analytics-Intern_R29857",
+        "locations": [
+            "Sandy Springs, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Veritiv-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Adobe",
+        "id": "4e10af7c-c752-4dc9-8fe9-8eb17f45f0a1",
+        "title": "Machine Learning Engineer Intern - AI/ML",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1758872426,
+        "date_posted": 1758872426,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Qualcomm",
+        "id": "d4c6494b-b1f5-473d-8921-80687787ed63",
+        "title": "Intern - And Sensors Subsystem Engineering - Low-Power AI - Audio",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1758872193,
+        "date_posted": 1758872193,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446714867463",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
