@@ -176913,7 +176913,7 @@
         "company_name": "Quanta Services",
         "id": "160d1f7f-a969-4416-8aff-56a07e419e95",
         "title": "Innovation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -183501,7 +183501,7 @@
         "company_name": "Quanta Services",
         "id": "a18c7e94-aab4-432a-8bb9-d531679b794e",
         "title": "Information Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -191667,7 +191667,7 @@
         "company_name": "Quanta Services",
         "id": "6093c885-9c3a-4ab8-8d8b-eb2e398d31e0",
         "title": "Information Technology Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -212214,6 +212214,107 @@
             "Belfast, UK"
         ],
         "company_url": "https://simplify.jobs/c/Symphony-Comm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Rocket Lab USA",
+        "id": "de085a14-ca05-428c-b0c7-40b82023c8ff",
+        "title": "Security Analyst Intern - Security Team",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1758912821,
+        "date_posted": 1758912821,
+        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7478735003",
+        "locations": [
+            "Essex, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Rocket Lab USA",
+        "id": "c597c644-de9c-4de9-bff1-f0300d42440c",
+        "title": "Security Analyst Intern Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758912824,
+        "date_posted": 1758912824,
+        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7478737003",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Rocket Lab USA",
+        "id": "5e9a14dc-e526-4b32-8038-ab5138de4832",
+        "title": "Security Analyst Intern Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758912826,
+        "date_posted": 1758912826,
+        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7119071003",
+        "locations": [
+            "Essex, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "OCC",
+        "id": "9583b7a3-d787-49f0-83c9-b4516d2c2b07",
+        "title": "Security AI Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1758912564,
+        "date_posted": 1758912564,
+        "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Security-AI-Summer-Intern_REQ-4421",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/OptionsClearingCorporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
