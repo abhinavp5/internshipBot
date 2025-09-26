@@ -263,7 +263,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Huntsville, AL</td>
 <td>Spring 2026</td>
 <td><div align="center"><a href="https://jobs.siemens.com/careers/job/563156132037214?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Blackhawk-Network-Holdings?utm_source=GHList&utm_medium=company">Blackhawk Network Holdings</a></strong></td>
