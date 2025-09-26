@@ -139785,7 +139785,7 @@
         "company_name": "Oshkosh",
         "id": "518c4a57-578e-47de-bef4-8b41c8418bf5",
         "title": "Engineer Intern - Software",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -147761,7 +147761,7 @@
         "company_name": "Vercel",
         "id": "2b176baf-7ca2-4fb5-aa37-bb5129eafce0",
         "title": "Engineering Spring Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -168893,7 +168893,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "76d2ab1d-e665-451c-81e3-00adebb54771",
         "title": "Automated Driving Intern - Simulation at Scale for RL",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -175641,7 +175641,7 @@
         "company_name": "Shure",
         "id": "41e961cd-8b3a-4677-8ec0-ed14cd640d75",
         "title": "Mobile Applications \u2013 Intern - Android",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -175897,7 +175897,7 @@
         "company_name": "RoviSys",
         "id": "3cdc75c9-e302-471d-9aa2-12e38b885f5b",
         "title": "Co-op \u2013 Spring 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -181901,7 +181901,7 @@
         "company_name": "Leidos",
         "id": "822d94d0-42ff-4105-96c3-37f14f234775",
         "title": "Network Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -181972,7 +181972,7 @@
         "company_name": "Leidos",
         "id": "46943373-a58c-49fc-99d6-c48cdf2eced7",
         "title": "Network Engineer/Network Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -189895,7 +189895,7 @@
         "company_name": "Origami Risk",
         "id": "f2bd20e3-71f7-4a4b-b5f5-7bef4208fe2a",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -208289,7 +208289,7 @@
         "company_name": "KLA",
         "id": "329b1312-ba2a-43fe-91e5-ace9536ed53d",
         "title": "Algorithm Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -212073,6 +212073,147 @@
             "Melbourne, FL"
         ],
         "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Trend Micro",
+        "id": "5b18975d-5a43-4717-9376-0224f153fd57",
+        "title": "Malware Research Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1758908718,
+        "date_posted": 1758908718,
+        "url": "https://trendmicro.wd3.myworkdayjobs.com/External/job/Toronto/Malware-Research-Intern---Winter-2026_R0008258",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Trend-Micro",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Clarios",
+        "id": "c2ed017b-a4a8-4212-8eff-5cc0d7be6ccf",
+        "title": "Risk Management Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758908698,
+        "date_posted": 1758908698,
+        "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Risk-Management-Intern--Summer-2026-_WD45339",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Clarios",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1758909323,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-software-engineering-commercialization-mountain-view-california-united-states-san-francisco",
+        "company_name": "Waymo",
+        "title": "Software Engineering, Commercialization",
+        "locations": [
+            "Mountain View, CA",
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "b2806ffa-26ca-431d-9019-47fe7031e898",
+        "date_posted": 1758909323,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Samba TV",
+        "id": "c394fa26-b038-42f7-9c7f-05e694ea3c39",
+        "title": "AI Automation Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758909554,
+        "date_posted": 1758909554,
+        "url": "https://jobs.lever.co/sambatv/6c3770c5-46ae-4924-9e16-eb1cdf5a3edb/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/SambaTV",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "1294ed3d-c159-4e0a-ac6b-564effff0cef",
+        "title": "Cloud Acceleration Engineer Intern - DPU & AI Infra",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758909329,
+        "date_posted": 1758909329,
+        "url": "https://jobs.bytedance.com/en/position/7553577564628191495/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Symphony",
+        "id": "0df10b5c-a875-490a-bdfd-861204339dbf",
+        "title": "Intern \u2013 Software Development",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758910436,
+        "date_posted": 1758910436,
+        "url": "https://symphony.com/company/apply?gh_jid=7267903",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Symphony-Comm",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
