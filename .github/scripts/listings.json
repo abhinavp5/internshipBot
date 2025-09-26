@@ -175851,7 +175851,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "08b5f3e9-aa6a-4dcb-839c-f936a41196a3",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -183501,7 +183501,7 @@
         "company_name": "Quanta Services",
         "id": "a18c7e94-aab4-432a-8bb9-d531679b794e",
         "title": "Information Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -189872,7 +189872,7 @@
         "company_name": "RTX",
         "id": "00d2a63b-d0ad-4f44-b188-45ce87dfc2d2",
         "title": "2026 Intern - Raytheon Systems Security",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -189895,7 +189895,7 @@
         "company_name": "Origami Risk",
         "id": "f2bd20e3-71f7-4a4b-b5f5-7bef4208fe2a",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -191667,7 +191667,7 @@
         "company_name": "Quanta Services",
         "id": "6093c885-9c3a-4ab8-8d8b-eb2e398d31e0",
         "title": "Information Technology Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -195240,7 +195240,7 @@
         "company_name": "RESPEC",
         "id": "22e490ad-56fe-4b56-af8d-5848ada5b644",
         "title": "Student Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -206760,7 +206760,7 @@
         "company_name": "RESPEC",
         "id": "cb5e43ba-13a7-4377-b35e-62bfb1dc2d76",
         "title": "Student Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
