@@ -172304,7 +172304,7 @@
         "company_name": "CACI",
         "id": "3c4292a4-45d2-44f0-917f-70a58220abaa",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -210876,6 +210876,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Parsons",
+        "id": "8dd97b7f-534c-48d8-808d-1222295ce301",
+        "title": "Cybersecurity Intern - Security Operations",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758858865,
+        "date_posted": 1758858865,
+        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---Remote-Any-Location/Cybersecurity-Intern_R172026-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Parsons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
