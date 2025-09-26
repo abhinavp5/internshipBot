@@ -130969,7 +130969,7 @@
         "company_name": "Crowe",
         "id": "d229f748-d7b5-4187-963f-44068e174eda",
         "title": "Third Party Risk Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -211643,7 +211643,7 @@
         "company_name": "Rambus",
         "id": "8e5c43e7-05a6-4746-935b-495159a96309",
         "title": "Silicon IP Field Application Engineer Intern - Field Application Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
