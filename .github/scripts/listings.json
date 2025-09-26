@@ -155,46 +155,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Clever",
-        "id": "abd86841-2666-4356-b5d5-c1257622ffbf",
-        "title": "Engineering Intern - Undergraduate Student",
-        "active": false,
-        "terms": [
-            "Spring 2025",
-            "Summer 2025"
-        ],
-        "date_updated": 1727810796,
-        "date_posted": 1727810796,
-        "url": "https://www.clever.com/about/careers?gh_jid=6292407",
-        "locations": [
-            "SF",
-            "Durham, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Clever",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Challenge Manufacturing",
-        "id": "83d6b176-94e6-4dc7-b78f-ff78c2fd2cba",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1727810749,
-        "date_posted": 1727810749,
-        "url": "https://www.challenge-mfg.com/careers/job/?gh_jid=5343220004",
-        "locations": [
-            "Pontiac, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Challenge-Manufacturing",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Western Digital",
         "id": "1bfdf63c-0daa-4bb1-8a49-5626798e81f9",
         "title": "RAMP Co-Op Read/Write Channel Firmware Engineer - Spring-Summer",
@@ -173909,7 +173869,7 @@
         "company_name": "FM Global",
         "id": "302bca3a-bec3-422d-90ce-13c40c032cab",
         "title": "Identity Services Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -175780,7 +175740,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9c843ea8-9b7c-4b8c-a34c-b8c89aa81148",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
