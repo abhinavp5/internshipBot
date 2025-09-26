@@ -107002,7 +107002,7 @@
         "company_name": "Brunswick",
         "id": "f96feaf6-30c2-4675-8d2c-3b60328a24c5",
         "title": "Computer Graphics Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -210899,6 +210899,144 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "ServiceNow",
+        "id": "e31f4369-9747-424a-a4d3-dca62e677280",
+        "title": "Associate Product Security Engineer Intern - Sso",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758866742,
+        "date_posted": 1758866742,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000083935275",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "ServiceNow",
+        "id": "bf3f1513-bbb0-4fea-87fe-4988ebb8804b",
+        "title": "Application Security Engineer Intern - ServiceNow Security Organization",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758866735,
+        "date_posted": 1758866735,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000083935765",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ServiceNow",
+        "id": "a7ac75d1-b271-4c0e-b675-75657a5622bc",
+        "title": "Data Informatics Analyst Intern - Security Organization",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758866722,
+        "date_posted": 1758866722,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000083936156",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "ServiceNow",
+        "id": "5762911f-e8f2-4c33-8d7e-6cddf812d50c",
+        "title": "Associate Information Security Analyst Intern - Sso",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758866732,
+        "date_posted": 1758866732,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000083924893",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "ServiceNow",
+        "id": "1fed3e27-77cb-4599-a5d0-fd62359d8333",
+        "title": "Business Continuity Analyst Intern - Security Organization",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758866782,
+        "date_posted": 1758866782,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000083933650",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ServiceNow",
+        "id": "96fa47c2-9018-4be3-94f9-8540b4e713ed",
+        "title": "AI for Security Operations Engineering Intern - Platform Security Innovation Team",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758866700,
+        "date_posted": 1758866700,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000083937095",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
