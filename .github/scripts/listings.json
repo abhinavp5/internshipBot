@@ -115,83 +115,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Rocket Lab USA",
-        "id": "01d6eda4-6d1c-4a2b-95b3-ffed7fd92f16",
-        "title": "Software Intern - Summer 2025",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1728236888,
-        "date_posted": 1727752469,
-        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/6216766003",
-        "locations": [
-            "Littleton, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Rocket Lab USA",
-        "id": "698e3894-30c4-4654-8b5d-d76aebae56ca",
-        "title": "Flight Software Intern - Summer 2025",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1727752443,
-        "date_posted": 1727752443,
-        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/6216762003",
-        "locations": [
-            "Littleton, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Nutanix",
-        "id": "7bf539e4-dab0-4150-bc80-01394fc01db1",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Spring 2025",
-            "Summer 2025"
-        ],
-        "date_updated": 1727752305,
-        "date_posted": 1727752305,
-        "url": "https://jobs.jobvite.com/nutanix/job/owAlufwF?nl=1&nl=1&fr=false",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nutanix",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Zoox",
-        "id": "74f8fcc5-2fc9-478d-8d52-c9dd7a789088",
-        "title": "Data Engineering \u2013 Content Internship/Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1727752610,
-        "date_posted": 1727752610,
-        "url": "https://jobs.lever.co/zoox/cc1ca970-6ddf-4740-8f91-7b8491b52440/apply",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zoox",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "KKR",
         "id": "0d48201f-42db-4531-8e1d-a059f769946a",
         "title": "2025 Technology Summer Internship Program",
@@ -171531,7 +171454,7 @@
         "company_name": "Legrand NA",
         "id": "f12c4439-da73-4544-9abe-313c848354d9",
         "title": "Firmware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -174086,7 +174009,7 @@
         "company_name": "FM Global",
         "id": "0ce0eba4-b10d-48ec-b66f-1cd3bede9a6b",
         "title": "Software Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -175794,7 +175717,7 @@
         "company_name": "Shure",
         "id": "41e961cd-8b3a-4677-8ec0-ed14cd640d75",
         "title": "Mobile Applications \u2013 Intern - Android",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -175933,7 +175856,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9c843ea8-9b7c-4b8c-a34c-b8c89aa81148",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
