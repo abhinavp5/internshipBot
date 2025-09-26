@@ -122071,7 +122071,7 @@
         "company_name": "Covestro",
         "id": "9582bbdd-d21c-491a-9d18-96e41afee1f1",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -148475,7 +148475,7 @@
         "company_name": "Vercel",
         "id": "49ade646-339f-4c7d-b18a-b4cbeee9566d",
         "title": "Engineering Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -171378,7 +171378,7 @@
         "company_name": "Legrand NA",
         "id": "f12c4439-da73-4544-9abe-313c848354d9",
         "title": "Firmware Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -181832,7 +181832,7 @@
         "company_name": "Leidos",
         "id": "c2803af0-7328-4b4d-be2d-3a2790872991",
         "title": "Transport Network Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -209427,7 +209427,7 @@
         "company_name": "Daktronics",
         "id": "d93a7453-5761-458b-9653-179b7284a8a9",
         "title": "Firmware/Hardware Design Co-op Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -212026,6 +212026,53 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "4bbf67b1-4117-40a8-9d53-4873168ef209",
+        "title": "Software Engineer Intern - Aviation Messaging",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758907744,
+        "date_posted": 1758907744,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HMD31-Annapolis-MD-2551-Riva-Road---Annapolis-MD-21401-7435-USA/Software-Engineer-Intern---Aviation-Messaging--Summer-2026---Onsite-_01795221",
+        "locations": [
+            "Annapolis, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "L3Harris Technologies",
+        "id": "0fa9d1f5-0943-48cd-89eb-3b1d6e5aba96",
+        "title": "Network Control Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758907671,
+        "date_posted": 1758907671,
+        "url": "https://jobs.l3harris.com/job/Melbourne-Network-Control-Intern-(Melbourne,-FL)-FL-32919/1329371900/?ats=successfactors",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
