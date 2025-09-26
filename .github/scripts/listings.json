@@ -183641,7 +183641,7 @@
         "company_name": "Motorola",
         "id": "c2ad2e4a-0ba3-457b-8eab-d617bbedf225",
         "title": "Sales Product Owner",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
