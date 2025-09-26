@@ -130321,7 +130321,7 @@
         "company_name": "Meta",
         "id": "d23e4d27-4627-4759-8bf3-ec3dcd5823da",
         "title": "Research Scientist Intern - Anisotropic Optics and Photonics - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -183577,7 +183577,7 @@
         "company_name": "Quanta Services",
         "id": "a18c7e94-aab4-432a-8bb9-d531679b794e",
         "title": "Information Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -186691,7 +186691,7 @@
         "company_name": "Symbotic",
         "id": "4c554cf2-12fe-427b-b40b-0970077d4334",
         "title": "Co-op-Mechatronics Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Spring 2025",
@@ -199060,7 +199060,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "ac51fbc2-6ce8-4bec-a1c6-655d9f723bdf",
         "title": "Data Analytics Engineer Intern - Analytics Team - Business Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -210593,22 +210593,22 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
+        "category": "Software Engineering",
         "company_name": "Pinterest",
         "id": "a4630663-c8ce-402e-9b17-22ecf00cb6a9",
-        "title": "Software Engineer Intern Summer Term 2026 - Toronto",
+        "title": "Software Engineer Intern",
         "active": true,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1758828154,
+        "date_updated": 1758896863,
         "date_posted": 1758828154,
         "url": "https://www.pinterestcareers.com/job-form?gh_jid=7257996",
         "locations": [
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Pinterest",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
