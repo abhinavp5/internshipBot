@@ -171454,7 +171454,7 @@
         "company_name": "Legrand NA",
         "id": "f12c4439-da73-4544-9abe-313c848354d9",
         "title": "Firmware Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -173267,7 +173267,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "57a601ba-c424-4324-8a40-7e650c4ee70a",
         "title": "Rotational Cybersecurity Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Spring 2026",
@@ -175927,7 +175927,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "08b5f3e9-aa6a-4dcb-839c-f936a41196a3",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -182879,7 +182879,7 @@
         "company_name": "American Structurepoint",
         "id": "d8c8e890-ea70-4928-9246-5165a69dbb2b",
         "title": "IT Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -200226,7 +200226,7 @@
         "company_name": "RSM",
         "id": "d2ba8374-86ee-4819-b625-60b61e444118",
         "title": "Microsoft Business Central Associate - Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -211343,6 +211343,76 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Western National Insurance",
+        "id": "91f99604-9f08-44c6-933c-d45bff6dce8f",
+        "title": "IT Desktop Services Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758881703,
+        "date_posted": 1758881703,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3601219",
+        "locations": [
+            "Hopkins, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/cde8bc8e-492d-4608-8b82-54dd245a3db0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Qualcomm",
+        "id": "01ff1c6d-d486-41a9-88d0-b2fe0ae58e3a",
+        "title": "Intern - And Sensors Subsystem Engineering Internship - Low-Power AI - Audio",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758881701,
+        "date_posted": 1758881701,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446714867461",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Century Investments",
+        "id": "5da46f91-7094-40e9-9336-d99769e89a1c",
+        "title": "IT Data Intern - Engineering - Analytics and AI/ML",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1758881487,
+        "date_posted": 1758881487,
+        "url": "https://americancentury.wd5.myworkdayjobs.com/en-US/AmericanCenturyInvestments/job/Kansas-City-Missouri/IT-Data-Intern--Engineering--Analytics-and-AI-ML-_R0005430",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Century-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
