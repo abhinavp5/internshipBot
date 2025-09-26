@@ -114338,7 +114338,7 @@
         "company_name": "TikTok",
         "id": "fd4d4ad1-7cdb-45e6-82a7-3ad24e9bc989",
         "title": "Research Scientist Intern - Trust and Safety - CV/NLP/Multimodal LLM - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -211747,6 +211747,52 @@
             "Raleigh, NC"
         ],
         "company_url": "https://simplify.jobs/c/Pendo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MKS Instruments",
+        "id": "47dd7841-95eb-4e63-b908-d86486653268",
+        "title": "Data Scientist Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758897085,
+        "date_posted": 1758897085,
+        "url": "https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/Milpitas-CA/XMLNAME-2026-Summer-Data-Scientist-Intern_R14997",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/07d9f7f0-9f1a-4ecb-9346-f3ac39d905f2",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Tencent",
+        "id": "9e24d54d-e028-4e6c-8343-304753cdc935",
+        "title": "Product Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758896922,
+        "date_posted": 1758896922,
+        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Los-Angeles/Product-Intern_R106141",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
