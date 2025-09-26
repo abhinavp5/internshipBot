@@ -114,66 +114,6 @@
         "is_visible": false
     },
     {
-        "source": "Simplify",
-        "company_name": "SeatGeek",
-        "id": "ba43a853-4c70-4df0-8471-57b700afafb2",
-        "title": "Software Engineer \u2013 Internship",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1727811721,
-        "date_posted": 1727811721,
-        "url": "https://seatgeek.com/jobs/6295827?gh_jid=6295827",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/SeatGeek",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Khan Academy",
-        "id": "ce5e6613-4951-4f0d-a8af-9785c4f1f88e",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1727811705,
-        "date_posted": 1727811705,
-        "url": "https://boards.greenhouse.io/khanacademy/jobs/6257065",
-        "locations": [
-            "Remote in USA",
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Khan-Academy",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Western Digital",
-        "id": "1bfdf63c-0daa-4bb1-8a49-5626798e81f9",
-        "title": "RAMP Co-Op Read/Write Channel Firmware Engineer - Spring-Summer",
-        "active": false,
-        "terms": [
-            "Spring 2024",
-            "Summer 2024"
-        ],
-        "date_updated": 1727812236,
-        "date_posted": 1727812236,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000017695744",
-        "locations": [
-            "Rochester, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1731167036,
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2025-_R0000355051",
         "company_name": "Target",
@@ -12382,25 +12322,6 @@
         ],
         "company_url": "https://simplify.jobs/c/Zoox",
         "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": " PrizePicks",
-        "id": "cecf1219-b4f8-4257-8952-8f57a70f272a",
-        "title": "Marketing Analytics Internship",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1731167223,
-        "date_posted": 1727811743,
-        "url": "http://prizepicks.com/position?gh_jid=6226930003",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/PrizePicks",
-        "is_visible": true,
         "sponsorship": "Other"
     },
     {
@@ -170730,7 +170651,7 @@
         "company_name": "Meta",
         "id": "5ad4e7a6-e81e-4970-95af-66a080f1414b",
         "title": "Research Scientist Intern - Non-Linear Optics - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -174745,7 +174666,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3900ee26-a593-429d-aeb9-6cea38b113a8",
         "title": "Machine Learning Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -175412,7 +175333,7 @@
         "company_name": "Shure",
         "id": "94103e1a-3f83-48bb-9369-b8c91872490b",
         "title": "Data Driven Sustainability Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -176850,7 +176771,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9a6e5b09-436c-4ff9-a004-546a8fd41641",
         "title": "Quantitative Trader Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -211527,7 +211448,7 @@
         "company_name": "Rambus",
         "id": "8e5c43e7-05a6-4746-935b-495159a96309",
         "title": "Silicon IP Field Application Engineer Intern - Field Application Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -212298,6 +212219,433 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Witness-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Ciena",
+        "id": "3ef0ff32-f069-4010-b097-5dfe1a9c9244",
+        "title": "Development Engineer - Security Engineering Intern/Co-op - Security Engineering",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1758915905,
+        "date_posted": 1758915905,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Development-Engine---Security-Engineering-Co-Op--Winter-2026-_R029076",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "1c22fb7e-8b82-4fc7-820a-315441bbfe6d",
+        "title": "Photonic Card Software Developer Intern/Co-op - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1758915895,
+        "date_posted": 1758915895,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Photonic-Card-Software-Developer-Co-Op--January-2026-_R029059",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Clarios",
+        "id": "c5e72a87-9949-4b4b-bd20-5f32d06a9a37",
+        "title": "Data Science Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758915574,
+        "date_posted": 1758915574,
+        "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Data-Science-Intern--Summer-2026-_WD45305",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Clarios",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Autodesk",
+        "id": "f5a8ae2a-182c-408d-b86d-8192eb986cbc",
+        "title": "Intern - Data Security - Data Security",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1758916770,
+        "date_posted": 1758916770,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Toronto-ON-CAN/Intern--Data-Security_25WD91658-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Carollo Engineers",
+        "id": "87affda7-6731-4b09-9c65-544b10d7a2bd",
+        "title": "Web App Development Intern - Software Development",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758916753,
+        "date_posted": 1758804137,
+        "url": "https://careers-carollo.icims.com/jobs/4133/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Carollo-Engineers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Honeywell",
+        "id": "d381c6bd-aae3-4481-b414-e02a3f466dc7",
+        "title": "Information Systems Intern - IT - Cybersecurity and Data Science",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758917883,
+        "date_posted": 1758917883,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/113395",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Honeywell",
+        "id": "c32766cb-c3e6-413b-b430-420d1de6e864",
+        "title": "Artificial Intelligence/Machine Learning Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758917877,
+        "date_posted": 1758917877,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/113566",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Honeywell",
+        "id": "85224209-4681-4b89-b555-7de22d40f95e",
+        "title": "Offering Management Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758917854,
+        "date_posted": 1758917854,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/114040",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Honeywell",
+        "id": "80e8418d-11f4-4d3b-b9aa-78b3c85266ed",
+        "title": "Software Engineer Intern - Computer Science",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758917883,
+        "date_posted": 1758917883,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/113405",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Honeywell",
+        "id": "7ae85f05-9781-42f6-af6a-7e385de578f5",
+        "title": "Artificial Intelligence/Machine Learning Intern - AI - Machine Learning",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758917879,
+        "date_posted": 1758917879,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/113564",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Honeywell",
+        "id": "e4a855ce-0277-4bad-8dd9-15536bafdc80",
+        "title": "Embedded Firmware Engineer Intern - Building Energy Management Systems",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758917670,
+        "date_posted": 1758917670,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119453",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Honeywell",
+        "id": "167b90bc-cc08-4680-b2ec-44d62262735f",
+        "title": "Intern R&D Engineer - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1758917664,
+        "date_posted": 1758917664,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119372",
+        "locations": [
+            "Neukirchen-Vluyn, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rambus",
+        "id": "c566365d-5529-40fb-a6ef-40941a1b7108",
+        "title": "Intern Digital RTL",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758917450,
+        "date_posted": 1758917450,
+        "url": "https://careers-rambus.icims.com/jobs/22357/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Morrisville, NC",
+            "Johns Creek, GA",
+            "San Jose, CA",
+            "Westlake Village, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rambus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rambus",
+        "id": "04ff1436-4e1a-4757-b45e-a024e12a5a72",
+        "title": "Intern CAD Engineering - CAD Engineering",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758917445,
+        "date_posted": 1758917445,
+        "url": "https://careers-rambus.icims.com/jobs/22360/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "San Jose, CA",
+            "Westlake Village, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rambus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rambus",
+        "id": "00498252-d277-48fb-a643-074fe8a55a7b",
+        "title": "Data and AI Intern - IT",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758917444,
+        "date_posted": 1758917444,
+        "url": "https://careers-rambus.icims.com/jobs/22378/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rambus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Trend Micro",
+        "id": "4e5f0a43-465b-4f8b-b04b-8cb09ab2fa26",
+        "title": "Vulnerability Research Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1758917130,
+        "date_posted": 1758917130,
+        "url": "https://trendmicro.wd3.myworkdayjobs.com/External/job/Toronto/Vulnerability-Research-Intern---Winter-2026_R0008256",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Trend-Micro",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Novanta",
+        "id": "1a35bb4a-d134-4c90-a325-52c235fc8c45",
+        "title": "Engineering Intern - ATI Industrial Automation",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758917272,
+        "date_posted": 1758917272,
+        "url": "https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Apex-NC/Engineering-Co-op_R008530",
+        "locations": [
+            "Apex, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Novanta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Trend Micro",
+        "id": "08421ed0-dbfa-47bb-9ab3-d49e3fadda6d",
+        "title": "Research and Development Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758917129,
+        "date_posted": 1758917129,
+        "url": "https://trendmicro.wd3.myworkdayjobs.com/External/job/Austin/Research---Development-Intern---Summer-2026_R0008261",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Trend-Micro",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
