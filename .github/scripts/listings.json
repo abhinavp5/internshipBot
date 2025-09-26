@@ -206583,18 +206583,17 @@
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1758682033,
+        "date_updated": 1758870595,
         "date_posted": 1758682033,
         "url": "https://www.ixl.com/company/jobs?gh_jid=8182869002",
         "locations": [
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/IXL-Learning",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -211059,6 +211058,191 @@
         "source": "AlmondCroffle",
         "id": "45d08152-303f-4c43-aac5-131a5840b407",
         "date_posted": 1758869562,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758869670,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://ibotta.wd1.myworkdayjobs.com/en-US/ibotta/job/Denver-CO/Machine-Learning-Intern_R-102114",
+        "company_name": "Ibotta",
+        "title": "Machine Learning Intern",
+        "locations": [
+            "Denver, CO"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "396c55ef-bc75-45e7-b720-76eb0f7fed54",
+        "date_posted": 1758869670,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758869877,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2026-Artificial-Intelligence-Machine-Learning-Associate--Internship-_RQ207542",
+        "company_name": "GDIT",
+        "title": "Artificial Intelligence/Machine Learning Associate Internship",
+        "locations": [
+            "Falls Church, VA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "8d856b2b-9ffc-4009-9c7c-9667d0ec17a7",
+        "date_posted": 1758869877,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758870458,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://aholddelhaizeusa.careerswithus.com/job/Co-Ops/Data-Engineer-(AI)-Co-op-Fall-2026/Chicago-IL/ADUSArms/455368_external_USA-IL-Chicago",
+        "company_name": "Ahold Delhaize USA",
+        "title": "Data Engineer (AI) Co-op",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Fall 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "0f39d896-7918-4fc9-8a76-aed98d70185e",
+        "date_posted": 1758870458,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758870531,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.ixl.com/company/careers?gh_jid=8182869002",
+        "company_name": "IXL Learning",
+        "title": "Software Engineer",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "64a702fc-e489-4e7d-87c0-5f8e2d11d191",
+        "date_posted": 1758870531,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758870721,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://ibotta.wd1.myworkdayjobs.com/en-US/ibotta/job/Denver-CO/Software-Engineering-Intern_R-102113",
+        "company_name": "Ibotta",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Denver, CO"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "27b0add1-31cf-4382-b737-4319ff4975c4",
+        "date_posted": 1758870721,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758870850,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-MD-Windsor-Mill/Software-Developer-Automation-Intern_RQ207709",
+        "company_name": "GDIT",
+        "title": "Software Developer Automation Intern",
+        "locations": [
+            "Windsor Mill, MD",
+            "Remote in USA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "aa59a34f-5d74-4ddc-8c13-142929e1192e",
+        "date_posted": 1758870850,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758870885,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2026-Software-Development-Internship--_RQ207541",
+        "company_name": "GDIT",
+        "title": "Falls Church, VA",
+        "locations": [
+            "Software Development Internship"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "26e3338d-895c-4ce6-b279-07bd8f4cd72a",
+        "date_posted": 1758870885,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758871036,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "http://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Lawrence-MA-USA/Software-Test-Automation-Engineering-Co-op_R0222626",
+        "company_name": "Fresenius Medical Care",
+        "title": "Software Test Automation Engineering Co-op",
+        "locations": [
+            "Lawrence, MA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "466ee917-a3ad-4205-8a7a-e69efb4a3877",
+        "date_posted": 1758871036,
         "company_url": "",
         "is_visible": true
     }
