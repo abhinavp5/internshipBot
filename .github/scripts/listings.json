@@ -205679,7 +205679,7 @@
         "company_name": "W.R. Berkley",
         "id": "0c7562e6-7d8e-4ada-b934-9b6bdd000c2f",
         "title": "Intern \u2013 Software Developer - Reactjs",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -212674,6 +212674,54 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Red Ventures",
+        "id": "27d12096-158f-4c6b-ba31-d482c2d92c94",
+        "title": "Data Science Product Manager Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758922282,
+        "date_posted": 1758922282,
+        "url": "https://www.redventures.com/careers/positions/open?gh_jid=7279173",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Ventures",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Samsung",
+        "id": "26c729e4-fea0-42b8-8f16-e24e62efa1f5",
+        "title": "Intern - System Software Engineer - CXL",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758922213,
+        "date_posted": 1758922213,
+        "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7478636003",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
