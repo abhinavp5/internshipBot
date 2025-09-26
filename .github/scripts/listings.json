@@ -171193,7 +171193,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "cc75ebb7-54af-4871-9b94-08788b84063b",
         "title": "Quantitative Systematic Trading Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -189287,7 +189287,7 @@
         "company_name": "RTX",
         "id": "b5963f56-749a-4f14-9e1c-74a02bee665a",
         "title": "2026 Hardware in the Loop Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -189733,7 +189733,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "9a79d115-7687-401d-a7c2-569b979e827b",
         "title": "Assurance Innovation & Technology \u2013 Data Quality Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -192973,7 +192973,7 @@
         "company_name": "L3Harris Technologies",
         "id": "01003e94-2b93-4f67-8f22-7e04091952b5",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
