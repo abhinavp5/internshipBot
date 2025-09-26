@@ -135269,7 +135269,7 @@
         "company_name": "Geotab",
         "id": "6d947b27-e43e-4d3a-8b9d-be5602755df7",
         "title": "Embedded Developer Intern - IOX Works & Go Focus",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -145893,7 +145893,7 @@
         "company_name": "Block",
         "id": "ccc03b68-f975-425a-9c7c-2eec827aa90c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -159365,7 +159365,7 @@
         "company_name": "Block",
         "id": "7e56f334-14c4-4d8b-8710-9bccef5f4cc0",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -210846,6 +210846,31 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "GE Vernova",
+        "id": "57598d70-58ae-4268-b4b7-71fa6e5842dd",
+        "title": "GE Vernova Competitiveness Intern - Heavy Duty Gas Turbine Product Management",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758857950,
+        "date_posted": 1758857950,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Atlanta/GE-Vernova-Competitiveness-Intern--Heavy-Duty-Gas-Turbine-Product-Management---Summer-2026_R5018855-3",
+        "locations": [
+            "Greenville, SC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
