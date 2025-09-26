@@ -142221,7 +142221,7 @@
         "company_name": "Nelnet",
         "id": "34f1bd18-38e2-44e6-bd6e-19a77218982c",
         "title": "Intern \u2013 AI Strategy and Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -207861,7 +207861,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "19ae50ec-3aea-4771-89d2-7b04241ead21",
         "title": "Intern Engineer - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -211520,7 +211520,7 @@
         "company_name": "Banner Health",
         "id": "adff3886-ddb7-48bf-bbcf-d18c2980eba6",
         "title": "IT Intern - Intelligent Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -211980,6 +211980,56 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pinterest",
+        "id": "66069109-8263-424b-87e4-52e8c21689fe",
+        "title": "Data Science Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1758906961,
+        "date_posted": 1758906961,
+        "url": "https://www.pinterestcareers.com/job-form?gh_jid=7241588",
+        "locations": [
+            "Palo Alto, CA",
+            "Seattle, WA",
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinterest",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "0696362e-61e0-48a0-b8ea-20ab5aeb86cf",
+        "title": "Wavelogic Software Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1758906791,
+        "date_posted": 1758906791,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Intern--Winter-2026-_R028815",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
