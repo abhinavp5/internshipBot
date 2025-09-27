@@ -115,44 +115,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Yahoo",
-        "id": "8168435e-2b8c-40ab-bdce-e9c1c1946bcd",
-        "title": "All Yahoo Software Engineering Internships - US - Summer - Apply Here",
-        "active": false,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": 1727897119,
-        "date_posted": 1727897119,
-        "url": "https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America---Remote/ALL-Yahoo-Software-Engineering-Internships--US--Summer----Apply-Here-_JR0024964",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Yahoo",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Bank of Montreal",
-        "id": "f342a668-4767-45c8-b9c1-62ff62c52fde",
-        "title": "Junior Software Developer \u2013 Co-op/Internship - Winter 2025 - 4 months",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1727896279,
-        "date_posted": 1727896279,
-        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Junior-Software-Developer--Winter-2025--Co-op-Internship----4-months_R240025926",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/BMO",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Rivian",
         "id": "e4876e08-2e65-44e3-a9b8-14c85f435721",
         "title": "AI \u2013 Summer 2025 Internships - ML and Computer Vision Software",
@@ -151646,7 +151608,7 @@
         "company_name": "Meta",
         "id": "b4ca9c62-9e9f-4667-ac2d-4243366cff24",
         "title": "Research Scientist Intern - Switchable Optical Devices - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -171415,7 +171377,7 @@
         "company_name": "W.R. Berkley",
         "id": "772e84bd-7eb3-4373-b29b-8fad617ae11c",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -173958,7 +173920,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "7bb38c12-27e1-4e8d-bddd-a149edbd6e8a",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -174378,7 +174340,7 @@
         "company_name": "Lennox International",
         "id": "5370c3fa-9b3b-4a0e-b328-efb28408836f",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -174952,7 +174914,7 @@
         "company_name": "Shure",
         "id": "94103e1a-3f83-48bb-9369-b8c91872490b",
         "title": "Data Driven Sustainability Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -175141,7 +175103,7 @@
         "company_name": "Shure",
         "id": "41e961cd-8b3a-4677-8ec0-ed14cd640d75",
         "title": "Mobile Applications \u2013 Intern - Android",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -176413,7 +176375,7 @@
         "company_name": "Quanta Services",
         "id": "160d1f7f-a969-4416-8aff-56a07e419e95",
         "title": "Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -183001,7 +182963,7 @@
         "company_name": "Quanta Services",
         "id": "a18c7e94-aab4-432a-8bb9-d531679b794e",
         "title": "Information Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -186355,7 +186317,7 @@
         "company_name": "Audax Group",
         "id": "2b2c787e-3394-4bee-8b68-efce6d51038c",
         "title": "Data Engineer \u2013 Business Solutions Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -197558,7 +197520,7 @@
         "company_name": "Charles Schwab",
         "id": "d120aa7d-65c8-4667-8705-e036c36229bf",
         "title": "2026 Charles Schwab Technology Intern - Data Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -208835,7 +208797,7 @@
         "company_name": "Kinaxis",
         "id": "d3a15f64-ed8a-4820-ba9c-68dce12d3ecd",
         "title": "Co-op/Intern Developer - AI/ML",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -208927,7 +208889,7 @@
         "company_name": "Daktronics",
         "id": "d93a7453-5761-458b-9653-179b7284a8a9",
         "title": "Firmware/Hardware Design Co-op Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -214507,6 +214469,248 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "CIBC",
+        "id": "14db2f28-2812-4de3-a350-990cba7e227e",
+        "title": "Information Security Coordinator Co-Op",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1758994278,
+        "date_posted": 1758994278,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Information-Security-Coordinator-Co-Op_2522386",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CIBC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Walt Disney Company",
+        "id": "930b7541-e2ee-4ef7-aa67-a58f26ef8d29",
+        "title": "Tax Data Management & Innovation Graduate Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1758994250,
+        "date_posted": 1758994250,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Celebration-FL-USA/Tax-Data-Management---Innovation-Graduate-Intern--Spring-2026_10130481",
+        "locations": [
+            "Celebration, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ONE Finance",
+        "id": "202faa59-b175-4b20-9f63-8ee142070102",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758994016,
+        "date_posted": 1758994016,
+        "url": "https://jobs.ashbyhq.com/oneapp/3c3241fb-0655-4f8a-8670-770f6fce1e0b/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/One-Finance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Interco",
+        "id": "4358e00b-4d53-4067-8408-24596ff42c38",
+        "title": "Software Development Intern - Software Development",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758996547,
+        "date_posted": 1758996547,
+        "url": "https://jobs.smartrecruiters.com/Interco/744000083311183",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Interco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chatham Financial",
+        "id": "f52c5d61-2223-415f-bee0-3b4067823a9b",
+        "title": "Software Engineer Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758997437,
+        "date_posted": 1758997437,
+        "url": "https://job-boards.greenhouse.io/chathamfinancial/jobs/7277698",
+        "locations": [
+            "Centennial, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Chatham-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Moloco",
+        "id": "d0b3cb7e-7b34-44cc-8ca1-4b0d90082466",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1758998288,
+        "date_posted": 1758998288,
+        "url": "https://job-boards.greenhouse.io/moloco/jobs/7473817003",
+        "locations": [
+            "Seattle, WA",
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Moloco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Moloco",
+        "id": "092cd573-b924-423b-b5be-217fe894be72",
+        "title": "Data Science Intern - Data Science and Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1758998285,
+        "date_posted": 1758998285,
+        "url": "https://job-boards.greenhouse.io/moloco/jobs/7472531003",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Moloco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AbbVie",
+        "id": "b8811c4b-1eec-4ab8-8546-9ceab1e2313a",
+        "title": "Business Technology Solutions Intern - Data",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759000071,
+        "date_posted": 1759000071,
+        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990009655786",
+        "locations": [
+            "Waukegan, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/AbbVie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Meta",
+        "id": "4ad39ff0-e3f8-4854-8625-fc386a0a9821",
+        "title": "Data Center Production Operations Engineering Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759000033,
+        "date_posted": 1759000033,
+        "url": "https://www.metacareers.com/jobs/798271609275977",
+        "locations": [
+            "Fort Worth, TX",
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": " PrizePicks",
+        "id": "3deda11f-68ab-4b7c-921f-be192869df9e",
+        "title": "Machine Learning Engineer Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1758999967,
+        "date_posted": 1758999967,
+        "url": "http://prizepicks.com/position?gh_jid=7140147003",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/PrizePicks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
