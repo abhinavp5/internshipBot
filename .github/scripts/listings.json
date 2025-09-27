@@ -196181,7 +196181,7 @@
         "company_name": "Uber",
         "id": "40aeccbf-0b9a-4bd0-890d-f13db030891d",
         "title": "2026 Winter Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -210513,7 +210513,7 @@
         "company_name": "ServiceNow",
         "id": "5762911f-e8f2-4c33-8d7e-6cddf812d50c",
         "title": "Associate Information Security Analyst Intern - Sso",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
