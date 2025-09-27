@@ -115319,7 +115319,7 @@
         "company_name": "Handshake",
         "id": "97aed95b-8c9b-4757-b9f6-eb176612b149",
         "title": "Handshake AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -210486,7 +210486,7 @@
         "company_name": "ServiceNow",
         "id": "bf3f1513-bbb0-4fea-87fe-4988ebb8804b",
         "title": "Application Security Engineer Intern - ServiceNow Security Organization",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -212634,6 +212634,29 @@
             "Alpharetta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Kids-Alive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "decd66fc-e746-4175-a7da-977586420002",
+        "title": "Cloud Software Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758936624,
+        "date_posted": 1758936624,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Hanover/Cloud-Software-Intern---Summer-2026_317536",
+        "locations": [
+            "Hanover, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
