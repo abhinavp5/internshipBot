@@ -134217,7 +134217,7 @@
         "company_name": "Dow Jones",
         "id": "6769d0a7-a723-4c19-8c62-eb40051508ab",
         "title": "Identity and Access Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -175442,7 +175442,7 @@
         "company_name": "RoviSys",
         "id": "d7e5e1b2-17a9-4450-b6a8-a0afe51426eb",
         "title": "Co-op \u2013 Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -177777,7 +177777,7 @@
         "company_name": "Western Digital",
         "id": "911a0126-d8e8-4ae2-8497-90789c330cbb",
         "title": "Summer 2026 Intern - Information Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -179060,7 +179060,7 @@
         "company_name": "Charles Schwab",
         "id": "5a189b39-6633-4121-9610-cb4bc67e9048",
         "title": "Technology Intern - Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -182994,7 +182994,7 @@
         "company_name": "Wipfli",
         "id": "2475f313-954b-4b78-a5e7-4875eda6037b",
         "title": "Cybersecurity Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -184041,7 +184041,7 @@
         "company_name": "Western Digital",
         "id": "5b75ecc8-7ef2-4784-82bc-63d83b043a95",
         "title": "Summer 2026 Intern - Information Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -194854,7 +194854,7 @@
         "company_name": "RESPEC",
         "id": "22e490ad-56fe-4b56-af8d-5848ada5b644",
         "title": "Student Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -201024,7 +201024,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1758791643,
+        "date_updated": 1758986233,
         "date_posted": 1758657607,
         "url": "https://job-boards.greenhouse.io/bracebridgecapital/jobs/4601203005",
         "locations": [
@@ -201034,7 +201034,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's"
+            "Master's"
         ]
     },
     {
@@ -206374,7 +206374,7 @@
         "company_name": "RESPEC",
         "id": "cb5e43ba-13a7-4377-b35e-62bfb1dc2d76",
         "title": "Student Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -208991,15 +208991,16 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
+        "category": "Data Science, AI & Machine Learning",
         "company_name": "Samsung",
         "id": "76011733-a034-47c4-9932-c11000a226e6",
-        "title": "Intern \u2013 Memory Solution Research Engineer",
+        "title": "Memory Solution Research Engineer",
         "active": true,
         "terms": [
+            "Summer 2025",
             "Summer 2026"
         ],
-        "date_updated": 1758791504,
+        "date_updated": 1758986130,
         "date_posted": 1758782287,
         "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7477264003",
         "locations": [
@@ -209007,9 +209008,9 @@
         ],
         "company_url": "https://simplify.jobs/c/Samsung",
         "is_visible": true,
-        "sponsorship": "Other",
+        "sponsorship": "Offers Sponsorship",
         "degrees": [
-            "Bachelor's"
+            "Master's"
         ]
     },
     {
@@ -211090,7 +211091,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1758929007,
+        "date_updated": 1758986208,
         "date_posted": 1758882967,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1883457",
         "locations": [
@@ -211100,7 +211101,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's"
+            "Master's"
         ]
     },
     {
@@ -214218,6 +214219,29 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "7c0dcf7e-6a3e-4d34-91b0-614594db7069",
+        "title": "Cybersecurity Systems Engineer Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758983818,
+        "date_posted": 1758983818,
+        "url": "https://careers-gdms.icims.com/jobs/68215/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsfield, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
