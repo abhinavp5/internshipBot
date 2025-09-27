@@ -115,25 +115,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Marvell",
-        "id": "24d10f34-7bcb-4a9d-8bdc-b3a8f2bd1a31",
-        "title": "Product Engineer Intern - Bachelors",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1727838812,
-        "date_posted": 1727838812,
-        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Product-Engineer-Intern---Bachelors_2401896",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Harmonia",
         "id": "bc48004d-d70d-4cde-aeea-8dd9fbb24530",
         "title": "Software/Data Engineering Internship",
@@ -191561,7 +191542,7 @@
         "company_name": "Kinaxis",
         "id": "56935c20-d9f0-4d2f-9a56-e7953d5cf4be",
         "title": "Co-op IT Support Technician",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
