@@ -173025,7 +173025,7 @@
         "company_name": "Blue Cross and Blue Shield of Kansas",
         "id": "cfcbe7a8-95c4-437a-b220-ff1e886c8fa0",
         "title": "RPA Engineering Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Summer 2026"
@@ -178242,7 +178242,7 @@
         "company_name": "Roche",
         "id": "d036ae69-97e0-4929-848a-14976ee33eb2",
         "title": "2025 Intern - Algorithm Research and Development - Csmls",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -178801,7 +178801,7 @@
         "company_name": "Roche",
         "id": "dfb7c9da-2943-49fc-bb2d-ed85119c1035",
         "title": "2025 Intern - Algorithm Research and Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
