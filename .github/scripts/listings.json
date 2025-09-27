@@ -115,120 +115,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Harmonia",
-        "id": "bc48004d-d70d-4cde-aeea-8dd9fbb24530",
-        "title": "Software/Data Engineering Internship",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1727882088,
-        "date_posted": 1727882088,
-        "url": "https://www.harmonia.com/job-application/?gh_jid=6228985003",
-        "locations": [
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/ba0c3269-d801-4a03-822e-801359d1ec6b",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Marvell",
-        "id": "2cea654a-969f-4142-9a74-070744c777a2",
-        "title": "Engineering Project Analyst Intern - Pey - Bachelor\u2019s degree",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1727882032,
-        "date_posted": 1727882032,
-        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Toronto-Canada/Engineering-Project-Analyst-Intern---PEY----Bachelor-s-degree_2401842",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Axon",
-        "id": "16c39ca9-a7ac-4f8b-b823-155a9bb0569f",
-        "title": "2025 London SWE Internship",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1727881644,
-        "date_posted": 1727881644,
-        "url": "https://boards.greenhouse.io/axon/jobs/6211868003",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Axon",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Worldcoin",
-        "id": "303b62d5-9910-4125-8afc-0ae3a85610c6",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1727882263,
-        "date_posted": 1727882263,
-        "url": "https://job-boards.greenhouse.io/worldcoinorg/jobs/5343776004",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Worldcoin",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "CesiumAstro",
-        "id": "a1adc9b0-a3f7-445d-87a3-3e6ad92e2c5a",
-        "title": "Summer 2025 \u2013 Embedded Software Engineering Internship",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1727882197,
-        "date_posted": 1727882197,
-        "url": "https://jobs.lever.co/CesiumAstro/b98dfc8d-5c28-449b-b5fd-62cfa34c1230/apply",
-        "locations": [
-            "Broomfield, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/CesiumAstro",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Snackpass",
-        "id": "5a96a832-a1e6-44f0-9c98-ff93659d741f",
-        "title": "Software Engineer \u2013 Intern - Summer",
-        "active": false,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": 1727882275,
-        "date_posted": 1727882275,
-        "url": "https://job-boards.greenhouse.io/snackpasspt/jobs/5343803004",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Snackpass",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Yahoo",
         "id": "8168435e-2b8c-40ab-bdce-e9c1c1946bcd",
         "title": "All Yahoo Software Engineering Internships - US - Summer - Apply Here",
@@ -189507,9 +189393,9 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Origami Risk",
-        "id": "f2bd20e3-71f7-4a4b-b5f5-7bef4208fe2a",
+        "id": "70199aa9-55d3-4483-9d85-0a94e5112a64",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -191281,7 +191167,7 @@
         "company_name": "Quanta Services",
         "id": "6093c885-9c3a-4ab8-8d8b-eb2e398d31e0",
         "title": "Information Technology Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -201024,7 +200910,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1758986233,
+        "date_updated": 1758791643,
         "date_posted": 1758657607,
         "url": "https://job-boards.greenhouse.io/bracebridgecapital/jobs/4601203005",
         "locations": [
@@ -201034,7 +200920,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -208991,16 +208877,15 @@
     },
     {
         "source": "Simplify",
-        "category": "Data Science, AI & Machine Learning",
+        "category": "AI/ML/Data",
         "company_name": "Samsung",
         "id": "76011733-a034-47c4-9932-c11000a226e6",
-        "title": "Memory Solution Research Engineer",
+        "title": "Intern \u2013 Memory Solution Research Engineer",
         "active": true,
         "terms": [
-            "Summer 2025",
             "Summer 2026"
         ],
-        "date_updated": 1758986130,
+        "date_updated": 1758791504,
         "date_posted": 1758782287,
         "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7477264003",
         "locations": [
@@ -209008,9 +208893,9 @@
         ],
         "company_url": "https://simplify.jobs/c/Samsung",
         "is_visible": true,
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "degrees": [
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -211091,7 +210976,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1758986208,
+        "date_updated": 1758929007,
         "date_posted": 1758882967,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1883457",
         "locations": [
@@ -211101,7 +210986,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -214242,6 +214127,55 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Boeing Company",
+        "id": "6f1b904e-0c0a-4346-b2d9-706ba0241e47",
+        "title": "Software Engineering Artificial Intelligence Intern - Graduate Researcher Program",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758986102,
+        "date_posted": 1758986102,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Boeing-Technology-Innovation---Graduate-Researcher-Program---Software-Engineering-Artificial-Intelligence-Intern_JR2025472845",
+        "locations": [
+            "Seattle, WA",
+            "Tukwila, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zipline",
+        "id": "ab84e114-7f8f-4e22-bd15-e2af65daf117",
+        "title": "Data Scientist Intern - Software Integration",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1758985819,
+        "date_posted": 1758985819,
+        "url": "https://www.flyzipline.com/careers/open-roles?gh_jid=7480013003",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zipline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
