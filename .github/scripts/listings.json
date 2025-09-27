@@ -174285,7 +174285,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3900ee26-a593-429d-aeb9-6cea38b113a8",
         "title": "Machine Learning Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -177663,7 +177663,7 @@
         "company_name": "Western Digital",
         "id": "911a0126-d8e8-4ae2-8497-90789c330cbb",
         "title": "Summer 2026 Intern - Information Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -183927,7 +183927,7 @@
         "company_name": "Western Digital",
         "id": "5b75ecc8-7ef2-4784-82bc-63d83b043a95",
         "title": "Summer 2026 Intern - Information Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -214341,6 +214341,77 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Campbell's Company",
+        "id": "43249631-3834-4891-9a21-08aac17e2f6d",
+        "title": "People Analytics Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758990710,
+        "date_posted": 1758990710,
+        "url": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/People-Analytics-Intern---Summer-2026_Req-60729",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Campbells-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "4b8d20bc-7f92-4cd2-9d2e-d99775d7c5b7",
+        "title": "Cloud Acceleration Engineer Intern - DPU & AI Infra",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758990204,
+        "date_posted": 1758990204,
+        "url": "https://jobs.bytedance.com/en/position/7553575912802617607/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "2eb60478-442b-4c2a-aafc-80c90dc395dd",
+        "title": "Software Development Engineer Intern - Metadata Storage",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1758990234,
+        "date_posted": 1758990234,
+        "url": "https://jobs.bytedance.com/en/position/7549081058936899848/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
