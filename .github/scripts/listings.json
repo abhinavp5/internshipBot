@@ -142107,7 +142107,7 @@
         "company_name": "Qualcomm",
         "id": "47b16186-ade6-4128-a6af-a7c05f3779d9",
         "title": "Security \u2013 Engineering Internship - Product - Systems - Cyber",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -177639,7 +177639,7 @@
         "company_name": "Charles Schwab",
         "id": "1240c2cf-8e37-49b4-b815-58b2560f85d5",
         "title": "Technology Intern - Cybersecurity",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -214412,6 +214412,101 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Boeing Company",
+        "id": "4770c969-2e77-4c1f-963b-b20e18643c4e",
+        "title": "Artificial Intelligence Intern - Graduate Researcher Program - Artificial Intelligence",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758991409,
+        "date_posted": 1758991409,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Boeing-Artificial-Intelligence---Graduate-Researcher-Program---Artificial-Intelligence-Intern_JR2025474445",
+        "locations": [
+            "Seattle, WA",
+            "St. Louis, MO",
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AbbVie",
+        "id": "e4a9f1ac-b4db-42f8-b503-a2547b3d4355",
+        "title": "Business Technology Solutions Intern - Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758990845,
+        "date_posted": 1758990845,
+        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990009655358",
+        "locations": [
+            "Waukegan, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/AbbVie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Vernova",
+        "id": "ce05fb61-8659-41a3-a571-4fa9a8b41cb1",
+        "title": "Artificial Intelligence / Machine Learning Internship - Grid Automation - Renewables Solutions",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1758992687,
+        "date_posted": 1758992687,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Stafford/Artificial-Intelligence---Machine-Learning--Internship-_R5010257-3",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wells Enterprises",
+        "id": "ffb542f2-23a6-4ab8-9802-46618a9a5429",
+        "title": "Internship - IT",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758992235,
+        "date_posted": 1758992235,
+        "url": "https://hcsb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/2208682",
+        "locations": [
+            "Sioux City, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wells-Enterprises",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
