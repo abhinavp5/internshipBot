@@ -151292,7 +151292,7 @@
         "company_name": "Meta",
         "id": "b4ca9c62-9e9f-4667-ac2d-4243366cff24",
         "title": "Research Scientist Intern - Switchable Optical Devices - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -181949,7 +181949,7 @@
         "company_name": "American Structurepoint",
         "id": "d8c8e890-ea70-4928-9246-5165a69dbb2b",
         "title": "IT Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
