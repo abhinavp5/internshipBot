@@ -172337,7 +172337,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "57a601ba-c424-4324-8a40-7e650c4ee70a",
         "title": "Rotational Cybersecurity Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Spring 2026",
@@ -176059,7 +176059,7 @@
         "company_name": "Quanta Services",
         "id": "160d1f7f-a969-4416-8aff-56a07e419e95",
         "title": "Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -208573,7 +208573,7 @@
         "company_name": "Daktronics",
         "id": "0b3559d3-97ad-4a01-a6d8-78810cf73274",
         "title": "Firmware/Hardware Design Co-op Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Winter 2026"
