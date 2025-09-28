@@ -170544,7 +170544,7 @@
         "company_name": "Legrand NA",
         "id": "f12c4439-da73-4544-9abe-313c848354d9",
         "title": "Firmware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -170636,7 +170636,7 @@
         "company_name": "Steel Dynamics",
         "id": "7ba65b7f-ae42-4a6b-8450-04416d267214",
         "title": "Computer Engineering Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -174946,7 +174946,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9c843ea8-9b7c-4b8c-a34c-b8c89aa81148",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -181969,7 +181969,7 @@
         "company_name": "American Structurepoint",
         "id": "d8c8e890-ea70-4928-9246-5165a69dbb2b",
         "title": "IT Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -182667,7 +182667,7 @@
         "company_name": "Quanta Services",
         "id": "a18c7e94-aab4-432a-8bb9-d531679b794e",
         "title": "Information Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
