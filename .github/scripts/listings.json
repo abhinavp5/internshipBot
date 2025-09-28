@@ -170834,7 +170834,7 @@
         "company_name": "W.R. Berkley",
         "id": "772e84bd-7eb3-4373-b29b-8fad617ae11c",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -172110,7 +172110,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "57a601ba-c424-4324-8a40-7e650c4ee70a",
         "title": "Rotational Cybersecurity Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Spring 2026",
@@ -199172,7 +199172,7 @@
         "company_name": "Goldman Sachs",
         "id": "9791a5ee-4d8e-4870-b117-6f0480af5448",
         "title": "Summer Associate 2026 - FICC and Equities - Sales and Trading - Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
