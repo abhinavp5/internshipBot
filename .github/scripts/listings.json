@@ -136318,7 +136318,7 @@
         "company_name": "Nokia",
         "id": "ff6ec533-6664-4cec-8b5d-10d27a0655c7",
         "title": "Automation Engineer Co-op/Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -176036,7 +176036,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9a6e5b09-436c-4ff9-a004-546a8fd41641",
         "title": "Quantitative Trader Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -195739,7 +195739,7 @@
         "company_name": "CACI",
         "id": "ee8f2d6f-55aa-42bc-a91f-33d360864792",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -208340,7 +208340,7 @@
         "company_name": "Motorola",
         "id": "95859088-bb3b-42a4-846d-92b088fe3862",
         "title": "Data Scientist Intern - Service Design Tools & Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
