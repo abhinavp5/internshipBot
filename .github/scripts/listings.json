@@ -115,67 +115,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Rockwell Automation",
-        "id": "2696336e-6d59-451f-9bca-cff6d046bf61",
-        "title": "Co-op \u2013 Embedded Software Engineer",
-        "active": false,
-        "terms": [
-            "Spring 2024",
-            "Summer 2024",
-            "Fall 2024",
-            "Winter 2025"
-        ],
-        "date_updated": 1727983825,
-        "date_posted": 1727983825,
-        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--Embedded-Software-Engineer_R24-5747",
-        "locations": [
-            "Mayfield Heights, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Waymo",
-        "id": "e7598e50-292c-453d-9f55-b55edcbe1a48",
-        "title": "2025 Summer Intern - Waymo Commercialization - Fleet Infrastructure",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1728017553,
-        "date_posted": 1727983447,
-        "url": "https://careers.withwaymo.com/jobs?gh_jid=6273778",
-        "locations": [
-            "San Francisco, CA",
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Waymo",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Samsara",
-        "id": "11cc0427-47bd-4e15-803b-a47e385ba23c",
-        "title": "Firmware Intern - Mcu",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1727983321,
-        "date_posted": 1727983321,
-        "url": "https://www.samsara.com/company/careers/roles/6296451?gh_jid=6296451",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Samsara",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Cyberark",
         "id": "79d7c13c-d905-46cc-9d40-965bbf31d977",
         "title": "C&I Software Engineer Intern",
@@ -211928,7 +211867,7 @@
         "company_name": "Rambus",
         "id": "00498252-d277-48fb-a643-074fe8a55a7b",
         "title": "Data and AI Intern - IT",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -214950,6 +214889,29 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "CIBC",
+        "id": "effc5408-c848-4797-ab56-62a17f09dee9",
+        "title": "Product Consultant Co-op - Deposits and Payments",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1759087387,
+        "date_posted": 1759087387,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Consultant--Deposits-and-Payments---Winter-2026-Co-op_2522482",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CIBC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "MBA"
         ]
     }
 ]
