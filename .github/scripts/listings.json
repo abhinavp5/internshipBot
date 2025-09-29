@@ -126327,7 +126327,7 @@
         "company_name": "AECOM",
         "id": "ba23254d-bad4-4a00-9dc1-ba052451b783",
         "title": "Data Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -155383,7 +155383,7 @@
         "company_name": "AECOM",
         "id": "5e913439-654f-4841-86e1-f45f834a4f51",
         "title": "Data Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -170275,7 +170275,7 @@
         "company_name": "Steel Dynamics",
         "id": "7ba65b7f-ae42-4a6b-8450-04416d267214",
         "title": "Computer Engineering Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -189100,7 +189100,7 @@
         "company_name": "NextEra Energy",
         "id": "6efafa0d-41ce-490c-9907-55271adcf462",
         "title": "IT Nuclear Automated Solutions Analyst \u2013 College Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -189540,7 +189540,7 @@
         "company_name": "Al Warren Oil Company",
         "id": "87a88647-de41-4945-9946-a4369dac5445",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -194562,7 +194562,7 @@
         "company_name": "Allegion",
         "id": "87ba0184-9d90-49dd-bb68-4066c3ed9f64",
         "title": "Summer Intern - Software Engineering - Platform Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
