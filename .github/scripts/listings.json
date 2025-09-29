@@ -114,82 +114,6 @@
         "is_visible": false
     },
     {
-        "source": "Simplify",
-        "company_name": "Telesat",
-        "id": "11bd8e7b-5821-4d6a-a0bb-9659d9079de4",
-        "title": "Winter 2025 Systems Engineering Co-Op",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1728011343,
-        "date_posted": 1728011343,
-        "url": "https://jobs.lever.co/telesat/ef9482d9-0e9c-467e-9b42-9ebf63c78cfc/apply",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Telesat",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Zoox",
-        "id": "db6735fc-07e3-4794-a4ae-add9d39935d4",
-        "title": "Backend Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1728011802,
-        "date_posted": 1728011802,
-        "url": "https://jobs.lever.co/zoox/548bdfae-9858-4b7b-b3e4-d71f3ac55fbc/apply",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zoox",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Astranis",
-        "id": "78e5df1b-47e0-4e18-9bc6-695c9ded0218",
-        "title": "Ground Software Engineer \u2013 Intern - Winter 2025",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1728011730,
-        "date_posted": 1728011730,
-        "url": "https://job-boards.greenhouse.io/astranis/jobs/4408509006",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Astranis",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Astranis",
-        "id": "7644c6a6-8173-4b95-92a4-1718f41f8391",
-        "title": "Ground Software Engineer \u2013 Intern - Spring 2025",
-        "active": false,
-        "terms": [
-            "Spring 2025"
-        ],
-        "date_updated": 1728011726,
-        "date_posted": 1728011726,
-        "url": "https://job-boards.greenhouse.io/astranis/jobs/4408512006",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Astranis",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1728018086,
         "url": "https://careers.ibm.com/job/21104620/developer-intern-austin-tx/",
         "company_name": "IBM",
@@ -170036,7 +169960,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "cc75ebb7-54af-4871-9b94-08788b84063b",
         "title": "Quantitative Systematic Trading Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -172110,7 +172034,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "57a601ba-c424-4324-8a40-7e650c4ee70a",
         "title": "Rotational Cybersecurity Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Spring 2026",
@@ -174560,7 +174484,7 @@
         "company_name": "Shure",
         "id": "41e961cd-8b3a-4677-8ec0-ed14cd640d75",
         "title": "Mobile Applications \u2013 Intern - Android",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -174699,7 +174623,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9c843ea8-9b7c-4b8c-a34c-b8c89aa81148",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -182299,7 +182223,7 @@
         "company_name": "Wipfli",
         "id": "2475f313-954b-4b78-a5e7-4875eda6037b",
         "title": "Cybersecurity Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -182444,7 +182368,7 @@
         "company_name": "Meta",
         "id": "a38856cd-a151-41bb-be9f-6b9caa0f78a9",
         "title": "Research Scientist Intern - Optical System Design - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -197809,7 +197733,7 @@
         "company_name": "CIBC",
         "id": "32a8857d-c4c1-42d8-9e8c-f211ea5bfd38",
         "title": "AI Scientist Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -214644,5 +214568,31 @@
         "degrees": [
             "MBA"
         ]
+    },
+    {
+        "date_updated": 1759116488,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/tudorgroup/jobs/7228194",
+        "company_name": "Tudor Group",
+        "title": "Quantitative Developer Intern (Pipeline Team)",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "category": "Quantitative Finance",
+        "source": "AlmondCroffle",
+        "id": "253be6b2-baf0-43ae-b13e-410bf846e164",
+        "date_posted": 1759116488,
+        "company_url": "",
+        "is_visible": true
     }
 ]
