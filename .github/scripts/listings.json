@@ -137329,7 +137329,7 @@
         "company_name": "TD Bank",
         "id": "bdd0f9e2-fecb-4107-853b-67bed577df52",
         "title": "TDAM Portfolio Analytics Developer Intern / Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -169941,7 +169941,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "cc75ebb7-54af-4871-9b94-08788b84063b",
         "title": "Quantitative Systematic Trading Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -171610,7 +171610,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "87b5dfb7-6efe-418c-bf60-a329be9aeede",
         "title": "Quantitative Trader Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -172015,7 +172015,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "57a601ba-c424-4324-8a40-7e650c4ee70a",
         "title": "Rotational Cybersecurity Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Spring 2026",
@@ -172757,7 +172757,7 @@
         "company_name": "FM Global",
         "id": "0ce0eba4-b10d-48ec-b66f-1cd3bede9a6b",
         "title": "Software Engineering Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -174604,7 +174604,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9c843ea8-9b7c-4b8c-a34c-b8c89aa81148",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -174675,7 +174675,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "08b5f3e9-aa6a-4dcb-839c-f936a41196a3",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -182325,7 +182325,7 @@
         "company_name": "Quanta Services",
         "id": "a18c7e94-aab4-432a-8bb9-d531679b794e",
         "title": "Information Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -190491,7 +190491,7 @@
         "company_name": "Quanta Services",
         "id": "6093c885-9c3a-4ab8-8d8b-eb2e398d31e0",
         "title": "Information Technology Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -214487,7 +214487,7 @@
         "company_name": "University of Maryland Medical System",
         "id": "5ff40bef-b75b-4f95-a982-f576847b5d91",
         "title": "IT Helpdesk Specialist Intern - IT Support",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -214617,6 +214617,29 @@
             "Reston, VA"
         ],
         "company_url": "https://simplify.jobs/c/ICF-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Apogee Engineering",
+        "id": "33b85725-8c8d-441f-8cd6-8552d74ae72e",
+        "title": "Systems Architect - Apprentice - Multiple Teams",
+        "active": false,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759149873,
+        "date_posted": 1759132277,
+        "url": "https://careers-apogeeusa.icims.com/jobs/1448/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Wright-Patterson AFB, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Apogee-Engineering",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
