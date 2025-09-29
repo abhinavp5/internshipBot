@@ -115,25 +115,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Motorola",
-        "id": "9af5b299-2975-4ecd-8d5d-b5a8e945fc6f",
-        "title": "Imaging Specialist \u2013 Co-Op",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1728055219,
-        "date_posted": 1728055219,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Imaging-Specialist--Co-Op_R50707",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Amazon",
         "id": "e8334ea4-7f00-4496-8110-4570f4b54f96",
         "title": "Software Dev Engineer Intern 2025 - Automated Reasoning",
@@ -170202,7 +170183,7 @@
         "company_name": "Legrand NA",
         "id": "f12c4439-da73-4544-9abe-313c848354d9",
         "title": "Firmware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -175737,7 +175718,7 @@
         "company_name": "Quanta Services",
         "id": "160d1f7f-a969-4416-8aff-56a07e419e95",
         "title": "Innovation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -180332,7 +180313,7 @@
         "company_name": "Steel Dynamics",
         "id": "f2f4ab79-4acb-49c6-a5aa-a0bb34703745",
         "title": "Software Development Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -188719,7 +188700,7 @@
         "company_name": "Origami Risk",
         "id": "f2bd20e3-71f7-4a4b-b5f5-7bef4208fe2a",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -214761,6 +214742,53 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "GSA Capital",
+        "id": "5d4ba00c-83ab-4820-afc3-4be46d821361",
+        "title": "Quantitative Research Intern - Quantitative Research",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759158892,
+        "date_posted": 1759158892,
+        "url": "https://www.gsacapital.com/careers/gh/?gh_jid=8119055002",
+        "locations": [
+            "London, UK",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/GSA-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lila Sciences",
+        "id": "92f4cd29-3972-4c38-b2a0-410c2212b48d",
+        "title": "Intern \u2013 Automation Workcell Build",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1759159222,
+        "date_posted": 1759159222,
+        "url": "https://job-boards.greenhouse.io/lila/jobs/8188690002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lila-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
