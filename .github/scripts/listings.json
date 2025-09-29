@@ -145471,7 +145471,7 @@
         "company_name": "Ameriprise Financial",
         "id": "e51fbb4c-2817-49be-900c-37c590504bef",
         "title": "Technology Intern - Distribution Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -145967,7 +145967,7 @@
         "company_name": "Ameriprise Financial",
         "id": "ce5fe1ff-bd45-42cd-99ed-dc2173a13963",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -170294,7 +170294,7 @@
         "company_name": "Steel Dynamics",
         "id": "7ba65b7f-ae42-4a6b-8450-04416d267214",
         "title": "Computer Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -208249,9 +208249,9 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Daktronics",
-        "id": "0b3559d3-97ad-4a01-a6d8-78810cf73274",
+        "id": "d93a7453-5761-458b-9653-179b7284a8a9",
         "title": "Firmware/Hardware Design Co-op Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -214640,6 +214640,29 @@
             "Wright-Patterson AFB, OH"
         ],
         "company_url": "https://simplify.jobs/c/Apogee-Engineering",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "1e613f8a-0b2f-4212-bea6-a7b34545ab93",
+        "title": "Software Engineer Intern - Missile Defense Sensors",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759152262,
+        "date_posted": 1759152262,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA311-Woburn-MA-225-Presidential-225-Presidential-Way-Goddard-Building-27-Woburn-MA-01801-USA/XMLNAME-2026-Intern---Raytheon-Missile-Defense-Sensors-Software--Engineer-Intern--On-site-_01794116",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
