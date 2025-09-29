@@ -129764,7 +129764,7 @@
         "company_name": "Crowe",
         "id": "3039c57e-45d6-4dd2-b8e6-8bd5a50155ed",
         "title": "GRC Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -170934,7 +170934,7 @@
         "company_name": "StoneX Group",
         "id": "d2dceda8-d5f3-4634-8c1d-4035479634ce",
         "title": "Intern \u2013 Fixed Income Sales & Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -172757,7 +172757,7 @@
         "company_name": "FM Global",
         "id": "0ce0eba4-b10d-48ec-b66f-1cd3bede9a6b",
         "title": "Software Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -174604,7 +174604,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9c843ea8-9b7c-4b8c-a34c-b8c89aa81148",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -188719,7 +188719,7 @@
         "company_name": "Origami Risk",
         "id": "f2bd20e3-71f7-4a4b-b5f5-7bef4208fe2a",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -203214,7 +203214,7 @@
         "company_name": "Faith Technologies",
         "id": "e369e65a-6c48-480a-8aa7-f7a0064c31cc",
         "title": "AI Analyst Intern - Information Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -204787,7 +204787,7 @@
         "company_name": "Sonoco",
         "id": "29920c02-0d99-45a0-b021-449194255035",
         "title": "Intern \u2013 IT Network Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
