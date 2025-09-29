@@ -126209,7 +126209,7 @@
         "company_name": "AECOM",
         "id": "ba23254d-bad4-4a00-9dc1-ba052451b783",
         "title": "Data Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -168892,7 +168892,7 @@
         "company_name": "Berkshire Hathaway Energy",
         "id": "f94cd7a5-9e6d-45fd-9b9e-33853b03a6a2",
         "title": "Renewable Development \u2013 Intern - GIS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -182619,7 +182619,7 @@
         "company_name": "AECOM",
         "id": "ad0fabc9-3d0e-4318-9018-4d86dff7a6b1",
         "title": "Data Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -206930,7 +206930,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "b7a10bd4-23b9-4017-88ed-5a3dccea5dcc",
         "title": "Intern Engineer - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -209562,7 +209562,7 @@
         "company_name": "ServiceNow",
         "id": "a7ac75d1-b271-4c0e-b675-75657a5622bc",
         "title": "Data Informatics Analyst Intern - Security Organization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -213961,7 +213961,7 @@
         "company_name": "Walmart",
         "id": "836300c3-c1c3-4985-b131-0cd3d283682d",
         "title": "Product Manager 2",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
