@@ -109719,7 +109719,7 @@
         "company_name": "Goldman Sachs",
         "id": "3faca5bc-b341-4b90-8a19-e565fe16486e",
         "title": "2026 \u2013 Summer Analyst - Wealth Management - Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -118101,7 +118101,7 @@
         "company_name": "Capital One",
         "id": "3fd93944-f4ab-4a73-adac-51fb85911195",
         "title": "Intern \u2013 Mobile Software Engineer - Capital One Travel",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -170389,7 +170389,7 @@
         "company_name": "Steel Dynamics",
         "id": "7ba65b7f-ae42-4a6b-8450-04416d267214",
         "title": "Computer Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -172110,7 +172110,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "57a601ba-c424-4324-8a40-7e650c4ee70a",
         "title": "Rotational Cybersecurity Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Spring 2026",
@@ -173704,7 +173704,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3900ee26-a593-429d-aeb9-6cea38b113a8",
         "title": "Machine Learning Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -174747,7 +174747,7 @@
         "company_name": "RoviSys",
         "id": "d7e5e1b2-17a9-4450-b6a8-a0afe51426eb",
         "title": "Co-op \u2013 Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -177758,7 +177758,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "83f46325-2e31-43b7-b8de-0de422bdc0a9",
         "title": "Powertrain Controls Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -181676,7 +181676,7 @@
         "company_name": "Wiltshire Farm Foods",
         "id": "1593a1c8-12f0-4186-8a95-e65649275f09",
         "title": "Apprentice Data Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -188933,7 +188933,7 @@
         "company_name": "Intact",
         "id": "92ef0f4d-f446-4fe1-a58f-1e7e2035f19d",
         "title": "Data Engineering Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -190586,7 +190586,7 @@
         "company_name": "Quanta Services",
         "id": "6093c885-9c3a-4ab8-8d8b-eb2e398d31e0",
         "title": "Information Technology Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -194560,7 +194560,7 @@
         "company_name": "NextEra Energy",
         "id": "ad436ad5-4aca-440e-a7a7-143624ff4f09",
         "title": "IT Energy Trading Cloud Analyst \u2013 College Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -209533,7 +209533,7 @@
         "company_name": "Microchip Technology",
         "id": "45fc5d3c-ce72-4933-8097-4b2188eea305",
         "title": "Intern - Engineering - AI Cloud Workflows",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -210241,9 +210241,9 @@
         "title": "IT Data Intern - Engineering - Analytics and AI/ML",
         "active": true,
         "terms": [
-            "Summer 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758881487,
+        "date_updated": 1759113744,
         "date_posted": 1758881487,
         "url": "https://americancentury.wd5.myworkdayjobs.com/en-US/AmericanCenturyInvestments/job/Kansas-City-Missouri/IT-Data-Intern--Engineering--Analytics-and-AI-ML-_R0005430",
         "locations": [
@@ -210253,8 +210253,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -214293,7 +214292,7 @@
         "company_name": "Geosyntec Consultants",
         "id": "ea0e5c70-24d1-49c8-a642-64566f6f75ed",
         "title": "GIS and Geospatial Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
