@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 2192 Internship Roles by Category
+### Browse 2191 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1139)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (101)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (586)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (585)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (172)
 
@@ -14904,13 +14904,6 @@
 <td>27d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Guardian-Life?utm_source=GHList&utm_medium=company">Guardian Life</a></strong></td>
-<td>Summer Intern - Artificial Intelligence Business Analyst</td>
-<td>Holmdel, NJ</br>Bethlehem, PA</td>
-<td><div align="center"><a href="https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Holmdel/XMLNAME-2026-Guardian-Summer-Intern--Artificial-Intelligence-Business-Analyst_R000107476?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4379cbc8-ee5a-4631-a975-3fc85cc322a1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>27d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Stryker?utm_source=GHList&utm_medium=company">Stryker</a></strong></td>
 <td>2026 Summer Intern - Data Analytics</td>
 <td>San Jose, CA</td>
@@ -15853,7 +15846,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (167)</summary>
+<summary>🗃️ Inactive roles (168)</summary>
 
 <table>
 <thead>
@@ -16528,6 +16521,13 @@
 <td><strong><a href="https://simplify.jobs/c/Cencora?utm_source=GHList&utm_medium=company">cencora</a></strong></td>
 <td>Insite Data Analyst Intern</td>
 <td>Orange, CA</td>
+<td>🔒</td>
+<td>27d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Guardian-Life?utm_source=GHList&utm_medium=company">Guardian Life</a></strong></td>
+<td>Summer Intern - Artificial Intelligence Business Analyst</td>
+<td>Holmdel, NJ</br>Bethlehem, PA</td>
 <td>🔒</td>
 <td>27d</td>
 </tr>

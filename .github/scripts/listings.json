@@ -136543,7 +136543,7 @@
         "company_name": "Guardian Life",
         "id": "4379cbc8-ee5a-4631-a975-3fc85cc322a1",
         "title": "Summer Intern - Artificial Intelligence Business Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -169409,7 +169409,7 @@
         "company_name": "FM Global",
         "id": "0831f960-7a18-46e7-a8ec-fd25e7c05128",
         "title": "Cyber Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
