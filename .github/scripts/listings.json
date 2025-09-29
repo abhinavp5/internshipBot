@@ -104382,7 +104382,7 @@
             "Summer 2026"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "fe4e7ffc-53c2-47b3-a6c2-9a3877197d7e",
         "date_posted": 1755167523,
@@ -125026,7 +125026,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9d257cdf-efe6-4ac9-b1f0-5ed5e11826f0",
         "title": "Quantitative Systematic Trading Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -152153,7 +152153,7 @@
         "company_name": "Allegion",
         "id": "a195ece4-d2fa-402d-89d4-3d67d72e9174",
         "title": "Summer Intern - Software Systems Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -157854,7 +157854,7 @@
         "company_name": "Intact",
         "id": "8cb09b72-a0c3-40cb-9b61-cfda4c14b9a0",
         "title": "Software Developer \u2013 4 months Internship/Coop",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -170275,7 +170275,7 @@
         "company_name": "Steel Dynamics",
         "id": "7ba65b7f-ae42-4a6b-8450-04416d267214",
         "title": "Computer Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -174257,7 +174257,7 @@
         "company_name": "Shure",
         "id": "94103e1a-3f83-48bb-9369-b8c91872490b",
         "title": "Data Driven Sustainability Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -174376,7 +174376,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "c948674f-b374-488f-af89-265ae92d4fca",
         "title": "Machine Learning Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -174633,7 +174633,7 @@
         "company_name": "RoviSys",
         "id": "d7e5e1b2-17a9-4450-b6a8-a0afe51426eb",
         "title": "Co-op \u2013 Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -176944,7 +176944,7 @@
         "company_name": "Charles Schwab",
         "id": "1240c2cf-8e37-49b4-b815-58b2560f85d5",
         "title": "Technology Intern - Cybersecurity",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -190922,7 +190922,7 @@
         "company_name": "Cox",
         "id": "5f171b9f-7e98-4171-bd26-3457482f63d5",
         "title": "Enterprise Application Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -208093,7 +208093,7 @@
         "company_name": "Daktronics",
         "id": "ae65e4de-4ee4-4a7b-860e-d3b5d79baa84",
         "title": "Product Demonstration Technical Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -211484,7 +211484,7 @@
         "company_name": "Rambus",
         "id": "00498252-d277-48fb-a643-074fe8a55a7b",
         "title": "Data and AI Intern - IT",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
