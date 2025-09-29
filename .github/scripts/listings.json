@@ -115,26 +115,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Motorola",
-        "id": "22d4a198-e683-43b9-9724-e265fec38436",
-        "title": "IT Data Analytics \u2013 2025 Summer Internship - IL Hybrid",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1728070701,
-        "date_posted": 1728070701,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/IT-Data-Analytics---2025-Summer-Internship--IL-Hybrid-_R50462",
-        "locations": [
-            "Chicago, IL",
-            "Hoffman Estates, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Hudson River Trading",
         "id": "c310c18f-7f50-4591-9a95-9793d393490b",
         "title": "Women in Trading Technology Internship - Witti - Winter 2025",
@@ -188602,7 +188582,7 @@
         "company_name": "Origami Risk",
         "id": "f2bd20e3-71f7-4a4b-b5f5-7bef4208fe2a",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -211080,18 +211060,17 @@
         "terms": [
             "Winter 2026"
         ],
-        "date_updated": 1758915895,
+        "date_updated": 1759175676,
         "date_posted": 1758915895,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Photonic-Card-Software-Developer-Co-Op--January-2026-_R029059",
         "locations": [
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -213009,14 +212988,14 @@
         "terms": [
             "Spring 2026"
         ],
-        "date_updated": 1758981585,
+        "date_updated": 1759176810,
         "date_posted": 1758981585,
         "url": "https://siemens.eightfold.ai/careers/job/563156131874500",
         "locations": [
             "Milford, OH"
         ],
         "company_url": "https://simplify.jobs/c/Siemens",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -214656,7 +214635,7 @@
         "terms": [
             "Winter 2025"
         ],
-        "date_updated": 1759158892,
+        "date_updated": 1759176831,
         "date_posted": 1759158892,
         "url": "https://www.gsacapital.com/careers/gh/?gh_jid=8119055002",
         "locations": [
@@ -214664,10 +214643,10 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/GSA-Capital",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -214710,6 +214689,29 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Lila Sciences",
+        "id": "78bdc34f-452c-4b16-ac6d-566c9d60dae9",
+        "title": "Intern - IT & Security - IT - Security",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1759174508,
+        "date_posted": 1759174508,
+        "url": "https://job-boards.greenhouse.io/lila/jobs/8188695002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lila-Sciences",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
