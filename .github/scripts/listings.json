@@ -125022,7 +125022,7 @@
         "company_name": "Marsh",
         "id": "dfa9acba-aca7-4dc5-b804-4acbb1b4aad2",
         "title": "Data Strategy Co-op - College Program 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -129164,7 +129164,7 @@
         "company_name": "Meta",
         "id": "d23e4d27-4627-4759-8bf3-ec3dcd5823da",
         "title": "Research Scientist Intern - Anisotropic Optics and Photonics - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -143649,7 +143649,7 @@
         "company_name": "University of Virginia",
         "id": "17d9a474-3080-4eec-961d-322923ff57a3",
         "title": "Student Intern - Power Platform Development - Student Wage",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -145684,7 +145684,7 @@
         "company_name": "Meta",
         "id": "70603fee-3510-4d39-898f-c61fab1fc695",
         "title": "Research Scientist Intern - Computational Diffractive Optics - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -150638,7 +150638,7 @@
         "company_name": "RTX",
         "id": "01230c26-f43c-4b26-938c-6774fa286dfb",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -158018,7 +158018,7 @@
         "company_name": "Intact",
         "id": "0319c5e7-5a09-411d-9491-65089ab2885d",
         "title": "Software Developer I",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -163351,7 +163351,7 @@
         "company_name": "APEX Analytix",
         "id": "35e1ba8b-3879-45f0-8482-d44091441902",
         "title": "Copy of Support/Implementation Specialist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -172828,7 +172828,7 @@
         "company_name": "FM Global",
         "id": "302bca3a-bec3-422d-90ce-13c40c032cab",
         "title": "Identity Services Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -172852,7 +172852,7 @@
         "company_name": "FM Global",
         "id": "0ce0eba4-b10d-48ec-b66f-1cd3bede9a6b",
         "title": "Software Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -174490,7 +174490,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "c948674f-b374-488f-af89-265ae92d4fca",
         "title": "Machine Learning Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -174770,7 +174770,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "08b5f3e9-aa6a-4dcb-839c-f936a41196a3",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -174816,7 +174816,7 @@
         "company_name": "RoviSys",
         "id": "3cdc75c9-e302-471d-9aa2-12e38b885f5b",
         "title": "Co-op \u2013 Spring 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -175809,7 +175809,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9a6e5b09-436c-4ff9-a004-546a8fd41641",
         "title": "Quantitative Trader Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -180355,7 +180355,7 @@
         "company_name": "Workiva",
         "id": "04d77282-0649-4334-b635-9699bfcf7606",
         "title": "Intern - Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -180937,7 +180937,7 @@
         "company_name": "Leidos",
         "id": "4762b129-b9d4-45d6-b69c-e6b5dac777ba",
         "title": "Network Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -182420,7 +182420,7 @@
         "company_name": "Quanta Services",
         "id": "a18c7e94-aab4-432a-8bb9-d531679b794e",
         "title": "Information Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -188814,7 +188814,7 @@
         "company_name": "Origami Risk",
         "id": "f2bd20e3-71f7-4a4b-b5f5-7bef4208fe2a",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -197715,7 +197715,7 @@
         "company_name": "CIBC",
         "id": "6f32b8b4-d663-48c0-bb7d-aade47b51496",
         "title": "Data Scientist Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -206759,9 +206759,9 @@
         "title": "Info Security Sys Engineer Intern - Multiple Teams",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758753741,
+        "date_updated": 1759106596,
         "date_posted": 1758753741,
         "url": "https://jobs.l3harris.com/job/Melbourne-Info-Sec-Sys-Engineer-Intern-(Melbourne,-FL)-FL-32919/1328977600/?ats=successfactors",
         "locations": [
@@ -209037,7 +209037,7 @@
         "terms": [
             "Fall 2025"
         ],
-        "date_updated": 1758802981,
+        "date_updated": 1759106526,
         "date_posted": 1758802981,
         "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-25-14207",
         "locations": [
@@ -209045,11 +209045,10 @@
             "Buffalo, NY"
         ],
         "company_url": "https://simplify.jobs/c/Moog",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -209797,9 +209796,9 @@
         "title": "Data Informatics Analyst Intern - Security Organization",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758866722,
+        "date_updated": 1759105559,
         "date_posted": 1758866722,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000083936156",
         "locations": [
@@ -209820,9 +209819,9 @@
         "title": "Associate Information Security Analyst Intern - Sso",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758866732,
+        "date_updated": 1759105463,
         "date_posted": 1758866732,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000083924893",
         "locations": [
@@ -209843,9 +209842,9 @@
         "title": "Business Continuity Analyst Intern - Security Organization",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758866782,
+        "date_updated": 1759105583,
         "date_posted": 1758866782,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000083933650",
         "locations": [
@@ -210955,7 +210954,7 @@
         "company_name": "RTX",
         "id": "4bbf67b1-4117-40a8-9d53-4873168ef209",
         "title": "Software Engineer Intern - Aviation Messaging",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -211246,9 +211245,9 @@
         "title": "Javascript Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758914207,
+        "date_updated": 1759107223,
         "date_posted": 1758914207,
         "url": "https://jobs.ashbyhq.com/witnessai/d2aab44c-bb68-49a9-beb0-1cae0271f406/application",
         "locations": [
@@ -211362,11 +211361,11 @@
         "company_name": "Carollo Engineers",
         "id": "87affda7-6731-4b09-9c65-544b10d7a2bd",
         "title": "Web App Development Intern - Software Development",
-        "active": false,
+        "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758916753,
+        "date_updated": 1759106477,
         "date_posted": 1758804137,
         "url": "https://careers-carollo.icims.com/jobs/4133/job?mobile=true&needsRedirect=false",
         "locations": [
@@ -211376,8 +211375,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -214293,9 +214291,9 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Geosyntec Consultants",
-        "id": "1d0d67ae-ea85-4114-af48-cbebc81aeafb",
+        "id": "ea0e5c70-24d1-49c8-a642-64566f6f75ed",
         "title": "GIS and Geospatial Data Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
