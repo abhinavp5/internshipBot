@@ -200255,7 +200255,7 @@
         "company_name": "Insulet Corporation",
         "id": "bce96114-d67c-41de-bfe1-b8bdfb977a5b",
         "title": "Graduate Co-op - Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -206502,7 +206502,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "e516a1fc-6d6c-450e-a3c0-3cc1a999d1f5",
         "title": "Intern Engineer - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -211056,7 +211056,7 @@
         "company_name": "Ciena",
         "id": "1c22fb7e-8b82-4fc7-820a-315441bbfe6d",
         "title": "Photonic Card Software Developer Intern/Co-op - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
