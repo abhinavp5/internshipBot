@@ -114,25 +114,6 @@
         "is_visible": false
     },
     {
-        "date_updated": 1731454644,
-        "url": "https://careers.t-mobile.com/summer-2025-machine-learning-ai-intern/job/CC2528375D7C5C53F4B03E07F28DF8AC",
-        "company_name": "T-Mobile",
-        "title": "Summer 2025 Machine Learning & AI Intern",
-        "locations": [
-            "Coppell, TX"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "GaryZhous",
-        "id": "66557a84-58bd-4a14-92dc-278ba821c5f5",
-        "date_posted": 1728105901,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1728237193,
         "url": "https://jobs.siemens.com/careers/job/563156121257878",
         "company_name": "Siemens",
@@ -120206,7 +120187,7 @@
         "company_name": "Merchants Bank of Indiana",
         "id": "08d3d9af-17d4-4a2a-9d03-57037606b2c5",
         "title": "Risk Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -136889,7 +136870,7 @@
         "company_name": "TD Bank",
         "id": "aebceb56-196e-4a59-be12-f12e49178baa",
         "title": "Data Scientist Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -137010,7 +136991,7 @@
         "company_name": "TD Bank",
         "id": "f9ddf24c-c8f7-4ab0-b29b-db7da3571490",
         "title": "Software Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -137149,7 +137130,7 @@
         "company_name": "TD Bank",
         "id": "50ae3f4a-c21e-48df-a535-32f1660eac4b",
         "title": "Distribution & Geospatial Intelligence Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -137715,7 +137696,7 @@
         "company_name": "TD Bank",
         "id": "b3b8acd5-4f71-4226-b3ae-e92883206c20",
         "title": "Cyber Security Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -139668,7 +139649,7 @@
         "company_name": "TD Securities",
         "id": "05ae2ae1-184c-48e1-a037-2e908ddf753e",
         "title": "Product Analyst Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -162679,7 +162660,7 @@
         "company_name": "RESPEC",
         "id": "67697e1a-0800-4b63-894c-a9f03c6054b8",
         "title": "Student Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -173430,7 +173411,7 @@
         "company_name": "Lennox International",
         "id": "5370c3fa-9b3b-4a0e-b328-efb28408836f",
         "title": "AI Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -205312,7 +205293,7 @@
         "company_name": "RESPEC",
         "id": "cb5e43ba-13a7-4377-b35e-62bfb1dc2d76",
         "title": "Student Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -207979,7 +207960,7 @@
         "company_name": "Daktronics",
         "id": "0b3559d3-97ad-4a01-a6d8-78810cf73274",
         "title": "Firmware/Hardware Design Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
