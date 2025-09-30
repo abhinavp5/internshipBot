@@ -66386,7 +66386,7 @@
         "company_name": "ByteDance",
         "id": "9ba20427-57a6-43e2-a14a-3edabe7ab4d8",
         "title": "Machine Learning Engineer Intern - Search-Tiktok Recommendation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -130355,7 +130355,7 @@
         "company_name": "Geotab",
         "id": "7d70e1bb-7baa-4d82-afbe-4f9143b50e81",
         "title": "Government Security Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -173318,7 +173318,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3900ee26-a593-429d-aeb9-6cea38b113a8",
         "title": "Machine Learning Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
