@@ -215221,5 +215221,30 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "50d4a1c7-284e-49c3-9dcc-1a4e96c595ef",
+        "title": "Intern in Machine Learning for Autonomous Driving - Machine Learning - Autonomous Driving",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759230489,
+        "date_posted": 1759230489,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000084701414",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
