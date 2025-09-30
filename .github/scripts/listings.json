@@ -170448,7 +170448,7 @@
         "company_name": "W.R. Berkley",
         "id": "772e84bd-7eb3-4373-b29b-8fad617ae11c",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -174313,7 +174313,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9c843ea8-9b7c-4b8c-a34c-b8c89aa81148",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -192350,7 +192350,7 @@
         "company_name": "Howmet Aerospace",
         "id": "80a8b7d5-e8c6-4319-b469-c690e64e0e81",
         "title": "Intern \u2013 Cybersecurity",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -200410,7 +200410,7 @@
         "company_name": "Philips",
         "id": "c26a7ed0-9951-48c4-9bab-286cc938be6d",
         "title": "Co-op Data Engineering - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -215533,5 +215533,28 @@
         "date_posted": 1759239564,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Maven Securities",
+        "id": "493f0e67-e03e-441d-b6b4-0a3e9a67c92f",
+        "title": "Trader Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759239722,
+        "date_posted": 1758236584,
+        "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7227501",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Maven-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
