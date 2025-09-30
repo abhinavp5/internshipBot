@@ -200624,7 +200624,7 @@
         "company_name": "Darkhive",
         "id": "7540cd37-cab3-4e8c-badd-048ee7685a50",
         "title": "Hardware Engineer Intern - Drone Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -215492,7 +215492,7 @@
         "company_name": "The Walt Disney Company",
         "id": "0d9503f0-e3f7-4ed2-a16c-b005f59e7436",
         "title": "Technology Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -215797,7 +215797,7 @@
         "company_name": "Hive Financial Systems",
         "id": "b5f0e6cc-f809-4e4c-b83f-26fa3fee19ac",
         "title": "Software Engineering Intern - Front-End Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -215925,6 +215925,30 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AECOM",
+        "id": "154ca27f-ff37-4b0f-ab6d-316847ac04fb",
+        "title": "Data Management Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1759255146,
+        "date_posted": 1759255146,
+        "url": "https://jobs.smartrecruiters.com/AECOM2/744000084664630",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AECOM",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
