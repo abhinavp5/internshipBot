@@ -175563,7 +175563,7 @@
         "company_name": "W.R. Berkley",
         "id": "6b40a6ae-5798-4094-b54b-0cebecd2d6f2",
         "title": "Intern \u2013 Enterprise Architecture",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -193727,7 +193727,7 @@
         "company_name": "Motorola",
         "id": "bcd89cc8-ab11-4cb6-a9ce-22b64c622d52",
         "title": "Co-Op \u2013 Reporting Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -207582,7 +207582,7 @@
         "company_name": "Oshkosh",
         "id": "5174aeae-1f52-4b9d-908b-8b469931ebc7",
         "title": "Cybersecurity Intern - Cyber Defense",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
