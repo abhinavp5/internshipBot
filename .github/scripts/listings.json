@@ -124773,7 +124773,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9d257cdf-efe6-4ac9-b1f0-5ed5e11826f0",
         "title": "Quantitative Systematic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -166290,7 +166290,7 @@
         "company_name": "Meta",
         "id": "c8095ee6-0597-4833-b610-1f06b17c162e",
         "title": "Research Scientist Intern - Waveguide Design - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -169930,7 +169930,7 @@
         "company_name": "Legrand NA",
         "id": "f12c4439-da73-4544-9abe-313c848354d9",
         "title": "Firmware Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -171338,7 +171338,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "87b5dfb7-6efe-418c-bf60-a329be9aeede",
         "title": "Quantitative Trader Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -173337,7 +173337,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3900ee26-a593-429d-aeb9-6cea38b113a8",
         "title": "Machine Learning Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -174004,7 +174004,7 @@
         "company_name": "Shure",
         "id": "94103e1a-3f83-48bb-9369-b8c91872490b",
         "title": "Data Driven Sustainability Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -174193,7 +174193,7 @@
         "company_name": "Shure",
         "id": "41e961cd-8b3a-4677-8ec0-ed14cd640d75",
         "title": "Mobile Applications \u2013 Intern - Android",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -174332,7 +174332,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9c843ea8-9b7c-4b8c-a34c-b8c89aa81148",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -174403,7 +174403,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "08b5f3e9-aa6a-4dcb-839c-f936a41196a3",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -175442,7 +175442,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9a6e5b09-436c-4ff9-a004-546a8fd41641",
         "title": "Quantitative Trader Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -181355,7 +181355,7 @@
         "company_name": "American Structurepoint",
         "id": "d8c8e890-ea70-4928-9246-5165a69dbb2b",
         "title": "IT Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -195429,7 +195429,7 @@
         "company_name": "Emerson Electric",
         "id": "fc2b8083-5386-4d70-87ef-8fd52ebbdaf5",
         "title": "AI Powered Rotating Equipment Diagnostics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -207979,7 +207979,7 @@
         "company_name": "Daktronics",
         "id": "0b3559d3-97ad-4a01-a6d8-78810cf73274",
         "title": "Firmware/Hardware Design Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -211585,7 +211585,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759195412,
+        "date_updated": 1759195638,
         "date_posted": 1758960960,
         "url": "https://aexp.eightfold.ai/careers/job/38206900",
         "locations": [
@@ -211595,7 +211595,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's"
+            "Master's"
         ]
     },
     {
@@ -214650,6 +214650,98 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Aerospace Corporation",
+        "id": "7f96ea85-3ea5-49bb-8138-c337b0800d51",
+        "title": "Data Engineering Intern - Imaging Spectroscopy Department",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759198655,
+        "date_posted": 1759198655,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Data-Engineering-Undergraduate-Intern_R013783",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "NiSource",
+        "id": "47385e69-ebe3-4ffa-a2dc-061189099578",
+        "title": "Intern Nipsco Ot - Network",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1759198223,
+        "date_posted": 1759198223,
+        "url": "https://nisource.wd1.myworkdayjobs.com/NiSource/job/Hammond-IN-Operating-HQ/Intern-NIPSCO-OT---Network_R00940829",
+        "locations": [
+            "Markham, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/NiSource",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Allegion",
+        "id": "1a724364-b79f-497c-8f5f-3086d3728bfb",
+        "title": "Software Engineering Verification Intern - Quality Assurance",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1759199506,
+        "date_posted": 1759199506,
+        "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Software-Engineering-Verification-Intern_JR33780",
+        "locations": [
+            "Golden, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Allegion",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Al Warren Oil Company",
+        "id": "52fb8e53-c9ba-48f8-9ee8-73d57233a5e6",
+        "title": "Software Developer Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759198956,
+        "date_posted": 1759198956,
+        "url": "https://apply.workable.com/al-warren-oil-company-inc/j/D0588B6E6C/apply",
+        "locations": [
+            "Elk Grove Village, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Al-Warren-Oil-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
