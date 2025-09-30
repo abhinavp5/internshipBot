@@ -123681,7 +123681,7 @@
         "company_name": "Meta",
         "id": "51e9f670-c868-4887-bd0b-486d9c0baf4c",
         "title": "Research Scientist Intern - Systems ML - Frameworks / Compilers / Kernels - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -143329,7 +143329,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "61db80c7-2690-4ac8-a916-c4b1ff679672",
         "title": "2026 Summer Corporate Intern - Digital and Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -155661,7 +155661,7 @@
         "company_name": "JP Morgan Chase",
         "id": "60fd7344-a312-4f0d-be89-dcaf6f6b8dfe",
         "title": "Consumer & Community Banking Risk Modeling Associate Program \u2013 Summer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -207977,9 +207977,9 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Daktronics",
-        "id": "d93a7453-5761-458b-9653-179b7284a8a9",
+        "id": "0b3559d3-97ad-4a01-a6d8-78810cf73274",
         "title": "Firmware/Hardware Design Co-op Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -209143,7 +209143,7 @@
         "company_name": "Berkshire Hathaway Energy",
         "id": "975254d1-8967-4d27-bbbf-15d5734d10ef",
         "title": "Network Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -211577,7 +211577,7 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
+        "category": "Product Management",
         "company_name": "American Express",
         "id": "a9185fa1-42d8-4acf-af0a-12e47ab85e20",
         "title": "Campus Graduate Summer Internship Program - Product Development",
@@ -211585,7 +211585,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1758960960,
+        "date_updated": 1759195412,
         "date_posted": 1758960960,
         "url": "https://aexp.eightfold.ai/careers/job/38206900",
         "locations": [
@@ -211595,7 +211595,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -214578,6 +214578,78 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "State Street",
+        "id": "041d36c0-2c3e-4d96-90e8-6294c72a980a",
+        "title": "Emerging Technology Governance, Co-Op",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1759193744,
+        "date_posted": 1759191270,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/BOSTON/Emerging-Technology-Governance--Co-Op_R-778255",
+        "locations": [
+            "Boston, MA",
+            "Quincy, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cotiviti",
+        "id": "f0e77d03-ff7a-45fd-8d97-47ff2a14f03d",
+        "title": "Intern \u2013 Agentic AI Research",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1759191601,
+        "date_posted": 1759191601,
+        "url": "https://careers-cotiviti.icims.com/jobs/16718/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cotiviti",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GM financial",
+        "id": "1bdad2fd-9a2f-4462-93fe-66c9494c9d4d",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759191458,
+        "date_posted": 1759191458,
+        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/1058",
+        "locations": [
+            "Fort Worth, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GM-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
