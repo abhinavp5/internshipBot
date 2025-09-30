@@ -174174,7 +174174,7 @@
         "company_name": "Shure",
         "id": "41e961cd-8b3a-4677-8ec0-ed14cd640d75",
         "title": "Mobile Applications \u2013 Intern - Android",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -195126,7 +195126,7 @@
         "company_name": "CACI",
         "id": "ee8f2d6f-55aa-42bc-a91f-33d360864792",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -204685,7 +204685,7 @@
         "company_name": "NatWest Group",
         "id": "e5ecf5a4-5a37-4143-9710-d096dfcd9be0",
         "title": "Engineering Internship - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -204731,7 +204731,7 @@
         "company_name": "NatWest Group",
         "id": "6cb5e61c-1716-4d68-8cc3-f8092affcdab",
         "title": "Engineering Internship - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -211259,9 +211259,9 @@
         "title": "Engineering Intern - ATI Industrial Automation",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758917272,
+        "date_updated": 1759238050,
         "date_posted": 1758917272,
         "url": "https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Apex-NC/Engineering-Co-op_R008530",
         "locations": [
@@ -215318,6 +215318,195 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "0f9e64a4-2f81-4e45-8f3d-d921cad36736",
+        "title": "Network Operations Intern - Network Operations",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759236351,
+        "date_posted": 1759236351,
+        "url": "https://careers-gdms.icims.com/jobs/68251/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "76e1950c-284e-43b2-a256-ec299f06fdc2",
+        "title": "Software Engineer Intern - HighVIEW Product Development",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759235848,
+        "date_posted": 1759235848,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Software-Engineer-Intern---Summer-2026_317955-1",
+        "locations": [
+            "Hanover, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Mackenzie Investments",
+        "id": "1ee56d8c-a545-44d5-9353-5b550b5a6ef8",
+        "title": "Intern - Product Department",
+        "active": false,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1759236344,
+        "date_posted": 1757611757,
+        "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5678/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mackenzie-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lazard",
+        "id": "bd166cbe-6b37-4f06-b5b5-fe5f9f928a2d",
+        "title": "Data Engineer Intern - Data Analytics Group",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759238266,
+        "date_posted": 1759238266,
+        "url": "https://lazard-careers.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/3798-2026-Data-Engineer-Summer-Internship-Lazard-Data-Analytics-Group/en-GB",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/7d057960-156e-4d7c-9483-82513be53e32",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Absci",
+        "id": "b217a8ab-4526-49bc-87a5-b33f1d86c884",
+        "title": "AI Scientist Intern - AI Research - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759238244,
+        "date_posted": 1759238244,
+        "url": "https://www.absci.com/careers/roles/?gh_jid=7482142003",
+        "locations": [
+            "NYC",
+            "Vancouver, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/absci",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sanofi",
+        "id": "75ee0a15-4487-4ac6-8f75-3ea5241f47fa",
+        "title": "Co-op Intern - Workplace Transformation",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1759238174,
+        "date_posted": 1759238174,
+        "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Cambridge-MA/Summer-or-Fall-2026-Co-op-Intern---Workplace-Transformation_R2814204",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sanofi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lazard",
+        "id": "17b2b25d-d99c-4ebd-829a-8e99bf954598",
+        "title": "AI Engineer Intern - Data Analytics Group",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759238239,
+        "date_posted": 1759238239,
+        "url": "https://lazard-careers.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/3797-2026-AI-Engineer-Summer-Internship-Lazard-Data-Analytics-Group/en-GB",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/7d057960-156e-4d7c-9483-82513be53e32",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "The Walt Disney Company",
+        "id": "0d9503f0-e3f7-4ed2-a16c-b005f59e7436",
+        "title": "Technology Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1759238223,
+        "date_posted": 1759238223,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Philadelphia-PA-USA/WPVI-TV--6abc--Technology-Intern--Spring-2026_10131151-2",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
