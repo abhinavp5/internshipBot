@@ -165556,7 +165556,7 @@
         "company_name": "TD Securities",
         "id": "6e785460-8a04-48d2-8d59-24040a1f0fef",
         "title": "Summer Analyst - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -209497,7 +209497,7 @@
     {
         "date_updated": 1758869562,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
