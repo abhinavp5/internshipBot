@@ -174104,7 +174104,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "c948674f-b374-488f-af89-265ae92d4fca",
         "title": "Machine Learning Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -188805,7 +188805,7 @@
         "company_name": "NextEra Energy",
         "id": "7b7a4e19-68ca-4baf-8c1b-28a29628217d",
         "title": "IT AI Solutions Analyst \u2013 College Intern - Power Generation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -210096,7 +210096,7 @@
         "company_name": "Rambus",
         "id": "8e5c43e7-05a6-4746-935b-495159a96309",
         "title": "Silicon IP Field Application Engineer Intern - Field Application Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -215835,6 +215835,54 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "State Street",
+        "id": "caa6c4c7-7952-47da-a9a2-4184965e8ed5",
+        "title": "AI Cyber Security Intern/Co-op - Information Security Risk Management Program",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1759245994,
+        "date_posted": 1759245994,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/AI-Cyber-Security-in-Information-Security-Risk-Management-Program--Co-Op_R-778253",
+        "locations": [
+            "Quincy, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wex",
+        "id": "bee1f206-02d9-429e-aa5c-8fd2dce2b35e",
+        "title": "Intern - Software Engineer - Undergraduate Students Only",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759245630,
+        "date_posted": 1759245630,
+        "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Intern---Software-Engineer--Undergraduate-Students-Only-_R19201",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/788246ec-e89c-499a-bb15-9a02acb178a9",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
