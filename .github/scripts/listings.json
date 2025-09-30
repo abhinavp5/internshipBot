@@ -66367,7 +66367,7 @@
         "company_name": "ByteDance",
         "id": "d0392b41-76ff-473a-9b8d-d669f5bcef00",
         "title": "Machine Learning Engineer Intern - Search-Tiktok Recommendation - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -123754,7 +123754,7 @@
         "company_name": "L3Harris Technologies",
         "id": "f15d24d4-4b61-44f6-83e4-f9f6e9e77763",
         "title": "Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -126102,7 +126102,7 @@
         "company_name": "Marsh",
         "id": "16748082-d5f2-4230-8fe3-8100e6069c87",
         "title": "Catastrophe Advisory Spring Co-op - College Program 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -137061,7 +137061,7 @@
         "company_name": "TD Bank",
         "id": "b6a4c05b-8605-4450-bb4e-93400ec2a3f9",
         "title": "Business Insights & Analytics Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -169911,7 +169911,7 @@
         "company_name": "Legrand NA",
         "id": "f12c4439-da73-4544-9abe-313c848354d9",
         "title": "Firmware Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -210973,7 +210973,7 @@
         "company_name": "Carollo Engineers",
         "id": "87affda7-6731-4b09-9c65-544b10d7a2bd",
         "title": "Web App Development Intern - Software Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -215102,6 +215102,29 @@
             "Bachelor's",
             "Master's",
             "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wealthsimple",
+        "id": "8961f246-894a-4deb-9700-0fb2526b4e1b",
+        "title": "Intern \u2013 Software Development - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1759211812,
+        "date_posted": 1759211812,
+        "url": "https://jobs.lever.co/wealthsimple/68ac674e-0e51-4d0e-8ce3-3d23e1768e48/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Wealthsimple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
