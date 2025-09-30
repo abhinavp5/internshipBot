@@ -133113,7 +133113,7 @@
         "company_name": "Dow Jones",
         "id": "73d1d557-60e8-4bab-b296-eae7134396e6",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -215743,6 +215743,98 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Walt Disney Company",
+        "id": "b29145e6-2bae-4c50-868f-75fcf24c7dd0",
+        "title": "Post Production Technology Intern - Post Production Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759245322,
+        "date_posted": 1759245322,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/London-United-Kingdom/Post-Production-Technology-Internship_10133258",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "StoneX Group",
+        "id": "ce865353-31a9-4023-8acc-8c0528db27f6",
+        "title": "Intern \u2013 Market Data Engineer - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759245092,
+        "date_posted": 1759245092,
+        "url": "https://careers-stonex.icims.com/jobs/13829/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/StoneX-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hive Financial Systems",
+        "id": "b5f0e6cc-f809-4e4c-b83f-26fa3fee19ac",
+        "title": "Software Engineering Intern - Front-End Development",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759245136,
+        "date_posted": 1759245136,
+        "url": "https://job-boards.greenhouse.io/hivefinancialsystems/jobs/4923966007",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hive-Financial-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PayPal",
+        "id": "e3d89e14-55b6-4878-83c4-987beb9f7a79",
+        "title": "Machine Learning Engineer Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759244741,
+        "date_posted": 1759244741,
+        "url": "https://paypal.eightfold.ai/careers/job/274915802833",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PayPal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
