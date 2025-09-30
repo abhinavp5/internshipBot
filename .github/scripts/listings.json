@@ -214275,8 +214275,8 @@
             "Summer 2026"
         ],
         "category": "Quantitative Finance",
-        "source": "AlmondCroffle",
-        "id": "253be6b2-baf0-43ae-b13e-410bf846e164",
+        "source": "Simplify",
+        "id": "73199814-3e84-4231-bb57-e24a55f035d8",
         "date_posted": 1759116488,
         "company_url": "",
         "is_visible": true
@@ -216183,6 +216183,52 @@
             "San Carlos, CA"
         ],
         "company_url": "https://simplify.jobs/c/Electronic-Arts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Samsung",
+        "id": "dcf9cbda-bc74-47d8-bf6a-80257d5c18be",
+        "title": "Intern \u2013 Artificial Intelligence Research Scientist",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759273734,
+        "date_posted": 1759273734,
+        "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7481763003",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "McDonald's",
+        "id": "a5cca161-b49e-4de0-bcab-4345c400055b",
+        "title": "Cybersecurity Intern - Global Cyber Security",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759273697,
+        "date_posted": 1759273697,
+        "url": "https://jobs.mcdonalds.com/job/Chicago-2026-Global-Technology-Cybersecurity-Intern-IL-60607/1329538500/?ats=successfactors",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/McDonald",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
