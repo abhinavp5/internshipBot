@@ -186928,7 +186928,7 @@
         "company_name": "ICF",
         "id": "5d06ad35-cb8a-451d-8fe1-20f126be703b",
         "title": "Intern - Data Scientist / Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -186951,7 +186951,7 @@
         "company_name": "ICF",
         "id": "418e4ec9-a202-462c-92f4-bead62ed5416",
         "title": "Intern - Software Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -215949,6 +215949,31 @@
             "Oakland, CA"
         ],
         "company_url": "https://simplify.jobs/c/AECOM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Wipfli",
+        "id": "e0639b17-9a9d-45a1-a01f-74fa600e3859",
+        "title": "Product Implementation Intern/Co-op - IP Product Group",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759259709,
+        "date_posted": 1759243252,
+        "url": "https://careers-wipfli.icims.com/jobs/7199/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Chicago, IL",
+            "Milwaukee, WI",
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Wipfli",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
