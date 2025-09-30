@@ -118483,7 +118483,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "229cf625-4db7-450e-8d2f-ce97ca2b8605",
         "title": "AI Customer Engagement Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -125080,7 +125080,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "057819d8-d85c-46f7-b31e-6d9e538c832c",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -169648,9 +169648,9 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Susquehanna International Group (SIG)",
-        "id": "87fc97ec-ca87-43df-a38a-d186466d89ef",
+        "id": "cc75ebb7-54af-4871-9b94-08788b84063b",
         "title": "Quantitative Systematic Trading Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -174313,7 +174313,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9c843ea8-9b7c-4b8c-a34c-b8c89aa81148",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -174430,7 +174430,7 @@
         "company_name": "RoviSys",
         "id": "3cdc75c9-e302-471d-9aa2-12e38b885f5b",
         "title": "Co-op \u2013 Spring 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -214256,14 +214256,14 @@
         ]
     },
     {
-        "date_updated": 1759116488,
+        "date_updated": 1759239680,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [
             "Bachelor's"
         ],
         "url": "https://job-boards.greenhouse.io/tudorgroup/jobs/7228194",
-        "company_name": "Tudor Group",
+        "company_name": "The Tudor Group",
         "title": "Quantitative Developer Intern (Pipeline Team)",
         "locations": [
             "New York, NY"
@@ -215508,5 +215508,30 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1759239564,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/Slack/job/California---San-Francisco/Summer-2026-Intern---Software-Engineer_JR308796-3",
+        "company_name": "Slack",
+        "title": "Software Engineer",
+        "locations": [
+            "San Francisco, CA",
+            "Seattle, WA",
+            "Bellevue, WA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "7bf5b40d-8de5-469f-a24f-19d7372718fa",
+        "date_posted": 1759239564,
+        "company_url": "",
+        "is_visible": true
     }
 ]
