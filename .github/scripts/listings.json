@@ -101257,7 +101257,7 @@
         "company_name": "Hudson River Trading",
         "id": "8267bdf4-b0c6-4073-871b-6799c86aac52",
         "title": "Algorithm Trader \u2013 Internship - Quantitative Trader",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -201886,7 +201886,7 @@
         "company_name": "Quantum Signal AI ",
         "id": "677db1ae-2097-44bf-bab3-66d09087d554",
         "title": "Simulation Software Engineering Intern - Real-Time Simulation Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
