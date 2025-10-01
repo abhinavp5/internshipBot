@@ -124661,7 +124661,7 @@
         "company_name": "Dominion Energy",
         "id": "d7e26aa0-170f-45b9-83ac-bc74c03b474d",
         "title": "Intern \u2013 ET Data Systems Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -155111,7 +155111,7 @@
         "company_name": "AECOM",
         "id": "5e913439-654f-4841-86e1-f45f834a4f51",
         "title": "Data Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -175423,7 +175423,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9a6e5b09-436c-4ff9-a004-546a8fd41641",
         "title": "Quantitative Trader Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -181098,7 +181098,7 @@
         "company_name": "SciTec",
         "id": "5d647969-aec1-4703-bf79-0b9bbfbc3129",
         "title": "Scitec Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -182034,7 +182034,7 @@
         "company_name": "Quanta Services",
         "id": "a18c7e94-aab4-432a-8bb9-d531679b794e",
         "title": "Information Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -182465,7 +182465,7 @@
         "company_name": "AECOM",
         "id": "ad0fabc9-3d0e-4318-9018-4d86dff7a6b1",
         "title": "Data Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -188428,7 +188428,7 @@
         "company_name": "Origami Risk",
         "id": "f2bd20e3-71f7-4a4b-b5f5-7bef4208fe2a",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -199097,7 +199097,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758523305,
+        "date_updated": 1759281898,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [
@@ -199117,7 +199117,7 @@
         "id": "66e9d6c5-7578-478f-9c59-b4111e9049bd",
         "date_posted": 1758523305,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758523438,
@@ -199258,7 +199258,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758524134,
+        "date_updated": 1759281916,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [
@@ -199281,7 +199281,7 @@
         "id": "3da90885-904d-476f-8a59-591cb6c50fa9",
         "date_posted": 1758524134,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758524267,
@@ -209633,7 +209633,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759162113,
+        "date_updated": 1759281822,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [
@@ -209654,7 +209654,7 @@
         "id": "aa59a34f-5d74-4ddc-8c13-142929e1192e",
         "date_posted": 1758870850,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758870885,
@@ -210902,7 +210902,7 @@
         "company_name": "Ciena",
         "id": "1c22fb7e-8b82-4fc7-820a-315441bbfe6d",
         "title": "Photonic Card Software Developer Intern/Co-op - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -213902,7 +213902,7 @@
         "company_name": "Geosyntec Consultants",
         "id": "ea0e5c70-24d1-49c8-a642-64566f6f75ed",
         "title": "GIS and Geospatial Data Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -214334,7 +214334,7 @@
         "company_name": "Apogee Engineering",
         "id": "33b85725-8c8d-441f-8cd6-8552d74ae72e",
         "title": "Systems Architect - Apprentice - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -215372,7 +215372,7 @@
         "company_name": "Mackenzie Investments",
         "id": "1ee56d8c-a545-44d5-9353-5b550b5a6ef8",
         "title": "Intern - Product Department",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -216280,6 +216280,156 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Truveta",
+        "id": "239a6198-b1e6-4e56-b2da-7c23a99006a1",
+        "title": "Software Engineering Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1759275926,
+        "date_posted": 1759275926,
+        "url": "https://job-boards.greenhouse.io/truveta/jobs/5662141004",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Truveta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "d1cb9664-7e18-418e-866f-347a5a80ed25",
+        "title": "Software Engineer Intern - Machine Learning",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1759275456,
+        "date_posted": 1759275456,
+        "url": "https://www.metacareers.com/jobs/1810076966260242",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "b97234dc-80bc-4a8e-b29f-0f79f28a0e5d",
+        "title": "Research Scientist Intern - Embodied AI",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759275463,
+        "date_posted": 1759275463,
+        "url": "https://www.metacareers.com/jobs/778113191645498",
+        "locations": [
+            "Seattle, WA",
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "84b4da26-bc70-4ad3-9f49-752bc9d4df7a",
+        "title": "Research Scientist Intern - Rendering and Reconstruction",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2026"
+        ],
+        "date_updated": 1759275462,
+        "date_posted": 1759275462,
+        "url": "https://www.metacareers.com/jobs/24700677919619636",
+        "locations": [
+            "Sausalito, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "4d446025-61bd-4fe7-bec6-354742fe7e75",
+        "title": "Research Scientist Intern - AI & Compute Foundation - MTIA Software",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1759275475,
+        "date_posted": 1759275475,
+        "url": "https://www.metacareers.com/jobs/2248078652358020",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Meta",
+        "id": "2421b794-56fe-4993-a6ac-6c97b0a7d2ed",
+        "title": "Software Engineer Intern - Systems and Infrastructure",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1759275460,
+        "date_posted": 1759275460,
+        "url": "https://www.metacareers.com/jobs/1300131991847199",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
