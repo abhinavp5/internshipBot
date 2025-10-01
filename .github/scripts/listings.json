@@ -188428,7 +188428,7 @@
         "company_name": "Origami Risk",
         "id": "f2bd20e3-71f7-4a4b-b5f5-7bef4208fe2a",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -213902,7 +213902,7 @@
         "company_name": "Geosyntec Consultants",
         "id": "ea0e5c70-24d1-49c8-a642-64566f6f75ed",
         "title": "GIS and Geospatial Data Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -218994,6 +218994,30 @@
             "Vernon Hills, IL"
         ],
         "company_url": "https://simplify.jobs/c/Zebra-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Federal Reserve System",
+        "id": "155c9f91-ab53-44e6-af95-f21ae91dfaa3",
+        "title": "Software Developer Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759334201,
+        "date_posted": 1759334201,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/Software-Developer-Intern---Summer-2026_R-0000030257",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
