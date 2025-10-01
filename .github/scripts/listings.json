@@ -72701,7 +72701,7 @@
         "company_name": "Instawork",
         "id": "96dfff8a-1935-48d2-8b5f-a193be59dd4d",
         "title": "Product Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -72724,7 +72724,7 @@
         "company_name": "Instawork",
         "id": "942f1271-5b3c-46df-8d98-8adc1533f1de",
         "title": "Product Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -97518,7 +97518,7 @@
         "company_name": "US Foods",
         "id": "923ae353-a361-4131-8f8a-0aff232b636c",
         "title": "Intern \u2013 Data Engineer - M&a",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -130666,7 +130666,7 @@
         "company_name": "MKS Instruments",
         "id": "9e336448-6e40-4ec6-be40-d4c6d6626f06",
         "title": "Software Engineering Undergraduate Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -178377,6 +178377,149 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NiSource",
+        "id": "e1440161-ba96-4ec3-817b-e0fb8ad6acf1",
+        "title": "Damage Prevention/Data Analytics Intern - Damage Prevention - Data Analytics",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1759353403,
+        "date_posted": 1759353403,
+        "url": "https://nisource.wd1.myworkdayjobs.com/NiSource/job/Columbus-OH---Arena-District/Damage-Prevention--Data-Analytics-Intern_R00940996",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/NiSource",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Deloitte",
+        "id": "762b7aaa-e039-4a40-98ad-461a518a82c7",
+        "title": "Mission Assurance/COOP Support - TS/SCI with Poly Required",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759353366,
+        "date_posted": 1759353366,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Mission-Assurance-COOP-Support-TS-SCI-with-Poly-Required-Onsite/313750",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Deloitte",
+        "id": "fe73ca8e-95ab-424e-8aac-a43abc05cc93",
+        "title": "Deloitte Technology Associate Intern - Technology Support",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1759353363,
+        "date_posted": 1759353363,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Technology-Associate-Intern-Technology-Support/313773",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Deloitte",
+        "id": "9adfb4ee-8059-453e-824f-8f232c2f3db6",
+        "title": "Summer Scholar - Government & Public Services - Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1759353365,
+        "date_posted": 1759353365,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Consulting-LLP-Government-Public-Services-Summer-Scholar-Software-Engineering/309291",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "74b4d744-e4ee-415e-bb26-d7b7bd927004",
+        "title": "Software Engineer Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759353318,
+        "date_posted": 1759353318,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern_R-00167321",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CACI",
+        "id": "44d66c76-29d6-48c3-b125-d748b85093b6",
+        "title": "Software Engineering Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759352674,
+        "date_posted": 1759352674,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Dulles/Software-Engineering-Intern---Summer-2026_317969",
+        "locations": [
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
