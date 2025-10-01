@@ -134,44 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "d-Matrix",
-        "id": "762d524d-636c-411b-bc42-acbddde00e4c",
-        "title": "Machine Learning Research Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738616155,
-        "date_posted": 1738616155,
-        "url": "https://jobs.ashbyhq.com/d-Matrix/f05ada35-9763-40f2-b079-15191374b2f3/application",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/d-Matrix",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Applied Materials",
-        "id": "7a60bd23-319a-42a2-bf37-029ca9586bb8",
-        "title": "Summer 2025 Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738615569,
-        "date_posted": 1738615569,
-        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Summer-2025-Data-Analyst-Intern--Santa-Clara--CA-_R2510729",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "First American",
         "id": "8ef1173d-dfd1-48f3-86b5-5a051b176825",
         "title": "Software Engineering Intern",
@@ -171730,9 +171692,9 @@
         "title": "Junior Software Engineer Intern/Co-op - Software Development - Multiple Teams",
         "active": false,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758980869,
+        "date_updated": 1759352288,
         "date_posted": 1758980869,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/104-30-Edgewater-Drive-Ottawa-Ontario-K2L-1V8-Canada/Junior-Software-Engineer-Co-Op--Hybrid-_01795141-1",
         "locations": [
@@ -171921,9 +171883,9 @@
         "title": "Software Engineering Intern - Network Services and Enablement",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758987498,
+        "date_updated": 1759352318,
         "date_posted": 1758987498,
         "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/Software-Engineering-Intern_250003809-1",
         "locations": [
@@ -172181,9 +172143,9 @@
         "title": "Information Security Coordinator Co-Op",
         "active": true,
         "terms": [
-            "Winter 2026"
+            "Summer 2026"
         ],
-        "date_updated": 1758994278,
+        "date_updated": 1759352336,
         "date_posted": 1758994278,
         "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Information-Security-Coordinator-Co-Op_2522386",
         "locations": [
@@ -174742,9 +174704,9 @@
         "title": "Software Engineering Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759272422,
+        "date_updated": 1759352356,
         "date_posted": 1759272422,
         "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR105069",
         "locations": [
@@ -175943,7 +175905,7 @@
         "company_name": "Rolls Royce",
         "id": "4a8a75a7-77a2-49e0-aa2b-121ac4e2543a",
         "title": "IT Applications Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -176013,7 +175975,7 @@
         "company_name": "Rolls Royce",
         "id": "b3b3423b-fd91-4ca6-9f82-d7d4a47eaadf",
         "title": "Data Development and Analytics Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -176128,7 +176090,7 @@
         "company_name": "Rolls Royce",
         "id": "1112a96a-e3cc-4e81-bccc-1f9fc79f132c",
         "title": "Intern - Computer Aided Quality Technician - Exterior Surface",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -176739,7 +176701,7 @@
         "company_name": "Rolls Royce",
         "id": "3409d247-40c6-42b1-8496-5f810d80ad0b",
         "title": "Intern - New Vehicle Content & Quality Assembly",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -176762,7 +176724,7 @@
         "company_name": "Rolls Royce",
         "id": "06d2cc74-59d9-4aac-af99-a34313dd7bdc",
         "title": "IT Developer/Operations Feature Team Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -177265,7 +177227,7 @@
         "company_name": "Rolls Royce",
         "id": "73597cd9-5567-4729-83f8-cff60270f51b",
         "title": "Software Developer Intern - Innovation and Digitalisation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -177384,7 +177346,7 @@
         "company_name": "Rolls Royce",
         "id": "e927d2ea-465a-4926-89c4-5e0ac31e4da7",
         "title": "System Analyst Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -177478,7 +177440,7 @@
         "company_name": "Rolls Royce",
         "id": "64e2a2ec-d1c6-42b2-845a-92e6d914148f",
         "title": "Data Science Intern - Innovation and Digitalisation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -177953,7 +177915,7 @@
         "company_name": "National Basketball Association",
         "id": "0d312638-151e-4d5c-b021-ad511f083a15",
         "title": "Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -178364,6 +178326,53 @@
             "Edinburgh, UK"
         ],
         "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Federal Reserve System",
+        "id": "fd49fa31-c07d-4833-ae96-34e0e37ce362",
+        "title": "Data Analytics Intern - Information Technology",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759351351,
+        "date_posted": 1759351351,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/Data-Analytics-Intern---Summer-2026_R-0000030246",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Rolls Royce",
+        "id": "ad71ab66-b16d-45d0-b288-e3e5c289ccbc",
+        "title": "IT Plant Services and Integration Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759352348,
+        "date_posted": 1759352348,
+        "url": "https://jobs.bmwgroup.com/job/Oxford-IT-Plant-Services-and-Integration-Internship/1253259801/?ats=successfactors",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
