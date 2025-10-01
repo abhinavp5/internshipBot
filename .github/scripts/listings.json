@@ -217160,5 +217160,74 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Datacor",
+        "id": "e61053ba-cbb8-4fc6-9776-6d37677e7aa7",
+        "title": "Internship Program - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759292934,
+        "date_posted": 1759292934,
+        "url": "https://job-boards.greenhouse.io/datacor/jobs/4918298007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Datacor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CACI",
+        "id": "c44a88b3-9e59-4a16-8df1-cefe393ec953",
+        "title": "Software Development Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759292894,
+        "date_posted": 1759292894,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Software-Development-Intern---Summer-2026_317703",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "CACI",
+        "id": "07793292-06d2-4a5a-ad99-a6eff3109e90",
+        "title": "Network / Cybersecurity Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759292886,
+        "date_posted": 1759292886,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-NC-High-Point/Network---Cybersecurity-Intern---Summer-2026_318082",
+        "locations": [
+            "High Point, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
