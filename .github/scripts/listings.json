@@ -169611,7 +169611,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "cc75ebb7-54af-4871-9b94-08788b84063b",
         "title": "Quantitative Systematic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -169964,7 +169964,7 @@
         "company_name": "Steel Dynamics",
         "id": "7ba65b7f-ae42-4a6b-8450-04416d267214",
         "title": "Computer Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -186496,7 +186496,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "fa86d270-524f-4687-9f51-77cb34f194c0",
         "title": "Associate C++ Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -215189,7 +215189,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "50d4a1c7-284e-49c3-9dcc-1a4e96c595ef",
         "title": "Intern in Machine Learning for Autonomous Driving - Machine Learning - Autonomous Driving",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -219502,6 +219502,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Tidal Financial Group",
+        "id": "f58626dd-6203-4472-94c8-0b7483e0dfc3",
+        "title": "Trading Intern 2025 - Trading Team",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1759345547,
+        "date_posted": 1759345547,
+        "url": "https://ats.rippling.com/open-roles/jobs/ba0d7588-5f0b-488d-9417-1e17bd954706",
+        "locations": [
+            "West Palm Beach, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Tidal-Financial-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
