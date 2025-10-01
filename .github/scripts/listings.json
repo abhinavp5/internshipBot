@@ -145792,7 +145792,7 @@
         "company_name": "CAI",
         "id": "186dfc2e-8474-4a84-bcd7-5ebe3eca5b99",
         "title": "Service Desk Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -172393,7 +172393,7 @@
         "company_name": "FM Global",
         "id": "b4e87514-cc27-4a5d-9bcd-266ced9cd3b4",
         "title": "Cyber Specialist Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -175423,7 +175423,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9a6e5b09-436c-4ff9-a004-546a8fd41641",
         "title": "Quantitative Trader Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -175658,7 +175658,7 @@
         "company_name": "W.R. Berkley",
         "id": "183873ef-c292-4e5e-816e-4777686fefc7",
         "title": "Quantitative Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -181336,7 +181336,7 @@
         "company_name": "American Structurepoint",
         "id": "d8c8e890-ea70-4928-9246-5165a69dbb2b",
         "title": "IT Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -203204,7 +203204,7 @@
         "company_name": "RTX",
         "id": "f6f766a7-c73f-40a9-9f4f-10f2fdd41557",
         "title": "Software Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -205151,7 +205151,7 @@
         "company_name": "Autodesk",
         "id": "206d06f1-40c7-44a4-9b54-c2b1118991ae",
         "title": "Intern \u2013 Platform Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -207960,7 +207960,7 @@
         "company_name": "Daktronics",
         "id": "0b3559d3-97ad-4a01-a6d8-78810cf73274",
         "title": "Firmware/Hardware Design Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -210096,7 +210096,7 @@
         "company_name": "Rambus",
         "id": "8e5c43e7-05a6-4746-935b-495159a96309",
         "title": "Silicon IP Field Application Engineer Intern - Field Application Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -217786,6 +217786,149 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "GoFundMe",
+        "id": "cd83e73a-a71d-4449-9ba5-3b59cd056dda",
+        "title": "Product Management Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759297753,
+        "date_posted": 1759297753,
+        "url": "https://job-boards.greenhouse.io/gofundme/jobs/7284112",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/GoFundMe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "9255082b-c2a6-4c2d-92dc-a444456d1d12",
+        "title": "Systems Integration and Software Engineer Intern - Transportation Solutions Division",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759297734,
+        "date_posted": 1759297734,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Eagan-MN/Systems--Integration-and-Software-Engineer-Intern_R-00167691",
+        "locations": [
+            "Eagan, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "68262620-00ac-4942-8ada-26d95fef9bd5",
+        "title": "Data Scientist Intern - Product Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759297764,
+        "date_posted": 1759297764,
+        "url": "https://www.metacareers.com/jobs/804300811922734",
+        "locations": [
+            "Seattle, WA",
+            "Burlingame, CA",
+            "Menlo Park, CA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Rolls Royce",
+        "id": "2c7ff583-5220-45ef-b161-c67f9373cca3",
+        "title": "Business IT Intern - Business IT Development",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1759297284,
+        "date_posted": 1759297284,
+        "url": "https://jobs.bmwgroup.com/job/Coleshill-Business-IT-Internship/1252785501/?ats=successfactors",
+        "locations": [
+            "Solihull, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kinaxis",
+        "id": "13f0b494-2bc6-4797-8242-359aaf79a180",
+        "title": "Co-op Developer - Machine Learning",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759298316,
+        "date_posted": 1759298316,
+        "url": "https://careers-kinaxis.icims.com/jobs/33767/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Comcast",
+        "id": "21606f5b-a1e8-4bd8-bd67-54b3efff19f8",
+        "title": "Product Management Intern - FreeWheel - Demand Side Platform",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759297850,
+        "date_posted": 1759297850,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NY---New-York-1407-Broadway-Floor-12/Comcast-Product-Graduate-Intern_R419337",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
