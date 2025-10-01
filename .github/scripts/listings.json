@@ -122508,7 +122508,7 @@
         "company_name": "Vermeer",
         "id": "b4174d6c-115f-47b3-ae6e-db683adeb9c6",
         "title": "IT Security Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -178520,6 +178520,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CapTech Consulting",
+        "id": "23f943ac-5725-4b66-ad60-05ac3a92b25f",
+        "title": "Consulting Internship: Software Engineering - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759354355,
+        "date_posted": 1759354355,
+        "url": "https://jobs.smartrecruiters.com/CapTechConsulting/744000084976114",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CapTech-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
