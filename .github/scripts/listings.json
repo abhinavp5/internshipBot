@@ -171056,7 +171056,7 @@
         "company_name": "Computershare",
         "id": "0d6af6e8-db74-41f3-82ef-282c3169ced6",
         "title": "Internship - Perl Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -178539,6 +178539,29 @@
             "Richmond, VA"
         ],
         "company_url": "https://simplify.jobs/c/CapTech-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AbbVie",
+        "id": "2d0d833b-3c09-42c8-86ab-0d00ee0e568d",
+        "title": "Medical Device Software Engineer Intern - Product Development - Allergan Aesthetics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759360392,
+        "date_posted": 1759360392,
+        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990009671476",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AbbVie",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
