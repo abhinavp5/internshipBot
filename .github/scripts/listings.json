@@ -171295,7 +171295,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "f7395054-7db5-4380-a84d-a3a91540d37c",
         "title": "Quantitative Strategy Developer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -174430,7 +174430,7 @@
         "company_name": "RoviSys",
         "id": "3cdc75c9-e302-471d-9aa2-12e38b885f5b",
         "title": "Co-op \u2013 Spring 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -215372,7 +215372,7 @@
         "company_name": "Mackenzie Investments",
         "id": "1ee56d8c-a545-44d5-9353-5b550b5a6ef8",
         "title": "Intern - Product Department",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -218619,6 +218619,101 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rolls Royce",
+        "id": "73597cd9-5567-4729-83f8-cff60270f51b",
+        "title": "Software Developer Intern - Innovation and Digitalisation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759320982,
+        "date_posted": 1759320982,
+        "url": "https://jobs.bmwgroup.com/job/Coleshill-Software-Developer-Internship/1252875801/?ats=successfactors",
+        "locations": [
+            "Solihull, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Marvell",
+        "id": "f1019011-302a-44a4-9788-8d2f8bc7a06a",
+        "title": "AI/ML Intern - Bachelor's Degree",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759320639,
+        "date_posted": 1759320639,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-ML-Intern---Bachelor-s-Degree_2502807",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rolls Royce",
+        "id": "a157e66e-d1f6-4959-85bc-a40b1ca6b077",
+        "title": "Internship - Data Scientist",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759320624,
+        "date_posted": 1759320624,
+        "url": "https://jobs.bmwgroup.com/job/Coleshill-Internship-Data-Scientist/1252862401/?ats=successfactors",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GuideWell Mutual",
+        "id": "7ea07573-ff98-4de7-9aea-073c21493446",
+        "title": "IT Summer Undergraduate Internship 2026 - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759320663,
+        "date_posted": 1759320663,
+        "url": "http://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/41053",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/GuideWell-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
