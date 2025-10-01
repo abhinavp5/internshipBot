@@ -174104,7 +174104,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "c948674f-b374-488f-af89-265ae92d4fca",
         "title": "Machine Learning Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -175658,7 +175658,7 @@
         "company_name": "W.R. Berkley",
         "id": "183873ef-c292-4e5e-816e-4777686fefc7",
         "title": "Quantitative Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -188523,7 +188523,7 @@
         "company_name": "QuadReal",
         "id": "de66599f-9e42-457d-8b6b-9a5fef1b8004",
         "title": "Data Scientist \u2013 Co-op/Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -197306,7 +197306,7 @@
         "company_name": "GE Vernova",
         "id": "a10d7546-842b-40ae-aef9-5077ceb86f74",
         "title": "Gas Power Carbon Solutions - Decarbonization Markets Intern - Decarbonization Markets",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -211444,7 +211444,7 @@
         "company_name": "Northrop Grumman",
         "id": "2559c514-45c0-4026-9b52-d7bc48f24ad2",
         "title": "Software Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
