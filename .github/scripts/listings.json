@@ -134,45 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Brunswick",
-        "id": "caa5a317-ba6c-46be-88b0-099ec72ab652",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Spring 2025",
-            "Summer 2025"
-        ],
-        "date_updated": 1738615019,
-        "date_posted": 1738615019,
-        "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Tulsa-OK/Software-Engineering-Intern_JR-044185",
-        "locations": [
-            "Tulsa, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/a93a0fb2-e10a-434c-a88c-a639748677a4",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Kargo",
-        "id": "bb101caa-16a5-43be-9e75-7605555785f7",
-        "title": "Intern \u2013 Machine Learning",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738614037,
-        "date_posted": 1738614037,
-        "url": "https://www.kargo.com/careers?gh_jid=4640621007",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Kargo",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "d-Matrix",
         "id": "762d524d-636c-411b-bc42-acbddde00e4c",
         "title": "Machine Learning Research Intern",
@@ -192,44 +153,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Kargo",
-        "id": "f35b522f-de00-4e50-95b2-21c210fd7a48",
-        "title": "Intern \u2013 Data Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738614049,
-        "date_posted": 1738614049,
-        "url": "https://www.kargo.com/careers?gh_jid=4639909007",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Kargo",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Kargo",
-        "id": "fcce438a-f839-43a4-b4aa-eae1e29f956c",
-        "title": "Intern \u2013 Software Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738614038,
-        "date_posted": 1738614038,
-        "url": "https://www.kargo.com/careers?gh_jid=4640097007",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Kargo",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Applied Materials",
         "id": "7a60bd23-319a-42a2-bf37-029ca9586bb8",
         "title": "Summer 2025 Data Analyst Intern",
@@ -244,45 +167,6 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Ameriprise Financial",
-        "id": "9d46a0d9-4715-42f3-8de9-47a367738810",
-        "title": "Investments Intern - Quantitative Research",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738614634,
-        "date_posted": 1738614634,
-        "url": "https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Boston-Massachusetts/Investments-Intern--Quantitative-Research_R24_0000002716",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ameriprise-Financial",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Guidewire",
-        "id": "09977c1c-6e92-4857-9ba8-9a93d88524b3",
-        "title": "Consultant Developer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2025",
-            "Summer 2025"
-        ],
-        "date_updated": 1738614923,
-        "date_posted": 1738614923,
-        "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Philadelphia-PA/Consultant-Developer-Intern_JR_12776-1",
-        "locations": [
-            "Exton, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Guidewire",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -113865,7 +113749,7 @@
         "company_name": "AECOM",
         "id": "5e913439-654f-4841-86e1-f45f834a4f51",
         "title": "Data Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -159772,17 +159656,17 @@
             "Winter 2026",
             "Summer 2026"
         ],
-        "date_updated": 1758604364,
+        "date_updated": 1759351444,
         "date_posted": 1758604364,
         "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US/Co-op---Software-Engineer---Cambridge--MA---January---August-2026_561094",
         "locations": [
             "Cambridge, MA"
         ],
         "company_url": "https://simplify.jobs/c/Philips",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -172656,7 +172540,7 @@
         "company_name": "Geosyntec Consultants",
         "id": "ea0e5c70-24d1-49c8-a642-64566f6f75ed",
         "title": "GIS and Geospatial Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -177138,7 +177022,7 @@
         "company_name": "Rolls Royce",
         "id": "5a392717-cebf-46f6-8411-d0d600dfe3b2",
         "title": "Information Security Intern - Information Security",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -178461,6 +178345,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "b98bb6a0-41b0-49bf-b0a2-628c27db13cd",
+        "title": "Software Engineering Intern - Project Delivery",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759348989,
+        "date_posted": 1759348989,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Edinburgh/Software-Engineering-Intern--Project-Delivery-_R5019386-1",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
