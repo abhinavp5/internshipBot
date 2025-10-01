@@ -173411,7 +173411,7 @@
         "company_name": "Lennox International",
         "id": "5370c3fa-9b3b-4a0e-b328-efb28408836f",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -174430,7 +174430,7 @@
         "company_name": "RoviSys",
         "id": "3cdc75c9-e302-471d-9aa2-12e38b885f5b",
         "title": "Co-op \u2013 Spring 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -210973,7 +210973,7 @@
         "company_name": "Carollo Engineers",
         "id": "87affda7-6731-4b09-9c65-544b10d7a2bd",
         "title": "Web App Development Intern - Software Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -217929,6 +217929,53 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AECOM",
+        "id": "285019dd-ada3-48ab-840d-7ba000751ee3",
+        "title": "Data Management Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1759300674,
+        "date_posted": 1759300674,
+        "url": "https://jobs.smartrecruiters.com/AECOM2/744000084666005",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/AECOM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "FOX",
+        "id": "d29182eb-0d49-4e45-aabc-1ceaf972cf6d",
+        "title": "Internship Program - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759300497,
+        "date_posted": 1759300497,
+        "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Summer-2026-FOX-Technology-Internship-Program---Tempe--AZ_R50030120",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Fox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
