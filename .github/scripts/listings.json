@@ -164264,7 +164264,7 @@
         "company_name": "RoviSys",
         "id": "1d8d12c5-e0bb-4eae-b30c-81012983acd7",
         "title": "Co-op \u2013 Spring 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -170448,7 +170448,7 @@
         "company_name": "W.R. Berkley",
         "id": "772e84bd-7eb3-4373-b29b-8fad617ae11c",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -190388,7 +190388,7 @@
         "company_name": "QuadReal",
         "id": "3925319c-1f3d-492b-bab7-0e9ab6077afd",
         "title": "Integration Developer \u2013 Co-op/Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -217976,6 +217976,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NextEra Energy",
+        "id": "d2c661be-a51e-4255-a0d0-6723a1c3ca53",
+        "title": "Gexa Analytics & Data Science Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759306696,
+        "date_posted": 1759306696,
+        "url": "https://jobs.nexteraenergy.com/job/Houston-Gexa-Analytics-&-Data-Science-Intern-TX-77002/1330518100/?ats=successfactors",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/NextEra-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
