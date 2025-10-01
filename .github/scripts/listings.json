@@ -140022,7 +140022,7 @@
         "company_name": "TD Bank",
         "id": "39ad80c8-1a51-4d20-a9db-267243593d87",
         "title": "Innovation Analyst Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -174174,7 +174174,7 @@
         "company_name": "Shure",
         "id": "41e961cd-8b3a-4677-8ec0-ed14cd640d75",
         "title": "Mobile Applications \u2013 Intern - Android",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -180457,7 +180457,7 @@
         "company_name": "Leidos",
         "id": "6ed1f008-4af9-48e5-8eb2-e0c49a56074b",
         "title": "Network Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -183907,7 +183907,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "9bf91633-d420-4645-a89d-c1a0b7dfdea3",
         "title": "Intern Software Engineer for Crypto and Cross Domain Solutions",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -211210,7 +211210,7 @@
         "company_name": "Rambus",
         "id": "00498252-d277-48fb-a643-074fe8a55a7b",
         "title": "Data and AI Intern - IT",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -218851,6 +218851,125 @@
             "Birmingham, UK"
         ],
         "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Guardian Life",
+        "id": "06f64a7d-2450-4040-bdfe-35d6e0a2171e",
+        "title": "Intern - Cybersecurity Assurance",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759328170,
+        "date_posted": 1759328170,
+        "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Bethlehem/XMLNAME-2026-Guardian-Summer-Intern--Cybersecurity-Assurance_R000107590",
+        "locations": [
+            "Bethlehem, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Guardian-Life",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Zurn Elkay Water Solutions",
+        "id": "8985dd14-f2f7-4164-9287-6410a821f56d",
+        "title": "Embedded Hardware Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759327739,
+        "date_posted": 1759327739,
+        "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/XMLNAME--DO-NOT-POST--IoT-Hardware-Intern--Summer-2026-_REQ-018906",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Zurn-Elkay-Water-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SumUp",
+        "id": "faa2f655-0141-4db6-88d9-a0658cdd7d73",
+        "title": "Sales Analytics Intern - Field Operations",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759327306,
+        "date_posted": 1759327306,
+        "url": "https://sumup.com/careers/positions/8150146002?gh_jid=8150146002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/SumUp",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "FOX",
+        "id": "3a769ac9-9869-4b9a-81c9-2fa46e613f1d",
+        "title": "Business Operations Intern/Co-op - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759326601,
+        "date_posted": 1759326601,
+        "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Summer-2026-FOX-Technology-Internship-Program---New-York--NY_R50030119",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Fox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "FOX",
+        "id": "e4de2ab5-02a2-4de3-8a66-86cb0f2b51d3",
+        "title": "Intern/Co-op - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759328368,
+        "date_posted": 1759328368,
+        "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Summer-2026-FOX-Technology-Internship-Program---Los-Angeles--CA_R50030118",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fox",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
