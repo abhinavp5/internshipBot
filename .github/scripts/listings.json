@@ -125041,7 +125041,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "057819d8-d85c-46f7-b31e-6d9e538c832c",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -170409,7 +170409,7 @@
         "company_name": "W.R. Berkley",
         "id": "772e84bd-7eb3-4373-b29b-8fad617ae11c",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -173372,7 +173372,7 @@
         "company_name": "Lennox International",
         "id": "5370c3fa-9b3b-4a0e-b328-efb28408836f",
         "title": "AI Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -175384,7 +175384,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9a6e5b09-436c-4ff9-a004-546a8fd41641",
         "title": "Quantitative Trader Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -190138,7 +190138,7 @@
         "company_name": "Emerson Electric",
         "id": "b57e4d63-d146-47ec-8589-0e1432340903",
         "title": "Product Manager Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -217197,7 +217197,7 @@
         "company_name": "Rolls Royce",
         "id": "a5d51282-b0ed-4448-9493-4f47c47117b7",
         "title": "Technical Service and Warranty Intern - Technical Campaigns",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -217382,7 +217382,7 @@
         "company_name": "Rolls Royce",
         "id": "7338919f-369d-403b-bea6-4434b39dfbeb",
         "title": "Process Planning - Digitalisation Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -217405,7 +217405,7 @@
         "company_name": "Rolls Royce",
         "id": "52924424-c6e3-42dc-9f71-271cbfa06549",
         "title": "Product Management Assistant Intern - Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -218635,7 +218635,7 @@
         "company_name": "Rolls Royce",
         "id": "a157e66e-d1f6-4959-85bc-a40b1ca6b077",
         "title": "Internship - Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -219408,6 +219408,100 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "c3008446-0299-472f-a2db-8af6b18d98f3",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759346078,
+        "date_posted": 1759346078,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Cambridge/Software-Engineering-Intern_R5019283-1",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "be1ae118-e551-4b0d-b895-ec8a84babd83",
+        "title": "Software Engineering Intern - Project Delivery",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759346081,
+        "date_posted": 1759346081,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Edinburgh/Software-Engineering-Intern--Project-Delivery-_R5019506-1",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "GE Vernova",
+        "id": "75c57e59-1640-42c3-a773-76c8c21a876e",
+        "title": "IT Service Delivery Analyst Intern - Electrification Software",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759346070,
+        "date_posted": 1759346070,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Wokingham/IT-Service-Delivery-Analyst-Internship_R5017649",
+        "locations": [
+            "Bracknell, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Greenwood Village South",
+        "id": "6fcdce10-6f24-4803-86ee-d0c774c85147",
+        "title": "Data Engineering Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1759345502,
+        "date_posted": 1759345502,
+        "url": "https://eexs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/GreenwoodVillageSouth/jobs/job/29123",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Greenwood-Village-South",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
