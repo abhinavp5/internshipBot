@@ -212260,7 +212260,7 @@
         "company_name": "Leidos",
         "id": "d282e0c7-6e2f-4a60-8b5c-b3a969164097",
         "title": "Software Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Fall 2027"
@@ -219024,5 +219024,28 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "date_updated": 1759339382,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/details/Software-Development-Engineer-Intern_JR-0100469",
+        "company_name": "Workday",
+        "title": "Software Development Engineer Intern",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "51d45129-3990-4189-9ac4-76880b3aab4d",
+        "date_posted": 1759339382,
+        "company_url": "",
+        "is_visible": true
     }
 ]
