@@ -189577,7 +189577,7 @@
         "company_name": "Grammarly",
         "id": "ddf3fd44-cc26-4b8c-92ae-b5a87c87cc5c",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -215896,7 +215896,7 @@
         "company_name": "AECOM",
         "id": "154ca27f-ff37-4b0f-ab6d-316847ac04fb",
         "title": "Data Management Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -217220,7 +217220,7 @@
         "company_name": "Rolls Royce",
         "id": "78113f82-1354-4221-9a35-80ba6155f976",
         "title": "Customer Journey Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -217828,7 +217828,7 @@
         "company_name": "Rolls Royce",
         "id": "2c7ff583-5220-45ef-b161-c67f9373cca3",
         "title": "Business IT Intern - Business IT Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -219356,6 +219356,54 @@
             "Pittsburgh, PA"
         ],
         "company_url": "https://simplify.jobs/c/Highmark-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sentry Insurance",
+        "id": "79ebe50a-ff41-42b2-b04b-3b91cf408584",
+        "title": "Business Analytics Intern/Co-op - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759342951,
+        "date_posted": 1759342951,
+        "url": "https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Stevens-Point-WI/Business-Analytics-Internship-Summer-2026_JR-140354",
+        "locations": [
+            "Plover, WI",
+            "Madison, WI",
+            "Nashville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/782e6c3f-aff3-4aed-9d50-50676cb8ed7f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Autodesk",
+        "id": "6c5422a8-8d37-4968-9c2a-e7acd82a500b",
+        "title": "Intern \u2013 Software Engineering - Geometry Modelling",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759342850,
+        "date_posted": 1759342850,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Cambridge-GBR/Intern--Software-Engineering_25WD91880",
+        "locations": [
+            "OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
