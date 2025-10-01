@@ -170003,7 +170003,7 @@
         "company_name": "Steel Dynamics",
         "id": "7ba65b7f-ae42-4a6b-8450-04416d267214",
         "title": "Computer Engineering Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -182034,7 +182034,7 @@
         "company_name": "Quanta Services",
         "id": "a18c7e94-aab4-432a-8bb9-d531679b794e",
         "title": "Information Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -218472,6 +218472,106 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Medpace, Inc.",
+        "id": "4e930efb-a08d-43b4-b4fe-653c2e4f1963",
+        "title": "Web Developer Intern/Co-op - Informatics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759316011,
+        "date_posted": 1759316011,
+        "url": "https://careers.medpace.com/jobs/11645?lang=en-us&icims=1",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Medpace-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Atlantic Health System",
+        "id": "c12a319c-b7d1-47fb-acc3-0ba4bcfded5e",
+        "title": "Systems Analyst Intern - Health Information Management",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759315909,
+        "date_posted": 1759315909,
+        "url": "https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/22709",
+        "locations": [
+            "Morristown, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Atlantic-Health-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Comcast",
+        "id": "6642bb5b-719e-4def-973b-9b920c34d37f",
+        "title": "Graduate Machine Learning/Data Science Engineering Intern - Xumo - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759315833,
+        "date_posted": 1759315833,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/CA---Irvine-5300-California-Ave/Comcast-ML-Data-Science-Engineering-Graduate-Intern_R419519",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "122b6f36-829e-4854-a35e-353df1aeac77",
+        "title": "Data Scientist Intern - Product Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759315814,
+        "date_posted": 1759315814,
+        "url": "https://www.metacareers.com/jobs/828130993062040",
+        "locations": [
+            "Seattle, WA",
+            "Burlingame, CA",
+            "Menlo Park, CA",
+            "NYC",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "PhD"
         ]
     }
 ]
