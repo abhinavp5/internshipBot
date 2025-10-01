@@ -124754,7 +124754,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9d257cdf-efe6-4ac9-b1f0-5ed5e11826f0",
         "title": "Quantitative Systematic Trading Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -174174,7 +174174,7 @@
         "company_name": "Shure",
         "id": "41e961cd-8b3a-4677-8ec0-ed14cd640d75",
         "title": "Mobile Applications \u2013 Intern - Android",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -175658,7 +175658,7 @@
         "company_name": "W.R. Berkley",
         "id": "183873ef-c292-4e5e-816e-4777686fefc7",
         "title": "Quantitative Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -181336,7 +181336,7 @@
         "company_name": "American Structurepoint",
         "id": "d8c8e890-ea70-4928-9246-5165a69dbb2b",
         "title": "IT Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -204331,7 +204331,7 @@
         "company_name": "W.R. Berkley",
         "id": "0c7562e6-7d8e-4ada-b934-9b6bdd000c2f",
         "title": "Intern \u2013 Software Developer - Reactjs",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -217228,6 +217228,564 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rolls Royce",
+        "id": "a5d51282-b0ed-4448-9493-4f47c47117b7",
+        "title": "Technical Service and Warranty Intern - Technical Campaigns",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759293907,
+        "date_posted": 1759293907,
+        "url": "https://jobs.bmwgroup.com/job/Farnborough-Technical-Service-&-Warranty-Internship/1252295701/?ats=successfactors",
+        "locations": [
+            "Aldershot, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rolls Royce",
+        "id": "78113f82-1354-4221-9a35-80ba6155f976",
+        "title": "Customer Journey Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759293906,
+        "date_posted": 1759293906,
+        "url": "https://jobs.bmwgroup.com/job/Farnborough-Customer-Journey-Intern/1252415101/?ats=successfactors",
+        "locations": [
+            "Aldershot, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rolls Royce",
+        "id": "6354e0b4-e3ab-4fef-b38f-194c318893c0",
+        "title": "Data and Analytics Internship - Data & Analytics Centre of Competence",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759293913,
+        "date_posted": 1759293913,
+        "url": "https://jobs.bmwgroup.com/job/Farnborough-Data-&-Analytics-Internship/1250914601/?ats=successfactors",
+        "locations": [
+            "Aldershot, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Rolls Royce",
+        "id": "4a8a75a7-77a2-49e0-aa2b-121ac4e2543a",
+        "title": "IT Applications Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759293913,
+        "date_posted": 1759293913,
+        "url": "https://jobs.bmwgroup.com/job/Goodwood-IT-Applications-Internship/1250962401/?ats=successfactors",
+        "locations": [
+            "Portsmouth, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Marvell",
+        "id": "1b08f0d9-d86e-4f45-8f7b-ff5e8da246fd",
+        "title": "Solutions Architecture Intern - PhD",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759293948,
+        "date_posted": 1759293948,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Solutions-Architecture-Intern---PhD_2502347-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cardinal Health",
+        "id": "ea8b1205-edf2-475d-8c04-1e732cc09a7b",
+        "title": "Software Engineering Internship - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759293852,
+        "date_posted": 1759293852,
+        "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Software-Engineering-Internship_20167964-1",
+        "locations": [
+            "Dublin, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Cardinal-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rolls Royce",
+        "id": "b3b3423b-fd91-4ca6-9f82-d7d4a47eaadf",
+        "title": "Data Development and Analytics Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759293893,
+        "date_posted": 1759293893,
+        "url": "https://jobs.bmwgroup.com/job/Oxford-Data-Development-&-Analytics-Internship/1253001601/?ats=successfactors",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rolls Royce",
+        "id": "9c23ec37-f4a4-4ef8-8b17-bbe39ab0614d",
+        "title": "Digital Development Software Engineer Internship - Digital Development",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759293898,
+        "date_posted": 1759293898,
+        "url": "https://jobs.bmwgroup.com/job/Farnborough-Digital-Development-Software-Engineer-Internship/1251440601/?ats=successfactors",
+        "locations": [
+            "Aldershot, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rolls Royce",
+        "id": "7338919f-369d-403b-bea6-4434b39dfbeb",
+        "title": "Process Planning - Digitalisation Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759293901,
+        "date_posted": 1759293901,
+        "url": "https://jobs.bmwgroup.com/job/Coleshill-Process-Planning-Digitalisation-Internship/1250490701/?ats=successfactors",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Rolls Royce",
+        "id": "52924424-c6e3-42dc-9f71-271cbfa06549",
+        "title": "Product Management Assistant Intern - Product Management",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759293900,
+        "date_posted": 1759293900,
+        "url": "https://jobs.bmwgroup.com/job/Farnborough-Product-Management-Assistant-Internship/1252298101/?ats=successfactors",
+        "locations": [
+            "Aldershot, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rolls Royce",
+        "id": "38f5c86a-964c-4985-b3cc-a65bd5510dbc",
+        "title": "Software Development Intern - IT DEV/OPs Feature Team",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759293903,
+        "date_posted": 1759293903,
+        "url": "https://jobs.bmwgroup.com/job/Oxford-Software-Development-Internship/1252960401/?ats=successfactors",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rolls Royce",
+        "id": "1112a96a-e3cc-4e81-bccc-1f9fc79f132c",
+        "title": "Intern - Computer Aided Quality Technician - Exterior Surface",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759293898,
+        "date_posted": 1759293898,
+        "url": "https://jobs.bmwgroup.com/job/Goodwood-Internship-Computer-Aided-Quality-Technician,-Exterior-Surface/1253091801/?ats=successfactors",
+        "locations": [
+            "Portsmouth, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rolls Royce",
+        "id": "00e88000-425c-48a4-9881-b47cc777f2bf",
+        "title": "Data Analytics and Logistics Intern - Data Analytics - Logistics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759293892,
+        "date_posted": 1759293892,
+        "url": "https://jobs.bmwgroup.com/job/Goodwood-Data-Analytics-&-Logistics-Internship/1250576001/?ats=successfactors",
+        "locations": [
+            "Portsmouth, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Boston Scientific",
+        "id": "83afca73-7efb-415b-a881-8f9491609caa",
+        "title": "Hardware Intern - Development",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759293643,
+        "date_posted": 1759293643,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602808803335",
+        "locations": [
+            "Roseville, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Harvest Midstream",
+        "id": "68254eb2-4fb9-44dd-85c7-48f99823c6ac",
+        "title": "IT Co-Op Student",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759293254,
+        "date_posted": 1759293254,
+        "url": "https://hec.wd5.myworkdayjobs.com/harvest_midstream/job/Houston-TX/IT-Co-Op-Student_R005464-1",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/daeeebcf-9ec1-4759-b4ee-24fd17bd30d4",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Thomson Reuters",
+        "id": "ac93f703-916c-4687-b921-14313f39843c",
+        "title": "Software Engineer Co-Op",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759295020,
+        "date_posted": 1759295020,
+        "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-Rochester-85-Allen-St/Software-Engineer-Co-Op_JREQ194937",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Thomson-Reuters",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Badger Meter",
+        "id": "29155148-e8bf-41f8-86f6-095184eee3a5",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759295027,
+        "date_posted": 1759295027,
+        "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---CA---Silicon-Valley-Office/Software-Engineering-Intern_4014",
+        "locations": [
+            "Los Gatos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Badger-Meter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Comcast",
+        "id": "6b606ae9-5b16-4ec4-8a8e-84fb6b90a3a9",
+        "title": "Product Marketing Intern - FreeWheel",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759294756,
+        "date_posted": 1759294756,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NY---New-York-1407-Broadway-Floor-12/Comcast-Product-Marketing-Intern_R418736",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Comcast",
+        "id": "4abd333e-0107-4783-9161-c51b152d6c9b",
+        "title": "Product Graduate Intern - Audience and Identity",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759294745,
+        "date_posted": 1759294745,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NY---New-York-1407-Broadway-Floor-12/Comcast-Product-Graduate-Intern_R419341",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "The Walt Disney Company",
+        "id": "3cdffa32-588b-47c0-a911-e4269136c2ca",
+        "title": "Broadcast Technology and Operations Intern - Media Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759294756,
+        "date_posted": 1759294756,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/London-United-Kingdom/Broadcast-Technology-and-Operations-Internship_10133275",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "StoneX Group",
+        "id": "fe8ca075-20f4-4db4-9950-4bf534b34dd9",
+        "title": "Intern \u2013 Equity Trading Assistant",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759294616,
+        "date_posted": 1759294616,
+        "url": "https://careers-stonex.icims.com/jobs/13760/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Winter Park, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/StoneX-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Arctic Wolf",
+        "id": "ec6aac17-ff48-4e06-a1e1-52fa930839a3",
+        "title": "Network and Technology Operations Analyst Intern/Co-op - Operations Center",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759294457,
+        "date_posted": 1759294457,
+        "url": "https://arcticwolf.wd1.myworkdayjobs.com/en-US/External/job/Waterloo-ON-CAN/Network---Technology-Operations-Analyst-Co-op_R25_1328",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Arctic-Wolf",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Meta",
+        "id": "e67917e8-f94e-48fd-aa19-5df8b4f3efd4",
+        "title": "Security Engineer Posture Management Intern - Security Posture Management",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759294385,
+        "date_posted": 1759294385,
+        "url": "https://www.metacareers.com/jobs/1529043521440305",
+        "locations": [
+            "Menlo Park, CA",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GoFundMe",
+        "id": "574b5b32-af49-4c68-b463-b3d4ebb1c361",
+        "title": "Data and Analytics Intern - Data and Decision Science",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759294341,
+        "date_posted": 1759294341,
+        "url": "https://job-boards.greenhouse.io/gofundme/jobs/7280698",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/GoFundMe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
