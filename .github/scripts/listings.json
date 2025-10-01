@@ -76795,7 +76795,7 @@
         "company_name": "Arcade AI",
         "id": "8a21603f-098a-4391-abe2-b69199fedcb9",
         "title": "Associate Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025",
@@ -115550,7 +115550,7 @@
         "company_name": "LabCorp",
         "id": "b109771a-b9e1-4fc6-aa77-5c0a7f112ae8",
         "title": "Intern \u2013 IT Operations & Performance Management Specialist",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -145158,7 +145158,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "c9fa0b09-011d-46d5-ba03-c86688a6977b",
         "title": "Associate C++ Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -146980,7 +146980,7 @@
         "company_name": "CACI",
         "id": "326572d0-668a-4b77-9c1c-e05adaf88ded",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
