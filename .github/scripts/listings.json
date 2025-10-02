@@ -98541,7 +98541,7 @@
         "company_name": "Geotab",
         "id": "04445fcb-182d-479b-811c-c9e987910fbe",
         "title": "Data Analyst Intern - Revenue Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -99920,7 +99920,7 @@
         "company_name": "Geotab",
         "id": "7fe5c096-5dcd-4457-900e-1ae1f85dd486",
         "title": "Dataops Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -122380,7 +122380,7 @@
         "company_name": "RoviSys",
         "id": "1d8d12c5-e0bb-4eae-b30c-81012983acd7",
         "title": "Co-op \u2013 Spring 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -122403,7 +122403,7 @@
         "company_name": "Seer Interactive",
         "id": "0d701d5d-491b-4642-9680-650ab9e51894",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -131411,7 +131411,7 @@
         "company_name": "RoviSys",
         "id": "54f874cd-8392-41ea-bebf-5d45e61c62f2",
         "title": "Co-op \u2013 Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -162447,7 +162447,7 @@
         "company_name": "W.R. Berkley",
         "id": "0c7562e6-7d8e-4ada-b934-9b6bdd000c2f",
         "title": "Intern \u2013 Software Developer - Reactjs",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -173488,7 +173488,7 @@
         "company_name": "Mackenzie Investments",
         "id": "1ee56d8c-a545-44d5-9353-5b550b5a6ef8",
         "title": "Intern - Product Department",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -178716,6 +178716,52 @@
             "Roseville, CA"
         ],
         "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Greenwood Village South",
+        "id": "402cfe70-6807-4c01-bf9a-ec6b62776ce2",
+        "title": "Business Analytics Intern - Finance - Data Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1759425972,
+        "date_posted": 1759425972,
+        "url": "https://eexs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/GreenwoodVillageSouth/jobs/job/29208",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Greenwood-Village-South",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Greenwood Village South",
+        "id": "280e534a-c8eb-44a4-a457-6746d4a5adb9",
+        "title": "IT Security Intern - Information Security - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1759425987,
+        "date_posted": 1759425987,
+        "url": "https://eexs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/GreenwoodVillageSouth/jobs/job/29139",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Greenwood-Village-South",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
