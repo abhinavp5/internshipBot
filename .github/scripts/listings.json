@@ -178782,5 +178782,29 @@
         "date_posted": 1759414420,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1759415395,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers.formlabs.com/job/7284267/apply/?gh_jid=7284267",
+        "company_name": "Formlabs",
+        "title": "Manufacturing Test Software Intern",
+        "locations": [
+            "Somerville, MA"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "3d699108-b979-403b-ad43-a254a0de8b1d",
+        "date_posted": 1759415395,
+        "company_url": "",
+        "is_visible": true
     }
 ]
