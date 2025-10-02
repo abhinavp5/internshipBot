@@ -172824,7 +172824,7 @@
         "company_name": "Al Warren Oil Company",
         "id": "52fb8e53-c9ba-48f8-9ee8-73d57233a5e6",
         "title": "Software Developer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -173888,7 +173888,7 @@
         "company_name": "StoneX Group",
         "id": "ce865353-31a9-4023-8acc-8c0528db27f6",
         "title": "Intern \u2013 Market Data Engineer - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
