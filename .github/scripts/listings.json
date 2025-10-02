@@ -102035,7 +102035,7 @@
         "company_name": "GE Vernova",
         "id": "0136df5a-b107-4bf9-8903-03cab92ec4f0",
         "title": "GE Vernova Gas Power Aeroderivative Commercial Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -174046,14 +174046,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759412723,
+        "date_updated": 1759245092,
         "date_posted": 1759245092,
         "url": "https://careers-stonex.icims.com/jobs/13829/job?mobile=true&needsRedirect=false",
         "locations": [
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/StoneX-Group",
-        "is_visible": false,
+        "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -178622,71 +178622,164 @@
         ]
     },
     {
-        "date_updated": 1759412788,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers-stonex.icims.com/jobs/13829/job",
-        "company_name": "StoneX",
-        "title": "Market Data Engineer",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "165a3201-2e89-4837-b613-5fb756b8ca02",
-        "date_posted": 1759412788,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1759412986,
+        "date_updated": 1759413239,
         "sponsorship": "Other",
         "active": true,
         "degrees": [
-            "Bachelor's"
+            "Master's"
         ],
-        "url": "https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Data-Science-Intern_R-001261",
-        "company_name": "State of Wisconsin Investment Board",
-        "title": "Data Science Intern",
+        "url": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/New-York-NY/Quantitative-Rotational-Intern-Summer-2026_R0011264",
+        "company_name": "Neuberger Berman",
+        "title": "Quantitative Rotational Intern",
         "locations": [
-            "Madison, WI"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "e9b2bb3a-af56-4294-8102-11861944e31c",
-        "date_posted": 1759412986,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1759413048,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Fixed-Income-Quantitative-Intern_R-001255",
-        "company_name": "State of Wisconsin Investment Board",
-        "title": "Fixed Income Quantitative Intern",
-        "locations": [
-            "Madison, WI"
+            "New York, NY"
         ],
         "terms": [
             "Summer 2026"
         ],
         "category": "Quantitative Finance",
         "source": "AlmondCroffle",
-        "id": "ac164f41-702e-4f86-b617-945a51b3fd8e",
-        "date_posted": 1759413048,
+        "id": "3f4b9584-c2be-4cc7-9208-0642fd844e4c",
+        "date_posted": 1759413239,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759413321,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/rockstarinternships/jobs/7406971003",
+        "company_name": "Rockstar Games",
+        "title": "Data Analytics / Data Science",
+        "locations": [
+            "Manhattan, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "c5e3192d-af04-42e0-8bea-11f3b83ae01e",
+        "date_posted": 1759413321,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759413395,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/lila/jobs/8188686002",
+        "company_name": "Lila Sciences",
+        "title": "Life Science Automation & AI",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "terms": [
+            "Spring 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "f53ec775-cd98-472c-8f96-2d48507a4eb4",
+        "date_posted": 1759413395,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759413530,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-hexagonpositioning.icims.com/jobs/2858/autonomy-research-intern/job",
+        "company_name": "Hexagon",
+        "title": "Autonomy Research Intern",
+        "locations": [
+            "Calgary, Alberta, CAN"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "9089fb1e-9208-4680-abc3-84e734d1653f",
+        "date_posted": 1759413530,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759414269,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-hexagonpositioning.icims.com/jobs/2861/software-engineering-intern/job",
+        "company_name": "Hexagon",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Calgary, AB, CAN"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "b4349301-9990-41d4-9313-37f04c8c1039",
+        "date_posted": 1759414269,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759414357,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-hexagonpositioning.icims.com/jobs/2860/software-test-engineering-intern/job",
+        "company_name": "Hexagon",
+        "title": "Software Test Engineering Intern",
+        "locations": [
+            "Calgary, AB, CAN"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "d1dfbfb0-33d0-485f-9d41-7e7922bcdc71",
+        "date_posted": 1759414357,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759414420,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.lever.co/hermeus/dcd92687-0f98-4288-a68e-403fcd654853",
+        "company_name": "Hermeus",
+        "title": "Modeling & Simulation Software Engineering Intern",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "d21f9d67-d72c-43f6-8ce7-3b4c9e1b2fd2",
+        "date_posted": 1759414420,
         "company_url": "",
         "is_visible": true
     }
