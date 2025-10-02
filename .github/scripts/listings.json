@@ -212,25 +212,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Teledyne",
-        "id": "fabc489c-bbfd-4ea4-9bf2-ebdd5880b423",
-        "title": "Software Engineer \u2013 Intern",
-        "active": false,
-        "terms": [
-            "Spring 2025"
-        ],
-        "date_updated": 1738686052,
-        "date_posted": 1738686052,
-        "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/Software-Engineer--Intern-_REQ28194",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Bank of Montreal",
         "id": "0deafc4c-5e5e-43fd-b2cd-02670f28cb8f",
         "title": "Data Analyst Intern \u2013 Co-op/Internship - Business Banking",
@@ -119750,7 +119731,7 @@
         "company_name": "MKS Instruments",
         "id": "b03bdaba-b261-405c-ba0e-6dc626161607",
         "title": "Software Engineering Undergraduate Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -129589,7 +129570,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "87b5dfb7-6efe-418c-bf60-a329be9aeede",
         "title": "Quantitative Trader Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -133693,7 +133674,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9a6e5b09-436c-4ff9-a004-546a8fd41641",
         "title": "Quantitative Trader Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -178806,5 +178787,51 @@
         "date_posted": 1759415395,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Waymo",
+        "id": "eb9578d6-8646-42ee-a692-e5281eb8da56",
+        "title": "Intern - Release Evaluation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759420074,
+        "date_posted": 1759420074,
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=7263750",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Waymo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ibotta",
+        "id": "5e73567b-5af6-46e7-976a-f2640f0626e6",
+        "title": "Business Intelligence Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759419669,
+        "date_posted": 1759419669,
+        "url": "https://ibotta.wd1.myworkdayjobs.com/en-US/Ibotta/job/Denver-CO/Business-Intelligence-Intern_R-102134",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/ibotta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
