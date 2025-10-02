@@ -134,66 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Nelnet",
-        "id": "74fef5a8-704c-4004-a579-beef26421c95",
-        "title": "BA Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738703720,
-        "date_posted": 1738703720,
-        "url": "https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Remote/BA-Intern_R20659-1",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/d7662126-9bc7-4ec4-b3e6-a9a3ae307c5d",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Motorola",
-        "id": "c4e12bee-c072-4d87-a03d-1c6c441df5ee",
-        "title": "Customer Data Management & Proposal Center Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738703404,
-        "date_posted": 1738703404,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Customer-Data-Management---Proposal-Center-Intern--2025-Summer-Internship-_R53520",
-        "locations": [
-            "Florida",
-            "Chicago, IL",
-            "Plantation, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Motorola",
-        "id": "b5055a7a-6931-41c9-a8ae-6186c09b9a55",
-        "title": "Intern - Data and Analytics Tableau Developer",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738703393,
-        "date_posted": 1738703393,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/XMLNAME-2025-Summer-Intern---Data-and-Analytics-Tableau-Developer_R53589-1",
-        "locations": [
-            "Chicago, IL",
-            "Plantation, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Carrier Global",
         "id": "50edf522-475a-460f-a5db-3f17350cce56",
         "title": "Software Engineering Intern-Summer",
@@ -169899,7 +169839,7 @@
         "company_name": "Nissan",
         "id": "4885777d-6893-421f-adc9-7cc55e3f8a76",
         "title": "Data and Analytics Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -173086,7 +173026,7 @@
         "company_name": "DriveTime",
         "id": "78609070-64f1-42bc-afa5-c954a9375154",
         "title": "Product Management Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
