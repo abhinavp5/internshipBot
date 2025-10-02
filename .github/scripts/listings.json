@@ -130130,7 +130130,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "57a601ba-c424-4324-8a40-7e650c4ee70a",
         "title": "Rotational Cybersecurity Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Spring 2026",
@@ -131609,7 +131609,7 @@
         "company_name": "RoviSys",
         "id": "c376dec1-bc42-48cb-88f0-fd1276179d92",
         "title": "Co-op \u2013 Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -145241,7 +145241,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "587e2cf6-e3d5-4da7-9fb0-4c30feba28b9",
         "title": "Software Systems Engineer and Acquisition Undergrad Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -176343,7 +176343,7 @@
         "company_name": "AECOM",
         "id": "285019dd-ada3-48ab-840d-7ba000751ee3",
         "title": "Data Management Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -178368,6 +178368,123 @@
             "Pleasanton, CA"
         ],
         "company_url": "https://simplify.jobs/c/AbbVie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Riot Games",
+        "id": "90a795ce-d543-4246-a848-d9db0b34072b",
+        "title": "Software Engineering Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759368422,
+        "date_posted": 1759368422,
+        "url": "https://www.riotgames.com/en/work-with-us/job/7254441?gh_jid=7254441",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Riot-Games",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dandy",
+        "id": "62c8e700-69f4-49f0-b4c8-6ce4ddb3887d",
+        "title": "Machine Learning Intern - Master's or PhD",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759372502,
+        "date_posted": 1759372502,
+        "url": "https://jobs.ashbyhq.com/dandy/ca3ac564-bd29-4d86-a67d-741909354c8d/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Dandy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "The Federal Reserve System",
+        "id": "da871f00-4f7b-4427-921e-ed65f83652e4",
+        "title": "Information Technology Developer Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759372314,
+        "date_posted": 1759372314,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/Information-Technology-Developer-Intern---Summer-2026_R-0000030248-1",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Duolingo",
+        "id": "d2656b7f-43a5-4747-bafe-65e43f578f85",
+        "title": "Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759372374,
+        "date_posted": 1759372374,
+        "url": "https://careers.duolingo.com/jobs/8192833002?gh_jid=8192833002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Duolingo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "The Federal Reserve System",
+        "id": "67a2a189-910f-473c-8f7f-d6d771683ea0",
+        "title": "Information Security Intern - Information Security",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759372310,
+        "date_posted": 1759372310,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/Information-Security--IS--Intern---Summer-2026_R-0000030244",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
