@@ -174,25 +174,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Five Rings Capital",
-        "id": "4268c8f2-b3e9-4368-b295-25249bfc444b",
-        "title": "Winter Intern - Quantitative Research Analyst",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1738701543,
-        "date_posted": 1738701543,
-        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4521146008",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Five-Rings",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Motorola",
         "id": "b5055a7a-6931-41c9-a8ae-6186c09b9a55",
         "title": "Intern - Data and Analytics Tableau Developer",
@@ -208,25 +189,6 @@
             "Plantation, FL"
         ],
         "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "General Motors",
-        "id": "0f50cc81-f383-45c7-9c98-45adabefe05c",
-        "title": "Software Developer \u2013 Simulation Internship",
-        "active": false,
-        "terms": [
-            "Spring 2025"
-        ],
-        "date_updated": 1738701740,
-        "date_posted": 1738701740,
-        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Markham-Ontario-Canada/Software-Developer---Simulation-Internship_JR-202502536",
-        "locations": [
-            "Markham, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Motors",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -7997,25 +7959,6 @@
             "Minneapolis, MN"
         ],
         "company_url": "https://simplify.jobs/c/cc2aa6fd-89ed-45ce-a866-4f4e3b9c6965",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Warner Bros.",
-        "id": "45142b6b-cade-4c32-822a-c358069fdd3f",
-        "title": "TNT Sports BI Analyst Intern - Summer 2025",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738702599,
-        "date_posted": 1738702599,
-        "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/TNT-Sports-BI-Analyst-Intern--ATL---Summer-2025_R000090089",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Warner-Bros",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -124753,7 +124696,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "adec206d-c979-4fe4-ad54-55bd920061ee",
         "title": "Calibration Process Optimization Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
