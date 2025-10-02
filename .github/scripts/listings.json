@@ -178595,5 +178595,28 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "ibotta",
+        "id": "fdd1c6a7-e194-4ad8-853d-c0898669aefb",
+        "title": "Information Technology Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759401248,
+        "date_posted": 1759401248,
+        "url": "https://ibotta.wd1.myworkdayjobs.com/en-US/Ibotta/job/Denver-CO/Information-Technology-Intern_R-102130",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/ibotta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
