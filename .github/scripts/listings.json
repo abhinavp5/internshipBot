@@ -173049,9 +173049,9 @@
         "title": "Information Technology Intern - Data Engineering",
         "active": true,
         "terms": [
-            "Summer 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759201367,
+        "date_updated": 1759412565,
         "date_posted": 1759201367,
         "url": "https://michaels.wd5.myworkdayjobs.com/external/job/Irving-Irving-Corporate-Office-3939-West-John-Carpenter-Freeway/Information-Technology-Intern---Data-Engineering_R00295941",
         "locations": [
@@ -174046,14 +174046,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759245092,
+        "date_updated": 1759412723,
         "date_posted": 1759245092,
         "url": "https://careers-stonex.icims.com/jobs/13829/job?mobile=true&needsRedirect=false",
         "locations": [
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/StoneX-Group",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -174161,9 +174161,9 @@
         "title": "Information Technology Intern - Infrastructure",
         "active": true,
         "terms": [
-            "Summer 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759247335,
+        "date_updated": 1759412602,
         "date_posted": 1759247335,
         "url": "https://michaels.wd5.myworkdayjobs.com/external/job/Irving-Irving-Corporate-Office-3939-West-John-Carpenter-Freeway/Information-Technology-Intern---Infrastructure_R00295940",
         "locations": [
@@ -178620,5 +178620,74 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1759412788,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-stonex.icims.com/jobs/13829/job",
+        "company_name": "StoneX",
+        "title": "Market Data Engineer",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "165a3201-2e89-4837-b613-5fb756b8ca02",
+        "date_posted": 1759412788,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759412986,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Data-Science-Intern_R-001261",
+        "company_name": "State of Wisconsin Investment Board",
+        "title": "Data Science Intern",
+        "locations": [
+            "Madison, WI"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "e9b2bb3a-af56-4294-8102-11861944e31c",
+        "date_posted": 1759412986,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759413048,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Fixed-Income-Quantitative-Intern_R-001255",
+        "company_name": "State of Wisconsin Investment Board",
+        "title": "Fixed Income Quantitative Intern",
+        "locations": [
+            "Madison, WI"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Quantitative Finance",
+        "source": "AlmondCroffle",
+        "id": "ac164f41-702e-4f86-b617-945a51b3fd8e",
+        "date_posted": 1759413048,
+        "company_url": "",
+        "is_visible": true
     }
 ]
