@@ -83021,7 +83021,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "057819d8-d85c-46f7-b31e-6d9e538c832c",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -83541,7 +83541,7 @@
         "company_name": "L3Harris Technologies",
         "id": "c1171a5a-0bbf-4f02-947b-21b140ab0809",
         "title": "Embedded Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -132849,7 +132849,7 @@
         "company_name": "Waymo",
         "id": "a401201b-e78d-4571-b00e-8abecc798036",
         "title": "2026 Summer Intern - MS/PhD - Software Engineering - Behavior Test",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -168889,7 +168889,7 @@
         "company_name": "Autodesk",
         "id": "f5a8ae2a-182c-408d-b86d-8192eb986cbc",
         "title": "Intern - Data Security - Data Security",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -178942,6 +178942,29 @@
             "Denver, CO"
         ],
         "company_url": "https://simplify.jobs/c/ibotta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "93c25d1e-47fe-437f-886c-66d4b6722d05",
+        "title": "Software Engineering Intern - Project Delivery",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759446635,
+        "date_posted": 1759446635,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Edinburgh/Software-Engineering-Intern--Project-Delivery-_R5019508",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
