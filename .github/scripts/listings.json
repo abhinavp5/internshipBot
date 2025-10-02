@@ -103087,7 +103087,7 @@
         "company_name": "Wintermute",
         "id": "d1856aac-0a4c-4434-8392-32b0851ae579",
         "title": "Quant Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -136126,7 +136126,7 @@
         "company_name": "Roche",
         "id": "dfb7c9da-2943-49fc-bb2d-ed85119c1035",
         "title": "2025 Intern - Algorithm Research and Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -161210,7 +161210,7 @@
         "company_name": "Scale AI",
         "id": "37986837-cbd5-4c50-bc75-ed362e9028c3",
         "title": "Technical Advisor Intern - GenAI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -172165,7 +172165,7 @@
         "company_name": " PrizePicks",
         "id": "3deda11f-68ab-4b7c-921f-be192869df9e",
         "title": "Machine Learning Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
