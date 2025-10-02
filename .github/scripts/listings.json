@@ -134,28 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Samsara",
-        "id": "d13095b4-4fa8-4008-a9e2-d804115e603e",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026",
-            "Winter 2027",
-            "Spring 2027"
-        ],
-        "date_updated": 1738672157,
-        "date_posted": 1738672157,
-        "url": "https://www.samsara.com/company/careers/roles/6295159?gh_jid=6295159",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Samsara",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Autodesk",
         "id": "3c220632-a8a6-4d54-88f5-348014986446",
         "title": "Intern \u2013 Machine Learning Developer",
