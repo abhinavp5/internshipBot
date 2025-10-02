@@ -134,25 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Motorola",
-        "id": "d0fe5554-696d-4552-9fca-e41f436b59f3",
-        "title": "Critical Communication Networks Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738657516,
-        "date_posted": 1738657516,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Critical-Communication-Networks-Software-Engineer---Summer-2025-Internship_R53430",
-        "locations": [
-            "Hoffman Estates, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Samsara",
         "id": "d13095b4-4fa8-4008-a9e2-d804115e603e",
         "title": "Software Engineering Intern",
@@ -127614,7 +127595,7 @@
         "company_name": "Meta",
         "id": "5ad4e7a6-e81e-4970-95af-66a080f1414b",
         "title": "Research Scientist Intern - Non-Linear Optics - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -174821,7 +174802,7 @@
         "company_name": "RTX",
         "id": "01d65ac0-2896-4b39-a88b-5988618e016a",
         "title": "Data Analytics Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -178446,6 +178427,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Waymo",
+        "id": "556ede7b-16c9-4be4-b5f9-d9808526404a",
+        "title": "Intern - Data Science - Planner & Perception Evaluation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759393477,
+        "date_posted": 1759393477,
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=7264741",
+        "locations": [
+            "SF",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Waymo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
