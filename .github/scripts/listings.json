@@ -64908,7 +64908,7 @@
         "company_name": "Fifth Third Bank",
         "id": "f3998e30-d49b-453e-9af6-14f7e4a7db1e",
         "title": "Enterprise Data Office Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -121869,7 +121869,7 @@
         "company_name": "RoviSys",
         "id": "1d8d12c5-e0bb-4eae-b30c-81012983acd7",
         "title": "Co-op \u2013 Spring 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -126438,7 +126438,7 @@
         "company_name": "RoviSys",
         "id": "2abdccf1-a923-4320-a30e-9eb678dbf3da",
         "title": "Co-op \u2013 Spring 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -128103,7 +128103,7 @@
         "company_name": "RoviSys",
         "id": "a29e6946-12e1-4032-9eb9-3651966cfb16",
         "title": "Co-op \u2013 Spring 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -129765,7 +129765,7 @@
         "company_name": "RoviSys",
         "id": "a270961f-eaa0-4f38-a325-1a3d02a9cb9d",
         "title": "Co-op \u2013 Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -130715,7 +130715,7 @@
         "company_name": "RoviSys",
         "id": "b1bb5049-c0a5-4c59-99cc-139987a1e9af",
         "title": "Co-op \u2013 Spring 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -130808,7 +130808,7 @@
         "company_name": "RoviSys",
         "id": "c376dec1-bc42-48cb-88f0-fd1276179d92",
         "title": "Co-op \u2013 Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -130831,7 +130831,7 @@
         "company_name": "RoviSys",
         "id": "c02effef-126e-40dc-b060-c0453b48a0bb",
         "title": "Co-op \u2013 Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -130877,7 +130877,7 @@
         "company_name": "RoviSys",
         "id": "700e8eb1-9183-4c01-8180-7de79c8e98a6",
         "title": "Co-op \u2013 Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -130900,7 +130900,7 @@
         "company_name": "RoviSys",
         "id": "54f874cd-8392-41ea-bebf-5d45e61c62f2",
         "title": "Co-op \u2013 Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -131966,7 +131966,7 @@
         "company_name": "RoviSys",
         "id": "d7e5e1b2-17a9-4450-b6a8-a0afe51426eb",
         "title": "Co-op \u2013 Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -132035,7 +132035,7 @@
         "company_name": "RoviSys",
         "id": "3cdc75c9-e302-471d-9aa2-12e38b885f5b",
         "title": "Co-op \u2013 Spring 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -144556,7 +144556,7 @@
         "company_name": "ICF",
         "id": "418e4ec9-a202-462c-92f4-bead62ed5416",
         "title": "Intern - Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -154392,7 +154392,7 @@
         "company_name": "Kinaxis",
         "id": "1343cae5-e11c-4290-9ade-6b0da36cb811",
         "title": "Co-op/Intern Associate Software Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -175800,7 +175800,7 @@
         "company_name": "Boston Scientific",
         "id": "9fc25be8-9e92-471a-b500-31cc1a650182",
         "title": "System Test Intern - Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
