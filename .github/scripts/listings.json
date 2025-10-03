@@ -76196,7 +76196,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "790bb6f7-23b1-42b9-8716-f02da2b045f0",
         "title": "Hardware Engineer intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -90964,7 +90964,7 @@
         "company_name": "Geotab",
         "id": "6d947b27-e43e-4d3a-8b9d-be5602755df7",
         "title": "Embedded Developer Intern - IOX Works & Go Focus",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -120083,7 +120083,7 @@
         "company_name": "theScore",
         "id": "37e5f532-7ae7-4edf-a454-fe0ce2fae362",
         "title": "Data Analyst \u2013 Coop - Reporting",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -126186,7 +126186,7 @@
         "company_name": "Medpace, Inc.",
         "id": "f558bab1-7964-41f2-b931-fb6f4f3ee9cc",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -126541,7 +126541,7 @@
         "company_name": "Meta",
         "id": "5ad4e7a6-e81e-4970-95af-66a080f1414b",
         "title": "Research Scientist Intern - Non-Linear Optics - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -130348,7 +130348,7 @@
         "company_name": "RoviSys",
         "id": "b1bb5049-c0a5-4c59-99cc-139987a1e9af",
         "title": "Co-op \u2013 Spring 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -130510,7 +130510,7 @@
         "company_name": "RoviSys",
         "id": "700e8eb1-9183-4c01-8180-7de79c8e98a6",
         "title": "Co-op \u2013 Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -130533,7 +130533,7 @@
         "company_name": "RoviSys",
         "id": "54f874cd-8392-41ea-bebf-5d45e61c62f2",
         "title": "Co-op \u2013 Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -131365,7 +131365,7 @@
         "company_name": "theScore",
         "id": "f17a7044-f0fa-431a-9c60-22c863971f8b",
         "title": "Football Data Scientist - Sports Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -131668,7 +131668,7 @@
         "company_name": "RoviSys",
         "id": "3cdc75c9-e302-471d-9aa2-12e38b885f5b",
         "title": "Co-op \u2013 Spring 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -147438,7 +147438,7 @@
         "company_name": "Quanta Services",
         "id": "6093c885-9c3a-4ab8-8d8b-eb2e398d31e0",
         "title": "Information Technology Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -158201,7 +158201,7 @@
         "company_name": "Brown Brothers Harriman",
         "id": "20c602a6-0eae-446a-9b64-c7e141b11c4a",
         "title": "Technology Internship - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -168446,7 +168446,7 @@
         "company_name": "Rambus",
         "id": "00498252-d277-48fb-a643-074fe8a55a7b",
         "title": "Data and AI Intern - IT",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -173498,7 +173498,7 @@
         "company_name": "RTX",
         "id": "8c810ef4-c3b4-4859-b43a-427f49c03269",
         "title": "Software Engineering Intern - Avionics Test Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -182178,6 +182178,222 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "b55fb8c9-4e9a-4971-abbc-dbbe05cfb417",
+        "title": "Embedded Software Engineer Co-op - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1759531460,
+        "date_posted": 1759531460,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Co-op-Winter-2026_R029164",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "CACI",
+        "id": "53246f87-862e-4c0b-983d-6e3e2020e237",
+        "title": "IT Operations Intern - Technical Support",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759531568,
+        "date_posted": 1759531568,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Arlington/IT-OPS-Internship_318153",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Autodesk",
+        "id": "c847e774-0476-457d-9cb0-eb87958dbe6e",
+        "title": "Intern \u2013 AI/ML - AI/ML Platform - MLOps",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1759532365,
+        "date_posted": 1759532365,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--AI-ML_25WD91661",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PayPal",
+        "id": "9c0ba944-6091-4277-9f28-7705b94c179f",
+        "title": "Mobile Software Engineer Intern - Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759532389,
+        "date_posted": 1759532389,
+        "url": "https://paypal.eightfold.ai/careers/job/274915741042",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PayPal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Hartford ",
+        "id": "3abd32e6-bf85-4d21-b80a-4ec85d98cf7a",
+        "title": "Intern - AI and Data Science",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759532101,
+        "date_posted": 1759532101,
+        "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Wayne-PA/XMLNAME-2026-Summer-Intern---AI-and-Data-Science_R2522623",
+        "locations": [
+            "Villanova, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hartford-Financial-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Divergent Technologies",
+        "id": "2707e964-3a33-49d1-8933-d4e216e01412",
+        "title": "Business Intelligence Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759532016,
+        "date_posted": 1759532016,
+        "url": "https://job-boards.greenhouse.io/divergent/jobs/4943455008",
+        "locations": [
+            "Carson, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Divergent-TechnologiesDivergent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "d1d8b24d-ae61-4239-b5d2-52d24a64403c",
+        "title": "Research Intern - AI Interaction and Learning",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1759531881,
+        "date_posted": 1759531881,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1889172",
+        "locations": [
+            "Redmond, WA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "60781756-680c-43ac-8deb-2fa9aa877b06",
+        "title": "Cambridge Residency Programme - Computational Materials Scientist",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759531878,
+        "date_posted": 1759531878,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1889067",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Microsoft",
+        "id": "43887d65-0536-450b-9b1a-8775257283c0",
+        "title": "Product Management Intern - Enterprise M365 Copilot",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759531878,
+        "date_posted": 1759531878,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1888777",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
