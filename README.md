@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 2287 Internship Roles by Category
+### Browse 2288 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1191)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (1192)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (107)
 
@@ -4045,6 +4045,13 @@
 <td>22d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Steel-Dynamics?utm_source=GHList&utm_medium=company">Steel Dynamics</a></strong></td>
+<td>Software Development Internship</td>
+<td>Columbus, MS</td>
+<td><div align="center"><a href="https://careers-aluminumdynamics.icims.com/jobs/6351/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f2f4ab79-4acb-49c6-a5aa-a0bb34703745?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>22d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Dayton-Freight-Lines?utm_source=GHList&utm_medium=company">Dayton Freight Lines</a></strong></td>
 <td>Software Developer Intern</td>
 <td>Dayton, OH</td>
@@ -5850,13 +5857,6 @@
 <td><div align="center"><a href="https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-Internship_R101003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5028d9ec-0eb9-49b8-bd23-eecd073bc43c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>29d</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/DIRECTV?utm_source=GHList&utm_medium=company">DIRECTV</a></strong></td>
-<td>DIRECTV FOR BUSINESS® Engineering and Product Development Internship</td>
-<td>Germantown, MD</td>
-<td><div align="center"><a href="https://directv.wd1.myworkdayjobs.com/careers/job/Clarksburg-MD/XMLNAME-2026-DIRECTV-FOR-BUSINESS--Engineering-and-Product-Development-Internship_R250253?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/751437dc-886b-4b02-a9db-5c05d9115340?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>29d</td>
-</tr>
 </tbody>
 </table>
 
@@ -5883,6 +5883,13 @@
 </thead>
 <tbody>
 
+<tr>
+<td><strong><a href="https://simplify.jobs/c/DIRECTV?utm_source=GHList&utm_medium=company">DIRECTV</a></strong></td>
+<td>DIRECTV FOR BUSINESS® Engineering and Product Development Internship</td>
+<td>Germantown, MD</td>
+<td><div align="center"><a href="https://directv.wd1.myworkdayjobs.com/careers/job/Clarksburg-MD/XMLNAME-2026-DIRECTV-FOR-BUSINESS--Engineering-and-Product-Development-Internship_R250253?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/751437dc-886b-4b02-a9db-5c05d9115340?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>29d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Inmar-Intelligence?utm_source=GHList&utm_medium=company">Inmar Intelligence</a></strong></td>
 <td>Software Engineering Internships</td>
@@ -6241,18 +6248,18 @@
 <td>30d</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa?utm_source=GHList&utm_medium=company">Medline</a></strong></td>
 <td>IT Developer Analyst Intern - Low Code/RPA</td>
 <td>Northbrook, IL</td>
 <td><div align="center"><a href="https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/IT-Developer-Analyst-Intern--Low-Code-RPA----Summer-2026_R2514451?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/492e26ca-e944-4b8e-974c-456af1ae1357?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>IT Software Engineer Intern</td>
 <td>Northbrook, IL</td>
 <td><div align="center"><a href="https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/IT-Software-Engineer-Intern---Summer-2026_R2514382?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/15d61b19-144b-4ce9-af57-b463b6daa677?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Vanguard?utm_source=GHList&utm_medium=company">Vanguard</a></strong></td>
@@ -8457,7 +8464,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (471)</summary>
+<summary>🗃️ Inactive roles (470)</summary>
 
 <table>
 <thead>
@@ -9384,13 +9391,6 @@
 <td><strong><a href="https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company">CACI</a></strong></td>
 <td>Network Engineering Intern</td>
 <td><details><summary><strong>4 locations</strong></summary>Fairfax, VA</br>Manassas, VA</br>Arlington, VA</br>Reston, VA</details></td>
-<td>🔒</td>
-<td>22d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Steel-Dynamics?utm_source=GHList&utm_medium=company">Steel Dynamics</a></strong></td>
-<td>Software Development Internship</td>
-<td>Columbus, MS</td>
 <td>🔒</td>
 <td>22d</td>
 </tr>
@@ -11874,7 +11874,7 @@
 <td>Associate Product Manager Intern - Multiple Teams</td>
 <td><details><summary><strong>4 locations</strong></summary>SF</br>San Bruno, CA</br>NYC</br>Mountain View, CA</details></td>
 <td><div align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/110796638720533190-associate-product-manager-intern?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/272037d1-e4a3-4ca7-9b6f-c81da333d3c1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company">Adobe</a></strong></td>
@@ -19814,18 +19814,18 @@
 <td>14d</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Walker-And-Dunlop?utm_source=GHList&utm_medium=company">Walker & Dunlop</a></strong></td>
 <td>Capital Markets Intern</td>
 <td>Englewood, NJ</td>
 <td>🔒</td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Capital Markets Intern</td>
 <td>Irvine, CA</td>
 <td>🔒</td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NextEra-Energy?utm_source=GHList&utm_medium=company">NextEra Energy</a></strong></td>
