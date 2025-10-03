@@ -132916,7 +132916,7 @@
         "company_name": "Quanta Services",
         "id": "160d1f7f-a969-4416-8aff-56a07e419e95",
         "title": "Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -182201,6 +182201,29 @@
             "Pittsburgh, PA"
         ],
         "company_url": "https://simplify.jobs/c/Allegheny-County",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "LabCorp",
+        "id": "b69d1521-fdc6-4cec-b567-dbaf6c8cbe4d",
+        "title": "IT Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759518405,
+        "date_posted": 1759518405,
+        "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/IT-Intern_2530428",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/LabCorp",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
