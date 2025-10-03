@@ -128053,7 +128053,7 @@
         "company_name": "W.R. Berkley",
         "id": "772e84bd-7eb3-4373-b29b-8fad617ae11c",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -130284,7 +130284,7 @@
         "company_name": "Shure",
         "id": "69182f64-30b9-4004-884b-0a2736cd21c4",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -131709,7 +131709,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "c948674f-b374-488f-af89-265ae92d4fca",
         "title": "Machine Learning Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -145303,7 +145303,7 @@
         "company_name": "W.R. Berkley",
         "id": "3c0ec811-9a15-45fc-973c-b1deb29a32d8",
         "title": "CRM Admin Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -164184,7 +164184,7 @@
         "company_name": "Sharp Electronics",
         "id": "ce2a2737-ce05-48c1-adaa-ac72944101e0",
         "title": "AI Process Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2026"
@@ -175846,7 +175846,7 @@
         "company_name": "Kinaxis",
         "id": "8da3b042-2573-4376-96b5-2248edb86812",
         "title": "Co-op/Intern Developer - Core Algorithms and Optimization",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
