@@ -55091,7 +55091,7 @@
         "company_name": "Jonas Software",
         "id": "a72e5801-dc21-4894-aeff-a01d5784addd",
         "title": "Jonas Summer Internship - Various Departments",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -126291,7 +126291,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "c31e949c-2173-4c26-a892-17f70c07137a",
         "title": "Cyber Security \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -130207,7 +130207,7 @@
         "company_name": "Shure",
         "id": "abaf1429-73ce-4d40-a2d9-9ee7e619c20b",
         "title": "Application Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -130896,7 +130896,7 @@
         "company_name": "RoviSys",
         "id": "700e8eb1-9183-4c01-8180-7de79c8e98a6",
         "title": "Co-op \u2013 Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -130919,7 +130919,7 @@
         "company_name": "RoviSys",
         "id": "54f874cd-8392-41ea-bebf-5d45e61c62f2",
         "title": "Co-op \u2013 Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -131609,7 +131609,7 @@
         "company_name": "Shure",
         "id": "94103e1a-3f83-48bb-9369-b8c91872490b",
         "title": "Data Driven Sustainability Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -136458,7 +136458,7 @@
         "company_name": "Intact",
         "id": "be4abd6f-625a-4cdb-9514-8546c40f384c",
         "title": "AI Backend Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -152408,7 +152408,7 @@
         "company_name": "Johnson & Johnson",
         "id": "b161e9f8-7f96-4e66-97dc-9b0be5454829",
         "title": "Q&C Digital Strategy Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -171526,7 +171526,7 @@
         "company_name": "Geosyntec Consultants",
         "id": "ea0e5c70-24d1-49c8-a642-64566f6f75ed",
         "title": "GIS and Geospatial Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -171958,7 +171958,7 @@
         "company_name": "Apogee Engineering",
         "id": "33b85725-8c8d-441f-8cd6-8552d74ae72e",
         "title": "Systems Architect - Apprentice - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -178722,6 +178722,311 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nissan Global",
+        "id": "e3c459fc-c192-4089-b0d8-5159e26b1de5",
+        "title": "Data Scientist Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759456833,
+        "date_posted": 1759456833,
+        "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Farmington-Hills-Michigan---United-States-of-America/Data-Scientist-Intern---Summer-2026_R00196784",
+        "locations": [
+            "Southfield, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Nissan-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nissan Global",
+        "id": "86d5fae3-6f12-4314-a0ad-7345774180a4",
+        "title": "Software Development Intern-Summer 2026 - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759456839,
+        "date_posted": 1759456839,
+        "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Farmington-Hills-Michigan---United-States-of-America/Software-Development-Intern--Summer-2026--Farmington-Hills--MI_R00196744",
+        "locations": [
+            "Southfield, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Nissan-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "4ef4c5ac-b333-43e2-a2bf-2ca8e263c1ff",
+        "title": "Research Intern LLM - AI for Science",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759456714,
+        "date_posted": 1759456714,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1887239",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "2d626552-37b9-4c81-92b9-ab78a9fd2241",
+        "title": "Research Intern - MSR Software-Hardware Co-design",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759456741,
+        "date_posted": 1759456741,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1886648",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Electronic Arts",
+        "id": "4d394599-7388-4e21-b3a1-a81b9642f927",
+        "title": "Product Management Intern - Digital Platform Product Management",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759456320,
+        "date_posted": 1759456320,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern/210897",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Electronic-Arts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intuit",
+        "id": "ce2e916f-0919-4bb0-ab3c-a6762bd54458",
+        "title": "AI Research Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759458784,
+        "date_posted": 1759458784,
+        "url": "https://jobs.intuit.com/job/mountain-view/summer-2026-ai-research-intern/27595/86818837728",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Intuit",
+        "id": "9037e55d-f0f0-46f9-91bd-ea7e2c55ca65",
+        "title": "Product Manager Intern/Co-op - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Winter 2023",
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1759458785,
+        "date_posted": 1759458785,
+        "url": "https://jobs.intuit.com/job/toronto/product-manager-co-op-8-or-12-months/27595/86808929872",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Elekta",
+        "id": "bf958544-82f3-441c-a297-f65ab31555d1",
+        "title": "Product Marketing Intern - Cancer Registry",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759458531,
+        "date_posted": 1759458531,
+        "url": "https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/San-Jose/Product-Marketing-Intern---Cancer-Registry--San-Jose--CA-_R2025-1489",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Elekta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "bc192845-fff2-46c3-b4e7-8f6ae5a0cc91",
+        "title": "Application Transformation Engineering Intern - Enterprise Application Services",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759458579,
+        "date_posted": 1759458579,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/UT6-4-Farm-Springs-4-Farm-Springs-Road-Farmington-CT-06032-USA/Summer-2026--Intern--Application-Transformation-Engineering--Hybrid--CT-_01797623",
+        "locations": [
+            "Farmington, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "676d7c00-2310-4c35-88c6-f2db625bb93d",
+        "title": "Embedded Software Engineer Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759458569,
+        "date_posted": 1759458569,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Embedded-Software-Engineer-SEPP-Intern--Summer-2026--Onsite---_01792031",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorola",
+        "id": "45072c74-5074-4fa6-b28a-f2b6d48ea65a",
+        "title": "Software Engineering Intern - Unified Communications",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759458511,
+        "date_posted": 1759458511,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-Engineering-Intern---Summer-2026_R58156",
+        "locations": [
+            "Allen, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Procter & Gamble (P&G)",
+        "id": "6f526e20-756c-4c94-a903-8f5e6ea943c2",
+        "title": "Data Science Intern - Fabric and Home Care",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759458477,
+        "date_posted": 1759458477,
+        "url": "https://pg.wd5.myworkdayjobs.com/1000/job/IVORYDALE-INNOVATION-CENTER/Data-Science-PhD-Intern---Fabric---Home-Care_R000138923",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "1a98011b-9304-4192-a135-8b34f1f7a665",
+        "title": "Requirements Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759458191,
+        "date_posted": 1759458191,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000085363787",
+        "locations": [
+            "Plymouth, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
