@@ -127255,7 +127255,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "87fc97ec-ca87-43df-a38a-d186466d89ef",
         "title": "Quantitative Systematic Trading Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -129254,7 +129254,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "cc9ce8a2-c144-4f35-b5e5-f15b08f6a32e",
         "title": "Hardware Service Desk Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2025",
@@ -132153,7 +132153,7 @@
         "company_name": "CACI",
         "id": "b4b2e6a6-f148-411f-ac99-d775d5afad6b",
         "title": "Network Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -133005,7 +133005,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "32fc1129-317d-499e-b6c3-5ebb215eb592",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -137457,7 +137457,7 @@
         "company_name": "Varian",
         "id": "78405e99-e5cf-4302-89e2-c31c8dfe4124",
         "title": "Product Engineering Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -154220,7 +154220,7 @@
         "company_name": "Johnson & Johnson",
         "id": "66522d80-9746-4e7f-b28a-5fd0557dbec8",
         "title": "Data Science Co-op - Critical Care - Applied Sciences & AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -167701,7 +167701,7 @@
         "company_name": "Rambus",
         "id": "8e5c43e7-05a6-4746-935b-495159a96309",
         "title": "Silicon IP Field Application Engineer Intern - Field Application Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -181502,5 +181502,100 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Greenwood Village South",
+        "id": "f704697b-a64c-427c-9c62-ed8b3f02962d",
+        "title": "Service Desk Intern - Service Desk",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1759499097,
+        "date_posted": 1759499097,
+        "url": "https://eexs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/GreenwoodVillageSouth/jobs/job/29126",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Greenwood-Village-South",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1759499722,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/kcftechnologies/jobs/5660339004",
+        "company_name": "KCF Technologies",
+        "title": "Data Science Intern",
+        "locations": [
+            "State College, PA",
+            "Remote in USA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "3b10f8db-0ca1-444d-a71e-851ad8f472a6",
+        "date_posted": 1759499722,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759499887,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Boston-MA/Quantitative-Development---Data-Science-Internship_2115892",
+        "company_name": "Fidelity",
+        "title": "Quantitative Development & Data Science Internship",
+        "locations": [
+            "Boston, MA",
+            "Jersey City, NJ",
+            "Merrimack, NH"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Quantitative Finance",
+        "source": "AlmondCroffle",
+        "id": "452b9f63-db14-4e63-893e-66b2bc5ca43c",
+        "date_posted": 1759499887,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759500511,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://axos.wd5.myworkdayjobs.com/en-US/axos/job/HQ---San-Diego-CA/Software-Development-Intern---Summer-2026_JR3503-1",
+        "company_name": "Axos Bank",
+        "title": "Software Development Intern",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "31b7ce66-b7a6-4ef3-bee8-6a16b58cbc3d",
+        "date_posted": 1759500511,
+        "company_url": "",
+        "is_visible": true
     }
 ]
