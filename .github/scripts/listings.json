@@ -127736,7 +127736,7 @@
         "company_name": "RoviSys",
         "id": "a29e6946-12e1-4032-9eb9-3651966cfb16",
         "title": "Co-op \u2013 Spring 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -129941,7 +129941,7 @@
         "company_name": "Shure",
         "id": "59028ac5-754c-4650-b9ac-b6386dbae5eb",
         "title": "Application System Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -130510,7 +130510,7 @@
         "company_name": "RoviSys",
         "id": "700e8eb1-9183-4c01-8180-7de79c8e98a6",
         "title": "Co-op \u2013 Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -131223,7 +131223,7 @@
         "company_name": "Shure",
         "id": "94103e1a-3f83-48bb-9369-b8c91872490b",
         "title": "Data Driven Sustainability Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -139272,7 +139272,7 @@
         "company_name": "Quanta Services",
         "id": "a18c7e94-aab4-432a-8bb9-d531679b794e",
         "title": "Information Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -163817,7 +163817,7 @@
         "company_name": "Sharp Electronics",
         "id": "ce2a2737-ce05-48c1-adaa-ac72944101e0",
         "title": "AI Process Automation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2026"
@@ -181329,7 +181329,7 @@
         "company_name": "Hexagon AB ",
         "id": "9689e4d8-3328-4d8d-8a80-b847c25e5c81",
         "title": "Autonomy Research Intern - Applied Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -182487,6 +182487,190 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Motors",
+        "id": "dc5868b8-5e13-4f03-abe7-144a6d6805d5",
+        "title": "Intern - Motorsports Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759533870,
+        "date_posted": 1759533870,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2026-Summer-Intern---Motorsports--Software-Engineering_JR-202515322",
+        "locations": [
+            "Concord, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "General Motors",
+        "id": "579168e1-69c4-47f1-85af-710ad8f0b58f",
+        "title": "Intern - Motorsports Data Processing Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759533857,
+        "date_posted": 1759533857,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Concord-North-Carolina-United-States-of-America/XMLNAME-2026-Summer-Intern---Junior-Data-Processing-Engineer_JR-202516890",
+        "locations": [
+            "Concord, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hexagon AB ",
+        "id": "96fa32e5-8858-4e1d-84d6-b476a659d997",
+        "title": "Positioning Services Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759533718,
+        "date_posted": 1759533718,
+        "url": "https://careers-hexagonpositioning.icims.com/jobs/2857/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hexagon-AB",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hexagon AB ",
+        "id": "7071d870-30c3-4e21-8a95-dd4b4c92cccb",
+        "title": "Software Test Engineering Intern - Software Test Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759533716,
+        "date_posted": 1759530226,
+        "url": "https://careers-hexagonpositioning.icims.com/jobs/2860/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hexagon-AB",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hexagon AB ",
+        "id": "f1edf3be-71e4-4a83-a5f7-f6091e5f2c97",
+        "title": "Software Engineering Intern - Software Infrastructure Team",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759533722,
+        "date_posted": 1757801094,
+        "url": "https://careers-hexagonpositioning.icims.com/jobs/2861/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hexagon-AB",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hexagon AB ",
+        "id": "957128c1-605e-470e-a667-6605296d4b3d",
+        "title": "Geomatics Engineering Intern - Sensor Fusion",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759533709,
+        "date_posted": 1757793702,
+        "url": "https://careers-hexagonpositioning.icims.com/jobs/2859/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hexagon-AB",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hexagon AB ",
+        "id": "51e4519f-4c0e-46dc-8b3d-edffce016cb8",
+        "title": "Agriculture Engineering Intern - Agriculture Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759533719,
+        "date_posted": 1757615077,
+        "url": "https://careers-hexagonpositioning.icims.com/jobs/2856/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hexagon-AB",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Snap-on",
+        "id": "06528ed9-0eb8-4f03-a274-30b9c73d0100",
+        "title": "Intern - Application Support Engineer",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759533969,
+        "date_posted": 1757608539,
+        "url": "https://careers-snapon.icims.com/jobs/18643/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Seven Hills, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Snapon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
