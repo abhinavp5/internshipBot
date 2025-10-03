@@ -75511,7 +75511,7 @@
         "company_name": "U.S. Bank",
         "id": "63c885f6-871b-4d77-b71b-fff1e7a78ae4",
         "title": "Product Management Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -115358,7 +115358,7 @@
         "company_name": "NiSource",
         "id": "cd93b487-2477-4026-95bf-ff2f9d379bd3",
         "title": "Intern IT-Enterprise Architect",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -140351,7 +140351,7 @@
         "company_name": "ICF",
         "id": "d66fcd83-4f27-49d8-bfd7-0a18a6a89e2a",
         "title": "Intern - AI Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -140921,7 +140921,7 @@
         "company_name": "Cox",
         "id": "9644978f-4662-490f-91ed-894f3a40f251",
         "title": "Sustainability Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -161936,7 +161936,7 @@
         "company_name": "W.R. Berkley",
         "id": "0c7562e6-7d8e-4ada-b934-9b6bdd000c2f",
         "title": "Intern \u2013 Software Developer - Reactjs",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -166775,7 +166775,7 @@
         "company_name": "Blue Cross and Blue Shield of Kansas",
         "id": "e8360853-1976-474b-94d6-55a78647af93",
         "title": "Application Developer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -169697,7 +169697,7 @@
         "company_name": "Oshkosh",
         "id": "47a46e61-606d-49ef-a967-99e9fc43d00c",
         "title": "Software Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -180183,6 +180183,101 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sentry",
+        "id": "7b14a751-fe16-4267-8f47-a6edd898e5c6",
+        "title": "Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759468714,
+        "date_posted": 1759468714,
+        "url": "https://jobs.ashbyhq.com/sentry/451be182-989d-478b-8429-eef2a8490fcb/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Sentry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Zebra Technologies",
+        "id": "f682071f-e3a1-43f7-be3a-3f4a068370ed",
+        "title": "Internship - Software Product Management",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759468479,
+        "date_posted": 1759468479,
+        "url": "https://zebra.eightfold.ai/careers/job/343627948992",
+        "locations": [
+            "Wheeling, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Zebra-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bristol Myers Squibb",
+        "id": "ba55078d-879b-4498-85a0-0203d4e6a5d3",
+        "title": "Graduate Data Science Intern - Pharmacometrics Programming",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759468330,
+        "date_posted": 1759468330,
+        "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Cambridge-Crossing---MA---US/Summer-2026---Graduate-Data-Science---Pharmacometrics-Programming-Internship_R1595674",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bristol-Myers-Squibb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Donaldson Company",
+        "id": "bdbe8237-8ac6-4ce2-a252-3b4baf3d4739",
+        "title": "Product Management Intern - Mobile Solutions",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2026"
+        ],
+        "date_updated": 1759468193,
+        "date_posted": 1759468193,
+        "url": "https://donaldson.wd5.myworkdayjobs.com/donaldsoncareers/job/Bloomington-MN-USA/Product-Management-Intern_JR-24696",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/b0914ae0-67cc-4a7d-ba1c-d8731e2f59a4",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
