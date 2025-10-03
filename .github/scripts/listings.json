@@ -129893,7 +129893,7 @@
         "company_name": "Shure",
         "id": "7ab269f4-c168-4aef-affd-086940fd86c1",
         "title": "Applied Research Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -154731,7 +154731,7 @@
         "company_name": "Norfolk Southern",
         "id": "368a00c7-e75c-4b16-b8b1-3efe5d573be7",
         "title": "Business Optimization Intern - Business/Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -182151,6 +182151,29 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/BNY-Mellon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lloyds Bank",
+        "id": "7aebcb76-017c-4f51-87d7-bd3d1b4a37ae",
+        "title": "Data Apprentice - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1759529501,
+        "date_posted": 1759529501,
+        "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Data-Apprentice--Leeds-_144401",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Lloyds-Bank",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
