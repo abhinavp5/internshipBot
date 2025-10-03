@@ -95374,7 +95374,7 @@
         "company_name": "U.S. Bancorp",
         "id": "75ab04ce-10fa-41e5-9392-1ad6a218a0f7",
         "title": "Information Security Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -135727,7 +135727,7 @@
         "company_name": "Epiroc",
         "id": "5c5c1e83-a3ac-4630-930e-57b810d22ea5",
         "title": "Intern \u2013 Quality Control",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -152414,7 +152414,7 @@
         "company_name": "Johnson & Johnson",
         "id": "a3059651-5e81-4874-935c-1003667b36a2",
         "title": "Q&C Data Science Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
