@@ -134,25 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "FM Global",
-        "id": "0b2df1f4-882e-4a61-b5e7-9cab36587504",
-        "title": "Enterprise Services Metrics and Reporting Summer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738787084,
-        "date_posted": 1738787084,
-        "url": "https://jobs-fmglobal.icims.com/jobs/15425/job",
-        "locations": [
-            "Providence, RI"
-        ],
-        "company_url": "https://simplify.jobs/c/FM-Global",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Parsons",
         "id": "819f9b22-75be-40be-ac08-17d2d9e83ee5",
         "title": "Computer Science Co-Op",
@@ -167,44 +148,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Parsons",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Resmed",
-        "id": "52971250-e8c7-4718-b303-b1013c135ad4",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": 1738787722,
-        "date_posted": 1738787722,
-        "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Software-Engineering-Intern_JR_039584",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/f1e2116e-f25f-44f8-9667-7351ce6ceb3f",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Resmed",
-        "id": "983eb99e-296f-4fab-a9b5-3a586be4e8ff",
-        "title": "Software Test Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": 1738787716,
-        "date_posted": 1738787716,
-        "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Software-Test-Engineering-Intern_JR_039383",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/f1e2116e-f25f-44f8-9667-7351ce6ceb3f",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -266,25 +209,6 @@
             "Berkeley Heights, NJ"
         ],
         "company_url": "https://simplify.jobs/c/Verizon-Communications",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "LiveRamp",
-        "id": "ccb682b2-f8c9-407b-80c1-ab12178b5efc",
-        "title": "Co-Op \u2013 Software Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738787358,
-        "date_posted": 1738787358,
-        "url": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Co-Op--Software-Engineering_JR011449",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/LiveRamp",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -121734,7 +121658,7 @@
         "company_name": "RoviSys",
         "id": "1d8d12c5-e0bb-4eae-b30c-81012983acd7",
         "title": "Co-op \u2013 Spring 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -130673,7 +130597,7 @@
         "company_name": "RoviSys",
         "id": "c376dec1-bc42-48cb-88f0-fd1276179d92",
         "title": "Co-op \u2013 Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -132916,7 +132840,7 @@
         "company_name": "Quanta Services",
         "id": "160d1f7f-a969-4416-8aff-56a07e419e95",
         "title": "Innovation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -152999,7 +152923,7 @@
         "company_name": "The Federal Reserve System",
         "id": "d782edff-f7ae-479e-9062-3886bfc061f3",
         "title": "2026 Summer Intern - Technology Group - Junior",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -167566,7 +167490,7 @@
         "company_name": "Rambus",
         "id": "8e5c43e7-05a6-4746-935b-495159a96309",
         "title": "Silicon IP Field Application Engineer Intern - Field Application Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -177471,18 +177395,17 @@
         "terms": [
             "Winter 2025"
         ],
-        "date_updated": 1759372502,
+        "date_updated": 1759524065,
         "date_posted": 1759372502,
         "url": "https://jobs.ashbyhq.com/dandy/ca3ac564-bd29-4d86-a67d-741909354c8d/application",
         "locations": [
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Dandy",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Master's",
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -182365,6 +182288,29 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/LabCorp",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "The Bank of New York Mellon",
+        "id": "7b62f10c-2448-44e4-8029-f0bd27aef0b0",
+        "title": "Business Operations Intern/Co-op - Product and Innovation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759523206,
+        "date_posted": 1759523206,
+        "url": "https://bnymellon.eightfold.ai/careers/job/38374097",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/BNY-Mellon",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
