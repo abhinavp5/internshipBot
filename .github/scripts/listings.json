@@ -82704,7 +82704,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "057819d8-d85c-46f7-b31e-6d9e538c832c",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -126761,7 +126761,7 @@
         "company_name": "FM Global",
         "id": "0831f960-7a18-46e7-a8ec-fd25e7c05128",
         "title": "Cyber Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -127535,7 +127535,7 @@
         "company_name": "Legrand NA",
         "id": "f12c4439-da73-4544-9abe-313c848354d9",
         "title": "Firmware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -128919,7 +128919,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "f7395054-7db5-4380-a84d-a3a91540d37c",
         "title": "Quantitative Strategy Developer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -129154,7 +129154,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "bb505aa5-4894-4133-ad70-796eb3517fb9",
         "title": "Trading System Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -130066,7 +130066,7 @@
         "company_name": "FM Global",
         "id": "302bca3a-bec3-422d-90ce-13c40c032cab",
         "title": "Identity Services Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -130090,7 +130090,7 @@
         "company_name": "FM Global",
         "id": "0ce0eba4-b10d-48ec-b66f-1cd3bede9a6b",
         "title": "Software Engineering Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -137665,7 +137665,7 @@
         "company_name": "Steel Dynamics",
         "id": "f2f4ab79-4acb-49c6-a5aa-a0bb34703745",
         "title": "Software Development Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -179027,6 +179027,359 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Corteva",
+        "id": "de8de89e-194d-43d3-89e4-c9f844a2ad62",
+        "title": "AFT Seeds Engineering Software Internship - Automation & Field Technology",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1759459684,
+        "date_posted": 1759459684,
+        "url": "https://corteva.wd5.myworkdayjobs.com/en-US/ctp/job/Des-Moines-Iowa-United-States/AFT-Seeds-Engineering-Software-Internship_243012W",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Corteva",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Paccar",
+        "id": "1fb9e86c-1d1b-4843-a64f-eb7066f8e9cb",
+        "title": "Intern - Product Marketing",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1759459461,
+        "date_posted": 1759459461,
+        "url": "https://jobs.paccar.com/job/Renton-Summer-Internship-Product-Marketing-WA-98055/1253962901/?ats=successfactors",
+        "locations": [
+            "Tukwila, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Paccar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "PIMCO",
+        "id": "f85ec5d8-a924-4791-80be-6d7dfa4edb8b",
+        "title": "Masters Summer Intern - Quant Research Analyst - Client Solutions & Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759459379,
+        "date_posted": 1759459379,
+        "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2026-Masters-Summer-Internship---Quant-Research-Analyst--Client-Solutions---Analytics--US_R105732",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PIMCO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Schweitzer Engineering Laboratories",
+        "id": "708b6415-f11e-4ea5-8d07-c2b036348885",
+        "title": "Supply Chain Data Analyst Intern - Supply Chain",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1759459300,
+        "date_posted": 1759459300,
+        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Supply-Chain-Data-Analyst-Intern_2025-18017",
+        "locations": [
+            "Moscow, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/SEL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Newmark Group",
+        "id": "6a03c437-8e9b-48c0-b999-6c6c1aff8de7",
+        "title": "GIS Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759459269,
+        "date_posted": 1759459269,
+        "url": "https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/246091",
+        "locations": [
+            "Chicago, IL",
+            "Amarillo, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Newmark-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Moog ",
+        "id": "9d245a3a-c8f1-48db-8a30-88894f8022f9",
+        "title": "Intern - Product Engineering - Product Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1759459228,
+        "date_posted": 1759459228,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Product-Engineering_R-25-14309",
+        "locations": [
+            "Cheektowaga, NY",
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Moog",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Stripe",
+        "id": "f2598b3a-a98e-4503-b170-122e90674226",
+        "title": "PhD Data Scientist Intern - Data Science",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759458964,
+        "date_posted": 1759458964,
+        "url": "https://stripe.com/jobs/search?gh_jid=7285974",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Stripe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Optiver",
+        "id": "cc73d66b-9079-4dbc-a3bd-143d9435041a",
+        "title": "Software Engineer Intern/Co-op - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1759460406,
+        "date_posted": 1759460406,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/8192120002/?gh_jid=8192120002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "80b35c37-fb60-45fc-a0ad-f87d9de37a0f",
+        "title": "Factory Systems Setup Intern - Route Build Team",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759460131,
+        "date_posted": 1759460131,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Factory-Systems-Setup-Intern--Route-Build-Team--Summer-2026-_JR-2503114",
+        "locations": [
+            "Malta, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "American Express",
+        "id": "10f31143-c6c1-469c-90e6-04adb02b5c41",
+        "title": "Campus Graduate Summer Internship Program - Global Commercial Services",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759460051,
+        "date_posted": 1759460051,
+        "url": "https://aexp.eightfold.ai/careers/job/38041948",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Invesco",
+        "id": "4ea072ac-07a3-4cd6-8623-78d439ea1e82",
+        "title": "Internship - Security - Early Careers",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759459705,
+        "date_posted": 1759459705,
+        "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Summer-2026-Internship---Security---Early-Careers_R-11801",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Invesco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Paccar",
+        "id": "4683c042-d1ce-43fa-a242-0bb8471670f4",
+        "title": "Intern - Product Marketing",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1759459935,
+        "date_posted": 1759459935,
+        "url": "https://jobs.paccar.com/job/Renton-Summer-Internship-Product-Marketing-WA-98055/1253967201/?ats=successfactors",
+        "locations": [
+            "Tukwila, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Paccar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Tidal Financial Group",
+        "id": "968d0b52-10d9-484d-815a-df7aeb6e336d",
+        "title": "Trading Intern 2026 - Trading Team",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759461291,
+        "date_posted": 1759461291,
+        "url": "https://ats.rippling.com/open-roles/jobs/dd934365-b164-4fe5-8bd0-983ffcad5dfd",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Tidal-Financial-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Tidal Financial Group",
+        "id": "38965d4c-999d-4ecd-94d3-ecca11ef1af3",
+        "title": "Trading Intern 2026 - Trading Team",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759461282,
+        "date_posted": 1759461282,
+        "url": "https://ats.rippling.com/open-roles/jobs/7e6de1cb-e4e7-407c-875a-f1584f2256d3",
+        "locations": [
+            "Western Springs, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Tidal-Financial-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Tenstorrent",
+        "id": "bd5ccbf1-d64f-4a89-93eb-d585c354457d",
+        "title": "IT Systems Administrator Intern - IT Infrastructure",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759460979,
+        "date_posted": 1759460979,
+        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4527157007",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Tenstorrent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
