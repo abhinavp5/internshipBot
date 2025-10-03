@@ -133028,7 +133028,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9a6e5b09-436c-4ff9-a004-546a8fd41641",
         "title": "Quantitative Trader Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -178049,14 +178049,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759414269,
+        "date_updated": 1759482530,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [
             "Bachelor's"
         ],
         "url": "https://careers-hexagonpositioning.icims.com/jobs/2861/software-engineering-intern/job",
-        "company_name": "Hexagon",
+        "company_name": "Hexagon AB",
         "title": "Software Engineering Intern",
         "locations": [
             "Calgary, AB, CAN"
