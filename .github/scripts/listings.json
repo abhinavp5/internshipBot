@@ -77680,7 +77680,7 @@
         "company_name": "Arch Capital Group",
         "id": "b296925d-bba6-4432-96a4-fdadb8f790f8",
         "title": "Enterprise Document Management Systems - Edms",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -88251,7 +88251,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "d8911ddb-9724-4ce0-b671-aa12a0a666e2",
         "title": "ASIC Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -136136,7 +136136,7 @@
         "company_name": "Lucid",
         "id": "b5bd3f98-c691-48ae-9a64-13ab348c1d14",
         "title": "Data Analyst Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -139479,7 +139479,7 @@
         "company_name": "Wipfli",
         "id": "0855a169-0454-4acf-b615-c45f15527379",
         "title": "Product Development Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -169682,7 +169682,7 @@
         "company_name": "CACI",
         "id": "68a7bf88-bc2e-4183-8cb1-e69e34102184",
         "title": "Cyber Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -171372,7 +171372,7 @@
         "company_name": "Geosyntec Consultants",
         "id": "ea0e5c70-24d1-49c8-a642-64566f6f75ed",
         "title": "GIS and Geospatial Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -172796,7 +172796,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "0f9e64a4-2f81-4e45-8f3d-d921cad36736",
         "title": "Network Operations Intern - Network Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -181818,6 +181818,55 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "2d882ad0-fc14-4799-a2d3-aa971fa06c37",
+        "title": "AI Research Scientist Intern - 3D Computer Vision and Graphics - Media",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759512635,
+        "date_posted": 1759512635,
+        "url": "https://www.metacareers.com/jobs/793041557032493",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Wind River",
+        "id": "000d2aa7-5bbc-41c5-9622-64d2d3025af3",
+        "title": "Embedded Software Engineering - College Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759512488,
+        "date_posted": 1759512488,
+        "url": "https://jobs.jobvite.com/windriver/job/oKThxfwb?nl=1&nl=1&fr=false",
+        "locations": [
+            "Walnut Creek, CA",
+            "Cupertino, CA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wind-River",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
