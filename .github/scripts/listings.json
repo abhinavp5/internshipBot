@@ -171584,7 +171584,7 @@
         "company_name": "Charles Schwab",
         "id": "cbb1b94d-d4d2-4016-ae2e-f63868565c25",
         "title": "Investor Services Intern - Trading and Retail",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -181313,6 +181313,55 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Gemini",
+        "id": "6c678f9b-f449-443e-8b21-68bf68862811",
+        "title": "Software Engineering Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1759483452,
+        "date_posted": 1759483452,
+        "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=7293188&gh_jid=7293188",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Gemini",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "C.H. Robinson",
+        "id": "567e71bf-e2aa-4199-9740-de97485271c9",
+        "title": "Software Engineering Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759483489,
+        "date_posted": 1759483489,
+        "url": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Intern_R45989",
+        "locations": [
+            "Eden Prairie, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/CH-Robinson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
