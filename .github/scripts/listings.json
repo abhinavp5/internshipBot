@@ -130673,7 +130673,7 @@
         "company_name": "RoviSys",
         "id": "c376dec1-bc42-48cb-88f0-fd1276179d92",
         "title": "Co-op \u2013 Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -130788,7 +130788,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3900ee26-a593-429d-aeb9-6cea38b113a8",
         "title": "Machine Learning Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -165430,7 +165430,7 @@
         "company_name": "Daktronics",
         "id": "d93a7453-5761-458b-9653-179b7284a8a9",
         "title": "Firmware/Hardware Design Co-op Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -172842,7 +172842,7 @@
         "company_name": "Mackenzie Investments",
         "id": "1ee56d8c-a545-44d5-9353-5b550b5a6ef8",
         "title": "Intern - Product Department",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -181720,6 +181720,79 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Iron Mountain",
+        "id": "5dacb45a-6cb6-407a-978c-f95ac6f821df",
+        "title": "Finance & Analytics Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759510164,
+        "date_posted": 1759510164,
+        "url": "https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/US--MA--Remote/Finance---Analytics-Intern--Summer-2026-_J0093381",
+        "locations": [
+            "Boston, MA",
+            "Tampa, FL",
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Iron-Mountain",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Deloitte",
+        "id": "40ad34b7-6193-4f1a-8e39-d8e37af81ef9",
+        "title": "Audit & Assurance Intern - Risk Technology & Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759510273,
+        "date_posted": 1759510273,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Risk-Technology-Analytics-Summer-2026/313964",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "American Express",
+        "id": "3083d428-5af8-48d3-9ee8-00595913c84e",
+        "title": "Campus Graduate Summer Internship Program - Product - Global Commercial Services",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759510153,
+        "date_posted": 1759510153,
+        "url": "https://aexp.eightfold.ai/careers/job/38041750",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
