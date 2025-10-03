@@ -15310,7 +15310,7 @@
 <td>24d</td>
 </tr>
 <tr>
-<td><strong>CNA</strong></td>
+<td>↳</td>
 <td>Technology Internship Program (AI Engineering) 🛂</td>
 <td>Chicago, IL</td>
 <td><div align="center"><a href="https://cna.wd1.myworkdayjobs.com/en-US/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--AI-ML-Engineering-_R-6234?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
