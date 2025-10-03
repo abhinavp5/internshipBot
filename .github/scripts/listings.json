@@ -182110,5 +182110,101 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vertex Pharmaceuticals",
+        "id": "8ce34c26-4258-4cb4-8b56-ca387d4a8009",
+        "title": "Intern 2026 - Data Technology - Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759517264,
+        "date_posted": 1759517264,
+        "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Vertex-Summer-Intern-2026--DTE--Data--Technology--and-Engineering-_REQ-26580",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertex-Pharmaceuticals",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "General Motors",
+        "id": "cba0ba86-2867-41da-84aa-084e95bbc7aa",
+        "title": "Data Science Intern/Co-op - Warranty and Technical Services",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1759516861,
+        "date_posted": 1759516861,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Oshawa-Ontario-Canada/XMLNAME-2026-Winter-Co-op-Data-Science_JR-202517974",
+        "locations": [
+            "Oshawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Thomson Reuters",
+        "id": "19a95b8e-371b-405c-b3b9-f06ae1196725",
+        "title": "Applied Science Intern - Machine Learning - Natural Language Processing",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759516549,
+        "date_posted": 1759516549,
+        "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/GBR-London-5-Canada-Square/Applied-Science-Intern_JREQ194800",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thomson-Reuters",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Allegheny County",
+        "id": "8e57cbf6-4578-4990-82f0-2c56e22e490d",
+        "title": "Human Services Internship - Analytics - Technology & Planning",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1759517444,
+        "date_posted": 1759517444,
+        "url": "https://alleghenycounty.bamboohr.com/careers/578/",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Allegheny-County",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
