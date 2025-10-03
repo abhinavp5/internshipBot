@@ -121869,7 +121869,7 @@
         "company_name": "RoviSys",
         "id": "1d8d12c5-e0bb-4eae-b30c-81012983acd7",
         "title": "Co-op \u2013 Spring 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -132035,7 +132035,7 @@
         "company_name": "RoviSys",
         "id": "3cdc75c9-e302-471d-9aa2-12e38b885f5b",
         "title": "Co-op \u2013 Spring 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -181381,6 +181381,29 @@
             "Roseville, CA"
         ],
         "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Deloitte",
+        "id": "838337f3-ae0c-406b-a6cb-dccbe720a918",
+        "title": "Tech Enablement and Transformation Summer Scholar - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1759490624,
+        "date_posted": 1756852886,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Tech-Enablement-and-Transformation-Summer-Scholar/307265",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
