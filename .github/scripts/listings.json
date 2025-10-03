@@ -86383,7 +86383,7 @@
         "company_name": "Meta",
         "id": "d23e4d27-4627-4759-8bf3-ec3dcd5823da",
         "title": "Research Scientist Intern - Anisotropic Optics and Photonics - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -111009,7 +111009,7 @@
         "company_name": "Meta",
         "id": "89b755b2-864d-45c9-ab9b-e5fb6b1c1124",
         "title": "Research Scientist Intern - Audio - Numerical Acoustics",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -156773,7 +156773,7 @@
     {
         "date_updated": 1758523762,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -164309,7 +164309,7 @@
         "company_name": "Kinaxis",
         "id": "2ec4349f-cc76-41c8-8a88-2b43045e703d",
         "title": "Co-op/Intern Developer - Clients - Front End Technologies",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
