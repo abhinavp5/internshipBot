@@ -82685,7 +82685,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "057819d8-d85c-46f7-b31e-6d9e538c832c",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -129182,7 +129182,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "97094f97-0c76-42e9-bacf-3f331d041f15",
         "title": "Quantitative Systematic Trading Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -131894,7 +131894,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ad8b1567-30c9-4093-b10b-395eb58e0e33",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -181404,6 +181404,29 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lloyds Bank",
+        "id": "0715bbdb-141d-47b2-846d-f82cd13466fb",
+        "title": "Data Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1759495251,
+        "date_posted": 1759495251,
+        "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Birmingham/Data-Apprentice--Birmingham-_144390",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Lloyds-Bank",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
