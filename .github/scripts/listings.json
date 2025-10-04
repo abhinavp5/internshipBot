@@ -82124,7 +82124,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "057819d8-d85c-46f7-b31e-6d9e538c832c",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -130316,7 +130316,7 @@
         "company_name": "RoviSys",
         "id": "700e8eb1-9183-4c01-8180-7de79c8e98a6",
         "title": "Co-op \u2013 Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -171374,7 +171374,7 @@
         "company_name": "Apogee Engineering",
         "id": "33b85725-8c8d-441f-8cd6-8552d74ae72e",
         "title": "Systems Architect - Apprentice - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -182370,7 +182370,7 @@
         "company_name": "Hexagon AB ",
         "id": "7071d870-30c3-4e21-8a95-dd4b4c92cccb",
         "title": "Software Test Engineering Intern - Software Test Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -182639,6 +182639,123 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "State of Wisconsin Investment Board",
+        "id": "03a61c42-4826-4fde-9009-f6df8df05711",
+        "title": "Quantitative Analyst Intern - Multistrategy Team",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759548325,
+        "date_posted": 1759548325,
+        "url": "https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Quantitative-Analyst-Intern_R-001267",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Of-Wisconsin-Investment-Board",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "McDonald's",
+        "id": "ebdd92ba-e722-4681-ae1f-f3c3a02391f6",
+        "title": "Global Technology Intern - Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759548137,
+        "date_posted": 1759548137,
+        "url": "https://jobs.mcdonalds.com/job/Chicago-2026-Global-Technology-Intern-Software-Engineer-IL-60607/1331830100/?ats=successfactors",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/McDonald",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "McDonald's",
+        "id": "6e5980df-d552-4782-833e-db7408ca4343",
+        "title": "Global Technology Intern - Data",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759548147,
+        "date_posted": 1759548147,
+        "url": "https://jobs.mcdonalds.com/job/Chicago-2026-Global-Technology-Intern-Data-IL-60607/1331815900/?ats=successfactors",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/McDonald",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Gulfstream",
+        "id": "40b1a2dd-f0f7-4552-8665-62401bd79cbe",
+        "title": "Application Developer Intern - ERP Team",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759548144,
+        "date_posted": 1759548144,
+        "url": "https://careers.gulfstream.com/job/Savannah-Summer-2026-Application-Developer-College-Intern-GA-31401/1331621900/?ats=successfactors",
+        "locations": [
+            "Savannah, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gulfstream",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "United Talent Agency",
+        "id": "c5ed8587-35a9-40ef-b7bc-56ba83f15251",
+        "title": "Data Science Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Summer 2026"
+        ],
+        "date_updated": 1759548040,
+        "date_posted": 1759548040,
+        "url": "https://unitedtalent.wd5.myworkdayjobs.com/UTA/job/Los-Angeles-CA/Data-Science-Internship---2026_R4268",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Talent-Agency",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
