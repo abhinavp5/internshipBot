@@ -126086,7 +126086,7 @@
         "company_name": "FM Global",
         "id": "0831f960-7a18-46e7-a8ec-fd25e7c05128",
         "title": "Cyber Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -131310,7 +131310,7 @@
         "company_name": "RoviSys",
         "id": "d7e5e1b2-17a9-4450-b6a8-a0afe51426eb",
         "title": "Co-op \u2013 Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
