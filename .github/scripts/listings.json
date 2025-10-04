@@ -65077,7 +65077,7 @@
         "company_name": "ZOLL Medical Corporation",
         "id": "5706f9ef-4f17-48e3-93e5-de16063adb36",
         "title": "Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -66772,7 +66772,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "6d2e79e0-1a7c-424c-ae0f-610035001d89",
         "title": "Intern \u2013 End-User Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -151100,7 +151100,7 @@
         "company_name": "NextEra Energy",
         "id": "be28c40f-0275-4f17-b257-2c0be92754c2",
         "title": "IT Salesforce Analyst \u2013 College Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -170847,7 +170847,7 @@
         "company_name": "Geosyntec Consultants",
         "id": "ea0e5c70-24d1-49c8-a642-64566f6f75ed",
         "title": "GIS and Geospatial Data Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -172904,7 +172904,7 @@
         "company_name": "Wipfli",
         "id": "e0639b17-9a9d-45a1-a01f-74fa600e3859",
         "title": "Product Implementation Intern/Co-op - IP Product Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -176283,7 +176283,7 @@
         "company_name": "Grow Financial Federal Credit Union",
         "id": "f773e1e7-217c-442f-81f3-bc8a1692940f",
         "title": "Collections Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -182367,7 +182367,7 @@
         "company_name": "Snap-on",
         "id": "06528ed9-0eb8-4f03-a274-30b9c73d0100",
         "title": "Intern - Application Support Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -183781,6 +183781,31 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "State Street",
+        "id": "4058de53-2370-4ae4-9468-4b3f58b4e5d7",
+        "title": "Desktop Engineering Associate - Co-Op",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1759596987,
+        "date_posted": 1759596987,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Desktop-Engineering-Associate--Co-Op_R-778571",
+        "locations": [
+            "Quincy, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
