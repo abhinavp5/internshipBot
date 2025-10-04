@@ -1,0 +1,13 @@
+diff --git a/.github/scripts/listings.json b/.github/scripts/listings.json
+index 26612c797..7390af9f6 100644
+--- a/.github/scripts/listings.json
++++ b/.github/scripts/listings.json
+@@ -116635,7 +116635,7 @@
+         "company_name": "KION",
+         "id": "7d0c9de8-58d0-4419-bfcf-ec180daddfb5",
+         "title": "Engineering and Product Management Intern",
+-        "active": true,
++        "active": false,
+         "terms": [
+             "Fall 2025"
+         ],

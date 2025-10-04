@@ -1,0 +1,15 @@
+diff --git a/.github/scripts/listings.json b/.github/scripts/listings.json
+index 2222222..3333333 100644
+--- a/.github/scripts/listings.json
++++ b/.github/scripts/listings.json
+@@ -100,7 +100,7 @@
+ { 
+   "company_name": "ToggleTestCo",
+   "title": "Software Engineer Intern",
+   "locations": ["Anywhere, USA"],
+-  "active": false,
++  "active": true,
+   "terms": [
+     "Summer 2026"
+   ]
+ }

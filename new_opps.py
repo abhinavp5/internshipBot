@@ -1,176 +1,115 @@
 #!/usr/bin/env python3
 """
-Script to detect new Summer 2026 internship opportunities from listings.json changes
+Script to detect new Summer 2026 internship opportunities from README.md changes
 and generate email content for notifications.
 """
 
-import json
 import os
 import glob
 import re
 from typing import Dict, List, Any, Set, Tuple
 
-def load_listings_json(file_path: str) -> List[Dict[str, Any]]:
-    """Load and parse listings.json file."""
-    try:
-        with open(file_path, 'r', encoding='utf-8') as f:
-            return json.load(f)
-    except (FileNotFoundError, json.JSONDecodeError) as e:
-        print(f"Error loading {file_path}: {e}")
-        return []
 
 def extract_added_lines_from_patch(patch_file: str) -> List[str]:
-    """Extract added lines from a patch file for listings.json."""
+    """Extract added lines from a patch file for README.md."""
     added_lines = []
-    in_listings_section = False
+    in_readme_section = False
 
     try:
         with open(patch_file, 'r', encoding='utf-8') as f:
             for line in f:
-                # Check if we're entering listings.json section
-                if line.startswith('+++') and 'listings.json' in line:
-                    in_listings_section = True
+                # Check if we're entering README.md section
+                if line.startswith('+++') and 'README.md' in line:
+                    in_readme_section = True
                     continue
-                elif line.startswith('+++') and 'listings.json' not in line:
-                    in_listings_section = False
+                elif line.startswith('+++') and 'README.md' not in line:
+                    in_readme_section = False
                     continue
 
                 # Collect only added lines (ignore diff headers)
-                if in_listings_section and line.startswith('+') and not line.startswith('+++'):
+                if in_readme_section and line.startswith('+') and not line.startswith('+++'):
                     added_lines.append(line[1:].rstrip())
     except FileNotFoundError:
         print(f"Patch file {patch_file} not found")
 
     return added_lines
 
-def extract_activation_flip_identifiers_from_patch(patch_file: str) -> List[Dict[str, str]]:
-    """Detect hunks where an entry flips from "active": false to "active": true
-    and extract nearby identifiers (id, url, company_name, title, first location).
+def parse_opportunities_from_readme_lines(lines: List[str]) -> List[Dict[str, Any]]:
+    """Parse internship opportunities from README table rows."""
+    opportunities = []
+    
+    # Process lines in groups to capture complete table rows
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        
+        # Look for table rows that contain internship data
+        if '<tr>' in line:
+            # Collect the next few lines to get the complete table row
+            row_lines = []
+            j = i
+            while j < len(lines) and '</tr>' not in lines[j]:
+                row_lines.append(lines[j])
+                j += 1
+            if j < len(lines):
+                row_lines.append(lines[j])  # Include the closing </tr>
+            
+            # Join the row lines to analyze the complete row
+            row_text = ' '.join(row_lines)
+            
+            # Check if this row contains an internship opportunity
+            if '<td><strong><a href=' in row_text and 'Apply' in row_text:
+                opportunity = parse_single_opportunity_from_row(row_text)
+                if opportunity:
+                    opportunities.append(opportunity)
+            
+            i = j + 1
+        else:
+            i += 1
+    
+    return opportunities
 
-    Returns a list of attribute dictionaries per flipped entry with whatever
-    identifiers were discoverable from the hunk context.
-    """
-    flips: List[Dict[str, str]] = []
-    in_listings_section = False
-    current_hunk: List[str] = []
-
+def parse_single_opportunity_from_row(row_text: str) -> Dict[str, Any]:
+    """Parse a single opportunity from a complete table row."""
     try:
-        with open(patch_file, 'r', encoding='utf-8') as f:
-            for line in f:
-                if line.startswith('+++'):
-                    in_listings_section = 'listings.json' in line
-                    # Reset any accumulated hunk when switching files
-                    current_hunk = []
-                    continue
+        # Extract company name from the first <td> with company link
+        company_match = re.search(r'<td><strong><a href="[^"]*">([^<]+)</a></strong></td>', row_text)
+        company = company_match.group(1) if company_match else "Unknown Company"
+        
+        # Extract role from the second <td>
+        role_match = re.search(r'<td><strong><a href="[^"]*">[^<]+</a></strong></td>\s*<td>([^<]+)</td>', row_text)
+        if not role_match:
+            # Try alternative pattern for role
+            role_match = re.search(r'</td>\s*<td>([^<]+)</td>', row_text)
+        role = role_match.group(1).strip() if role_match else "Software Engineering Intern"
+        
+        # Extract location from the third <td>
+        location_match = re.search(r'<td>([^<]+)</td>\s*<td><div align="center">', row_text)
+        location = location_match.group(1).strip() if location_match else "Various"
+        
+        # Extract application URL
+        url_match = re.search(r'<a href="([^"]*)"[^>]*><img[^>]*alt="Apply"', row_text)
+        url = url_match.group(1) if url_match else "No link provided"
+        
+        return {
+            'company_name': company,
+            'title': role,
+            'url': url,
+            'locations': [location] if location != "Various" else ['Various'],
+            'terms': ['Summer 2026']  # Assume Summer 2026 for this repo
+        }
+    except Exception as e:
+        print(f"Error parsing opportunity from row: {e}")
+        return None
 
-                # Track hunk content only for listings.json
-                if not in_listings_section:
-                    continue
 
-                # Hunk headers start with @@, reset buffer
-                if line.startswith('@@'):
-                    if current_hunk:
-                        # process previous hunk before starting a new one
-                        _maybe_extract_flip(current_hunk, flips)
-                    current_hunk = []
-                    current_hunk.append(line)
-                    continue
-
-                # Accumulate lines within the hunk (context ' ', removals '-', additions '+')
-                if line.startswith((' ', '+', '-')):
-                    current_hunk.append(line)
-
-            # Process the final hunk at EOF
-            if current_hunk:
-                _maybe_extract_flip(current_hunk, flips)
-
-    except FileNotFoundError:
-        pass
-
-    return flips
-
-def _maybe_extract_flip(hunk_lines: List[str], flips_out: List[Dict[str, str]]) -> None:
-    """If the given hunk contains an active false->true flip, extract identifiers."""
-    text = ''.join(hunk_lines)
-    has_false = re.search(r'\n-\s*"active"\s*:\s*false', text) is not None
-    has_true  = re.search(r'\n\+\s*"active"\s*:\s*true', text) is not None
-    if has_false and has_true:
-        # Try to extract identifiers from the hunk context (any of +, -, or space lines)
-        attrs: Dict[str, str] = {}
-        joined = '\n'.join(hunk_lines)
-
-        def grab(pattern: str, key: str) -> None:
-            if key in attrs:
-                return
-            m = re.search(pattern, joined)
-            if m:
-                attrs[key] = m.group(1)
-
-        # Prefer id/url, then company/title/location
-        grab(r'"id"\s*:\s*"([^"]+)"', 'id')
-        grab(r'"url"\s*:\s*"([^"]+)"', 'url')
-        grab(r'"company_name"\s*:\s*"([^"]+)"', 'company_name')
-        grab(r'"title"\s*:\s*"([^"]+)"', 'title')
-        # First location inside locations array on same or following line
-        grab(r'"locations"\s*:\s*\[\s*"([^"]+)"', 'location')
-
-        if attrs:
-            flips_out.append(attrs)
-
-def parse_json_from_lines(lines: List[str]) -> List[Dict[str, Any]]:
-    """Parse JSON objects from added patch lines."""
-    if not lines:
-        return []
-
-    # Join lines and try to find JSON objects by braces
-    text = "\n".join(lines)
-
-    objects = []
-    buffer = []
-    brace_count = 0
-
-    for line in text.splitlines():
-        if "{" in line:
-            brace_count += line.count("{")
-        if "}" in line:
-            brace_count -= line.count("}")
-
-        buffer.append(line)
-
-        if brace_count == 0 and buffer:
-            candidate = "\n".join(buffer).strip().rstrip(",")
-            try:
-                obj = json.loads(candidate)
-                objects.append(obj)
-            except json.JSONDecodeError:
-                pass
-            buffer = []
-
-    return objects
-
-def find_summer_2026_opportunities(listings: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-    """Find all opportunities that have 'Summer 2026' in their terms."""
-    summer_2026_opportunities = []
-
-    for opportunity in listings:
-        if isinstance(opportunity, dict):
-            terms = opportunity.get('terms', [])
-            if isinstance(terms, list) and any('Summer 2026' in str(term) for term in terms):
-                summer_2026_opportunities.append(opportunity)
-            elif isinstance(terms, str) and 'Summer 2026' in terms:
-                summer_2026_opportunities.append(opportunity)
-
-    return summer_2026_opportunities
 
 def find_new_summer_2026_opportunities_from_patches() -> List[Dict[str, Any]]:
-    """Find new Summer 2026 opportunities by analyzing patch files."""
+    """Find new Summer 2026 opportunities by analyzing README patch files."""
     summer_2026_opportunities = []
 
     # Look for patch files in the changes directory
     patch_files = glob.glob("changes/*.patch")
-
-    # Collect IDs/URLs of entries whose active flipped to true
-    flipped_attrs: List[Dict[str, str]] = []
 
     for patch_file in patch_files:
         print(f"Processing patch file: {patch_file}")
@@ -178,56 +117,22 @@ def find_new_summer_2026_opportunities_from_patches() -> List[Dict[str, Any]]:
         # Extract added lines from this patch
         added_lines = extract_added_lines_from_patch(patch_file)
 
-        # Parse newly added objects (brand-new entries)
+        # Parse newly added opportunities from README content
         if added_lines:
-            added_content = parse_json_from_lines(added_lines)
-            new_opportunities = find_summer_2026_opportunities(added_content)
+            new_opportunities = parse_opportunities_from_readme_lines(added_lines)
             summer_2026_opportunities.extend(new_opportunities)
 
-        # Also detect active false->true flips in this patch
-        flipped_attrs.extend(extract_activation_flip_identifiers_from_patch(patch_file))
-
-    # If we detected flips, load full listings and pull those entries
-    if flipped_attrs:
-        listings_path = os.path.join('.github', 'scripts', 'listings.json')
-        current_listings: List[Dict[str, Any]] = load_listings_json(listings_path)
-
-        def entry_matches_attrs(entry: Dict[str, Any], attrs: Dict[str, str]) -> bool:
-            if 'id' in attrs and entry.get('id') == attrs['id']:
-                return True
-            if 'url' in attrs and entry.get('url') == attrs['url']:
-                return True
-            # Fallback: match by company, title, and location if available
-            company_ok = ('company_name' not in attrs) or (entry.get('company_name') == attrs.get('company_name'))
-            title_ok = ('title' not in attrs) or (entry.get('title') == attrs.get('title'))
-            if isinstance(entry.get('locations'), list):
-                loc_ok = ('location' not in attrs) or (attrs.get('location') in entry.get('locations', []))
-            else:
-                loc_ok = ('location' not in attrs) or (entry.get('locations') == attrs.get('location'))
-            return company_ok and title_ok and loc_ok
-
-        flipped_entries: List[Dict[str, Any]] = []
-        for attrs in flipped_attrs:
-            match = next((e for e in current_listings if entry_matches_attrs(e, attrs)), None)
-            if match:
-                flipped_entries.append(match)
-
-        # Filter flipped entries to Summer 2026
-        summer_2026_opportunities.extend(find_summer_2026_opportunities(flipped_entries))
-
-    # De-duplicate by id or url
+    # De-duplicate by company name and URL
     deduped: List[Dict[str, Any]] = []
     seen_keys: Set[Tuple[str, str]] = set()
     for opp in summer_2026_opportunities:
-        key = (str(opp.get('id')), str(opp.get('url')))
+        key = (str(opp.get('company_name')), str(opp.get('url')))
         if key in seen_keys:
             continue
         seen_keys.add(key)
         deduped.append(opp)
 
     return deduped
-
-    return summer_2026_opportunities
 
 def format_opportunity(opp: Dict[str, Any]) -> str:
     """Format a single opportunity for email display."""
@@ -280,7 +185,7 @@ Good luck with your applications! 🎯"""
     return email_content
 
 def main():
-    """Main function to process listings.json changes and generate email."""
+    """Main function to process README.md changes and generate email."""
     print("🔍 Analyzing patch files for new Summer 2026 opportunities...")
 
     # Find new Summer 2026 opportunities from patch files
@@ -303,8 +208,8 @@ def main():
         for i, opp in enumerate(new_opportunities[:5], 1):  # Show first 5
             company = opp.get('company_name', 'Unknown')
             role = opp.get('title', 'Unknown')
-            terms = opp.get('terms', [])
-            print(f"{i}. {company} - {role} (Terms: {terms})")
+            url = opp.get('url', 'No URL')
+            print(f"{i}. {company} - {role} (URL: {url[:50]}...)")
         if len(new_opportunities) > 5:
             print(f"... and {len(new_opportunities) - 5} more")
     else:
