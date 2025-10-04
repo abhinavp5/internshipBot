@@ -74990,7 +74990,7 @@
         "company_name": "ATPCO",
         "id": "b9ff9dbe-58f4-4164-969f-8602ed8532da",
         "title": "Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -128162,7 +128162,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "87b5dfb7-6efe-418c-bf60-a329be9aeede",
         "title": "Quantitative Trader Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -129426,7 +129426,7 @@
         "company_name": "Shure",
         "id": "abaf1429-73ce-4d40-a2d9-9ee7e619c20b",
         "title": "Application Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -129522,7 +129522,7 @@
         "company_name": "Shure",
         "id": "69182f64-30b9-4004-884b-0a2736cd21c4",
         "title": "Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -130161,7 +130161,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3900ee26-a593-429d-aeb9-6cea38b113a8",
         "title": "Machine Learning Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -130828,7 +130828,7 @@
         "company_name": "Shure",
         "id": "94103e1a-3f83-48bb-9369-b8c91872490b",
         "title": "Data Driven Sustainability Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -131273,7 +131273,7 @@
         "company_name": "RoviSys",
         "id": "3cdc75c9-e302-471d-9aa2-12e38b885f5b",
         "title": "Co-op \u2013 Spring 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -143863,7 +143863,7 @@
         "company_name": "ATPCO",
         "id": "b45231c8-b057-4dea-ab83-21725e439a89",
         "title": "Product Analyst Intern - Fall",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -164710,7 +164710,7 @@
         "company_name": "Kinaxis",
         "id": "d3a15f64-ed8a-4820-ba9c-68dce12d3ecd",
         "title": "Co-op/Intern Developer - AI/ML",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -181169,7 +181169,7 @@
         "company_name": "Cohesity",
         "id": "f4e8f637-88ba-4b6f-a1ef-ac67d82a85f7",
         "title": "Software Engineering Intern - AI Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
