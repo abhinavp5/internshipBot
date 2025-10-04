@@ -49960,7 +49960,7 @@
         "company_name": "Akuna Capital",
         "id": "533c5cbc-2c31-4f95-b3ee-c79ed5b904ce",
         "title": "Software Engineer Intern - Python",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -125782,7 +125782,7 @@
         "company_name": "RoviSys",
         "id": "2abdccf1-a923-4320-a30e-9eb678dbf3da",
         "title": "Co-op \u2013 Spring 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -128748,7 +128748,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "318f1334-2a46-47a1-a51c-9bccf47c9f6d",
         "title": "Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2025",
