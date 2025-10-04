@@ -153,25 +153,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Hatch IT",
-        "id": "4c408587-9d8e-4922-8e42-b95e6f62d0d7",
-        "title": "Intern--Generative AI",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738858768,
-        "date_posted": 1738858768,
-        "url": "https://jobs.lever.co/hatchit/bb82a213-a9ce-449e-a4a7-25b167891993/apply",
-        "locations": [
-            "Fairfax, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Hatch-IT",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "CACI",
         "id": "584466d8-b20e-491f-b53a-0cf91f1ff9fb",
         "title": "Intern Program",
@@ -126675,7 +126656,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "cc75ebb7-54af-4871-9b94-08788b84063b",
         "title": "Quantitative Systematic Trading Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -126936,7 +126917,7 @@
         "company_name": "Legrand NA",
         "id": "f12c4439-da73-4544-9abe-313c848354d9",
         "title": "Firmware Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -130228,7 +130209,7 @@
         "company_name": "RoviSys",
         "id": "c376dec1-bc42-48cb-88f0-fd1276179d92",
         "title": "Co-op \u2013 Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -131010,7 +130991,7 @@
         "company_name": "Shure",
         "id": "94103e1a-3f83-48bb-9369-b8c91872490b",
         "title": "Data Driven Sustainability Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -131199,7 +131180,7 @@
         "company_name": "Shure",
         "id": "41e961cd-8b3a-4677-8ec0-ed14cd640d75",
         "title": "Mobile Applications \u2013 Intern - Android",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -131314,7 +131295,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ad8b1567-30c9-4093-b10b-395eb58e0e33",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -131671,7 +131652,7 @@
         "company_name": "W.R. Berkley",
         "id": "e0f69806-7896-4be8-a283-0a348eb5d929",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -137182,7 +137163,7 @@
         "company_name": "Lennox International",
         "id": "606f3d71-4e31-4ce2-93bb-662378d17ab8",
         "title": "IoT Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -143837,7 +143818,7 @@
         "company_name": "Ovintiv",
         "id": "bc818326-4ab8-41a8-bae5-962234d0f24e",
         "title": "Intern IT Systems Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -153593,7 +153574,7 @@
         "company_name": "First Quality",
         "id": "ac0de679-0dd0-42fc-bef6-1b6e42f77cdb",
         "title": "Intern or Co-Op - Analytics Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -169281,7 +169262,7 @@
         "company_name": "Leidos",
         "id": "d282e0c7-6e2f-4a60-8b5c-b3a969164097",
         "title": "Software Engineer Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Fall 2027"
@@ -183732,6 +183713,127 @@
             "Mississauga, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/IKO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Philips",
+        "id": "d0167cdf-a020-4331-9442-4b5f105ef023",
+        "title": "Co-op \u2013 Software System Integration - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1759592550,
+        "date_posted": 1759592550,
+        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US/Co-op---Software-System-Integration---Cambridge--MA---January-August-2026_564725",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Philips",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "General Motors",
+        "id": "77aca935-4894-4e1d-89fd-8ef4ec07ba82",
+        "title": "Data Engineering Software Developer Co-op - Data Engineering",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1759593603,
+        "date_posted": 1759593603,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Oshawa-Ontario-Canada/XMLNAME-2026-Winter-Co-op-Data-Engineering-Software-Develope_JR-202517452",
+        "locations": [
+            "Markham, ON, Canada",
+            "Oshawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "The Walt Disney Company",
+        "id": "66a893bd-56bd-454e-9d4a-1cc656c6b25c",
+        "title": "Digital Product Intern - Product & Customer Engagement",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759594705,
+        "date_posted": 1759594705,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/London-United-Kingdom/Digital-Product-Internship_10133599",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "QTS",
+        "id": "9ca8e6b4-b805-4b97-876e-04ed372f0f91",
+        "title": "Salesforce Administration Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759594552,
+        "date_posted": 1759594552,
+        "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Duluth-GA/Summer-2026-Internship--Salesforce-Administration_R2025-1162",
+        "locations": [
+            "Duluth, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/QTS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zipline",
+        "id": "73b0dd57-b6c0-4cd6-9542-a8aade0a7eb6",
+        "title": "Field Systems Engineering Intern - Field Systems Engineering",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1759594127,
+        "date_posted": 1759011631,
+        "url": "https://www.flyzipline.com/careers/open-roles?gh_jid=7479996003",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zipline",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
