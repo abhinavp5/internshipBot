@@ -77115,7 +77115,7 @@
         "company_name": "Merchants Bank of Indiana",
         "id": "bbf63b20-d066-4111-b240-60f7ff79e55f",
         "title": "Capital Markets Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -126675,7 +126675,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "cc75ebb7-54af-4871-9b94-08788b84063b",
         "title": "Quantitative Systematic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -127473,7 +127473,7 @@
         "company_name": "W.R. Berkley",
         "id": "772e84bd-7eb3-4373-b29b-8fad617ae11c",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -128824,7 +128824,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "318f1334-2a46-47a1-a51c-9bccf47c9f6d",
         "title": "Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2025",
@@ -128850,7 +128850,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "0a4a5bd1-a083-4fe4-be5b-d8990a9b56a2",
         "title": "Information Technology Intern - Regulatory & Remediation Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -130135,7 +130135,7 @@
         "company_name": "RoviSys",
         "id": "b1bb5049-c0a5-4c59-99cc-139987a1e9af",
         "title": "Co-op \u2013 Spring 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -130297,7 +130297,7 @@
         "company_name": "RoviSys",
         "id": "700e8eb1-9183-4c01-8180-7de79c8e98a6",
         "title": "Co-op \u2013 Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -130320,7 +130320,7 @@
         "company_name": "RoviSys",
         "id": "54f874cd-8392-41ea-bebf-5d45e61c62f2",
         "title": "Co-op \u2013 Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -132683,7 +132683,7 @@
         "company_name": "W.R. Berkley",
         "id": "183873ef-c292-4e5e-816e-4777686fefc7",
         "title": "Quantitative Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -137066,7 +137066,7 @@
         "company_name": "Steel Dynamics",
         "id": "f2f4ab79-4acb-49c6-a5aa-a0bb34703745",
         "title": "Software Development Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -139034,7 +139034,7 @@
         "company_name": "Wipfli",
         "id": "0855a169-0454-4acf-b615-c45f15527379",
         "title": "Product Development Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -144723,7 +144723,7 @@
         "company_name": "W.R. Berkley",
         "id": "3c0ec811-9a15-45fc-973c-b1deb29a32d8",
         "title": "CRM Admin Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -145453,7 +145453,7 @@
         "company_name": "Origami Risk",
         "id": "70199aa9-55d3-4483-9d85-0a94e5112a64",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -154661,7 +154661,7 @@
         "company_name": "Oshkosh",
         "id": "b0e44aaf-b6aa-49c2-aaf1-2ed09eb7baf3",
         "title": "Autonomy Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -158373,7 +158373,7 @@
         "company_name": "W.R. Berkley",
         "id": "8fe4b999-d898-440c-ae7e-a1741bef10fb",
         "title": "Co-Op \u2013 Enterprise Architecture",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -161356,7 +161356,7 @@
         "company_name": "W.R. Berkley",
         "id": "0c7562e6-7d8e-4ada-b934-9b6bdd000c2f",
         "title": "Intern \u2013 Software Developer - Reactjs",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -172980,7 +172980,7 @@
         "company_name": "Wipfli",
         "id": "e0639b17-9a9d-45a1-a01f-74fa600e3859",
         "title": "Product Implementation Intern/Co-op - IP Product Group",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -174911,7 +174911,7 @@
         "company_name": "Kinaxis",
         "id": "13f0b494-2bc6-4797-8242-359aaf79a180",
         "title": "Co-op Developer - Machine Learning",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -182397,7 +182397,7 @@
         "company_name": "Hexagon AB ",
         "id": "957128c1-605e-470e-a667-6605296d4b3d",
         "title": "Geomatics Engineering Intern - Sensor Fusion",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -182420,7 +182420,7 @@
         "company_name": "Hexagon AB ",
         "id": "51e4519f-4c0e-46dc-8b3d-edffce016cb8",
         "title": "Agriculture Engineering Intern - Agriculture Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -183054,6 +183054,315 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Philips",
+        "id": "eb534f0f-8bea-4ee2-ae6c-2a38c8c07676",
+        "title": "Co-op - Software Development Engineer - Automation",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2025"
+        ],
+        "date_updated": 1759556101,
+        "date_posted": 1759556101,
+        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US/Co-op---SW-Development-Engineer--Automation----January---June-2026_563697",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Philips",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nutanix",
+        "id": "66b06159-40b8-46ec-8f8c-2f0c19ec2482",
+        "title": "Software Engineering Intern - Undergrad Please Only Apply",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759557836,
+        "date_posted": 1759557836,
+        "url": "https://jobs.jobvite.com/nutanix/job/o7Ghyfwm?nl=1&nl=1&fr=false",
+        "locations": [
+            "San Jose, CA",
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Adobe",
+        "id": "d8b8a228-7585-4626-b92b-e1f5e41eb9cd",
+        "title": "Intern - Product Manager - Digital Media",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759557461,
+        "date_posted": 1759557461,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Austin/XMLNAME-2026-Intern---Product-Manager--ATS-Digital-Media_R161145",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Accor",
+        "id": "c6d75b7b-e224-4709-b538-fd392d622d82",
+        "title": "Dashboard and Insights Assistant Intern - Data Analysis - Business Intelligence",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759557287,
+        "date_posted": 1759557287,
+        "url": "https://jobs.smartrecruiters.com/AccorCorpo/744000085421515",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Accor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tamr",
+        "id": "df5b2b51-5e0c-4d79-ad22-da59ca3b560f",
+        "title": "Front End Software Engineer Intern/Co-op - React",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1759557206,
+        "date_posted": 1759557206,
+        "url": "https://jobs.lever.co/tamr/b12f76cf-e55b-4650-bb4e-349e0aa97949/apply",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tamr",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Electronic Arts",
+        "id": "f46a4a9b-e49a-4c09-8937-9cc870868527",
+        "title": "Data Analyst Intern/Co-op - FC Live Service Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Winter 2026"
+        ],
+        "date_updated": 1759556902,
+        "date_posted": 1759556902,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Data-Analyst-Co-op-FC-Live/210870",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Electronic-Arts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "OCC",
+        "id": "5a00f411-2d17-43f5-b3c7-0401d0a195e6",
+        "title": "AI Engineering Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1759556964,
+        "date_posted": 1759556964,
+        "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/AI-Engineering-Summer-Intern_REQ-4429",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/OptionsClearingCorporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "John Deere",
+        "id": "f8b0b7cf-052d-4c76-9d8b-9999f57406ff",
+        "title": "Engineering Summer Intern 2026 - Product Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759558696,
+        "date_posted": 1759558696,
+        "url": "https://johndeere.eightfold.ai/careers/job/137476734686",
+        "locations": [
+            "Davenport, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/John-Deere",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "State of Wisconsin Investment Board",
+        "id": "79239e74-1ef3-4c4f-8a7f-7edf27a98007",
+        "title": "Portfolio Engineering Intern - Private Markets and Funds Alpha",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759557882,
+        "date_posted": 1759557882,
+        "url": "https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Portfolio-Engineering-Intern_R-001254",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Of-Wisconsin-Investment-Board",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "State of Wisconsin Investment Board",
+        "id": "5ef60325-fa0a-4ea6-85bb-c62780786cbe",
+        "title": "Private Equity Investment Analyst Intern - Private Equity",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759557850,
+        "date_posted": 1759557850,
+        "url": "https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Private-Equity-Investment-Analyst-Intern_R-001252",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Of-Wisconsin-Investment-Board",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "State of Wisconsin Investment Board",
+        "id": "5d163e58-1ef5-4620-b2db-0cd22b36ab34",
+        "title": "Data Science Intern - Data Strategy & Information Delivery Division",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759557860,
+        "date_posted": 1759557860,
+        "url": "https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Data-Science-Intern_R-001261",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Of-Wisconsin-Investment-Board",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "State of Wisconsin Investment Board",
+        "id": "48256659-1261-454a-9b2b-13fa12fa5cc9",
+        "title": "Software Engineering Intern - Cloud Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759557873,
+        "date_posted": 1759557873,
+        "url": "https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Software-Engineering-Intern_R-001263",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Of-Wisconsin-Investment-Board",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "State of Wisconsin Investment Board",
+        "id": "21dc8a6e-6270-49ba-8a33-5e878c7bf215",
+        "title": "Data Analytics Engineering Intern - Data Analytics Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759557865,
+        "date_posted": 1759557865,
+        "url": "https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Data-Analytics-Engineering-Intern_R-001266",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Of-Wisconsin-Investment-Board",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
