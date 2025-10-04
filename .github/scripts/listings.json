@@ -107347,7 +107347,7 @@
         "company_name": "ServiceNow",
         "id": "7cdae68b-b8d2-4dd5-855d-29fd1834be33",
         "title": "UTG \u2013 Software Engineer Internships",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -155310,7 +155310,7 @@
         "company_name": "ServiceNow",
         "id": "2220cfaf-ccfc-4a96-b5af-52253e3f3e9e",
         "title": "Data Informatics Analyst Intern - Security Organization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -160347,7 +160347,7 @@
         "company_name": "ServiceNow",
         "id": "349a29e3-cbe9-407d-9888-dcdebb0163df",
         "title": "Associate Product Security Engineer Intern - Sso",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
