@@ -134,71 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Verition Fund Management",
-        "id": "f64e76c3-4849-4c51-a8e3-2e61c1221e64",
-        "title": "2025 Summer Internship - Technology",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738875367,
-        "date_posted": 1738875367,
-        "url": "https://www.verition.com/open-positions?gh_jid=4644850007",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/VeritionFund",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Booz Allen",
-        "id": "d834b71c-7a5a-45b3-addb-8fcda4e7ca1c",
-        "title": "Data Scientist Intern",
-        "active": false,
-        "terms": [
-            "Spring 2025",
-            "Summer 2025",
-            "Fall 2025",
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1738874556,
-        "date_posted": 1738874556,
-        "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/Data-Scientist-Intern_R0214298",
-        "locations": [
-            "Rome, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Booz-Allen",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Verizon Communications",
-        "id": "299683ae-b189-438d-8b05-c3964ef743fb",
-        "title": "Full Stack Software Development Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025",
-            "Winter 2026"
-        ],
-        "date_updated": 1738874702,
-        "date_posted": 1738874702,
-        "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/University-of-Texas-at-Dallas-Full-Stack-Software-Development-Co-op_R-1064778",
-        "locations": [
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Verizon-Communications",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "F5",
         "id": "ff6fb098-dd67-4549-814e-9d3fe1118741",
         "title": "Software Engineering Intern - FPGA",
@@ -81662,7 +81597,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9d257cdf-efe6-4ac9-b1f0-5ed5e11826f0",
         "title": "Quantitative Systematic Trading Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -81988,7 +81923,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "057819d8-d85c-46f7-b31e-6d9e538c832c",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -126911,7 +126846,7 @@
         "company_name": "Steel Dynamics",
         "id": "7ba65b7f-ae42-4a6b-8450-04416d267214",
         "title": "Computer Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -127356,7 +127291,7 @@
         "company_name": "W.R. Berkley",
         "id": "772e84bd-7eb3-4373-b29b-8fad617ae11c",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -130226,7 +130161,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3900ee26-a593-429d-aeb9-6cea38b113a8",
         "title": "Machine Learning Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -130319,7 +130254,7 @@
         "company_name": "Lennox International",
         "id": "5370c3fa-9b3b-4a0e-b328-efb28408836f",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -131012,7 +130947,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "c948674f-b374-488f-af89-265ae92d4fca",
         "title": "Machine Learning Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -132331,7 +132266,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9a6e5b09-436c-4ff9-a004-546a8fd41641",
         "title": "Quantitative Trader Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -136949,7 +136884,7 @@
         "company_name": "Steel Dynamics",
         "id": "f2f4ab79-4acb-49c6-a5aa-a0bb34703745",
         "title": "Software Development Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -138917,7 +138852,7 @@
         "company_name": "Wipfli",
         "id": "0855a169-0454-4acf-b615-c45f15527379",
         "title": "Product Development Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -163487,7 +163422,7 @@
         "company_name": "Sharp Electronics",
         "id": "ce2a2737-ce05-48c1-adaa-ac72944101e0",
         "title": "AI Process Automation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2026"
@@ -164867,7 +164802,7 @@
         "company_name": "Daktronics",
         "id": "d93a7453-5761-458b-9653-179b7284a8a9",
         "title": "Firmware/Hardware Design Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -182234,7 +182169,7 @@
         "company_name": "Hexagon AB ",
         "id": "7071d870-30c3-4e21-8a95-dd4b4c92cccb",
         "title": "Software Test Engineering Intern - Software Test Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -182303,7 +182238,7 @@
         "company_name": "Hexagon AB ",
         "id": "51e4519f-4c0e-46dc-8b3d-edffce016cb8",
         "title": "Agriculture Engineering Intern - Agriculture Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
