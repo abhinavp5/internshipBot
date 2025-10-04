@@ -81597,7 +81597,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9d257cdf-efe6-4ac9-b1f0-5ed5e11826f0",
         "title": "Quantitative Systematic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -127291,7 +127291,7 @@
         "company_name": "W.R. Berkley",
         "id": "772e84bd-7eb3-4373-b29b-8fad617ae11c",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -128492,7 +128492,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "cc9ce8a2-c144-4f35-b5e5-f15b08f6a32e",
         "title": "Hardware Service Desk Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2025",
@@ -128642,7 +128642,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "318f1334-2a46-47a1-a51c-9bccf47c9f6d",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2025",
@@ -131273,7 +131273,7 @@
         "company_name": "RoviSys",
         "id": "3cdc75c9-e302-471d-9aa2-12e38b885f5b",
         "title": "Co-op \u2013 Spring 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -132501,7 +132501,7 @@
         "company_name": "W.R. Berkley",
         "id": "183873ef-c292-4e5e-816e-4777686fefc7",
         "title": "Quantitative Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -138852,7 +138852,7 @@
         "company_name": "Wipfli",
         "id": "0855a169-0454-4acf-b615-c45f15527379",
         "title": "Product Development Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -144541,7 +144541,7 @@
         "company_name": "W.R. Berkley",
         "id": "3c0ec811-9a15-45fc-973c-b1deb29a32d8",
         "title": "CRM Admin Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -181073,7 +181073,7 @@
         "company_name": "Philadelphia Gas Works",
         "id": "d5eb2ef7-badf-4148-8dcb-154aeed9b68f",
         "title": "Intern - Information Security - Information Security",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -182238,7 +182238,7 @@
         "company_name": "Hexagon AB ",
         "id": "51e4519f-4c0e-46dc-8b3d-edffce016cb8",
         "title": "Agriculture Engineering Intern - Agriculture Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -183875,6 +183875,53 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Snap-on",
+        "id": "dffd2ed4-d52f-42bf-b1f1-caea5eab6495",
+        "title": "College Intern - GMIS Conference",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759613221,
+        "date_posted": 1759613221,
+        "url": "https://careers-snapon.icims.com/jobs/16233/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Kenosha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Snapon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Arizona Public Service",
+        "id": "ca016af8-1967-4870-b86c-cf506c828ba5",
+        "title": "Intern - Information Technology",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759612957,
+        "date_posted": 1759612957,
+        "url": "https://careers.aps.com/job/PHOENIX-2026-Summer-Internship-Information-Technology-AZ-85004-3903/1322164700/?ats=successfactors",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Arizona-Public-Service",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
