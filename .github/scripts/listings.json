@@ -67083,7 +67083,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "b0aa6cc4-1ba2-4f37-8198-8d9c200eb3b4",
         "title": "Intern \u2013 Capital Markets - Quantitative Strategies and Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -115226,7 +115226,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "1f5f48ce-9e26-48e5-bb9a-fc5a59e88b46",
         "title": "Intern \u2013 Capital Markets - Quantitative Strategies and Research - Cmia",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -141170,7 +141170,7 @@
         "company_name": "Comcast",
         "id": "29b68782-2ca5-437b-a39f-1c668905db1b",
         "title": "Comcast AI Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -183007,6 +183007,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "5f76dee8-d394-44e9-91e9-4b5974793685",
+        "title": "Research Scientist Intern - Generative AI Digital Characters",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759555112,
+        "date_posted": 1759555112,
+        "url": "https://www.metacareers.com/jobs/2085498252200262",
+        "locations": [
+            "Sausalito, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
