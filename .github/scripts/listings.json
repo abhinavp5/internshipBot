@@ -81923,7 +81923,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "057819d8-d85c-46f7-b31e-6d9e538c832c",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -130161,7 +130161,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3900ee26-a593-429d-aeb9-6cea38b113a8",
         "title": "Machine Learning Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
