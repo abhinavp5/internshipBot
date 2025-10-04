@@ -134,63 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Motorola",
-        "id": "687c3370-5ac3-4e39-b653-17c5824f7d34",
-        "title": "2025 Summer Internship - Embedded Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738859350,
-        "date_posted": 1738859350,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/XMLNAME-2025-Summer-Internship---Embedded-Software-Engineer_R53571",
-        "locations": [
-            "Hoffman Estates, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "CACI",
-        "id": "584466d8-b20e-491f-b53a-0cf91f1ff9fb",
-        "title": "Intern Program",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738859057,
-        "date_posted": 1738859057,
-        "url": "https://caci.wd1.myworkdayjobs.com/External/job/Nationwide/Clarkson-University-Students---Summer-2025-Intern-Program_307628-1",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Rivian",
-        "id": "627393d4-03f4-470e-b8aa-61b5f8cefca3",
-        "title": "Software Engineering Intern - Embedded Software - Autonomy",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738859387,
-        "date_posted": 1738859387,
-        "url": "https://careers.rivian.com/jobs/21802?lang=en-us&icims=1",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Rivian",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Chewy",
         "id": "17659ce8-8479-4e7c-a731-635d015a6a33",
         "title": "Software Engineer I Co-op",
@@ -151250,7 +151193,7 @@
         "company_name": "NextEra Energy",
         "id": "230b8b71-ad80-4a38-bdd4-5def75505995",
         "title": "IT Programmer Analyst \u2013 College Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -163585,7 +163528,7 @@
         "company_name": "Sharp Electronics",
         "id": "ce2a2737-ce05-48c1-adaa-ac72944101e0",
         "title": "AI Process Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2026"
@@ -175266,7 +175209,7 @@
         "company_name": "Motorola",
         "id": "65b0ba43-d5b9-495a-96b0-45c6e782e091",
         "title": "Software Developer \u2013 Front-end Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
