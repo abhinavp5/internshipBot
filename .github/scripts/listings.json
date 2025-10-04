@@ -134,47 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Chewy",
-        "id": "17659ce8-8479-4e7c-a731-635d015a6a33",
-        "title": "Software Engineer I Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025",
-            "Winter 2026"
-        ],
-        "date_updated": 1738873440,
-        "date_posted": 1738873440,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6498829",
-        "locations": [
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Chewy",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Brunswick",
-        "id": "1247f351-d0e8-4b4a-b0a4-c9ec8533b3cb",
-        "title": "Embedded Software Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Spring 2026"
-        ],
-        "date_updated": 1738873895,
-        "date_posted": 1738873895,
-        "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Embedded-Software-Intern_JR-045264",
-        "locations": [
-            "Urbana, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/a93a0fb2-e10a-434c-a88c-a639748677a4",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Verition Fund Management",
         "id": "f64e76c3-4849-4c51-a8e3-2e61c1221e64",
         "title": "2025 Summer Internship - Technology",
@@ -130152,7 +130111,7 @@
         "company_name": "RoviSys",
         "id": "c376dec1-bc42-48cb-88f0-fd1276179d92",
         "title": "Co-op \u2013 Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -130934,7 +130893,7 @@
         "company_name": "Shure",
         "id": "94103e1a-3f83-48bb-9369-b8c91872490b",
         "title": "Data Driven Sustainability Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -131262,7 +131221,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9c843ea8-9b7c-4b8c-a34c-b8c89aa81148",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -135024,7 +134983,7 @@
         "company_name": "AbbVie",
         "id": "99bea391-0922-49ed-902c-884604c819c1",
         "title": "APEX Advanced Analytics Intern - Masters",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Summer 2027"
@@ -147885,7 +147844,7 @@
         "company_name": "AbbVie",
         "id": "5faad969-5abc-41c4-a4be-cecf1b01475a",
         "title": "APEX Advanced Analytics Intern - Masters",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2027"
@@ -181179,7 +181138,7 @@
         "company_name": "Philadelphia Gas Works",
         "id": "d5eb2ef7-badf-4148-8dcb-154aeed9b68f",
         "title": "Intern - Information Security - Information Security",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
