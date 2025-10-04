@@ -166938,7 +166938,7 @@
         "company_name": "Rambus",
         "id": "8e5c43e7-05a6-4746-935b-495159a96309",
         "title": "Silicon IP Field Application Engineer Intern - Field Application Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -183995,6 +183995,77 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lake Michigan Credit Union",
+        "id": "7352dfaf-f11d-4c6c-a5e4-2329ada84d57",
+        "title": "Data Analytics Intern - Data Engineering - Business Intelligence",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759616127,
+        "date_posted": 1759616127,
+        "url": "https://lmcu.wd5.myworkdayjobs.com/lmcucareersite/job/Grand-Rapids-MI/Data-Analytics-Intern_REQ-2025-6054",
+        "locations": [
+            "Grand Rapids, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Lake-Michigan-Credit-Union",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Altera Corporation",
+        "id": "b86c810f-bf9f-48cd-a69e-01af464291eb",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759615678,
+        "date_posted": 1759615678,
+        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R01342",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Altera-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ansys",
+        "id": "11089664-8059-49d6-8702-fc528221ead8",
+        "title": "Electronics Intern - Thermal - Python",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1759615517,
+        "date_posted": 1759615517,
+        "url": "https://careers.ansys.com/job/Waterloo-Spring-2026-Electronics-Intern-Icepak,-Thermal,-Python-(MS)-ON-N2J4G8/1297263600/?ats=successfactors",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ansys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
