@@ -90369,7 +90369,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "122f8076-b489-40d1-a9c3-22841b25efc1",
         "title": "AI Developer Intern - Undergrad",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -90533,7 +90533,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "58a77d9a-cdef-42ba-9a31-09dcb7f618a2",
         "title": "AI Developer Intern - Masters",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -113876,7 +113876,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "c8b0046f-24ae-44c1-a3be-9e6130c03476",
         "title": "Tech Consultant intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -125782,7 +125782,7 @@
         "company_name": "RoviSys",
         "id": "2abdccf1-a923-4320-a30e-9eb678dbf3da",
         "title": "Co-op \u2013 Spring 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -126206,7 +126206,7 @@
         "company_name": "Cotiviti",
         "id": "3dabf3fa-56cb-4626-a1d7-45c6307008f1",
         "title": "Intern \u2013 Generative AI Research Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -126952,7 +126952,7 @@
         "company_name": "Steel Dynamics",
         "id": "7ba65b7f-ae42-4a6b-8450-04416d267214",
         "title": "Computer Engineering Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -127397,7 +127397,7 @@
         "company_name": "W.R. Berkley",
         "id": "772e84bd-7eb3-4373-b29b-8fad617ae11c",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -128598,7 +128598,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "cc9ce8a2-c144-4f35-b5e5-f15b08f6a32e",
         "title": "Hardware Service Desk Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2025",
@@ -128774,7 +128774,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "0a4a5bd1-a083-4fe4-be5b-d8990a9b56a2",
         "title": "Information Technology Intern - Regulatory & Remediation Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -132607,7 +132607,7 @@
         "company_name": "W.R. Berkley",
         "id": "183873ef-c292-4e5e-816e-4777686fefc7",
         "title": "Quantitative Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -135189,7 +135189,7 @@
         "company_name": "Sun Life",
         "id": "61559426-7c38-4dfb-be8f-14a4c3b369d7",
         "title": "Investment Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -147126,7 +147126,7 @@
         "company_name": "Emerson Electric",
         "id": "b57e4d63-d146-47ec-8589-0e1432340903",
         "title": "Product Manager Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -155211,7 +155211,7 @@
         "company_name": "ServiceNow",
         "id": "49514a2e-ac9b-4035-8694-e43c33e8cb6c",
         "title": "Associate Information Security Analyst Intern - Sso",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -172317,7 +172317,7 @@
         "company_name": "Mackenzie Investments",
         "id": "1ee56d8c-a545-44d5-9353-5b550b5a6ef8",
         "title": "Intern - Product Department",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -174835,7 +174835,7 @@
         "company_name": "Kinaxis",
         "id": "13f0b494-2bc6-4797-8242-359aaf79a180",
         "title": "Co-op Developer - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -181040,7 +181040,7 @@
         "company_name": "Hexagon AB ",
         "id": "9689e4d8-3328-4d8d-8a80-b847c25e5c81",
         "title": "Autonomy Research Intern - Applied Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -181179,7 +181179,7 @@
         "company_name": "Philadelphia Gas Works",
         "id": "d5eb2ef7-badf-4148-8dcb-154aeed9b68f",
         "title": "Intern - Information Security - Information Security",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -183832,6 +183832,129 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Emerson Electric",
+        "id": "9f3ce847-8fec-4142-b71d-db156121a5d6",
+        "title": "Hardware Engineering Intern - Digital",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759607202,
+        "date_posted": 1759607202,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25027135",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Emerson-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Arch Capital Group",
+        "id": "1f834967-6ed6-4bff-b2c4-a7b5b500af1d",
+        "title": "Cybersecurity Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759606352,
+        "date_posted": 1759606352,
+        "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Farmington-CT-United-States-of-America/Cybersecurity-Summer-Intern_R25_994",
+        "locations": [
+            "Farmington, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Arch-Capital-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Qualcomm",
+        "id": "722bea73-a21f-4133-af96-bb7d67b85ee6",
+        "title": "Intern - Deep Learning Research - AI Research",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759607775,
+        "date_posted": 1759607775,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446714977804",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Qualcomm",
+        "id": "2e52504c-af83-470b-920c-8372cb0448ff",
+        "title": "Intern - Deep Learning Research - AI Research",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759607774,
+        "date_posted": 1759607774,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446714978266",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Synnex",
+        "id": "06add3e9-d086-4606-8256-775cd2b18e5c",
+        "title": "Internship Program - Technology Track",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759607521,
+        "date_posted": 1759607521,
+        "url": "https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/San-Antonio-Texas-United-States/Summer-2026-Internship-Program---Technology-Track-----Information-Technology---Artificial-Intelligence---Data---Analytics---Cybersecurity---Systems---Cloud_R43486",
+        "locations": [
+            "Greenville, SC",
+            "San Antonio, TX",
+            "Gilbert, AZ",
+            "Clearwater, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Synnex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
