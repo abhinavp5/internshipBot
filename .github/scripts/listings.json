@@ -126543,7 +126543,7 @@
         "company_name": "Legrand NA",
         "id": "f12c4439-da73-4544-9abe-313c848354d9",
         "title": "Firmware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -127927,7 +127927,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "f7395054-7db5-4380-a84d-a3a91540d37c",
         "title": "Quantitative Strategy Developer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -130806,7 +130806,7 @@
         "company_name": "Shure",
         "id": "41e961cd-8b3a-4677-8ec0-ed14cd640d75",
         "title": "Mobile Applications \u2013 Intern - Android",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -130993,7 +130993,7 @@
         "company_name": "RoviSys",
         "id": "d7e5e1b2-17a9-4450-b6a8-a0afe51426eb",
         "title": "Co-op \u2013 Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -132078,7 +132078,7 @@
         "company_name": "Quanta Services",
         "id": "160d1f7f-a969-4416-8aff-56a07e419e95",
         "title": "Innovation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -137206,7 +137206,7 @@
         "company_name": "Lennox International",
         "id": "e776bb95-e2c2-41a9-b3fb-1eff6e712c8f",
         "title": "Power Electronics Firmware Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -147991,7 +147991,7 @@
         "company_name": "ServiceNow",
         "id": "24e5efbf-8bae-427f-8742-a193065d54c7",
         "title": "Servicenow Security Organization \u2013 Associate Information Security Analyst Intern - Sso",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -166062,7 +166062,7 @@
         "company_name": "ServiceNow",
         "id": "5762911f-e8f2-4c33-8d7e-6cddf812d50c",
         "title": "Associate Information Security Analyst Intern - Sso",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -182004,7 +182004,7 @@
         "company_name": "Hexagon AB ",
         "id": "957128c1-605e-470e-a667-6605296d4b3d",
         "title": "Geomatics Engineering Intern - Sensor Fusion",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -182050,7 +182050,7 @@
         "company_name": "Snap-on",
         "id": "06528ed9-0eb8-4f03-a274-30b9c73d0100",
         "title": "Intern - Application Support Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
