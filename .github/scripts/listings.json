@@ -184198,5 +184198,28 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Daimler Truck",
+        "id": "7e71b035-541c-463b-a1c3-46e8fd98ca95",
+        "title": "AI Documentation Integration Intern - Autonomous Cascadia",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1759681340,
+        "date_posted": 1759681340,
+        "url": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/AI-Documentation-Integration-Intern---Autonomous-Cascadia_DT-15546",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Daimler-Truck",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
