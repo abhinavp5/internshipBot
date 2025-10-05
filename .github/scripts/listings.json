@@ -134,63 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Ripple",
-        "id": "2cce7d30-9ed4-46eb-b08c-4fd95f1f1391",
-        "title": "Software Engineer Intern - Stablecoin",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738960201,
-        "date_posted": 1738960201,
-        "url": "https://ripple.com/careers/all-jobs/job/6614155?gh_jid=6614155",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Ripple",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Ripple",
-        "id": "d952b8c8-9b96-4f36-a52f-a463d60e5b32",
-        "title": "Frontend Software Engineer Intern - Stablecoin",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738960184,
-        "date_posted": 1738960184,
-        "url": "https://ripple.com/careers/all-jobs/job/6614306?gh_jid=6614306",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Ripple",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Teledyne",
-        "id": "67959b97-7795-4b9f-a8b5-dc2d9932a15d",
-        "title": "Software Engineer \u2013 Intern",
-        "active": false,
-        "terms": [
-            "Spring 2025"
-        ],
-        "date_updated": 1738959769,
-        "date_posted": 1738959769,
-        "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/Software-Engineer--Intern-_REQ28192",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Resmed",
         "id": "3b28017d-77f2-4df1-ba38-eab939f686fd",
         "title": "Machine Learning Engineering Intern",
