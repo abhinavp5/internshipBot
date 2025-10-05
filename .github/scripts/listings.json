@@ -134,139 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Unisys",
-        "id": "c7d08067-6fc0-42aa-8c71-77ffc1475cfc",
-        "title": "Software Developer Intern - Placement Year",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738946823,
-        "date_posted": 1738946823,
-        "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Manchester-United-Kingdom/Software-Developer-Intern--Placement-Year-_REQ562491",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/f36d80a6-23f4-416c-bd74-b85753adb3b7",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Genuine Parts Company",
-        "id": "27b276ae-053b-40bc-8188-c4280705e28b",
-        "title": "Web Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738946791,
-        "date_posted": 1738946791,
-        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Web-Developer-Intern_R25_0000004586",
-        "locations": [
-            "Birmingham, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Genuine Parts Company",
-        "id": "3b211ad4-71a6-48e8-b270-522b560a7700",
-        "title": "Business Intelligence Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738946794,
-        "date_posted": 1738946794,
-        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Business-Intelligence-Developer-Intern_R25_0000004587",
-        "locations": [
-            "Birmingham, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Genuine Parts Company",
-        "id": "5b49cb6c-cd58-4295-bc87-a21183cd65d8",
-        "title": "Customer Software Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738946793,
-        "date_posted": 1738946793,
-        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Customer-Software-Development-Intern_R25_0000004589",
-        "locations": [
-            "Birmingham, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Genuine Parts Company",
-        "id": "2ed31831-367c-4995-965a-4a9b0318c084",
-        "title": "Marketing Technology Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738946805,
-        "date_posted": 1738946805,
-        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Marketing-Technology-Intern_R25_0000004592",
-        "locations": [
-            "Birmingham, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Blue Cross Blue Shield",
-        "id": "94ebe9b7-2601-4b6e-acea-7f12bf68341a",
-        "title": "Summer Intern - Programmer/Developer - Portal App Development",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738946326,
-        "date_posted": 1738946326,
-        "url": "https://bcbsaz.wd1.myworkdayjobs.com/en-US/BCBSAZCareers/job/Phoenix/Summer-Intern---Programmer-Developer--Portal-App-Development----Hybrid_R5455",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/c9d90ce1-b167-4f7a-89fc-1b82e563b2a2",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Genuine Parts Company",
-        "id": "2d67e7e4-6649-42aa-840d-57c7f6c9645a",
-        "title": "Web Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738946791,
-        "date_posted": 1738946791,
-        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Web-Developer-Intern_R25_0000004598",
-        "locations": [
-            "Birmingham, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Ripple",
         "id": "2cce7d30-9ed4-46eb-b08c-4fd95f1f1391",
         "title": "Software Engineer Intern - Stablecoin",
@@ -129074,7 +128941,7 @@
         "company_name": "FM Global",
         "id": "302bca3a-bec3-422d-90ce-13c40c032cab",
         "title": "Identity Services Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -129311,7 +129178,7 @@
         "company_name": "Shure",
         "id": "69182f64-30b9-4004-884b-0a2736cd21c4",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -163335,7 +163202,7 @@
         "company_name": "Kinaxis",
         "id": "2ec4349f-cc76-41c8-8a88-2b43045e703d",
         "title": "Co-op/Intern Developer - Clients - Front End Technologies",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -175941,9 +175808,9 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "National Basketball Association",
-        "id": "0d312638-151e-4d5c-b021-ad511f083a15",
+        "id": "d9f72de8-b3f7-4a27-b79a-15a81299437a",
         "title": "Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
