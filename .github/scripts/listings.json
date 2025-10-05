@@ -81405,7 +81405,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9d257cdf-efe6-4ac9-b1f0-5ed5e11826f0",
         "title": "Quantitative Systematic Trading Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -110611,7 +110611,7 @@
         "company_name": "Waymo",
         "id": "053d73a6-a58c-40c4-900b-b0b5cfc6ffff",
         "title": "2026 Summer Intern - BS/MS - Systems Engineering - Applied GenAI",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -128476,7 +128476,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "0a4a5bd1-a083-4fe4-be5b-d8990a9b56a2",
         "title": "Information Technology Intern - Regulatory & Remediation Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -129117,7 +129117,7 @@
         "company_name": "FM Global",
         "id": "0ce0eba4-b10d-48ec-b66f-1cd3bede9a6b",
         "title": "Software Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -159973,7 +159973,7 @@
         "company_name": "ServiceNow",
         "id": "349a29e3-cbe9-407d-9888-dcdebb0163df",
         "title": "Associate Product Security Engineer Intern - Sso",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -181977,7 +181977,7 @@
         "company_name": "Hexagon AB ",
         "id": "7071d870-30c3-4e21-8a95-dd4b4c92cccb",
         "title": "Software Test Engineering Intern - Software Test Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
