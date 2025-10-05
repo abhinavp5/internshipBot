@@ -96748,7 +96748,7 @@
         "company_name": "Conagra Brands",
         "id": "e4de6621-8468-4a0d-add9-2a2ebebbdf7c",
         "title": "Analytics Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -129904,7 +129904,7 @@
         "company_name": "RoviSys",
         "id": "700e8eb1-9183-4c01-8180-7de79c8e98a6",
         "title": "Co-op \u2013 Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -144330,7 +144330,7 @@
         "company_name": "W.R. Berkley",
         "id": "3c0ec811-9a15-45fc-973c-b1deb29a32d8",
         "title": "CRM Admin Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -159907,7 +159907,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "cd1eeddf-de6b-42cb-93a8-e468e9b5f219",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -171546,7 +171546,7 @@
         "company_name": "Sierra Nevada Coporation",
         "id": "5999096a-b1c0-46f7-b1ad-e862240d0162",
         "title": "Software Engineer 1 - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -175966,7 +175966,7 @@
         "company_name": "Grow Financial Federal Credit Union",
         "id": "f773e1e7-217c-442f-81f3-bc8a1692940f",
         "title": "Collections Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -181981,7 +181981,7 @@
         "company_name": "Hexagon AB ",
         "id": "f1edf3be-71e4-4a83-a5f7-f6091e5f2c97",
         "title": "Software Engineering Intern - Software Infrastructure Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -182027,7 +182027,7 @@
         "company_name": "Hexagon AB ",
         "id": "51e4519f-4c0e-46dc-8b3d-edffce016cb8",
         "title": "Agriculture Engineering Intern - Agriculture Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -184076,6 +184076,29 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Waymo",
+        "id": "19853dc1-b0a9-42ad-80c7-204215b81d89",
+        "title": "Intern - Research - Multimodal Large Language Models",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759640922,
+        "date_posted": 1759640922,
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=7298453",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Waymo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
