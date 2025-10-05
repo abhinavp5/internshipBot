@@ -126543,7 +126543,7 @@
         "company_name": "Legrand NA",
         "id": "f12c4439-da73-4544-9abe-313c848354d9",
         "title": "Firmware Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -128281,7 +128281,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "cc9ce8a2-c144-4f35-b5e5-f15b08f6a32e",
         "title": "Hardware Service Desk Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2025",
@@ -129950,7 +129950,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3900ee26-a593-429d-aeb9-6cea38b113a8",
         "title": "Machine Learning Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -130921,7 +130921,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ad8b1567-30c9-4093-b10b-395eb58e0e33",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -132055,7 +132055,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9a6e5b09-436c-4ff9-a004-546a8fd41641",
         "title": "Quantitative Trader Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -138641,7 +138641,7 @@
         "company_name": "Wipfli",
         "id": "0855a169-0454-4acf-b615-c45f15527379",
         "title": "Product Development Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -164591,7 +164591,7 @@
         "company_name": "Daktronics",
         "id": "d93a7453-5761-458b-9653-179b7284a8a9",
         "title": "Firmware/Hardware Design Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -180723,7 +180723,7 @@
         "company_name": "Hexagon AB ",
         "id": "9689e4d8-3328-4d8d-8a80-b847c25e5c81",
         "title": "Autonomy Research Intern - Applied Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -182050,7 +182050,7 @@
         "company_name": "Snap-on",
         "id": "06528ed9-0eb8-4f03-a274-30b9c73d0100",
         "title": "Intern - Application Support Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -184170,6 +184170,29 @@
             "Canonsburg, PA"
         ],
         "company_url": "https://simplify.jobs/c/Ansys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sanofi",
+        "id": "aa7187b3-5c97-423f-97e5-cee9abefe86e",
+        "title": "Intern - FFIP Business Systems",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759649364,
+        "date_posted": 1759649364,
+        "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Swiftwater-PA/XMLNAME-2026-Summer-Intern---FFIP-Business-Systems_R2821200",
+        "locations": [
+            "East Side, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sanofi",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
