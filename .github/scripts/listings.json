@@ -125769,7 +125769,7 @@
         "company_name": "FM Global",
         "id": "0831f960-7a18-46e7-a8ec-fd25e7c05128",
         "title": "Cyber Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -129215,7 +129215,7 @@
         "company_name": "Shure",
         "id": "abaf1429-73ce-4d40-a2d9-9ee7e619c20b",
         "title": "Application Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -129335,7 +129335,7 @@
         "company_name": "Shure",
         "id": "59028ac5-754c-4650-b9ac-b6386dbae5eb",
         "title": "Application System Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -174327,7 +174327,7 @@
         "company_name": "StoneX Group",
         "id": "fe8ca075-20f4-4db4-9950-4bf534b34dd9",
         "title": "Intern \u2013 Equity Trading Assistant",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -184099,6 +184099,81 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ansys",
+        "id": "83572277-854b-430d-9746-4a78f60d15f5",
+        "title": "Software Development Intern - Photonics",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1759648084,
+        "date_posted": 1759648084,
+        "url": "https://careers.ansys.com/job/Vancouver-Spring-2026-Lumerical-Software-Development-Intern-Photonics-(MSPHD)-Brit-V6E2M6/1293263000/?ats=successfactors",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Kitchener, ON, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ansys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Skild AI",
+        "id": "733084b3-55f1-42c6-9409-339caf44615e",
+        "title": "Machine Learning Intern - Robotics - Research",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759648000,
+        "date_posted": 1759648000,
+        "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/4944726008",
+        "locations": [
+            "San Mateo, CA",
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Skild-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ansys",
+        "id": "102765e4-c132-42c2-a6aa-657213172634",
+        "title": "Intern - Software Development - Mechanical",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1759648067,
+        "date_posted": 1759648067,
+        "url": "https://careers.ansys.com/job/Canonsburg-Spring-2026-Intern-Software-Development-Mechanical-(Bachelor's)-PA-15317/1299645500/?ats=successfactors",
+        "locations": [
+            "Canonsburg, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ansys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
