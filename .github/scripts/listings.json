@@ -151828,7 +151828,7 @@
         "company_name": "CIBC",
         "id": "e6b8c629-168e-4fb9-9d49-761fd51450d0",
         "title": "AI Governance Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -170192,7 +170192,7 @@
         "company_name": "The Walt Disney Company",
         "id": "930b7541-e2ee-4ef7-aa67-a58f26ef8d29",
         "title": "Tax Data Management & Innovation Graduate Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
