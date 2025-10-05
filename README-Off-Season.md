@@ -5757,7 +5757,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Hewlett-Packard?utm_source=GHList&utm_medium=company">Hewlett Packard (HP)</a></strong></td>
 <td>Associate Software Developer – Co-op position - HP Anyware Endpoints System Team</td>
 <td>Vancouver, BC, Canada</td>
 <td>Spring 2025</td>
@@ -5765,7 +5765,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Hewlett-Packard?utm_source=GHList&utm_medium=company">Hewlett Packard (HP)</a></strong></td>
+<td>↳</td>
 <td>Associate Software Developer</td>
 <td>Vancouver, BC, Canada</td>
 <td>Spring 2025</td>
@@ -10113,7 +10113,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Toronto, ON, Canada</td>
 <td>Fall 2025, Winter 2025</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Hearst?utm_source=GHList&utm_medium=company">Hearst</a></strong></td>
