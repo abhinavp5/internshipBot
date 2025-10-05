@@ -134,198 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "F5",
-        "id": "ff6fb098-dd67-4549-814e-9d3fe1118741",
-        "title": "Software Engineering Intern - FPGA",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738887063,
-        "date_posted": 1738887063,
-        "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Liberty-Lake/Software-Engineering-Intern--FPGA-_RP1032623",
-        "locations": [
-            "Spokane, WA",
-            "Liberty Lake, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/F5",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "New Leaf Energy",
-        "id": "3882d0c5-25b4-40b8-be8d-59c517350604",
-        "title": "Transmission Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738888245,
-        "date_posted": 1738888245,
-        "url": "https://job-boards.greenhouse.io/newleafenergy/jobs/4638547007",
-        "locations": [
-            "Boston, MA",
-            "Lowell, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/New-Leaf-Energy",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Leidos",
-        "id": "e2111081-66f0-4dad-8f26-f52fc672b539",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2025"
-        ],
-        "date_updated": 1738887903,
-        "date_posted": 1738887903,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Oklahoma-City-OK/Software-Engineer-Intern_R-00152965",
-        "locations": [
-            "Oklahoma City, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Alarm.com",
-        "id": "01408bf0-bcab-4092-b792-3a759edf5f10",
-        "title": "Software Engineer Internship",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738887834,
-        "date_posted": 1738887834,
-        "url": "https://boards.greenhouse.io/alarmcom/jobs/7843271002",
-        "locations": [
-            "Vienna, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Alarm",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Quest Analytics",
-        "id": "474ed89f-2215-4edd-8dfe-4ec91a3eabf4",
-        "title": "Software Support Internship",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738887525,
-        "date_posted": 1738887525,
-        "url": "https://jobs.lever.co/questanalytics/59dca32a-30cf-402a-a8e4-5cd6f52a0a68/apply",
-        "locations": [
-            "Overland Park, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/Quest-Analytics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Quest Analytics",
-        "id": "813ca58b-4690-4d52-aaae-f09048b18439",
-        "title": "Software Engineer Internship",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738887506,
-        "date_posted": 1738887506,
-        "url": "https://jobs.lever.co/questanalytics/fb5754f5-3f51-4f2b-8184-18278b87dd5a/apply",
-        "locations": [
-            "Overland Park, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/Quest-Analytics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Quest Analytics",
-        "id": "d8a24350-2974-4280-b2ec-a237274fef6d",
-        "title": "Software Data Engineer Internship",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738887505,
-        "date_posted": 1738887505,
-        "url": "https://jobs.lever.co/questanalytics/7159cfbc-4ddb-4948-b78b-ec3afaae8aa0/apply",
-        "locations": [
-            "Overland Park, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/Quest-Analytics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Cadence Design Systems",
-        "id": "7f038e89-7a5f-4bc0-a7c9-e41ee6e17dbd",
-        "title": "Software Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738887410,
-        "date_posted": 1738887410,
-        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Intern_R49058-1",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Cadence Design Systems",
-        "id": "0656abcf-5cea-490a-a1fe-a1c7dee09ac7",
-        "title": "Software Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738887409,
-        "date_posted": 1738887409,
-        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Intern_R49059-1",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "BorgWarner",
-        "id": "c81df640-2823-4c90-ad1c-0898075a161a",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738887328,
-        "date_posted": 1738887328,
-        "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Data-Science-Intern_R2025-0483",
-        "locations": [
-            "Auburn Hills, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/BorgWarner",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Cardiosense",
         "id": "163f4828-67ed-41c6-9ba8-677972df836c",
         "title": "Data Scientist Intern",
@@ -74990,7 +74798,7 @@
         "company_name": "ATPCO",
         "id": "b9ff9dbe-58f4-4164-969f-8602ed8532da",
         "title": "Product Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -121107,7 +120915,7 @@
         "company_name": "RoviSys",
         "id": "1d8d12c5-e0bb-4eae-b30c-81012983acd7",
         "title": "Co-op \u2013 Spring 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -125676,7 +125484,7 @@
         "company_name": "RoviSys",
         "id": "2abdccf1-a923-4320-a30e-9eb678dbf3da",
         "title": "Co-op \u2013 Spring 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -129003,7 +128811,7 @@
         "company_name": "RoviSys",
         "id": "a270961f-eaa0-4f38-a325-1a3d02a9cb9d",
         "title": "Co-op \u2013 Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -129953,7 +129761,7 @@
         "company_name": "RoviSys",
         "id": "b1bb5049-c0a5-4c59-99cc-139987a1e9af",
         "title": "Co-op \u2013 Spring 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -130046,7 +129854,7 @@
         "company_name": "RoviSys",
         "id": "c376dec1-bc42-48cb-88f0-fd1276179d92",
         "title": "Co-op \u2013 Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -130069,7 +129877,7 @@
         "company_name": "RoviSys",
         "id": "c02effef-126e-40dc-b060-c0453b48a0bb",
         "title": "Co-op \u2013 Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -130138,7 +129946,7 @@
         "company_name": "RoviSys",
         "id": "54f874cd-8392-41ea-bebf-5d45e61c62f2",
         "title": "Co-op \u2013 Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -131204,7 +131012,7 @@
         "company_name": "RoviSys",
         "id": "d7e5e1b2-17a9-4450-b6a8-a0afe51426eb",
         "title": "Co-op \u2013 Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -131273,7 +131081,7 @@
         "company_name": "RoviSys",
         "id": "3cdc75c9-e302-471d-9aa2-12e38b885f5b",
         "title": "Co-op \u2013 Spring 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -138877,7 +138685,7 @@
         "company_name": "Quanta Services",
         "id": "a18c7e94-aab4-432a-8bb9-d531679b794e",
         "title": "Information Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -143863,7 +143671,7 @@
         "company_name": "ATPCO",
         "id": "b45231c8-b057-4dea-ab83-21725e439a89",
         "title": "Product Analyst Intern - Fall",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
