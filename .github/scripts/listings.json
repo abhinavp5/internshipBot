@@ -128285,7 +128285,7 @@
         "company_name": "Ava Labs",
         "id": "7b7ee475-53db-43cb-9d35-daffc4042421",
         "title": "Summer 2026 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -131594,7 +131594,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "32fc1129-317d-499e-b6c3-5ebb215eb592",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -137968,7 +137968,7 @@
         "company_name": "Comcast",
         "id": "b7ca26c1-8b9d-4ede-ac36-c3a27617a931",
         "title": "Comcast Revenue Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -151581,7 +151581,7 @@
         "company_name": "Northwestern Mutual",
         "id": "897f8975-646b-4b9d-add1-b906ed32a0c2",
         "title": "Specialty Markets Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -156344,7 +156344,7 @@
         "company_name": "Northrop Grumman",
         "id": "3c886045-1097-427d-af71-12ae3039c5a2",
         "title": "Embedded Software Engineering Intern - Strategic Deterrent Systems Division",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -173333,7 +173333,7 @@
         "company_name": "State Street",
         "id": "1b0fef55-f1f9-4894-8129-06e3cd9a4834",
         "title": "Software Engineer \u2013 Co-Op - Global Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Summer 2025"
