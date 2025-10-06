@@ -80948,7 +80948,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9d257cdf-efe6-4ac9-b1f0-5ed5e11826f0",
         "title": "Quantitative Systematic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -126105,7 +126105,7 @@
         "company_name": "Legrand NA",
         "id": "f12c4439-da73-4544-9abe-313c848354d9",
         "title": "Firmware Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -128019,7 +128019,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "0a4a5bd1-a083-4fe4-be5b-d8990a9b56a2",
         "title": "Information Technology Intern - Regulatory & Remediation Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -130840,7 +130840,7 @@
         "company_name": "W.R. Berkley",
         "id": "e0f69806-7896-4be8-a283-0a348eb5d929",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -138107,7 +138107,7 @@
         "company_name": "Wipfli",
         "id": "2475f313-954b-4b78-a5e7-4875eda6037b",
         "title": "Cybersecurity Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -166289,7 +166289,7 @@
         "company_name": "Rambus",
         "id": "8e5c43e7-05a6-4746-935b-495159a96309",
         "title": "Silicon IP Field Application Engineer Intern - Field Application Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -176780,9 +176780,9 @@
         "title": "Software Developer Intern - Full Stack Development",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759424572,
+        "date_updated": 1759742607,
         "date_posted": 1757021557,
         "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Roseville-CA/University---Software-Developer_R0225556",
         "locations": [
@@ -179956,9 +179956,9 @@
         "title": "Software Developer Intern - Full Stack Development",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759484972,
+        "date_updated": 1759742643,
         "date_posted": 1757021559,
         "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Roseville-CA/University---Software-Developer_R0225554",
         "locations": [
@@ -181520,7 +181520,7 @@
         "company_name": "Hexagon AB ",
         "id": "b72ad195-2946-49be-8e9a-f9e5368a0dba",
         "title": "Software Test Engineering Intern - Software Test Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -181589,7 +181589,7 @@
         "company_name": "Hexagon AB ",
         "id": "51e4519f-4c0e-46dc-8b3d-edffce016cb8",
         "title": "Agriculture Engineering Intern - Agriculture Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -183828,6 +183828,129 @@
         "source": "AlmondCroffle",
         "id": "6d76b492-8c77-4465-af5a-20081d1f970f",
         "date_posted": 1759740076,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759741194,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.amazon.jobs/en/jobs/3101249/software-development-engineer-internship-winter-2026-us",
+        "company_name": "Amazon",
+        "title": "Software Development Engineer Internship",
+        "locations": [
+            "Seattle, WA",
+            "USA"
+        ],
+        "terms": [
+            "Winter 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "9ca3adc3-491e-4dcb-9890-f84b262fb60f",
+        "date_posted": 1759741194,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759741688,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.jobvite.com/careers/idtus/job/oiEfyfwt",
+        "company_name": "Innovative Defense Technologies",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Arlington, VA",
+            "Mount Laurel, NJ"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "c56fddf6-006f-41fa-9a94-6b6e94877ac6",
+        "date_posted": 1759741688,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759741794,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers.skyworksinc.com/job/Austin-Timing-Engineer-Summer-Intern-%28May-%2726-Aug-%2726%29-TX-73301/1322327900/",
+        "company_name": "Skyworks",
+        "title": "Timing Engineer",
+        "locations": [
+            "Austin, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Hardware Engineering",
+        "source": "AlmondCroffle",
+        "id": "f64ef50d-780f-40a4-a8fe-f4d3682cf30a",
+        "date_posted": 1759741794,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759741884,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.statefarm.com/main/jobs/41952/job",
+        "company_name": "State Farm",
+        "title": "Claims BASD - Software Developer",
+        "locations": [
+            "Bloomington, IL",
+            "Dallas, TX",
+            "Phoenix, AZ"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "fc6eb969-6204-46be-93b7-72d0815b6d8a",
+        "date_posted": 1759741884,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759741987,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2026-Undergraduate-Embedded-Computing-Engineer-Intern_R013644",
+        "company_name": "Aerospace Corporation",
+        "title": "Undergraduate Embedded Computing Engineer Intern",
+        "locations": [
+            "El Segundo, CA",
+            "Chantilly, VA"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Winter 2026",
+            "Spring 2026",
+            "Fall 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "f46e8ff7-ffb3-405e-9215-fe35621c7fe7",
+        "date_posted": 1759741987,
         "company_url": "",
         "is_visible": true
     }
