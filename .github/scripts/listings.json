@@ -134,101 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Parsons",
-        "id": "6bd653ef-e30f-4b26-abee-438f568d5f9f",
-        "title": "Computer Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738974581,
-        "date_posted": 1738974581,
-        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MD-Aberdeen/Computer-Engineer-Intern--Summer-2025-_R163475",
-        "locations": [
-            "Aberdeen, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Parsons",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "CVS Health",
-        "id": "ab03461e-0758-4594-9b18-2a465ecac1dc",
-        "title": "Innotech Summer Undergraduate Internship 2025 - Enterprise Delivery - APMO Automation & Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738974446,
-        "date_posted": 1738974446,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/InnoTech-Summer-Undergraduate-Internship-2025---Enterprise-Delivery---APMO-Automation---Analytics_R0498601",
-        "locations": [
-            "Hartford, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/CVS-Health",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "CVS Health",
-        "id": "51f9871d-2c66-4eea-9b3e-ff919e449ade",
-        "title": "Innotech Summer Undergraduate Internship 2025 - Enterprise Delivery - Finance Technology & Corporate Systems",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738974436,
-        "date_posted": 1738974436,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Scottsdale-9501-East-Shea-Blvd/InnoTech-Summer-Undergraduate-Internship-2025---Enterprise-Delivery---Finance-Technology---Corporate-Systems_R0499789",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/CVS-Health",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Motorola",
-        "id": "9fecf731-18f7-4db5-a542-9a3f511a0dd2",
-        "title": "Software Engineer",
-        "active": false,
-        "terms": [
-            "Spring 2025"
-        ],
-        "date_updated": 1738974328,
-        "date_posted": 1738974328,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Champaign-IL-IL169/Software-Engineer---Spring-2025-Co-op--Research-Park-_R53761",
-        "locations": [
-            "Urbana, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "TD Bank",
-        "id": "1265bec1-1d57-4c83-b313-d7d22017d21c",
-        "title": "Global Markets Intern/Co-op - Quantitative Engineering Development",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738974320,
-        "date_posted": 1738974320,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Global-Markets-Intern-Co-op---Quantitative-Engineering-Development--Summer-2025-_R_1399532",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "GoFundMe",
         "id": "5d3e1bc5-95a3-48e3-bd87-872b501c2c48",
         "title": "Software Engineer Intern",
@@ -107006,7 +106911,7 @@
         "company_name": "Meta",
         "id": "b4ca9c62-9e9f-4667-ac2d-4243366cff24",
         "title": "Research Scientist Intern - Switchable Optical Devices - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -127904,7 +127809,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "97094f97-0c76-42e9-bacf-3f331d041f15",
         "title": "Quantitative Systematic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -129645,7 +129550,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3900ee26-a593-429d-aeb9-6cea38b113a8",
         "title": "Machine Learning Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -130312,7 +130217,7 @@
         "company_name": "Shure",
         "id": "94103e1a-3f83-48bb-9369-b8c91872490b",
         "title": "Data Driven Sustainability Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -138385,7 +138290,7 @@
         "company_name": "Meta",
         "id": "a38856cd-a151-41bb-be9f-6b9caa0f78a9",
         "title": "Research Scientist Intern - Optical System Design - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -157190,7 +157095,7 @@
         "company_name": "Northrop Grumman",
         "id": "b4d6d1db-a9b0-4b0e-a8be-6afd7d28d70d",
         "title": "Cyber Software Engineering Intern - Strategic Deterrent Systems Division",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -165688,7 +165593,7 @@
         "company_name": "ServiceNow",
         "id": "e31f4369-9747-424a-a4d3-dca62e677280",
         "title": "Associate Product Security Engineer Intern - Sso",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -175638,7 +175543,7 @@
         "company_name": "National Basketball Association",
         "id": "0d312638-151e-4d5c-b021-ad511f083a15",
         "title": "Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
