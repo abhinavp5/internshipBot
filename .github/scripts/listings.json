@@ -81158,7 +81158,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3801beb2-e473-44e1-8a9b-a3c4776098f6",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -81274,7 +81274,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "057819d8-d85c-46f7-b31e-6d9e538c832c",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -83796,7 +83796,7 @@
         "company_name": "Arch Capital Group",
         "id": "d55026be-2841-4d6e-8b7e-bd04ce7a67a8",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -118056,7 +118056,7 @@
         "company_name": "Ernst & Young",
         "id": "14757586-d77e-4438-b493-91a18760f0a1",
         "title": "JD/LLM Intern - Tax - Indirect Tax - SALT Transactions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -125842,9 +125842,9 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Susquehanna International Group (SIG)",
-        "id": "cc75ebb7-54af-4871-9b94-08788b84063b",
+        "id": "87fc97ec-ca87-43df-a38a-d186466d89ef",
         "title": "Quantitative Systematic Trading Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -126642,7 +126642,7 @@
         "company_name": "W.R. Berkley",
         "id": "772e84bd-7eb3-4373-b29b-8fad617ae11c",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -127513,7 +127513,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "87b5dfb7-6efe-418c-bf60-a329be9aeede",
         "title": "Quantitative Trader Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -127843,7 +127843,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "cc9ce8a2-c144-4f35-b5e5-f15b08f6a32e",
         "title": "Hardware Service Desk Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2025",
@@ -130298,7 +130298,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "c948674f-b374-488f-af89-265ae92d4fca",
         "title": "Machine Learning Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -130507,7 +130507,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9c843ea8-9b7c-4b8c-a34c-b8c89aa81148",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -131617,7 +131617,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9a6e5b09-436c-4ff9-a004-546a8fd41641",
         "title": "Quantitative Trader Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -131640,7 +131640,7 @@
         "company_name": "Quanta Services",
         "id": "160d1f7f-a969-4416-8aff-56a07e419e95",
         "title": "Innovation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -133404,7 +133404,7 @@
         "company_name": "Leidos",
         "id": "2b7bfcef-5f04-4c6a-9c12-cc8cd6920b97",
         "title": "Cybersecurity Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -138228,7 +138228,7 @@
         "company_name": "Quanta Services",
         "id": "a18c7e94-aab4-432a-8bb9-d531679b794e",
         "title": "Information Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -143892,7 +143892,7 @@
         "company_name": "W.R. Berkley",
         "id": "3c0ec811-9a15-45fc-973c-b1deb29a32d8",
         "title": "CRM Admin Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -160525,7 +160525,7 @@
         "company_name": "W.R. Berkley",
         "id": "0c7562e6-7d8e-4ada-b934-9b6bdd000c2f",
         "title": "Intern \u2013 Software Developer - Reactjs",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -167798,7 +167798,7 @@
         "company_name": "Harris Computer",
         "id": "f9942c43-8e56-4b17-adee-b67fc9c96511",
         "title": "Software Development and AI Intern - Co-op - R&D - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2026"
@@ -168450,7 +168450,7 @@
         "company_name": "Leidos",
         "id": "d282e0c7-6e2f-4a60-8b5c-b3a969164097",
         "title": "Software Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Fall 2027"
@@ -175528,7 +175528,7 @@
         "company_name": "Grow Financial Federal Credit Union",
         "id": "f773e1e7-217c-442f-81f3-bc8a1692940f",
         "title": "Collections Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -183953,5 +183953,28 @@
         "date_posted": 1759741987,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Daimler Truck",
+        "id": "7facc7f0-8159-4533-8de5-b371058b0d91",
+        "title": "IT Developer Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1759653060,
+        "date_posted": 1759653060,
+        "url": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Gastonia-NC-US/IT-Developer-Analyst-Intern_DT-15618",
+        "locations": [
+            "Gastonia, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Daimler-Truck",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
