@@ -117951,7 +117951,7 @@
         "company_name": "Ernst & Young",
         "id": "5de3760e-9888-4ccf-9f8b-833f426e8944",
         "title": "JD/LLM Intern - Tax - Indirect Tax - Credits & Incentives",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -118946,7 +118946,7 @@
         "company_name": "Leidos",
         "id": "221e8bfc-a48b-4883-b23b-b747f5e525f3",
         "title": "Cybersecurity Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -127724,7 +127724,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "bb505aa5-4894-4133-ad70-796eb3517fb9",
         "title": "Trading System Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -128354,7 +128354,7 @@
         "company_name": "RoviSys",
         "id": "a270961f-eaa0-4f38-a325-1a3d02a9cb9d",
         "title": "Co-op \u2013 Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -143892,7 +143892,7 @@
         "company_name": "W.R. Berkley",
         "id": "3c0ec811-9a15-45fc-973c-b1deb29a32d8",
         "title": "CRM Admin Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -180714,7 +180714,7 @@
         "company_name": "Parsons",
         "id": "5f44aec5-e86e-46ac-bcae-73922d1ebcfd",
         "title": "Software Engineering Intern - Federal Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -180763,7 +180763,7 @@
         "company_name": "Advocate Health Care",
         "id": "56629375-3a0f-4119-9d0a-dc3293489588",
         "title": "Information Analytics Intern - Analytics Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],

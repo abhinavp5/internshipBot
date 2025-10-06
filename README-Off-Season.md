@@ -10,9 +10,9 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 493 Internship Roles by Category
+### Browse 492 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (210)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (209)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (17)
 
@@ -1026,14 +1026,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>26d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
-<td>Cybersecurity Intern</td>
-<td>Beavercreek, OH</td>
-<td>Fall 2025</td>
-<td><div align="center"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/Beavercreek-OH/Cybersecurity-Intern_R-00166129?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/221e8bfc-a48b-4883-b23b-b747f5e525f3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>26d</td>
-</tr>
-<tr>
 <td><strong>Ahold Delhaize USA</strong></td>
 <td>Front End Engineer Co-op 🛂</td>
 <td>Chicago, IL</td>
@@ -1758,7 +1750,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (511)</summary>
+<summary>🗃️ Inactive roles (512)</summary>
 
 <table>
 <thead>
@@ -2002,7 +1994,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Mt Laurel Township, NJ</td>
 <td>Fall 2025</td>
 <td>🔒</td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -2010,7 +2002,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Mt Laurel Township, NJ</td>
 <td>Fall 2025</td>
 <td>🔒</td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Workiva?utm_source=GHList&utm_medium=company">Workiva</a></strong></td>
@@ -2185,6 +2177,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Security Analyst Internship</td>
 <td>Montreal, QC, Canada</br>Laval, QC, Canada</br>Longueuil, QC, Canada</td>
 <td>Winter 2026</td>
+<td>🔒</td>
+<td>26d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
+<td>Cybersecurity Intern</td>
+<td>Beavercreek, OH</td>
+<td>Fall 2025</td>
 <td>🔒</td>
 <td>26d</td>
 </tr>
@@ -6819,7 +6819,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Montgomery, IL</td>
 <td>Spring 2026</td>
 <td><div align="center"><a href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Data-Scientist-Co-Op---Spring-2026_REQ-9205?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/cd7723f3-f60f-405c-9674-dabe98e6ac49?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/American-Financial-Group?utm_source=GHList&utm_medium=company">American Financial Group</a></strong></td>
