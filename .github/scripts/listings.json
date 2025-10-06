@@ -107994,7 +107994,7 @@
         "company_name": "Apollo Global Management",
         "id": "13bf3d3a-3ee1-4e79-b1bd-abf73e71fa1a",
         "title": "2026 Summer Analyst - Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -128674,7 +128674,7 @@
         "company_name": "FM Global",
         "id": "302bca3a-bec3-422d-90ce-13c40c032cab",
         "title": "Identity Services Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -130217,7 +130217,7 @@
         "company_name": "Shure",
         "id": "94103e1a-3f83-48bb-9369-b8c91872490b",
         "title": "Data Driven Sustainability Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -131655,7 +131655,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9a6e5b09-436c-4ff9-a004-546a8fd41641",
         "title": "Quantitative Trader Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -173146,7 +173146,7 @@
         "company_name": "Ciena",
         "id": "b6481d98-0101-4017-ba48-c077ccf1f4bd",
         "title": "Embedded Software Engineer Co-op Winter 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -176108,7 +176108,7 @@
         "company_name": "Leidos",
         "id": "74b4d744-e4ee-415e-bb26-d7b7bd927004",
         "title": "Software Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
