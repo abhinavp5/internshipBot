@@ -69838,17 +69838,17 @@
         "terms": [
             "Fall 2025"
         ],
-        "date_updated": 1754261275,
+        "date_updated": 1759739902,
         "date_posted": 1754261275,
         "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Research-Intern-on-Generative-AI-for-Content-Creation_JR-117631",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Sony",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -125027,7 +125027,7 @@
         "company_name": "RoviSys",
         "id": "2abdccf1-a923-4320-a30e-9eb678dbf3da",
         "title": "Co-op \u2013 Spring 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -126642,7 +126642,7 @@
         "company_name": "W.R. Berkley",
         "id": "772e84bd-7eb3-4373-b29b-8fad617ae11c",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -127489,7 +127489,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "f7395054-7db5-4380-a84d-a3a91540d37c",
         "title": "Quantitative Strategy Developer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -128731,7 +128731,7 @@
         "company_name": "Shure",
         "id": "db0cafc6-74d4-47c1-b895-5b8620ca77bd",
         "title": "Automated Test Engineering Intern - Software",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -129466,7 +129466,7 @@
         "company_name": "RoviSys",
         "id": "700e8eb1-9183-4c01-8180-7de79c8e98a6",
         "title": "Co-op \u2013 Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -172914,7 +172914,7 @@
         "company_name": "Verizon Communications",
         "id": "3d633b16-1af3-4671-9a49-c1289c1119e1",
         "title": "Full Stack Software Development Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -183807,5 +183807,28 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "date_updated": 1759740076,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers.oracle.com/en/sites/jobsearch/job/309999",
+        "company_name": "Oracle",
+        "title": "Data Science Intern - Industries",
+        "locations": [
+            "USA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "6d76b492-8c77-4465-af5a-20081d1f970f",
+        "date_posted": 1759740076,
+        "company_url": "",
+        "is_visible": true
     }
 ]
