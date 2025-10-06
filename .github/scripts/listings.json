@@ -75190,7 +75190,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "790bb6f7-23b1-42b9-8716-f02da2b045f0",
         "title": "Hardware Engineer intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -80986,7 +80986,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9d257cdf-efe6-4ac9-b1f0-5ed5e11826f0",
         "title": "Quantitative Systematic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -125489,7 +125489,7 @@
         "company_name": "Cotiviti",
         "id": "3dabf3fa-56cb-4626-a1d7-45c6307008f1",
         "title": "Intern \u2013 Generative AI Research Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -128392,7 +128392,7 @@
         "company_name": "RoviSys",
         "id": "a270961f-eaa0-4f38-a325-1a3d02a9cb9d",
         "title": "Co-op \u2013 Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -128769,7 +128769,7 @@
         "company_name": "Shure",
         "id": "db0cafc6-74d4-47c1-b895-5b8620ca77bd",
         "title": "Automated Test Engineering Intern - Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -138266,7 +138266,7 @@
         "company_name": "Quanta Services",
         "id": "a18c7e94-aab4-432a-8bb9-d531679b794e",
         "title": "Information Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -159554,7 +159554,7 @@
         "company_name": "ServiceNow",
         "id": "349a29e3-cbe9-407d-9888-dcdebb0163df",
         "title": "Associate Product Security Engineer Intern - Sso",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -170562,7 +170562,7 @@
         "company_name": "Apogee Engineering",
         "id": "33b85725-8c8d-441f-8cd6-8552d74ae72e",
         "title": "Systems Architect - Apprentice - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
