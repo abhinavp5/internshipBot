@@ -128684,7 +128684,7 @@
         "company_name": "Shure",
         "id": "fef5d3f3-b20a-47d1-8a1c-8325471900e1",
         "title": "Embedded Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -147553,7 +147553,7 @@
         "company_name": "ServiceNow",
         "id": "24e5efbf-8bae-427f-8742-a193065d54c7",
         "title": "Servicenow Security Organization \u2013 Associate Information Security Analyst Intern - Sso",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
