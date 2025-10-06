@@ -108264,7 +108264,7 @@
         "company_name": "Align Communications",
         "id": "93e3ea3a-1bd3-432b-8972-47ad787de6db",
         "title": "Data Center Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -166428,7 +166428,7 @@
         "company_name": "Tencent",
         "id": "9e24d54d-e028-4e6c-8343-304753cdc935",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -180738,7 +180738,7 @@
         "company_name": "Iron Mountain",
         "id": "520e44b5-1562-432e-9733-209528617724",
         "title": "Software Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -183790,7 +183790,7 @@
         "company_name": "Daimler Truck",
         "id": "f74a0740-7640-457c-8bc6-300a155a663c",
         "title": "Data Science Intern - Daimler Truck Remarketing - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
