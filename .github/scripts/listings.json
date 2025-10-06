@@ -80948,7 +80948,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9d257cdf-efe6-4ac9-b1f0-5ed5e11826f0",
         "title": "Quantitative Systematic Trading Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -128660,7 +128660,7 @@
         "company_name": "FM Global",
         "id": "0ce0eba4-b10d-48ec-b66f-1cd3bede9a6b",
         "title": "Software Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -128777,7 +128777,7 @@
         "company_name": "Shure",
         "id": "abaf1429-73ce-4d40-a2d9-9ee7e619c20b",
         "title": "Application Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -128897,7 +128897,7 @@
         "company_name": "Shure",
         "id": "59028ac5-754c-4650-b9ac-b6386dbae5eb",
         "title": "Application System Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -167402,7 +167402,7 @@
         "company_name": "Rambus",
         "id": "00498252-d277-48fb-a643-074fe8a55a7b",
         "title": "Data and AI Intern - IT",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -172149,7 +172149,7 @@
         "company_name": "Wipfli",
         "id": "a9b781c6-35ad-44fa-8971-928ff8a4c9b4",
         "title": "Product Implementation Intern/Co-op - IP Product Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
