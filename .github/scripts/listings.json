@@ -63517,7 +63517,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "c1f8e0c0-bb5d-43ae-9c09-9f6771d7b602",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -163440,7 +163440,7 @@
         "company_name": "Assured Guaranty",
         "id": "610989f4-7b17-4dde-a613-f5883cbf6914",
         "title": "Software Development Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -165033,7 +165033,7 @@
         "company_name": "Kinaxis",
         "id": "567174e5-0f03-433a-874e-08075a34af0d",
         "title": "Co-op/Intern Software Developer - Core Algorithms - Industry Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -170547,7 +170547,7 @@
         "company_name": "RTX",
         "id": "1e613f8a-0b2f-4212-bea6-a7b34545ab93",
         "title": "Software Engineer Intern - Missile Defense Sensors",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
