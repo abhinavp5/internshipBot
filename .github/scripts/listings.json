@@ -109911,7 +109911,7 @@
         "company_name": "Meta",
         "id": "afed2a21-219c-4431-9e0a-6047c8ba23dc",
         "title": "Research Scientist Intern - Spatial Audio Capture and Reproduction - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -125867,7 +125867,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "385eed62-f687-4fff-ab42-08f41edb4cb5",
         "title": "Quantitative Systematic Trading Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -138871,7 +138871,7 @@
         "company_name": "Comcast",
         "id": "d620a6cd-5122-4ee0-96f8-8732d16cee79",
         "title": "Comcast Xumo Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -140224,7 +140224,7 @@
         "company_name": "Comcast",
         "id": "cf70062e-c70a-4a9a-8501-97b6f23ab0c7",
         "title": "Comcast Mobile Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -154456,7 +154456,7 @@
         "company_name": "ServiceNow",
         "id": "49514a2e-ac9b-4035-8694-e43c33e8cb6c",
         "title": "Associate Information Security Analyst Intern - Sso",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -162897,7 +162897,7 @@
         "company_name": "Kinaxis",
         "id": "2ec4349f-cc76-41c8-8a88-2b43045e703d",
         "title": "Co-op/Intern Developer - Clients - Front End Technologies",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -176164,7 +176164,7 @@
         "company_name": "Riot Games",
         "id": "90a795ce-d543-4246-a848-d9db0b34072b",
         "title": "Software Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -181025,7 +181025,7 @@
         "company_name": "PayPal",
         "id": "bdcbec68-a7af-4622-a708-e1ffdf0366f4",
         "title": "Back-End Software Engineer Intern - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -182740,7 +182740,7 @@
         "company_name": "Cigna Group",
         "id": "4e40a0e1-761c-474a-a161-f819d141ab91",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -182766,7 +182766,7 @@
         "company_name": "Cigna Group",
         "id": "39b338d7-7a0f-47ea-a47f-3095c49cf851",
         "title": "Data Science Intern - Enterprise Data Science - Evernorth Health Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -183928,14 +183928,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759741987,
+        "date_updated": 1759758921,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "degrees": [
             "Bachelor's"
         ],
         "url": "https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2026-Undergraduate-Embedded-Computing-Engineer-Intern_R013644",
-        "company_name": "Aerospace Corporation",
+        "company_name": "The Aerospace Corporation",
         "title": "Undergraduate Embedded Computing Engineer Intern",
         "locations": [
             "El Segundo, CA",
@@ -183971,6 +183971,77 @@
             "Gastonia, NC"
         ],
         "company_url": "https://simplify.jobs/c/Daimler-Truck",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Philips",
+        "id": "c760da69-fbc6-449d-b858-7dc1962ef831",
+        "title": "Co-op \u2013 Healthcare Data Scientist - Healthcare Data Science",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1759654798,
+        "date_posted": 1759654798,
+        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US/XMLNAME--Co-op---Healthcare-Data-Scientist---Cambridge--MA_563021",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Philips",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ansys",
+        "id": "83f37c75-5c48-460e-940d-41ee6d440dcc",
+        "title": "Co-op - Software Development",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1759664119,
+        "date_posted": 1759664119,
+        "url": "https://careers.ansys.com/job/Canonsburg-Spring-2026-Co-op,-Software-Development-(Bachelors)-PA-15317/1301897800/?ats=successfactors",
+        "locations": [
+            "Canonsburg, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ansys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KCF Technologies",
+        "id": "6efde4e4-091b-48b8-8e2f-8f2c6435f368",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1759663110,
+        "date_posted": 1759663110,
+        "url": "https://job-boards.greenhouse.io/kcftechnologies/jobs/5658358004",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/KCF-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
