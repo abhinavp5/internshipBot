@@ -129489,7 +129489,7 @@
         "company_name": "RoviSys",
         "id": "54f874cd-8392-41ea-bebf-5d45e61c62f2",
         "title": "Co-op \u2013 Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -138038,7 +138038,7 @@
         "company_name": "Comcast",
         "id": "40cc969d-6e68-4be4-b3e8-14ab8fd20d2b",
         "title": "Comcast AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -144622,7 +144622,7 @@
         "company_name": "Origami Risk",
         "id": "70199aa9-55d3-4483-9d85-0a94e5112a64",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -171634,7 +171634,7 @@
         "company_name": "Sanofi",
         "id": "75ee0a15-4487-4ac6-8f75-3ea5241f47fa",
         "title": "Co-op Intern - Workplace Transformation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -181543,7 +181543,7 @@
         "company_name": "Hexagon AB ",
         "id": "f1edf3be-71e4-4a83-a5f7-f6091e5f2c97",
         "title": "Software Engineering Intern - Software Infrastructure Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -184047,5 +184047,28 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1759772609,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.synchronycareers.com/job-detail/22491940/uconn-stamford-digital-technology-center-intern-summer-2026-remote/",
+        "company_name": "Synchrony",
+        "title": "UConn Stamford Digital Technology Center Intern \u2013 Summer 2026",
+        "locations": [
+            "Stamford, CT, USA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "matthewjyhan",
+        "id": "50e8c751-393c-42ee-85c0-100be60decf3",
+        "date_posted": 1759772609,
+        "company_url": "",
+        "is_visible": true
     }
 ]
