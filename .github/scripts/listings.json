@@ -130298,7 +130298,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "c948674f-b374-488f-af89-265ae92d4fca",
         "title": "Machine Learning Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -151769,7 +151769,7 @@
         "company_name": "The Federal Reserve System",
         "id": "0e8dc74b-8275-40d4-88e7-153d0086047e",
         "title": "2026 Summer Intern - Technology Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -156556,7 +156556,7 @@
         "company_name": "Sanofi",
         "id": "c7e1a92c-575d-4c79-b424-80b13c0d0590",
         "title": "Co-op Intern - RNA Machine Learning - Vaccine",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -167895,7 +167895,7 @@
         "company_name": "Nebraska Medicine",
         "id": "354a6dae-97cc-4bff-ac19-6961e02fc815",
         "title": "AI Engineer Intern - Data, Analytics, and AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -177505,7 +177505,7 @@
         "company_name": "RTX",
         "id": "676d7c00-2310-4c35-88c6-f2db625bb93d",
         "title": "Embedded Software Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
