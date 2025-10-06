@@ -134,25 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "GoFundMe",
-        "id": "5d3e1bc5-95a3-48e3-bd87-872b501c2c48",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1738988051,
-        "date_posted": 1738988051,
-        "url": "https://boards.greenhouse.io/gofundme/jobs/6269274",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/GoFundMe",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Archer",
         "id": "c5c5e2de-45e7-4254-9a66-5e5f92c4c3f5",
         "title": "Electric Engine Control Software Engineering Intern",
@@ -180323,7 +180304,7 @@
         "company_name": "Hexagon AB ",
         "id": "9689e4d8-3328-4d8d-8a80-b847c25e5c81",
         "title": "Autonomy Research Intern - Applied Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
