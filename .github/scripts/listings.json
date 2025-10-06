@@ -42038,7 +42038,7 @@
         "company_name": "Scout AI",
         "id": "6effc68e-ae06-46c8-8639-03a124d2dcf6",
         "title": "AI Engineer Intern - Fury Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -89638,7 +89638,7 @@
         "company_name": "Medline",
         "id": "e4135e56-fd1c-43dc-bbc2-e467058bc3de",
         "title": "IT Software Development Intern - E-commerce",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -94680,7 +94680,7 @@
         "company_name": "Vanguard",
         "id": "8cf616ef-4aed-4f11-9cf5-77b9ab1c3954",
         "title": "College to Corporate Internship - Application Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -94706,7 +94706,7 @@
         "company_name": "Vanguard",
         "id": "c1108be1-9f55-4fba-b860-66ce77b10c4a",
         "title": "College to Corporate Internship - Risk & Security Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -94732,7 +94732,7 @@
         "company_name": "Vanguard",
         "id": "1cf7984a-bfe6-4d95-9cef-173532d366c4",
         "title": "College to Corporate Internship - Risk & Security Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -128660,7 +128660,7 @@
         "company_name": "FM Global",
         "id": "0ce0eba4-b10d-48ec-b66f-1cd3bede9a6b",
         "title": "Software Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -170829,7 +170829,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "7f96ea85-3ea5-49bb-8138-c337b0800d51",
         "title": "Data Engineering Intern - Imaging Spectroscopy Department",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -184418,6 +184418,195 @@
             "State College, PA"
         ],
         "company_url": "https://simplify.jobs/c/AccuWeather",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "HP IQ",
+        "id": "219cc89a-c013-4d4c-a011-6eb31dce28fc",
+        "title": "Hardware Engineering - Radio Frequency Intern - Wireless Team",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759793526,
+        "date_posted": 1759793526,
+        "url": "https://job-boards.greenhouse.io/hpiq/jobs/5622009004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/HP-IQ",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DoorDash",
+        "id": "3cb6b836-1f74-4e68-856e-9334a7b0da1d",
+        "title": "Software Engineer Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759793372,
+        "date_posted": 1759793372,
+        "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/7263628",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/DoorDash",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Khan Academy",
+        "id": "f85cf7f6-14b6-4ed4-a78b-92376821a95c",
+        "title": "Software Engineer Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759792958,
+        "date_posted": 1759792958,
+        "url": "https://job-boards.greenhouse.io/khanacademy/jobs/7258549",
+        "locations": [
+            "Remote in USA",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Khan-Academy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Netflix",
+        "id": "cf07fa9e-35ba-4d97-a694-324bf51c429c",
+        "title": "Software Engineer Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759792950,
+        "date_posted": 1759792950,
+        "url": "https://explore.jobs.netflix.net/careers/job/790312348360",
+        "locations": [
+            "LA",
+            "Los Gatos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Netflix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Arch Capital Group",
+        "id": "f494dd93-b880-49bf-a2e2-ececf7da0e25",
+        "title": "Data Science Intern - Strategic Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759792829,
+        "date_posted": 1759792829,
+        "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/London-United-Kingdom/Data-Science-Summer-Internship---2026_R25_1037",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Arch-Capital-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Arch Capital Group",
+        "id": "d2eaaa16-6c79-45a8-9641-36480ff0de16",
+        "title": "IT Solution Developer Intern - Enterprise Architecture",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759792837,
+        "date_posted": 1759792837,
+        "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Birmingham-United-Kingdom/IT-Solution-Developer-Summer-Internship---2026_R25_1036",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Arch-Capital-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Arch Capital Group",
+        "id": "6d178146-8bb0-43f3-ad98-b18c95e94eb3",
+        "title": "Information Technology Information Security Intern - IT - Information Security",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759792831,
+        "date_posted": 1759792831,
+        "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Birmingham-United-Kingdom/IT-Information-Security-Summer-Internship---2026_R25_1034",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Arch-Capital-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Arch Capital Group",
+        "id": "3550d24f-1a77-41de-9a55-560e45af1972",
+        "title": "IT Reporting Engineer Intern - Enterprise Reporting",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759792834,
+        "date_posted": 1759792834,
+        "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/London-United-Kingdom/IT-Reporting-Engineer-Summer-Internship---2026_R25_1035",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Arch-Capital-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
