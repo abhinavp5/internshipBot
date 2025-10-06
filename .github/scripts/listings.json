@@ -128684,7 +128684,7 @@
         "company_name": "Shure",
         "id": "fef5d3f3-b20a-47d1-8a1c-8325471900e1",
         "title": "Embedded Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -136351,7 +136351,7 @@
         "company_name": "Lennox International",
         "id": "606f3d71-4e31-4ce2-93bb-662378d17ab8",
         "title": "IoT Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -174431,7 +174431,7 @@
         "company_name": "Kinaxis",
         "id": "8da3b042-2573-4376-96b5-2248edb86812",
         "title": "Co-op/Intern Developer - Core Algorithms and Optimization",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -181566,7 +181566,7 @@
         "company_name": "Hexagon AB ",
         "id": "957128c1-605e-470e-a667-6605296d4b3d",
         "title": "Geomatics Engineering Intern - Sensor Fusion",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -181612,7 +181612,7 @@
         "company_name": "Snap-on",
         "id": "06528ed9-0eb8-4f03-a274-30b9c73d0100",
         "title": "Intern - Application Support Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
