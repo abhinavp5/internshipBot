@@ -64342,7 +64342,7 @@
         "company_name": "Capital One",
         "id": "b850c614-7275-4dc5-a523-03de74d25beb",
         "title": "Intern \u2013 Data Analytics Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Fall 2026"
@@ -119657,7 +119657,7 @@
         "company_name": "Manulife Financial",
         "id": "82f4e364-eed2-43ef-badb-172a8d0521d1",
         "title": "Summer Intern/Co-op - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -125844,7 +125844,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "cc75ebb7-54af-4871-9b94-08788b84063b",
         "title": "Quantitative Systematic Trading Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -172147,9 +172147,9 @@
         "source": "Simplify",
         "category": "Product",
         "company_name": "Wipfli",
-        "id": "e0639b17-9a9d-45a1-a01f-74fa600e3859",
+        "id": "a9b781c6-35ad-44fa-8971-928ff8a4c9b4",
         "title": "Product Implementation Intern/Co-op - IP Product Group",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -176847,7 +176847,7 @@
         "company_name": "RTX",
         "id": "2ede0bc7-3f47-4797-b019-13b3f2ec5fed",
         "title": "AFATDS Software Engineering Intern - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -182013,7 +182013,7 @@
         "company_name": "United Wholesale Mortgage",
         "id": "2ccde243-2959-41bf-bd01-f96d94926dcc",
         "title": "Technology Summer Intern - Information Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
