@@ -164153,7 +164153,7 @@
         "company_name": "Daktronics",
         "id": "d93a7453-5761-458b-9653-179b7284a8a9",
         "title": "Firmware/Hardware Design Co-op Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -184209,6 +184209,33 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mercury",
+        "id": "859e026f-9164-48c9-9458-46745abb12d6",
+        "title": "Full-stack Engineering Intern - Spring 2026",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1759788627,
+        "date_posted": 1759788627,
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/5669732004",
+        "locations": [
+            "SF",
+            "Remote in USA",
+            "NYC",
+            "Portland, OR",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mercury",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
