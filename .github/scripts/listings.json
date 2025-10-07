@@ -128354,7 +128354,7 @@
         "company_name": "RoviSys",
         "id": "a270961f-eaa0-4f38-a325-1a3d02a9cb9d",
         "title": "Co-op \u2013 Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -129304,7 +129304,7 @@
         "company_name": "RoviSys",
         "id": "b1bb5049-c0a5-4c59-99cc-139987a1e9af",
         "title": "Co-op \u2013 Spring 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -160525,7 +160525,7 @@
         "company_name": "W.R. Berkley",
         "id": "0c7562e6-7d8e-4ada-b934-9b6bdd000c2f",
         "title": "Intern \u2013 Software Developer - Reactjs",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -170501,7 +170501,7 @@
         "company_name": "ICF International",
         "id": "1f8bd8e0-52ba-43c1-850b-1977d4ea4fd9",
         "title": "Intern - AI Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -181002,7 +181002,7 @@
         "company_name": "Hexagon AB ",
         "id": "b088a71c-90f8-46e9-814a-74a613f30e54",
         "title": "Applications Engineering Intern - Core Customer Support - Autonomy & Positioning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -185780,7 +185780,7 @@
         "company_name": "Meta",
         "id": "2ab28869-6467-4015-9cf3-60f0ecfa0dbb",
         "title": "Research Scientist Intern - Optical Design",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
