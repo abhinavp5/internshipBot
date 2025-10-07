@@ -101828,17 +101828,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759858372,
+        "date_updated": 1757037677,
         "date_posted": 1756950599,
         "url": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-PhD-Intern-United-States/1449981",
         "locations": [
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Cisco",
-        "is_visible": false,
+        "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's"
+            "Master's"
         ]
     },
     {
@@ -175880,7 +175880,7 @@
         "company_name": "WeRide",
         "id": "91a0e08b-523d-4c4a-b89b-1d92081c027f",
         "title": "Intern - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -179060,7 +179060,7 @@
         "company_name": "Dell Technologies",
         "id": "d0a36211-e02a-41d6-b24b-e3f92c44cdcf",
         "title": "Global Marketing Master\u2019s Data & AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2027"
@@ -184807,7 +184807,7 @@
         "company_name": "TIAA",
         "id": "d32de456-3943-460c-85ed-243ffe70b689",
         "title": "Technology Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -186745,31 +186745,5 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "date_updated": 1759858254,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://www.metacareers.com/jobs/679961588479426/",
-        "company_name": "Meta",
-        "title": "Research Scientist Intern, Language and Agents",
-        "locations": [
-            "Bellevue, WA",
-            "Menlo Park, CA",
-            "Seattle, WA",
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "matthewjyhan",
-        "id": "9ce45236-8283-462e-90cb-0e9ce95d3db1",
-        "date_posted": 1759858254,
-        "company_url": "",
-        "is_visible": true
     }
 ]
