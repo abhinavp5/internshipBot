@@ -13725,7 +13725,7 @@
 <td>Gen AI Technology Intern - Multiple Teams</td>
 <td>Atlanta, GA</td>
 <td><div align="center"><a href="https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/GA-Atlanta/XMLNAME-2026---Early-Career---Gen-AI-Technology---Summer-Intern---United-States--Atlanta--GA-_JR2505379?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/2aa2ada4-c582-41d9-8668-4321a324b8ee?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Avis-Budget-Group?utm_source=GHList&utm_medium=company">Avis Budget Group</a></strong></td>
