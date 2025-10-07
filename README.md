@@ -6290,7 +6290,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company">Amazon</a></strong></td>
+<td>↳</td>
 <td>Systems Development Engineer Internship</td>
 <td>Seattle, WA</td>
 <td><div align="center"><a href="https://www.amazon.jobs/en/jobs/3062254/systems-development-engineer-internship-2026-us?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
@@ -13865,14 +13865,14 @@
 <td>Data Engineer Intern - Data Analytics Group</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://lazard-careers.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/3798-2026-Data-Engineer-Summer-Internship-Lazard-Data-Analytics-Group/en-GB?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bd166cbe-6b37-4f06-b5b5-fe5f9f928a2d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>AI Engineer Intern - Data Analytics Group</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://lazard-careers.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/3797-2026-AI-Engineer-Summer-Internship-Lazard-Data-Analytics-Group/en-GB?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/17b2b25d-d99c-4ebd-829a-8e99bf954598?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Eluvio?utm_source=GHList&utm_medium=company">Eluvio</a></strong></td>
@@ -17207,7 +17207,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company">ByteDance</a></strong></td>
 <td>Research Intern (AI/LLM Network)</td>
 <td>San Jose, CA</td>
 <td><div align="center"><a href="https://joinbytedance.com/search/7539991964504017170?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
