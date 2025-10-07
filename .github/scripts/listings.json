@@ -81519,7 +81519,7 @@
         "company_name": "Deutsche Bank",
         "id": "04e7f68b-7c8f-443f-be35-f0763801c336",
         "title": "Deutsche Bank \u2013 Deutsche Bank Internship Program - Technology - Data and Innovation - Tdi - 2026Yello Enterprise",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -128354,7 +128354,7 @@
         "company_name": "RoviSys",
         "id": "a270961f-eaa0-4f38-a325-1a3d02a9cb9d",
         "title": "Co-op \u2013 Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -128849,7 +128849,7 @@
         "company_name": "Shure",
         "id": "7ab269f4-c168-4aef-affd-086940fd86c1",
         "title": "Applied Research Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -129466,7 +129466,7 @@
         "company_name": "RoviSys",
         "id": "700e8eb1-9183-4c01-8180-7de79c8e98a6",
         "title": "Co-op \u2013 Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -129489,7 +129489,7 @@
         "company_name": "RoviSys",
         "id": "54f874cd-8392-41ea-bebf-5d45e61c62f2",
         "title": "Co-op \u2013 Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -131852,7 +131852,7 @@
         "company_name": "W.R. Berkley",
         "id": "183873ef-c292-4e5e-816e-4777686fefc7",
         "title": "Quantitative Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -166289,7 +166289,7 @@
         "company_name": "Rambus",
         "id": "8e5c43e7-05a6-4746-935b-495159a96309",
         "title": "Silicon IP Field Application Engineer Intern - Field Application Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -175528,7 +175528,7 @@
         "company_name": "Grow Financial Federal Credit Union",
         "id": "f773e1e7-217c-442f-81f3-bc8a1692940f",
         "title": "Collections Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -186012,6 +186012,169 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CenturyLink",
+        "id": "5e32728a-c41c-42a6-b928-165e3794f1ce",
+        "title": "Intern \u2013 Software Engineer - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759833910,
+        "date_posted": 1759833910,
+        "url": "https://internaljobs.centurylink.com/job/Remote-Intern-Software-Engineer-Summer-2026/1332412600/?ats=successfactors",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/CenturyLink",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CenturyLink",
+        "id": "48fb7d94-cab1-4bcc-9219-fb7162ee4e7b",
+        "title": "Intern \u2013 Markops Reporting Analyst - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759833918,
+        "date_posted": 1759833918,
+        "url": "https://internaljobs.centurylink.com/job/Remote-Intern-MarkOps-Reporting-Analyst-Summer-2026/1332335800/?ats=successfactors",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/CenturyLink",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CenturyLink",
+        "id": "454aa5c0-ffc6-4c60-9e34-7955ea8305dd",
+        "title": "Intern \u2013 Data Analyst - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759833907,
+        "date_posted": 1759833907,
+        "url": "https://internaljobs.centurylink.com/job/Remote-Intern-Data-Analyst-Summer-2026/1332326900/?ats=successfactors",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/CenturyLink",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "CenturyLink",
+        "id": "403d2848-03e8-4996-b3e7-c3478cc156e7",
+        "title": "Intern \u2013 Product Management - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759833910,
+        "date_posted": 1759833910,
+        "url": "https://internaljobs.centurylink.com/job/Remote-Intern-Product-Management-Summer-2026/1332255900/?ats=successfactors",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/CenturyLink",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lumen Technologies",
+        "id": "cd08d9c8-8041-4b28-acdb-8138fa01a90b",
+        "title": "Intern \u2013 Data Analyst - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759833851,
+        "date_posted": 1759833851,
+        "url": "https://jobs.lumen.com/global/en/job/340240",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lumen-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lumen Technologies",
+        "id": "c923bf06-1e59-4851-be58-4334946a1931",
+        "title": "Intern \u2013 Software Engineer - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759833850,
+        "date_posted": 1759833850,
+        "url": "https://jobs.lumen.com/global/en/job/340188",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lumen-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lumen Technologies",
+        "id": "02341242-b5fe-4013-81e2-92298fcd3a6f",
+        "title": "Intern \u2013 Software Development Engineer - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759833857,
+        "date_posted": 1759833857,
+        "url": "https://jobs.lumen.com/global/en/job/340233",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lumen-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Bootcamp"
         ]
     }
 ]
