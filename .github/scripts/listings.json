@@ -81274,7 +81274,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "057819d8-d85c-46f7-b31e-6d9e538c832c",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -126105,7 +126105,7 @@
         "company_name": "Legrand NA",
         "id": "f12c4439-da73-4544-9abe-313c848354d9",
         "title": "Firmware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -128660,7 +128660,7 @@
         "company_name": "FM Global",
         "id": "0ce0eba4-b10d-48ec-b66f-1cd3bede9a6b",
         "title": "Software Engineering Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -129489,7 +129489,7 @@
         "company_name": "RoviSys",
         "id": "54f874cd-8392-41ea-bebf-5d45e61c62f2",
         "title": "Co-op \u2013 Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -138203,7 +138203,7 @@
         "company_name": "Wipfli",
         "id": "0855a169-0454-4acf-b615-c45f15527379",
         "title": "Product Development Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -166289,7 +166289,7 @@
         "company_name": "Rambus",
         "id": "8e5c43e7-05a6-4746-935b-495159a96309",
         "title": "Silicon IP Field Application Engineer Intern - Field Application Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -180285,7 +180285,7 @@
         "company_name": "Hexagon AB ",
         "id": "9689e4d8-3328-4d8d-8a80-b847c25e5c81",
         "title": "Autonomy Research Intern - Applied Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -186432,6 +186432,29 @@
         "source": "AlmondCroffle",
         "id": "69870400-5ce0-4e99-9d04-04f7934073cc",
         "date_posted": 1759842505,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759843770,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://momentive.wd1.myworkdayjobs.com/en-US/MC/job/US-NY-Niskayuna/Software-Developer-Intern-2026_R8836",
+        "company_name": "Momentive",
+        "title": "Software Developer Intern",
+        "locations": [
+            "Niskayuna, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "bbbf4b6a-8738-4a81-a951-c23dd35a6227",
+        "date_posted": 1759843744,
         "company_url": "",
         "is_visible": true
     }
