@@ -125867,7 +125867,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "385eed62-f687-4fff-ab42-08f41edb4cb5",
         "title": "Quantitative Systematic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -130624,7 +130624,7 @@
         "company_name": "RoviSys",
         "id": "3cdc75c9-e302-471d-9aa2-12e38b885f5b",
         "title": "Co-op \u2013 Spring 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -150345,7 +150345,7 @@
         "company_name": "NextEra Energy",
         "id": "be28c40f-0275-4f17-b257-2c0be92754c2",
         "title": "IT Salesforce Analyst \u2013 College Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
