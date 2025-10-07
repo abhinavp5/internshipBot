@@ -186719,5 +186719,31 @@
         "degrees": [
             "MBA"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "9b4a1267-8cae-41af-8c69-b937d6599278",
+        "title": "Data Analysis Intern - Power Tools Department - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1759854190,
+        "date_posted": 1759854190,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000085868206",
+        "locations": [
+            "Uxbridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
