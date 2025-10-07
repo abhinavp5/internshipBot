@@ -127489,7 +127489,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "f7395054-7db5-4380-a84d-a3a91540d37c",
         "title": "Quantitative Strategy Developer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -131594,7 +131594,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "32fc1129-317d-499e-b6c3-5ebb215eb592",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -134269,7 +134269,7 @@
         "company_name": "AbbVie",
         "id": "99bea391-0922-49ed-902c-884604c819c1",
         "title": "APEX Advanced Analytics Intern - Masters",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Summer 2027"
@@ -147130,7 +147130,7 @@
         "company_name": "AbbVie",
         "id": "5faad969-5abc-41c4-a4be-cecf1b01475a",
         "title": "APEX Advanced Analytics Intern - Masters",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2027"
@@ -181002,7 +181002,7 @@
         "company_name": "Hexagon AB ",
         "id": "b088a71c-90f8-46e9-814a-74a613f30e54",
         "title": "Applications Engineering Intern - Core Customer Support - Autonomy & Positioning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
