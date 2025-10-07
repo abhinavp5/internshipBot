@@ -128777,7 +128777,7 @@
         "company_name": "Shure",
         "id": "abaf1429-73ce-4d40-a2d9-9ee7e619c20b",
         "title": "Application Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -175505,7 +175505,7 @@
         "company_name": "National Basketball Association",
         "id": "d9f72de8-b3f7-4a27-b79a-15a81299437a",
         "title": "Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -186810,6 +186810,29 @@
             "Manchester, UK"
         ],
         "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Electronic Arts",
+        "id": "b39063dd-94d8-4df3-9413-b65cbf70de2c",
+        "title": "Gameplay Engineer Intern - Gameplay Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759871636,
+        "date_posted": 1759871636,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Engineer-Intern/211300",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Electronic-Arts",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
