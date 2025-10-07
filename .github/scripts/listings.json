@@ -125378,7 +125378,7 @@
         "company_name": "W.R. Berkley",
         "id": "8d7fa2d2-c2cd-496c-a36a-79fb2244cae4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -145232,7 +145232,7 @@
         "company_name": "RESPEC",
         "id": "eeb11883-a57a-42a2-bd99-bf0a7a685d50",
         "title": "Student Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -161487,7 +161487,7 @@
         "company_name": "RESPEC",
         "id": "cb5e43ba-13a7-4377-b35e-62bfb1dc2d76",
         "title": "Student Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -165033,7 +165033,7 @@
         "company_name": "Kinaxis",
         "id": "567174e5-0f03-433a-874e-08075a34af0d",
         "title": "Co-op/Intern Software Developer - Core Algorithms - Industry Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -186269,6 +186269,53 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Innovative Defense Technologies",
+        "id": "a20e0820-f1ea-4b11-8fb5-9cd5f608b415",
+        "title": "Software Engineer Intern - Integrated Mission Systems",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759836538,
+        "date_posted": 1759836538,
+        "url": "https://jobs.jobvite.com/idtus/job/oY6myfwI?nl=1&nl=1&fr=false",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Innovative-Defense-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Deutsche Bank",
+        "id": "d5bf973f-0857-4cc1-aad7-254c98b1877d",
+        "title": "Deutsche Bank Internship Programme - Technology - Data & Innovation",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1759836476,
+        "date_posted": 1759836476,
+        "url": "https://db.recsolu.com/external/requisitions/u0Hg2cz-hLxgFhi35Rc8Ng",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Deutsche-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
