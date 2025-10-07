@@ -101828,17 +101828,17 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1757037677,
+        "date_updated": 1759858372,
         "date_posted": 1756950599,
         "url": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-PhD-Intern-United-States/1449981",
         "locations": [
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Cisco",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -154808,7 +154808,7 @@
         "company_name": "RSM",
         "id": "addd6a59-0638-4901-a502-4b1ac70b5a1e",
         "title": "Microsoft Business Central Associate - Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -154831,7 +154831,7 @@
         "company_name": "RSM",
         "id": "26746dc0-b59f-4adb-971c-4d72a82808eb",
         "title": "Microsoft Business Central Associate - Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -154854,7 +154854,7 @@
         "company_name": "RSM",
         "id": "1ac43414-569b-4c1b-b0ed-a8da053a7c47",
         "title": "Microsoft Business Central Associate - Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -186745,5 +186745,31 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1759858254,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://www.metacareers.com/jobs/679961588479426/",
+        "company_name": "Meta",
+        "title": "Research Scientist Intern, Language and Agents",
+        "locations": [
+            "Bellevue, WA",
+            "Menlo Park, CA",
+            "Seattle, WA",
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "matthewjyhan",
+        "id": "9ce45236-8283-462e-90cb-0e9ce95d3db1",
+        "date_posted": 1759858254,
+        "company_url": "",
+        "is_visible": true
     }
 ]
