@@ -80948,7 +80948,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9d257cdf-efe6-4ac9-b1f0-5ed5e11826f0",
         "title": "Quantitative Systematic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -126642,7 +126642,7 @@
         "company_name": "W.R. Berkley",
         "id": "772e84bd-7eb3-4373-b29b-8fad617ae11c",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -130840,7 +130840,7 @@
         "company_name": "W.R. Berkley",
         "id": "e0f69806-7896-4be8-a283-0a348eb5d929",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -144622,7 +144622,7 @@
         "company_name": "Origami Risk",
         "id": "f2bd20e3-71f7-4a4b-b5f5-7bef4208fe2a",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -162897,7 +162897,7 @@
         "company_name": "Kinaxis",
         "id": "2ec4349f-cc76-41c8-8a88-2b43045e703d",
         "title": "Co-op/Intern Developer - Clients - Front End Technologies",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -164061,7 +164061,7 @@
         "company_name": "Kinaxis",
         "id": "d3a15f64-ed8a-4820-ba9c-68dce12d3ecd",
         "title": "Co-op/Intern Developer - AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -173889,7 +173889,7 @@
         "company_name": "StoneX Group",
         "id": "fe8ca075-20f4-4db4-9950-4bf534b34dd9",
         "title": "Intern \u2013 Equity Trading Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -174080,7 +174080,7 @@
         "company_name": "Kinaxis",
         "id": "13f0b494-2bc6-4797-8242-359aaf79a180",
         "title": "Co-op Developer - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -188175,6 +188175,200 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Atlantic Health System",
+        "id": "3cad8143-0608-4a68-80fe-50759d39023b",
+        "title": "Project Coordinator - Digital Transformation Intern - Digital Transformation - Information and Security Systems",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759908644,
+        "date_posted": 1759908644,
+        "url": "https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/22892",
+        "locations": [
+            "Morristown, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Atlantic-Health-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Eaton Corporation",
+        "id": "f27d2dcf-e4f2-4277-92fc-e7faa8558ddb",
+        "title": "Firmware Engineer Intern/Co-op - Research & Development Engineering",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759908077,
+        "date_posted": 1759908077,
+        "url": "https://eaton.eightfold.ai/careers/job/687233142288",
+        "locations": [
+            "Coraopolis, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Eaton-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Innovative Defense Technologies",
+        "id": "f168ff4f-2678-41fb-891a-9e6542dc6b03",
+        "title": "Software Engineer Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759908028,
+        "date_posted": 1759908028,
+        "url": "https://jobs.jobvite.com/idtus/job/oFAfyfwM?nl=1&nl=1&fr=false",
+        "locations": [
+            "Mt Laurel Township, NJ",
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Innovative-Defense-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innovative Defense Technologies",
+        "id": "ce489666-e127-4fa7-ba58-e6e11ea473ab",
+        "title": "Artificial Intelligence Engineer Intern - Warfare Systems",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759908006,
+        "date_posted": 1759908006,
+        "url": "https://jobs.jobvite.com/idtus/job/oFclyfwu?nl=1&nl=1&fr=false",
+        "locations": [
+            "Mt Laurel Township, NJ",
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Innovative-Defense-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Innovative Defense Technologies",
+        "id": "bd67eb0d-ac5d-4f62-98fb-00e281394eeb",
+        "title": "Software Engineer Intern - Warfare Systems",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759908034,
+        "date_posted": 1759908034,
+        "url": "https://jobs.jobvite.com/idtus/job/oZflyfwR?nl=1&nl=1&fr=false",
+        "locations": [
+            "Mt Laurel Township, NJ",
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Innovative-Defense-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Innovative Defense Technologies",
+        "id": "094452b2-112e-400b-aea4-7e0fda0b860e",
+        "title": "Software Engineer Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759908024,
+        "date_posted": 1759908024,
+        "url": "https://jobs.jobvite.com/idtus/job/oFNfyfwZ?nl=1&nl=1&fr=false",
+        "locations": [
+            "Fall River, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Innovative-Defense-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ADT",
+        "id": "a9f42db6-6d1b-47ec-b0ed-e68860171c20",
+        "title": "Technical Project Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759907848,
+        "date_posted": 1759907848,
+        "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/3018014",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/ADT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SciTec",
+        "id": "9fbe0516-47c4-46f3-add8-85a88e2206ac",
+        "title": "Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759907884,
+        "date_posted": 1759907884,
+        "url": "https://apply.workable.com/scitec/j/5C1429890C/apply",
+        "locations": [
+            "Wright-Patterson AFB, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/SciTec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
