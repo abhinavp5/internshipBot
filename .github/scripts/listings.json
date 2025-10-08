@@ -62771,7 +62771,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755782610,
+        "date_updated": 1759960743,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-AI-Intern---Summer-Internship-2026_R56902",
         "company_name": "Motorola Solutions",
         "title": "Supply Chain AI Intern",
@@ -62788,7 +62788,7 @@
         "id": "f7c76d8d-22ea-479f-9ff4-19f32a52d743",
         "date_posted": 1755421235,
         "company_url": "",
-        "is_visible": true,
+        "is_visible": false,
         "category": "Data Science, AI & Machine Learning",
         "degrees": [
             "Bachelor's"
@@ -70270,7 +70270,7 @@
         "company_name": "Cohere",
         "id": "3c5f6318-d21f-4325-85e3-52281e87b501",
         "title": "Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -103248,7 +103248,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1756983721,
+        "date_updated": 1759960664,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [
@@ -103268,7 +103268,7 @@
         "id": "1f7a408e-efa9-45d7-80f7-adc212aa35cc",
         "date_posted": 1756983721,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757095747,
@@ -118134,7 +118134,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757406163,
+        "date_updated": 1759960629,
         "sponsorship": "Other",
         "active": true,
         "degrees": [
@@ -118154,7 +118154,7 @@
         "id": "e60efadc-fe11-4bdf-a28b-42fe6f98d3f2",
         "date_posted": 1757406163,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757406274,
@@ -131567,7 +131567,7 @@
         "company_name": "W.R. Berkley",
         "id": "183873ef-c292-4e5e-816e-4777686fefc7",
         "title": "Quantitative Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -131634,7 +131634,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757668636,
+        "date_updated": 1759960548,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [
@@ -131654,7 +131654,7 @@
         "id": "58a4cdf2-22a1-44e4-a3ef-d289e65ef3fd",
         "date_posted": 1757668636,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757688557,
@@ -131729,11 +131729,11 @@
         "is_visible": false
     },
     {
-        "date_updated": 1757669468,
+        "date_updated": 1759960532,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [
-            "Master's"
+            "Bachelor's"
         ],
         "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-PhD-Intern_R0131049",
         "company_name": "PayPal",
@@ -131749,7 +131749,7 @@
         "id": "06d8b793-bf64-4fa7-b976-c755bf197c18",
         "date_posted": 1757669468,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757669556,
@@ -132069,7 +132069,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1757728881,
+        "date_updated": 1759960501,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [
@@ -132089,7 +132089,7 @@
         "id": "1decf551-33c8-4ca3-8f5e-5274266921e4",
         "date_posted": 1757687056,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757687164,
@@ -137103,7 +137103,7 @@
         "company_name": "Flagship Pioneering",
         "id": "a74deacb-f552-4832-bee9-646e5ccf49f4",
         "title": "AI Residency Program - Material Science - 2026 Cohort",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026",
@@ -137287,7 +137287,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757929343,
+        "date_updated": 1759960083,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [
@@ -137307,7 +137307,7 @@
         "id": "73ed3413-ebf3-49a0-9881-989c591e511d",
         "date_posted": 1757929343,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757929474,
@@ -143556,7 +143556,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758030331,
+        "date_updated": 1759960063,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [
@@ -143576,7 +143576,7 @@
         "id": "25a2e1e9-9ccb-434d-ba64-308bdb6fbb22",
         "date_posted": 1758030331,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -152117,11 +152117,11 @@
         ]
     },
     {
-        "date_updated": 1758300682,
+        "date_updated": 1759960438,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [
-            "Master's"
+            "Bachelor's"
         ],
         "url": "https://focuskpi.applytojob.com/apply/4czYHwfYDf/AI-Engineer-Intern-Remote",
         "company_name": "FocusKPI",
@@ -152137,7 +152137,7 @@
         "id": "e194a15b-c589-4326-aff8-d3a7ed29d303",
         "date_posted": 1758300682,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758300827,
@@ -155605,7 +155605,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758585543,
+        "date_updated": 1759960421,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "degrees": [
@@ -155625,7 +155625,7 @@
         "id": "880c6f8c-83e2-4b2f-b9af-5498a795c5ef",
         "date_posted": 1758585543,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -161605,7 +161605,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758693461,
+        "date_updated": 1759960387,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [
@@ -161625,7 +161625,7 @@
         "id": "579c0c94-0b02-4e8f-9d24-7b19ca6437b5",
         "date_posted": 1758693461,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758693586,
@@ -164597,7 +164597,7 @@
         "company_name": "CAE",
         "id": "aa03c6c6-cb36-424e-bc11-6d8e31eaf207",
         "title": "Junior Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -164662,7 +164662,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758808631,
+        "date_updated": 1759960269,
         "sponsorship": "Other",
         "active": true,
         "degrees": [
@@ -164685,7 +164685,7 @@
         "id": "f8f3ee0c-ddc6-47ca-b54c-d0ef53feb342",
         "date_posted": 1758808631,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758808715,
@@ -165441,7 +165441,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759162090,
+        "date_updated": 1759960177,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [
@@ -165461,7 +165461,7 @@
         "id": "8d856b2b-9ffc-4009-9c7c-9667d0ec17a7",
         "date_posted": 1758869877,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758870458,
@@ -183572,7 +183572,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759741884,
+        "date_updated": 1759960134,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [
@@ -183594,7 +183594,7 @@
         "id": "fc6eb969-6204-46be-93b7-72d0815b6d8a",
         "date_posted": 1759741884,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1759758921,
@@ -188746,7 +188746,7 @@
         "company_name": "Dow Jones",
         "id": "79ee7888-6ed2-4807-b914-fdad2cd0c589",
         "title": "Software Engineering Intern - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
