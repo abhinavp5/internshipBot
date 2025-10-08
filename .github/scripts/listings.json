@@ -89257,7 +89257,7 @@
         "company_name": "Dow Jones",
         "id": "04d5d976-2b70-4fbe-9a91-ec200cd7416e",
         "title": "OPIS Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -94803,7 +94803,7 @@
         "company_name": "US Foods",
         "id": "955f7519-5fa4-4e4d-b2fb-d46bbde172c6",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -116198,7 +116198,7 @@
         "company_name": "Parsons",
         "id": "ad280531-5ecc-4640-8f18-e3afb6a8533e",
         "title": "Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -136647,7 +136647,7 @@
         "company_name": "Lila Sciences",
         "id": "26e50a1b-b088-42b9-b46f-0990381e413d",
         "title": "AI Residency Program - Material Science - 2026 Cohort",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026",
