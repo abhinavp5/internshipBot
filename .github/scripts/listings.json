@@ -696,45 +696,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Rivian",
-        "id": "6f40ff45-966c-40cb-8754-4780e4cdfbb9",
-        "title": "Engineering Intern \u2013 Manufacturing Engineering Co-Op Program - Machine Learning - Summer",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1739205231,
-        "date_posted": 1739205231,
-        "url": "https://careers.rivian.com/jobs/21702?lang=en-us&icims=1",
-        "locations": [
-            "Normal, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Rivian",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "CACI",
-        "id": "5b8b6a7e-f9a3-4e59-91c2-6d5b68912178",
-        "title": "Students \u2013 Summer 2025 Intern Program",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1739204671,
-        "date_posted": 1739204671,
-        "url": "https://caci.wd1.myworkdayjobs.com/External/job/Nationwide/Virginia-Tech-Students---Summer-2025-Intern-Program_307806",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Axiom Zen",
         "id": "ed033102-26d8-4c85-be32-532891ae167d",
         "title": "Frontend Software Engineering Intern",
@@ -189321,5 +189282,32 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1759941633,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/mercury/jobs/5668745004",
+        "company_name": "Mercury",
+        "title": "Backend Engineering Intern",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY",
+            "Portland, OR",
+            "Remote in CAN",
+            "Remote in USA"
+        ],
+        "terms": [
+            "Spring 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "47c1ca97-8993-41f4-b680-3d36abc2fdef",
+        "date_posted": 1759941633,
+        "company_url": "",
+        "is_visible": true
     }
 ]
