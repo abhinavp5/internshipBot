@@ -1084,7 +1084,7 @@
 <td>8d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Electronic-Arts?utm_source=GHList&utm_medium=company">Electronic Arts</a></strong></td>
+<td>↳</td>
 <td>Software Engineer Intern - Recommendation Systems 🎓</td>
 <td>San Carlos, CA</td>
 <td><div align="center"><a href="https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210881?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/61ff7845-edcf-483d-af85-544b1c243014?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -1494,7 +1494,7 @@
 <td>Test and Evaluation Intern - Multiple Teams</td>
 <td>Bluemont, VA</td>
 <td><div align="center"><a href="https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US-WV---Summit-Point/Test-and-Evaluation-Intern---Summer-2026_R172426-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/15d64ada-2bb7-4e10-a2d5-6bffea353786?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>12d</td>
+<td>13d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Marathon-Petroleum?utm_source=GHList&utm_medium=company">Marathon Petroleum</a></strong></td>
@@ -2019,7 +2019,7 @@
 <td>Software Engineering Intern 🇺🇸</td>
 <td>El Segundo, CA</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/siftstack/866b0c5b-3e73-4480-aa34-4c44a42d26b6?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong>Brilliant</strong></td>
@@ -7680,7 +7680,7 @@
 <td>15d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Boston-Properties?utm_source=GHList&utm_medium=company">Boston Properties</a></strong></td>
+<td>↳</td>
 <td>IT Applications Co-Op</td>
 <td>Boston, MA</td>
 <td>🔒</td>
@@ -7747,14 +7747,14 @@
 <td>Software Engineering Intern - Multiple Teams</td>
 <td>Annapolis, MD</td>
 <td>🔒</td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Network Engineering Intern - Multiple Teams</td>
 <td>Annapolis, MD</td>
 <td>🔒</td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/ServiceNow?utm_source=GHList&utm_medium=company">ServiceNow</a></strong></td>
@@ -8496,14 +8496,14 @@
 <td>Cybersecurity Internship</td>
 <td>Minneapolis, MN</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Xcel-Energy?utm_source=GHList&utm_medium=company">Xcel Energy</a></strong></td>
 <td>Operation Technology Technical Intern</td>
 <td>Minneapolis, MN</br>Denver, CO</br>Amarillo, TX</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -17736,7 +17736,7 @@
 <td>15d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Philips?utm_source=GHList&utm_medium=company">Philips</a></strong></td>
+<td>↳</td>
 <td>Co-op – Data Analytics - Ultrasound Regulatory</td>
 <td>Cambridge, MA</br>Wayzata, MN</br>Bothell, WA</td>
 <td>🔒</td>
@@ -19597,7 +19597,7 @@
 <td>Machine Learning Center of Excellence Summer Associate - Quant AI 🎓</td>
 <td>Palo Alto, CA</td>
 <td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210670757?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d10d9338-b908-4748-be6f-fe09263382b1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>12d</td>
+<td>13d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Assured-Guaranty?utm_source=GHList&utm_medium=company">Assured Guaranty</a></strong></td>
@@ -20801,7 +20801,7 @@
 <td>29d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Fidelity?utm_source=GHList&utm_medium=company">Fidelity Investments</a></strong></td>
+<td>↳</td>
 <td>Quantitative Research Intern-Systematic Equity Strategies Team 🎓</td>
 <td>Boston, MA</td>
 <td>🔒</td>
