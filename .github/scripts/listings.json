@@ -62932,7 +62932,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1755421724,
+        "date_updated": 1759958569,
         "url": "https://careers.formlabs.com/job/7165153/apply/?gh_jid=7165153",
         "company_name": "Formlabs",
         "title": "Embedded Software Intern",
@@ -62949,7 +62949,10 @@
         "id": "3e5b85e7-c2de-4493-8f3a-0de770224234",
         "date_posted": 1755421724,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
@@ -93386,7 +93389,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756809678,
+        "date_updated": 1759958544,
         "sponsorship": "Other",
         "active": true,
         "degrees": [
@@ -93406,7 +93409,7 @@
         "id": "a64c5554-b390-47b9-bd3b-a482ca6d7487",
         "date_posted": 1756809678,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758324724,
@@ -155577,7 +155580,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758525725,
+        "date_updated": 1759958873,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [
@@ -155597,7 +155600,7 @@
         "id": "255a1e85-6037-4026-b111-9eef3fc7b45c",
         "date_posted": 1758525725,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758525884,
@@ -161814,7 +161817,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758694282,
+        "date_updated": 1759958830,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [
@@ -161834,7 +161837,7 @@
         "id": "c4d966d8-5ebd-4726-a48c-df7bc8cb7939",
         "date_posted": 1758694282,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -175334,9 +175337,9 @@
         "title": "Digital Technology - Associate Inbound Product Manager Intern - Multiple Teams",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759342278,
+        "date_updated": 1759958622,
         "date_posted": 1759342278,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000084978876",
         "locations": [
@@ -181954,9 +181957,9 @@
         "title": "Research Scientist Intern - Generative AI Digital Characters",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759555112,
+        "date_updated": 1759958356,
         "date_posted": 1759555112,
         "url": "https://www.metacareers.com/jobs/2085498252200262",
         "locations": [
@@ -181966,7 +181969,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -182049,9 +182052,9 @@
         "title": "Intern - Product Manager - Digital Media",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759557461,
+        "date_updated": 1759958371,
         "date_posted": 1759557461,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Austin/XMLNAME-2026-Intern---Product-Manager--ATS-Digital-Media_R161145",
         "locations": [
@@ -182854,9 +182857,9 @@
         "title": "Hardware Engineering Intern - Digital",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759607202,
+        "date_updated": 1759958390,
         "date_posted": 1759607202,
         "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25027135",
         "locations": [
@@ -182866,8 +182869,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -183342,9 +183344,9 @@
         "title": "IC Design Verification Engineer Intern - Hardware Design - Verification",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759635780,
+        "date_updated": 1759958409,
         "date_posted": 1759635780,
         "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kanata/IC-Design-Verification-Engineer--Intern_R-10060038-1",
         "locations": [
@@ -183354,8 +183356,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -183463,9 +183464,9 @@
         "title": "Machine Learning Intern - Robotics - Research",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759648000,
+        "date_updated": 1759958432,
         "date_posted": 1759648000,
         "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/4944726008",
         "locations": [
@@ -183476,8 +183477,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -183490,14 +183490,14 @@
         "terms": [
             "Spring 2026"
         ],
-        "date_updated": 1759648067,
+        "date_updated": 1759958452,
         "date_posted": 1759648067,
         "url": "https://careers.ansys.com/job/Canonsburg-Spring-2026-Intern-Software-Development-Mechanical-(Bachelor's)-PA-15317/1299645500/?ats=successfactors",
         "locations": [
             "Canonsburg, PA"
         ],
         "company_url": "https://simplify.jobs/c/Ansys",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -183621,7 +183621,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759741688,
+        "date_updated": 1759958760,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "degrees": [
@@ -183642,7 +183642,7 @@
         "id": "c56fddf6-006f-41fa-9a94-6b6e94877ac6",
         "date_posted": 1759741688,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1759741794,
@@ -184527,9 +184527,9 @@
         "title": "Embedded Haskell Developer Intern - Electronic Warfare",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759795032,
+        "date_updated": 1759958473,
         "date_posted": 1759795032,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/4829985007",
         "locations": [
@@ -187707,9 +187707,9 @@
         "title": "Intern \u2013 Data Center SSD Firmware",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759906180,
+        "date_updated": 1759958487,
         "date_posted": 1759906180,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Longmont-CO/Intern---Data-Center-SSD-Firmware_JR83584",
         "locations": [
@@ -187969,9 +187969,9 @@
         "title": "Firmware Engineer Intern/Co-op - Research & Development Engineering",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759908077,
+        "date_updated": 1759958529,
         "date_posted": 1759908077,
         "url": "https://eaton.eightfold.ai/careers/job/687233142288",
         "locations": [
@@ -187981,8 +187981,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
