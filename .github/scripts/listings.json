@@ -103743,7 +103743,7 @@
         "company_name": "Vanguard",
         "id": "2e9f365d-6cdd-46bf-8577-bff7e1b6956b",
         "title": "College to Corporate Internship - Data Scientist",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -127955,7 +127955,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "318f1334-2a46-47a1-a51c-9bccf47c9f6d",
         "title": "Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2025",
@@ -128859,7 +128859,7 @@
         "company_name": "Shure",
         "id": "59028ac5-754c-4650-b9ac-b6386dbae5eb",
         "title": "Application System Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -174390,7 +174390,7 @@
         "company_name": "Kinaxis",
         "id": "8da3b042-2573-4376-96b5-2248edb86812",
         "title": "Co-op/Intern Developer - Core Algorithms and Optimization",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -185013,7 +185013,7 @@
         "company_name": "Steel Dynamics",
         "id": "7e7de3ad-d8ce-4a02-b764-9b37621413fc",
         "title": "Software Development Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -189264,6 +189264,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Exact Sciences",
+        "id": "4153adb0-964d-41bc-b2bc-0817d9fa59f4",
+        "title": "Commercial Effectiveness Analytics Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759932967,
+        "date_posted": 1759932967,
+        "url": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Commercial-Effectiveness-Analytics---Intern_R25-11198",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Exact-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
