@@ -524,102 +524,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Jones Lang LaSalle (JLL)",
-        "id": "bed79f65-aa6f-4359-856c-aed9010a7e80",
-        "title": "Data Engineering Summer 2025 Internship",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1739221960,
-        "date_posted": 1739221960,
-        "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Data-Engineering-Summer-2025-Internship---Chicago--IL_REQ409091-1",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Jones-Lang-LaSalle",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Resmed",
-        "id": "80537344-d28a-4954-b8ad-e47a1d29947f",
-        "title": "Marketing Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1739222921,
-        "date_posted": 1739222921,
-        "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Marketing-Analytics-Intern_JR_039193",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/f1e2116e-f25f-44f8-9667-7351ce6ceb3f",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Booz Allen",
-        "id": "30590691-9b39-4bd5-a2fe-5ad873c88c86",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1739222223,
-        "date_posted": 1739222223,
-        "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/Software-Engineer-Intern_R0214596",
-        "locations": [
-            "Rome, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Booz-Allen",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Amazon",
-        "id": "effd0761-1b05-4b51-9740-829877c49398",
-        "title": "BIE Co-op Fall Internship",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1739222197,
-        "date_posted": 1739222197,
-        "url": "https://amazon.jobs/en/jobs/2897323/bie-co-op-fall-internship-2025-us",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Motorola",
-        "id": "268c2f13-d932-4e49-b999-c1e9ce3da40a",
-        "title": "Software Developer \u2013 Co-Op - Back-end",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1739222193,
-        "date_posted": 1739222193,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Software-Developer--Back-end--Co-Op_R53795",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Axiom Zen",
         "id": "ed033102-26d8-4c85-be32-532891ae167d",
         "title": "Frontend Software Engineering Intern",
@@ -76257,7 +76161,7 @@
         ]
     },
     {
-        "date_updated": 1755868137,
+        "date_updated": 1759960000,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [
@@ -76280,7 +76184,7 @@
         "id": "bde53f7a-e4cd-4b45-80c7-7a7c07dbbd3a",
         "date_posted": 1755868137,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755868224,
@@ -87891,7 +87795,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1756498767,
+        "date_updated": 1759959895,
         "sponsorship": "Other",
         "active": true,
         "degrees": [
@@ -87911,7 +87815,7 @@
         "id": "b5a9dcdb-089d-46fc-8111-77f74f2a7141",
         "date_posted": 1756498767,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756499082,
@@ -88060,7 +87964,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756500119,
+        "date_updated": 1759959877,
         "sponsorship": "Other",
         "active": true,
         "degrees": [
@@ -88080,7 +87984,7 @@
         "id": "d9e0b11e-52b9-4b0a-bee3-d06c4ef611d0",
         "date_posted": 1756500119,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -132142,7 +132046,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757686963,
+        "date_updated": 1759959674,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [
@@ -132162,7 +132066,7 @@
         "id": "9ace0799-8b25-44ac-8a21-8f04a7625a4e",
         "date_posted": 1757686963,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757728881,
@@ -137475,7 +137379,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1757929852,
+        "date_updated": 1759959619,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [
@@ -137495,7 +137399,7 @@
         "id": "d76ed01f-12d7-43df-9935-6a03ce85136f",
         "date_posted": 1757929852,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757929954,
@@ -137521,7 +137425,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757930284,
+        "date_updated": 1759959604,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [
@@ -137541,7 +137445,7 @@
         "id": "303b1f0e-b6ae-4b14-9e35-8d9ac4f41ac4",
         "date_posted": 1757930284,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758243731,
@@ -143283,7 +143187,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758016051,
+        "date_updated": 1759959561,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [
@@ -143303,10 +143207,10 @@
         "id": "a2621d6e-6da3-45df-aa2c-b63ca4b962ed",
         "date_posted": 1758016051,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
-        "date_updated": 1758016144,
+        "date_updated": 1759959547,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [
@@ -143326,7 +143230,7 @@
         "id": "9e4f7ab3-d6bf-4309-be16-3122befd5ded",
         "date_posted": 1758016144,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758215437,
@@ -143603,7 +143507,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758018030,
+        "date_updated": 1759959526,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [
@@ -143623,7 +143527,7 @@
         "id": "f83fd0e9-4701-47a6-bc1c-eb358d5b7fa2",
         "date_posted": 1758018030,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758018182,
@@ -154935,7 +154839,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1758521852,
+        "date_updated": 1759959473,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "degrees": [
@@ -154955,7 +154859,7 @@
         "id": "140373c8-1940-4de6-a863-b5fe536809e1",
         "date_posted": 1758521852,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758521988,
@@ -155079,7 +154983,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1758523142,
+        "date_updated": 1759959452,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [
@@ -155099,7 +155003,7 @@
         "id": "befaedee-adb2-42a8-9528-2b501412b5a6",
         "date_posted": 1758523142,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1759281898,
@@ -155240,11 +155144,11 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758524003,
+        "date_updated": 1759959427,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [
-            "Master's"
+            "Bachelor's"
         ],
         "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210882",
         "company_name": "Electronic Arts",
@@ -155260,7 +155164,7 @@
         "id": "2579b023-cbec-4c32-a02b-b8623bd0d653",
         "date_posted": 1758524003,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1759281916,
