@@ -130517,7 +130517,7 @@
         "company_name": "RoviSys",
         "id": "d7e5e1b2-17a9-4450-b6a8-a0afe51426eb",
         "title": "Co-op \u2013 Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -178544,10 +178544,9 @@
         "title": "Data Science Intern - Data Science",
         "active": true,
         "terms": [
-            "Winter 2025",
-            "Spring 2026"
+            "Summer 2026"
         ],
-        "date_updated": 1759464500,
+        "date_updated": 1759914648,
         "date_posted": 1759464500,
         "url": "https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/5658261004",
         "locations": [
@@ -178557,8 +178556,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's",
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -181924,7 +181922,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759913611,
+        "date_updated": 1759914631,
         "date_posted": 1759549954,
         "url": "https://iko.wd3.myworkdayjobs.com/iko_careers/job/Mississauga-ON/BI-Developer-Co-Op_REQ-11719",
         "locations": [
@@ -181945,9 +181943,9 @@
         "title": "Co-op \u2013 Software Engineering - Multiple Teams",
         "active": true,
         "terms": [
-            "Winter 2026"
+            "Summer 2026"
         ],
-        "date_updated": 1759551291,
+        "date_updated": 1759914532,
         "date_posted": 1759551291,
         "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US/Co-op---Software-Engineering---Cambridge--MA_562525",
         "locations": [
@@ -181957,8 +181955,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -183309,9 +183306,9 @@
         "title": "Data Analytics Intern - Data Engineering - Business Intelligence",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759616127,
+        "date_updated": 1759913999,
         "date_posted": 1759616127,
         "url": "https://lmcu.wd5.myworkdayjobs.com/lmcucareersite/job/Grand-Rapids-MI/Data-Analytics-Intern_REQ-2025-6054",
         "locations": [
@@ -183321,8 +183318,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -184078,9 +184074,9 @@
         "title": "Analytics Intern - eCommerce Team",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759775693,
+        "date_updated": 1759913912,
         "date_posted": 1759775693,
         "url": "https://levistraussandco.wd5.myworkdayjobs.com/external/job/London-United-Kingdom/Analytics-Intern_R-0142783",
         "locations": [
@@ -184903,9 +184899,9 @@
         "title": "AI Engineer Intern - ML & Insights",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759796617,
+        "date_updated": 1759913895,
         "date_posted": 1759796617,
         "url": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/AI-Engineer-Intern---ML---Insights_R25-10991",
         "locations": [
@@ -184915,8 +184911,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's",
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -185184,9 +185179,9 @@
         "title": "Research Scientist Intern - Computer Use Agents",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759800087,
+        "date_updated": 1759913880,
         "date_posted": 1759800087,
         "url": "https://www.metacareers.com/jobs/833442005836796",
         "locations": [
@@ -185197,7 +185192,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Master's"
         ]
     },
     {
@@ -186495,9 +186490,9 @@
         "title": "Applied Science Intern - Machine Learning - Natural Language Processing",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759846989,
+        "date_updated": 1759913826,
         "date_posted": 1759846989,
         "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/GBR-London-5-Canada-Square/Applied-Science-Intern_JREQ195013-1",
         "locations": [
@@ -186507,8 +186502,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's",
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -187037,9 +187031,9 @@
         "title": "Machine Learning Intern - Multiple Teams",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759905229,
+        "date_updated": 1759913681,
         "date_posted": 1759905229,
         "url": "https://job-boards.eu.greenhouse.io/speechmatics/jobs/4593513101",
         "locations": [
@@ -187084,9 +187078,9 @@
         "title": "Research Scientist Intern - Multiple Teams",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759905068,
+        "date_updated": 1759913753,
         "date_posted": 1759905068,
         "url": "https://www.metacareers.com/jobs/1490788172120101",
         "locations": [
@@ -187096,7 +187090,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Master's"
         ]
     },
     {
@@ -187176,9 +187170,9 @@
         "title": "Research Scientist Intern - AI Alignment",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759905079,
+        "date_updated": 1759913739,
         "date_posted": 1759905079,
         "url": "https://www.metacareers.com/jobs/1782902493113620",
         "locations": [
@@ -187192,7 +187186,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Master's"
         ]
     },
     {
@@ -187226,9 +187220,9 @@
         "title": "Machine Learning Intern - Multiple Teams",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759905229,
+        "date_updated": 1759913722,
         "date_posted": 1759905229,
         "url": "https://job-boards.eu.greenhouse.io/speechmatics/jobs/4593299101",
         "locations": [
@@ -187295,9 +187289,9 @@
         "title": "Research Scientist Intern - AI Core Machine Learning",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759905050,
+        "date_updated": 1759914616,
         "date_posted": 1759905050,
         "url": "https://www.metacareers.com/jobs/4419698284933008",
         "locations": [
@@ -187307,7 +187301,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -187529,9 +187523,9 @@
         "title": "Intern \u2013 DRAM Quality Data Analytics Engineer",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759906172,
+        "date_updated": 1759913666,
         "date_posted": 1759906172,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Quality-Data-Analytics-Engineer_JR82845",
         "locations": [
@@ -187541,9 +187535,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -188866,6 +188858,125 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Adobe",
+        "id": "70e4b4d1-1d74-47e9-b48d-30e808bcebbd",
+        "title": "Intern - Research Scientist",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759913919,
+        "date_posted": 1759913919,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/XMLNAME-2026-Intern---Research-Scientist_R160881",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Caterpillar Inc.",
+        "id": "c684d491-c9e3-4996-8809-25c04ddba81f",
+        "title": "Software Designer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1759913797,
+        "date_posted": 1759913797,
+        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Laval-Quebec/Software-Designer-Intern---Stagiaire-en-conception-de-logiciels_R0000327957",
+        "locations": [
+            "Laval, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Exact Sciences",
+        "id": "eac7f037-8236-4c62-b656-2d7a2c4f5edc",
+        "title": "Commercial Effectiveness & Analytics Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759913649,
+        "date_posted": 1759913649,
+        "url": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Commercial-Effectiveness---Analytics-Intern--Summer-2026-_R25-10955",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Exact-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Exact Sciences",
+        "id": "27619090-3513-4b6c-b99c-6fc3b1d9eab0",
+        "title": "Product Management Intern - Screening",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759913636,
+        "date_posted": 1759913636,
+        "url": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Product-Management-Intern--Screening----Summer-2026_R25-10936",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Exact-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CME Group",
+        "id": "27472159-d07b-4006-b7fd-a3dd20f2af7c",
+        "title": "AI Analyst - Placement Year Internship - AI - Internship",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759913406,
+        "date_posted": 1759913406,
+        "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Belfast---Millennium-House/AI-Analyst---Placement-year-internship_33171",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/CME-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
