@@ -716,25 +716,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Mistplay",
-        "id": "3cd98c10-e271-419d-ab0d-604da8036ed6",
-        "title": "Stagiaire en science des donn\u00e9es \u2013 Data Scientist Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1739204442,
-        "date_posted": 1739204442,
-        "url": "https://jobs.lever.co/mistplay/b0611efc-1ccd-4b83-9185-98486e535da2/apply",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Mistplay",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "CACI",
         "id": "5b8b6a7e-f9a3-4e59-91c2-6d5b68912178",
         "title": "Students \u2013 Summer 2025 Intern Program",
@@ -749,25 +730,6 @@
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "McKesson",
-        "id": "32c5ebb3-ff96-4447-8f34-be8e21eab72e",
-        "title": "Covermymeds \u2013 Technology Intern - CMM",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1739204395,
-        "date_posted": 1739204395,
-        "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-OH-Columbus/CoverMyMeds--CMM--Technology-Intern---Summer-2025_JR0117196",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/McKesson",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -189335,6 +189297,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dow Jones",
+        "id": "0a865d5d-360f-44d8-a3fd-24dabb330255",
+        "title": "Enterprise Application Intern - Technology",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759938469,
+        "date_posted": 1759938469,
+        "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2026-Internship---SAP-Intern_Job_Req_49345",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Dow-Jones",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
