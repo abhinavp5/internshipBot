@@ -128316,7 +128316,7 @@
         "company_name": "RoviSys",
         "id": "a270961f-eaa0-4f38-a325-1a3d02a9cb9d",
         "title": "Co-op \u2013 Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -129382,7 +129382,7 @@
         "company_name": "RoviSys",
         "id": "c02effef-126e-40dc-b060-c0453b48a0bb",
         "title": "Co-op \u2013 Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -131602,7 +131602,7 @@
         "company_name": "Quanta Services",
         "id": "160d1f7f-a969-4416-8aff-56a07e419e95",
         "title": "Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
