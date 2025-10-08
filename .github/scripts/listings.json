@@ -125378,7 +125378,7 @@
         "company_name": "W.R. Berkley",
         "id": "8d7fa2d2-c2cd-496c-a36a-79fb2244cae4",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -126642,7 +126642,7 @@
         "company_name": "W.R. Berkley",
         "id": "772e84bd-7eb3-4373-b29b-8fad617ae11c",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -128684,7 +128684,7 @@
         "company_name": "Shure",
         "id": "fef5d3f3-b20a-47d1-8a1c-8325471900e1",
         "title": "Embedded Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -131852,7 +131852,7 @@
         "company_name": "W.R. Berkley",
         "id": "183873ef-c292-4e5e-816e-4777686fefc7",
         "title": "Quantitative Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -157542,7 +157542,7 @@
         "company_name": "W.R. Berkley",
         "id": "8fe4b999-d898-440c-ae7e-a1741bef10fb",
         "title": "Co-Op \u2013 Enterprise Architecture",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -162773,7 +162773,7 @@
         "company_name": "Sharp Electronics",
         "id": "ce2a2737-ce05-48c1-adaa-ac72944101e0",
         "title": "AI Process Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2026"
@@ -172149,7 +172149,7 @@
         "company_name": "Wipfli",
         "id": "a9b781c6-35ad-44fa-8971-928ff8a4c9b4",
         "title": "Product Implementation Intern/Co-op - IP Product Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -175505,7 +175505,7 @@
         "company_name": "National Basketball Association",
         "id": "d9f72de8-b3f7-4a27-b79a-15a81299437a",
         "title": "Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -181543,7 +181543,7 @@
         "company_name": "Hexagon AB ",
         "id": "f1edf3be-71e4-4a83-a5f7-f6091e5f2c97",
         "title": "Software Engineering Intern - Software Infrastructure Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -181589,7 +181589,7 @@
         "company_name": "Hexagon AB ",
         "id": "51e4519f-4c0e-46dc-8b3d-edffce016cb8",
         "title": "Agriculture Engineering Intern - Agriculture Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -184217,7 +184217,7 @@
         "company_name": "Mercury",
         "id": "859e026f-9164-48c9-9458-46745abb12d6",
         "title": "Full-stack Engineering Intern - Spring 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -187713,6 +187713,253 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CareBridge",
+        "id": "c25afc6d-af9f-4763-bb53-540e8e92c865",
+        "title": "Engineering Intern - Summer 2026 - Digital Platforms and AI Organization",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759907043,
+        "date_posted": 1759907043,
+        "url": "https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Engineering-Intern--Summer-2026_JR168988-1",
+        "locations": [
+            "Indianapolis, IN",
+            "Richmond, VA",
+            "Chicago, IL",
+            "Mason, OH",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/CareBridge",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CareBridge",
+        "id": "4c1c8127-0151-4234-908f-475fe9674e65",
+        "title": "Data Analytics Intern - Digital Platforms and AI Organization",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759907020,
+        "date_posted": 1759907020,
+        "url": "https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Data-Analytics-Intern--Summer-2026_JR168818-1",
+        "locations": [
+            "Indianapolis, IN",
+            "Richmond, VA",
+            "Chicago, IL",
+            "Mason, OH",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/CareBridge",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Moog ",
+        "id": "d28f901b-cafe-43b0-a3c2-92fb849acd50",
+        "title": "Intern \u2013 Artificial Intelligence",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1759906795,
+        "date_posted": 1759906795,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Artificial-Intelligence_R-25-14208",
+        "locations": [
+            "Boston, NY",
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Moog",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Highmark Health",
+        "id": "4ad3cc3a-0382-40e2-9641-93867ef93aab",
+        "title": "Evaluation Analytics Graduate Intern - Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759906653,
+        "date_posted": 1759906653,
+        "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2026-Evaluation-Analytics-Graduate-Intern_J270014-1",
+        "locations": [
+            "New Mexico",
+            "Washington",
+            "Kansas",
+            "Pennsylvania",
+            "North Dakota",
+            "Oregon",
+            "Delaware",
+            "Iowa",
+            "California",
+            "Washington, DC",
+            "Vermont",
+            "Wyoming",
+            "Texas",
+            "Montana",
+            "Jackson Township, NJ",
+            "Florida",
+            "Waterbury, CT",
+            "Nevada",
+            "South Carolina",
+            "South Dakota",
+            "Georgia",
+            "Arizona",
+            "Concord, NH",
+            "Mississippi",
+            "Tennessee",
+            "Virginia",
+            "Arkansas",
+            "Minnesota",
+            "Colorado",
+            "Nebraska",
+            "Rhode Island",
+            "Utah",
+            "Kentucky",
+            "West Virginia",
+            "NYC",
+            "Maryland",
+            "Hawaii",
+            "Wisconsin",
+            "Maine",
+            "Massachusetts",
+            "North Carolina",
+            "Oklahoma",
+            "Missouri",
+            "Ohio",
+            "Indiana",
+            "Louisiana",
+            "Alaska",
+            "Michigan",
+            "Illinois",
+            "Alabama",
+            "Idaho"
+        ],
+        "company_url": "https://simplify.jobs/c/Highmark-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Highmark Health",
+        "id": "b9224064-7602-44f8-9c9b-da094f196f5a",
+        "title": "Associate Software Engineer Intern - Case and Disease Management",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759906615,
+        "date_posted": 1759906615,
+        "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2026-Associate-Software-Engineer-Undergraduate-Intern_J270354",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Highmark-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ada",
+        "id": "4ca4a70b-365b-419e-b88f-89bc93375eb9",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1759906311,
+        "date_posted": 1759906311,
+        "url": "https://job-boards.greenhouse.io/ada18/jobs/4934188007",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "f0c29fd0-1ea9-4f12-add1-a79917d7db9b",
+        "title": "Product Test Development Engineer Intern - Test Solutions Engineering",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759906182,
+        "date_posted": 1759906182,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern--Product-Test-Development-Engineer_JR83701",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "7a0b1ba2-8483-405e-8b6b-5bd69a12c918",
+        "title": "Intern \u2013 Data Center SSD Firmware",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759906180,
+        "date_posted": 1759906180,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Longmont-CO/Intern---Data-Center-SSD-Firmware_JR83584",
+        "locations": [
+            "Longmont, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
