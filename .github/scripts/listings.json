@@ -524,25 +524,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Nissan",
-        "id": "b172eee1-3f49-47a5-9b0e-004fe19148cb",
-        "title": "Compiler Development Research Intern-Summer 2025",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1739221661,
-        "date_posted": 1739221661,
-        "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Compiler-Development-Research-Intern--Summer-2025--Silicon-Valley--CA_R00177561",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nissan",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Jones Lang LaSalle (JLL)",
         "id": "bed79f65-aa6f-4359-856c-aed9010a7e80",
         "title": "Data Engineering Summer 2025 Internship",
@@ -557,44 +538,6 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Jones-Lang-LaSalle",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Cadence Design Systems",
-        "id": "74af2b82-6a00-4156-a39c-f8ce0aecfea4",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1739221595,
-        "date_posted": 1739221595,
-        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE-10/Software-Engineering-Intern_R48987-1",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Vimeo",
-        "id": "2bbba488-365d-4c0f-9049-cdc33bba7eb8",
-        "title": "Frontend Platform Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1739221304,
-        "date_posted": 1739221304,
-        "url": "https://job-boards.greenhouse.io/vimeo/jobs/6608281",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Vimeo",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -156187,10 +156130,9 @@
         "title": "Firmware Engineer Intern - Multiple Teams",
         "active": true,
         "terms": [
-            "Winter 2027",
-            "Spring 2027"
+            "Summer 2026"
         ],
-        "date_updated": 1758655426,
+        "date_updated": 1759957903,
         "date_posted": 1758655426,
         "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern---Bachelor-s-Degree_2502359-1",
         "locations": [
@@ -156235,9 +156177,9 @@
         "title": "Intern AI Data Analyst - Registry Build Team - AI Model Validation",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758654642,
+        "date_updated": 1759957881,
         "date_posted": 1758654642,
         "url": "https://www.carta.healthcare/careers/job/5649454004?gh_jid=5649454004",
         "locations": [
@@ -156662,9 +156604,9 @@
         "title": "SoC Digital Design Engineer Intern - Pey",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758612893,
+        "date_updated": 1759957864,
         "date_posted": 1758612893,
         "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4912811007",
         "locations": [
@@ -156757,18 +156699,17 @@
         "terms": [
             "Spring 2026"
         ],
-        "date_updated": 1758609307,
+        "date_updated": 1759957852,
         "date_posted": 1758609307,
         "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/EM-Business-Transformation-COOP-Spring-2026_R-034820",
         "locations": [
             "New Hope, PA"
         ],
         "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -156875,9 +156816,9 @@
         "title": "Firmware Engineering Intern - Engineering",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758607133,
+        "date_updated": 1759957824,
         "date_posted": 1758607133,
         "url": "https://eaton.eightfold.ai/careers/job/687232700305",
         "locations": [
@@ -156887,8 +156828,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -157194,18 +157134,17 @@
         "terms": [
             "Winter 2025"
         ],
-        "date_updated": 1758603908,
+        "date_updated": 1759957810,
         "date_posted": 1758603908,
         "url": "https://eaton.eightfold.ai/careers/job/687232831648",
         "locations": [
             "Coraopolis, PA"
         ],
         "company_url": "https://simplify.jobs/c/Eaton-Corporation",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -158205,10 +158144,9 @@
         "title": "Embedded Software Engineer Intern",
         "active": true,
         "terms": [
-            "Winter 2026",
-            "Spring 2026"
+            "Summer 2026"
         ],
-        "date_updated": 1758597637,
+        "date_updated": 1759957782,
         "date_posted": 1758597637,
         "url": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20251423",
         "locations": [
@@ -158323,9 +158261,9 @@
         "title": "Firmware Engineering Intern/Co-op - Firmware Engineering",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758595994,
+        "date_updated": 1759957766,
         "date_posted": 1758595994,
         "url": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Firmware-Engineering-Co-op-Internship_R003763",
         "locations": [
@@ -167801,9 +167739,9 @@
         "title": "Firmware Engineer Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758963264,
+        "date_updated": 1759957938,
         "date_posted": 1758963264,
         "url": "https://jobs.keysight.com/jobs/49742?lang=en-us&icims=1",
         "locations": [
@@ -167813,9 +167751,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -168046,9 +167982,9 @@
         "title": "Hardware Engineer PhD Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758967174,
+        "date_updated": 1759957987,
         "date_posted": 1758967174,
         "url": "https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Engineer-PhD-Intern-United-States/1448175",
         "locations": [
@@ -168058,7 +167994,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -168069,9 +168005,9 @@
         "title": "Hardware Engineer 1 \u2013 Co-op",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758967180,
+        "date_updated": 1759958008,
         "date_posted": 1758967180,
         "url": "https://jobs.cisco.com/jobs/ProjectDetail/Hardware-Engineer-I-Co-op-United-States/1449082",
         "locations": [
@@ -168692,14 +168628,14 @@
         "terms": [
             "Spring 2026"
         ],
-        "date_updated": 1758981588,
+        "date_updated": 1759958047,
         "date_posted": 1758981588,
         "url": "https://siemens.eightfold.ai/careers/job/563156131893748",
         "locations": [
             "Creve Coeur, MO"
         ],
         "company_url": "https://simplify.jobs/c/Siemens",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -168784,7 +168720,7 @@
         "terms": [
             "Spring 2026"
         ],
-        "date_updated": 1758981598,
+        "date_updated": 1759958066,
         "date_posted": 1758981598,
         "url": "https://siemens.eightfold.ai/careers/job/563156131874456",
         "locations": [
@@ -168793,7 +168729,7 @@
             "Cincinnati, OH"
         ],
         "company_url": "https://simplify.jobs/c/Siemens",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -168950,18 +168886,17 @@
         "terms": [
             "Spring 2026"
         ],
-        "date_updated": 1758981571,
+        "date_updated": 1759958035,
         "date_posted": 1758981571,
         "url": "https://siemens.eightfold.ai/careers/job/563156132023276",
         "locations": [
             "Creve Coeur, MO"
         ],
         "company_url": "https://simplify.jobs/c/Siemens",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -172576,9 +172511,9 @@
         "title": "Intern - Test Engineering - Multiple Teams",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759284795,
+        "date_updated": 1759958132,
         "date_posted": 1759284795,
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/United-States-of-America-Chelmsford/Intern--Test-Engineering---Chelmsford_R25-8009-1",
         "locations": [
@@ -172588,8 +172523,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -177800,9 +177734,9 @@
         "title": "Manufacturing Software Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759462323,
+        "date_updated": 1759958218,
         "date_posted": 1759462323,
         "url": "https://envista.wd1.myworkdayjobs.com/en-US/envistacareers/job/United-States-of-America--California--Pomona/Manufacturing-Software-Intern_R5024205",
         "locations": [
@@ -178291,9 +178225,9 @@
         "title": "Embedded Software Developer Intern - Systems Data Storage",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759463243,
+        "date_updated": 1759958269,
         "date_posted": 1759463243,
         "url": "https://seagatecareers.com/job/Longmont-Embedded-Software-Developer-Summer-Intern-CO-80501/1331341400/?ats=successfactors",
         "locations": [
@@ -178303,8 +178237,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -178858,9 +178791,9 @@
         "title": "Digital Manufacturing Intern - Digital Manufacturing",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759470405,
+        "date_updated": 1759958284,
         "date_posted": 1759470405,
         "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Princeton-IL/Digital-Manufacturing-Intern_JR34017-1",
         "locations": [
@@ -180411,9 +180344,9 @@
         "title": "Embedded Software Engineering - College Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759512488,
+        "date_updated": 1759958302,
         "date_posted": 1759512488,
         "url": "https://jobs.jobvite.com/windriver/job/oKThxfwb?nl=1&nl=1&fr=false",
         "locations": [
@@ -180425,8 +180358,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -181952,10 +181884,9 @@
         "title": "Firmware Engineer Intern - Multiple Teams",
         "active": true,
         "terms": [
-            "Winter 2026",
-            "Spring 2027"
+            "Summer 2026"
         ],
-        "date_updated": 1759552975,
+        "date_updated": 1759958334,
         "date_posted": 1759552975,
         "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern---Master-s-Degree_2502463",
         "locations": [
@@ -181965,8 +181896,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -181977,10 +181907,9 @@
         "title": "Firmware Engineer Intern - Bachelor's Degree",
         "active": true,
         "terms": [
-            "Winter 2026",
-            "Spring 2027"
+            "Summer 2026"
         ],
-        "date_updated": 1759552971,
+        "date_updated": 1759958320,
         "date_posted": 1759552971,
         "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern---Bachelor-s-Degree_2502355-1",
         "locations": [
@@ -184245,9 +184174,9 @@
         "title": "Data Analyst - Forecast Performance & Competitive Insights",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759791287,
+        "date_updated": 1759958196,
         "date_posted": 1759456915,
         "url": "https://job-boards.greenhouse.io/accuweather/jobs/7295359",
         "locations": [
@@ -188066,7 +187995,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759908028,
+        "date_updated": 1759956517,
         "date_posted": 1759908028,
         "url": "https://jobs.jobvite.com/idtus/job/oFAfyfwM?nl=1&nl=1&fr=false",
         "locations": [
@@ -188074,11 +188003,10 @@
             "Arlington, VA"
         ],
         "company_url": "https://simplify.jobs/c/Innovative-Defense-Technologies",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
