@@ -74350,18 +74350,17 @@
             "Winter 2026",
             "Spring 2026"
         ],
-        "date_updated": 1755740919,
+        "date_updated": 1759948582,
         "date_posted": 1755740919,
         "url": "https://careers.skyworksinc.com/job/Irvine-Product-Engineering-Co-Op-(WinterSpring-2026)-CA-92602/1318899800/?ats=successfactors",
         "locations": [
             "Irvine, CA"
         ],
         "company_url": "https://simplify.jobs/c/Skyworks",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -147176,7 +147175,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758124895,
+        "date_updated": 1759949028,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [
@@ -147196,7 +147195,7 @@
         "id": "98451733-18f7-44aa-b622-903df1855529",
         "date_posted": 1758104540,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758125104,
@@ -181704,14 +181703,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759548137,
+        "date_updated": 1759948657,
         "date_posted": 1759548137,
         "url": "https://jobs.mcdonalds.com/job/Chicago-2026-Global-Technology-Intern-Software-Engineer-IL-60607/1331830100/?ats=successfactors",
         "locations": [
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/McDonald",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -181727,14 +181726,14 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1759548147,
+        "date_updated": 1759948634,
         "date_posted": 1759548147,
         "url": "https://jobs.mcdonalds.com/job/Chicago-2026-Global-Technology-Intern-Data-IL-60607/1331815900/?ats=successfactors",
         "locations": [
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/McDonald",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
