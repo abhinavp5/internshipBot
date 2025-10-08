@@ -78460,7 +78460,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756113973,
+        "date_updated": 1759953483,
         "sponsorship": "Other",
         "active": true,
         "degrees": [
@@ -78481,7 +78481,7 @@
         "id": "f52291a1-98fd-4a87-838d-74f8200e857f",
         "date_posted": 1756113973,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757728783,
@@ -93577,7 +93577,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1756809896,
+        "date_updated": 1759953443,
         "sponsorship": "Other",
         "active": true,
         "degrees": [
@@ -93597,7 +93597,7 @@
         "id": "caa16e5a-8577-45f5-b754-458e412ddda9",
         "date_posted": 1756809896,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758583804,
@@ -160385,7 +160385,7 @@
         "company_name": "Solidigm",
         "id": "b05d249d-fee9-4d0a-9028-37cbd484a7d1",
         "title": "Graduate Engineering Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -160551,10 +160551,9 @@
         "title": "Research Scientist Intern - AI & Systems Co-Design - Multiple Teams",
         "active": true,
         "terms": [
-            "Fall 2025",
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758673662,
+        "date_updated": 1759954556,
         "date_posted": 1758673662,
         "url": "https://www.metacareers.com/jobs/1131500971757201",
         "locations": [
@@ -160564,7 +160563,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -160880,9 +160879,9 @@
         "title": "Computer Science/Data Engineer Intern - Datacentric Platforms and Architectures Department",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758677671,
+        "date_updated": 1759954152,
         "date_posted": 1758677671,
         "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Computer-Science-Data-Engineer-Undergrad-Intern_R013652",
         "locations": [
@@ -161042,9 +161041,9 @@
         "title": "Intern \u2013 Construction AI Agent Research",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758679620,
+        "date_updated": 1759954235,
         "date_posted": 1758679620,
         "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/Intern--Construction-AI-Agent-Research_25WD91971-1",
         "locations": [
@@ -161055,8 +161054,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's",
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -165954,9 +165952,9 @@
         "title": "Research Scientist Intern - Machine Learning - Character Animation",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758883443,
+        "date_updated": 1759954291,
         "date_posted": 1758883443,
         "url": "https://www.metacareers.com/jobs/791706973548682",
         "locations": [
@@ -165966,7 +165964,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Master's"
         ]
     },
     {
@@ -166455,14 +166453,14 @@
         "terms": [
             "Spring 2026"
         ],
-        "date_updated": 1758902932,
+        "date_updated": 1759953144,
         "date_posted": 1758902932,
         "url": "http://prizepicks.com/position?gh_jid=7382692003",
         "locations": [
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/PrizePicks",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -166761,9 +166759,9 @@
         "title": "AI Automation Intern",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758909554,
+        "date_updated": 1759954312,
         "date_posted": 1758909554,
         "url": "https://jobs.lever.co/sambatv/6c3770c5-46ae-4924-9e16-eb1cdf5a3edb/apply",
         "locations": [
@@ -166773,9 +166771,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -167286,9 +167282,9 @@
         "title": "Data and AI Intern - IT",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758917444,
+        "date_updated": 1759954329,
         "date_posted": 1758917444,
         "url": "https://careers-rambus.icims.com/jobs/22378/job?mobile=true&needsRedirect=false",
         "locations": [
@@ -167298,8 +167294,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -169568,9 +169563,9 @@
         "title": "Artificial Intelligence / Machine Learning Internship - Grid Automation - Renewables Solutions",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1758992687,
+        "date_updated": 1759954353,
         "date_posted": 1758992687,
         "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Stafford/Artificial-Intelligence---Machine-Learning--Internship-_R5010257-3",
         "locations": [
@@ -169580,8 +169575,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -170125,11 +170119,9 @@
         "title": "Research Intern - Systems for Reliable and Scalable AI Agents",
         "active": true,
         "terms": [
-            "Fall 2025",
-            "Winter 2026",
-            "Spring 2026"
+            "Summer 2026"
         ],
-        "date_updated": 1759017289,
+        "date_updated": 1759954589,
         "date_posted": 1759017289,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1884229",
         "locations": [
@@ -170139,7 +170131,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -170502,14 +170494,14 @@
         "terms": [
             "Spring 2026"
         ],
-        "date_updated": 1759157233,
+        "date_updated": 1759953173,
         "date_posted": 1759157233,
         "url": "https://boards.greenhouse.io/flagshippioneeringinc/jobs/8188688002",
         "locations": [
             "Cambridge, MA"
         ],
         "company_url": "https://simplify.jobs/c/FlagshipPioneering",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -170574,14 +170566,14 @@
         "terms": [
             "Spring 2026"
         ],
-        "date_updated": 1759159222,
+        "date_updated": 1759953199,
         "date_posted": 1759159222,
         "url": "https://job-boards.greenhouse.io/lila/jobs/8188690002",
         "locations": [
             "Cambridge, MA"
         ],
         "company_url": "https://simplify.jobs/c/Lila-Sciences",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -170666,9 +170658,9 @@
         "title": "Intern \u2013 Agentic AI Research",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759191601,
+        "date_updated": 1759954608,
         "date_posted": 1759191601,
         "url": "https://careers-cotiviti.icims.com/jobs/16718/job?mobile=true&needsRedirect=false",
         "locations": [
@@ -170678,7 +170670,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -171277,9 +171269,9 @@
         "title": "Computer Vision AI Intern - Multiple Teams",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759227195,
+        "date_updated": 1759954632,
         "date_posted": 1759227195,
         "url": "https://jobs.l3harris.com/job/Tulsa-Computer-Vision-AI-Intern-(Tulsa,-OK)-1-OK-74115/1330380100/?ats=successfactors",
         "locations": [
@@ -171289,9 +171281,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -171493,9 +171483,9 @@
         "title": "AI Scientist Intern - AI Research - Multiple Teams",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759238244,
+        "date_updated": 1759954648,
         "date_posted": 1759238244,
         "url": "https://www.absci.com/careers/roles/?gh_jid=7482142003",
         "locations": [
@@ -171506,8 +171496,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -172081,9 +172070,9 @@
         "title": "Intern - AI Agent and Knowledge Graphs - Research - AI Technologies",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759269399,
+        "date_updated": 1759954665,
         "date_posted": 1759269399,
         "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Boston-MA-USA/Intern--AI-Agent-and-Knowledge-Graphs_25WD91982",
         "locations": [
@@ -172094,8 +172083,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's",
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -172269,9 +172257,9 @@
         "title": "Intern \u2013 Artificial Intelligence Research Scientist",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759273734,
+        "date_updated": 1759954687,
         "date_posted": 1759273734,
         "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7481763003",
         "locations": [
@@ -172281,7 +172269,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -172412,9 +172400,9 @@
         "title": "Research Scientist Intern - Embodied AI",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759275463,
+        "date_updated": 1759954727,
         "date_posted": 1759275463,
         "url": "https://www.metacareers.com/jobs/778113191645498",
         "locations": [
@@ -172425,7 +172413,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -172436,10 +172424,9 @@
         "title": "Research Scientist Intern - Rendering and Reconstruction",
         "active": true,
         "terms": [
-            "Fall 2025",
-            "Winter 2026"
+            "Summer 2026"
         ],
-        "date_updated": 1759275462,
+        "date_updated": 1759954711,
         "date_posted": 1759275462,
         "url": "https://www.metacareers.com/jobs/24700677919619636",
         "locations": [
@@ -172449,7 +172436,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -174059,18 +174046,17 @@
         "terms": [
             "Winter 2025"
         ],
-        "date_updated": 1759306696,
+        "date_updated": 1759954749,
         "date_posted": 1759306696,
         "url": "https://jobs.nexteraenergy.com/job/Houston-Gexa-Analytics-&-Data-Science-Intern-TX-77002/1330518100/?ats=successfactors",
         "locations": [
             "Houston, TX"
         ],
         "company_url": "https://simplify.jobs/c/NextEra-Energy",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -174724,9 +174710,9 @@
         "title": "AI/ML Intern - Bachelor's Degree",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759320639,
+        "date_updated": 1759954777,
         "date_posted": 1759320639,
         "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-ML-Intern---Bachelor-s-Degree_2502807",
         "locations": [
@@ -175364,9 +175350,9 @@
         "title": "Applied Machine Learning Scientist Intern - PhD",
         "active": true,
         "terms": [
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759340631,
+        "date_updated": 1759954790,
         "date_posted": 1759340631,
         "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662",
         "locations": [
@@ -175376,7 +175362,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -175857,9 +175843,9 @@
         "title": "Damage Prevention/Data Analytics Intern - Damage Prevention - Data Analytics",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759353403,
+        "date_updated": 1759954808,
         "date_posted": 1759353403,
         "url": "https://nisource.wd1.myworkdayjobs.com/NiSource/job/Columbus-OH---Arena-District/Damage-Prevention--Data-Analytics-Intern_R00940996",
         "locations": [
@@ -176466,7 +176452,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759413395,
+        "date_updated": 1759954931,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [
@@ -176486,7 +176472,7 @@
         "id": "f53ec775-cd98-472c-8f96-2d48507a4eb4",
         "date_posted": 1759413395,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1759413530,
@@ -182443,7 +182429,7 @@
         "terms": [
             "Winter 2025"
         ],
-        "date_updated": 1759561052,
+        "date_updated": 1759953317,
         "date_posted": 1759561052,
         "url": "https://careers-gdms.icims.com/jobs/68441/job?mobile=true&needsRedirect=false",
         "locations": [
@@ -182452,7 +182438,7 @@
             "Scottsdale, AZ"
         ],
         "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -183183,7 +183169,7 @@
             "Winter 2026",
             "Spring 2026"
         ],
-        "date_updated": 1759613720,
+        "date_updated": 1759953336,
         "date_posted": 1759613720,
         "url": "https://careers.ansys.com/job/Austin-Spring-2026-Intern-Electronics-(Masters),-C++-TX-78746/1293261700/?ats=successfactors",
         "locations": [
@@ -183191,10 +183177,10 @@
             "Canonsburg, PA"
         ],
         "company_url": "https://simplify.jobs/c/Ansys",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -183545,7 +183531,7 @@
             "Winter 2026",
             "Spring 2026"
         ],
-        "date_updated": 1759648084,
+        "date_updated": 1759953357,
         "date_posted": 1759648084,
         "url": "https://careers.ansys.com/job/Vancouver-Spring-2026-Lumerical-Software-Development-Intern-Photonics-(MSPHD)-Brit-V6E2M6/1293263000/?ats=successfactors",
         "locations": [
@@ -183554,11 +183540,10 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Ansys",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
-            "Master's",
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
