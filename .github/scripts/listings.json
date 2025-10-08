@@ -186261,11 +186261,11 @@
         ]
     },
     {
-        "date_updated": 1759842369,
+        "date_updated": 1759946345,
         "sponsorship": "Other",
         "active": true,
         "degrees": [
-            "Bachelor's"
+            "Master's"
         ],
         "url": "https://allisontransmission.wd1.myworkdayjobs.com/en-US/ATI-External/job/Indianapolis-IN/Junior-Data-Engineer---Summer-2026_R006912",
         "company_name": "Allison Transmission",
@@ -186307,7 +186307,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1759843770,
+        "date_updated": 1759946469,
         "sponsorship": "Other",
         "active": true,
         "degrees": [
@@ -186327,7 +186327,7 @@
         "id": "bbbf4b6a-8738-4a81-a951-c23dd35a6227",
         "date_posted": 1759843744,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
