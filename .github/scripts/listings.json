@@ -89789,7 +89789,7 @@
         "company_name": "Dow Jones",
         "id": "b6a26bb6-ce87-42b1-845e-1d7a5ae3c499",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -141544,7 +141544,7 @@
         "company_name": "Audax Group",
         "id": "2b2c787e-3394-4bee-8b68-efce6d51038c",
         "title": "Data Engineer \u2013 Business Solutions Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -189283,6 +189283,53 @@
             "Madison, WI"
         ],
         "company_url": "https://simplify.jobs/c/Exact-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dow Jones",
+        "id": "5da51c90-28a7-44a4-8c63-13a0894cb774",
+        "title": "Data Analyst Intern - Insights and Solutions",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759936662,
+        "date_posted": 1759936662,
+        "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2026-Internship---Data-Analyst_Job_Req_49347",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Dow-Jones",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boston Scientific",
+        "id": "69b64fb8-75c5-4c50-902a-ad9f2cf174e6",
+        "title": "Software Engineering Intern - Development",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1759936870,
+        "date_posted": 1759936870,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602808874202",
+        "locations": [
+            "Roseville, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Scientific",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
