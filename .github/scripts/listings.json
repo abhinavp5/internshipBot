@@ -93858,7 +93858,7 @@
         "company_name": "Oshkosh",
         "id": "518c4a57-578e-47de-bef4-8b41c8418bf5",
         "title": "Engineer Intern - Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -185479,7 +185479,7 @@
         "company_name": "CACI",
         "id": "af0c5536-6c12-45c5-9ee6-05455f95c161",
         "title": "Software Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -189367,6 +189367,29 @@
         "source": "AlmondCroffle",
         "id": "6f10c466-8cfc-495b-baaa-e7abad5f218c",
         "date_posted": 1760019478,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760020106,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/en-US/fme/job/Lawrence-MA-USA/Reciprocity-Embedded-Software-Engineer-Co-op--DSS_R0222635",
+        "company_name": "Fresenius Medical Care",
+        "title": "Reciprocity Embedded Software Engineer Co-op- DSS",
+        "locations": [
+            "locations Lawrence, MA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "4c2e0ee4-6d0c-4865-9476-2f7282436d3f",
+        "date_posted": 1760020106,
         "company_url": "",
         "is_visible": true
     }
