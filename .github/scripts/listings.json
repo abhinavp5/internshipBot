@@ -155,25 +155,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Matroid",
-        "id": "17a25e02-c8ad-4ae5-82a1-907371fc854b",
-        "title": "Software Engineer Intern - Infrastructure",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1739262448,
-        "date_posted": 1739262448,
-        "url": "https://matroid.breezy.hr/p/65f4ecd8a39b/apply",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Matroid",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Axiom Zen",
         "id": "ed033102-26d8-4c85-be32-532891ae167d",
         "title": "Frontend Software Engineering Intern",
@@ -121498,7 +121479,7 @@
         "company_name": "LabCorp",
         "id": "de23b876-b35d-4361-9b93-a3614b35a7c5",
         "title": "Intern \u2013 Enterprise Systems Monitoring",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
