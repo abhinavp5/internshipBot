@@ -60,7 +60,7 @@ def parse_opportunities_from_readme_lines(lines: List[str]) -> List[Dict[str, An
             # Check if this row contains an internship opportunity
             if '<td><strong><a href=' in row_text and 'Apply' in row_text:
                 opportunity = parse_single_opportunity_from_row(row_text)
-                if opportunity:
+                if opportunity and opportunity.get('age') == '0d':
                     opportunities.append(opportunity)
             
             i = j + 1
@@ -91,12 +91,17 @@ def parse_single_opportunity_from_row(row_text: str) -> Dict[str, Any]:
         url_match = re.search(r'<a href="([^"]*)"[^>]*><img[^>]*alt="Apply"', row_text)
         url = url_match.group(1) if url_match else "No link provided"
         
+        # Extract age from the last <td>
+        age_match = re.search(r'<td>(\d+d)</td>\s*</tr>', row_text)
+        age = age_match.group(1) if age_match else "Unknown"
+        
         return {
             'company_name': company,
             'title': role,
             'url': url,
             'locations': [location] if location != "Various" else ['Various'],
-            'terms': ['Summer 2026']  # Assume Summer 2026 for this repo
+            'terms': ['Summer 2026'],  # Assume Summer 2026 for this repo
+            'age': age
         }
     except Exception as e:
         print(f"Error parsing opportunity from row: {e}")
@@ -140,24 +145,26 @@ def format_opportunity(opp: Dict[str, Any]) -> str:
     role = opp.get('title', 'Unknown Role')
     location = ', '.join(opp.get('locations', [])) if isinstance(opp.get('locations'), list) else opp.get('locations', 'Unknown Location')
     application_link = opp.get('url', 'No link provided')
+    age = opp.get('age', 'Unknown')
 
     return f"""🏢 COMPANY: {company}
 💼 ROLE: {role}
 📍 LOCATION: {location}
-🔗 APPLICATION: {application_link}"""
+🔗 APPLICATION: {application_link}
+⏰ AGE: {age}"""
 
 def generate_email_body(new_opportunities: List[Dict[str, Any]]) -> str:
     """Generate the email body content."""
     if not new_opportunities:
         return """📭 NO NEW SUMMER 2026 INTERNSHIPS DETECTED
 
-No new Summer 2026 internship opportunities were found in the latest sync.
+No new Summer 2026 internship opportunities (0d age) were found in the latest sync.
 Check back later for new opportunities!"""
 
     # Header
     email_content = """🚀 NEW SUMMER 2026 INTERNSHIP OPPORTUNITIES DETECTED! 🚀
 
-The following new Summer 2026 internships have been added to the repository:
+The following NEW Summer 2026 internships (just added today - 0d age) have been found:
 
 """
 
@@ -178,7 +185,7 @@ The following new Summer 2026 internships have been added to the repository:
         email_content += "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n"
 
     # Footer
-    email_content += """💡 TIP: Apply early! These Summer 2026 opportunities are fresh and competition is high.
+    email_content += """💡 TIP: Apply early! These Summer 2026 opportunities were just added today (0d age) and competition is high.
 
 Good luck with your applications! 🎯"""
 
@@ -186,7 +193,7 @@ Good luck with your applications! 🎯"""
 
 def main():
     """Main function to process README.md changes and generate email."""
-    print("🔍 Analyzing patch files for new Summer 2026 opportunities...")
+    print("🔍 Analyzing patch files for new Summer 2026 opportunities (0d age only)...")
 
     # Find new Summer 2026 opportunities from patch files
     new_opportunities = find_new_summer_2026_opportunities_from_patches()
@@ -199,21 +206,21 @@ def main():
     with open("email/body.txt", "w", encoding="utf-8") as f:
         f.write(email_body)
 
-    print(f"✅ Found {len(new_opportunities)} new Summer 2026 opportunities")
+    print(f"✅ Found {len(new_opportunities)} new Summer 2026 opportunities (0d age)")
     print("📧 Email body written to email/body.txt")
 
     # Print summary for debugging
     if new_opportunities:
-        print("\n🎯 New Summer 2026 opportunities found:")
+        print("\n🎯 New Summer 2026 opportunities found (0d age):")
         for i, opp in enumerate(new_opportunities[:5], 1):  # Show first 5
             company = opp.get('company_name', 'Unknown')
             role = opp.get('title', 'Unknown')
-            url = opp.get('url', 'No URL')
-            print(f"{i}. {company} - {role} (URL: {url[:50]}...)")
+            age = opp.get('age', 'Unknown')
+            print(f"{i}. {company} - {role} (Age: {age})")
         if len(new_opportunities) > 5:
             print(f"... and {len(new_opportunities) - 5} more")
     else:
-        print("📭 No new Summer 2026 opportunities found in the changes")
+        print("📭 No new Summer 2026 opportunities (0d age) found in the changes")
 
 if __name__ == "__main__":
     main()
