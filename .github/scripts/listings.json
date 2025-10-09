@@ -186049,9 +186049,9 @@
         "title": "Rust Software Engineering Intern - Summer",
         "active": true,
         "terms": [
-            "Summer 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1759867251,
+        "date_updated": 1760018429,
         "date_posted": 1759867251,
         "url": "https://jobs.ashbyhq.com/atomicsemi/12d49f8f-ca71-43d0-84a9-dc3b558454c2/application",
         "locations": [
@@ -189298,6 +189298,75 @@
         "source": "AlmondCroffle",
         "id": "f5658c25-8b17-4487-8a35-065c35856dbb",
         "date_posted": 1760017168,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760017627,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Cambridge-MA/Co-op--Machine-Learning_REQ21752",
+        "company_name": "Biogen",
+        "title": "Co-op, Machine Learning",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "terms": [
+            "Spring 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "89cd31c7-719e-4219-b358-ddaa5c5172f5",
+        "date_posted": 1760017627,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760018947,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers.blizzard.com/global/en/job/BLENGLOBALR025921EXTERNALENGLOBAL/2026-US-Summer-Internships-Tech-Art",
+        "company_name": "Blizzard",
+        "title": "Tech Art",
+        "locations": [
+            "Woodland Hills, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "ecc9d82b-9508-447f-888e-e9d21e23601e",
+        "date_posted": 1760018947,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760019478,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.ashbyhq.com/eightsleep/b6c2e6f6-eadd-4d67-93e9-1426be4f2035",
+        "company_name": "Eight Sleep",
+        "title": "AI/ML Research Internship",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "6f10c466-8cfc-495b-baaa-e7abad5f218c",
+        "date_posted": 1760019478,
         "company_url": "",
         "is_visible": true
     }
