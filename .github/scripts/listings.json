@@ -168189,7 +168189,7 @@
         "company_name": "Siemens",
         "id": "f64f24f9-9964-4a25-bcfe-bb193edf1fbb",
         "title": "Emobility\u00ae Experience Program Internship - Internal Services - Smart Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -168491,7 +168491,7 @@
         "company_name": "Siemens",
         "id": "3ec0a9af-81a4-4973-bd29-69496acf89ce",
         "title": "Data Analysis Intern - Customer Service - Mobility",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -168515,7 +168515,7 @@
         "company_name": "Siemens",
         "id": "37aae546-ba1d-4517-9acc-2363b8c6e824",
         "title": "Software Engineering Internship - Internal Services - Smart Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -168539,7 +168539,7 @@
         "company_name": "Siemens",
         "id": "269553c3-e18b-48a9-81e2-4d5f46f5c610",
         "title": "R&D Data Analytics Intern - Digital Industries",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -168562,7 +168562,7 @@
         "company_name": "Siemens",
         "id": "02a1aad1-eca9-4700-a7bc-495ace306393",
         "title": "Mechanical Data Analyst Intern - Customer Service - Mobility",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -189133,6 +189133,29 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Lumen-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ATPCO",
+        "id": "c3107a42-e633-4d49-9529-4676f85b9d43",
+        "title": "Data Analyst and Reporting Intern - Marketing Analytics",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759975138,
+        "date_posted": 1759975138,
+        "url": "https://jobs.smartrecruiters.com/ATPCO1/744000086392255",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
