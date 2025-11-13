@@ -134,103 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Epicor",
-        "id": "c772e95f-8ffa-458c-8a6a-4ebe2f59341c",
-        "title": "Intern \u2013 Product Developer",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1742339756,
-        "date_posted": 1742339756,
-        "url": "https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/US-Bensalem/Intern--Product-Developer_JR101646",
-        "locations": [
-            "Delanco, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Epicor",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": " PrizePicks",
-        "id": "15be6c6f-615e-497b-9ba9-e6e2dd70bcfe",
-        "title": "Data Science Internship",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1742340591,
-        "date_posted": 1742340591,
-        "url": "http://prizepicks.com/position?gh_jid=6509407003",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/PrizePicks",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Sayari",
-        "id": "68e54300-a6af-436f-9b80-62138de84176",
-        "title": "Machine Learning Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1742340448,
-        "date_posted": 1742340448,
-        "url": "https://jobs.lever.co/sayari/c21c176e-5a1a-4e0d-9a1d-047058787325/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sayari",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Boston Dynamics",
-        "id": "d8a767cb-2fd3-44bd-8d45-daaa0206f3f6",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1742340412,
-        "date_posted": 1742340412,
-        "url": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Software-Engineering-Intern_R1717",
-        "locations": [
-            "Waltham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boston-Dynamics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Adobe",
-        "id": "27aa108c-ba06-443c-83f3-ba5be71fdb88",
-        "title": "2025 Intern - Software Development Engineer",
-        "active": false,
-        "terms": [
-            "Spring 2025",
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1742340909,
-        "date_posted": 1742340909,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2025-Intern---Software-Development-Engineer_R149387",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Uhaul",
         "id": "71f69d3e-84ff-40bc-949d-5b25ab2afd35",
         "title": "Software Development Intern",
@@ -2530,25 +2433,6 @@
             "Massachusetts"
         ],
         "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Epicor",
-        "id": "6d1d8fdc-c44b-454d-95b6-3275092acacf",
-        "title": "Intern \u2013 Data Telemetry Developer",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743017093,
-        "date_posted": 1742339753,
-        "url": "https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/US-Austin-Las-Cimas/Intern---Data-Telemetry-Developer_JR101639",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Epicor",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -245045,6 +244929,48 @@
             "Plantation, FL"
         ],
         "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NBCUniversal",
+        "id": "a1ba9aea-4f15-4174-be16-d2c2a68a9928",
+        "title": "NBC Local Boston Sales & Data Internships - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763076105,
+        "date_posted": 1763076105,
+        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000093536876",
+        "locations": [
+            "Needham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/NBCUniversal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AbbVie",
+        "id": "b6887522-61f3-46ae-bb60-80b649182891",
+        "title": "Biologics Analytical R&D Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763075897,
+        "date_posted": 1763075897,
+        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990010300236",
+        "locations": [
+            "Waukegan, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/AbbVie",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
