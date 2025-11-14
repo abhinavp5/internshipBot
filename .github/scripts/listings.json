@@ -134,25 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Mr. Cooper",
-        "id": "85c91a03-636e-4d17-abfe-dc568e6270d2",
-        "title": "Product Analyst - AI / Machine Learning Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1742413195,
-        "date_posted": 1742413195,
-        "url": "https://nationstar.wd5.myworkdayjobs.com/mrcooper/job/Cypress-Waters---Dallas-TX/XMLNAME-2025-Summer-Intern-Program--Product-Analyst---AI---Machine-Learning-Intern--Onsite-DFW_023682",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/21c673f4-d5e4-401d-aa12-c91bc6aa44fb",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Cognex",
         "id": "46db3eaf-a0a1-49f4-9d20-4f37c18682b9",
         "title": "Software Intern",
@@ -224,44 +205,6 @@
             "Arlington, VA"
         ],
         "company_url": "https://simplify.jobs/c/Americas-Electric-Cooperatives",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Berkshire Grey",
-        "id": "3559208c-8123-4286-b586-49eee06236af",
-        "title": "Software Co-op",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1742414687,
-        "date_posted": 1742414687,
-        "url": "https://berkshiregrey.bamboohr.com/careers/607/",
-        "locations": [
-            "Bedford, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/BerkshireGrey",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Takeda",
-        "id": "80bb23d1-1826-4aeb-89b8-bc1e1f408866",
-        "title": "Summer Internship Program: Digital Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1742414331,
-        "date_posted": 1742414331,
-        "url": "https://takeda.wd3.myworkdayjobs.com/external/job/USA---CA---Thousand-Oaks---Manufacturing/XMLNAME-2025-US-Summer-Internship-Program--Digital-Analyst-Intern_R0139702",
-        "locations": [
-            "Thousand Oaks, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Takeda",
         "is_visible": true,
         "sponsorship": "Other"
     },
