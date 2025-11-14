@@ -37114,7 +37114,7 @@
         "company_name": "TikTok",
         "id": "f16fe696-c66a-4ff7-9014-44631fc69f3b",
         "title": "LLM Operation Intern - Tiktok-Product-Content Ecosystem - 2026 Summer Start - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -54906,7 +54906,7 @@
         "company_name": "Skyworks",
         "id": "c942139a-ce0e-4c8b-ab3b-c4d41458d3d9",
         "title": "AI Engineering Summer/Fall Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -104463,9 +104463,9 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Susquehanna International Group (SIG)",
-        "id": "87fc97ec-ca87-43df-a38a-d186466d89ef",
+        "id": "cc75ebb7-54af-4871-9b94-08788b84063b",
         "title": "Quantitative Systematic Trading Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -105263,7 +105263,7 @@
         "company_name": "W.R. Berkley",
         "id": "772e84bd-7eb3-4373-b29b-8fad617ae11c",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -105553,7 +105553,7 @@
         "company_name": "Meta",
         "id": "24ff9f2f-9a62-464e-b657-79c732ec6424",
         "title": "Research Scientist Intern - Tracking & Sensor Fusion - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -106614,7 +106614,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "318f1334-2a46-47a1-a51c-9bccf47c9f6d",
         "title": "Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2025",
@@ -109103,7 +109103,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ad8b1567-30c9-4093-b10b-395eb58e0e33",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -132236,7 +132236,7 @@
         "company_name": "Meta",
         "id": "d0a6af3b-201a-4ff2-9df6-987f2f2fc42c",
         "title": "Research Scientist Intern - Monetization Computer Vision",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -165758,7 +165758,7 @@
         "company_name": "Electronic Arts",
         "id": "0cc8686e-3a93-427a-afe4-88ddfedfc2d5",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -168186,7 +168186,7 @@
         "company_name": "ATPCO",
         "id": "c3107a42-e633-4d49-9529-4676f85b9d43",
         "title": "Data Analyst and Reporting Intern - Marketing Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -174859,7 +174859,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "5aaea3e0-eb7b-4548-8be4-217d0156b004",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -178466,7 +178466,7 @@
         "company_name": "ATPCO",
         "id": "87ccbe4d-a4d7-41cc-b94c-3d8ff31a9471",
         "title": "Marketing Data Analyst Intern - Spring start Date",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -213293,7 +213293,7 @@
         "company_name": "Meta",
         "id": "bd4520be-f12c-4803-a34d-24f62b07af17",
         "title": "Research Scientist Intern - Core AI - Vision and Multi-Modal",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -220297,7 +220297,7 @@
         "company_name": "Cook Group",
         "id": "1b5d3b69-67e4-479a-9695-419cdbb88228",
         "title": "Information Technology Intern - Artificial Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -221204,7 +221204,7 @@
         "company_name": "Geneva Trading",
         "id": "b2d4c2f6-4ec9-4a42-912b-07002a00ab96",
         "title": "Intern \u2013 Python Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -221267,7 +221267,7 @@
         "company_name": "Meta",
         "id": "002076bb-5a40-43f6-abaa-ca89978f5dc4",
         "title": "Research Scientist Intern - Hearing Science and Auditory Perception - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -222657,7 +222657,7 @@
         "company_name": "American Express",
         "id": "d2069d73-7ed4-4d67-a623-22d46160c07f",
         "title": "Campus Undergraduate Summer Internship Program - 2026 Strategy & Analytics - Credit & Fraud Risk - New York - NY - A756755 - CFR Executive Office - A0021 - CFR - Credit and Fraud Risk - A0021",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -230063,7 +230063,7 @@
         "company_name": "Meta",
         "id": "ce084c78-df6c-41e8-89cd-b85a8c80646f",
         "title": "Research Scientist Intern - Vision-Language and Embodied AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -231039,7 +231039,7 @@
         "company_name": "Adobe",
         "id": "271e8ac4-5918-43dd-84e7-581a5950e52e",
         "title": "2026 AI/ML Intern - Applied Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -238547,7 +238547,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "b3af255e-38d6-400d-b6cc-d53326258b4a",
         "title": "Systems Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -239108,7 +239108,7 @@
         "company_name": "Skyworks",
         "id": "66f90a12-4573-40bb-9b49-669b58be955b",
         "title": "Co-Op Failure Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2025"
@@ -241114,7 +241114,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Visa",
-        "id": "a010f1f2-6a04-4d2b-8281-df27a33235b0",
+        "id": "0ed6cb36-9c49-457e-987a-0bd0bf11e256",
         "title": "Software Engineer Intern",
         "active": true,
         "terms": [
@@ -246447,6 +246447,70 @@
             "Boise, ID"
         ],
         "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Crowdstrike",
+        "id": "d036ea48-fa8a-4d03-b868-0f66d5fea90a",
+        "title": "Intelligence Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1761993093,
+        "date_posted": 1761993093,
+        "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Intelligence-Intern---Summer-2026--Remote-_R25397",
+        "locations": [
+            "Remote in USA",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Crowdstrike",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analog Devices",
+        "id": "61440a58-a098-409f-8f7d-62ecadb48e85",
+        "title": "Digital Design Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1761914111,
+        "date_posted": 1761914111,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R255013",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rural King",
+        "id": "81edcaf8-38f9-485f-abb7-2e28ca905c3f",
+        "title": "Internship - IT - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763121619,
+        "date_posted": 1761874055,
+        "url": "https://careers-ruralking.icims.com/jobs/32744/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Effingham, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rural-King",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
