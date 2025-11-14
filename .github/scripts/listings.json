@@ -73596,7 +73596,7 @@
         "company_name": "Nelnet",
         "id": "e0d6478e-9fda-4aef-be47-1c6212de16ed",
         "title": "Intern Program - Agentic AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -76882,7 +76882,7 @@
         "company_name": "Meta",
         "id": "8beceb4b-130f-4e1a-9d23-1a0e8defcd3f",
         "title": "Research Scientist Intern - Foundation Model Optimization - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -107891,7 +107891,7 @@
         "company_name": "Nelnet",
         "id": "075f70cb-3e54-4789-a1f2-bf772a3198ad",
         "title": "2026 Summer Intern - IT Software Engineer - .Net/Web",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -109971,7 +109971,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "093a24e1-a261-40da-b3d8-5a5108dda9c9",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -119315,7 +119315,7 @@
         "company_name": "Meta",
         "id": "e2e48bac-63bc-4318-9576-1e112d693b8d",
         "title": "Research Scientist Intern - Photorealistic Telepresence - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -141633,7 +141633,7 @@
         "company_name": "Motorola",
         "id": "97f34876-ec79-44b9-977f-244d3852968d",
         "title": "Software Development Intern - RF Site Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -156722,7 +156722,7 @@
         "company_name": "Waymo",
         "id": "7a6e6425-2f22-4432-9726-29f8519eb39d",
         "title": "Intern - Research - Simulation and Planning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -193723,7 +193723,7 @@
         "company_name": "VSP Vision",
         "id": "5e8cb277-43e4-4b23-8d43-e3f7a10f3539",
         "title": "Internship - AI-Machine Learning Development Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -198662,7 +198662,7 @@
         "company_name": "Meta",
         "id": "5ffb9aad-3d10-428e-8654-b8b8bd0d6764",
         "title": "Research Scientist Intern - Imaging and Computer Vision - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025",
@@ -205263,7 +205263,7 @@
         "company_name": "VSP Vision",
         "id": "83e200b4-955d-4d11-8e69-5a6dc3df3833",
         "title": "Internship - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -207028,7 +207028,7 @@
         "company_name": "VSP Vision",
         "id": "0de3f0bf-ee69-4cc4-9983-1ab7f4f2b354",
         "title": "Internship - AI Agent Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -228529,7 +228529,7 @@
         "company_name": "Ivy Tech Community College",
         "id": "69ea6a3b-7754-4b15-96b9-dd5684d1446f",
         "title": "Data Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -229983,7 +229983,7 @@
         "company_name": "Meta",
         "id": "ce084c78-df6c-41e8-89cd-b85a8c80646f",
         "title": "Research Scientist Intern - Vision-Language and Embodied AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -234237,7 +234237,7 @@
         "company_name": "Tenstorrent",
         "id": "8317698c-8c9b-4261-88ff-835ba69c42e8",
         "title": "Platform Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -242514,7 +242514,7 @@
         "company_name": "RTX",
         "id": "96e1b9ce-11a7-4b33-8b50-79ef57eb56fb",
         "title": "Intern: Summer 2026 - AI/ML Engineering Methods",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
