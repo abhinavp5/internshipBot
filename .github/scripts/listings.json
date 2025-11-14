@@ -133,45 +133,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Red Ventures",
-        "id": "10f5203f-b8ff-441c-9074-f50654d317b8",
-        "title": "Data Science Product Manager Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1742400515,
-        "date_posted": 1742400515,
-        "url": "https://www.redventures.com/careers/positions/open?gh_jid=6724180",
-        "locations": [
-            "Fort Mill, SC",
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Red-Ventures",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Parsons",
-        "id": "10e7db19-15eb-4503-a566-c09e4e27821a",
-        "title": "Engineering Internship Summer 2025",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1742401122,
-        "date_posted": 1742401122,
-        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Herndon/Engineering-Internship-Summer-2025_R165551",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Parsons",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1742408466,
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/259584",
         "company_name": "Oracle",
@@ -1453,28 +1414,6 @@
             "Northbrook, IL"
         ],
         "company_url": "https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Marsh & McLennan",
-        "id": "6119501b-00ee-4726-8064-8e91375b4be2",
-        "title": "Catastrophe Advisory Co-op - College Program 2025",
-        "active": false,
-        "terms": [
-            "Winter 2025",
-            "Summer 2025"
-        ],
-        "date_updated": 1742400388,
-        "date_posted": 1742400388,
-        "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Philadelphia---South-17th/Catastrophe-Advisory-Co-op---Multiple-Locations---College-Program-2025_R_301224-1",
-        "locations": [
-            "Boston, MA",
-            "Philadelphia, PA",
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Marsh-McLennan",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -107329,7 +107268,7 @@
         "company_name": "Shure",
         "id": "fc68af8b-c5cb-444d-bdb0-462e96d43c9b",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -119395,7 +119334,7 @@
         "company_name": "Meta",
         "id": "e2e48bac-63bc-4318-9576-1e112d693b8d",
         "title": "Research Scientist Intern - Photorealistic Telepresence - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -217600,7 +217539,7 @@
         "company_name": "Entegris",
         "id": "9305767b-8952-4a82-8f9a-7ea9e1376d77",
         "title": "Research & Development Co-Op - Spring 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -246840,5 +246779,72 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Veolia",
+        "id": "ff94c346-0be5-4afa-80a3-d5d3c9695860",
+        "title": "Engineering/Instrumentation Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1763136655,
+        "date_posted": 1763136655,
+        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000093729966",
+        "locations": [
+            "Caddo Valley, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Veolia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "date_updated": 1763138782,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://apply.workable.com/altom-transport/j/04A9461007/",
+        "company_name": "Altom Transport",
+        "title": "Summer 2026 Software Development Intern",
+        "locations": [
+            "Houston, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "249bb8c4-2ff8-4aa6-9eca-e196912d8524",
+        "date_posted": 1763138782,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763138827,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://apply.workable.com/altom-transport/j/6C00FDED5C/",
+        "company_name": "Altom Transport",
+        "title": "Summer 2026 Software Development Intern",
+        "locations": [
+            "Hammond, IN"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "043eb763-827e-496f-b9d1-79c1782a9db1",
+        "date_posted": 1763138827,
+        "company_url": "",
+        "is_visible": true
     }
 ]
