@@ -52667,7 +52667,7 @@
         "company_name": "Skyworks",
         "id": "8f7c04de-8ede-4e97-9e50-6c3d9cf1ae60",
         "title": "Product Engineer Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -58376,7 +58376,7 @@
         "company_name": "Skyworks",
         "id": "83d267be-2e83-4cf6-bad3-a64b43ee0757",
         "title": "Audio AI Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -65396,7 +65396,7 @@
         "company_name": "Meta",
         "id": "1f77f979-a9de-47a0-8655-d6c71bb7ea10",
         "title": "Research Scientist Intern - Robotic Control Policy - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -77050,7 +77050,7 @@
         "company_name": "Meta",
         "id": "4141a044-0fb8-4fea-bbd8-09d322d98f69",
         "title": "Research Scientist Intern - Neuromotor Interfaces: Computational Modeling - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -83473,7 +83473,7 @@
         "company_name": "PIMCO",
         "id": "8301b865-7de8-4f1c-962f-7940b97fa93e",
         "title": "Intern - Technology Analyst - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -104041,7 +104041,7 @@
         "company_name": "W.R. Berkley",
         "id": "8d7fa2d2-c2cd-496c-a36a-79fb2244cae4",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -106434,7 +106434,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "97094f97-0c76-42e9-bacf-3f331d041f15",
         "title": "Quantitative Systematic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -110233,7 +110233,7 @@
         "company_name": "Mackenzie Investments",
         "id": "0b1d03f5-54c2-466f-a64c-62914ec0123e",
         "title": "Investment Management \u2013 FI-Platform Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -115640,7 +115640,7 @@
         "company_name": "Meta",
         "id": "f1c46ae3-bbe1-414e-9c7b-cdbdd616dd5e",
         "title": "Research Scientist Intern - Adaptive Experimentation - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -119041,7 +119041,7 @@
         "company_name": "The Home Depot",
         "id": "e18ce05b-61a1-41cb-9945-2fe01c0c4aa8",
         "title": "Data Science PhD Level Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -175272,7 +175272,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "f9220cd0-2992-46d7-bdae-b62e7d300658",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -182847,7 +182847,7 @@
         "company_name": "Man Group",
         "id": "01f72c92-eabe-4c2e-865e-f0329d2a8462",
         "title": "2026 Summer Technology Internship Programme",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -205362,7 +205362,7 @@
         "company_name": "Penta Group",
         "id": "dbd6bafe-90f2-4dd3-b1b0-465a304772dd",
         "title": "Media Monitoring Internship - Hawaii Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025",
@@ -211566,7 +211566,7 @@
         "company_name": "Marvell",
         "id": "8058ba44-4804-479e-9275-b869537a8f33",
         "title": "Design for Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -214832,7 +214832,7 @@
         "company_name": "Meta",
         "id": "8a132f66-cb19-43d0-b249-3e121c54a1fc",
         "title": "Research Scientist Intern - Graphics Neural Rendering and Compression - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -219384,7 +219384,7 @@
         "company_name": "WSP",
         "id": "34aea5a5-dbed-459b-ba41-f5b1463456a2",
         "title": "Geology Intern - Earth and Environment",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -226154,7 +226154,7 @@
         "company_name": "Interac",
         "id": "40cd80e3-7fee-4ad4-9ced-8d303e82cc2e",
         "title": "Product Management Intern - Verified",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -230885,7 +230885,7 @@
         "company_name": "EquipmentShare",
         "id": "3b461856-75b3-4039-bc50-458bb9a96006",
         "title": "Intern: Financial Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -234426,7 +234426,7 @@
         "company_name": "Sanctuary AI",
         "id": "2a4346a9-3313-4197-9bf3-2766cfa1602f",
         "title": "Hardware Co-op: R&D - January 2026 term",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
