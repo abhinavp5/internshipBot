@@ -58756,7 +58756,7 @@
         "company_name": "Skyworks",
         "id": "98d1d763-9d4f-4916-9058-72747977cde7",
         "title": "NPI Automation Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -58781,7 +58781,7 @@
         "company_name": "Skyworks",
         "id": "094efcc4-7550-4775-ae4b-512aafb05ed1",
         "title": "NPI Automation Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -60210,7 +60210,7 @@
         "company_name": "Skyworks",
         "id": "014b9ef2-0f50-4acf-ba0b-d29afa29ea6e",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -89293,7 +89293,7 @@
         "company_name": "Meta",
         "id": "360c2653-c3a6-403f-937b-fb840d5775b8",
         "title": "Research Scientist Intern - Audio - Machine Learning and Computer Vision - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -102769,7 +102769,7 @@
         "company_name": "Skyworks",
         "id": "c5aea7f8-cbe4-4b12-9a83-01fd78cedfbd",
         "title": "Product Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -104488,7 +104488,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "385eed62-f687-4fff-ab42-08f41edb4cb5",
         "title": "Quantitative Systematic Trading Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -107564,7 +107564,7 @@
         "company_name": "Shure",
         "id": "4056025f-51a8-4971-8e2c-874f160c7ce0",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -130057,7 +130057,7 @@
         "company_name": "Meta",
         "id": "140442bf-9fd0-4db6-aefb-bf7685261ff1",
         "title": "Research Scientist Intern - Feed Recommendations - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -131431,7 +131431,7 @@
         "company_name": "Meta",
         "id": "70f621e9-3faa-457f-b660-819ae4e312b9",
         "title": "Research Scientist Intern - Monetization Computer Vision",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -141880,7 +141880,7 @@
         "company_name": "Ciena",
         "id": "9f0e8f77-1084-4e99-bc21-86b5b5cf11be",
         "title": "Routing/IP Software Developer Intern - Packet Control Plane - Routing and MPLS technologies",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -145457,7 +145457,7 @@
         "company_name": "ByteDance",
         "id": "1294ed3d-c159-4e0a-ac6b-564effff0cef",
         "title": "Cloud Acceleration Engineer Intern - DPU & AI Infra",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -174789,7 +174789,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "315215f2-cf98-4b01-85eb-14f7837c9dcd",
         "title": "Mobile Application Development Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -175207,7 +175207,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "46f30da2-6e82-4eed-a01d-e3f793a37634",
         "title": "Quantitative Engineer Intern - Clearing Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -182782,7 +182782,7 @@
         "company_name": "Menasha Corporation",
         "id": "ceb014d5-2f90-4b84-b1c4-cfd4d0f640c7",
         "title": "Sustainability Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -183439,7 +183439,7 @@
         "company_name": "Delta Dental",
         "id": "e7a3efe4-2e33-46f4-bde3-c68515bcf85b",
         "title": "Internship - Application Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -199520,7 +199520,7 @@
         "company_name": "Cummins",
         "id": "1fe1c6d0-5bd7-4b90-a64a-82d9e5183915",
         "title": "Electronic Systems \u2013 Co-Op Positions - ",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -200552,7 +200552,7 @@
         "company_name": "Meta",
         "id": "72785157-5ad3-470d-820e-a8eb80817622",
         "title": "Research Scientist Intern - Ultrasonic Sensing",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -203237,7 +203237,7 @@
         "company_name": "Arctic Wolf",
         "id": "070008bd-a085-4dcf-bafc-2b2ac2fecf02",
         "title": "Winter 2026 Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -205879,7 +205879,7 @@
         "company_name": "Agilent Technologies",
         "id": "7d8d9341-48ce-40ba-9a87-dbb84d17611d",
         "title": "Intern \u2013 Predictive Sales Prospecting",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -210870,7 +210870,7 @@
         "company_name": "Advanced Energy",
         "id": "deeaad72-264f-48e5-ae2d-8f7438243580",
         "title": "Service Product Marketing Intern - Global Service Product Marketing",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -217009,7 +217009,7 @@
         "company_name": "Clarios",
         "id": "7765b4c7-1dfa-49e6-bb7c-4d2c356e5c0b",
         "title": "Quality Intern - Geneva - Illinois - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -219468,7 +219468,7 @@
         "company_name": "Stand Together",
         "id": "7a686837-e3b5-448c-9bce-ad68ed140173",
         "title": "KIP Spring 2026 \u2013 Policy Intern - Libertas Institute",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -220920,7 +220920,7 @@
         "company_name": "Rockwell Automation",
         "id": "cf8fe9f3-dc09-4ec3-999f-f90ddb79cc24",
         "title": "Intern \u2013 Commercial Operations - Lcs",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -227827,7 +227827,7 @@
         "company_name": "Meta",
         "id": "4807522e-ff70-40a6-8a04-e95c48dd10cf",
         "title": "Research Scientist Intern - Imaging Experiences Architecture - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -246753,6 +246753,69 @@
             "Bloomington, MN"
         ],
         "company_url": "https://simplify.jobs/c/The-Toro-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "be031807-109a-4301-8096-7365f2339f10",
+        "title": "Research Scientist \u2013 Physical Modeling Intern - PhD",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1763131586,
+        "date_posted": 1763131586,
+        "url": "https://www.metacareers.com/jobs/1371077641147770",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Honeywell",
+        "id": "49f97851-d09e-4e8d-b984-3a0b81ca1d5d",
+        "title": "Intern Bachelors Field Svc Eng",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1763118963,
+        "date_posted": 1761169582,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/119239",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nike",
+        "id": "ec91caf3-9e71-40cc-b376-8f68208df84d",
+        "title": "Nike \u2013 Inc Innovation NXT SPACE Engineering Graduate Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1761092330,
+        "date_posted": 1761092330,
+        "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Innovation-NXT-SPACE-Engineering-Graduate-Intern_R-72700",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Nike",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
