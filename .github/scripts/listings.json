@@ -245344,16 +245344,18 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1763088035,
+        "date_updated": 1763162826,
         "date_posted": 1763088035,
         "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2026-Guardian-Summer-Intern--Product-Marketing_R000107504",
         "locations": [
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Guardian-Life",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
-        "degrees": []
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
