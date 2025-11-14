@@ -133,25 +133,6 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1742408466,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/259584",
-        "company_name": "Oracle",
-        "title": "MySQL Heatwave - Software Developer Intern (6 month duration)",
-        "locations": [
-            "Canada"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "GaryZhous",
-        "id": "8ee90dec-9786-4f9c-851e-054925121cb8",
-        "date_posted": 1742408466,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "company_name": "Mr. Cooper",
         "id": "85c91a03-636e-4d17-abfe-dc568e6270d2",
@@ -70379,7 +70360,7 @@
         "company_name": "Xcimer Energy",
         "id": "12657870-afd4-40db-863e-6cc71a1575b4",
         "title": "Spring Semester 2026 Internship - Computational and Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -81325,7 +81306,7 @@
         "company_name": "Meta",
         "id": "0e9174ee-b2a8-46e1-a623-67ccb9c33586",
         "title": "Research Scientist Intern - Synthetic Image Generation - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -93679,7 +93660,7 @@
         "company_name": "Meta",
         "id": "f5cf1e2e-9a86-4072-a07e-e2ad59817aa7",
         "title": "Research Scientist Intern - AI for Egocentric Representation Learning - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -94515,7 +94496,7 @@
         "company_name": "Meta",
         "id": "d7599b0d-f9ed-43f9-9b17-b66ee8661344",
         "title": "Research Scientist Intern - 3D World Modelling - Robotics and Generative AI - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -99634,7 +99615,7 @@
         "company_name": "Aviva",
         "id": "75d5df0e-f920-4cca-92e5-effc973b6958",
         "title": "Co-op Student - Enterprise Data Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -106284,7 +106265,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "bb505aa5-4894-4133-ad70-796eb3517fb9",
         "title": "Trading System Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -107361,7 +107342,7 @@
         "company_name": "Shure",
         "id": "a2ce8de2-3967-44eb-88b5-24f5271157a9",
         "title": "Mobile Applications \u2013 Intern - IOS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -107457,7 +107438,7 @@
         "company_name": "Shure",
         "id": "59028ac5-754c-4650-b9ac-b6386dbae5eb",
         "title": "Application System Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -131397,7 +131378,7 @@
         "company_name": "Meta",
         "id": "49253634-daa9-4f92-89fc-e71ec916eb6b",
         "title": "Research Scientist Intern - Monetization Generative AI - Large Language Models",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -132175,7 +132156,7 @@
         "company_name": "Meta",
         "id": "d0a6af3b-201a-4ff2-9df6-987f2f2fc42c",
         "title": "Research Scientist Intern - Monetization Computer Vision",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -154113,7 +154094,7 @@
         "company_name": "GE Vernova",
         "id": "c3008446-0299-472f-a2db-8af6b18d98f3",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -173568,7 +173549,7 @@
         "company_name": "Schonfeld",
         "id": "de15ffc6-a0de-4717-abf4-22ca92ab0303",
         "title": "Data Analyst Intern - Investment Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Summer 2026"
@@ -178931,7 +178912,7 @@
         "company_name": "Meta",
         "id": "1205ff1b-6794-4d16-a583-8c2b4bc82260",
         "title": "Research Scientist Intern - Code Generation - PhD - London",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -182957,7 +182938,7 @@
         "company_name": "Meta",
         "id": "c5f668da-5e3b-4798-9852-da42ab1c0152",
         "title": "Research Scientist Intern - Multimodal AI for Human-Computer Interaction - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -210279,7 +210260,7 @@
         "company_name": "Centific",
         "id": "6047634a-bb51-4bc7-b5aa-203de1bd8c1c",
         "title": "Technical Intern - Masters or PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -214090,7 +214071,7 @@
         "company_name": "AGCO",
         "id": "c5255f5a-654a-4953-bafa-6c71f7ea95ae",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -214946,7 +214927,7 @@
         "company_name": "Samsung",
         "id": "0930cab3-ce26-4844-8aea-1745f5f82939",
         "title": "Intern \u2013 DRAM Applications Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -224876,7 +224857,7 @@
         "company_name": "Meta",
         "id": "a4bf23d6-58d5-4c6d-a155-ada85355aeb9",
         "title": "Research Scientist Intern - 3D World Modeling - Robotics and Generative AI - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -224900,7 +224881,7 @@
         "company_name": "Meta",
         "id": "43269979-bedc-4bb9-8d45-1f0d28121a6c",
         "title": "Research Scientist Intern - Audio - Machine Learning and Computer Vision - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -227766,7 +227747,7 @@
         "company_name": "Meta",
         "id": "4807522e-ff70-40a6-8a04-e95c48dd10cf",
         "title": "Research Scientist Intern - Imaging Experiences Architecture - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -235377,7 +235358,7 @@
         "company_name": "Gilead Sciences",
         "id": "447d0963-e5d9-4bf3-ba98-d775d3511b08",
         "title": "Intern IT - Commercial IT AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -240312,7 +240293,7 @@
         "company_name": "Qorvo",
         "id": "27af19b2-0e03-4713-8cac-ac7b13efb4f5",
         "title": "Electrical CAD Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -245483,7 +245464,7 @@
         "company_name": "Meta",
         "id": "15c6df3d-5227-40a1-b748-fd5c2928a56e",
         "title": "Research Scientist Intern - AI Research - Perception",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
