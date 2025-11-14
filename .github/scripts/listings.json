@@ -235542,12 +235542,12 @@
         "category": "Software",
         "company_name": "HP IQ",
         "id": "e18ae66f-d88d-4ba5-a8d1-7fd66e59f0fd",
-        "title": "Software Engineer Intern - Cloud Services",
+        "title": "Software Engineer Intern, Cloud Services",
         "active": true,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1762816809,
+        "date_updated": 1763108086,
         "date_posted": 1762816809,
         "url": "https://job-boards.greenhouse.io/hpiq/jobs/5622481004",
         "locations": [
@@ -235556,7 +235556,9 @@
         "company_url": "https://simplify.jobs/c/HP-IQ",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": []
+        "degrees": [
+            "Master's"
+        ]
     },
     {
         "source": "Simplify",
