@@ -81463,7 +81463,7 @@
         "company_name": "ServiceNow",
         "id": "cf902aea-acc6-4735-8bff-bb131ab95cf2",
         "title": "UTG \u2013 Software Engineer Internships",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -84705,7 +84705,7 @@
         "company_name": "ServiceNow",
         "id": "7cdae68b-b8d2-4dd5-855d-29fd1834be33",
         "title": "UTG \u2013 Software Engineer Internships",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -87905,7 +87905,7 @@
         "company_name": "Solidigm",
         "id": "7e37923b-7955-4fe4-91f6-d5a8b32eca2d",
         "title": "2026 Undergrad Engineering Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -185807,7 +185807,7 @@
         "company_name": "Solidigm",
         "id": "107bfc32-911d-4af7-864d-280513dbd04d",
         "title": "Undergraduate Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -189198,7 +189198,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "NBCUniversal",
-        "id": "6e04f537-e1f3-4595-837b-5cf6aa9e3f18",
+        "id": "7c13af7d-629e-4ed7-a31f-692946891220",
         "title": "Audience Insights & Data Analytics Intern",
         "active": true,
         "terms": [
@@ -244459,7 +244459,7 @@
         "company_name": "AbbVie",
         "id": "b6887522-61f3-46ae-bb60-80b649182891",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -246675,7 +246675,7 @@
         "company_name": "AbbVie",
         "id": "ef47db0b-bd8f-4744-a6fd-bf7f29804dea",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
