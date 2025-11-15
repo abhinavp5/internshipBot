@@ -153,25 +153,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "NCR Voyix",
-        "id": "6bdb38c7-b230-4bec-a010-7b4b7c34fb38",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1742470150,
-        "date_posted": 1742470150,
-        "url": "https://ncr.wd1.myworkdayjobs.com/ext_non_us/job/SCOTLAND-VIRTUAL-GBR/Software-Engineer-Intern_R0150397-4",
-        "locations": [
-            "Scotland, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/NCR-Voyix",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "S & P Global",
         "id": "5b31d53c-7d6d-4047-9b8c-55b809a5d740",
         "title": "Software Engineer Intern",
@@ -37587,7 +37568,7 @@
         "company_name": "Bank of New York Mellon",
         "id": "38fb236a-fc03-44a1-afd3-97a886b00239",
         "title": "2026 BNY Summer Internship Program - Engineering - Developer - Early Talent and University Programs",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -134610,7 +134591,7 @@
         "company_name": "Boston Scientific",
         "id": "f08d6c10-c993-4f9f-afb1-7c195cbd6fed",
         "title": "Software Development Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -137825,7 +137806,7 @@
         "company_name": "Boston Scientific",
         "id": "2c1c6147-d068-4660-93b4-013735bb7b02",
         "title": "R&D Firmware Engineer Intern - Active Implantable Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -160414,7 +160395,7 @@
         "company_name": "Electronic Arts",
         "id": "f46a4a9b-e49a-4c09-8937-9cc870868527",
         "title": "Data Analyst Intern/Co-op - FC Live Service Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -164416,7 +164397,7 @@
         "company_name": "Boston Scientific",
         "id": "30eb7ac0-33f6-4af2-959a-cd2b5f83fc72",
         "title": "R&D Engineering Intern - Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -238868,7 +238849,7 @@
         "company_name": "Xcimer Energy",
         "id": "68259542-04e3-4cc8-b9ea-459c1da12a74",
         "title": "Intern - Physics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
