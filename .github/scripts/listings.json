@@ -233515,7 +233515,7 @@
         "company_name": "Flowserve",
         "id": "ae0fa0bb-7635-48bf-8c7d-42a0bb9e30b3",
         "title": "Application Engineer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -234554,7 +234554,7 @@
         "company_name": "Great American Insurance Company",
         "id": "ae8ac640-e4cf-47e2-8cbb-d71e13b61663",
         "title": "Data Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
