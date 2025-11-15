@@ -43058,7 +43058,7 @@
         "company_name": "WEC Energy Group",
         "id": "a66bb355-5de2-4615-8542-b8693dee0449",
         "title": "Power Generation Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Summer 2026"
@@ -60688,7 +60688,7 @@
         "company_name": "AbbVie",
         "id": "14aa40b6-8174-4dcd-b20d-9f417ef55e0f",
         "title": "Computational Data Scientist Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -71156,7 +71156,7 @@
         "company_name": "Trimble",
         "id": "38b09cff-71ea-419b-9577-5c9846381906",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -97264,7 +97264,7 @@
         "company_name": "CMS Energy",
         "id": "1151bd71-23af-4852-8636-9f9ce6e01453",
         "title": "Intern/Co-Op-Applications & Analytics 1",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Summer 2026"
@@ -99706,7 +99706,7 @@
         "company_name": "Activision-Blizzard",
         "id": "91f5d874-cbc4-4c0e-b8cc-69c873b7783f",
         "title": "2026 Summer Internships - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -102891,7 +102891,7 @@
         "company_name": "3M",
         "id": "1a748a30-79cb-4da9-b36a-5f17715934bb",
         "title": "Internship \u2013 2026 PhD Research & Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -103082,7 +103082,7 @@
         "company_name": "3M",
         "id": "a3194597-2685-4f12-b289-713aca269a10",
         "title": "Internship \u2013 2026 Undergraduate and Master's Research & Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -137281,7 +137281,7 @@
         "company_name": "Faith Technologies",
         "id": "e369e65a-6c48-480a-8aa7-f7a0064c31cc",
         "title": "AI Analyst Intern - Information Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -152634,7 +152634,7 @@
         "company_name": "Vanguard",
         "id": "7177a6d4-db68-4b79-b2be-fcf987effecc",
         "title": "Application Engineer Intern/Co-op - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -155093,7 +155093,7 @@
         "company_name": "Highmark Health",
         "id": "a07923a7-8e0d-40f0-be1b-7d4396f34a2c",
         "title": "Data Test Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -161241,7 +161241,7 @@
         "company_name": "TD Synnex",
         "id": "06add3e9-d086-4606-8256-775cd2b18e5c",
         "title": "Internship Program - Technology Track",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -175347,7 +175347,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Motive",
-        "id": "61d91a9b-50f8-424f-a41d-695447401bcb",
+        "id": "e0b14072-6a6b-4ac8-9055-f223be03e955",
         "title": "Embedded Engineer Intern",
         "active": true,
         "terms": [
@@ -184247,7 +184247,7 @@
         "company_name": "CAE",
         "id": "42ce6779-6049-4c3b-ac90-eaf06905dbad",
         "title": "R&D Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -200174,7 +200174,7 @@
         "company_name": "Nokia",
         "id": "9da83278-4c4f-4f1c-8c89-bf490f2c7f94",
         "title": "Photonic Test Coop - ",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -201268,7 +201268,7 @@
         "company_name": "CACI",
         "id": "5f9cb4a7-82ee-4a17-8634-489ab25127d7",
         "title": "Application Developer Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -219787,7 +219787,7 @@
         "company_name": "Dexcom",
         "id": "37babb85-3097-4046-ad84-0cd9f17be461",
         "title": "Intern I \u2013 SW Development Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -226797,7 +226797,7 @@
         "company_name": "Signify",
         "id": "9b910c7a-4f64-4f88-aa97-f2aba8655d4f",
         "title": "Sales Analytics Intern-E-Commerce",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -238805,7 +238805,7 @@
         "company_name": "Becton Dickinson",
         "id": "2d61ff31-14d2-447f-9a53-e5ac75f735aa",
         "title": "R&D Co-op \u2013 Spring 2026 - New",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -244095,7 +244095,7 @@
         "company_name": "Northrop Grumman",
         "id": "bf00f8c4-7f5b-49c4-a4a7-72a14e47141b",
         "title": "2025 Intern Systems Engineer - Melbourne FL - Part-time",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -244139,7 +244139,7 @@
         "company_name": "Altera Corporation",
         "id": "ec09c0f5-ebe0-4251-86fb-d153e2f74349",
         "title": "Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -244888,7 +244888,7 @@
         "company_name": "Northrop Grumman",
         "id": "074d214a-d64a-423c-bcb6-07c0681e33ef",
         "title": "2026 Software Engineer Intern - Redondo Beach CA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -245256,7 +245256,7 @@
         "company_name": "Northrop Grumman",
         "id": "c78d23b0-ea55-4c23-b1a7-d4752680933c",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -245731,7 +245731,7 @@
         "company_name": "Becton Dickinson",
         "id": "c0245d1b-127b-44cd-81da-9502b85d531b",
         "title": "R&D Co-op \u2013 Spring 2026 - New",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -246321,7 +246321,7 @@
         "company_name": "The Toro Company",
         "id": "0f8b2d23-f418-4c8d-944e-9b03ba8165dc",
         "title": "Mechatronics Engineering Intern - The Toro Company",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -247415,7 +247415,7 @@
         "company_name": "Micron Technology",
         "id": "703ff123-fd0f-4730-93e1-513283ea5d99",
         "title": "Intern Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -247671,7 +247671,7 @@
         "company_name": "AbbVie",
         "id": "42abcc91-b338-4b13-9ab2-00c4df3422e0",
         "title": "2026 Graph Machine Learning Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
