@@ -102022,7 +102022,7 @@
         "company_name": "Meta",
         "id": "097b7fb0-4655-4573-983a-a133d6c92738",
         "title": "Research Scientist Intern - Human Computer Interaction - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -103592,7 +103592,7 @@
         "company_name": "Cotiviti",
         "id": "3dabf3fa-56cb-4626-a1d7-45c6307008f1",
         "title": "Intern \u2013 Generative AI Research Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -108623,7 +108623,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ad8b1567-30c9-4093-b10b-395eb58e0e33",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -156182,7 +156182,7 @@
         "company_name": "Seagate Technology ",
         "id": "e6827b00-0b78-4660-9ca8-91293c8e301c",
         "title": "Firmware Engineering Intern - Firmware Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -163723,7 +163723,7 @@
         "company_name": "Meta",
         "id": "3ebee98e-a636-4416-a0b9-72d7b05df033",
         "title": "Research Scientist Intern - Fundamental AI Research - Generative Vision",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -169119,7 +169119,7 @@
         "company_name": "Thomson Reuters",
         "id": "bf14b465-70ca-41c8-a84b-90b7c815d3e2",
         "title": "Research Engineering Intern - AI Platform",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -183877,7 +183877,7 @@
         "company_name": "CAE",
         "id": "a9d38a3d-2cbd-4be9-b8a9-b7a8ec3a17aa",
         "title": "R&D Engineering Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -199187,7 +199187,7 @@
         "company_name": "General Motors",
         "id": "98e644f3-234f-4c02-908c-34d68f3ab857",
         "title": "2026 Summer Intern - Research & Development: Connected Vehicle Experience",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -201211,7 +201211,7 @@
         "company_name": "CACI",
         "id": "5f9cb4a7-82ee-4a17-8634-489ab25127d7",
         "title": "Application Developer Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -224031,7 +224031,7 @@
         "company_name": "American Enterprise Institute",
         "id": "94b1b0c1-86b7-4a93-86d0-697898297eab",
         "title": "Housing Center Internship - Housing Center",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -239956,7 +239956,7 @@
         "company_name": "Qorvo",
         "id": "fe5cebff-59b2-444d-b1ec-946624b0513f",
         "title": "Test & Characterization Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -240936,7 +240936,7 @@
         "company_name": "GlobalFoundries",
         "id": "11003bc5-a885-401f-8587-47f1c44e1049",
         "title": "Technology Development Integration Engineering Intern - Feature-Rich CMOS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -242025,7 +242025,7 @@
         "company_name": "Seagate Technology ",
         "id": "385d53fc-884c-40e3-80be-d98351d9a991",
         "title": "AI Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -248235,6 +248235,27 @@
             "Burlingame, CA"
         ],
         "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TREK",
+        "id": "67722433-5e97-4d22-a5d5-8672a1e7ed82",
+        "title": "AI Automation Initiatives Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763232260,
+        "date_posted": 1763232260,
+        "url": "https://trekbikes.wd1.myworkdayjobs.com/en-US/TREK/job/Waterloo-Wisconsin/AI-Automation-Initiatives-Intern_Trek113478",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/TREK",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
