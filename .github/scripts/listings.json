@@ -37546,7 +37546,7 @@
         "company_name": "Bank of New York Mellon",
         "id": "cd96723e-4626-495c-bdd8-09aea96ddecf",
         "title": "2026 BNY Summer Internship Program - Engineering - Data Science - Early Talent and University Programs",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -199920,7 +199920,7 @@
         "company_name": "Liberty University",
         "id": "ffc5d3a1-5171-4e77-815a-09f64e3ddb4b",
         "title": "Information Services Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
