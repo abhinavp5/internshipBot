@@ -87643,7 +87643,7 @@
         "company_name": "American Express",
         "id": "7d311861-b632-41ee-9d50-993d98aa1bf3",
         "title": "Campus Undergraduate Summer Internship Program - 2026 Product Development - US Consumer Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -182411,7 +182411,7 @@
         "company_name": "Valmont",
         "id": "18216b4e-a6b9-493d-adfe-3c05e0b700cf",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -237010,7 +237010,7 @@
         "company_name": "Ryan",
         "id": "060e664d-8ce5-4f19-ac32-0a9f6c1db680",
         "title": "Summer 2026 Intern - Product Management / Data Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
