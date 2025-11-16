@@ -154,25 +154,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Salesforce",
-        "id": "f5e38d96-2fdc-40fb-8aae-55669b263e49",
-        "title": "Intern-AI Software Engineer - Full Stack",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1742542466,
-        "date_posted": 1742542466,
-        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---Palo-Alto/Summer-2025-Intern--AI-Software-Engineer--Full-Stack-_JR287555",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Salesforce",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Veolia",
         "id": "74bfcb2f-0d90-4ee5-9e06-ef63875462af",
         "title": "2025 Summer Intern - Laboratory",
@@ -52443,7 +52424,7 @@
         "company_name": "WEC Energy Group",
         "id": "92de49d6-b2a8-4397-9b7a-f837fa53301a",
         "title": "Intern \u2013 Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -83235,7 +83216,7 @@
         "company_name": "Iberdrola Group",
         "id": "b9e3e72f-3974-407b-84a3-4b54bf78c747",
         "title": "Data Analytics/Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -167545,7 +167526,7 @@
         "company_name": "ATPCO",
         "id": "c3107a42-e633-4d49-9529-4676f85b9d43",
         "title": "Data Analyst and Reporting Intern - Marketing Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -177825,7 +177806,7 @@
         "company_name": "ATPCO",
         "id": "87ccbe4d-a4d7-41cc-b94c-3d8ff31a9471",
         "title": "Marketing Data Analyst Intern - Spring start Date",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -188999,7 +188980,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "NBCUniversal",
-        "id": "6e04f537-e1f3-4595-837b-5cf6aa9e3f18",
+        "id": "7c13af7d-629e-4ed7-a31f-692946891220",
         "title": "Audience Insights & Data Analytics Intern",
         "active": true,
         "terms": [
@@ -201694,7 +201675,7 @@
         "company_name": "Takeda",
         "id": "e8f67402-3b27-4b2d-8ab4-8aa073da291f",
         "title": "2026 U.S Summer Internship Program: Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -202837,7 +202818,7 @@
         "company_name": "Takeda",
         "id": "e71fd62c-e017-4948-985b-7529afdf9a3e",
         "title": "2026 Summer Internship Program: US Medical Affairs Oncology Strategy and Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -204613,7 +204594,7 @@
         "company_name": "Red Hat",
         "id": "7e27871b-d3f5-483a-a0f9-0a90973bb387",
         "title": "Software Engineer Intern - Global Engineering - Python/Golang",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
