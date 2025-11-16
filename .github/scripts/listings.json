@@ -167564,7 +167564,7 @@
         "company_name": "ATPCO",
         "id": "c3107a42-e633-4d49-9529-4676f85b9d43",
         "title": "Data Analyst and Reporting Intern - Marketing Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -177844,7 +177844,7 @@
         "company_name": "ATPCO",
         "id": "87ccbe4d-a4d7-41cc-b94c-3d8ff31a9471",
         "title": "Marketing Data Analyst Intern - Spring start Date",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -189018,7 +189018,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "NBCUniversal",
-        "id": "7c13af7d-629e-4ed7-a31f-692946891220",
+        "id": "6e04f537-e1f3-4595-837b-5cf6aa9e3f18",
         "title": "Audience Insights & Data Analytics Intern",
         "active": true,
         "terms": [
@@ -213948,7 +213948,7 @@
         "company_name": "SWBC",
         "id": "5282643a-6019-420f-8ea9-e1ae7ac8fbb2",
         "title": "Software Engineering Intern - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
