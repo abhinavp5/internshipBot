@@ -134,46 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Hypertherm Associates",
-        "id": "5060dbe2-b175-4beb-9ce8-1f8ca4727b3a",
-        "title": "Intern \u2013 Software Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1742595177,
-        "date_posted": 1742595177,
-        "url": "https://hypertherm.wd5.myworkdayjobs.com/en-US/hypertherm-careers/job/US-NY-Home-Based/Intern---Software-Engineering---CAM_R3223",
-        "locations": [
-            "California",
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/62655121-4cb3-4dab-81d2-4abcad089fc6",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Parsons",
-        "id": "fdcd9bc5-23d8-4cd5-b608-981eedb10013",
-        "title": "CNO Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1742595090,
-        "date_posted": 1742595090,
-        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/CNO-Engineering-Intern--Summer-2025-_R165568",
-        "locations": [
-            "Centreville, VA",
-            "Columbia, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Parsons",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Mr. Cooper",
         "id": "03f33e22-464f-424d-9494-b24f85addbaf",
         "title": "2025 Summer Intern Program - Machine Learning & Generative AI Intern",
