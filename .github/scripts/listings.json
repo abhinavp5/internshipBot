@@ -59159,7 +59159,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3801beb2-e473-44e1-8a9b-a3c4776098f6",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -59275,7 +59275,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "057819d8-d85c-46f7-b31e-6d9e538c832c",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -80794,7 +80794,7 @@
         "company_name": "Meta",
         "id": "180cdc97-01ab-4340-9dbd-7d3d84a4cc85",
         "title": "Research Scientist Intern - Machine Perception for Input and Interaction - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -92668,7 +92668,7 @@
         "company_name": "Marvell",
         "id": "86037ae8-2dc6-4086-8507-7f05cdd324f2",
         "title": "Package Engineering Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -103431,7 +103431,7 @@
         "company_name": "Cotiviti",
         "id": "3dabf3fa-56cb-4626-a1d7-45c6307008f1",
         "title": "Intern \u2013 Generative AI Research Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -103824,7 +103824,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "cc75ebb7-54af-4871-9b94-08788b84063b",
         "title": "Quantitative Systematic Trading Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -103847,7 +103847,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "385eed62-f687-4fff-ab42-08f41edb4cb5",
         "title": "Quantitative Systematic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -105751,7 +105751,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "97094f97-0c76-42e9-bacf-3f331d041f15",
         "title": "Quantitative Systematic Trading Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -108439,7 +108439,7 @@
         "company_name": "Cotiviti",
         "id": "9892e214-ccb9-43f4-8016-f9cf87c0de55",
         "title": "Intern \u2013 Generative AI Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -108462,7 +108462,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ad8b1567-30c9-4093-b10b-395eb58e0e33",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -109573,7 +109573,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "32fc1129-317d-499e-b6c3-5ebb215eb592",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -135030,7 +135030,7 @@
         "company_name": "Meta",
         "id": "20e4d522-f5f9-4c97-aa3d-d9d7c600f39a",
         "title": "Research Scientist Intern - Modern Recommendation Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2026",
@@ -139693,7 +139693,7 @@
         "company_name": "Meta",
         "id": "28de4cbe-8176-4f3a-99a7-7c425d58234b",
         "title": "Research Scientist Intern - AI & System Co-Design",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -153416,7 +153416,7 @@
         "company_name": "Grow Financial Federal Credit Union",
         "id": "f773e1e7-217c-442f-81f3-bc8a1692940f",
         "title": "Collections Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -174148,7 +174148,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "315215f2-cf98-4b01-85eb-14f7837c9dcd",
         "title": "Mobile Application Development Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -174542,7 +174542,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "bc4eaca1-d7bb-46f8-a195-59f2f4955803",
         "title": "Weather Data Analyst Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -174613,7 +174613,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "cc0f0c25-47c1-4529-921c-312e616545cf",
         "title": "Front-End Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -174659,7 +174659,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "1b93bbd4-3c44-4ea5-9be4-12fc01cfbef5",
         "title": "Release Engineering Intern - Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -196263,7 +196263,7 @@
         "company_name": "Meta",
         "id": "b96d57f7-6287-43da-a968-56c01db2ed74",
         "title": "Research Scientist Intern - AR Graphics Optimizations - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -198428,7 +198428,7 @@
         "company_name": "Takeda",
         "id": "eaf878ae-4667-4603-a1df-a640f229c6f4",
         "title": "2026 U.S. Summer Internship Program: Data Engineering & AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -201673,7 +201673,7 @@
         "company_name": "Takeda",
         "id": "b66fe567-b7aa-479e-97b8-0b0ee4b0201c",
         "title": "2026 U.S. Summer Internship Program: Quantitative Clinical Pharmacology \u2013 AI/RAG Intern - Qcp",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -213929,7 +213929,7 @@
         "company_name": "SWBC",
         "id": "5282643a-6019-420f-8ea9-e1ae7ac8fbb2",
         "title": "Software Engineering Intern - Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -224827,7 +224827,7 @@
         "company_name": "Bartlett & West",
         "id": "7ba7454c-3e22-4554-83b3-d2b8462040ea",
         "title": "GIS Intern - Rail Focus",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -225577,7 +225577,7 @@
         "company_name": "American Enterprise Institute",
         "id": "899e3af7-b2d9-4974-acf0-597d80f7d0a5",
         "title": "Spring Intern: Data Analysis and Education Policy",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -242553,7 +242553,7 @@
         "company_name": "Northrop Grumman",
         "id": "28dd5fa6-2973-4a95-9557-da8324000486",
         "title": "2026 Engineering Intern - Radford VA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -242616,7 +242616,7 @@
         "company_name": "Kimley-Horn",
         "id": "45d7981d-6648-41a2-bcfa-8ee4e8ddced1",
         "title": "GIS Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -243024,7 +243024,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "f7a8f3bb-d8ec-46ee-8004-32449e1ad1b0",
         "title": "Software Engineer Conversion",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -244754,7 +244754,7 @@
         "company_name": "Westwood",
         "id": "302d27d0-99fe-444c-a240-bbf113f442ac",
         "title": "GIS Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -244903,7 +244903,7 @@
         "company_name": "Meta",
         "id": "15c6df3d-5227-40a1-b748-fd5c2928a56e",
         "title": "Research Scientist Intern - AI Research - Perception",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -245429,7 +245429,7 @@
         "company_name": "Northrop Grumman",
         "id": "960c88ee-36f9-490f-8462-76f5888f3e7a",
         "title": "Software Engineering Intern - Beavercreek - OH",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -247345,7 +247345,7 @@
         "company_name": "Shure",
         "id": "dbfe6459-45e8-40be-b954-8c607b54b4e8",
         "title": "Global Product Management Intern - Content Creation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
