@@ -134,26 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Leidos",
-        "id": "654ac625-5431-434e-a287-d61534c07a36",
-        "title": "Machine Learning Intern",
-        "active": false,
-        "terms": [
-            "Spring 2025",
-            "Summer 2025"
-        ],
-        "date_updated": 1742542757,
-        "date_posted": 1742542757,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Machine-Learning-Intern_R-00156045",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Veolia",
         "id": "74bfcb2f-0d90-4ee5-9e06-ef63875462af",
         "title": "2025 Summer Intern - Laboratory",
