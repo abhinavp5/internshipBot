@@ -157015,7 +157015,7 @@
         "company_name": "Microsoft",
         "id": "a16acb0f-73f4-4bd9-9e0c-57af32a2680a",
         "title": "Research Intern - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -202293,7 +202293,7 @@
         "company_name": "Microsoft",
         "id": "081003e8-b3d7-4641-be5d-c3c58700436e",
         "title": "Research Intern - Medical Image Reconstruction",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
