@@ -53888,7 +53888,7 @@
         "company_name": "Arch Capital Group",
         "id": "b296925d-bba6-4432-96a4-fdadb8f790f8",
         "title": "Enterprise Document Management Systems - Edms",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -210841,7 +210841,7 @@
         "company_name": "Geotab",
         "id": "13268831-344f-43ed-b61e-1e8c19692be5",
         "title": "YouTube Content & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -233678,7 +233678,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "0719dd5f-8188-4e9c-a2c2-fd19008d22a0",
         "title": "Software Engineer Intern - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -236047,7 +236047,7 @@
         "company_name": "Leidos",
         "id": "50dd957c-b262-4c35-970f-bbfa0995aa34",
         "title": "AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -244170,7 +244170,7 @@
         "company_name": "Radiance Technologies",
         "id": "f5ea8ac4-e7a3-44f2-a5d9-6af70180548e",
         "title": "Software Reverse Engineer CO-OP Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -244538,7 +244538,7 @@
         "company_name": "Exact Sciences",
         "id": "a934eb31-8220-4a78-98ad-9400e276039b",
         "title": "AI Engineer Intern - GenAI - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -246632,7 +246632,7 @@
         "company_name": "Lumentum",
         "id": "8b1c18f5-c908-4f8b-9923-6a56cea9c982",
         "title": "Liquid Crystal on Silicon Research Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -247834,5 +247834,97 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1763392672,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-ms-phd-software-engineer-planner-reasoning-ml-dl-mountain-view-california-united-states?gh_jid=7393132",
+        "company_name": "Waymo",
+        "title": "2026 Summer Intern, MS/PhD, Software Engineer, Planner Reasoning ML/DL",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "272ebb56-c365-4e6e-ba31-7f272187adca",
+        "date_posted": 1763392672,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763392770,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://jobs.ashbyhq.com/personainc.ai/6773dc35-24a5-458d-bc56-17a73ae00fb0",
+        "company_name": "Persona AI",
+        "title": "Machine Learning Internship, Manipulation",
+        "locations": [
+            "Houston, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "770a0546-4503-4360-99ac-8e827e23f451",
+        "date_posted": 1763392770,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763392819,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/Pittsburgh-PA/Intern-Robotics-Software--Pittsburgh--PA-_R86302",
+        "company_name": "Smith+Nephew",
+        "title": "Intern Robotics Software",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "72c2afb0-439b-4dae-a66a-24b07e01897e",
+        "date_posted": 1763392819,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763392937,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-sri.icims.com/jobs/6262/drexel-university-co-op%3a-embedded-software-engineering/job",
+        "company_name": "SRI",
+        "title": "Drexel University Co-op: Software Engineering",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "4314066d-6159-4f89-b3c1-76f09aa9cc25",
+        "date_posted": 1763392937,
+        "company_url": "",
+        "is_visible": true
     }
 ]
