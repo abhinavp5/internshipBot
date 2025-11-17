@@ -69942,7 +69942,7 @@
         "company_name": "Guardian Life",
         "id": "4379cbc8-ee5a-4631-a975-3fc85cc322a1",
         "title": "Summer Intern - Artificial Intelligence Business Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -161346,7 +161346,7 @@
         "company_name": "KCF Technologies",
         "id": "6efde4e4-091b-48b8-8e2f-8f2c6435f368",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -161438,7 +161438,7 @@
         "company_name": "Levi Strauss & Co.",
         "id": "e07fe437-14cb-47a3-a796-86f44e30a0cd",
         "title": "Analytics Intern - eCommerce Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
