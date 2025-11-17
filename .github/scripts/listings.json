@@ -169365,7 +169365,7 @@
         "company_name": "Microsoft",
         "id": "e2237da2-ab8e-421d-a945-9a43795403dd",
         "title": "Research Intern - Future Agent Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -174045,7 +174045,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "46f30da2-6e82-4eed-a01d-e3f793a37634",
         "title": "Quantitative Engineer Intern - Clearing Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
