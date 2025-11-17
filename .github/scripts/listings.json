@@ -58066,7 +58066,7 @@
     {
         "date_updated": 1756211651,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -59949,7 +59949,7 @@
         "company_name": "AbbVie",
         "id": "14aa40b6-8174-4dcd-b20d-9f417ef55e0f",
         "title": "Computational Data Scientist Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -153246,7 +153246,7 @@
         "company_name": "GE Vernova",
         "id": "b98bb6a0-41b0-49bf-b0a2-628c27db13cd",
         "title": "Software Engineering Intern - Project Delivery",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -174608,7 +174608,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Motive",
-        "id": "d106b4f9-3d54-4723-9f31-b5304663607f",
+        "id": "32d0a60b-c843-4137-8c3e-bdd5010cf240",
         "title": "Embedded Engineer Intern",
         "active": true,
         "terms": [
@@ -195984,7 +195984,7 @@
         ],
         "category": "Data Science, AI & Machine Learning",
         "source": "Simplify",
-        "id": "a749fb51-e260-4bdf-88bd-2097f42c1d12",
+        "id": "6129d7c1-2a9e-4861-93c7-07cf33305076",
         "date_posted": 1762179937,
         "company_url": "",
         "is_visible": true
@@ -197517,7 +197517,7 @@
         "company_name": "The Walt Disney Company",
         "id": "fa163ab0-e84f-41e2-b889-753eb4e361ec",
         "title": "Industrial Light & Magic \u2013 Graduate R&D Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -227745,7 +227745,7 @@
         "company_name": "Valsoft Corporation",
         "id": "e00cef62-91bc-4d00-aae4-1e75f2fcaac9",
         "title": "Full Stack Developer Intern - AI Engagement Portal",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -228407,7 +228407,7 @@
         "company_name": "Valsoft Corporation",
         "id": "7dfc1d9b-0683-4b2d-a43e-6ba1c898ec8e",
         "title": "Data Science Intern - Canada",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -246995,7 +246995,7 @@
         "company_name": "AbbVie",
         "id": "e29df7b0-cf01-4c85-8a69-c32dfce77980",
         "title": "Computational Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
