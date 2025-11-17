@@ -133,25 +133,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "B. Braun Medical Inc",
-        "id": "0e9f434e-5db3-4719-88b7-be89f0897afb",
-        "title": "B Braun PA Intern - Data and Analytics",
-        "active": false,
-        "terms": [
-            "Spring 2025"
-        ],
-        "date_updated": 1742666231,
-        "date_posted": 1742666231,
-        "url": "https://bbrauncareers-bbraun.icims.com/jobs/25784/job",
-        "locations": [
-            "Allentown, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/B-Braun-Medical-Inc",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1742762589,
         "url": "https://careers.spglobal.com/jobs/311436",
         "company_name": "S&P Global",
@@ -106167,7 +106148,7 @@
         "company_name": "Shure",
         "id": "fc68af8b-c5cb-444d-bdb0-462e96d43c9b",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -248115,6 +248096,27 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Santander",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Airbus",
+        "id": "df47282a-2253-4e10-9445-07970219ff3b",
+        "title": "Apprentice Battery Workshop Technician",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1763401067,
+        "date_posted": 1763401067,
+        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/West-London-Area/Apprentice-Battery-Workshop-Technician_JR10371164-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Airbus",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
