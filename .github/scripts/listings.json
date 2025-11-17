@@ -70565,7 +70565,7 @@
         "company_name": "TD Bank",
         "id": "ab154d65-d018-4917-aac4-7f7ae152f201",
         "title": "Data Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -220105,7 +220105,7 @@
         "company_name": "Meta",
         "id": "002076bb-5a40-43f6-abaa-ca89978f5dc4",
         "title": "Research Scientist Intern - Hearing Science and Auditory Perception - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
