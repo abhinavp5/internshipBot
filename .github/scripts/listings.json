@@ -34454,7 +34454,7 @@
         "company_name": "TikTok",
         "id": "c9639161-37ac-42b2-b037-1c6109301577",
         "title": "Data Scientist Intern - Tiktok-Business Risk Integrated Control-Risk Measurement - 2026 Summer - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -92758,7 +92758,7 @@
         "company_name": "Viavi Solutions",
         "id": "0cb3eb9d-c1f9-4364-800b-dcd74f5bd894",
         "title": "Software Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -106284,7 +106284,7 @@
         "company_name": "Shure",
         "id": "7e97a55d-b50d-494b-a815-6a3fcb0d6eb7",
         "title": "Automated Test Engineering Intern - Hardware",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -205177,7 +205177,7 @@
         "company_name": "Keystone Cooperative",
         "id": "4ff42b9e-6c7e-4b31-9961-7ccec86230b5",
         "title": "Intern \u2013 Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -231854,7 +231854,7 @@
         "company_name": "Behaviour Interactive",
         "id": "cc793277-ff9a-4e28-bbce-6c45e775abfa",
         "title": "Product Management Coordinator \u2013 Internship Winter 2026 - Coordonateur.trice Gestion de Produit - Stage Hiver 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -247905,13 +247905,36 @@
         "is_visible": true
     },
     {
-        "date_updated": 1763392937,
+        "date_updated": 1763393043,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "degrees": [
             "Bachelor's"
         ],
         "url": "https://careers-sri.icims.com/jobs/6262/drexel-university-co-op%3a-embedded-software-engineering/job",
+        "company_name": "SRI",
+        "title": "Drexel University Co-op: Embedded Software Engineering",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Hardware Engineering",
+        "source": "angie-hue",
+        "id": "4314066d-6159-4f89-b3c1-76f09aa9cc25",
+        "date_posted": 1763392937,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763393093,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-sri.icims.com/jobs/6268/drexel-university-co-op%3a-software-engineering/job",
         "company_name": "SRI",
         "title": "Drexel University Co-op: Software Engineering",
         "locations": [
@@ -247922,8 +247945,8 @@
         ],
         "category": "Software Engineering",
         "source": "angie-hue",
-        "id": "4314066d-6159-4f89-b3c1-76f09aa9cc25",
-        "date_posted": 1763392937,
+        "id": "be460d0b-decf-4e92-95a6-161ae43f9c08",
+        "date_posted": 1763393093,
         "company_url": "",
         "is_visible": true
     }
