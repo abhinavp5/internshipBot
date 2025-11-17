@@ -83962,7 +83962,7 @@
         "company_name": "AbbVie",
         "id": "8cc5a698-cf49-433f-9090-6ecb319ff164",
         "title": "Graph Machine Learning Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -107613,7 +107613,7 @@
         "company_name": "Shure",
         "id": "bd24eda5-ecb6-497b-9a0f-e45bf2378726",
         "title": "Marketing Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -198294,7 +198294,7 @@
         "company_name": "Meta",
         "id": "5d851938-6029-4b44-bfcd-cb3abc3c9fcb",
         "title": "Research Scientist Intern - Silicon Performance Architecture - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -239390,7 +239390,7 @@
         "company_name": "NVIDIA",
         "id": "f3b8fc78-7533-480d-8328-7fed9d36505b",
         "title": "Application Engineering Intern - AI for Chemistry and Materials",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -246932,7 +246932,7 @@
         "company_name": "AbbVie",
         "id": "42abcc91-b338-4b13-9ab2-00c4df3422e0",
         "title": "2026 Graph Machine Learning Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
