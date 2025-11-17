@@ -107941,7 +107941,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ad8b1567-30c9-4093-b10b-395eb58e0e33",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -107965,7 +107965,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9c843ea8-9b7c-4b8c-a34c-b8c89aa81148",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -172372,7 +172372,7 @@
         "company_name": "Microsoft",
         "id": "ee756ea0-44d8-4c67-bf32-698a5eafc994",
         "title": "Research Intern - Artificial Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -191383,7 +191383,7 @@
         "company_name": "Microsoft",
         "id": "4022b39c-a98a-41d4-9aea-bbc94830ea23",
         "title": "Research Intern - Computer Vision and Deep Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -225056,7 +225056,7 @@
         "company_name": "American Enterprise Institute",
         "id": "899e3af7-b2d9-4974-acf0-597d80f7d0a5",
         "title": "Spring Intern: Data Analysis and Education Policy",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -231005,7 +231005,7 @@
         "company_name": "Microsoft",
         "id": "2fdd5f02-b6f1-434f-b7c1-06e7f9f0d8b0",
         "title": "Research Intern - AI Hardware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
