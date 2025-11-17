@@ -43656,7 +43656,7 @@
         "company_name": "Microsoft",
         "id": "1d5ad3f8-616c-4cf1-beb0-7a47d9133e8e",
         "title": "Research Intern - Microsoft Research AI Frontiers",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -66734,7 +66734,7 @@
         "company_name": "Microsoft",
         "id": "3b56a0d4-8aaf-4b0b-8023-8b81296a8256",
         "title": "Research Intern - Multimodal Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -75700,7 +75700,7 @@
         "company_name": "Microsoft",
         "id": "977bb38f-fd15-4b49-9a1d-3014d3a8e04e",
         "title": "Research Intern - Multimodal Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -139813,7 +139813,7 @@
         "company_name": "Microsoft",
         "id": "3bdc1c10-38aa-4641-ad32-0387b07eccc5",
         "title": "Research Intern - Robot Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Spring 2025",
@@ -143611,7 +143611,7 @@
         "company_name": "Microsoft",
         "id": "5d461c99-99dc-42f1-9466-907a4b451bb4",
         "title": "Research Intern - Systems Research Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -145233,7 +145233,7 @@
         "company_name": "Microsoft",
         "id": "56ef0305-2016-4a5e-b102-c19b941ac15b",
         "title": "Research Intern - RiSE Group - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025",
@@ -146028,7 +146028,7 @@
         "company_name": "Microsoft",
         "id": "7d82850d-315b-40d1-aba9-ce134d31651a",
         "title": "Research Intern - Security Research Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2026",
@@ -147641,7 +147641,7 @@
         "company_name": "Microsoft",
         "id": "7a9c2763-0011-4598-99cd-ca13f6f1b613",
         "title": "Research Intern - Systems for Reliable and Scalable AI Agents",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -152299,7 +152299,7 @@
         "company_name": "Microsoft",
         "id": "f4b74188-6752-4d94-af1d-982311caf8d8",
         "title": "Research Intern - Reliability of Cloud and AI Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -154723,7 +154723,7 @@
         "company_name": "Microsoft",
         "id": "2d626552-37b9-4c81-92b9-ab78a9fd2241",
         "title": "Research Intern - MSR Software-Hardware Co-design",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -158632,7 +158632,7 @@
         "company_name": "Microsoft",
         "id": "d1d8b24d-ae61-4239-b5d2-52d24a64403c",
         "title": "Research Intern - AI Interaction and Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Spring 2026",
@@ -169338,7 +169338,7 @@
         "company_name": "Microsoft",
         "id": "9a4e8ca2-47a0-49df-92dd-4d3fc97f7765",
         "title": "Research Intern - Networking Research Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -169433,7 +169433,7 @@
         "company_name": "Microsoft",
         "id": "0b373123-d387-4c96-8c43-380682aa8e5d",
         "title": "Research Intern - Gray Systems Lab",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -170800,7 +170800,7 @@
         "company_name": "Microsoft",
         "id": "9d081b94-df46-4eb4-9cbc-e9bd69665b12",
         "title": "Research Intern - Copilot Tuning",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Spring 2026"
@@ -172368,7 +172368,7 @@
         "company_name": "Microsoft",
         "id": "af8a4a74-e31f-4785-a761-3c61762717e3",
         "title": "Research Intern - Cloud Reliability & Efficiency",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -172512,7 +172512,7 @@
         "company_name": "Microsoft",
         "id": "7a32c411-7476-4d13-93ad-067aa3ab2062",
         "title": "Research Intern - AI-Driven System Design",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -172630,7 +172630,7 @@
         "company_name": "Microsoft",
         "id": "29ee1082-cc30-4b3e-8950-41c5ec4db903",
         "title": "Research Intern - Computer Vision Algorithms",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -172653,7 +172653,7 @@
         "company_name": "Microsoft",
         "id": "182ae4f1-c609-4624-ba78-5172a1b78ef7",
         "title": "Research Intern - AI Agents & Reasoning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -172916,7 +172916,7 @@
         "company_name": "Microsoft",
         "id": "3890feab-3e3a-4e61-ba29-e27a39faf6df",
         "title": "Research Intern - Artificial Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -179038,7 +179038,7 @@
         "company_name": "Microsoft",
         "id": "ac61715b-cf62-47a5-8d00-a4dbab748aac",
         "title": "Research Intern - Audio and Acoustics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -184512,7 +184512,7 @@
         "company_name": "Microsoft",
         "id": "450e8431-4668-4cba-a9ef-14c20a9e83fa",
         "title": "Research Intern - MSR Montreal / ML Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Spring 2025",
@@ -186290,7 +186290,7 @@
         "company_name": "Microsoft",
         "id": "a1646ca7-9f23-4a5a-8488-7b91e5e674aa",
         "title": "Research Intern - Machine Learning and Statistics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -187118,7 +187118,7 @@
         "company_name": "Microsoft",
         "id": "2130f540-ce06-4684-80ca-68f0d9922d71",
         "title": "Research Intern - Systems For Efficient AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -187306,7 +187306,7 @@
         "company_name": "Microsoft",
         "id": "17d2a964-43dd-4a1e-b10b-97399b74fe76",
         "title": "Research Intern - Computer Vision and Deep Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -187469,7 +187469,7 @@
         "company_name": "Microsoft",
         "id": "fb3c970a-f73c-4e95-8308-a8a01e9c0b2d",
         "title": "Research Intern - Machine Learning for Biology and Healthcare",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -192082,7 +192082,7 @@
         "company_name": "Microsoft",
         "id": "aa2f21e2-6236-4098-a71e-765341699a10",
         "title": "Research Intern - Computer Vision and Deep Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -200325,7 +200325,7 @@
         "company_name": "Microsoft",
         "id": "210a8c10-a636-449e-82ba-8c413062e8c7",
         "title": "Research Intern - AI Agents",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -200569,7 +200569,7 @@
         "company_name": "Microsoft",
         "id": "d50be02b-afd6-4fa8-842c-d505ecf0cbea",
         "title": "Research Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -201605,7 +201605,7 @@
         "company_name": "Microsoft",
         "id": "7dedcbd6-138f-428b-86af-4b0d15ff51f1",
         "title": "Research Intern - Human Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -202678,7 +202678,7 @@
         "company_name": "Microsoft",
         "id": "36506a9a-26d5-4dd0-b548-2326d9542996",
         "title": "Research Intern - Hardware/Software Codesign",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -204693,7 +204693,7 @@
         "company_name": "Microsoft",
         "id": "1c7ee9a7-bf2a-4384-a77f-eaf135081ee3",
         "title": "Research Intern - AI Hardware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -207076,7 +207076,7 @@
         "company_name": "Microsoft",
         "id": "9659c1d9-154c-4e4b-a96b-9bca7547b392",
         "title": "Research Intern - AI Frontiers - Reasoning & Agentic Models",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -240604,7 +240604,7 @@
         "company_name": "GE Healthcare",
         "id": "0d83dfff-2dc3-4742-b0ed-e135f6ecf631",
         "title": "Field Engineer Apprentice - Buffalo; Rochester",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
