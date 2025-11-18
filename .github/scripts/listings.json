@@ -164974,7 +164974,7 @@
         "company_name": "Meta",
         "id": "82a24e68-6892-4fe4-8f0f-27f559adadf4",
         "title": "Research Scientist Intern - Product Algorithms",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -195965,7 +195965,7 @@
         ],
         "category": "Data Science, AI & Machine Learning",
         "source": "Simplify",
-        "id": "6129d7c1-2a9e-4861-93c7-07cf33305076",
+        "id": "af3854af-6558-441b-94c4-a96dcd6569c5",
         "date_posted": 1762179937,
         "company_url": "",
         "is_visible": true
@@ -207878,7 +207878,7 @@
         "company_name": "ACLU Kentucky",
         "id": "3ea20531-5233-416b-8996-91de0fa34f83",
         "title": "Spring 2026 Graduate Intern - Educate Pod - Technology and Analytics Department",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -224763,7 +224763,7 @@
         "company_name": "Bartlett & West",
         "id": "878534f2-b978-4d1e-ade6-a97e9dc0acee",
         "title": "GIS Intern - Water Resources Focus",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
