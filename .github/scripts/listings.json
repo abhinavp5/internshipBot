@@ -174263,7 +174263,7 @@
         "company_name": "Tradeweb",
         "id": "469f8541-1f4c-4ff7-988b-be1341564acd",
         "title": "Intern/Co-op - JavaScript UI Development - Technology Division",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -236159,7 +236159,7 @@
         "company_name": "The Walt Disney Company",
         "id": "dbf74d58-affd-40e9-8fb1-a0664eb0615c",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
