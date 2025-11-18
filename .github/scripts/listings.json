@@ -163895,7 +163895,7 @@
         "company_name": "Dow Jones",
         "id": "e0a82c1e-c411-4881-95aa-566302e81f91",
         "title": "Data Analyst Intern - OPIS Strategic Insights Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -166361,7 +166361,7 @@
         "company_name": "Dow Jones",
         "id": "79ee7888-6ed2-4807-b914-fdad2cd0c589",
         "title": "Software Engineering Intern - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -180454,7 +180454,7 @@
         "company_name": "The Federal Reserve System",
         "id": "84820b74-65a3-4560-949a-0be05aa5a145",
         "title": "Summer 2026 Intern-PhD Data Science or Computer Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
