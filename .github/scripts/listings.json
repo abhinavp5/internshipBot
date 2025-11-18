@@ -75781,7 +75781,7 @@
         "company_name": "Meta",
         "id": "8beceb4b-130f-4e1a-9d23-1a0e8defcd3f",
         "title": "Research Scientist Intern - Foundation Model Optimization - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -93395,7 +93395,7 @@
         "company_name": "Meta",
         "id": "d7599b0d-f9ed-43f9-9b17-b66ee8661344",
         "title": "Research Scientist Intern - 3D World Modelling - Robotics and Generative AI - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -104372,7 +104372,7 @@
         "company_name": "Meta",
         "id": "24ff9f2f-9a62-464e-b657-79c732ec6424",
         "title": "Research Scientist Intern - Tracking & Sensor Fusion - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -177811,7 +177811,7 @@
         "company_name": "Meta",
         "id": "1205ff1b-6794-4d16-a583-8c2b4bc82260",
         "title": "Research Scientist Intern - Code Generation - PhD - London",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -204592,7 +204592,7 @@
         "company_name": "Viridien",
         "id": "7ef53fd2-2d7f-42ac-a6bd-21611c75b612",
         "title": "Imaging Geophysicist Summer Internship 2026 - ",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
