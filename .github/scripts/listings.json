@@ -224847,7 +224847,7 @@
         "company_name": "NVIDIA",
         "id": "95e75b05-e413-49a9-9ee2-3b648f77a7df",
         "title": "CPU Compiler Intern - 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -242076,7 +242076,7 @@
         "company_name": "Kimley-Horn",
         "id": "45d7981d-6648-41a2-bcfa-8ee4e8ddced1",
         "title": "GIS Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
