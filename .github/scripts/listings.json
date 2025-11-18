@@ -208299,7 +208299,7 @@
         "company_name": "UC Health",
         "id": "31cbbfdb-c914-4a34-aca1-6b2d6bfd63f4",
         "title": "Digital Health Systems Co-op Student",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -215326,7 +215326,7 @@
         "company_name": "Stand Together",
         "id": "b0b262da-d3bf-4a86-9eb6-b317e0eb7817",
         "title": "KIP Spring 2026 \u2013 Data Analysis Intern - Open the Books",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -239350,7 +239350,7 @@
         "company_name": "Allegion",
         "id": "8e91f303-937d-4029-97e4-3a5ed1f8cfa0",
         "title": "Systems Engineering Intern - UI Alerting",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -243591,7 +243591,7 @@
         "company_name": "Graphcore",
         "id": "e0cfb380-6c74-41c6-9f08-7af4db990ffc",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
