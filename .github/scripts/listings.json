@@ -34916,7 +34916,7 @@
         "company_name": "TikTok",
         "id": "03a0765c-185c-440c-9ffe-b0f967866d34",
         "title": "Data Scientist Intern - Tiktok-Search",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -131848,7 +131848,7 @@
         "company_name": "ServiceNow",
         "id": "728ee2d5-a9c7-4092-949c-661263608ba7",
         "title": "ServiceNow Security Organization - AI for Security Operations Engineering Intern - Sso",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -131894,7 +131894,7 @@
         "company_name": "ServiceNow",
         "id": "2220cfaf-ccfc-4a96-b5af-52253e3f3e9e",
         "title": "Data Informatics Analyst Intern - Security Organization",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -142978,7 +142978,7 @@
         "company_name": "ServiceNow",
         "id": "a7ac75d1-b271-4c0e-b675-75657a5622bc",
         "title": "Data Informatics Analyst Intern - Security Organization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -143047,7 +143047,7 @@
         "company_name": "ServiceNow",
         "id": "96fa47c2-9018-4be3-94f9-8540b4e713ed",
         "title": "AI for Security Operations Engineering Intern - Platform Security Innovation Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -188459,7 +188459,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "NBCUniversal",
-        "id": "7c13af7d-629e-4ed7-a31f-692946891220",
+        "id": "6e04f537-e1f3-4595-837b-5cf6aa9e3f18",
         "title": "Audience Insights & Data Analytics Intern",
         "active": true,
         "terms": [
@@ -196339,7 +196339,7 @@
         "company_name": "CACI",
         "id": "f46d5341-851b-4bac-8441-2d754bae5d81",
         "title": "BD Ops Reporting & Analytics Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -199865,7 +199865,7 @@
         "company_name": "Hitachi",
         "id": "aec477f3-2c6d-4d7e-b702-90da108cc49a",
         "title": "Software Analyst Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -224056,7 +224056,7 @@
         "company_name": "Zoox",
         "id": "c4a83094-210f-41b3-ad09-9dfdc336c4ac",
         "title": "Systems Engineering Internships",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -236138,7 +236138,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "28186a1f-ef57-49f3-8dc1-b2bc097b8506",
         "title": "Engineer - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -249480,5 +249480,26 @@
         "date_posted": 1763483324,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Red Bull",
+        "id": "959c4d01-1b50-4bf5-8994-4c8f73221afd",
+        "title": "2026 Internship - Spring - Data Science",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1763483891,
+        "date_posted": 1763483891,
+        "url": "https://jobs.smartrecruiters.com/RedBull/744000094222026",
+        "locations": [
+            "Livingston, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Bull",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
