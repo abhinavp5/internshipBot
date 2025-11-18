@@ -91321,7 +91321,7 @@
         "company_name": "Howmet Aerospace",
         "id": "d725ad1c-dcae-44e5-bed8-d68061f50e9e",
         "title": "Product Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -166384,7 +166384,7 @@
         "company_name": "Dow Jones",
         "id": "2658b408-7798-4d6f-974f-4a6c8b9691f7",
         "title": "Enterprise Application Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -191508,7 +191508,7 @@
         "company_name": "Two Six Technologies",
         "id": "4db3577b-3503-4835-b9dc-12fdd015948d",
         "title": "Summer Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -214661,7 +214661,7 @@
         "company_name": "The Federal Reserve System",
         "id": "810b641e-ce25-4af4-b6c9-1059539a170e",
         "title": "Summer Data Science and Business Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -226039,7 +226039,7 @@
         "company_name": "Signify",
         "id": "9b910c7a-4f64-4f88-aa97-f2aba8655d4f",
         "title": "Sales Analytics Intern-E-Commerce",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -242636,7 +242636,7 @@
         "company_name": "Zoox",
         "id": "8b2306f1-f2eb-442a-bb40-7764c2e3a68d",
         "title": "Full Stack Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -245999,7 +245999,7 @@
         "company_name": "Volaris Group",
         "id": "f0153fc4-5630-48a6-89c9-2daca62bbb0c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
