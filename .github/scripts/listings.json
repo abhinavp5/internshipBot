@@ -135002,7 +135002,7 @@
         "company_name": "Lendbuzz",
         "id": "1dc86975-055d-4c3e-81f8-21bc62cb3c80",
         "title": "Machine Learning Intern - Language Understanding - Semantic Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -241562,7 +241562,7 @@
         "company_name": "Al Warren Oil Company",
         "id": "03368e5d-c6e7-403d-b1e4-c96a37157955",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -244323,7 +244323,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "57635adb-c4ef-4b25-908a-3b801e0a4d05",
         "title": "Software Engineer Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
