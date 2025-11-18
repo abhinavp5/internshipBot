@@ -168180,7 +168180,7 @@
         "company_name": "Arrive Logistics",
         "id": "4a47ba42-d6f7-43c7-b02c-d4dcac041dab",
         "title": "Data Science Intern - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -216503,7 +216503,7 @@
         "company_name": "Airbus",
         "id": "59ff3b37-1ec7-49b8-9d60-8a7dfa0eebb0",
         "title": "Geospatial Data Scientist Degree Apprenticeship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
