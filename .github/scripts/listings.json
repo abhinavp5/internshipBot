@@ -70759,7 +70759,7 @@
         "company_name": "TD Bank",
         "id": "6fb649bf-3149-4762-a215-c2665cb9de75",
         "title": "Data Analytics & Insights Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -235835,7 +235835,7 @@
         "company_name": "The Walt Disney Company",
         "id": "8759a857-d960-47cd-b52f-fc5d251811c1",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
