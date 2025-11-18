@@ -133,25 +133,6 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1742762589,
-        "url": "https://careers.spglobal.com/jobs/311436",
-        "company_name": "S&P Global",
-        "title": "Security Engineering Intern (Early Careers)",
-        "locations": [
-            "Toronto, Canada"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "GaryZhous",
-        "id": "dcf8e753-ff36-44a1-8b66-df2927695ba0",
-        "date_posted": 1742762589,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "company_name": "Veolia",
         "id": "11805377-7e22-45cc-b4ab-7ac9e82b0e9a",
@@ -31927,7 +31908,7 @@
         "company_name": "PennState University",
         "id": "a7141d7b-1a29-4ce4-9635-9412583c6a96",
         "title": "AI/ML Research and Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Spring 2025",
@@ -69531,7 +69512,7 @@
         "company_name": "Nokia",
         "id": "2e819de3-a465-45c0-a5d9-29abba0bba86",
         "title": "Autonomous Net Fabric Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -69769,7 +69750,7 @@
         "company_name": "Stryker",
         "id": "c43bdedc-7cac-498c-8491-107fc98e7978",
         "title": "2026 Summer Intern - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -71370,7 +71351,7 @@
         "company_name": "Salesforce",
         "id": "40e34901-0127-44d1-90fb-a4b6b9948046",
         "title": "Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -82389,7 +82370,7 @@
         "company_name": "CIBC",
         "id": "3dc1d29c-160c-4110-866a-ada8acdbc5b4",
         "title": "2026 Summer Intern - Technology - Infrastructure and Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -127500,7 +127481,7 @@
         "company_name": "Arch Capital Group",
         "id": "e0478c8c-656b-4f55-ad3a-00ebc59f0466",
         "title": "Cloud and Data Engineering Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -166338,7 +166319,7 @@
         "company_name": "Dow Jones",
         "id": "a3511890-6ae6-4823-8b93-b66631bfc05b",
         "title": "Data Analyst Intern - OPIS Strategic Insights Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -166622,7 +166603,7 @@
         "company_name": "Dow Jones",
         "id": "5da51c90-28a7-44a4-8c63-13a0894cb774",
         "title": "Data Analyst Intern - Insights and Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -177693,7 +177674,7 @@
         "company_name": "Cirrus Logic",
         "id": "40023c2c-8034-45e6-b3e9-136f622ed7c2",
         "title": "Summer Intern - Design Verification Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -188369,7 +188350,7 @@
         "company_name": "Mom's Meals",
         "id": "12b53c09-b153-4860-b947-d8052a24c706",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -202402,7 +202383,7 @@
         "company_name": "Keysight Technologies",
         "id": "13856793-05f3-45cc-90db-98dbbc9d1f1b",
         "title": "FPGA Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -225403,7 +225384,7 @@
         "company_name": "Salesforce",
         "id": "b476d6e3-d5b0-4179-8453-71f2a34f632e",
         "title": "Summer 2026 Intern-Tableau Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -237779,7 +237760,7 @@
         "company_name": "Draper",
         "id": "57eb305c-17f9-45fc-9205-c6465e13a2a6",
         "title": "Microelectronics Integration & Test Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -242549,7 +242530,7 @@
         "company_name": "HiveWatch",
         "id": "c33fb2d9-d0c3-4dbd-8999-d55eab15b54b",
         "title": "AI Data Labeling Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -245892,7 +245873,7 @@
         "company_name": "Hologic",
         "id": "6e8f9d2c-a6e9-45f8-ab57-52c5ce4eb103",
         "title": "Co-Op \u2013 Software Engineering - Surgical",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -248513,7 +248494,7 @@
         "company_name": "Altera Corporation",
         "id": "4b8e9f36-18ce-4884-b2e9-b48a13e5f227",
         "title": "Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
