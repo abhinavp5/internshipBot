@@ -172521,7 +172521,7 @@
         "company_name": "Marvell",
         "id": "89ab1497-db9b-4b42-9ff8-30ff2cd3a8bc",
         "title": "Software Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -191000,7 +191000,7 @@
         "company_name": "Cohesity",
         "id": "55804f88-c2c8-4f16-95d9-4cb8b86fc734",
         "title": "Data Scientist Intern-Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -220243,7 +220243,7 @@
         "company_name": "Varda Space",
         "id": "b29a3d70-1577-4d04-ba1a-ddaabfb9443a",
         "title": "Pharmaceutical Portfolio Internship 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -233179,7 +233179,7 @@
         "company_name": "Oracle",
         "id": "fa1a5952-4823-4e41-87f4-951d24e58a38",
         "title": "Undergrad Software Engineer Intern - IoT Platform & Software Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
