@@ -135193,7 +135193,7 @@
         "company_name": "Meta",
         "id": "1e397c0d-35fb-4c64-88b8-7329e7e21010",
         "title": "Research Intern - AI Systems and Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -235201,7 +235201,7 @@
         "company_name": "Blue Shield of California",
         "id": "3cb2a914-bcd2-4820-9b59-9aa1301780b5",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
