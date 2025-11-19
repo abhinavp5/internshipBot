@@ -145633,7 +145633,7 @@
         "company_name": "Oshkosh",
         "id": "47a46e61-606d-49ef-a967-99e9fc43d00c",
         "title": "Software Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -182522,7 +182522,7 @@
         "company_name": "Visa",
         "id": "baa365d9-2904-4692-ae25-ffdb70fa36d1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -225195,7 +225195,7 @@
         "company_name": "Visa",
         "id": "2d81c7c5-7ee3-4946-839a-7cfabe385033",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -225363,7 +225363,7 @@
         "company_name": "CenturyLink",
         "id": "0f94a6ce-62d1-4908-9210-cab57d87dc93",
         "title": "Intern \u2013 Engineer - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -248301,7 +248301,7 @@
         "company_name": "Major League Baseball",
         "id": "7dd5dfac-151d-47d2-b514-912c0f9f63ad",
         "title": "Intern - Analytics & Strategy",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -249897,7 +249897,7 @@
         "company_name": "Mercury",
         "id": "f727d15a-e9b1-4bc9-9c73-e086bbe6d272",
         "title": "Android Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -249987,7 +249987,7 @@
         "company_name": "LinkedIn",
         "id": "fa7e7c93-38f2-4017-b3c5-f46831cd229b",
         "title": "AI/ML Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
