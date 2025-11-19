@@ -70786,7 +70786,7 @@
         "company_name": "TD Bank",
         "id": "49fedd18-9804-4475-b742-063cc38d9371",
         "title": "Business System Analyst co-op/ Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -170867,7 +170867,7 @@
         "company_name": "Apple",
         "id": "2d14ee8b-040a-4361-b6ba-afc287cdcf75",
         "title": "GPU Intern - Design Verification - Emulation & Driver Live",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2026",
@@ -170919,7 +170919,7 @@
         "company_name": "Apple",
         "id": "33832824-2b0b-4117-96bd-58ec5331d686",
         "title": "GPU Intern - Platform Architecture",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2026",
@@ -170994,7 +170994,7 @@
         "company_name": "Apple",
         "id": "f23ff68f-7047-4bda-a680-5ee065fa50e2",
         "title": "Machine Learning Intern - Artificial Intelligence and Machine Learning",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -171040,7 +171040,7 @@
         "company_name": "Apple",
         "id": "d47212df-1b55-45ea-a6d8-33adcc14e3e9",
         "title": "Hardware Technology Intern - Hardware Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -171063,7 +171063,7 @@
         "company_name": "Apple",
         "id": "d2d605b9-10bc-43e7-834f-4db2ccb85045",
         "title": "Software Engineering Internships - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -202531,7 +202531,7 @@
         "company_name": "Apple",
         "id": "08314139-479a-4f59-84a3-c9dbde2ace17",
         "title": "GPU Internships - RTL Design - RTL Power Optimisation & Physical Design",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2026",
@@ -246915,7 +246915,7 @@
         "company_name": "AGILE Space Industries",
         "id": "2fc5b3c8-ef21-4135-8c14-7d1744a457eb",
         "title": "Software Engineer Intern-Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -250601,6 +250601,50 @@
             "Princeton, NJ"
         ],
         "company_url": "https://simplify.jobs/c/SRI-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Oracle",
+        "id": "8b698f3e-3456-4087-9473-5789b498d746",
+        "title": "Undergrad Software Engineer Intern - Fusion",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1763514887,
+        "date_posted": 1763514887,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/305901",
+        "locations": [
+            "San Carlos, CA",
+            "Pleasanton, CA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Apple",
+        "id": "e1606eee-4ef1-4b72-83fc-d0d45a692966",
+        "title": "Engineering Program Management Internships",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1763514718,
+        "date_posted": 1763514718,
+        "url": "https://jobs.apple.com/en-us/details/200606141",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
