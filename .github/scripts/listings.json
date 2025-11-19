@@ -5046,25 +5046,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Skechers",
-        "id": "3a4764fb-f8f2-4fc2-8917-f9f16d3a93c9",
-        "title": "Database Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1742837663,
-        "date_posted": 1742837663,
-        "url": "https://skechers.wd5.myworkdayjobs.com/One-career-site/job/Manhattan-Beach-CA/Database-Engineering-Intern--Summer-2025-_JR115050",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Skechers",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Forbes",
         "id": "e03e23b3-9272-47ee-bebb-59d4a8f6ac5f",
         "title": "Business Intelligence/Insights Intern",
@@ -68755,7 +68736,7 @@
         "company_name": "Stryker",
         "id": "a7d290b8-3b15-4d09-b5c8-c75b56647d65",
         "title": "2026 Summer Intern - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -106771,7 +106752,7 @@
         "company_name": "Nelnet",
         "id": "075f70cb-3e54-4789-a1f2-bf772a3198ad",
         "title": "2026 Summer Intern - IT Software Engineer - .Net/Web",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -247267,7 +247248,7 @@
         "company_name": "Nestle",
         "id": "058722ea-99ca-4b19-8aea-62a819e05be8",
         "title": "Nestl\u00e9 Professional Product Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -249699,7 +249680,7 @@
         "company_name": "Altera Corporation",
         "id": "0e1451d1-9196-45d3-990a-6931f2035270",
         "title": "Design Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
