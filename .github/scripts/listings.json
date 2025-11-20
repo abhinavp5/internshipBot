@@ -90994,7 +90994,7 @@
         "company_name": "Symbotic",
         "id": "f38deb9a-f4dd-44d2-86cb-8db65d0a9916",
         "title": "Intern-Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025",
             "Spring 2025",
@@ -105845,7 +105845,7 @@
         "company_name": "STR",
         "id": "f7491670-a3ea-451c-9588-8dbced74521d",
         "title": "Analytics and Command & Control \u2013 Mission Engineer Summer Internship - C2",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -105870,7 +105870,7 @@
         "company_name": "STR",
         "id": "e8d65a57-04bb-4100-bd41-98e35b8e39a7",
         "title": "Intelligence Summer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -105942,7 +105942,7 @@
         "company_name": "STR",
         "id": "acf24473-f376-4e7b-9634-ad14c8bcf62d",
         "title": "Intelligence Summer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -105990,7 +105990,7 @@
         "company_name": "STR",
         "id": "739ed98a-653f-4c48-9d5c-7257360e3af7",
         "title": "Analytics Summer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -106038,7 +106038,7 @@
         "company_name": "STR",
         "id": "461dd8d2-88af-4555-a82b-44198e55c66e",
         "title": "Intelligence Summer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -138834,7 +138834,7 @@
         "company_name": "General Motors",
         "id": "6ed05831-d47f-40be-bb5e-1e2689b9af30",
         "title": "Intern - Product Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -140138,7 +140138,7 @@
         "company_name": "Oshkosh",
         "id": "e2b34e08-9dba-4614-8c34-8bfb4d66917e",
         "title": "Data Engineer Intern - Advanced Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -173161,7 +173161,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "fc202f9c-55e4-4730-b538-4c12c35c1b98",
         "title": "Software Developer Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -196930,7 +196930,7 @@
         "company_name": "FMC Corporation",
         "id": "800adc76-76de-4550-b6ad-7445f74c9beb",
         "title": "U.S. Marketing Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -201274,7 +201274,7 @@
         "company_name": "Rolls Royce",
         "id": "f2d39e37-714b-4881-8e14-7e29b94f5231",
         "title": "Intern \u2013 Computer Science Emissions Lab",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -226884,7 +226884,7 @@
         "company_name": "Sun Life",
         "id": "d79f84ef-592b-49b9-8028-3c57ecef0721",
         "title": "Software Engineering Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -232119,7 +232119,7 @@
         "company_name": "Rambus",
         "id": "1f934601-b176-42b2-adb3-e2e998544b0c",
         "title": "Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -234895,7 +234895,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "b2e5c9a4-0b91-4f7b-a58b-29b7500589fd",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -235961,7 +235961,7 @@
         "company_name": "Lightmatter",
         "id": "03797ae7-246b-48c4-bd96-4ac150c9e63a",
         "title": "Package Layout Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -236996,7 +236996,7 @@
         "company_name": "State Street",
         "id": "032d6824-f2f3-41f2-8dfa-a5bae4bc0e5c",
         "title": "Corporate Audit Data Analytics Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -239766,8 +239766,8 @@
             "Summer 2026"
         ],
         "category": "Software Engineering",
-        "source": "N1femi",
-        "id": "3a27df94-b51c-4fd2-93e1-5a9612ecfa8b",
+        "source": "Simplify",
+        "id": "e12cfb4a-fe43-48f1-a311-26b623433aa5",
         "date_posted": 1762971307,
         "company_url": "",
         "is_visible": true
@@ -250216,7 +250216,7 @@
         "company_name": "JP Morgan Chase",
         "id": "38ccac18-f459-4463-a36e-34a2b359be07",
         "title": "Applied AI/ML Associate Program \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -251750,6 +251750,246 @@
             "Manchester, UK"
         ],
         "company_url": "https://simplify.jobs/c/AJ-Bell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "AbbVie",
+        "id": "fdfc7e6e-f0fa-4034-864e-8d94df06e826",
+        "title": "Product Development and Technology Intern - Science",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763664296,
+        "date_posted": 1763664296,
+        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990010081536",
+        "locations": [
+            "Waukegan, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/AbbVie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cisco",
+        "id": "e0ae2e2d-f58f-4959-aedd-99834d332128",
+        "title": "Software Engineer Embedded/Network Systems 1 - Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1763664378,
+        "date_posted": 1763664378,
+        "url": "https://careers.cisco.com/global/en/job/2000445",
+        "locations": [
+            "Boston, MA",
+            "Knoxville, TN",
+            "Milpitas, CA",
+            "Austin, TX",
+            "San Jose, CA",
+            "Fulton, MD",
+            "Dallas, TX",
+            "Hillsboro, OR",
+            "Alpharetta, GA",
+            "NYC",
+            "Acton, MA",
+            "Research Triangle, Durham, NC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "efd3e1e2-ca0e-477d-b033-19701474a4fc",
+        "title": "Engineering Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1763663811,
+        "date_posted": 1763663811,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8149123002",
+        "locations": [
+            "Bastrop, TX",
+            "Irvine, CA",
+            "Cape Canaveral, FL",
+            "Brownsville, TX",
+            "Redmond, WA",
+            "McGregor, TX",
+            "West Athens, CA",
+            "Vandenberg Village, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Embrace",
+        "id": "4d95747d-598b-4ee2-a086-0d54745f3f38",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1763663777,
+        "date_posted": 1763663777,
+        "url": "https://job-boards.greenhouse.io/embrace/jobs/5718369004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Embrace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Flagship Pioneering",
+        "id": "890b1954-a498-45b6-8989-3a8e3eb1e033",
+        "title": "Pioneering Intelligence ML Co-Op - Agentic AI team",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1763664113,
+        "date_posted": 1763664113,
+        "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8227687002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/FlagshipPioneering",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cisco",
+        "id": "951af77e-9827-46bb-b637-b21adf0f508d",
+        "title": "Software Developer 1 - Stagiaire - Canada / Software Developer I",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1763664418,
+        "date_posted": 1763664418,
+        "url": "https://careers.cisco.com/global/en/job/2000876",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Calgary, AB, Canada",
+            "Kanata, Ottawa, ON, Canada",
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cisco",
+        "id": "6e891cb1-1cbd-4d19-a472-949beff3a81b",
+        "title": "Hardware Engineer 1",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1763664391,
+        "date_posted": 1763664391,
+        "url": "https://careers.cisco.com/global/en/job/2000041",
+        "locations": [
+            "SF",
+            "San Jose, CA",
+            "Research Triangle, Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cisco",
+        "id": "2fd15891-0544-48e5-b403-66a4fb97a86f",
+        "title": "ASIC Design Verification Engineer 2",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1763664411,
+        "date_posted": 1763664411,
+        "url": "https://careers.cisco.com/global/en/job/2001068",
+        "locations": [
+            "Acton, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Oracle",
+        "id": "dc522f0c-d115-428b-93b1-f9a7947ad77a",
+        "title": "OCI Software Engineer Intern - Ovip",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1763673959,
+        "date_posted": 1763673959,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/316199",
+        "locations": [
+            "Nashville, TN",
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cisco",
+        "id": "d2da749a-84bb-4e0f-a8bd-b7dfebc60ba7",
+        "title": "Hardware Engineer 2",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1763664380,
+        "date_posted": 1763664380,
+        "url": "https://careers.cisco.com/global/en/job/2000134",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA",
+            "Research Triangle, Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
