@@ -419,26 +419,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Extreme Networks",
-        "id": "f030f8a1-b67d-47a0-9e46-56aeb8e5dbe2",
-        "title": "Intern \u2013 Micro Controller Developer",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1742944165,
-        "date_posted": 1742944165,
-        "url": "https://jobs.lever.co/extremenetworks/174c3177-17f4-43f7-8d55-8284c843f435/apply",
-        "locations": [
-            "Raleigh, NC",
-            "Salem, NH"
-        ],
-        "company_url": "https://simplify.jobs/c/Extreme-Networks",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "GlobalFoundries",
         "id": "c86f3fe3-8cb0-40ef-b0ab-4dbdb74a4ceb",
         "title": "Tapeout Engineering Biz Apps & Data Intern",
@@ -26476,7 +26456,7 @@
         "company_name": "DRW",
         "id": "c7343fde-2dbc-478d-a4b2-9a1ab06f3b52",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2027",
@@ -98944,7 +98924,7 @@
         "company_name": "LabCorp",
         "id": "de23b876-b35d-4361-9b93-a3614b35a7c5",
         "title": "Intern \u2013 Enterprise Systems Monitoring",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -107108,7 +107088,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "c948674f-b374-488f-af89-265ae92d4fca",
         "title": "Machine Learning Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -115605,7 +115585,7 @@
         "company_name": "TikTok",
         "id": "c271b29c-5c6e-4d47-b42e-2724ee5aa65c",
         "title": "Machine Learning Engineer Intern - Tiktok Recommendation-Live - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -161121,7 +161101,7 @@
         "company_name": "DoorDash",
         "id": "3cb6b836-1f74-4e68-856e-9334a7b0da1d",
         "title": "Software Engineer Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -169685,7 +169665,7 @@
         "company_name": "Signifyd",
         "id": "6184b633-7c47-46e5-9ce5-4b9338f3fb6e",
         "title": "Engineering Intern - Software Development - Java",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -180254,7 +180234,7 @@
         "company_name": "CSAA Insurance Group",
         "id": "9486776b-d37c-4361-a4a2-d4802feaad39",
         "title": "Data Science Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -214740,7 +214720,7 @@
         "company_name": "Keysight Technologies",
         "id": "bc4ece91-185f-4115-ab26-8ad33d0cf5b3",
         "title": "Embedded Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -218379,7 +218359,7 @@
         "company_name": "Dexcom",
         "id": "6bd9b774-f786-488e-979f-e402892fa2f1",
         "title": "Intern II \u2013 Business Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -218748,7 +218728,7 @@
         "company_name": "Apogee Engineering",
         "id": "c0b246ac-9f50-4715-82eb-c08b2ecfc468",
         "title": "Technical Intelligence Analyst \u2013 Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -224134,7 +224114,7 @@
         "company_name": "Bartlett & West",
         "id": "878534f2-b978-4d1e-ade6-a97e9dc0acee",
         "title": "GIS Intern - Water Resources Focus",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -224627,7 +224607,7 @@
         "company_name": "OmniSource",
         "id": "5a0de67c-94b7-4303-8869-fd2a1c1b129e",
         "title": "Data Analytics Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -246197,7 +246177,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "1f8d9cb9-1b54-4e19-86da-bdbc4709ccd8",
         "title": "Integration and Test Intern Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -248529,7 +248509,7 @@
         "company_name": "Amperity",
         "id": "a32b0dcc-ce7c-44b3-a487-49c1bcf05604",
         "title": "Software Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -249977,7 +249957,7 @@
         "company_name": "SRI International",
         "id": "185db282-0dc3-4839-93ea-c3e7758acc70",
         "title": "Drexel University Co-op: Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -250778,8 +250758,8 @@
             "Summer 2026"
         ],
         "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "540152b2-2e91-436e-8e25-348774605289",
+        "source": "Simplify",
+        "id": "fbf47c69-385d-4a70-b29b-ef7c60aa48bc",
         "date_posted": 1763657145,
         "company_url": "",
         "is_visible": true
@@ -252459,6 +252439,136 @@
             "Marlborough, MA"
         ],
         "company_url": "https://simplify.jobs/c/Sikich",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Santander",
+        "id": "068e3187-f05a-425c-a9d1-f236982a4045",
+        "title": "Digital Products Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763666198,
+        "date_posted": 1763666198,
+        "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boston/Digital-Products-Intern_Req1509205",
+        "locations": [
+            "Boston, MA",
+            "Miami, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Santander",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Twitch",
+        "id": "5fb7985f-37d4-4de7-bbd0-56eb0727c4c6",
+        "title": "Graduate Data Science Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1763664840,
+        "date_posted": 1763664840,
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/8221777002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Twitch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fujitsu",
+        "id": "bc438285-7f87-4718-8e19-26af672608a4",
+        "title": "Intern in Data Security Group",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1763665243,
+        "date_posted": 1763665243,
+        "url": "https://edzt.fa.em4.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/32452",
+        "locations": [
+            "Slough, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Fujitsu",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "86885c02-a3e0-4c1c-96bf-dd31eb89834c",
+        "title": "Intern Software Engineer - CO",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763664751,
+        "date_posted": 1763664751,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/XMLNAME-2026-Intern---Software-Engineer-Intern---Onsite--CO-_01807067",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tenstorrent",
+        "id": "292042c5-d02d-44e5-a654-288d72a47c8b",
+        "title": "Product Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1763666132,
+        "date_posted": 1763666132,
+        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4985811007",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Tenstorrent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tenstorrent",
+        "id": "8edf79a0-7fbe-42bd-8e8f-572062156001",
+        "title": "Formal Verification Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1759460982,
+        "date_posted": 1759460982,
+        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4868622007",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Tenstorrent",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
