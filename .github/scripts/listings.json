@@ -222583,7 +222583,7 @@
         "company_name": "SAS",
         "id": "65d595ed-1ed9-4509-bf01-b29ca6d2d91f",
         "title": "Summer 2026 \u2013 Statistics Research & Development Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -231405,7 +231405,7 @@
         "company_name": "CarMax",
         "id": "e08d6033-4168-4906-908f-e9fb70fe8d84",
         "title": "Technology Internship Richmond - VA - Dallas - TX",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -234906,7 +234906,7 @@
         "company_name": "NBCUniversal",
         "id": "070568b3-3d26-46d4-815b-afb1090b8177",
         "title": "Universal Filmed Entertainment Group Film Technology AV/AR Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -235906,7 +235906,7 @@
         "company_name": "NBCUniversal",
         "id": "756fd188-c9b7-4c71-abf9-71117c4153ea",
         "title": "Universal Filmed Entertainment Group Film Technology AV/AR Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -250735,6 +250735,48 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Red-Bull",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Veolia",
+        "id": "b9591b92-d3a7-49b4-a30a-4a7a7e81a8ad",
+        "title": "Engineering Instrumentation Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1763648261,
+        "date_posted": 1763648261,
+        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000094485285",
+        "locations": [
+            "Caddo Valley, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Veolia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "ServiceNow",
+        "id": "445016ff-51e8-4973-a5a4-10fa85d6749a",
+        "title": "Intern Associate Technical Portfolio Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763647283,
+        "date_posted": 1763647283,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000094451179",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
