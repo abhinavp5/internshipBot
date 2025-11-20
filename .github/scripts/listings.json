@@ -42806,7 +42806,7 @@
         "company_name": "TikTok",
         "id": "c7ead4f9-64f9-4597-a262-3f2c13a460d7",
         "title": "User Product Operations Intern - Tiktok Local Services - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -161116,7 +161116,7 @@
         "company_name": "Qualcomm",
         "id": "0e93ad44-c9c2-40bc-bdc8-ca32abac4ad0",
         "title": "Intern - Systems Software Internship - Software Enablement - CPU Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -193909,7 +193909,7 @@
         "company_name": "Highmark Health",
         "id": "51b0bc14-7cd3-4a00-bf15-27c89b5da0f3",
         "title": "Summer 2026 Clinical and Population Health Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -201950,7 +201950,7 @@
         "company_name": "TikTok",
         "id": "35e549ae-7dc6-44ee-9d1f-8b2d36cc3b41",
         "title": "Graphics Engineer Intern - Tiktok-Engine and Tools-3D graphics - 2026 Summer - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -247118,7 +247118,7 @@
         "company_name": "Viavi Solutions",
         "id": "43d0509e-4129-4a31-8720-25df5364dbbe",
         "title": "Software Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -250693,6 +250693,27 @@
             "Chantilly, VA"
         ],
         "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "5b921ece-9395-4990-af0f-6c4eaec08841",
+        "title": "Intern - System Testing - MS Only",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763639960,
+        "date_posted": 1763639960,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000094477331",
+        "locations": [
+            "Roseville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
