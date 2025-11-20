@@ -89936,7 +89936,7 @@
         "company_name": "Cboe",
         "id": "4d001208-2741-4eeb-96b3-42508942d94a",
         "title": "Software Engineer Intern - Cboe Clear US",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -243552,7 +243552,7 @@
         "company_name": "Rehiko",
         "id": "4a5f0b6e-46c4-4549-ba1b-297ef54d5656",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
