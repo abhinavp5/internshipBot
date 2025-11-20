@@ -134,27 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Sarepta",
-        "id": "daabb331-5d7b-4e7c-930f-0ee96ccaefd9",
-        "title": "Business Systems Analyst Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025",
-            "Winter 2026"
-        ],
-        "date_updated": 1742918731,
-        "date_posted": 1742918731,
-        "url": "https://sarepta.wd5.myworkdayjobs.com/en-US/sarepta_external/job/United-States/Business-Systems-Analyst-Co-op_R-02915-1",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/01cc059f-be6a-46bf-bf96-9f4a53df2e8d",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Yodlee",
         "id": "cee4b8fd-1314-41bf-a307-e82ec4214c0e",
         "title": "Data Science Intern",
@@ -180727,7 +180706,7 @@
         "company_name": "KLA",
         "id": "cc280001-b99c-4bb3-b073-e0c318804a72",
         "title": "Software Engineer Intern - C++ - Linux - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -183571,7 +183550,7 @@
         "company_name": "Mom's Meals",
         "id": "f809d46a-d5c2-462d-b08f-02527ad73f25",
         "title": "D365 Finance & Operations Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
