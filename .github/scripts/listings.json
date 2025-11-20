@@ -122695,7 +122695,7 @@
         "company_name": "Dexcom",
         "id": "30da1e28-b6b9-42a2-bc60-84782cc07f4b",
         "title": "Intern I \u2013 Software Development Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -154214,7 +154214,7 @@
         "company_name": "Electronic Arts",
         "id": "4d394599-7388-4e21-b3a1-a81b9642f927",
         "title": "Product Management Intern - Digital Platform Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -164587,7 +164587,7 @@
         "company_name": "Highmark Health",
         "id": "4ad3cc3a-0382-40e2-9641-93867ef93aab",
         "title": "Evaluation Analytics Graduate Intern - Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -186868,7 +186868,7 @@
         "company_name": "Catalent",
         "id": "2f5712bc-2e3a-46af-91e0-c295f96cd21b",
         "title": "Summer 2026: Intern - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -196890,7 +196890,7 @@
         "company_name": "NVIDIA",
         "id": "436a5bb6-b4eb-4585-a428-73442a262f93",
         "title": "Firmware Engineering Intern - Memory Subsystem - Spring 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -208772,7 +208772,7 @@
         "company_name": "Boson Ai",
         "id": "e6450ce0-c0b2-4433-9d87-431b44b1b70d",
         "title": "Mscac Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -213353,7 +213353,7 @@
         "company_name": "Idaho National Laboratory",
         "id": "6dc8ba2a-57ee-43ab-94e0-a5081b415d76",
         "title": "Undergraduate Research Assistant Internship - Science and Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -229232,7 +229232,7 @@
         "company_name": "Interac",
         "id": "c7a40ec5-58a1-4270-8b47-8cd3c5630c98",
         "title": "Product Intern - Payments",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -234906,7 +234906,7 @@
         "company_name": "NBCUniversal",
         "id": "070568b3-3d26-46d4-815b-afb1090b8177",
         "title": "Universal Filmed Entertainment Group Film Technology AV/AR Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -235906,7 +235906,7 @@
         "company_name": "NBCUniversal",
         "id": "756fd188-c9b7-4c71-abf9-71117c4153ea",
         "title": "Universal Filmed Entertainment Group Film Technology AV/AR Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -240337,7 +240337,7 @@
         "company_name": "Freddie Mac",
         "id": "5f9d797c-099d-4f96-bfd1-044217168b18",
         "title": "Risk Management Graduate Intern - Quantitative-Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -243960,7 +243960,7 @@
         "company_name": "Uber",
         "id": "4b66fab7-2a55-454d-9d82-4dd0b9f34b8a",
         "title": "2026 PhD Software Engineer Intern - Airports & Travel - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -247286,7 +247286,7 @@
         "company_name": "RTX",
         "id": "ad677767-79c7-4302-941c-af062424763c",
         "title": "2026 Intern \u2013 Software Engineering Intern - CA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -248408,7 +248408,7 @@
         "company_name": "RTX",
         "id": "dbfecc75-cab8-4cc6-9359-0a0a4446f22a",
         "title": "2026 Radar Systems Engineer Intern - Tewksbury or Marlborough','MA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -250714,6 +250714,27 @@
             "Roseville, CA"
         ],
         "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Red Bull",
+        "id": "34f4e390-fe61-4b1c-9868-30c0c5cdf602",
+        "title": "On Premise Apprentice FTC Months",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1763640839,
+        "date_posted": 1763640839,
+        "url": "https://jobs.smartrecruiters.com/RedBull/744000094387754",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Bull",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
