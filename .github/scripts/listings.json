@@ -250759,5 +250759,213 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1763656876,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://job-boards.greenhouse.io/typeface/jobs/4987347007",
+        "company_name": "Typeface",
+        "title": "PhD Research (Applied AI) Intern",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "832d5407-3f54-405c-b5a7-bc0c7c2c2178",
+        "date_posted": 1763656876,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763656920,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://job-boards.greenhouse.io/typeface/jobs/4986825007",
+        "company_name": "Typeface",
+        "title": "ML Engineer Intern",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "81e0447e-b195-49c0-9b10-f6eb264b2e41",
+        "date_posted": 1763656920,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763656976,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://job-boards.greenhouse.io/truveta/jobs/5712997004",
+        "company_name": "Truveta",
+        "title": "ML PhD Intern - LLMs & Generative AI",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "94867b14-78a5-430d-8458-789cf6626ba4",
+        "date_posted": 1763656976,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763657028,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Chicago---125-S-Franklin/Year-Round-Intern---Quantitative-Risk-Management_REQ-4483-1",
+        "company_name": "OCC",
+        "title": "Year-Round Intern - Quantitative Risk Management",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Quantitative Finance",
+        "source": "angie-hue",
+        "id": "3dd0b5dc-b999-4f33-91de-d0e33887f6c8",
+        "date_posted": 1763657028,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763657076,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://microchiphr.wd5.myworkdayjobs.com/en-US/external/job/OR---Gresham/Intern--Data-Analyst-_R2302-25",
+        "company_name": "Microchip Technology",
+        "title": "Intern (Data Analyst)",
+        "locations": [
+            "Gresham, OR"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "33eef790-0461-47d5-9992-c0ef2b582876",
+        "date_posted": 1763657076,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763657145,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.skydio.com/jobs/7494672003?gh_jid=7494672003",
+        "company_name": "Skydio",
+        "title": "Wireless Software Engineer Intern",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "540152b2-2e91-436e-8e25-348774605289",
+        "date_posted": 1763657145,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763657216,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2026_R56709",
+        "company_name": "Motorola",
+        "title": "Android Platform Software Engineering Intern",
+        "locations": [
+            "Plantation, FL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "866e671e-90ee-4723-afcc-fc6eb927c528",
+        "date_posted": 1763657216,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763657266,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Torrance-CA/Intern--Software-Engineering_R-25-14912",
+        "company_name": "Moog",
+        "title": "Intern, Software Engineering",
+        "locations": [
+            "Torrance, CA"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "684a27ec-18c6-498c-ba91-496f8ad93f89",
+        "date_posted": 1763657266,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763657309,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.ashbyhq.com/mechanize/d148d54f-6db7-4c28-9699-0304596f554e",
+        "company_name": "Mechanize",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "4c5fd454-9b28-4086-874b-2067228b1f7e",
+        "date_posted": 1763657309,
+        "company_url": "",
+        "is_visible": true
     }
 ]
