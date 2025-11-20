@@ -37684,7 +37684,7 @@
         "company_name": "Anduril",
         "id": "aed30efe-b239-427b-a4d7-c01c27ba05c2",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -64951,7 +64951,7 @@
         "company_name": "Geotab",
         "id": "a40a4e68-8a10-4d1d-b654-70c2acac11cf",
         "title": "Software Developer Intern - Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -67911,7 +67911,7 @@
         "company_name": "Stryker",
         "id": "e9db0359-fcfc-4ede-9785-53dba01f7258",
         "title": "2026 Summer Intern - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -94210,7 +94210,7 @@
         "company_name": "Epirus",
         "id": "46943370-7b06-44aa-9b84-fbc3c184baf9",
         "title": "AI/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -102644,7 +102644,7 @@
         "company_name": "Cotiviti",
         "id": "3dabf3fa-56cb-4626-a1d7-45c6307008f1",
         "title": "Intern \u2013 Generative AI Research Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -118342,7 +118342,7 @@
         "company_name": "Barclays",
         "id": "6e53752e-61ad-43d3-8723-7452b3dfa17c",
         "title": "Technology Analyst Summer Internship Program 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -131647,7 +131647,7 @@
         "company_name": "ServiceNow",
         "id": "2220cfaf-ccfc-4a96-b5af-52253e3f3e9e",
         "title": "Data Informatics Analyst Intern - Security Organization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -137660,7 +137660,7 @@
         "company_name": "W.R. Berkley",
         "id": "0c7562e6-7d8e-4ada-b934-9b6bdd000c2f",
         "title": "Intern \u2013 Software Developer - Reactjs",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -137918,7 +137918,7 @@
         "company_name": "Muon Space",
         "id": "b2e6b446-3494-4327-b208-a6d2e0ede5d9",
         "title": "Data Science Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -142731,7 +142731,7 @@
         "company_name": "ServiceNow",
         "id": "a7ac75d1-b271-4c0e-b675-75657a5622bc",
         "title": "Data Informatics Analyst Intern - Security Organization",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -202092,7 +202092,7 @@
         "company_name": "7-Eleven",
         "id": "19ec043a-0c48-453e-abdf-25d05bd5f3bf",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -215433,7 +215433,7 @@
         "company_name": "League",
         "id": "657e71e7-a82b-41e1-b811-b7f317a8bc3d",
         "title": "Backend Engineer - ",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -218433,7 +218433,7 @@
         "company_name": "Workshop",
         "id": "b62a0cae-5713-4b21-8b39-543808ec53b4",
         "title": "Data Analytics Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -221485,7 +221485,7 @@
         "company_name": "AQR Capital Management",
         "id": "12af9ff4-d044-4b52-8aaf-11f5162cc1a2",
         "title": "2026 Research Product Specialist Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -223083,7 +223083,7 @@
         "company_name": "American Enterprise Institute",
         "id": "94b1b0c1-86b7-4a93-86d0-697898297eab",
         "title": "Housing Center Internship - Housing Center",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -228379,7 +228379,7 @@
         "company_name": "Legrand NA",
         "id": "458d3f94-3485-481b-9c89-637846a1a233",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -235153,7 +235153,7 @@
         "company_name": "NBCUniversal",
         "id": "070568b3-3d26-46d4-815b-afb1090b8177",
         "title": "Universal Filmed Entertainment Group Film Technology AV/AR Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -236153,7 +236153,7 @@
         "company_name": "NBCUniversal",
         "id": "756fd188-c9b7-4c71-abf9-71117c4153ea",
         "title": "Universal Filmed Entertainment Group Film Technology AV/AR Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -237659,7 +237659,7 @@
         "company_name": "The Travelers Companies",
         "id": "e5978752-7465-4f73-96e9-82ea8cbaf4de",
         "title": "Enterprise Market Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -243473,7 +243473,7 @@
         "company_name": "AbbVie",
         "id": "b6887522-61f3-46ae-bb60-80b649182891",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -245689,7 +245689,7 @@
         "company_name": "AbbVie",
         "id": "ef47db0b-bd8f-4744-a6fd-bf7f29804dea",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -246389,7 +246389,7 @@
         "company_name": "BorgWarner",
         "id": "844a28b6-fd5a-41cc-b596-847a9c125e83",
         "title": "Web Applications/Communications",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -248350,7 +248350,7 @@
         "company_name": "Endeavor Air",
         "id": "3019cc40-461e-4db1-8f5d-411364ad6c07",
         "title": "Safety Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -250767,6 +250767,27 @@
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/IXL-Learning",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Red Bull",
+        "id": "955bbdfd-f49b-4044-b4ce-c94621b273b3",
+        "title": "Insights Apprentice",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1763596087,
+        "date_posted": 1763596087,
+        "url": "https://jobs.smartrecruiters.com/RedBull/744000094383511",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Bull",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
