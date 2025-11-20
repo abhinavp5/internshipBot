@@ -120556,7 +120556,7 @@
     {
         "date_updated": 1758016859,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -142132,7 +142132,7 @@
         "company_name": "Enova",
         "id": "f6b56db5-9676-4b4d-b404-e750d8fe8e4c",
         "title": "Analytics Intern - Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -251059,5 +251059,26 @@
         "date_posted": 1763657558,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA",
+        "id": "2b540120-6984-4078-b3bd-d40bf96f528b",
+        "title": "Product Development Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758762595,
+        "date_posted": 1758762595,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Product-Development-Engineer-Intern_2531436-2",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
