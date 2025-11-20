@@ -134,25 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Yodlee",
-        "id": "f125f4be-b98a-441f-9afe-32fd271fb6f8",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1742941577,
-        "date_posted": 1742941577,
-        "url": "https://jobs.jobvite.com/yodlee/job/oXWHvfwP?nl=1&nl=1&fr=false",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Yodlee",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Atlas Energy Solutions",
         "id": "f64b76cd-006b-465f-96c2-beedc6ffca41",
         "title": "Data Analyst Intern",
@@ -99318,7 +99299,7 @@
         "company_name": "Wellmark",
         "id": "e78fb894-3716-407a-a2d7-d40f42ab836b",
         "title": "Software Engineer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -160855,7 +160836,7 @@
         "company_name": "Arch Capital Group",
         "id": "f176244b-7ea1-4fc6-98ad-5325ae2dfdde",
         "title": "IT Analytics Engineer Intern - IT - Enterprise Data",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -165965,7 +165946,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "493be860-f46e-4ab7-89c1-ef5fbfccff5b",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -168999,7 +168980,7 @@
         "company_name": "Shure",
         "id": "13794c92-021b-4abd-b94a-2a2398e66857",
         "title": "Unified Communications Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -174775,7 +174756,7 @@
         "company_name": "Trane Technologies",
         "id": "c852cc52-a4b3-4aca-8d99-86d3547d6e18",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2026",
@@ -188466,7 +188447,7 @@
         "company_name": "TikTok",
         "id": "188efd6f-8981-4934-b7e3-a60f391e803b",
         "title": "Product Manager Project Intern - Creator and Content Ads - Monetization Product - 2025 Start - MBA",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -233309,7 +233290,7 @@
         "company_name": "Gilead Sciences",
         "id": "bf2660a5-13db-4d25-95e1-5349be1a29be",
         "title": "Intern \u2013 R&D Quality - Governance - Risk & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -234790,7 +234771,7 @@
         "company_name": "NBCUniversal",
         "id": "070568b3-3d26-46d4-815b-afb1090b8177",
         "title": "Universal Filmed Entertainment Group Film Technology AV/AR Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -243173,7 +243154,7 @@
         "company_name": "American Heart Association",
         "id": "5bb84a96-b237-4369-9feb-d6ce63b9aeee",
         "title": "Intern \u2013 Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -248050,7 +248031,7 @@
         "company_name": "Zeiss",
         "id": "b626ad6a-e8e3-4bc5-971a-65ebe04260e7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -251993,5 +251974,145 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cisco",
+        "id": "eb132c10-e34b-4435-aa69-6e9004dead51",
+        "title": "Splunk Intern - Backend/Fullstack - Software Engineer I",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1763664399,
+        "date_posted": 1763664399,
+        "url": "https://careers.cisco.com/global/en/job/2000124",
+        "locations": [
+            "Research Triangle, Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cisco",
+        "id": "eeaa479b-d6b5-44ce-a313-1686a0bb3a8d",
+        "title": "Software Engineer 1 - Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1763664382,
+        "date_posted": 1763664382,
+        "url": "https://careers.cisco.com/global/en/job/2000436",
+        "locations": [
+            "Boston, MA",
+            "Knoxville, TN",
+            "Milpitas, CA",
+            "Austin, TX",
+            "San Jose, CA",
+            "Fulton, MD",
+            "Dallas, TX",
+            "Hillsboro, OR",
+            "Alpharetta, GA",
+            "NYC",
+            "Acton, MA",
+            "Research Triangle, Durham, NC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cisco",
+        "id": "84ceee44-b8c2-4f31-b899-3b0f032cb124",
+        "title": "Splunk Intern - Frontend - Software Engineer 1",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1763664382,
+        "date_posted": 1763664382,
+        "url": "https://careers.cisco.com/global/en/job/2000143",
+        "locations": [
+            "Research Triangle, Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cisco",
+        "id": "6b59b325-c1e9-441c-a4f2-6e91f2193e91",
+        "title": "Splunk Intern - Backend/Fullstack - Software Engineer II",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1763664386,
+        "date_posted": 1763664386,
+        "url": "https://careers.cisco.com/global/en/job/2000140",
+        "locations": [
+            "Research Triangle, Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Flagship Pioneering",
+        "id": "ebd5c233-6524-417c-837f-a4402de2c217",
+        "title": "Data Science Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1763664113,
+        "date_posted": 1763664113,
+        "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8203873002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/FlagshipPioneering",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cisco",
+        "id": "485fd000-1d0f-4e57-a04a-d65c9f4d8490",
+        "title": "Physical Design Engineer 1 \u2013 Co-op - United States",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1763664406,
+        "date_posted": 1763664406,
+        "url": "https://careers.cisco.com/global/en/job/2001521",
+        "locations": [
+            "Acton, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
