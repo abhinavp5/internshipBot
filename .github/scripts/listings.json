@@ -70865,7 +70865,7 @@
         "company_name": "Nationwide",
         "id": "5f287cc8-ebea-4754-9eee-837012cdeeae",
         "title": "Summer 2026 Technology Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -104977,7 +104977,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "318f1334-2a46-47a1-a51c-9bccf47c9f6d",
         "title": "Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2025",
@@ -107466,7 +107466,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ad8b1567-30c9-4093-b10b-395eb58e0e33",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -107490,7 +107490,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9c843ea8-9b7c-4b8c-a34c-b8c89aa81148",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -147871,7 +147871,7 @@
         "company_name": "Michaels Stores",
         "id": "291852a1-b195-46bb-82ff-647fa68a5b7c",
         "title": "Information Technology Intern - Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -168036,7 +168036,7 @@
         "company_name": "Expedia Group",
         "id": "b699a376-9059-4661-ad08-90f275c09e83",
         "title": "Machine Learning Science Intern - Masters",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -183460,7 +183460,7 @@
         "company_name": "Amazon",
         "id": "383ec2f3-6923-4486-b21d-e35d289f766c",
         "title": "Software Eng Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2027"
@@ -186929,7 +186929,7 @@
         "company_name": "Catalent",
         "id": "0b05b41c-6700-49c0-9f00-7ecbb238103d",
         "title": "Summer 2026: Intern - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -209000,7 +209000,7 @@
         "company_name": "Astera Labs",
         "id": "9412f673-cab2-42d1-9c49-3ef342ca7a12",
         "title": "Design Verification Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -222853,7 +222853,7 @@
         "company_name": "Gannet Fleming",
         "id": "35a1d6d1-dfa7-4bbf-969c-20ad552cd839",
         "title": "Intern \u2013 Geographic Information Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -225436,7 +225436,7 @@
         "company_name": "LinkedIn",
         "id": "4145fa34-a3e7-4c03-94ca-76d6d02e4386",
         "title": "AI/ML Engineer Intern - Master's - Summer 2026 - Mountain View - CA",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -236868,7 +236868,7 @@
         "company_name": "Iridium Communications",
         "id": "4453e83a-2847-485d-b202-f4c787d99591",
         "title": "Iridium Product Management \u2013 Internship - Sales - Marketing",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -242859,7 +242859,7 @@
         "company_name": "Fortive",
         "id": "f11861c6-6235-4a1b-850a-9b409c9d7a13",
         "title": "Marketing Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -243695,7 +243695,7 @@
         "company_name": "Radiance Technologies",
         "id": "f5ea8ac4-e7a3-44f2-a5d9-6af70180548e",
         "title": "Software Reverse Engineer CO-OP Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -244370,7 +244370,7 @@
         "company_name": "Astera Labs",
         "id": "c2add99a-3e5e-475c-b11b-b61763127f8b",
         "title": "Supply Chain Data Analyst Intern - 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -249550,7 +249550,7 @@
         "company_name": "LinkedIn",
         "id": "fa7e7c93-38f2-4017-b3c5-f46831cd229b",
         "title": "AI/ML Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -250710,6 +250710,27 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Block",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Aerospace Corporation",
+        "id": "a9de3a0f-ef87-4438-9084-e0b8fac52c69",
+        "title": "Sensor Performance and Data Processing Grad Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1763620634,
+        "date_posted": 1763620634,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2026-Sensor-Performance-and-Data-Processing-Grad-Intern_R014036",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
