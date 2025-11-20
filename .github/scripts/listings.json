@@ -31824,7 +31824,7 @@
         "company_name": "Jump Trading",
         "id": "d2b759b7-e0f7-48ec-9dc9-1ae840067950",
         "title": "Campus Software Engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Summer 2025",
@@ -31848,7 +31848,7 @@
         "company_name": "Jump Trading",
         "id": "b32c6f61-f7a1-467d-b08e-3bb78a3dce30",
         "title": "Campus ASIC Engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -34868,7 +34868,7 @@
         "company_name": "Jump Trading",
         "id": "f83c9ced-2fd8-4b9c-b88a-df8059cb1387",
         "title": "Campus Quantitative Trader \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -58220,7 +58220,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "057819d8-d85c-46f7-b31e-6d9e538c832c",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -108355,7 +108355,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "093a24e1-a261-40da-b3d8-5a5108dda9c9",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -170946,7 +170946,7 @@
         "company_name": "Iridium Communications",
         "id": "e63a3e37-0a93-489c-91ea-1d948ed419a2",
         "title": "Software Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -191805,7 +191805,7 @@
         "company_name": "Autodesk",
         "id": "e69cc3d6-6ff3-49e8-8bdd-7fe271eaa856",
         "title": "PhD Intern - HCI & Visualization Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer -1"
         ],
@@ -250823,8 +250823,8 @@
             "Summer 2026"
         ],
         "category": "Data Science, AI & Machine Learning",
-        "source": "angie-hue",
-        "id": "94867b14-78a5-430d-8458-789cf6626ba4",
+        "source": "Simplify",
+        "id": "dbe32592-0624-419b-b515-d327c3f19029",
         "date_posted": 1763656976,
         "company_url": "",
         "is_visible": true
@@ -251305,6 +251305,154 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Lightmatter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Waymo",
+        "id": "077d6a87-731c-4926-9d4c-f88a4570f78a",
+        "title": "Intern - ML Training Infra and Efficiency",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763666740,
+        "date_posted": 1763666740,
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=7395734",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Waymo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LexisNexis Risk Solutions",
+        "id": "166fff75-94b6-49ac-a9a8-f585852ad4eb",
+        "title": "Life Insurance Research & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763666547,
+        "date_posted": 1763666547,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Life-Insurance-Research---Analytics-Intern_R105112",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "LexisNexis Risk Solutions",
+        "id": "07380309-2f31-49a4-9dfc-cc25b945c66d",
+        "title": "Product Management Intern-Government",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763666546,
+        "date_posted": 1763666546,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Product-Management-Intern--Government_R105114",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NinjaTrader",
+        "id": "f3867e02-1e7e-45d1-aa2e-9ad4d9ea18c8",
+        "title": "Software Engineer Intern - Fcm - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763665231,
+        "date_posted": 1763665231,
+        "url": "https://ninjatrader.com/careers/internships/?gh_jid=4613356006",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/NinjaTrader",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NinjaTrader",
+        "id": "ad268ad1-eb94-43eb-b46f-fd1fc44b7646",
+        "title": "Web Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763665228,
+        "date_posted": 1763665228,
+        "url": "https://ninjatrader.com/careers/internships/?gh_jid=4613355006",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/NinjaTrader",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KLA",
+        "id": "1fb67b8e-ea48-4d7f-a78b-321200f9c39a",
+        "title": "Software Engineer Intern - AI/ML",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1763662788,
+        "date_posted": 1763662788,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Austin-TX/Software-Engineer--AI-ML--Intern_2532241",
+        "locations": [
+            "Milpitas, CA",
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Alliance Laundry Systems",
+        "id": "dda0a2ba-b6fc-4b39-8ba3-32ed779c5321",
+        "title": "Product Innovation Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1763666878,
+        "date_posted": 1757641805,
+        "url": "https://uscareeropenings-alliancelaundry.icims.com/jobs/10755/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Wisconsin"
+        ],
+        "company_url": "https://simplify.jobs/c/Alliance-Laundry-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
