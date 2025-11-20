@@ -250967,5 +250967,97 @@
         "date_posted": 1763657309,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1763657355,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Silver-Spring-Maryland/Software-Application-Developer-Intern-for-GOES-R-Series-Satellites_R2115543",
+        "company_name": "KBR",
+        "title": "Software Application Developer Intern for GOES-R Series Satellites",
+        "locations": [
+            "Silver Spring, MD"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "698d39b9-b6c9-4c12-acb1-0515aed542c5",
+        "date_posted": 1763657355,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763657479,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-gdms.icims.com/jobs/68290/intern-software-engineer/job",
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Intern Software Engineer",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "ece4af36-203e-437b-97ba-1e5ae89921b1",
+        "date_posted": 1763657414,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763657520,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-gdms.icims.com/jobs/68798/software-intern-engineer---tactical-radios/job",
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Software Intern Engineer - Tactical Radios",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "16211ba5-2955-4bef-9188-ef21dc4dde2a",
+        "date_posted": 1763657520,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763657558,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://uscareers-docusign.icims.com/jobs/28219/site-reliability-software-engineer-intern/job",
+        "company_name": "DocuSign",
+        "title": "Site Reliability Software Engineer Intern",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "36bf21a2-7ceb-41c8-a2f8-206aca41e530",
+        "date_posted": 1763657558,
+        "company_url": "",
+        "is_visible": true
     }
 ]
