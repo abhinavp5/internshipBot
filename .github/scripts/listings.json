@@ -140090,7 +140090,7 @@
         "company_name": "State Street",
         "id": "9f764d00-f42f-4b88-b12b-fa7a7a380b98",
         "title": "Artificial Intelligence and AWS Cloud Developer - Co-Op - Global Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -184076,7 +184076,7 @@
         "company_name": "DatologyAI",
         "id": "537c5b49-5525-49e5-92f7-22b3e72cf73d",
         "title": "Software Engineer Intern - Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -228159,7 +228159,7 @@
         "company_name": "Rolls-Royce",
         "id": "09adf2aa-2f9a-44c6-9bd6-08a36cc48794",
         "title": "Engineering Operations Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -253385,5 +253385,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "da4ebfc6-10fc-4482-bce3-a58db0d23a4e",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763699919,
+        "date_posted": 1763699919,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Mesa/XMLNAME-2026-Engineering-Intern---Mesa-AZ_R10215191",
+        "locations": [
+            "Mesa, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
