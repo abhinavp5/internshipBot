@@ -57704,7 +57704,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3801beb2-e473-44e1-8a9b-a3c4776098f6",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -102392,7 +102392,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "385eed62-f687-4fff-ab42-08f41edb4cb5",
         "title": "Quantitative Systematic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -107007,7 +107007,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ad8b1567-30c9-4093-b10b-395eb58e0e33",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -136992,7 +136992,7 @@
         "company_name": "W.R. Berkley",
         "id": "0c7562e6-7d8e-4ada-b934-9b6bdd000c2f",
         "title": "Intern \u2013 Software Developer - Reactjs",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -151961,7 +151961,7 @@
         "company_name": "Grow Financial Federal Credit Union",
         "id": "f773e1e7-217c-442f-81f3-bc8a1692940f",
         "title": "Collections Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -167145,7 +167145,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "5abe26e2-a1a5-4e91-b31b-ce80282cfe95",
         "title": "Quantitative Systematic Trading Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -222415,7 +222415,7 @@
         "company_name": "American Enterprise Institute",
         "id": "94b1b0c1-86b7-4a93-86d0-697898297eab",
         "title": "Housing Center Internship - Housing Center",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -241161,7 +241161,7 @@
         "company_name": "Kimley-Horn",
         "id": "45d7981d-6648-41a2-bcfa-8ee4e8ddced1",
         "title": "GIS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -242015,7 +242015,7 @@
         "company_name": "Persistent Systems",
         "id": "36429312-93fc-4add-a91a-c5d78357e6d1",
         "title": "Intern \u2013 Embedded Software Engineer - Fall 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -244753,7 +244753,7 @@
         "company_name": "Veolia",
         "id": "ff94c346-0be5-4afa-80a3-d5d3c9695860",
         "title": "Engineering/Instrumentation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -250324,7 +250324,7 @@
         "company_name": "Veolia",
         "id": "b9591b92-d3a7-49b4-a30a-4a7a7e81a8ad",
         "title": "Engineering Instrumentation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
