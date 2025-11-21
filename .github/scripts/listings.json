@@ -154,25 +154,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Actian",
-        "id": "7a17a88a-721d-40d9-be7b-8c7300928fdb",
-        "title": "Data Intelligence Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743022233,
-        "date_posted": 1743022233,
-        "url": "https://jobs.lever.co/actian/676b38e2-cb45-44cd-9eb9-1be60c2bedf6/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/actian",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Nokia",
         "id": "d20245f3-0f9b-48cc-af69-3058a954a151",
         "title": "Software Developer Intern",
@@ -217968,7 +217949,7 @@
         "company_name": "Los Angeles Clippers",
         "id": "200da68e-681c-4849-b54e-583726799b44",
         "title": "Business Insights & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025",
@@ -231839,7 +231820,7 @@
         "company_name": "ASML",
         "id": "586ac440-667e-4845-8516-c3da11af9182",
         "title": "Internship - Software Engineer - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -251486,7 +251467,7 @@
         "company_name": "Cisco",
         "id": "eb132c10-e34b-4435-aa69-6e9004dead51",
         "title": "Splunk Intern - Backend/Fullstack - Software Engineer I",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -251540,7 +251521,7 @@
         "company_name": "Cisco",
         "id": "84ceee44-b8c2-4f31-b899-3b0f032cb124",
         "title": "Splunk Intern - Frontend - Software Engineer 1",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -251561,7 +251542,7 @@
         "company_name": "Cisco",
         "id": "6b59b325-c1e9-441c-a4f2-6e91f2193e91",
         "title": "Splunk Intern - Backend/Fullstack - Software Engineer II",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -253587,7 +253568,7 @@
         "company_name": "Gen",
         "id": "ecc183fb-3972-4764-a0a6-cbf8c8ddaa64",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
