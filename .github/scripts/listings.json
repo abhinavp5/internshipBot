@@ -54195,7 +54195,7 @@
         "company_name": "American Express",
         "id": "f9903a02-3ca5-4ba5-ae71-8270420e8315",
         "title": "Campus Undergraduate Summer Internship Program - 2026 Product Innovation - Credit & Fraud Risk",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -60753,7 +60753,7 @@
         "company_name": "Zebra Technologies",
         "id": "664ca7be-70f9-46a4-ad15-0189b1c7d74a",
         "title": "2026 Summer Internship - Marketing Data Science & Analytics - Corporate and Business Services - CEO",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -68121,7 +68121,7 @@
         "company_name": "Tower Research Capital",
         "id": "7553a415-e98d-48c7-80ef-e0e4b474ee34",
         "title": "Quantitative Trader/Researcher Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -102392,7 +102392,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "385eed62-f687-4fff-ab42-08f41edb4cb5",
         "title": "Quantitative Systematic Trading Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -103194,7 +103194,7 @@
         "company_name": "Wind River",
         "id": "223b2eb0-9b2f-43ef-90da-630b08367e13",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -104014,7 +104014,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "f7395054-7db5-4380-a84d-a3a91540d37c",
         "title": "Quantitative Strategy Developer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -113382,7 +113382,7 @@
         "company_name": "Zebra Technologies",
         "id": "093b9e34-c756-4571-acfb-b420aa4e7623",
         "title": "2026 Summer Internship - Supplies & Sensors Research & Development - Corporate and Business Services - CEO",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -170214,7 +170214,7 @@
         "company_name": "Zebra Technologies",
         "id": "216d350e-e3db-48d5-9811-ab3499e37819",
         "title": "Internship - RFID Hardware Product Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -173041,7 +173041,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "4e79f79a-bf73-45f0-a035-c8ed56f6cbcd",
         "title": "Software Engineering Intern - Full-Stack - Java",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -175654,7 +175654,7 @@
         "company_name": "Quantbot Technologies",
         "id": "8226421e-6d81-4f6c-8405-26f2f387744c",
         "title": "Quantitative Developer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -201141,7 +201141,7 @@
         "company_name": "Arctic Wolf",
         "id": "070008bd-a085-4dcf-bafc-2b2ac2fecf02",
         "title": "Winter 2026 Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -204797,7 +204797,7 @@
         "company_name": "Zebra Technologies",
         "id": "80acfd0f-6f29-48e8-b430-79246a27e5de",
         "title": "2026 Summer Internship - US - EMC Product Management - Corporate and Business Services - CEO",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -207110,7 +207110,7 @@
         "company_name": "Berkshire Hathaway Energy",
         "id": "3b1ab043-c7cc-4060-9b59-0f5d4ceac529",
         "title": "Intern \u2013 Gas Compliance",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -219774,7 +219774,7 @@
         "company_name": "Zebra Technologies",
         "id": "449ca7f0-bfbd-4fd4-9114-01901860e911",
         "title": "Summer Internship 2026 - RFID Software Product Management - Corporate and Business Services",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -222394,7 +222394,7 @@
         "company_name": "Gannet Fleming",
         "id": "35a1d6d1-dfa7-4bbf-969c-20ad552cd839",
         "title": "Intern \u2013 Geographic Information Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -227711,7 +227711,7 @@
         "company_name": "Legrand NA",
         "id": "458d3f94-3485-481b-9c89-637846a1a233",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -231920,7 +231920,7 @@
         "company_name": "Enveda Biosciences",
         "id": "9ea45466-dcaa-4000-a593-144e5248ec4b",
         "title": "HR Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -236712,7 +236712,7 @@
         "company_name": "Eaton Corporation",
         "id": "de0a4dcf-175e-4484-a91c-0a654210bc0a",
         "title": "Product Development Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -247640,7 +247640,7 @@
         "company_name": "Endeavor Air",
         "id": "654728d9-52c4-43e0-8e14-3b84252b80d6",
         "title": "Operational Analytics and Performance Intern - Operational Analytics and Performance",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -253543,7 +253543,7 @@
         "company_name": "Washpost",
         "id": "01172236-431e-4360-809f-12d4077edaeb",
         "title": "Summer Intern - Software Engineer - Data/AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
