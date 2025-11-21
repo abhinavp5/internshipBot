@@ -134,44 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Gen",
-        "id": "1598a3c0-7cc4-48cb-85f8-8cc77c7eaff2",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743004705,
-        "date_posted": 1743004705,
-        "url": "https://gen.wd1.myworkdayjobs.com/careers/job/USA---Arizona-Tempe/Software-Engineering-Intern_54109-1",
-        "locations": [
-            "Tempe, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Gen",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "GlobalFoundries",
-        "id": "c86f3fe3-8cb0-40ef-b0ab-4dbdb74a4ceb",
-        "title": "Tapeout Engineering Biz Apps & Data Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743004116,
-        "date_posted": 1743004116,
-        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Tapeout-Engineering-Biz-Apps---Data-Intern--Summer-2025-_JR-2403304",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/GlobalFoundries",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Artisan Partners",
         "id": "afb0c9eb-d0c4-4db0-b256-68e56fdd9436",
         "title": "Data Analytics Intern",
@@ -112304,7 +112266,7 @@
         "company_name": "CACI",
         "id": "6eb04bb4-8669-4ad3-882a-a1835f6fdd7b",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -235830,7 +235792,7 @@
         "company_name": "ASML",
         "id": "d300b234-1e85-4a3c-a621-d5da602107b2",
         "title": "Intern - Software Development Engineer Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -254210,5 +254172,166 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1763741365,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.ashbyhq.com/root-access/6a3f17bd-6690-4c3d-865b-f1093ae500fa",
+        "company_name": "Root Access",
+        "title": "Machine Learning Engineer Intern",
+        "locations": [
+            "New York City, NY"
+        ],
+        "terms": [
+            "Spring 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "dfe8eaa9-3989-4402-9c73-c86d06daaca1",
+        "date_posted": 1763741365,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763741433,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.ashbyhq.com/root-access/46f71ad0-5072-47c5-97fb-6ddc5098d564",
+        "company_name": "Root Access",
+        "title": "Firmware Engineer Intern",
+        "locations": [
+            "New York City, NY"
+        ],
+        "terms": [
+            "Spring 2026"
+        ],
+        "category": "Hardware Engineering",
+        "source": "angie-hue",
+        "id": "4cb019a0-8963-40ae-aec2-7bd7af89d309",
+        "date_posted": 1763741433,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763741473,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.ashbyhq.com/root-access/6f004058-c03f-43d6-b2e9-fa37e6844e68",
+        "company_name": "Root Access",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "New York City, NY"
+        ],
+        "terms": [
+            "Spring 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "e50a34a0-5323-43b6-880e-764cf737620c",
+        "date_posted": 1763741473,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763741534,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://apply.workable.com/advantmed/j/45F5E3C394/",
+        "company_name": "Advantmed",
+        "title": "AI Automation Intern",
+        "locations": [
+            "Remote in USA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "e5045382-ee6d-4bcb-a35a-9d5d2d395276",
+        "date_posted": 1763741534,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763741594,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Software-Engineering-Intern--Summer-2026-_10135955",
+        "company_name": "The Walt Disney Company",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Lake Buena Vista, FL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "d96eb095-d36c-4be3-a3c0-2df40d5b5180",
+        "date_posted": 1763741594,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763741662,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME-2026-Summer-Intern--Software-Engineering-II--Bentonville-_R-2354856",
+        "company_name": "Walmart",
+        "title": "2026 Summer Intern: Software Engineering II (Bentonville)",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "a805ca4f-0bb5-4cff-8221-bcc6daf2fd5b",
+        "date_posted": 1763741662,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1763741705,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Nashville-Office/Software-Engineer-Internship--10-15-hrs-week-_JR-023680",
+        "company_name": "Western Governors University",
+        "title": "Software Engineer Internship (10-15 hrs/week)",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "9a0372f4-8b42-47f6-9cbe-c67528bd904a",
+        "date_posted": 1763741705,
+        "company_url": "",
+        "is_visible": true
     }
 ]
