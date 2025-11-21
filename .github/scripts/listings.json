@@ -101694,7 +101694,7 @@
         "company_name": "W.R. Berkley",
         "id": "8d7fa2d2-c2cd-496c-a36a-79fb2244cae4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -115587,7 +115587,7 @@
         "company_name": "Rockwell Automation",
         "id": "fa47f32e-2252-4be0-a856-17a674d74c62",
         "title": "Intern \u2013 Innovation Platform Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -180216,7 +180216,7 @@
         "company_name": "Uline",
         "id": "b81391a4-0d89-4fcc-a51f-a2d030f899e7",
         "title": "Product Management Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -210967,7 +210967,7 @@
         "company_name": "Keysight Technologies",
         "id": "199d5b9d-a243-4f69-afd7-88efb984fc78",
         "title": "FPGA Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -227435,7 +227435,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "37e5bbf0-7594-4acf-9ce4-9096b87bd726",
         "title": "2026 Software Implementation and Integration Undergrad Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
