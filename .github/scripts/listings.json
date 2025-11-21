@@ -140065,7 +140065,7 @@
         "company_name": "State Street",
         "id": "b2eee7e3-8eb7-44f9-bd89-374f8988258f",
         "title": "Data Analytics Co-Op - Databricks & Cloud",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -210514,7 +210514,7 @@
         "company_name": "Nokia",
         "id": "a0b97d08-2167-437b-ae88-d0add3cd99d1",
         "title": "DSP & Control Firmware Engineer Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
