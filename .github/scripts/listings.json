@@ -103167,7 +103167,7 @@
         "company_name": "W.R. Berkley",
         "id": "772e84bd-7eb3-4373-b29b-8fad617ae11c",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -138910,7 +138910,7 @@
         "company_name": "Brown & Brown Insurance",
         "id": "cd1f6f9b-1513-40c6-bc1b-eb3bef96f7b6",
         "title": "Technology Solutions Intern - Technology Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -142750,7 +142750,7 @@
         "company_name": "Rambus",
         "id": "8e5c43e7-05a6-4746-935b-495159a96309",
         "title": "Silicon IP Field Application Engineer Intern - Field Application Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -167145,7 +167145,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "5abe26e2-a1a5-4e91-b31b-ce80282cfe95",
         "title": "Quantitative Systematic Trading Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -173041,7 +173041,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "4e79f79a-bf73-45f0-a035-c8ed56f6cbcd",
         "title": "Software Engineering Intern - Full-Stack - Java",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -175458,7 +175458,7 @@
         "company_name": "SPS Commerce",
         "id": "aab6d48a-2701-4193-a878-86863cde7df4",
         "title": "Software Engineer Intern - Talent Pool",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -194762,7 +194762,7 @@
         "company_name": "Werfen",
         "id": "9ac5536d-37bb-497a-834c-6d120e3cb0e6",
         "title": "Hardware Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -223330,7 +223330,7 @@
         "company_name": "Sentinel Technologies",
         "id": "ed47a0ef-d38b-4641-b6c9-512c3d497b78",
         "title": "AI Intern - Enterprise Architecture - Innovation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -224122,7 +224122,7 @@
         "company_name": "American Enterprise Institute",
         "id": "899e3af7-b2d9-4974-acf0-597d80f7d0a5",
         "title": "Spring Intern: Data Analysis and Education Policy",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -224362,7 +224362,7 @@
         "company_name": "Lennox International",
         "id": "590fee5e-0e83-41b2-8f8d-216a33ef51df",
         "title": "Engineering Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -240304,7 +240304,7 @@
         "company_name": "Barclays",
         "id": "089e9755-a4e9-4884-8c96-73ae995854b0",
         "title": "Quantitative Finance Risk Associate Off-Cycle Internship Programme 2026 Glasgow",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
