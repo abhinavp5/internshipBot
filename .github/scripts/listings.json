@@ -51454,7 +51454,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "790bb6f7-23b1-42b9-8716-f02da2b045f0",
         "title": "Hardware Engineer intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -63415,7 +63415,7 @@
         "company_name": "DriveTime",
         "id": "d1a25725-dd02-45e2-bc1c-586df9c8de7f",
         "title": "Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -142260,7 +142260,7 @@
         "company_name": "American Century Investments",
         "id": "5da46f91-7094-40e9-9336-d99769e89a1c",
         "title": "IT Data Intern - Engineering - Analytics and AI/ML",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -165842,7 +165842,7 @@
         "company_name": "ATPCO",
         "id": "c3107a42-e633-4d49-9529-4676f85b9d43",
         "title": "Data Analyst and Reporting Intern - Marketing Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -206757,7 +206757,7 @@
         "company_name": "Semtech",
         "id": "36eea0c0-628f-4961-ad70-de04875ad545",
         "title": "Firmware Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -219936,7 +219936,7 @@
         "company_name": "J.M. Smucker",
         "id": "2c6ba8d5-3a1f-4425-bcfa-c62dd9040ad0",
         "title": "Operations Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -244815,7 +244815,7 @@
         "company_name": "Achievers",
         "id": "376d5781-98fb-4d90-a455-2248883164f7",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -245386,7 +245386,7 @@
         "company_name": "Axalta",
         "id": "0551ab04-6507-4ab2-baac-bdf2bf25dfbf",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -246336,7 +246336,7 @@
         "company_name": "TREK",
         "id": "e5fdde6f-957e-4755-a875-55aa6638e8ac",
         "title": "AI & Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
