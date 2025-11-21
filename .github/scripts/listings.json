@@ -108095,7 +108095,7 @@
         "company_name": "Mackenzie Investments",
         "id": "0b1d03f5-54c2-466f-a64c-62914ec0123e",
         "title": "Investment Management \u2013 FI-Platform Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -172902,7 +172902,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "2135c037-9723-4474-b040-a13457a2bbcb",
         "title": "C++ Developer Intern - Curve Engine",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -200153,7 +200153,7 @@
         "company_name": "Electronic Arts",
         "id": "d36c1379-e0da-490e-96cf-11dacd8e7e22",
         "title": "Software Engineer Intern - ",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -238585,7 +238585,7 @@
         "company_name": "AtkinsR\u00e9alis",
         "id": "491d0119-5856-40c6-9b31-ff4a8533164b",
         "title": "Tolling Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
