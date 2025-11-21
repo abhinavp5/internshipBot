@@ -254314,5 +254314,26 @@
         "date_posted": 1763741705,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intuitive Surgical",
+        "id": "e0d9fd04-ca06-4136-9e90-c39d4b80f9d7",
+        "title": "AI Research Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1763744641,
+        "date_posted": 1763744641,
+        "url": "https://jobs.smartrecruiters.com/Intuitive/744000094876248",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
