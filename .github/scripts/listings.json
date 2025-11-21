@@ -154,25 +154,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Illumio",
-        "id": "f74b3fc8-721f-4c06-bd02-cda0f21dd5a9",
-        "title": "Engineering Intern - Architecture",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743017256,
-        "date_posted": 1743017256,
-        "url": "https://www.illumio.com/company/job-listing?gh_jid=7926625002",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Illumio",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "PlusAI",
         "id": "78b59bc0-957f-4997-9660-2deedb3169c4",
         "title": "Intern-Technical Program Management",
@@ -187,44 +168,6 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/Plus",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Five9",
-        "id": "b57265c2-bfbe-4f36-b3d9-591623931c2b",
-        "title": "Restful API Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743017488,
-        "date_posted": 1743017488,
-        "url": "https://www.five9.com/about/careers/job-detail?gh_jid=5484819004",
-        "locations": [
-            "San Ramon, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Five9",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Integral Ad Science",
-        "id": "ced93194-d43b-44ec-8d51-c054ebb91270",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743017383,
-        "date_posted": 1743017383,
-        "url": "https://ats.comparably.com/api/v1/gh/integraladscience/jobs/6745714?gh_jid=6745714",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Integral-Ad-Science",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -249,25 +192,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Integral Ad Science",
-        "id": "d20c53c4-3fd6-4cd8-a68b-fad93f67f06d",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743017384,
-        "date_posted": 1743017384,
-        "url": "https://ats.comparably.com/api/v1/gh/integraladscience/jobs/6745726?gh_jid=6745726",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Integral-Ad-Science",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Cadence Design Systems",
         "id": "cf0549c8-0bb8-438b-8071-0c48783b6dbc",
         "title": "Software Internship - Linux ARM Project",
@@ -282,25 +206,6 @@
             "Massachusetts"
         ],
         "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Integral Ad Science",
-        "id": "e84ad5f3-bfd1-48f5-b0eb-c5c4b5224f80",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743017382,
-        "date_posted": 1743017382,
-        "url": "https://ats.comparably.com/api/v1/gh/integraladscience/jobs/6745569?gh_jid=6745569",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Integral-Ad-Science",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -126435,7 +126340,7 @@
         "company_name": "Lyft",
         "id": "dcf89404-ce58-4c2a-8fec-7d460a4cd22c",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -181074,7 +180979,7 @@
         "company_name": "TikTok",
         "id": "7018ce8d-aa31-4eb5-a8a0-f5fba16668e9",
         "title": "Machine Learning Engineer Intern - Infrastructure Platform - 2026 Start - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -253465,7 +253370,7 @@
         "company_name": "Point72",
         "id": "3cb07455-ed02-4d0b-85ca-4f7dcd86fc6b",
         "title": "Point72 Academy Investment Analyst Intern Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -254351,6 +254256,48 @@
         "url": "https://jobs.smartrecruiters.com/Visa/744000094856846",
         "locations": [
             "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "d93eaa77-7df9-4ade-9338-8ae6df781af5",
+        "title": "Software Engineer - Intern - Summer 2026 Ashburn - VA",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763751931,
+        "date_posted": 1763751931,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000094853665",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "4d41084a-6a62-4c00-a3b6-e56847922030",
+        "title": "Software Engineer \u2013 Intern - Summer 2026 - Foster City",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763751938,
+        "date_posted": 1763751938,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000094848481",
+        "locations": [
+            "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Visa",
         "is_visible": true,
