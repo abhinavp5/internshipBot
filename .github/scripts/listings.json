@@ -133,25 +133,6 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1743026940,
-        "url": "https://mercor.com/jobs/list_AAABlTvltX-cEUOy_rpG57z9/",
-        "company_name": "Mercor",
-        "title": "Software Engineering Intern",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "jwstanly",
-        "id": "07dfdc4b-fcdf-4507-bf9b-07b534b08ea7",
-        "date_posted": 1742988002,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "company_name": "Gen",
         "id": "1598a3c0-7cc4-48cb-85f8-8cc77c7eaff2",
@@ -107050,7 +107031,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9c843ea8-9b7c-4b8c-a34c-b8c89aa81148",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -142527,7 +142508,7 @@
         "company_name": "American Century Investments",
         "id": "5da46f91-7094-40e9-9336-d99769e89a1c",
         "title": "IT Data Intern - Engineering - Analytics and AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -151980,7 +151961,7 @@
         "company_name": "Grow Financial Federal Credit Union",
         "id": "f773e1e7-217c-442f-81f3-bc8a1692940f",
         "title": "Collections Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -222413,7 +222394,7 @@
         "company_name": "Gannet Fleming",
         "id": "35a1d6d1-dfa7-4bbf-969c-20ad552cd839",
         "title": "Intern \u2013 Geographic Information Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -228096,7 +228077,7 @@
         "company_name": "Shield AI",
         "id": "573e4bb0-c9d8-4bc3-8b0d-198b9038f5e2",
         "title": "Simulation Engineering Spring 2026 Co-Op - Dallas - TX",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -242034,7 +242015,7 @@
         "company_name": "Persistent Systems",
         "id": "36429312-93fc-4add-a91a-c5d78357e6d1",
         "title": "Intern \u2013 Embedded Software Engineer - Fall 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -242887,7 +242868,7 @@
         "company_name": "American Heart Association",
         "id": "5bb84a96-b237-4369-9feb-d6ce63b9aeee",
         "title": "Intern \u2013 Data Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -254184,6 +254165,48 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Ticketmaster",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Standard Aero",
+        "id": "21dc9206-5944-49da-ad8c-1988043eb22f",
+        "title": "Data Analytics-Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763724620,
+        "date_posted": 1763422338,
+        "url": "https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/7886",
+        "locations": [
+            "St. John's, NL, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Standard-Aero",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fulton Bank",
+        "id": "3e60803e-6bfc-43b4-867b-71f9a99e9c87",
+        "title": "Intern-Enterprise Architecture",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1763724459,
+        "date_posted": 1763162736,
+        "url": "https://careers-fult.icims.com/jobs/22827/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Lancaster, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fulton-Bank",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
