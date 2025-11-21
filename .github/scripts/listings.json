@@ -154,63 +154,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "PlusAI",
-        "id": "78b59bc0-957f-4997-9660-2deedb3169c4",
-        "title": "Intern-Technical Program Management",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743018238,
-        "date_posted": 1743018238,
-        "url": "https://jobs.lever.co/plus-2/421504c0-6c62-4ec2-a0f8-4d5c6b31974f/apply",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Plus",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Actian",
-        "id": "41ad0f11-0b33-4c89-8d17-8d5e5144ca7c",
-        "title": "Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743019384,
-        "date_posted": 1743019384,
-        "url": "https://jobs.lever.co/actian/d7e063da-d994-46bc-b0d1-f001b7e48988/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/actian",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Cadence Design Systems",
-        "id": "cf0549c8-0bb8-438b-8071-0c48783b6dbc",
-        "title": "Software Internship - Linux ARM Project",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743018354,
-        "date_posted": 1743018354,
-        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/HOME-MA/Software-Internship--Linux-ARM-Project--Summer-2025-_R49512-2",
-        "locations": [
-            "Massachusetts"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Actian",
         "id": "7a17a88a-721d-40d9-be7b-8c7300928fdb",
         "title": "Data Intelligence Intern",
