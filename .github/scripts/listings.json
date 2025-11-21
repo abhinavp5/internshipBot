@@ -86049,7 +86049,7 @@
         "company_name": "Rocket Lab USA",
         "id": "209b23ea-a4bc-46b4-b145-3819ff2cecca",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -101186,7 +101186,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "ae106a62-5ef2-4345-b294-c4a2ea1743da",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -122468,7 +122468,7 @@
         "company_name": "Nova-Tech",
         "id": "d4a17aa8-3895-4d9a-9bb7-101813de4070",
         "title": "Software Development Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -138637,7 +138637,7 @@
         "company_name": "Rocket Lab USA",
         "id": "29fd480a-c96c-4707-ad7c-d70ff628bf3b",
         "title": "Software Intern Spring 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -140322,7 +140322,7 @@
         "company_name": "Samsung",
         "id": "76011733-a034-47c4-9932-c11000a226e6",
         "title": "Intern \u2013 Memory Solution Research Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -183191,7 +183191,7 @@
         "company_name": "KLA",
         "id": "f1b989eb-05dd-40e9-b1ad-173da4cad439",
         "title": "Applications Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -234279,7 +234279,7 @@
         "company_name": "Otis Worldwide",
         "id": "c6848590-5c29-49f5-8eb5-8d45ff3fc375",
         "title": "Digital Technology Project Assistant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -246795,7 +246795,7 @@
         "company_name": "CACI",
         "id": "8f3f53ff-0fad-4d2d-a809-a4c27cdf3f32",
         "title": "Embedded Software Development Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -249968,7 +249968,7 @@
         "company_name": "Cisco",
         "id": "4b024c3a-55ba-4dbe-ab57-7807be9a012b",
         "title": "Splunk Intern - Frontend - Software Engineer II",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -252238,7 +252238,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "d08a018b-8be6-4f49-9b3d-17d2b17396b9",
         "title": "Cloud Software Engineer Undergrad Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
