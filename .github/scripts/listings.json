@@ -211641,7 +211641,7 @@
         "company_name": "Autodesk",
         "id": "1e416e67-c574-46dc-bf12-52e3fe1cbf1f",
         "title": "PhD Intern - AI Research Scientist",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -235072,7 +235072,7 @@
         "company_name": "Intuitive Surgical",
         "id": "08f48e31-8623-41c4-94ee-a400b7b3aab5",
         "title": "Computer Vision Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
