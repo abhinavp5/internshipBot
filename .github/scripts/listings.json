@@ -67348,7 +67348,7 @@
         "company_name": "American Express",
         "id": "aba87d08-1d33-49c8-9641-f2d665bef101",
         "title": "New York, NY",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -248564,7 +248564,7 @@
         "company_name": "Deep Genomics",
         "id": "e653b104-3308-4b5e-a10e-9c5733b49177",
         "title": "Software Engineer - Full Stack",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
