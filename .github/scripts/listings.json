@@ -134,25 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Copart",
-        "id": "4433b4ae-bade-4639-9e31-4a231475fdbc",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743113626,
-        "date_posted": 1743113626,
-        "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR102187",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Copart",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Cirkul",
         "id": "4b470b34-3a70-4eae-98d4-47809c9855e4",
         "title": "Data Engineering Coop",
