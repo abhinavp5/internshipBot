@@ -134,64 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Nokia",
-        "id": "51e6a849-f334-41d2-9482-6853f6fe468b",
-        "title": "Software Dev Cloud Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743107217,
-        "date_posted": 1743107217,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/16720",
-        "locations": [
-            "Naperville, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Guardian Life",
-        "id": "1eb3ba2f-e944-494a-9799-32c4dbb17f19",
-        "title": "2025 Guardian Summer Intern - Data Science",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743107251,
-        "date_posted": 1743107251,
-        "url": "https://guardianlife.wd5.myworkdayjobs.com/Guardian-Life-Careers/job/New-York/XMLNAME-2025-Guardian-Life-Summer-Intern--Data-Science_R000104435",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Guardian-Life",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Scout Motors",
-        "id": "a20ab783-578a-4a35-b4be-3e3db4109ac2",
-        "title": "Intern \u2013 Production - Plant Launch",
-        "active": false,
-        "terms": [
-            "Spring 2025",
-            "Summer 2025"
-        ],
-        "date_updated": 1743107652,
-        "date_posted": 1743107652,
-        "url": "https://job-boards.greenhouse.io/scoutmotors/jobs/4689710007",
-        "locations": [
-            "Columbia, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Scout-Motors",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "BigID",
         "id": "3ba399c1-b789-4c79-809d-7ddb3bca8fbd",
         "title": "Software Integration Engineer Intern",
