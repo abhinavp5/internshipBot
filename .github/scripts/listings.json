@@ -93762,7 +93762,7 @@
         "company_name": "S&C Electric Company",
         "id": "a612d55c-5cc2-497a-8113-3bf3df334b41",
         "title": "Product Engineering Support",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -121764,7 +121764,7 @@
         "company_name": "Kinaxis",
         "id": "5436266d-6afc-46f4-b10f-43e66229dadd",
         "title": "Co-op Developer - Core Algorithms",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
