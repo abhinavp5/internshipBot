@@ -79501,7 +79501,7 @@
         "company_name": "ServiceNow",
         "id": "cf902aea-acc6-4735-8bff-bb131ab95cf2",
         "title": "UTG \u2013 Software Engineer Internships",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -82743,7 +82743,7 @@
         "company_name": "ServiceNow",
         "id": "7cdae68b-b8d2-4dd5-855d-29fd1834be33",
         "title": "UTG \u2013 Software Engineer Internships",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -211641,7 +211641,7 @@
         "company_name": "Autodesk",
         "id": "1e416e67-c574-46dc-bf12-52e3fe1cbf1f",
         "title": "PhD Intern - AI Research Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
