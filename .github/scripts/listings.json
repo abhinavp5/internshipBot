@@ -70359,7 +70359,7 @@
         "company_name": "cencora",
         "id": "3ee452c6-9053-4b3f-b59d-01a5aad00769",
         "title": "Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -91001,7 +91001,7 @@
         "company_name": "Figma",
         "id": "f004204c-f2de-4817-acee-4e2f67801c04",
         "title": "PhD Intern - Software Engineer - Graphics",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -104594,7 +104594,7 @@
         "company_name": "Shure",
         "id": "67dbe0f9-2e0a-40f0-973e-ec2714e57a07",
         "title": "Proof of Concept Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -105066,7 +105066,7 @@
         "company_name": "Shure",
         "id": "7ab269f4-c168-4aef-affd-086940fd86c1",
         "title": "Applied Research Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -106395,7 +106395,7 @@
         "company_name": "Shure",
         "id": "94103e1a-3f83-48bb-9369-b8c91872490b",
         "title": "Data Driven Sustainability Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -112563,7 +112563,7 @@
         "company_name": "Lennox International",
         "id": "606f3d71-4e31-4ce2-93bb-662378d17ab8",
         "title": "IoT Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -117718,7 +117718,7 @@
         "company_name": "Audax Group",
         "id": "e4708a5e-d2a0-4d7d-be02-24573e165b89",
         "title": "AI Engineer \u2013 Business Solutions Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -128244,7 +128244,7 @@
         "company_name": "Shure",
         "id": "34053954-ba41-4968-9bc9-770b754f1e15",
         "title": "Audio Applied Research Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -155056,7 +155056,7 @@
         "company_name": "Philips",
         "id": "871a1311-b807-4219-b94d-e1f5b2efd973",
         "title": "Co-op \u2013 Software Engineering - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024",
             "Fall 2024",
@@ -158075,7 +158075,7 @@
         "company_name": "Philips",
         "id": "5a04fbad-a684-477f-94f6-1c96e1779cda",
         "title": "Co-op \u2013 Software Engineering - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -172408,7 +172408,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "32530b9f-31b7-4efc-887c-48ec4bd8da7a",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -172455,7 +172455,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "5aaea3e0-eb7b-4548-8be4-217d0156b004",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -172803,7 +172803,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "46f30da2-6e82-4eed-a01d-e3f793a37634",
         "title": "Quantitative Engineer Intern - Clearing Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -172850,7 +172850,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "cc0f0c25-47c1-4529-921c-312e616545cf",
         "title": "Front-End Engineer Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -179611,7 +179611,7 @@
         "company_name": "Signify",
         "id": "c6edb2b1-e3f8-426d-a663-08ee9de73cfd",
         "title": "Advanced Development Software Intern - Cooper Lighting Solutions - Spring 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -246035,7 +246035,7 @@
         "company_name": "Blue Shield of California",
         "id": "4862fe95-7e99-4429-a9ed-7507b2b1e776",
         "title": "Data Full Stack Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -252541,7 +252541,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "95a909aa-57a5-4583-85a6-9db2f6c26a02",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -253467,7 +253467,7 @@
         "company_name": "CLO Virtual Fashion",
         "id": "f89c0dd9-15d4-4ed5-8b79-a79046553f6f",
         "title": "R&D \u2013 Summer Intern - 2025 - US",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -254848,6 +254848,268 @@
             "Spring, TX"
         ],
         "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "cdb7c30f-5976-4385-9092-aba6897c5dda",
+        "title": "Data Engineering Graduate Internship - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763774679,
+        "date_posted": 1763774679,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Data-Engineering-Graduate-Internship---Summer-2026_R0752479",
+        "locations": [
+            "Needham, MA",
+            "Hartford, CT",
+            "NYC",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CVS Health",
+        "id": "c70854ea-5eb4-4b72-8464-5f1f0dfc3559",
+        "title": "Software Engineering Undergraduate Internship - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763774683,
+        "date_posted": 1763774683,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Software-Engineering-Undergraduate-Internship---Summer-2026_R0752621",
+        "locations": [
+            "Needham, MA",
+            "Hartford, CT",
+            "NYC",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CVS Health",
+        "id": "aba55c61-7092-4510-abfe-1b0bae49da6b",
+        "title": "Software Engineering Graduate Internship - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763774683,
+        "date_posted": 1763774683,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Software-Engineering-Graduate-Internship---Summer-2026_R0752527",
+        "locations": [
+            "Needham, MA",
+            "Hartford, CT",
+            "NYC",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "94f17201-f416-4a70-8b82-79e0266f7e80",
+        "title": "Innotech AI Critical Skills Internship - Undergraduate - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763774684,
+        "date_posted": 1763774684,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/InnoTech-AI-Critical-Skills-Internship--Undergraduate----Summer-2026_R0780242-1",
+        "locations": [
+            "Northbrook, IL",
+            "Smithfield, RI",
+            "Scottsdale, AZ",
+            "Hartford, CT",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CVS Health",
+        "id": "7910a08e-f15d-46e0-99ad-b7fb95ebc73d",
+        "title": "Innotech Engineering Internship - Undergraduate - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763774681,
+        "date_posted": 1763774681,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/InnoTech-Engineering-Internship--Undergraduate----Summer-2026_R0780249",
+        "locations": [
+            "Northbrook, IL",
+            "Smithfield, RI",
+            "Scottsdale, AZ",
+            "Hartford, CT",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "4bc72eca-9578-40fd-8835-743bdfd85d30",
+        "title": "Data Engineering Undergraduate Internship - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763774679,
+        "date_posted": 1763774679,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Data-Engineering-Undergraduate-Internship---Summer-2026_R0752602",
+        "locations": [
+            "Needham, MA",
+            "Hartford, CT",
+            "NYC",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CVS Health",
+        "id": "47d07269-da73-451e-a196-fb435875c03a",
+        "title": "Innotech Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763774687,
+        "date_posted": 1763774687,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/InnoTech-Engineering-Internship--Graduate----Summer-2026_R0780252",
+        "locations": [
+            "Northbrook, IL",
+            "Smithfield, RI",
+            "Scottsdale, AZ",
+            "Hartford, CT",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "21b7d2a7-1e58-4706-9a2a-0cee4e281b54",
+        "title": "Innotech AI Critical Skills Intern \u2013 Graduate",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1763774684,
+        "date_posted": 1763774684,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/InnoTech-AI-Critical-Skills-Internship--Graduate----Summer-2026_R0780238",
+        "locations": [
+            "Northbrook, IL",
+            "Smithfield, RI",
+            "Scottsdale, AZ",
+            "Hartford, CT",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "04aebb37-cce8-4d6f-9e75-8d39d7b0c958",
+        "title": "Machine Learning Engineering Graduate Internship - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763774686,
+        "date_posted": 1763774686,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Machine-Learning-Engineering-Graduate-Internship---Summer-2026_R0752547",
+        "locations": [
+            "Needham, MA",
+            "Hartford, CT",
+            "NYC",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Conagra Brands",
+        "id": "f7f971a3-3e8f-4f9c-951a-92a3de804687",
+        "title": "Automation Internship - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763771890,
+        "date_posted": 1763771890,
+        "url": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Automation-Internship---Summer-2026_Req-034675",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Conagra-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "417871cd-9f57-4003-ba18-d9cab6796608",
+        "title": "Software Engineer",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1763771926,
+        "date_posted": 1763767381,
+        "url": "https://careers-gdms.icims.com/jobs/69052/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Bridgewater, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
