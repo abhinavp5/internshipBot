@@ -83593,7 +83593,7 @@
         "company_name": "Cummins",
         "id": "a1abcbf9-c637-4345-9584-fcd7931535a5",
         "title": "Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
