@@ -63960,7 +63960,7 @@
         "company_name": "Booz Allen",
         "id": "c007327d-d3cc-426d-9772-317fb5167d97",
         "title": "University \u2013 Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -66755,7 +66755,7 @@
         "company_name": "Stryker",
         "id": "07a6ba14-b0f8-498d-8e24-c8d5fd0d4be6",
         "title": "2026 Summer Intern - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -80749,7 +80749,7 @@
         "company_name": "Allegion",
         "id": "66fe4510-4544-4a7a-82df-374a0cc7c28e",
         "title": "Summer Intern - Firmware Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -151451,7 +151451,7 @@
         "company_name": "Marvell",
         "id": "61e3734b-7ee5-4569-a6d9-7a7c0ee36478",
         "title": "Applied Machine Learning Scientist Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -163455,7 +163455,7 @@
         "company_name": "Lennar Corporation",
         "id": "39e00dbc-00fa-439f-93d2-949c9365bec5",
         "title": "Future Builders Internship Program - Machine Learning Engineering - Machine Learning Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -178524,7 +178524,7 @@
         "company_name": "Uline",
         "id": "bc0a13d5-a9cb-4574-814d-02a68a76d424",
         "title": "Financial Data Analyst Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -180833,7 +180833,7 @@
         "company_name": "GE Vernova",
         "id": "4599d3af-ebaa-4328-a0c9-f1eea1a3bb1c",
         "title": "GE Vernova Formal Verification of Real-time Control Code Research Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -253914,7 +253914,7 @@
         "company_name": "Intuitive Surgical",
         "id": "e0d9fd04-ca06-4136-9e90-c39d4b80f9d7",
         "title": "AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -254774,7 +254774,7 @@
         "company_name": "CVS Health",
         "id": "94f17201-f416-4a70-8b82-79e0266f7e80",
         "title": "Innotech AI Critical Skills Internship - Undergraduate - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
