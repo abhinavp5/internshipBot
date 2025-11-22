@@ -134,25 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Cirkul",
-        "id": "4b470b34-3a70-4eae-98d4-47809c9855e4",
-        "title": "Data Engineering Coop",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743116865,
-        "date_posted": 1743116865,
-        "url": "https://drinkcirkul.com/pages/careers?gh_jid=4690768007",
-        "locations": [
-            "Belmont, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cirkul",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "IXL Learning",
         "id": "8bf50f56-4829-4a4a-9455-a4085c8b312e",
         "title": "Software Engineer \u2013 Intern",
