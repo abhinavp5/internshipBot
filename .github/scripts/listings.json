@@ -210441,7 +210441,7 @@
         "company_name": "Nokia",
         "id": "742dd5ed-88d0-48bb-bcda-0a9d765b6720",
         "title": "Optical Hardware Development Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -245179,7 +245179,7 @@
         "company_name": "Axalta",
         "id": "585b4197-2d8e-4709-b937-73cb62416550",
         "title": "Market Research & Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
