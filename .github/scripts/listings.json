@@ -67061,7 +67061,7 @@
         "company_name": "American Express",
         "id": "aba87d08-1d33-49c8-9641-f2d665bef101",
         "title": "New York, NY",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -201768,7 +201768,7 @@
         "company_name": "John Deere",
         "id": "96ea8465-084b-46e7-9477-5ce99df3a92d",
         "title": "2026 Intern - Product Engineering - Product Engineering (CA) - JD Power Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -236614,7 +236614,7 @@
         "company_name": "Cummins",
         "id": "25ba3a13-5a87-4443-a581-82ab92dfe6e9",
         "title": "Service Engineering \u2013 Co-op Positions",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -239312,7 +239312,7 @@
         "company_name": "Cummins",
         "id": "9d507326-a657-4989-9623-a11eed7c7a5f",
         "title": "Product Functional Test",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -245704,7 +245704,7 @@
         "company_name": "American Express",
         "id": "62a863c7-3993-4ae3-9fb0-b2a968c46069",
         "title": "Campus Undergraduate Intern Program - Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -254667,6 +254667,27 @@
             "Bridgewater, MA"
         ],
         "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "5b4ca0ce-f055-4d3f-828b-18e366ce77e8",
+        "title": "Forestry Resource and Valuation Solutions Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763883906,
+        "date_posted": 1763673600,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210687753",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
