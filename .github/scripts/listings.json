@@ -42134,7 +42134,7 @@
         "company_name": "GE Vernova",
         "id": "d1f13d1a-7b5e-4cbd-b7ab-177d17dc3684",
         "title": "GE Vernova Grid Automation Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -148806,7 +148806,7 @@
         "company_name": "State Street",
         "id": "deeb2873-d20a-4465-9651-e572ac0938be",
         "title": "AI Enablement Engineer \u2013 Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Summer 2026"
@@ -180108,7 +180108,7 @@
         "company_name": "QTS",
         "id": "d9e7c782-ebb1-445b-b8f0-516c5b0029f4",
         "title": "Summer 2026 Internship: Construction Technology-Business/Data Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -180508,7 +180508,7 @@
         "company_name": "GE Vernova",
         "id": "4599d3af-ebaa-4328-a0c9-f1eea1a3bb1c",
         "title": "GE Vernova Formal Verification of Real-time Control Code Research Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -200614,7 +200614,7 @@
         "company_name": "Genuine Parts Company",
         "id": "a0817273-da03-4ada-a1a9-df724e119949",
         "title": "Marketing Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -237859,7 +237859,7 @@
         "company_name": "Lowe's ",
         "id": "1e04c164-2dd4-4bdd-ac24-18d0ff6e56cd",
         "title": "Store Operations Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -242125,7 +242125,7 @@
         "company_name": "Adobe",
         "id": "d57d7625-bea6-4f9e-8f3c-79d40428d155",
         "title": "2026 Intern - Enterprise Marketing AI Data Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -243101,7 +243101,7 @@
         "company_name": "Analog Devices",
         "id": "5321141d-4c6d-4eb8-a40c-f8f39013a33c",
         "title": "Hardware Security Design Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -250253,7 +250253,7 @@
         "company_name": "Alliance Laundry Systems",
         "id": "dda0a2ba-b6fc-4b39-8ba3-32ed779c5321",
         "title": "Product Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
