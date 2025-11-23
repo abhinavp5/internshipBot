@@ -83196,7 +83196,7 @@
         "company_name": "Cummins",
         "id": "0c97eec2-bc16-4d59-9973-cf055d6d33db",
         "title": "Product Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -238267,7 +238267,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Visa",
-        "id": "0ed6cb36-9c49-457e-987a-0bd0bf11e256",
+        "id": "a010f1f2-6a04-4d2b-8281-df27a33235b0",
         "title": "Software Engineer Intern",
         "active": true,
         "terms": [
@@ -248187,7 +248187,7 @@
         "company_name": "CenturyLink",
         "id": "353df41f-be1a-4813-9f88-c2b0cb90feee",
         "title": "Intern \u2013 Network Engineer - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
