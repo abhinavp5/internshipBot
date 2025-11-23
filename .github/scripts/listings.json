@@ -72573,7 +72573,7 @@
         "company_name": "Takeda",
         "id": "c65709d6-ab2f-4688-abf8-579d0b238df2",
         "title": "Analytics Leadership Development Program Summer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -110019,7 +110019,7 @@
         "company_name": "Thermo Fisher Scientific",
         "id": "eed93f60-5cc3-47c3-a522-cde7343e19e8",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -157917,7 +157917,7 @@
         "company_name": "Adobe",
         "id": "d8b8a228-7585-4626-b92b-e1f5e41eb9cd",
         "title": "Intern - Product Manager - Digital Media",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -204430,7 +204430,7 @@
         "company_name": "Adobe",
         "id": "62bd2b49-d7a4-4369-b0ab-2623bef49870",
         "title": "Intern - Software Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -207643,7 +207643,7 @@
         "company_name": "Cadence Design Systems",
         "id": "d83a6452-602f-437b-bd53-f9e7b112fb0a",
         "title": "Product Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -207664,7 +207664,7 @@
         "company_name": "Cadence Design Systems",
         "id": "df707e12-32af-43cd-a81a-d42d81920402",
         "title": "Analog Layout Design Summer 2026 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -211093,7 +211093,7 @@
         "company_name": "Cadence Design Systems",
         "id": "4e7e45d6-5e54-4098-88e8-e2b3eafe9c45",
         "title": "SoC Performance Architect and UVM Testbench Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -212931,7 +212931,7 @@
         "company_name": "Red Hat",
         "id": "09869b4e-f0b8-4f64-ae90-75b036fe9ff0",
         "title": "Product Training Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -222453,7 +222453,7 @@
         "company_name": "CIBC",
         "id": "552dd713-5e91-44f7-af39-b10b0df687ec",
         "title": "2026 Summer Intern - Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -229637,7 +229637,7 @@
         "company_name": "Takeda",
         "id": "e0279d74-bb96-4a48-85e1-0fc435181f0c",
         "title": "2026 Summer Internship Program: DD&T Innovation Analyst Intern - Pdt",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -239527,7 +239527,7 @@
         "company_name": "Dow Chemical Company",
         "id": "fe1fe6e2-8217-4720-a541-83510cc94fdf",
         "title": "Campus Intern - Research & Development - BS/MS",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Winter 2026"
@@ -247210,7 +247210,7 @@
         "company_name": "CoStar Group",
         "id": "0ed295d1-6815-4c9c-b70e-fc4825dcc850",
         "title": "ML Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2027",
@@ -254709,6 +254709,27 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Root-Access",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Divergent Technologies",
+        "id": "341ae831-f598-4873-9ffe-dd312e8532f7",
+        "title": "Summer 2026 Data & Process Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763889876,
+        "date_posted": 1763889876,
+        "url": "https://job-boards.greenhouse.io/divergent/jobs/4998473008",
+        "locations": [
+            "Carson, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Divergent-TechnologiesDivergent",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
