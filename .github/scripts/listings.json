@@ -230,25 +230,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "ByteDance",
-        "id": "28f0e315-1982-468b-9621-0e8c3bccdc1f",
-        "title": "Network Software Engineer Intern - Network Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743194647,
-        "date_posted": 1743194647,
-        "url": "https://jobs.bytedance.com/en/position/7486692783728101640/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Definitive Healthcare",
         "id": "41d3c7d4-32f0-4f3b-b016-9787f50cac32",
         "title": "Data Intern",
@@ -129503,7 +129484,7 @@
         "company_name": "Oshkosh",
         "id": "b0e44aaf-b6aa-49c2-aaf1-2ed09eb7baf3",
         "title": "Autonomy Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -186673,7 +186654,7 @@
         "company_name": "Marvell",
         "id": "9fef21d0-a164-4297-9626-d14bad97a8a1",
         "title": "Hardware Engineer Intern - Master's Degree",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -197264,7 +197245,7 @@
         "company_name": "Highmark Health",
         "id": "b9b8956b-7e6d-41de-a8b6-9bea367f0076",
         "title": "Summer 2026 Reimbursement Data Engineer Undergraduate Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -238866,7 +238847,7 @@
         "company_name": "Micron Technology",
         "id": "9ade09b9-1071-46ac-81e2-3064864a9ea1",
         "title": "Registered Apprenticeship Program - Equipment Technician",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -252779,7 +252760,7 @@
         "company_name": "Altera Corporation",
         "id": "b7f49903-2fde-4a68-a633-187a62710fb9",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
