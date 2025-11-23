@@ -20438,7 +20438,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Hazelwood, MO</td>
 <td>Winter 2025</td>
 <td>🔒</td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
