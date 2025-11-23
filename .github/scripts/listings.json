@@ -24212,7 +24212,7 @@
         "company_name": "Lamb Weston",
         "id": "0832f3cd-0410-4623-bf21-f0ad4a5e13c0",
         "title": "Lamb Weston Summer Internship Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -42142,7 +42142,7 @@
         "company_name": "Adobe",
         "id": "f65a97ce-acdb-4f60-a4e0-a4a7b7a66fcb",
         "title": "AI/ML Intern - Machine Learning Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -68378,7 +68378,7 @@
         "company_name": "Plexus",
         "id": "f904fcc2-a9b1-4c6f-861a-68fb4dbb1852",
         "title": "Intern \u2013 Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -69916,7 +69916,7 @@
         "company_name": "cencora",
         "id": "3ee452c6-9053-4b3f-b59d-01a5aad00769",
         "title": "Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -97907,7 +97907,7 @@
         "company_name": "LabCorp",
         "id": "de23b876-b35d-4361-9b93-a3614b35a7c5",
         "title": "Intern \u2013 Enterprise Systems Monitoring",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -104151,7 +104151,7 @@
         "company_name": "Shure",
         "id": "67dbe0f9-2e0a-40f0-973e-ec2714e57a07",
         "title": "Proof of Concept Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -126141,7 +126141,7 @@
         "company_name": "BorgWarner",
         "id": "8e83d7b6-787c-4e4d-b8af-2cdb93108967",
         "title": "Ehardware Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -129772,7 +129772,7 @@
         "company_name": "BorgWarner",
         "id": "f7dcb909-60db-4e95-920c-0679a423ed91",
         "title": "Electronics Hardware Design Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -133890,7 +133890,7 @@
         "company_name": "Zurn Elkay Water Solutions",
         "id": "bbad593a-0ead-4c90-971f-ec0ac19b3f04",
         "title": "Product Management Intern - Product Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -149205,7 +149205,7 @@
         "company_name": "Marvell",
         "id": "1b08f0d9-d86e-4f45-8f7b-ff5e8da246fd",
         "title": "Solutions Architecture Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -153301,7 +153301,7 @@
         "company_name": "PIMCO",
         "id": "f85ec5d8-a924-4791-80be-6d7dfa4edb8b",
         "title": "Masters Summer Intern - Quant Research Analyst - Client Solutions & Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -170105,7 +170105,7 @@
         "company_name": "Ingredion",
         "id": "013bffee-dfae-418e-a722-aab144c87fea",
         "title": "Supply Chain Data Science Intern - Data Science and Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -192855,7 +192855,7 @@
         "company_name": "Marriott Vacations Worldwide",
         "id": "ca63f029-b288-4298-882f-7b632bb244fa",
         "title": "Data Science Intern - Spring 2026 - Orlando - FL",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -195268,7 +195268,7 @@
         "company_name": "Thales",
         "id": "596c2034-7804-4e35-ac57-1c03463f8b49",
         "title": "2026 Algorithm Engineering Apprentice - Level 6 Digital and Technology Solutions",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -196567,7 +196567,7 @@
         "company_name": "Oshkosh",
         "id": "52d619f3-9407-4fde-b892-033a8b555a8d",
         "title": "Product Management Intern - Year Round",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -198971,7 +198971,7 @@
         "company_name": "Micron Technology",
         "id": "c26a571e-368d-4417-93cf-ea815ee4921f",
         "title": "Intern \u2013 NAND Storage Strategic Roadmap Planning & Client SSD TPM",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -206910,7 +206910,7 @@
         "company_name": "Aptiv",
         "id": "94471885-f41e-4e48-8ea9-f57cae7d9eb0",
         "title": "Vehicle System Data Analytic Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -218788,7 +218788,7 @@
         "company_name": "Ciena",
         "id": "001987e6-be19-4f2f-9612-d7f7906fc04a",
         "title": "Software Engineering Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -224594,7 +224594,7 @@
         "company_name": "Adobe",
         "id": "51561d32-a2b4-4f87-b84d-77219edd63b8",
         "title": "2026 AI/ML Intern - Machine Learning Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -228192,7 +228192,7 @@
         "company_name": "Adobe",
         "id": "271e8ac4-5918-43dd-84e7-581a5950e52e",
         "title": "2026 AI/ML Intern - Applied Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -229658,7 +229658,7 @@
         "company_name": "Takeda",
         "id": "a2a1909b-40a5-416a-a841-40813c0946f3",
         "title": "2026 U.S Summer Internship Program: Data Platforms \u2013 AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -230810,7 +230810,7 @@
         "company_name": "Adobe",
         "id": "5916617e-774f-4eba-aa05-db1a6b73ec43",
         "title": "2026 Intern - Data Scientist",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -233839,7 +233839,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "b2e5c9a4-0b91-4f7b-a58b-29b7500589fd",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -234842,7 +234842,7 @@
         "company_name": "CAE",
         "id": "52ce22e6-4734-471f-b754-8db3de4fd70f",
         "title": "R&D Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -238657,7 +238657,7 @@
         "company_name": "MaineGeneral Health",
         "id": "283feff9-dc4c-4325-81e1-58a857138d24",
         "title": "Senior Application Engineer \u2013 Maine Residency Required - Partially",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -246313,7 +246313,7 @@
         "company_name": "Nasdaq",
         "id": "69e6c834-c41f-488e-9e0e-cecf64288fa0",
         "title": "Intelligent Automation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -254182,7 +254182,7 @@
         "company_name": "Micron Technology",
         "id": "33bf0707-f5ec-4664-a8f0-fd624631beb7",
         "title": "Registered Apprentice - Equipment Technician",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
