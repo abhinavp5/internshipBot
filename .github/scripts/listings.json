@@ -134,25 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Intuitive Surgical",
-        "id": "66c375ef-24cc-41f1-9290-e37f841f13ba",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743196910,
-        "date_posted": 1743196910,
-        "url": "https://jobs.smartrecruiters.com/Intuitive/744000050438061",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Alarm.com",
         "id": "39fd5fa8-8b10-4634-81f0-657e0c67190a",
         "title": "Software Engineer Internship",
@@ -250280,7 +250261,7 @@
         "company_name": "Curtiss-Wright Corporation",
         "id": "bfe2b997-1efc-4500-8d8b-be33ca34e084",
         "title": "Product Engineer Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
