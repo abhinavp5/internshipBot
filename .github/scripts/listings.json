@@ -56953,7 +56953,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3801beb2-e473-44e1-8a9b-a3c4776098f6",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -85355,7 +85355,7 @@
         "company_name": "DriveTime",
         "id": "c8c3ac2f-c17a-4dfd-aa19-68808f54489c",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -141849,7 +141849,7 @@
         "company_name": "Sony",
         "id": "c028e3f3-97c3-4afe-8b37-2585ee015c99",
         "title": "Research Intern - Multimodal Foundation Model for Vision",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -152410,7 +152410,7 @@
         "company_name": "ibotta",
         "id": "5e73567b-5af6-46e7-976a-f2640f0626e6",
         "title": "Business Intelligence Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -166158,7 +166158,7 @@
         "company_name": "Ciena",
         "id": "c496bac6-3d95-41bd-b212-19661da8bae1",
         "title": "Hardware Characterization Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -171942,7 +171942,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "315215f2-cf98-4b01-85eb-14f7837c9dcd",
         "title": "Mobile Application Development Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -178212,7 +178212,7 @@
         "company_name": "Philips",
         "id": "3ac955f3-6b56-432c-b7d1-3bd37ccf2d36",
         "title": "Co-op-Data Engineer-Reedsville - PA-January-June 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -189023,7 +189023,7 @@
         "company_name": "Rambus",
         "id": "519bc6e4-034f-4a2c-b450-aa09806c2a0e",
         "title": "Intern Digital Verification",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -202002,7 +202002,7 @@
         "company_name": "Cognex",
         "id": "9dcf1f74-1625-4add-8408-78dffced3d47",
         "title": "Core Vision Intern - Vision Algorithms",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -212845,7 +212845,7 @@
         "company_name": "Bristol Myers Squibb",
         "id": "f3681c22-a5a1-421e-a489-b3042b04c2b6",
         "title": "Summer 2026 \u2013 Computational Genomics Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -230022,7 +230022,7 @@
         "company_name": "Cadence Design Systems",
         "id": "032e2785-5f52-42b0-bcdf-59efb0e1baf3",
         "title": "Summer Intern - Foundry",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -244589,7 +244589,7 @@
         "company_name": "Bloomberg Industry Group",
         "id": "c691c236-8c88-4ef9-b605-1ec3689fb09e",
         "title": "Intern Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -248449,7 +248449,7 @@
         "company_name": "Amgen",
         "id": "872d4623-6033-4890-b755-fabf9df08be1",
         "title": "R&D Protein Footprinting Data Analysis Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -248599,7 +248599,7 @@
         "company_name": "Johnson & Johnson",
         "id": "47526592-a406-43c7-9bfc-a83deed589d7",
         "title": "Statistics & Decision Sciences Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -252960,7 +252960,7 @@
         "company_name": "Altera Corporation",
         "id": "cb41a13b-c891-4270-8bdb-bec99492da77",
         "title": "FPGA Design Verification Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
