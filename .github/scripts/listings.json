@@ -208824,7 +208824,7 @@
         "company_name": "Ciena",
         "id": "f302bc67-c684-49a9-a490-4526d62f5f54",
         "title": "Waveserver Software Developer Co-op - Winter 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -223476,7 +223476,7 @@
         "company_name": "OmniSource",
         "id": "5a0de67c-94b7-4303-8869-fd2a1c1b129e",
         "title": "Data Analytics Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -228791,7 +228791,7 @@
         "company_name": "The Federal Reserve System",
         "id": "4ac11981-d7fb-4f05-adb4-b69c1d792127",
         "title": "Graduate Internship - Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -232160,7 +232160,7 @@
         "company_name": "Gilead Sciences",
         "id": "9378d81a-0170-4752-b39b-ee3c7da7cad3",
         "title": "Intern \u2013 IT - Enterprise Data & Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -235565,7 +235565,7 @@
         "company_name": "Cadence Design Systems",
         "id": "f80dbf03-4f4a-4c3f-a72e-6175d8548c0d",
         "title": "Intern - Foundry",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -235630,7 +235630,7 @@
         "company_name": "Blue Origin",
         "id": "b0945aae-3e1e-4a40-b029-65b6ecbe1ef0",
         "title": "Intern Conversion: Early Career - Systems Engineer I",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -246775,7 +246775,7 @@
         "company_name": "Endeavor Air",
         "id": "654728d9-52c4-43e0-8e14-3b84252b80d6",
         "title": "Operational Analytics and Performance Intern - Operational Analytics and Performance",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -248551,7 +248551,7 @@
         "company_name": "Analog Devices",
         "id": "6175c865-e733-47e6-b021-62eba6fa1391",
         "title": "Digital Design Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
