@@ -134,44 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Spencer Stuart",
-        "id": "6480ba2b-0c62-4e6e-84cc-f865a7bc8bc9",
-        "title": "Intern \u2013 Data Analysis",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743192933,
-        "date_posted": 1743192933,
-        "url": "https://spencerstuart.wd5.myworkdayjobs.com/Spencer_Stuart_External_Careers/job/Philadelphia/Intern---Data-Analysis_R4235",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Spencer-Stuart",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Eversource Energy",
-        "id": "b4596a9b-bf57-4c89-9470-f9c1a4481cb9",
-        "title": "Business Process & Data Analysis Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743193829,
-        "date_posted": 1743193829,
-        "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/XMLNAME-2025-Summer-Business-Process---Data-Analysis-Intern_R-027045",
-        "locations": [
-            "Hartford, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Eversource-Energy",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Intuitive Surgical",
         "id": "66c375ef-24cc-41f1-9290-e37f841f13ba",
         "title": "Data Science Intern",
@@ -245101,7 +245063,7 @@
         "company_name": "Shure",
         "id": "dbfe6459-45e8-40be-b954-8c607b54b4e8",
         "title": "Global Product Management Intern - Content Creation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -247000,7 +246962,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "97e090ec-e81f-4184-9dd9-87a5d6360c1d",
         "title": "Product Management Intern - Product Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
