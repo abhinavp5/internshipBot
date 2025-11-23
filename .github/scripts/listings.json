@@ -70112,7 +70112,7 @@
         "company_name": "NVIDIA",
         "id": "7c49d73a-eb0a-42da-ab00-413a3bdbd7f3",
         "title": "NVIDIA Internships: Hardware Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -70327,7 +70327,7 @@
         "company_name": "NVIDIA",
         "id": "4f2023c2-31bf-46ba-9e3a-64f204324aff",
         "title": "PhD Autonomous Vehicles Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -74821,7 +74821,7 @@
         "company_name": "Lowe's ",
         "id": "e1e47607-61b9-48e6-b92f-38ce9bca8ff2",
         "title": "AI Engineer \u2013 Undergraduate Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -86680,7 +86680,7 @@
         "company_name": "Johnson & Johnson",
         "id": "13ace6e4-6692-49c7-a959-38672ad2e888",
         "title": "J&J Surgery: Data Science Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -130084,7 +130084,7 @@
         "company_name": "RSM",
         "id": "f1f069f8-25d9-4102-b381-8089d6749f4a",
         "title": "Cyber ServiceNow Developer Associate - ServiceNow Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -172290,7 +172290,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "4e79f79a-bf73-45f0-a035-c8ed56f6cbcd",
         "title": "Software Engineering Intern - Full-Stack - Java",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -217299,7 +217299,7 @@
         "company_name": "Dimensional Fund Advisors",
         "id": "177bc562-e771-410c-8418-1b72e9bc843c",
         "title": "Investment Analytics and Data Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -225975,7 +225975,7 @@
         "company_name": "Leidos",
         "id": "d8c8167d-da36-4509-9c68-041f87570e56",
         "title": "Formal Methods Research Intern - Remote - Onsite - Arlington VA",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -231127,7 +231127,7 @@
         "company_name": "Trimble",
         "id": "f555f161-c16c-49ee-a65d-5065f53de9e3",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -233280,7 +233280,7 @@
         "company_name": "Tokyo Electron",
         "id": "dbbc6514-327c-4692-8e7c-1cad9704cfe0",
         "title": "ATG SPS Simulation Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -238857,7 +238857,7 @@
         "company_name": "Mastercard",
         "id": "a0428b6c-d526-433d-b629-abb9f9dceed0",
         "title": "Apprentice - Cabling Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -241796,7 +241796,7 @@
         "company_name": "Highmark Health",
         "id": "050d34c6-4520-4675-91ea-b05c8ac0baa0",
         "title": "Summer 2026 Product Owner Graduate Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
