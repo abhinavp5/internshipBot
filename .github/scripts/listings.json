@@ -55140,7 +55140,7 @@
         "company_name": "GE Appliances",
         "id": "eee6c9da-def1-454b-8f5d-8acac504abee",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -81761,7 +81761,7 @@
         "company_name": "Dun & Bradstreet",
         "id": "0d63ca0d-b616-49a0-b138-3c181fbf1069",
         "title": "2026 Summer Internship Program - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -116024,7 +116024,7 @@
         "company_name": "Duolingo",
         "id": "7b164766-eed6-4961-80d1-328680c1bf99",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -141727,7 +141727,7 @@
         "company_name": "Rambus",
         "id": "30f32a5b-76dd-4ace-8472-5352e3bd5a92",
         "title": "Product Engineering Intern - Product Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -141750,7 +141750,7 @@
         "company_name": "Rambus",
         "id": "8e5c43e7-05a6-4746-935b-495159a96309",
         "title": "Silicon IP Field Application Engineer Intern - Field Application Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -145639,7 +145639,7 @@
         "company_name": "Dun & Bradstreet",
         "id": "8edf6455-3ed9-4f4b-be8c-9dcd4d92863d",
         "title": "Internship Program - Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -195738,7 +195738,7 @@
         "company_name": "Aurora Innovation",
         "id": "c3e59a45-7eb5-4127-8bf1-4eec910eb5fe",
         "title": "Software Engineering Internship - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -195781,7 +195781,7 @@
         "company_name": "Aurora Innovation",
         "id": "5cd96066-8b63-441e-b279-690870fc93f0",
         "title": "Hardware Engineering Internship - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -223913,7 +223913,7 @@
         "company_name": "Rambus",
         "id": "9a0aca24-0f4b-41d4-8682-8a11169ffa50",
         "title": "Firmware Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -225705,7 +225705,7 @@
         "company_name": "Electronic Arts",
         "id": "f22f4aef-6545-42c8-9b88-9ede6a95ec66",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -242646,7 +242646,7 @@
         "company_name": "Wealthsimple",
         "id": "750d8f38-5329-4a44-b56b-77e1f274cc78",
         "title": "Intern \u2013 AI Experiences",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -246426,7 +246426,7 @@
         "company_name": "Nasdaq",
         "id": "f7c1c09e-8536-4430-b3d5-5d8cc3945621",
         "title": "Software Developer/Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -253651,7 +253651,7 @@
         "company_name": "Geico",
         "id": "63466a94-c476-41ad-b8c3-9e118c9f2589",
         "title": "TDP Software and a.1. Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
