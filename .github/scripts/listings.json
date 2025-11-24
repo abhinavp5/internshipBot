@@ -104337,7 +104337,7 @@
         "company_name": "Shure",
         "id": "cceac49b-69c3-419f-b97d-5a1ed6b46e09",
         "title": "Cloud Applications Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -242399,7 +242399,7 @@
         "company_name": "Hitachi",
         "id": "13eb2ad1-1b16-43d0-b410-2121bd1b076c",
         "title": "Data Science Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Winter 2026",
