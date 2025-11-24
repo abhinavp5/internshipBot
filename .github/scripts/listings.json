@@ -201173,7 +201173,7 @@
         "company_name": "Kensho",
         "id": "944a9800-9b16-4def-8466-60f0965711dc",
         "title": "Software Engineer Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -251162,7 +251162,7 @@
         "company_name": "Sikich",
         "id": "0d14de39-a664-4e51-ac49-c257f80b850d",
         "title": "NetSuite Implementation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
