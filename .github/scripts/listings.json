@@ -243753,7 +243753,7 @@
         "company_name": "Veolia",
         "id": "ff94c346-0be5-4afa-80a3-d5d3c9695860",
         "title": "Engineering/Instrumentation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -249324,7 +249324,7 @@
         "company_name": "Veolia",
         "id": "b9591b92-d3a7-49b4-a30a-4a7a7e81a8ad",
         "title": "Engineering Instrumentation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -254742,6 +254742,48 @@
             "Caddo Valley, AR"
         ],
         "company_url": "https://simplify.jobs/c/Veolia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Red Bull",
+        "id": "d42e646d-2105-480c-b742-dee2bdb28ab9",
+        "title": "Insights Apprentice",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1764003730,
+        "date_posted": 1764003730,
+        "url": "https://jobs.smartrecruiters.com/RedBull/744000095157603",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Bull",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NBCUniversal",
+        "id": "619672e2-80ad-477c-b8a2-61af9041315c",
+        "title": "Universal Filmed Entertainment Group Film Technology AV/AR Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764003644,
+        "date_posted": 1764003644,
+        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000095152466",
+        "locations": [
+            "North Hollywood, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/NBCUniversal",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
