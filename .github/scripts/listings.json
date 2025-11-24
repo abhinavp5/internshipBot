@@ -134,44 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Definitive Healthcare",
-        "id": "41d3c7d4-32f0-4f3b-b016-9787f50cac32",
-        "title": "Data Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743232846,
-        "date_posted": 1743232846,
-        "url": "https://boards.greenhouse.io/definitivehc/jobs/5489192004",
-        "locations": [
-            "Framingham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Definitive-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Keysight Technologies, Inc.",
-        "id": "6e7a2e50-9d61-4bb6-bcc2-90e3d922e5e7",
-        "title": "Application Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743232752,
-        "date_posted": 1743232752,
-        "url": "https://jobs.keysight.com/jobs/44432?lang=en-us&icims=1",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "ByteDance",
         "id": "24a645f9-c572-451f-b438-ee47c17721fe",
         "title": "Software Engineer Intern - CDN/Edge/Traffic Platform - MS",
@@ -254603,6 +254565,48 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/CLO-Virtual-Fashion",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Red Bull",
+        "id": "1d1ac864-cac4-4703-8198-4651618383e2",
+        "title": "Intern - Academy Performance Analysis",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1763969338,
+        "date_posted": 1763969338,
+        "url": "https://jobs.smartrecruiters.com/RedBull/744000095044055",
+        "locations": [
+            "Livingston, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Bull",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LinkedIn",
+        "id": "45b99e64-32cd-4d59-b80f-e1ea760e36d2",
+        "title": "Software Engineer Intern - First Play",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763968859,
+        "date_posted": 1763968859,
+        "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000095054345",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LinkedIn",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
