@@ -175754,7 +175754,7 @@
         "company_name": "Cirrus Logic",
         "id": "4c60c0b7-719b-4c60-aba9-b7a8db672003",
         "title": "Summer Intern - Validation Software Engineer - Silicon Validation Infrastructure & Data Tools",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -186546,7 +186546,7 @@
         "company_name": "NBCUniversal",
         "id": "6e04f537-e1f3-4595-837b-5cf6aa9e3f18",
         "title": "Audience Insights & Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2027"
@@ -226086,7 +226086,7 @@
         "company_name": "BP",
         "id": "401e99d0-b835-4ed3-8013-af7eaacb4b3c",
         "title": "Apprenticeship - Digital - Data science & machine learning - L4 - Higher",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -236258,7 +236258,7 @@
         "company_name": "Qorvo",
         "id": "e4b37a09-8270-4db8-8f96-6145181e9aae",
         "title": "Failure Analysis Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -251028,7 +251028,7 @@
         "company_name": "Courier Health",
         "id": "f5213eb7-f0de-404c-9a76-026bfc694b11",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
