@@ -254724,5 +254724,26 @@
         "date_posted": 1763999898,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Veolia",
+        "id": "a2dd8509-bdcc-4c2e-8776-96b2d35306a1",
+        "title": "Engineering Instrumentation Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1764001968,
+        "date_posted": 1764001968,
+        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000095130105",
+        "locations": [
+            "Caddo Valley, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Veolia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
