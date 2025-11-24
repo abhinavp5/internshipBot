@@ -121762,7 +121762,7 @@
         "company_name": "Waymo",
         "id": "bdf045bc-dbe8-47b7-8c2e-06a184a4aaff",
         "title": "Intern - PhD - Machine Learning Engineer - Simulation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -136858,7 +136858,7 @@
         "company_name": "Kodiak Robotics",
         "id": "97c11bd6-63f8-42d6-8b41-1b60773ab46b",
         "title": "Intern - Perception",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -143186,7 +143186,7 @@
         "company_name": "CACI",
         "id": "decd66fc-e746-4175-a7da-977586420002",
         "title": "Cloud Software Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -177725,7 +177725,7 @@
         "company_name": "KION",
         "id": "d5489971-c796-49df-8ed8-d225ceb815e3",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -181809,7 +181809,7 @@
         "company_name": "Intuit",
         "id": "a0f2eafd-7914-4a7b-9510-17a243504a64",
         "title": "Summer 2026 Mobile \u2013 Intern - IOS/Android",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -192994,7 +192994,7 @@
         "company_name": "MasterControl",
         "id": "9bbb688c-f402-4b19-8321-27164fca29e2",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -200746,7 +200746,7 @@
         "company_name": "Waymo",
         "id": "9a15b79e-5b79-4cd4-8655-f5f6b19da375",
         "title": "2026 Summer Intern - MS - Software Engineer - Quantitative",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -209770,7 +209770,7 @@
         "company_name": "Keysight Technologies",
         "id": "e45e7b3b-0ca0-4a27-b103-06c73d7d4207",
         "title": "FPGA Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -238214,7 +238214,7 @@
         "company_name": "AeroVironment",
         "id": "16e1df0e-06f0-4db4-ac39-ff1ddfb5bac4",
         "title": "Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
