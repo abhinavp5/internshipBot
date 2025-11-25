@@ -76034,7 +76034,7 @@
         "company_name": "Point72",
         "id": "40bddd76-411a-4956-9f0b-4072b32e354a",
         "title": "2026 Summer Internship - MS/PhD Data Scientist - Proprietary Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -99817,7 +99817,7 @@
         "company_name": "Emerson Electric",
         "id": "10f5b5bf-1b0f-4982-b9bb-02d096122b74",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -123229,7 +123229,7 @@
         "company_name": "Waymo",
         "id": "53730f5b-5e7e-4823-884b-2caef04dc4ac",
         "title": "2026 Summer Intern - MS/PhD - Systems Engineering - Sensing and Perception Technologies",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
