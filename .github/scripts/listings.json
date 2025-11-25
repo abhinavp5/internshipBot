@@ -134,25 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Ohio State University - Columbus",
-        "id": "07d6789d-0db1-4689-b55b-5ea15839b97a",
-        "title": "Student Intern - Cancer Program Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743316485,
-        "date_posted": 1743316485,
-        "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Medical-Center-Campus/Student-Intern---Cancer-Program-Analytics_R125616-2",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Ohio-State-University-Columbus",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "The Home Depot",
         "id": "0e7c3ed5-0cc8-4a11-bbb6-19ccd172f195",
         "title": "Orangeworks Software Engineering Internship",
@@ -321,25 +302,6 @@
             "Fremont, CA"
         ],
         "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Formic",
-        "id": "a7904976-14cd-4d4d-82b0-4964273a512b",
-        "title": "Robotic Internship",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743444021,
-        "date_posted": 1743315839,
-        "url": "https://job-boards.greenhouse.io/formic/jobs/4554136006",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Formic",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -105822,7 +105784,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "c948674f-b374-488f-af89-265ae92d4fca",
         "title": "Machine Learning Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -151928,7 +151890,7 @@
         "company_name": "LinkedIn",
         "id": "a135ae48-9a77-48a2-8c12-b18d5c3f5d79",
         "title": "Software Engineer Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -154012,7 +153974,7 @@
         "company_name": "LinkedIn",
         "id": "609712a1-29e0-4027-a7e4-ae48f971eb76",
         "title": "Software Engineer Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
