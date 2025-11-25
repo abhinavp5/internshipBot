@@ -134,46 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Nutanix",
-        "id": "323c7ed4-6837-401d-b410-885d068aa599",
-        "title": "Technical Program Management Intern",
-        "active": false,
-        "terms": [
-            "Spring 2024",
-            "Summer 2024"
-        ],
-        "date_updated": 1743322368,
-        "date_posted": 1743322368,
-        "url": "https://jobs.jobvite.com/nutanix/job/oalIvfws?nl=1&nl=1&fr=false",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nutanix",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Moog Inc",
-        "id": "9f18a65d-3b3a-4cf0-a44e-8b941c25a915",
-        "title": "Intern \u2013 Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743322242,
-        "date_posted": 1743322242,
-        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Engineering_R-25-11458",
-        "locations": [
-            "Cheektowaga, NY",
-            "Buffalo, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Moog-Inc",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Western Digital",
         "id": "a7dcfff1-3e91-40b8-9827-88d1da5e5384",
         "title": "Summer 2025 Intern - ML & Wafer Defect Inspection",
@@ -105855,7 +105815,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ad8b1567-30c9-4093-b10b-395eb58e0e33",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -105879,7 +105839,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9c843ea8-9b7c-4b8c-a34c-b8c89aa81148",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -171935,7 +171895,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "bc4eaca1-d7bb-46f8-a195-59f2f4955803",
         "title": "Weather Data Analyst Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -248069,7 +248029,7 @@
         "company_name": "Amgen",
         "id": "3a4f7860-1ad4-41ac-8180-4ea2247547c6",
         "title": "R&D Medical Data Analytics Program \u2013 Grad Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -255708,6 +255668,94 @@
             "Detroit, MI"
         ],
         "company_url": "https://simplify.jobs/c/Blue-Cross-Blue-Shield-Of-Michigan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NRG Energy",
+        "id": "d8f7a0d5-deba-4f46-930d-8a1d476ff0bf",
+        "title": "Cloud AI Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764058990,
+        "date_posted": 1764058990,
+        "url": "https://careers.nrgenergy.com/SMARTHOMES/job/Cloud-AI-Engineer-Intern-UT-84043/1345285300/?ats=successfactors",
+        "locations": [
+            "Utah"
+        ],
+        "company_url": "https://simplify.jobs/c/NRG-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NRG Energy",
+        "id": "432f22ae-b086-44e2-b5ba-065303b9873e",
+        "title": "Software Engineer Intern - Mobile Apps",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764058976,
+        "date_posted": 1764058976,
+        "url": "https://careers.nrgenergy.com/SMARTHOMES/job/Boston-Software-Engineer-Intern,-Mobile-Apps-MA-02109/1345133100/?ats=successfactors",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/NRG-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "VF",
+        "id": "319836cf-1706-4682-9511-0c46c1f51db8",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764058975,
+        "date_posted": 1764058975,
+        "url": "https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/USCA--USA--North-Carolina--Greensboro---VFC/Summer-2026-Data-Science-Intern_R-20251120-0024",
+        "locations": [
+            "Greensboro, NC",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/VF",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "VF",
+        "id": "2d483afb-2037-4074-b0c7-e25f7397b532",
+        "title": "E-Commerce Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764058979,
+        "date_posted": 1764058979,
+        "url": "https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/USCA--USA--Colorado--Denver-HQ---VFC/Summer-2026-E-Commerce-Intern_R-20251120-0028-4",
+        "locations": [
+            "Newport Beach, CA",
+            "Portsmouth, NH",
+            "Greensboro, NC",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/VF",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
