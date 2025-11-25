@@ -57823,7 +57823,7 @@
         "company_name": "AbbVie",
         "id": "14aa40b6-8174-4dcd-b20d-9f417ef55e0f",
         "title": "Computational Data Scientist Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -172482,7 +172482,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Motive",
-        "id": "32d0a60b-c843-4137-8c3e-bdd5010cf240",
+        "id": "957cb7f4-7a23-4886-8e5e-6f8219c72ac8",
         "title": "Embedded Engineer Intern",
         "active": true,
         "terms": [
@@ -193979,9 +193979,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762180717,
+        "date_updated": 1764067891,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -223785,7 +223785,7 @@
         "company_name": "LinkedIn",
         "id": "4145fa34-a3e7-4c03-94ca-76d6d02e4386",
         "title": "AI/ML Engineer Intern - Master's - Summer 2026 - Mountain View - CA",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -244869,7 +244869,7 @@
         "company_name": "AbbVie",
         "id": "e29df7b0-cf01-4c85-8a69-c32dfce77980",
         "title": "Computational Data Scientist",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -247899,7 +247899,7 @@
         "company_name": "LinkedIn",
         "id": "fa7e7c93-38f2-4017-b3c5-f46831cd229b",
         "title": "AI/ML Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -248779,9 +248779,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1763569630,
+        "date_updated": 1764067891,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -250813,7 +250813,7 @@
         "company_name": "RTX",
         "id": "9d0e1a61-7daa-4cb9-a8a3-bee20d6c068a",
         "title": "Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -254560,7 +254560,7 @@
         "company_name": "Red Bull",
         "id": "d42e646d-2105-480c-b742-dee2bdb28ab9",
         "title": "Insights Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -254581,7 +254581,7 @@
         "company_name": "NBCUniversal",
         "id": "619672e2-80ad-477c-b8a2-61af9041315c",
         "title": "Universal Filmed Entertainment Group Film Technology AV/AR Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -254898,7 +254898,7 @@
         "company_name": "NBCUniversal",
         "id": "d1c47923-8368-4fcf-b862-edcca3a7f4d8",
         "title": "Universal Filmed Entertainment Group Film Technology AV/AR Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
