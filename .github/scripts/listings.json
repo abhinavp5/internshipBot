@@ -71100,7 +71100,7 @@
         "company_name": "Medline",
         "id": "15d61b19-144b-4ce9-af57-b463b6daa677",
         "title": "IT Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -106903,7 +106903,7 @@
         "company_name": "Mackenzie Investments",
         "id": "0b1d03f5-54c2-466f-a64c-62914ec0123e",
         "title": "Investment Management \u2013 FI-Platform Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -141558,7 +141558,7 @@
         "company_name": "Rambus",
         "id": "8e5c43e7-05a6-4746-935b-495159a96309",
         "title": "Silicon IP Field Application Engineer Intern - Field Application Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -154292,7 +154292,7 @@
         "company_name": "Electronic Arts",
         "id": "bed1d764-b91a-405a-af14-93d21892258e",
         "title": "AI Engineer Intern - AI Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -222656,7 +222656,7 @@
         "company_name": "Bartlett & West",
         "id": "878534f2-b978-4d1e-ade6-a97e9dc0acee",
         "title": "GIS Intern - Water Resources Focus",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -233398,7 +233398,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "b2e5c9a4-0b91-4f7b-a58b-29b7500589fd",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -246171,7 +246171,7 @@
         "company_name": "FM Global",
         "id": "75a609b8-21b5-4234-80a7-a1a9901ec71a",
         "title": "Data Visualization & Reporting",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -255819,6 +255819,27 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Autodesk",
+        "id": "47844f61-18ee-4be2-a378-45789bdee8d5",
+        "title": "PhD Intern - AI Researcher for CAD - B-Rep",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764079147,
+        "date_posted": 1764079147,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Intern---AI-Researcher-for-CAD--B-Rep--Generation_25WD92254-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
