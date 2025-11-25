@@ -56820,7 +56820,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "057819d8-d85c-46f7-b31e-6d9e538c832c",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -58015,7 +58015,7 @@
         "company_name": "AbbVie",
         "id": "14aa40b6-8174-4dcd-b20d-9f417ef55e0f",
         "title": "Computational Data Scientist Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -90213,7 +90213,7 @@
         "company_name": "Marvell",
         "id": "86037ae8-2dc6-4086-8507-7f05cdd324f2",
         "title": "Package Engineering Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -105984,7 +105984,7 @@
         "company_name": "Cotiviti",
         "id": "9892e214-ccb9-43f4-8016-f9cf87c0de55",
         "title": "Intern \u2013 Generative AI Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -106007,7 +106007,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ad8b1567-30c9-4093-b10b-395eb58e0e33",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -106031,7 +106031,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9c843ea8-9b7c-4b8c-a34c-b8c89aa81148",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -107095,7 +107095,7 @@
         "company_name": "Mackenzie Investments",
         "id": "0b1d03f5-54c2-466f-a64c-62914ec0123e",
         "title": "Investment Management \u2013 FI-Platform Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -169546,7 +169546,7 @@
         "company_name": "Iridium Communications",
         "id": "e63a3e37-0a93-489c-91ea-1d948ed419a2",
         "title": "Software Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -197755,7 +197755,7 @@
         "company_name": "W.R. Berkley",
         "id": "56a70448-70c6-45fe-b9bb-d9c1678e7905",
         "title": "Data Analyst Intern - Power BI - SQL",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -221970,7 +221970,7 @@
         "company_name": "Shure",
         "id": "f0d5af3f-ab4d-4767-9b11-843f39e6945f",
         "title": "Digital Signal Processing Intern - Digital Signal Processing - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -222330,7 +222330,7 @@
         "company_name": "Sentinel Technologies",
         "id": "ed47a0ef-d38b-4641-b6c9-512c3d497b78",
         "title": "AI Intern - Enterprise Architecture - Innovation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -235409,7 +235409,7 @@
         "company_name": "Iridium Communications",
         "id": "4453e83a-2847-485d-b202-f4c787d99591",
         "title": "Iridium Product Management \u2013 Internship - Sales - Marketing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -240161,7 +240161,7 @@
         "company_name": "Kimley-Horn",
         "id": "45d7981d-6648-41a2-bcfa-8ee4e8ddced1",
         "title": "GIS Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -245061,7 +245061,7 @@
         "company_name": "AbbVie",
         "id": "e29df7b0-cf01-4c85-8a69-c32dfce77980",
         "title": "Computational Data Scientist",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -251807,7 +251807,7 @@
         "company_name": "Charter Manufacturing",
         "id": "41f0123b-9050-4812-88e7-2392e67026b0",
         "title": "Business Intelligence & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -252627,7 +252627,7 @@
         "company_name": "Altera Corporation",
         "id": "4bed4681-dcb0-4a45-9755-379bcd73a25d",
         "title": "FPGA Design Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -252711,7 +252711,7 @@
         "company_name": "Altera Corporation",
         "id": "cb41a13b-c891-4270-8bdb-bec99492da77",
         "title": "FPGA Design Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -252964,7 +252964,7 @@
         "company_name": "Nokia",
         "id": "bf414982-1459-4d88-a58b-57e441fb4fc0",
         "title": "Software Engineer Intern - Scu",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -255558,6 +255558,113 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "ab867ca3-5592-4d38-9299-c1eba466f26c",
+        "title": "Intern \u2013 ASIC Verification Intern - MS Only",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764038561,
+        "date_posted": 1764038561,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000095228494",
+        "locations": [
+            "Roseville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "NVIDIA",
+        "id": "7499c074-9165-4dee-9025-438e2c82b95c",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764038227,
+        "date_posted": 1764038227,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Autonomous-Vehicles-ADAS---Summer-2026_JR2007939",
+        "locations": [
+            "California",
+            "Santa Clara, CA",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Parsons",
+        "id": "8b39928a-cf99-4ff8-a4a9-c6f129c00fb0",
+        "title": "Computer Engineer Internship - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764041403,
+        "date_posted": 1764041403,
+        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---AL-Huntsville/Computer-Engineer-Internship--Summer-2026-_R174960-2",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Parsons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Genuine Parts Company",
+        "id": "d5a3782d-45cf-4923-b65e-ba8a6bb7ceeb",
+        "title": "Technology Intern - Digital Analytics-Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764041007,
+        "date_posted": 1764041007,
+        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Technology-Intern---Digital-Analytics--Summer-2026_R25_0000042264",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Honeywell",
+        "id": "a02d588d-fdf9-412b-b905-8a788233f50c",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764040802,
+        "date_posted": 1764040802,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/128836",
+        "locations": [
+            "Gloucester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
