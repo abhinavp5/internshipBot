@@ -134,25 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Hydrow",
-        "id": "00b7c46d-8c84-4606-b53e-1d308c6b41f8",
-        "title": "Co-op: Software Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743320967,
-        "date_posted": 1743320967,
-        "url": "https://jobs.lever.co/Hydrow/149e503b-5803-4131-9d14-dedfa404f6f0/apply",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Hydrow",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Nutanix",
         "id": "323c7ed4-6837-401d-b410-885d068aa599",
         "title": "Technical Program Management Intern",
@@ -188,25 +169,6 @@
             "Buffalo, NY"
         ],
         "company_url": "https://simplify.jobs/c/Moog-Inc",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "SS&C",
-        "id": "063753a4-7aa2-4ab7-96f5-023b19833a71",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743322051,
-        "date_posted": 1743322051,
-        "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Waltham-MA---10-CityPoint/Software-Engineer--Intern_R32571",
-        "locations": [
-            "Waltham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/SSC",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -171649,7 +171611,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "5aaea3e0-eb7b-4548-8be4-217d0156b004",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -171927,7 +171889,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "4e79f79a-bf73-45f0-a035-c8ed56f6cbcd",
         "title": "Software Engineering Intern - Full-Stack - Java",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -184696,7 +184658,7 @@
         "company_name": "Nike",
         "id": "0d679d44-1fe4-4543-89f0-fe738153cc2e",
         "title": "Nike \u2013 Inc. Innovation AI & Machine Learning Graduate Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -221856,7 +221818,7 @@
         "company_name": "Shure",
         "id": "f0d5af3f-ab4d-4767-9b11-843f39e6945f",
         "title": "Digital Signal Processing Intern - Digital Signal Processing - Machine Learning",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -223863,7 +223825,7 @@
         "company_name": "LinkedIn",
         "id": "4145fa34-a3e7-4c03-94ca-76d6d02e4386",
         "title": "AI/ML Engineer Intern - Master's - Summer 2026 - Mountain View - CA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -247977,7 +247939,7 @@
         "company_name": "LinkedIn",
         "id": "fa7e7c93-38f2-4017-b3c5-f46831cd229b",
         "title": "AI/ML Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -255704,6 +255666,48 @@
             "Denver, CO"
         ],
         "company_url": "https://simplify.jobs/c/VF",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "fb2ea0ba-0744-4453-8df7-9aa480ce7521",
+        "title": "Intern-Yield Engineering",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1764056509,
+        "date_posted": 1764056509,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Colorado-Springs---East-Cheyenne-Mountain-Blvd/Intern--Yield-Engineering_R2202-25",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Blue Cross Blue Shield of Michigan",
+        "id": "b0c4cef1-2705-4675-be49-bfbb43059822",
+        "title": "Intern Summer 2026 - Operational Performance",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764056320,
+        "date_posted": 1764056320,
+        "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/13572",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Cross-Blue-Shield-Of-Michigan",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
