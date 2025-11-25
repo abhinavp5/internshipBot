@@ -113483,7 +113483,7 @@
         "company_name": "TikTok",
         "id": "70ecddf1-c1e3-4dbf-ae3f-822bf987727a",
         "title": "Machine Learning Engineer Intern - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -116716,7 +116716,7 @@
         "company_name": "Athene",
         "id": "0c9fd574-eb90-4982-819f-ea7ef80487dd",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -150415,7 +150415,7 @@
         "company_name": "Zebra Technologies",
         "id": "ae2eb464-ec40-40fa-8c48-6d684f02e5b5",
         "title": "Internship - Software Engineering - Corporate and Business Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
