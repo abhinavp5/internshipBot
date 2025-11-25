@@ -97466,7 +97466,7 @@
         "company_name": "LabCorp",
         "id": "de23b876-b35d-4361-9b93-a3614b35a7c5",
         "title": "Intern \u2013 Enterprise Systems Monitoring",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -141558,7 +141558,7 @@
         "company_name": "Rambus",
         "id": "8e5c43e7-05a6-4746-935b-495159a96309",
         "title": "Silicon IP Field Application Engineer Intern - Field Application Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -172012,7 +172012,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "1b93bbd4-3c44-4ea5-9be4-12fc01cfbef5",
         "title": "Release Engineering Intern - Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
