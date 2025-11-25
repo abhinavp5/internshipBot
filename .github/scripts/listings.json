@@ -85624,7 +85624,7 @@
         "company_name": "Lennar Corporation",
         "id": "41c5338b-79c4-4c9e-a415-2fd9ed09c86f",
         "title": "Future Builders Internship Program - Technical Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -92164,7 +92164,7 @@
         "company_name": "HP IQ",
         "id": "68331d84-27ea-4b83-9a3e-20bbf6f2edec",
         "title": "Software Engineering Intern - Device Experiences",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -122281,7 +122281,7 @@
         "company_name": "SharkNinja",
         "id": "0fc741fd-3772-44dd-9161-727448af72ea",
         "title": "Strategic Sales & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -137459,7 +137459,7 @@
         "company_name": "State Street",
         "id": "58da628d-e4e5-4839-9c2b-3aa06c56663f",
         "title": "Data Engineer \u2013 Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -143476,7 +143476,7 @@
         "company_name": "KBR",
         "id": "1c3f35a4-0ed4-4373-be7a-ef80740b7ed3",
         "title": "Software Engineer Intern - National Security Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -154107,7 +154107,7 @@
         "company_name": "Lennar Corporation",
         "id": "95c18c4d-454f-46b5-98ee-e0086352f969",
         "title": "Future Builders Internship Program - Product Owner",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -170066,7 +170066,7 @@
         "company_name": "Athena Health",
         "id": "9f352f46-0ad1-4238-893d-c3ca8a01a337",
         "title": "Software Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -199632,7 +199632,7 @@
         "company_name": "Tower Research Capital",
         "id": "ce57395b-279e-49a4-bf6a-f951366cfdaf",
         "title": "Software Engineer Intern - Venture Capital - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -218328,7 +218328,7 @@
         "company_name": "Ciena",
         "id": "001987e6-be19-4f2f-9612-d7f7906fc04a",
         "title": "Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -230582,7 +230582,7 @@
         "company_name": "Lightmatter",
         "id": "a491e0cb-aa12-4524-8d2a-7f11a0e1c2f9",
         "title": "Machine Learning Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -242913,7 +242913,7 @@
         "company_name": "Cintas",
         "id": "87695f11-e8a7-446c-9e88-11a4b0de7c6f",
         "title": "IT Intern \u2013 Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
