@@ -2939,25 +2939,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Entegris",
-        "id": "eee94ed7-fb99-4553-a460-1652d707da39",
-        "title": "IT Application Developer Co-Op",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1743351042,
-        "date_posted": 1743351042,
-        "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/IT-Application-Developer-Co-Op_REQ-8367",
-        "locations": [
-            "Chaska, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Entegris",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "CVS Health",
         "id": "a9b3aec7-1bc1-4fb2-9278-6bd218b3e6ba",
         "title": "Data Science Co-op",
@@ -255886,5 +255867,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1764088142,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.baesystems.com/global/en/job/BAE1US118688BREXTERNAL/Software-Intern-Summer-2026",
+        "company_name": "BAE Systems",
+        "title": "Software Intern, Summer 2026",
+        "locations": [
+            "Totowa, NJ"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "e0a1771c-1c61-4ac4-8b5f-a0228b75180b",
+        "date_posted": 1764088142,
+        "company_url": "",
+        "is_visible": true
     }
 ]
