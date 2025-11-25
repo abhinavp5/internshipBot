@@ -56782,7 +56782,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "057819d8-d85c-46f7-b31e-6d9e538c832c",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -236795,7 +236795,7 @@
         "company_name": "Highmark Health",
         "id": "ed7c4a51-5a4a-4752-bbae-25d0653e99d8",
         "title": "Graduate Data Science Analytics Application Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
