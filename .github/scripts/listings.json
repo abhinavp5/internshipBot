@@ -101419,7 +101419,7 @@
         "company_name": "Legrand NA",
         "id": "f12c4439-da73-4544-9abe-313c848354d9",
         "title": "Firmware Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -102408,7 +102408,7 @@
         "company_name": "KLA",
         "id": "621d8a9b-9609-45e9-b8be-2a06366dcd4d",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -106884,7 +106884,7 @@
         "company_name": "Mackenzie Investments",
         "id": "0b1d03f5-54c2-466f-a64c-62914ec0123e",
         "title": "Investment Management \u2013 FI-Platform Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -141516,7 +141516,7 @@
         "company_name": "Rambus",
         "id": "30f32a5b-76dd-4ace-8472-5352e3bd5a92",
         "title": "Product Engineering Intern - Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -150750,7 +150750,7 @@
         "company_name": "Grow Financial Federal Credit Union",
         "id": "f773e1e7-217c-442f-81f3-bc8a1692940f",
         "title": "Collections Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -159339,7 +159339,7 @@
         "company_name": "Arch Capital Group",
         "id": "f176244b-7ea1-4fc6-98ad-5325ae2dfdde",
         "title": "IT Analytics Engineer Intern - IT - Enterprise Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -171505,7 +171505,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "32530b9f-31b7-4efc-887c-48ec4bd8da7a",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -171552,7 +171552,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "5aaea3e0-eb7b-4548-8be4-217d0156b004",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -171830,7 +171830,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "4e79f79a-bf73-45f0-a035-c8ed56f6cbcd",
         "title": "Software Engineering Intern - Full-Stack - Java",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -171876,7 +171876,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "bc4eaca1-d7bb-46f8-a195-59f2f4955803",
         "title": "Weather Data Analyst Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -171900,7 +171900,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "46f30da2-6e82-4eed-a01d-e3f793a37634",
         "title": "Quantitative Engineer Intern - Clearing Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -171923,7 +171923,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "f9220cd0-2992-46d7-bdae-b62e7d300658",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -171947,7 +171947,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "cc0f0c25-47c1-4529-921c-312e616545cf",
         "title": "Front-End Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -221759,7 +221759,7 @@
         "company_name": "Shure",
         "id": "f0d5af3f-ab4d-4767-9b11-843f39e6945f",
         "title": "Digital Signal Processing Intern - Digital Signal Processing - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -222637,7 +222637,7 @@
         "company_name": "Bartlett & West",
         "id": "878534f2-b978-4d1e-ade6-a97e9dc0acee",
         "title": "GIS Intern - Water Resources Focus",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -222911,7 +222911,7 @@
         "company_name": "American Enterprise Institute",
         "id": "899e3af7-b2d9-4974-acf0-597d80f7d0a5",
         "title": "Spring Intern: Data Analysis and Education Policy",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -223702,7 +223702,7 @@
         "company_name": "Rambus",
         "id": "9a0aca24-0f4b-41d4-8682-8a11169ffa50",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -233641,7 +233641,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "7615cfa2-56ef-49e0-8817-60db45705e9f",
         "title": "Engineering Intern - Software and Systems Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -234510,7 +234510,7 @@
         "company_name": "Westwood",
         "id": "8fe79d1f-e666-4cff-89a4-4ef3a75d251d",
         "title": "Survey Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -244700,7 +244700,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "1f8d9cb9-1b54-4e19-86da-bdbc4709ccd8",
         "title": "Integration and Test Intern Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -246152,7 +246152,7 @@
         "company_name": "FM Global",
         "id": "75a609b8-21b5-4234-80a7-a1a9901ec71a",
         "title": "Data Visualization & Reporting",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -251638,7 +251638,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "95a909aa-57a5-4583-85a6-9db2f6c26a02",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -251659,7 +251659,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "ef670198-9e26-4d13-a658-0c61749444dc",
         "title": "Software Engineer Intern - Tactical Radios",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -254196,7 +254196,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "417871cd-9f57-4003-ba18-d9cab6796608",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -255890,5 +255890,303 @@
         "date_posted": 1764088142,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Central Hudson",
+        "id": "d834d2a4-d1da-4621-a786-1f10385e1182",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764113450,
+        "date_posted": 1764113450,
+        "url": "https://cenhud.wd5.myworkdayjobs.com/cenhud/job/Poughkeepsie/Data-Analytics-Intern_R1858",
+        "locations": [
+            "Poughkeepsie, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Central-Hudson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vulcan Materials",
+        "id": "a8f733cf-5339-4f2b-b428-c8dbcb8f7bcd",
+        "title": "IT Intern \u2013 Data Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764113064,
+        "date_posted": 1764113064,
+        "url": "https://vulcanmat.taleo.net/careersection/2/jobdetail.ftl?job=25000330",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Vulcan-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Federal Home Loan Bank of Indianapolis",
+        "id": "a3fe70e0-e577-41b4-a001-fb673c6bef63",
+        "title": "Analytics Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1764113277,
+        "date_posted": 1764113277,
+        "url": "https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Analytics-Engineer-Intern_R552",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Federal-Home-Loan-Bank-Of-Indianapolis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Bloom Energy",
+        "id": "17619f1a-f940-401d-914a-d7e7f0ad82f5",
+        "title": "Equipment Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1764112982,
+        "date_posted": 1764112982,
+        "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/Fremont-California/Equipment-Engineering-Internship_JR-20967",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bloom-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Apex Fintech Solutions",
+        "id": "eff022c0-e089-4bc9-ba91-6a3f84a7019b",
+        "title": "Strategy & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764112954,
+        "date_posted": 1764112954,
+        "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Strategy---Analytics-Intern_JR103903",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apex-Fintech-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Bloom Energy",
+        "id": "c7cacc14-2601-4345-97ac-5afa0a561c6b",
+        "title": "Test Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764112981,
+        "date_posted": 1764112981,
+        "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/Fremont-California/Test-Engineering-Internship_JR-20968",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bloom-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson Law Group",
+        "id": "c25496e1-2e81-4754-9f01-5a0692210601",
+        "title": "Data Analyst",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1764112933,
+        "date_posted": 1764112933,
+        "url": "https://job-boards.greenhouse.io/johnsonlawgroup/jobs/4063471009",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Law-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "MKS Instruments",
+        "id": "4a7cf21c-6705-42b9-8be7-855db309981c",
+        "title": "Graduate Reliability Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764112845,
+        "date_posted": 1764112845,
+        "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Irvine-CA/XMLNAME-2026-Summer-Reliability-Graduate-Co-op_R14937",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/MKS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Field AI",
+        "id": "4581ce64-a39a-452e-b6d1-804813ab6517",
+        "title": "Field Application Engineer-Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1764113020,
+        "date_posted": 1764113020,
+        "url": "https://jobs.lever.co/field-ai/3d6e02a8-277a-46dd-b8f8-a37f4486cf41/apply",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Field-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Constellation Brands",
+        "id": "bdca8dd7-33df-48b3-8cee-f75ea67c26e1",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1764112620,
+        "date_posted": 1764112620,
+        "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Data-Science-Intern_R-38907",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Constellation-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Constellation Brands",
+        "id": "72315128-f95a-4d98-8458-ea360e5fa49c",
+        "title": "Integrated Business Planning Product Intern - Ibp",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1764112621,
+        "date_posted": 1764112621,
+        "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Chicago-Office/Integrated-Business-Planning--IBP--Product-Intern_R-38903",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Constellation-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Allen Institute for AI",
+        "id": "fa6673b5-f281-491d-8e84-44ca94f04d5d",
+        "title": "Research Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1764112118,
+        "date_posted": 1764112118,
+        "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/7417134",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/allenai",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Allen Institute for AI",
+        "id": "f6a12bdf-93ad-424d-b2bc-61a6e7dab118",
+        "title": "Research Intern - Climate Modeling",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764112111,
+        "date_posted": 1764112111,
+        "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/7407289",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/allenai",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Allen Institute for AI",
+        "id": "88654d64-d8cd-4a56-b58c-f0a24cce5c62",
+        "title": "Research Intern - Prior",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764112123,
+        "date_posted": 1764112123,
+        "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/7421011",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/allenai",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
