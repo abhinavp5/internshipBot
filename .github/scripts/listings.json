@@ -171902,7 +171902,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "2135c037-9723-4474-b040-a13457a2bbcb",
         "title": "C++ Developer Intern - Curve Engine",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -251075,7 +251075,7 @@
         "company_name": "RTX",
         "id": "ea1cff00-6b1e-4483-8a38-7d15605a9eab",
         "title": "Intern - Full Stack Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
