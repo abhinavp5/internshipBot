@@ -102608,7 +102608,7 @@
         "company_name": "Wind River",
         "id": "3f0d18bb-5248-4d25-8c40-c411391c126b",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -203232,7 +203232,7 @@
         "company_name": "Formlabs",
         "id": "2ada705c-34dc-4d73-9df5-72320c927648",
         "title": "Hardware Test Engineering Intern - Winter/Spring 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
