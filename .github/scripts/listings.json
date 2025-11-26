@@ -253682,7 +253682,7 @@
         "company_name": "RTX",
         "id": "a6408486-c41c-4447-b186-ffaeeb48fbf1",
         "title": "2026 Intern \u2013 Software Engineer Intern - RI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -253829,7 +253829,7 @@
         "company_name": "Moog ",
         "id": "610a3a18-62ef-455c-b008-df646059a30a",
         "title": "Intern Hardware Design Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -256926,6 +256926,51 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intuitive Surgical",
+        "id": "ede54e84-6c38-4b23-82f9-e4a5835ac2c6",
+        "title": "Supply Chain Risk & Analytics",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1764141248,
+        "date_posted": 1764141248,
+        "url": "https://jobs.smartrecruiters.com/Intuitive/744000095583090",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intuitive Surgical",
+        "id": "20a37d3d-06fb-4c9a-bc5f-5f752733d95b",
+        "title": "AI Research Intern",
+        "active": true,
+        "terms": [
+            "Fall 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1764141251,
+        "date_posted": 1764141251,
+        "url": "https://jobs.smartrecruiters.com/Intuitive/744000095572186",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
