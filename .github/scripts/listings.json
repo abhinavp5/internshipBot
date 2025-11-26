@@ -89964,7 +89964,7 @@
         "company_name": "Marvell",
         "id": "86037ae8-2dc6-4086-8507-7f05cdd324f2",
         "title": "Package Engineering Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -101381,7 +101381,7 @@
         "company_name": "Legrand NA",
         "id": "f12c4439-da73-4544-9abe-313c848354d9",
         "title": "Firmware Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -105573,7 +105573,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "c948674f-b374-488f-af89-265ae92d4fca",
         "title": "Machine Learning Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -206792,7 +206792,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "a1939da9-a1b2-40a7-9082-d91700ae78eb",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -221721,7 +221721,7 @@
         "company_name": "Shure",
         "id": "f0d5af3f-ab4d-4767-9b11-843f39e6945f",
         "title": "Digital Signal Processing Intern - Digital Signal Processing - Machine Learning",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -251600,7 +251600,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "95a909aa-57a5-4583-85a6-9db2f6c26a02",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -251621,7 +251621,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "ef670198-9e26-4d13-a658-0c61749444dc",
         "title": "Software Engineer Intern - Tactical Radios",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -257057,6 +257057,161 @@
             "California"
         ],
         "company_url": "https://simplify.jobs/c/UntilLabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "624f3974-081c-4af4-9529-285d6268698e",
+        "title": "Research Intern - AI-Native Databases - 2026 Summer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764156699,
+        "date_posted": 1764156699,
+        "url": "https://jobs.bytedance.com/en/position/7548656517001054471/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "246dbc29-c08f-4556-8026-373a243f6f8e",
+        "title": "3D Avatar Research and Development Intern - PICO Perception - Doctor of Philosophy",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1764156692,
+        "date_posted": 1764156692,
+        "url": "https://jobs.bytedance.com/en/position/7535961662357948690/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "988e1921-4591-416e-8af1-ecc45cbfcff1",
+        "title": "Machine Learning Engineer Intern - E-commerce-Recommendation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764156660,
+        "date_posted": 1764156660,
+        "url": "https://jobs.bytedance.com/en/position/7535156407059925266/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "60f7755d-aecf-4a56-b740-8c0c5d37cab7",
+        "title": "Machine Learning Engineer Intern - E-commerce Conversational AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764156660,
+        "date_posted": 1764156660,
+        "url": "https://jobs.bytedance.com/en/position/7535157501571500306/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AstraZeneca",
+        "id": "5132b3c0-b35b-468a-a498-7adb1e3e5fa5",
+        "title": "Medical Affairs Analytics Intern - Oncology",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764156374,
+        "date_posted": 1764156374,
+        "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Medical-Affairs-Analytics-Intern--Oncology_R-240274",
+        "locations": [
+            "Gaithersburg, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/AstraZeneca",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Truist Bank",
+        "id": "21417ed8-afe3-4008-9e33-99c7f368da25",
+        "title": "AFCO Direct \u2013 Product Team Intern - Digital Strategy",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764154325,
+        "date_posted": 1764154325,
+        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Lake-Forest-IL---Telecommuter/XMLNAME-2026-AFCO-Direct---Digital-Strategy---Summer-Product-Team-Internship_R0108533",
+        "locations": [
+            "Washington, DC",
+            "Charlotte, NC",
+            "Fort Lauderdale, FL",
+            "Highland Park, IL",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Truist-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "DigiKey",
+        "id": "c8aae6cf-ac92-4e55-a388-2e59704f3f14",
+        "title": "Application Engineering Intern Embedded Systems",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1764154253,
+        "date_posted": 1764154253,
+        "url": "https://digikey.wd5.myworkdayjobs.com/digi-key/job/Thief-River-Falls-MN/Application-Engineering--Intern-Embedded-Systems_R5121",
+        "locations": [
+            "Erskine, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/DigiKey",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
