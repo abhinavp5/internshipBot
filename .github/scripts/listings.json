@@ -134,25 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Alo Yoga",
-        "id": "dcb61a71-b37e-480a-8550-36f40ce9a3c5",
-        "title": "Retail Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743454330,
-        "date_posted": 1743454330,
-        "url": "https://job-boards.greenhouse.io/aloyoga/jobs/5490748004",
-        "locations": [
-            "Culver City, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Alo-Yoga",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "CACI",
         "id": "66d6a456-83f2-4ed5-a764-df50cf951008",
         "title": "Business Intelligence \u2013 Developer Intern - BI",
@@ -1905,23 +1886,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Qualtrics",
-        "id": "ab0403a4-0ff4-4869-95ec-9e0cff8e00d2",
-        "title": "Field Security - Governance - Risk and Compliance - GRC",
-        "active": false,
-        "terms": [],
-        "date_updated": 1743454813,
-        "date_posted": 1743454813,
-        "url": "https://www.qualtrics.com/careers/us/en/job/6755816?gh_jid=6755816",
-        "locations": [
-            "Provo, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualtrics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Comcast",
         "id": "c5fe4604-3fe1-4c74-aeb9-f18bfc6c9762",
         "title": "Comcast Product Analyst Intern",
@@ -3426,26 +3390,6 @@
             "Chantilly, VA"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Johnson Matthey",
-        "id": "590b3957-fe50-492e-bd51-0517134d918e",
-        "title": "Internship Program - Operations - Data Science",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1744226555,
-        "date_posted": 1743453147,
-        "url": "https://matthey.wd3.myworkdayjobs.com/Ext_Career_Site/job/Devon-PA---US/US-Internship-Program--Operations_R-012702",
-        "locations": [
-            "Berwyn, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Matthey",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -5315,23 +5259,6 @@
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/AMERICAN-SYSTEMS",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Franklin Templeton",
-        "id": "3f09ece9-07ae-4802-9a27-63f8b1909900",
-        "title": "OSAM Research Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1744451289,
-        "date_posted": 1743454539,
-        "url": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Stamford-Connecticut-United-States-of-America/OSAM-Research---Undergrad-Intern_862271",
-        "locations": [
-            "Stamford, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Franklin-Templeton",
         "is_visible": true,
         "sponsorship": "Other"
     },
