@@ -1998,25 +1998,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Applied Materials",
-        "id": "6afa8a6e-3805-48bb-b309-483185cf4aed",
-        "title": "2025 Summer Intern - Data Scientist",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743407315,
-        "date_posted": 1743407315,
-        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2025-Summer-Intern---Data-Scientist_R2511680",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Diligent Corporation",
         "id": "a69a4953-f6a4-41aa-b096-59cef8fb1b60",
         "title": "Data Journalist/Data Science Intern",
@@ -57785,7 +57766,7 @@
         "company_name": "AbbVie",
         "id": "14aa40b6-8174-4dcd-b20d-9f417ef55e0f",
         "title": "Computational Data Scientist Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -244831,7 +244812,7 @@
         "company_name": "AbbVie",
         "id": "e29df7b0-cf01-4c85-8a69-c32dfce77980",
         "title": "Computational Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
