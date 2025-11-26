@@ -134,25 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Becton Dickinson",
-        "id": "a8786399-1946-443f-b67b-4dc12aa6f074",
-        "title": "Software Technology Solutions Intern - Software Engineering - Healthsight",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743445336,
-        "date_posted": 1743445336,
-        "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---San-Diego-Bldg-AB/Software-Technology-Solutions-Intern--Software-Engineering--HealthSight---Remote-_R-513725-1",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Alo Yoga",
         "id": "dcb61a71-b37e-480a-8550-36f40ce9a3c5",
         "title": "Retail Engineering Intern",
@@ -69805,7 +69786,7 @@
         "company_name": "Oshkosh",
         "id": "518c4a57-578e-47de-bef4-8b41c8418bf5",
         "title": "Engineer Intern - Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -145267,7 +145248,7 @@
         "company_name": "Zipline",
         "id": "bd67c985-29c2-421b-80d5-c795a36cc548",
         "title": "Embedded Engineering Intern - Embedded Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -236678,7 +236659,7 @@
         "company_name": "Formlabs",
         "id": "3692915d-2ad0-447d-a344-37fae305fee5",
         "title": "Manufacturing Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -254974,7 +254955,7 @@
         "company_name": "Inmar Intelligence",
         "id": "5d413856-2e2b-4e65-a4e5-56d79fa84653",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -255251,7 +255232,7 @@
         "company_name": "Teledyne",
         "id": "c52e2c13-651b-41c7-bfd3-db32065ec4f9",
         "title": "Engineering Intern - Spring",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -256231,7 +256212,7 @@
         "company_name": "Altera Corporation",
         "id": "b2880550-18ca-4bda-b36b-92d3eadf267d",
         "title": "High Level Synthesis \u2013 Compiler Intern - Hls",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -256423,7 +256404,7 @@
         "company_name": "Huntington Bancshares",
         "id": "b1c8d8b0-9477-4f17-8b62-1b7de77a0906",
         "title": "Data Science Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
