@@ -241882,7 +241882,7 @@
         "company_name": "Gusto",
         "id": "6e2da17a-3fa3-45a1-bc33-b21e27d8ab55",
         "title": "Applied Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -242598,7 +242598,7 @@
         "company_name": "Gusto",
         "id": "b231a91b-aec3-47ee-bd74-5533c413b1f5",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -252081,7 +252081,7 @@
         "company_name": "Moog ",
         "id": "270459f7-1767-4fef-b0dc-d943fc2347d6",
         "title": "Intern \u2013 Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
