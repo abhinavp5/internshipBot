@@ -122457,7 +122457,7 @@
         "company_name": "Leidos",
         "id": "0e62f2c0-ba5d-4128-b616-79c83f1bb06f",
         "title": "Computer Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
