@@ -135,25 +135,6 @@
     {
         "source": "Simplify",
         "company_name": "BorgWarner",
-        "id": "d27e6985-bf5e-45d2-995f-7371a9b1e696",
-        "title": "Application Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743490324,
-        "date_posted": 1743490324,
-        "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Application-Engineering-Intern_R2025-1206",
-        "locations": [
-            "Auburn Hills, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/BorgWarner",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "BorgWarner",
         "id": "10797d44-c156-4006-b1b1-0d6afd96383f",
         "title": "Engineering Intern",
         "active": false,
@@ -52945,7 +52926,7 @@
         "company_name": "Johnson & Johnson",
         "id": "c8b989a3-4021-4c2b-9251-971f46e60e4f",
         "title": "Technology Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
