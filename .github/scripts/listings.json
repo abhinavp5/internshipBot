@@ -133,44 +133,6 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1743484693,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6576405",
-        "company_name": "Flipp",
-        "title": "Associate Software Engineer (12-16 month Internship)",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "GaryZhous",
-        "id": "bd2245c4-03fb-496b-ba07-c8d1653e8a7a",
-        "date_posted": 1743484693,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1743484802,
-        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Kitchener-Ontario-Canada/Software-Intern_3149635-1",
-        "company_name": "HP",
-        "title": "Software Intern",
-        "locations": [
-            "Kitchener, Ontario, Canada"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "1aa82f87-7b35-4a6b-a014-3ad0caf2401b",
-        "date_posted": 1743484802,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "company_name": "Wood Mackenzie",
         "id": "248e5b5f-8f20-4ab8-bf4f-aeb626e89011",
@@ -48135,7 +48097,7 @@
         "company_name": "TikTok",
         "id": "09e14f9b-7d96-47a1-a06a-94bb760acbd8",
         "title": "Product Manager Intern - Tiktok LIVE-Recommend Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
