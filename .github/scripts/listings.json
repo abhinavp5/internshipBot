@@ -199587,7 +199587,7 @@
         "company_name": "Ciena",
         "id": "c708864e-f6a3-441a-86bf-a233681f12a3",
         "title": "THW Client Co-op - Spring 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -200874,7 +200874,7 @@
         "company_name": "PTC",
         "id": "681dbdbc-8437-4289-aa11-53dd09fcdce6",
         "title": "Platform Team Intern - Platform Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
