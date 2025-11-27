@@ -38076,7 +38076,7 @@
         "company_name": "TikTok",
         "id": "c2354808-a208-464b-bbb1-77dafd02c4d7",
         "title": "Software Engineer Intern - Recommendation Infrastructure",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -159609,7 +159609,7 @@
         "company_name": "Electronic Arts",
         "id": "26e68ae4-38b9-4eb2-94fa-a589a2a73c39",
         "title": "Software Engineer Intern - Sports Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -160289,7 +160289,7 @@
         "company_name": "CenturyLink",
         "id": "201fcd09-1eaa-415f-892d-f51fe021bf1e",
         "title": "Intern \u2013 Product Management - Vyvx Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -241156,7 +241156,7 @@
         "company_name": "AbbVie",
         "id": "b6887522-61f3-46ae-bb60-80b649182891",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -243372,7 +243372,7 @@
         "company_name": "AbbVie",
         "id": "ef47db0b-bd8f-4744-a6fd-bf7f29804dea",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -257885,6 +257885,27 @@
             "Pittsburgh, PA"
         ],
         "company_url": "https://simplify.jobs/c/Raymond-James-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "5fa57ac0-28c3-4ab9-ac11-5d269e14e9ac",
+        "title": "Formal Verification Framework for Hardware Ips Validation Internship",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1764235603,
+        "date_posted": 1763514397,
+        "url": "https://jobs.apple.com/en-us/details/200622734",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
