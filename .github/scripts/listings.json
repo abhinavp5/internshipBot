@@ -134,46 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Wood Mackenzie",
-        "id": "248e5b5f-8f20-4ab8-bf4f-aeb626e89011",
-        "title": "Power & Renewables Co-Op",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025",
-            "Winter 2026"
-        ],
-        "date_updated": 1743488257,
-        "date_posted": 1743488257,
-        "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Power---Renewables-Co-Op_JR1828",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Wood-Mackenzie",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Leidos",
-        "id": "1e6d1b21-1673-45ea-8c0b-39dbca86b844",
-        "title": "Junior Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2025"
-        ],
-        "date_updated": 1743488250,
-        "date_posted": 1743488250,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Junior-Software-Engineer-Intern_R-00156692-1",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "BorgWarner",
         "id": "d27e6985-bf5e-45d2-995f-7371a9b1e696",
         "title": "Application Engineering Intern",
@@ -53017,7 +52977,7 @@
         "company_name": "Johnson & Johnson",
         "id": "71e87491-1545-4f98-bfca-5c4330d53e09",
         "title": "Technology 2026 Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -132872,7 +132832,7 @@
         "company_name": "State Street",
         "id": "065e0f12-e47c-4639-bbc4-4983105fac4c",
         "title": "Data Governance Analyst Intern/Co-op - Data Governance - Global Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -140060,7 +140020,7 @@
         "company_name": "State Street",
         "id": "a8cc97d6-76c5-4f14-b556-f9903934e799",
         "title": "BestX AI Engineer \u2013 Co-Op - Global Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -148018,7 +147978,7 @@
         "company_name": "State Street",
         "id": "b455a9b3-1a88-42c5-8ce0-a63f144bf2ec",
         "title": "Software Engineer \u2013 Co-Op - Global Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Summer 2025"
