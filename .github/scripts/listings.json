@@ -179847,7 +179847,7 @@
         "company_name": "Microsoft",
         "id": "b987a34f-560c-4839-a803-2fdac873f04e",
         "title": "Applied Scientist Intern: Audio Visual Question Answering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -179991,7 +179991,7 @@
         "company_name": "Franklin Templeton",
         "id": "21036ea0-1740-44f2-98fd-58b79f81c01c",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -200874,7 +200874,7 @@
         "company_name": "PTC",
         "id": "681dbdbc-8437-4289-aa11-53dd09fcdce6",
         "title": "Platform Team Intern - Platform Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -210873,7 +210873,7 @@
         "company_name": "Microsoft",
         "id": "ccfe4f18-fdb4-4671-8fd6-9f3cb091b9be",
         "title": "Applied Scientist Intern - CMD Labs - Multimodal Conversational AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
