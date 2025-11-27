@@ -180014,7 +180014,7 @@
         "company_name": "Microsoft",
         "id": "f9729c11-8b7b-4cf2-b130-cb9a1fad5335",
         "title": "Applied Scientist Intern: Audio Visual Speech Attribution",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -186044,9 +186044,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761207258,
+        "date_updated": 1764253645,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -250863,7 +250863,7 @@
         "company_name": "Cirrus Logic",
         "id": "c059a15e-fe54-49a4-b821-85096f2189b0",
         "title": "Software Developer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
