@@ -133,26 +133,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "skillz",
-        "id": "3c3e37c6-46ef-4df4-a7b0-9f2025d19609",
-        "title": "Data Engineering Co-Op",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1743483582,
-        "date_posted": 1743483582,
-        "url": "http://corp.skillz.com/careers-list/?gh_jid=6752646",
-        "locations": [
-            "Las Vegas, NV"
-        ],
-        "company_url": "https://simplify.jobs/c/c955eac9-1026-451b-95fe-582bb7c07c4c",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1743484693,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6576405",
         "company_name": "Flipp",
