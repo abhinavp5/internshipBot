@@ -153141,7 +153141,7 @@
         "company_name": "Electronic Arts",
         "id": "b6210558-c50a-4d86-b17e-5f8fe0073605",
         "title": "Software Engineer Intern - NHL",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -258249,6 +258249,27 @@
             "Bellevue, WA"
         ],
         "company_url": "https://simplify.jobs/c/T-Mobile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Kabam",
+        "id": "1913e7c6-c747-4b82-a4e9-f5f9c3f76873",
+        "title": "Product Marketing Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1764322054,
+        "date_posted": 1762298882,
+        "url": "https://jobs.lever.co/kabam/582a849d-ce89-4323-a058-23ef052576c4/apply",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kabam",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
