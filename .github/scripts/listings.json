@@ -55089,7 +55089,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9d257cdf-efe6-4ac9-b1f0-5ed5e11826f0",
         "title": "Quantitative Systematic Trading Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -55299,7 +55299,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3801beb2-e473-44e1-8a9b-a3c4776098f6",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -67646,7 +67646,7 @@
     {
         "date_updated": 1756801538,
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "degrees": [
             "Master's"
         ],
@@ -88808,7 +88808,7 @@
         "company_name": "Marvell",
         "id": "86037ae8-2dc6-4086-8507-7f05cdd324f2",
         "title": "Package Engineering Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -89488,7 +89488,7 @@
         "company_name": "Manulife Financial",
         "id": "1b9bfb5a-9647-483a-8550-0dcad69b9709",
         "title": "Summer Intern/Co-op - Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -99987,7 +99987,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "385eed62-f687-4fff-ab42-08f41edb4cb5",
         "title": "Quantitative Systematic Trading Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -104417,7 +104417,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "c948674f-b374-488f-af89-265ae92d4fca",
         "title": "Machine Learning Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -104602,7 +104602,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ad8b1567-30c9-4093-b10b-395eb58e0e33",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -105713,7 +105713,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "32fc1129-317d-499e-b6c3-5ebb215eb592",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -110466,7 +110466,7 @@
         "company_name": "Lennox International",
         "id": "606f3d71-4e31-4ce2-93bb-662378d17ab8",
         "title": "IoT Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -156001,7 +156001,7 @@
         "company_name": "United Wholesale Mortgage",
         "id": "2ccde243-2959-41bf-bd01-f96d94926dcc",
         "title": "Technology Summer Intern - Information Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -162852,7 +162852,7 @@
         "company_name": "Steel Dynamics",
         "id": "46a2807b-d843-4d99-b217-ab213985b3bb",
         "title": "Software Development Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -170311,7 +170311,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "32530b9f-31b7-4efc-887c-48ec4bd8da7a",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -170358,7 +170358,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "5aaea3e0-eb7b-4548-8be4-217d0156b004",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -170497,7 +170497,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "2135c037-9723-4474-b040-a13457a2bbcb",
         "title": "C++ Developer Intern - Curve Engine",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -170636,7 +170636,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "4e79f79a-bf73-45f0-a035-c8ed56f6cbcd",
         "title": "Software Engineering Intern - Full-Stack - Java",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -170706,7 +170706,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "46f30da2-6e82-4eed-a01d-e3f793a37634",
         "title": "Quantitative Engineer Intern - Clearing Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -170799,7 +170799,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "1b93bbd4-3c44-4ea5-9be4-12fc01cfbef5",
         "title": "Release Engineering Intern - Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -213267,7 +213267,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3be76233-c3da-4f9f-a8a7-f8884bde94e7",
         "title": "Trading Operations Co-op with Drexel University: Spring/Summer a Round",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -220010,7 +220010,7 @@
         "company_name": "American Enterprise Institute",
         "id": "94b1b0c1-86b7-4a93-86d0-697898297eab",
         "title": "Housing Center Internship - Housing Center",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -221443,7 +221443,7 @@
         "company_name": "Bartlett & West",
         "id": "878534f2-b978-4d1e-ade6-a97e9dc0acee",
         "title": "GIS Intern - Water Resources Focus",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -221936,7 +221936,7 @@
         "company_name": "OmniSource",
         "id": "5a0de67c-94b7-4303-8869-fd2a1c1b129e",
         "title": "Data Analytics Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -232185,7 +232185,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "b2e5c9a4-0b91-4f7b-a58b-29b7500589fd",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -244050,7 +244050,7 @@
         "company_name": "American Express",
         "id": "62a863c7-3993-4ae3-9fb0-b2a968c46069",
         "title": "Campus Undergraduate Intern Program - Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -247286,7 +247286,7 @@
         "company_name": "SRI International",
         "id": "185db282-0dc3-4839-93ea-c3e7758acc70",
         "title": "Drexel University Co-op: Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -248917,7 +248917,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "66a4e52b-9858-46ed-8489-458449973aeb",
         "title": "FPGA Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -257409,7 +257409,7 @@
         "company_name": "OmniSource",
         "id": "86e5ce14-6ff8-4733-97d2-3d675a9dc466",
         "title": "Environmental Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -258359,6 +258359,241 @@
             "Rome, NY"
         ],
         "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Commerce Bank",
+        "id": "55ae411f-f717-4de9-a6da-edf811e4bf91",
+        "title": "Intern IT",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764367234,
+        "date_posted": 1764367234,
+        "url": "https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern---IT--Summer-2026-_36991",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Commerce-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Daikin Applied",
+        "id": "d5a1fc16-cb93-4656-9796-1808d1379497",
+        "title": "Digital Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764367065,
+        "date_posted": 1764367065,
+        "url": "https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Plymouth-MN-55441/Digital-Product-Manager-Intern_R000372-1",
+        "locations": [
+            "Wayzata, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Daikin-Applied",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Crane Co.",
+        "id": "bbc960e3-b30d-4bc4-88b1-ec5338e38ad5",
+        "title": "Product Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1764367140,
+        "date_posted": 1764367140,
+        "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Marion-North-Carolina/Product-Engineer-Intern_JR100210",
+        "locations": [
+            "Burnsville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Crane-Co",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Crane Co.",
+        "id": "9e281def-a19e-44bc-b0ab-718d81676b8d",
+        "title": "Product Engineering Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1764367117,
+        "date_posted": 1764367117,
+        "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Spartanburg-South-Carolina/Product-Engineering-Intern_JR100357",
+        "locations": [
+            "Spartanburg, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Crane-Co",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Daikin Applied",
+        "id": "86eb31c4-6e6c-4647-80e3-ecbd835252c8",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764367133,
+        "date_posted": 1764367133,
+        "url": "https://daikinapplied.wd1.myworkdayjobs.com/Pre-Selected_Candidate_Site/job/Plymouth-MN-55441/Data-Analyst-Intern_R000141",
+        "locations": [
+            "Wayzata, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Daikin-Applied",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dallas Fort Worth International Airport",
+        "id": "6f5f5c9b-c617-47d9-9051-7b120663aed2",
+        "title": "Undergraduate IT Data Engineering Intern - IT Data Engineering",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1764366975,
+        "date_posted": 1764366975,
+        "url": "https://dfwairport.wd5.myworkdayjobs.com/External/job/DFW-Intl-Airport-Board/XMLNAME-2026-Undergraduate-Summer-Internship---IT-Business-Intelligence-and-Analytics_JR101096",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Dallas-Fort-Worth-International-Airport",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dallas Fort Worth International Airport",
+        "id": "67f2e24e-9507-4cf1-9ab1-372e51b7d391",
+        "title": "Undergraduate Intern - IT Applications Development",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764367012,
+        "date_posted": 1764367012,
+        "url": "https://dfwairport.wd5.myworkdayjobs.com/External/job/Airport-Headquarters/XMLNAME-2026-Undergraduate-Summer-Internship---IT-Applications-Development_JR101095",
+        "locations": [
+            "Texas"
+        ],
+        "company_url": "https://simplify.jobs/c/Dallas-Fort-Worth-International-Airport",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Daikin Applied",
+        "id": "586460c8-4cbe-4f63-9ba3-94f925c1f37a",
+        "title": "Controls Application Engineering Intern - Sales",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764367106,
+        "date_posted": 1764367106,
+        "url": "https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Remote-MN/Controls-Application-Engineering-Intern---Sales_R000299-1",
+        "locations": [
+            "Wayzata, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Daikin-Applied",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Direct Supply",
+        "id": "dde2b917-5272-4a21-b552-7b38cfa941e7",
+        "title": "Applied AI Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1764366827,
+        "date_posted": 1764366827,
+        "url": "https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/Applied-AI-Intern_REQ-2025-2192",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Direct-Supply",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Direct Supply",
+        "id": "a2a4dafe-2f98-4f2c-a999-f076e1b09096",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1764366824,
+        "date_posted": 1764366824,
+        "url": "https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/Software-Engineer-Intern_REQ-2025-2193",
+        "locations": [
+            "Durham, NC",
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Direct-Supply",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dallas College",
+        "id": "68a1dbac-a972-4ffc-82d3-e5cf2a90df17",
+        "title": "SAS Programmer 1",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1764366839,
+        "date_posted": 1764366839,
+        "url": "https://dallascollege.wd1.myworkdayjobs.com/Dallas_College_Careers/job/El-Centro-Campus/SAS-Programmer-Intern-1_R11293",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Dallas-College",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
