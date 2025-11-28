@@ -134,144 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Peraton",
-        "id": "cd56dbb5-dd96-4edb-98a2-c329bdb0c803",
-        "title": "Summer 2025 Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743579860,
-        "date_posted": 1743579860,
-        "url": "https://careers-peraton.icims.com/jobs/153963/job",
-        "locations": [
-            "King George County, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Peraton",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Guidewire",
-        "id": "79421fcf-9514-485e-8ce0-a0222a31f673",
-        "title": "API Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743579514,
-        "date_posted": 1743579514,
-        "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Philadelphia-PA/API-Engineering-Intern_JR_13058",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Guidewire",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Golin",
-        "id": "d6c66d42-29df-4edd-a5ea-d4b1e6a326d5",
-        "title": "Golin Analytics Internship Program - June-September",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1743579509,
-        "date_posted": 1743579509,
-        "url": "https://golin.com/careers/open-positions/?gh_jid=7938393002",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Golin",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "FNBO",
-        "id": "d62d1743-1630-4fa3-8976-63c5d27de1f3",
-        "title": "Summer Intern - System Support",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743580609,
-        "date_posted": 1743580609,
-        "url": "https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Summer-Intern---System-Support--Omaha--NE-_R-20241011",
-        "locations": [
-            "Omaha, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/FNBO",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Jones Lang LaSalle (JLL)",
-        "id": "43b57ac1-8fb6-43f7-ba17-b35c4e0db09e",
-        "title": "Data Analyst Summer 2025 Internship",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743580310,
-        "date_posted": 1743580310,
-        "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Data-Analyst-Summer-2025-Internship--Remote-_REQ403197",
-        "locations": [
-            "Cambridge, MA",
-            "Houston, TX",
-            "Chicago, IL",
-            "New York, NY",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jones-Lang-LaSalle",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Age of Learning",
-        "id": "ff54628f-6605-4ec9-afca-2224429dcc82",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743580260,
-        "date_posted": 1743580260,
-        "url": "https://jobs.lever.co/aofl/3984ff43-d5f3-4ee0-90e7-c3389a2e007d/apply",
-        "locations": [
-            "Glendale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Age-of-Learning",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "F.N.B. Corporation",
-        "id": "9df4a3a3-c42b-4c24-bfad-1dc4a4d0f20e",
-        "title": "Data Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743580092,
-        "date_posted": 1743580092,
-        "url": "https://fnbcorp.wd1.myworkdayjobs.com/fnbcorp/job/Hermitage-PA/Summer-2025-Data-Engineering-Intern_2025-00706",
-        "locations": [
-            "Hermitage, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/FNB-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Leidos",
         "id": "99cca0cf-bb8a-4dca-b3c2-064e584b2cef",
         "title": "Systems Integrator and Developer Intern",
@@ -1051,25 +913,6 @@
             "Houston, TX"
         ],
         "company_url": "https://simplify.jobs/c/IMO-Health",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Splunk",
-        "id": "f7c72ccb-de65-4afc-97af-3fb239b43e4b",
-        "title": "Software Engineer Intern - C++",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743580697,
-        "date_posted": 1743580697,
-        "url": "https://jobs.jobvite.com/splunk-careers/job/oriKvfwI?nl=1&nl=1&fr=false",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Splunk",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -119717,7 +119560,7 @@
         "company_name": "Dell Technologies",
         "id": "d39fe560-96a2-45b2-ab04-fb977ed526dd",
         "title": "MBA Product Management Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -257649,7 +257492,7 @@
         "company_name": "BMO ",
         "id": "1c651df3-3cb3-4c89-bccf-54e1728b3c60",
         "title": "Junior Software Developer \u2013 Co-op/Internship - Winter 2026 - 4 months",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
