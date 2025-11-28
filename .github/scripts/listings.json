@@ -134,106 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Sentry",
-        "id": "99764335-f28c-4e3d-8dba-ec1cf3847691",
-        "title": "Software Engineer \u2013 Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1743576358,
-        "date_posted": 1743576358,
-        "url": "https://job-boards.greenhouse.io/sentry/jobs/6602456",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Sentry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Sierra Nevada Coporation",
-        "id": "e6e02037-9fc4-4d59-a396-c98dd59e7ca3",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743576227,
-        "date_posted": 1743576227,
-        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2025_R0026297",
-        "locations": [
-            "Southern Pines, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Lumentum",
-        "id": "11ea446a-9aaf-4366-a316-5df86a21b3c5",
-        "title": "Optical Algorithms & Analytics Engineer",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1743576047,
-        "date_posted": 1743576047,
-        "url": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Algorithms---Analytics-Engineer--Co-op-_2025512",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "RTX",
-        "id": "b7954eaa-da45-4155-84c7-b5137f2d5f2c",
-        "title": "2025 Intern - Digital - Product Lifecycle Management",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743577341,
-        "date_posted": 1743577341,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/TX190-2501-West-University-McKinney-2501-West-University---McKinney-TX-75070-USA/XMLNAME-2025-Intern----Digital---Product-Lifecycle-Management---Onsite--Multi-Location-_01759867",
-        "locations": [
-            "Andover, MA",
-            "McKinney, TX",
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Applied Materials",
-        "id": "1ca75dab-68ef-42e2-8693-32df855f94bb",
-        "title": "Embedded System Software Intern",
-        "active": false,
-        "terms": [
-            "Spring 2025",
-            "Summer 2025"
-        ],
-        "date_updated": 1743576738,
-        "date_posted": 1743576738,
-        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/San-JoseCA/Embedded-System-Software-Intern_R2512834",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Nextracker",
         "id": "d1df1ddb-f40a-4acc-a324-39dbe6840cbc",
         "title": "Application Engineer Intern",
@@ -286,64 +186,6 @@
             "Concord, NH"
         ],
         "company_url": "https://simplify.jobs/c/Aristocrat-Leisure",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "IPG DXTRA",
-        "id": "aadd45e4-161f-46b3-bd5e-3c9ee7376f80",
-        "title": "Golin Analytics Internship Program - June-September",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1743577664,
-        "date_posted": 1743577664,
-        "url": "https://job-boards.greenhouse.io/dxacirca/jobs/7938392002",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/IPG-DXTRA",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Cadence Design Systems",
-        "id": "882d0a08-17b4-407f-b50f-3b699f511608",
-        "title": "SVG Software Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743577393,
-        "date_posted": 1743577393,
-        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/Burlington-MA/SVG-Software-Intern--Summer-2025-_R48488",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Cadence Design Systems",
-        "id": "45be750c-2dc3-446a-a314-bf20f9e63386",
-        "title": "SVG Software Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743577393,
-        "date_posted": 1743577393,
-        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE-11/SVG-Software-Intern--Summer-2025-_R48636-3",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -245824,7 +245666,7 @@
         "company_name": "The Federal Reserve System",
         "id": "3679661a-0d33-497b-8504-9a0ba00930d6",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
