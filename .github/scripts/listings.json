@@ -134,25 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Leidos",
-        "id": "99cca0cf-bb8a-4dca-b3c2-064e584b2cef",
-        "title": "Systems Integrator and Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743595496,
-        "date_posted": 1743595496,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bowie-MD/Systems-Integrator-and-Developer-Intern_R-00156171",
-        "locations": [
-            "Bowie, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Autodesk",
         "id": "d4507b30-52d9-4fb5-9145-3ba860b8ddaf",
         "title": "Intern \u2013 Software Developer",
@@ -222611,7 +222592,7 @@
         "company_name": "LinkedIn",
         "id": "4145fa34-a3e7-4c03-94ca-76d6d02e4386",
         "title": "AI/ML Engineer Intern - Master's - Summer 2026 - Mountain View - CA",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -246725,7 +246706,7 @@
         "company_name": "LinkedIn",
         "id": "fa7e7c93-38f2-4017-b3c5-f46831cd229b",
         "title": "AI/ML Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
