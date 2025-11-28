@@ -136448,7 +136448,7 @@
         "company_name": "OATEY",
         "id": "d7f31675-62ec-496e-ab56-04ccdd6cf791",
         "title": "Product Management Intern - Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -165284,7 +165284,7 @@
         "company_name": "Expedia Group",
         "id": "3f4cc948-ea5d-47a7-97c8-9b7a9dad8d54",
         "title": "Machine Learning Science Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
