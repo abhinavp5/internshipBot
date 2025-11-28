@@ -141422,7 +141422,7 @@
         "company_name": "Honeywell",
         "id": "167b90bc-cc08-4680-b2ec-44d62262735f",
         "title": "Intern R&D Engineer - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -198391,7 +198391,7 @@
         "company_name": "State Street",
         "id": "58ed6936-ca32-4cdd-aa36-4ee6740303b9",
         "title": "Software Engineering \u2013 Internship \u2013 Internship - ML/Data Engineer - Full-Time - Jan - June 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -243482,7 +243482,7 @@
         "company_name": "The Federal Reserve System",
         "id": "622a642d-3180-46a0-afac-9b02c51e4103",
         "title": "Intern - People Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
