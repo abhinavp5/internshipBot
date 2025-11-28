@@ -77404,7 +77404,7 @@
         "company_name": "ServiceNow",
         "id": "cf902aea-acc6-4735-8bff-bb131ab95cf2",
         "title": "UTG \u2013 Software Engineer Internships",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -80646,7 +80646,7 @@
         "company_name": "ServiceNow",
         "id": "7cdae68b-b8d2-4dd5-855d-29fd1834be33",
         "title": "UTG \u2013 Software Engineer Internships",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -208729,7 +208729,7 @@
         "company_name": "TheGuarantors",
         "id": "82831ab2-9a80-4c9f-9f85-3805f95e49a4",
         "title": "Software Engineering Intern - Transactional Communications Platform - TypeScript, Go",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
