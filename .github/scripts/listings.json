@@ -53518,7 +53518,7 @@
         "company_name": "Arrowstreet Capital",
         "id": "a2c236a0-e8fa-4b7c-9b43-f10356184549",
         "title": "Quantitative Researcher Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -53565,7 +53565,7 @@
         "company_name": "Arrowstreet Capital",
         "id": "22e7c000-9052-433e-9baa-a490abf5fe73",
         "title": "Quantitative Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -221622,7 +221622,7 @@
         "company_name": "Sentinel Technologies",
         "id": "ed47a0ef-d38b-4641-b6c9-512c3d497b78",
         "title": "AI Intern - Enterprise Architecture - Innovation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -258394,6 +258394,28 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Blackstone",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "USAFacts",
+        "id": "6f1eddaf-74b9-4c64-9253-168bfd1eaa95",
+        "title": "Software Development Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1764292206,
+        "date_posted": 1764292206,
+        "url": "https://job-boards.greenhouse.io/usafacts/jobs/4029872009",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/USAFacts",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
