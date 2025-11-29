@@ -134,82 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Holman",
-        "id": "4f3a092f-2b7f-4816-a585-647f4ae450a8",
-        "title": "Developer Co-Op",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743664191,
-        "date_posted": 1743664191,
-        "url": "https://holmanautogroup.wd1.myworkdayjobs.com/HolmanEnterprisesCareers/job/Mississauga-ON-CAN/Developer-Co-Op_R0049323",
-        "locations": [
-            "Mississauga, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Holman",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Cadence Design Systems",
-        "id": "2f2430c8-db19-48b0-84b2-d8242b236285",
-        "title": "Microsoft Power Apps Platform Internship",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743664061,
-        "date_posted": 1743664061,
-        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/CARY-02/Microsoft-Power-Apps-Platform-Internship--Summer-2025-_R48720-1",
-        "locations": [
-            "Morrisville, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "RTX",
-        "id": "bdf896b0-3a19-441d-a207-7a1c5aba89e2",
-        "title": "Software Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743664060,
-        "date_posted": 1743664060,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA133-Tewksbury-Ma-Bldg-3-Concord-50-Apple-Hill-Drive-Concord---Building-3-Tewksbury-MA-01876-USA/XMLNAME-2025-Intern---Raytheon-Software-Development-Intern--Onsite-_01760419",
-        "locations": [
-            "Tewksbury, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Bank of Montreal",
-        "id": "4870be1a-8f27-4852-b6d8-53473cdd4e64",
-        "title": "Quantitative Analyst \u2013 Co-op/Internship - Data Science",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743665121,
-        "date_posted": 1743665121,
-        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Analyst--Data-Science---Summer-2025--Co-op-Internship----4-Months_R240032018-1",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/BMO",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Northrop Grumman",
         "id": "9f25f0e1-cb9b-4421-94e6-7a1a57375839",
         "title": "2025 Software Engineer Technical Intern",
@@ -243,25 +167,6 @@
             "Irving, TX"
         ],
         "company_url": "https://simplify.jobs/c/7-Eleven",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Primerica",
-        "id": "d205ec32-de25-4d67-a4f5-6a049f09755b",
-        "title": "Data Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743665876,
-        "date_posted": 1743665876,
-        "url": "https://primerica.wd1.myworkdayjobs.com/pri/job/Duluth-GA/Data-Engineer-Intern_R-179042025",
-        "locations": [
-            "Duluth, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Primerica",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -107994,7 +107899,7 @@
         "company_name": "The Toro Company",
         "id": "6fc4515b-e0b3-4fdc-96ff-f2e71519bbec",
         "title": "Integrated Supply Chain \u2013 Analytics Intern - Isc",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
