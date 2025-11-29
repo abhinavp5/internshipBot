@@ -178798,7 +178798,7 @@
         "company_name": "Visa",
         "id": "baa365d9-2904-4692-ae25-ffdb70fa36d1",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -192222,7 +192222,7 @@
         ],
         "category": "Data Science, AI & Machine Learning",
         "source": "Simplify",
-        "id": "e1354ad8-5505-485f-8251-12a3d963d6e3",
+        "id": "8e10f3bc-b26d-4b71-a0f7-1dfb3abae90c",
         "date_posted": 1762179937,
         "company_url": "",
         "is_visible": true
@@ -221471,7 +221471,7 @@
         "company_name": "Visa",
         "id": "2d81c7c5-7ee3-4946-839a-7cfabe385033",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
