@@ -134,63 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Ripple",
-        "id": "15fafe26-72e4-49f3-8dd7-1b317076e10f",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2025"
-        ],
-        "date_updated": 1743663352,
-        "date_posted": 1743663352,
-        "url": "https://ripple.com/careers/all-jobs/job/6657167?gh_jid=6657167",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Ripple",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Genesys",
-        "id": "0bbd2476-9694-408e-8086-331c10a93be8",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743663182,
-        "date_posted": 1743663182,
-        "url": "https://genesys.wd1.myworkdayjobs.com/en-US/Genesys/job/Indianapolis-IN-USA/Software-Engineer-Intern_JR107630-1",
-        "locations": [
-            "Indianapolis, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/a073f454-6408-44aa-87cc-070e67702447",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Genesys",
-        "id": "c40df673-4515-4544-a011-db34afae23f1",
-        "title": "Software Engineer \u2013 Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743663198,
-        "date_posted": 1743663198,
-        "url": "https://genesys.wd1.myworkdayjobs.com/en-US/Genesys/job/Durham-NC-USA/Software-Engineer--Intern_JR107140-1",
-        "locations": [
-            "Durham, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/a073f454-6408-44aa-87cc-070e67702447",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Holman",
         "id": "4f3a092f-2b7f-4816-a585-647f4ae450a8",
         "title": "Developer Co-Op",
@@ -243,44 +186,6 @@
             "Tewksbury, MA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Delta Dental",
-        "id": "59bff281-ed8b-48c5-84e1-b01fa13de3c7",
-        "title": "Internship-Application Development",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743663910,
-        "date_posted": 1743663910,
-        "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship--Application-Development_JR100770",
-        "locations": [
-            "East Lansing, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Delta-Dental",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Booz Allen",
-        "id": "87bdf41c-ea4c-4b2f-953b-5445b78832cd",
-        "title": "University \u2013 Systems Engineer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2027"
-        ],
-        "date_updated": 1743663909,
-        "date_posted": 1743663909,
-        "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Systems-Engineer-Intern_R0217822",
-        "locations": [
-            "Fayetteville, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Booz-Allen",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -720,25 +625,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Comcast",
-        "id": "c5fe4604-3fe1-4c74-aeb9-f18bfc6c9762",
-        "title": "Comcast Product Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743663886,
-        "date_posted": 1743663886,
-        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Product-Analyst-Intern_R394906",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Comcast",
-        "is_visible": true,
-        "sponsorship": "Other"
     },
     {
         "source": "Simplify",
@@ -62540,7 +62426,7 @@
         "company_name": "Netsmart",
         "id": "b31fbe44-e8f6-43dd-b46a-d66d9442b8bd",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
