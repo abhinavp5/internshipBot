@@ -258721,5 +258721,29 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wayve",
+        "id": "527b0ead-74a7-4f99-a31d-b90ad6c1ffad",
+        "title": "Research Scientist Intern - Data for Embodied AI",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1764538781,
+        "date_posted": 1764538781,
+        "url": "https://job-boards.greenhouse.io/wayve/jobs/8217788002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Wayve",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
     }
 ]
