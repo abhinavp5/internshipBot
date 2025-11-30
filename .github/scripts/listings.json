@@ -134,42 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Primerica",
-        "id": "3165c5b9-08cd-4bf7-ad15-ce0ff91c59e1",
-        "title": "Software Architect Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1743766697,
-        "date_posted": 1743766697,
-        "url": "https://primerica.wd1.myworkdayjobs.com/pri/job/Duluth-GA/Software-Architect-Intern_R-181042025",
-        "locations": [
-            "Duluth, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Primerica",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Northrop Grumman",
-        "id": "3144abbd-622f-4505-adc9-a3448ede683a",
-        "title": "2025 College Intern Admin",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743767783,
-        "date_posted": 1743767783,
-        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2025-College-Intern-Admin---Melbourne-FL_R10191674",
-        "locations": [
-            "Melbourne, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "TD Bank",
         "id": "6b3b9fbd-5670-4ab7-8b86-212099228a35",
         "title": "2025 Summer Internship Program - Data & Analytics",
@@ -1202,23 +1166,6 @@
             "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Forbes",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Primerica",
-        "id": "79dc5da1-6125-43c0-b92c-4e01ce28ee60",
-        "title": "Appdev \u2013 Vuejs Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1743766696,
-        "date_posted": 1743766696,
-        "url": "https://primerica.wd1.myworkdayjobs.com/pri/job/Duluth-GA/AppDev---VueJS-Intern_R-180042025",
-        "locations": [
-            "Duluth, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Primerica",
         "is_visible": true,
         "sponsorship": "Other"
     },
