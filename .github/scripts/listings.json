@@ -134,82 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Diligent Corporation",
-        "id": "5697cbd3-59b9-4cb8-8a1a-7e46e92b3571",
-        "title": "Systems Engineering Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1743748780,
-        "date_posted": 1743748780,
-        "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/5479151004",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Diligent-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Ciena",
-        "id": "fec47837-bea6-496a-a2cb-f23924f3a334",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743750002,
-        "date_posted": 1743750002,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-US/Software-Engineer-Intern--Summer-2025-_R027681",
-        "locations": [
-            "Remote in USA",
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "CACI",
-        "id": "77ee895a-d70a-4d51-be8c-d3631b6743bc",
-        "title": "Software Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743749659,
-        "date_posted": 1743749659,
-        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Chantilly/Software-Development-Intern---Summer-2025_309857-1",
-        "locations": [
-            "Chantilly, VA",
-            "Oklahoma City, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Alo Yoga",
-        "id": "2a99d5f5-a33a-4ae8-831f-1955cd3fd6cc",
-        "title": "Data Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": 1743749368,
-        "date_posted": 1743749368,
-        "url": "https://job-boards.greenhouse.io/aloyoga/jobs/5468123004",
-        "locations": [
-            "Culver City, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Alo-Yoga",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Omnidian",
         "id": "82325902-f649-4416-a818-b60e27580af5",
         "title": "Software Engineer Internship",
@@ -227738,7 +227662,7 @@
         "company_name": "Takeda",
         "id": "4be9ebac-6af0-4f42-895a-cabeb56fcf0c",
         "title": "Analytical Development Mass Spectrometry Informatics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -236765,7 +236689,7 @@
         "company_name": "GE Healthcare",
         "id": "0d83dfff-2dc3-4742-b0ed-e135f6ecf631",
         "title": "Field Engineer Apprentice - Buffalo; Rochester",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -257248,7 +257172,7 @@
         "company_name": "AT&T",
         "id": "3b275ed7-7c20-468f-a291-09b73f95638f",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -258186,7 +258110,7 @@
         "company_name": "TD Bank",
         "id": "7cc01184-40b7-4392-bf1a-30dd375fbfca",
         "title": "Machine Learning Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
