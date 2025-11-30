@@ -134,26 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Nuro",
-        "id": "9faa9a73-cb36-427a-917b-46fa9595ef99",
-        "title": "Mapping & Localization \u2013 Software Engineering Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1761337786,
-        "date_posted": 1743787056,
-        "url": "https://nuro.ai/careersitem?gh_jid=6562194",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nuro",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "company_name": "IMO Health",
         "id": "325e0f27-5a28-404f-b0b2-2044c075f08c",
         "title": "Natural Language Processing \u2013 Intern - NLP",
@@ -101716,7 +101696,7 @@
         "company_name": "Shure",
         "id": "67dbe0f9-2e0a-40f0-973e-ec2714e57a07",
         "title": "Proof of Concept Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -102047,7 +102027,7 @@
         "company_name": "Shure",
         "id": "704a1b82-e674-42e2-bfac-244c88e0710e",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -104932,7 +104912,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "32fc1129-317d-499e-b6c3-5ebb215eb592",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -201506,7 +201486,7 @@
         "company_name": "KLA",
         "id": "cbbeed55-9f7b-460e-8282-478f3600d352",
         "title": "Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -216009,7 +215989,7 @@
         "company_name": "Cummins",
         "id": "36a58750-41c1-4d44-8c9a-ad401b58bad8",
         "title": "Electronic Systems \u2013 Summer Internship Positions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -224525,7 +224505,7 @@
         "company_name": "Legrand NA",
         "id": "458d3f94-3485-481b-9c89-637846a1a233",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -245035,7 +245015,7 @@
         "company_name": "Apex Fintech Solutions",
         "id": "afc67385-5116-4c6b-81f0-af04d8778524",
         "title": "Front End Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
