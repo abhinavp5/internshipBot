@@ -86673,7 +86673,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "c8b0046f-24ae-44c1-a3be-9e6130c03476",
         "title": "Tech Consultant intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -87756,7 +87756,7 @@
         "company_name": "Symbotic",
         "id": "d629eaf2-f39a-43db-a674-63d4b0595084",
         "title": "Intern-Machine Learning",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -103698,7 +103698,7 @@
         "company_name": "Shure",
         "id": "bd24eda5-ecb6-497b-9a0f-e45bf2378726",
         "title": "Marketing Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -125571,7 +125571,7 @@
         "company_name": "Shure",
         "id": "34053954-ba41-4968-9bc9-770b754f1e15",
         "title": "Audio Applied Research Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -134011,7 +134011,7 @@
         "company_name": "W.R. Berkley",
         "id": "0c7562e6-7d8e-4ada-b934-9b6bdd000c2f",
         "title": "Intern \u2013 Software Developer - Reactjs",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -139382,7 +139382,7 @@
         "company_name": "Veritiv Corporation",
         "id": "f74a3346-7390-48ea-9ba1-e3cc34d8ed74",
         "title": "Business Analytics Intern - Advanced Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -157569,7 +157569,7 @@
         "company_name": "Arch Capital Group",
         "id": "f176244b-7ea1-4fc6-98ad-5325ae2dfdde",
         "title": "IT Analytics Engineer Intern - IT - Enterprise Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -169735,7 +169735,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "32530b9f-31b7-4efc-887c-48ec4bd8da7a",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -184177,7 +184177,7 @@
         "company_name": "AbbVie",
         "id": "6aa4d904-6855-4fdc-bee9-2b70a6b8acad",
         "title": "2026 Software Engineering Co-Op - June - Dec",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -193147,7 +193147,7 @@
         "company_name": "AbbVie",
         "id": "399e8643-0cc1-4039-838a-ae11d8827c28",
         "title": "2026 Software Engineering Co-Op - June - Dec",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -227601,7 +227601,7 @@
         "company_name": "Takeda",
         "id": "51afcb5a-fd2d-4104-b549-50758903123b",
         "title": "2026 U.S Summer Internship Program: Machine Learning Pipeline Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -231483,7 +231483,7 @@
         "company_name": "Tokyo Electron",
         "id": "153cb9c8-2cd3-42bb-9e27-029aa24a3210",
         "title": "ATG SPS CFD Simulation Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -231609,7 +231609,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "b2e5c9a4-0b91-4f7b-a58b-29b7500589fd",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -237040,7 +237040,7 @@
         "company_name": "Stryker",
         "id": "81f17b60-fc34-4bc3-9781-856582bbeba9",
         "title": "R&D Design Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -239034,7 +239034,7 @@
         "company_name": "Persistent Systems",
         "id": "36429312-93fc-4add-a91a-c5d78357e6d1",
         "title": "Intern \u2013 Embedded Software Engineer - Fall 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -239845,7 +239845,7 @@
         "company_name": "Great American Insurance Company",
         "id": "6e3cef00-04f4-42b8-bb64-7d9653cff91e",
         "title": "RPA Automation Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -244231,7 +244231,7 @@
         "company_name": "Apex Fintech Solutions",
         "id": "5a122b4e-b3dc-427c-a4b0-6c312c10bf5e",
         "title": "Software Engineering Intern - Securities Lending",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -246068,7 +246068,7 @@
         "company_name": "Centific",
         "id": "2e11e598-c395-4818-9b85-fb7e5035942d",
         "title": "Technical Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -256833,7 +256833,7 @@
         "company_name": "OmniSource",
         "id": "86e5ce14-6ff8-4733-97d2-3d675a9dc466",
         "title": "Environmental Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
