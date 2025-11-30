@@ -134,27 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Tatari",
-        "id": "bbe5a4ce-aa9f-42b1-9748-27840234cce4",
-        "title": "Data Science \u2013 Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743757643,
-        "date_posted": 1743757643,
-        "url": "https://job-boards.greenhouse.io/tatari/jobs/7942418002",
-        "locations": [
-            "SF",
-            "LA",
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Tatari",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Actian",
         "id": "46993919-592d-479c-aebe-2fa099f21fe3",
         "title": "CX User Analytics Intern",
@@ -229136,7 +229115,7 @@
         "company_name": "Barry-Wehmiller",
         "id": "9df51b71-f6a6-4578-b14b-12b16aa85594",
         "title": "DI Technical Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
