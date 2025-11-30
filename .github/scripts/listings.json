@@ -151,45 +151,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Smith Micro Software",
-        "id": "70507d4b-9b66-4289-acf3-cfe9473d5c34",
-        "title": "AI & Data Science Intern",
-        "active": false,
-        "terms": [
-            "Spring 2025",
-            "Summer 2025"
-        ],
-        "date_updated": 1743748533,
-        "date_posted": 1743748533,
-        "url": "https://jobs.lever.co/smithmicro/f21bfad8-72b3-4a15-88e2-1eb9fddcdc97/apply",
-        "locations": [
-            "Aliso Viejo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Smith-Micro-Software",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Smith Micro Software",
-        "id": "595bc294-10b5-4047-abeb-48290dd50d4f",
-        "title": "Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743748534,
-        "date_posted": 1743748534,
-        "url": "https://jobs.lever.co/smithmicro/2bfc8694-31d8-4843-bab1-731075b9b15b/apply",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Smith-Micro-Software",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Ciena",
         "id": "fec47837-bea6-496a-a2cb-f23924f3a334",
         "title": "Software Engineer Intern",
@@ -128507,7 +128468,7 @@
         "company_name": "RSM",
         "id": "1ac43414-569b-4c1b-b0ed-a8da053a7c47",
         "title": "Microsoft Business Central Associate - Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -146798,7 +146759,7 @@
         "company_name": "State Street",
         "id": "b677cc7d-96d3-4807-beed-0774e20fa01c",
         "title": "Software Engineering Co-Op - Global Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -210835,7 +210796,7 @@
         "company_name": "Red Hat",
         "id": "09869b4e-f0b8-4f64-ae90-75b036fe9ff0",
         "title": "Product Training Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -227562,7 +227523,7 @@
         "company_name": "Takeda",
         "id": "a2a1909b-40a5-416a-a841-40813c0946f3",
         "title": "2026 U.S Summer Internship Program: Data Platforms \u2013 AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -227583,7 +227544,7 @@
         "company_name": "Takeda",
         "id": "a25148b2-9e8c-4e90-a6ec-59aa835070ad",
         "title": "2026 Summer Internship Program: Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -227604,7 +227565,7 @@
         "company_name": "Takeda",
         "id": "9aea30e0-8da0-41b8-8528-477f8fc0a68b",
         "title": "2026 Summer Internship Program: Data Digital and Technology \u2013 Intern - DD&T",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -237323,7 +237284,7 @@
         "company_name": "Takeda",
         "id": "f30724f2-5e5f-4f9c-8d6b-769bc1c3c167",
         "title": "Manufacturing Sciences Statistical Process Control Intern - Statistical Process Control",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -246503,7 +246464,7 @@
         "company_name": "Johnson & Johnson",
         "id": "47526592-a406-43c7-9bfc-a83deed589d7",
         "title": "Statistics & Decision Sciences Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -257308,7 +257269,7 @@
         "company_name": "AT&T",
         "id": "06bea804-186e-4833-9430-a601a7a0dc3c",
         "title": "Data Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
