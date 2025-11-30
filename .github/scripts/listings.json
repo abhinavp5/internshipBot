@@ -78478,7 +78478,7 @@
         "company_name": "Ingredion",
         "id": "66b1b3b1-bca5-4489-9a90-b4320e322766",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -83261,7 +83261,7 @@
         "company_name": "Rocket Lab USA",
         "id": "66930c5e-5ee3-4001-a5df-fea9f903166c",
         "title": "Flight Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -101482,7 +101482,7 @@
         "company_name": "CoVar",
         "id": "88aa73e7-ccb7-44c4-a965-2b320e57528c",
         "title": "Machine Learning Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -117718,7 +117718,7 @@
         "company_name": "Ingredion",
         "id": "60acc3ec-8dfd-45ca-9e7a-861d92d7b92a",
         "title": "Product Portfolio Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -117787,7 +117787,7 @@
         "company_name": "Ingredion",
         "id": "7b70869d-69a5-4068-9fdc-5f0ad52d535b",
         "title": "Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -118952,7 +118952,7 @@
         "company_name": "Ingredion",
         "id": "50b066d7-6cfd-489c-976d-fc77114337ee",
         "title": "Data Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -131835,7 +131835,7 @@
         "company_name": "Robinhood",
         "id": "ed0b4253-55fc-427b-a955-ed1b9b41d22c",
         "title": "Software Engineering Intern - Backend",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -132047,7 +132047,7 @@
         "company_name": "Robinhood",
         "id": "6ae7f72b-5e72-4557-ae60-a33a86c825f4",
         "title": "Software Engineering Intern - Android",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -134301,7 +134301,7 @@
         "company_name": "Marvell",
         "id": "2244b2d0-9770-4a71-ac0d-e012c75eee64",
         "title": "Product Engineer Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -165815,7 +165815,7 @@
         "company_name": "Eversource Energy",
         "id": "40819d70-60c6-4600-b072-7163488ba28a",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -175997,7 +175997,7 @@
         "company_name": "Marvell",
         "id": "b3b767ee-f01c-4a7b-a187-5abcb85eacd6",
         "title": "Design Verification Intern - Bachelor's Degree",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -178161,7 +178161,7 @@
         "company_name": "Toast",
         "id": "646c70bf-1f6c-4b18-95fb-83eaf005fb60",
         "title": "MBA Product Manager Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -188199,7 +188199,7 @@
         "company_name": "Autodesk",
         "id": "e69cc3d6-6ff3-49e8-8bdd-7fe271eaa856",
         "title": "PhD Intern - HCI & Visualization Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer -1"
         ],
@@ -211226,7 +211226,7 @@
         "company_name": "Stanley Black & Decker",
         "id": "7e968c55-c09d-4390-b270-61a0f7a0dd0b",
         "title": "Engineering Co-Op: Summer and Fall 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -248736,7 +248736,7 @@
         "company_name": "The Boeing Company",
         "id": "55b29805-7cc5-4cfc-a805-400b9853d85f",
         "title": "Assembly Mechanic Apprenticeship-Electrical",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -258459,6 +258459,91 @@
             "El Segundo, CA"
         ],
         "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "21818437-c8c0-42eb-bf98-082b8e191f2f",
+        "title": "Hardware Engineer Intern - Bachelor's Degree",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1764532627,
+        "date_posted": 1764532627,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Hardware-Engineer-Intern---Bachelor-s-Degree_2502353",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DigiKey",
+        "id": "0e34ff51-6f40-4924-82d7-b3bcea4e7626",
+        "title": "Application Engineering \u2013 Intern Industrial Automation",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1764531945,
+        "date_posted": 1764531945,
+        "url": "https://digikey.wd5.myworkdayjobs.com/digi-key/job/Thief-River-Falls-MN/Application-Engineering--Intern-Industrial-Automation_R5120",
+        "locations": [
+            "Erskine, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/DigiKey",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Motors",
+        "id": "7e86a379-e215-4667-bcfd-52debfedde32",
+        "title": "Intern - Machine Learning Validation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764531690,
+        "date_posted": 1764531690,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Software-Engineer--Machine-Learning-Validation--PhD-_JR-202523181",
+        "locations": [
+            "Sunnyvale, CA",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Anduril",
+        "id": "98971aab-cef6-4cbf-b8de-98440950c6aa",
+        "title": "Perception Engineering Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1764531196,
+        "date_posted": 1764531196,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4830032007",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
