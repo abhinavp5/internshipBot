@@ -134,44 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "TD Bank",
-        "id": "6b3b9fbd-5670-4ab7-8b86-212099228a35",
-        "title": "2025 Summer Internship Program - Data & Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743770470,
-        "date_posted": 1743770470,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2025-Summer-Internship-Program---Data---Analytics_R_1411828",
-        "locations": [
-            "Greenville, SC",
-            "Mt Laurel Township, NJ",
-            "Portland, ME"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Greenlight",
-        "id": "3c047892-b4d5-4be5-939d-05029bd51329",
-        "title": "Data Platform Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1743770066,
-        "date_posted": 1743770066,
-        "url": "https://jobs.lever.co/greenlight/97207e82-5d58-4935-9323-964d9f6fee89/apply",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Greenlight",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Elevance Health",
         "id": "307597cc-465a-4359-a4f7-cbca5e199035",
         "title": "Data Analytics Internship",
@@ -1152,25 +1114,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Forbes",
-        "id": "e03e23b3-9272-47ee-bebb-59d4a8f6ac5f",
-        "title": "Business Intelligence/Insights Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744118768,
-        "date_posted": 1743770031,
-        "url": "https://job-boards.greenhouse.io/forbes/jobs/5485136004",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Forbes",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Uhaul",
         "id": "6edb2bec-80e2-45f5-850a-7c4a4ad2d422",
         "title": "Software Development Summer Intern",
@@ -1185,25 +1128,6 @@
             "Phoenix, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Uhaul",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Henry Schein",
-        "id": "6c49cfda-c3f0-4a0d-bc93-a2ba907a5540",
-        "title": "Big Data Summer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743769426,
-        "date_posted": 1743769426,
-        "url": "https://henryschein.wd1.myworkdayjobs.com/External_Careers/job/New-York---Remote/Big-Data-Summer-Intern_R129407",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Henry-Schein",
         "is_visible": true,
         "sponsorship": "Other"
     },
