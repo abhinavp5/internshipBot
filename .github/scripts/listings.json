@@ -125292,7 +125292,7 @@
         "company_name": "JP Morgan Chase",
         "id": "c2135adf-9d61-4cd6-859a-57e4a9075713",
         "title": "AI Research Associate Program \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -257937,6 +257937,27 @@
             "Martinsburg, WV"
         ],
         "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Honeywell",
+        "id": "1430a59b-4ad6-4977-9a7b-32d53079ca12",
+        "title": "Field Service Tech Install Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1760662965,
+        "date_posted": 1760662965,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/119454",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
