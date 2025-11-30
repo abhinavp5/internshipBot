@@ -228608,7 +228608,7 @@
         "company_name": "Rambus",
         "id": "1f934601-b176-42b2-adb3-e2e998544b0c",
         "title": "Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -236836,7 +236836,7 @@
         "company_name": "JP Morgan Chase",
         "id": "37f05c8b-69ff-4b8b-868e-6efd6e790435",
         "title": "Asset Management Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
