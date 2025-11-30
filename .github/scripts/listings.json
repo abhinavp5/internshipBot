@@ -134,25 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Elevance Health",
-        "id": "307597cc-465a-4359-a4f7-cbca5e199035",
-        "title": "Data Analytics Internship",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743780053,
-        "date_posted": 1743780053,
-        "url": "https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/IL-CHICAGO-233-S-WACKER-DR-STE-3700/Data-Analytics-Internship---Summer-2025_JR146821",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Elevance-Health",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Nuro",
         "id": "9faa9a73-cb36-427a-917b-46fa9595ef99",
         "title": "Mapping & Localization \u2013 Software Engineering Intern",
@@ -221195,7 +221176,7 @@
         "company_name": "Lennox International",
         "id": "590fee5e-0e83-41b2-8f8d-216a33ef51df",
         "title": "Engineering Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
