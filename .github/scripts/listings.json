@@ -114515,7 +114515,7 @@
         "company_name": "Barclays",
         "id": "3d766476-55c1-4c61-bb85-6fb33e72a8da",
         "title": "Retail Banking Data & Analytics Analyst Summer Internship Programme 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -249643,7 +249643,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "95a909aa-57a5-4583-85a6-9db2f6c26a02",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -258375,6 +258375,90 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Astera Labs",
+        "id": "5c6215a1-af94-4ddf-87d7-46031c7d56b0",
+        "title": "Product Engineering Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1764531142,
+        "date_posted": 1764531142,
+        "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4605639005",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AsteraLabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Metron",
+        "id": "3aa8795b-9213-43b6-b00e-0e4610d27d88",
+        "title": "Metron Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764531130,
+        "date_posted": 1764531130,
+        "url": "https://job-boards.greenhouse.io/metron/jobs/4958803007",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/22c7fd64-5419-4c19-8f0b-c4e2b6620614",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Walt Disney Company",
+        "id": "82a8570a-442c-4d6e-a606-0fa55a4b5ed3",
+        "title": "Content Planning & Analysis Graduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764530678,
+        "date_posted": 1764530678,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Content-Planning---Analysis-Graduate-Intern--Summer-2026_10135438-1",
+        "locations": [
+            "Glendale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Aerospace Corporation",
+        "id": "17a0f2b4-89aa-4a01-b8fe-dd858c213c94",
+        "title": "Signal Processing AI/ML Undergrad Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764530227,
+        "date_posted": 1764530227,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Signal-Processing-AI-ML-Undergrad-Intern_R014039",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
