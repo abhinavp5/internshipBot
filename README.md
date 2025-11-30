@@ -5208,14 +5208,14 @@
 <td>Software Engineering Intern</td>
 <td>Cambridge, UK</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>IT Service Delivery Analyst Intern - Electrification Software</td>
 <td>Bracknell, UK</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Schreiber-Foods?utm_source=GHList&utm_medium=company">Schreiber Foods</a></strong></td>
@@ -15087,7 +15087,7 @@
 <td>Game Producer Intern - Summer 2026</td>
 <td>LA</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/riotgamesup/jobs/7306489?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/2814bbbc-1ac6-4008-96a1-673ac645641b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Trimble?utm_source=GHList&utm_medium=company">Trimble</a></strong></td>
@@ -18485,7 +18485,7 @@
 <td>Research Scientist Intern - Game AI</td>
 <td>LA</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/riotgamesup/jobs/7306505?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ac38bf23-50be-423f-a237-1a04e40982e6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Rivian?utm_source=GHList&utm_medium=company">Rivian</a></strong></td>
@@ -24988,7 +24988,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/SageSure-Insurance-Managers?utm_source=GHList&utm_medium=company">SageSure</a></strong></td>
 <td>Business Intelligence Intern - Business Intelligence</td>
 <td>NYC</br>Cheshire, CT</td>
 <td>🔒</td>
@@ -40204,7 +40204,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/L3Harris-Technologies?utm_source=GHList&utm_medium=company">L3Harris Technologies</a></strong></td>
 <td>Integration and Test Engineering Intern</td>
 <td>Rochester, NY</td>
 <td>🔒</td>
