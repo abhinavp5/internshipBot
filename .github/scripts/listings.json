@@ -134,25 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Medpace, Inc.",
-        "id": "9af6cb74-2822-4943-95d5-b98c9e8cf2cb",
-        "title": "Software Development Co-Op",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1743836069,
-        "date_posted": 1743836069,
-        "url": "https://careers.medpace.com/jobs/11308?lang=en-us&icims=1",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Medpace-Inc",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Seurat Technologies",
         "id": "0beb0a4d-374e-4fb9-bd1d-87ec21433e94",
         "title": "Data & AI/ML Intern",
@@ -220065,7 +220046,7 @@
         "company_name": "CIBC",
         "id": "e2aad462-027c-41cb-b89e-e132b87eee63",
         "title": "Summer Intern - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -255892,7 +255873,7 @@
         "company_name": "Nokia",
         "id": "da9967f3-441d-4e96-8a9e-1b071a588795",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
