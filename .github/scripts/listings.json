@@ -72016,7 +72016,7 @@
         "company_name": "Lowe's ",
         "id": "0d313e12-1bda-42ce-b0c2-f6c9f561f4e8",
         "title": "Exploratory Software Engineer \u2013 Undergraduate Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -92724,7 +92724,7 @@
         "company_name": "The Toro Company",
         "id": "c6991d19-24a9-4b6f-a9bd-ecfb487a121c",
         "title": "R&D IoT Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -177859,7 +177859,7 @@
         "company_name": "GM financial",
         "id": "2cf6d3f8-bc0c-4e27-a691-9648da31dad6",
         "title": "",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -229400,7 +229400,7 @@
         "company_name": "Gilead Sciences",
         "id": "9378d81a-0170-4752-b39b-ee3c7da7cad3",
         "title": "Intern \u2013 IT - Enterprise Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -257149,7 +257149,7 @@
         "company_name": "Commerce Bank",
         "id": "55ae411f-f717-4de9-a6da-edf811e4bf91",
         "title": "Intern IT",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -258985,6 +258985,27 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/NBCUniversal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LinkedIn",
+        "id": "31b5a900-9531-4d1b-b336-9e5e30b1b927",
+        "title": "AI/ML Engineer Intern - Generative AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764512766,
+        "date_posted": 1764512766,
+        "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000095221125",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LinkedIn",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
