@@ -132735,7 +132735,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "cd1eeddf-de6b-42cb-93a8-e468e9b5f219",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -171557,7 +171557,7 @@
         "company_name": "Genesis ",
         "id": "cb3688a9-ace1-441a-b4aa-6d3dab4946c0",
         "title": "Data Science Programming Intern - Engineering Methods & Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -223945,7 +223945,7 @@
         "company_name": "Marvell",
         "id": "40b4bfb1-7785-437f-b851-e55747b17a8a",
         "title": "Application Engineering Intern - Coherent DSP",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -224634,7 +224634,7 @@
         "company_name": "Lumafield",
         "id": "03a8b83f-88e9-4c73-92b7-e172e7d84e90",
         "title": "Engineering Intern - Process",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -249130,7 +249130,7 @@
         "company_name": "Nestle",
         "id": "ff052fb1-fd2e-4b59-a1bb-dbbc5f513b11",
         "title": "Nespresso-Web Development Intern - AI Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
