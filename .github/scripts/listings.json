@@ -60038,7 +60038,7 @@
         "company_name": "DriveTime",
         "id": "d1a25725-dd02-45e2-bc1c-586df9c8de7f",
         "title": "Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -60799,7 +60799,7 @@
         "company_name": "Booz Allen",
         "id": "c007327d-d3cc-426d-9772-317fb5167d97",
         "title": "University \u2013 Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -68076,7 +68076,7 @@
         "company_name": "Booz Allen",
         "id": "c2ba2107-2d09-404a-9224-1c037494804f",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -71970,7 +71970,7 @@
         "company_name": "Lowe's ",
         "id": "c0ca0fd0-506d-4084-90c3-228df0f09c33",
         "title": "Data Engineer \u2013 Undergraduate Internship - Daci",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -73645,7 +73645,7 @@
         "company_name": "Point72",
         "id": "02bd2fa7-02bb-4e5d-97dd-a3a913b0bd87",
         "title": "2026 Technology Internship - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -87802,7 +87802,7 @@
         "company_name": "Datadog",
         "id": "acb62461-0672-4a5a-bd61-f6b16e860825",
         "title": "Software Engineering Intern - Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -108258,7 +108258,7 @@
         "company_name": "Schonfeld",
         "id": "7913fd1f-37ad-4cf5-ac1a-31dc08d10dbc",
         "title": "2026 PhD Quant Research Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -118951,7 +118951,7 @@
         "company_name": "Kodiak Robotics",
         "id": "edbfe913-d20f-4abe-bc72-8c4c9def121e",
         "title": "Summer 2026 Intern - Motion Planning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -221183,7 +221183,7 @@
         "company_name": "Meridian Partners",
         "id": "c7a1a701-738a-4b0d-816a-c61162bd6182",
         "title": "Full Stack Software Engineer Co-op - Full Stack Development - AI/ML & Cloud",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -233908,7 +233908,7 @@
         "company_name": "Vistra",
         "id": "2f31cb08-78f8-433e-9e39-d231d26c2bbc",
         "title": "Summer Intern - Comanche Peak Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -237578,7 +237578,7 @@
         "company_name": "Fujitsu",
         "id": "e7d02359-cb18-42b1-85ea-0c87456c5a99",
         "title": "Research Intern - AI Security",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -257170,7 +257170,7 @@
         "company_name": "Daikin Applied",
         "id": "d5a1fc16-cb93-4656-9796-1808d1379497",
         "title": "Digital Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -258890,7 +258890,7 @@
         "company_name": "Qorvo",
         "id": "1eed9aec-c01a-4d91-a985-ea772b0a934a",
         "title": "Product Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
