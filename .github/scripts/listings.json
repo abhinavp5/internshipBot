@@ -101863,7 +101863,7 @@
         "company_name": "Shure",
         "id": "7ab269f4-c168-4aef-affd-086940fd86c1",
         "title": "Applied Research Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -169576,7 +169576,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "bc4eaca1-d7bb-46f8-a195-59f2f4955803",
         "title": "Weather Data Analyst Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -169716,7 +169716,7 @@
         "company_name": "North Atlantic Industries",
         "id": "db8f6a17-4558-492c-8a4e-a9f000f96646",
         "title": "Full Stack Software Engineer Intern/Co-op - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Spring 2026"
@@ -200905,7 +200905,7 @@
         "company_name": "Life.Church",
         "id": "c16eb333-6cf8-403b-8dba-b17365b206f4",
         "title": "Life.Church Central Internship - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -214690,7 +214690,7 @@
         "company_name": "Cook Group",
         "id": "1b5d3b69-67e4-479a-9695-419cdbb88228",
         "title": "Information Technology Intern - Artificial Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -218883,7 +218883,7 @@
         "company_name": "Gannet Fleming",
         "id": "35a1d6d1-dfa7-4bbf-969c-20ad552cd839",
         "title": "Intern \u2013 Geographic Information Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -225477,7 +225477,7 @@
         "company_name": "Steel Dynamics",
         "id": "2e633dc2-ec03-4bcd-955d-65a656e9f46b",
         "title": "Quality & Product Development Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -226365,7 +226365,7 @@
         "company_name": "Cook Group",
         "id": "129f62f7-ecdc-47b0-8945-414033024e52",
         "title": "Intern \u2013 Artificial Intelligence & Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -233246,7 +233246,7 @@
         "company_name": "BorgWarner",
         "id": "1b4029f8-2892-43b4-8d75-489b38a9e27a",
         "title": "Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -234301,7 +234301,7 @@
         "company_name": "Edison International",
         "id": "a8cc1db2-cf29-4c1c-aa50-c6fde0194d34",
         "title": "Intern - All Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -242379,7 +242379,7 @@
         "company_name": "Shure",
         "id": "dbfe6459-45e8-40be-b954-8c607b54b4e8",
         "title": "Global Product Management Intern - Content Creation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -258691,6 +258691,28 @@
             "Winona, MN"
         ],
         "company_url": "https://simplify.jobs/c/Trane-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Commonwealth Fusion Systems",
+        "id": "c146f0c4-767a-4c1e-819e-344425e1cdb7",
+        "title": "Intern \u2013 Computational Materials Engineer - Spring - Summer 2026",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1761875324,
+        "date_posted": 1761875324,
+        "url": "https://jobs.lever.co/cfsenergy/133a8cb7-05d5-4a94-b216-1564a86da04b/apply",
+        "locations": [
+            "Devens, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Commonwealth-Fusion-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
