@@ -265,23 +265,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Werfen",
-        "id": "4144c97a-a206-4e48-a4af-3ffcc69247d1",
-        "title": "Data Analyst Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1743830650,
-        "date_posted": 1743830650,
-        "url": "https://careers-werfen.icims.com/jobs/8263/job",
-        "locations": [
-            "Bedford, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Werfen",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Ciena",
         "id": "bdaf23be-7a89-4176-a74a-f8a47f0b88c9",
         "title": "Software Engineer Intern",
@@ -846,25 +829,6 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Pison",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Lennox International",
-        "id": "56fa6427-c146-47f9-8966-14eacc804675",
-        "title": "Software Engineer Co-Op",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743830871,
-        "date_posted": 1743830871,
-        "url": "https://uscareers-lennox.icims.com/jobs/46847/job",
-        "locations": [
-            "Farmers Branch, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Lennox-International",
         "is_visible": true,
         "sponsorship": "Other"
     },
