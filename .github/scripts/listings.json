@@ -67453,7 +67453,7 @@
         "company_name": "NVIDIA",
         "id": "4f2023c2-31bf-46ba-9e3a-64f204324aff",
         "title": "PhD Autonomous Vehicles Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -71947,7 +71947,7 @@
         "company_name": "Lowe's ",
         "id": "e1e47607-61b9-48e6-b92f-38ce9bca8ff2",
         "title": "AI Engineer \u2013 Undergraduate Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -71993,7 +71993,7 @@
         "company_name": "Lowe's ",
         "id": "8d82a907-c565-4f76-9163-59dcfaad9649",
         "title": "Digital Product Management \u2013 Undergraduate Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -72039,7 +72039,7 @@
         "company_name": "Lowe's ",
         "id": "0451d3fe-9c55-4c34-95e3-8c3962b700ac",
         "title": "Software Engineer \u2013 Undergraduate Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -141184,7 +141184,7 @@
         "company_name": "Adobe",
         "id": "bf67b3a9-1eda-46fd-9af5-4647b6c4e788",
         "title": "Intern - Applied Science - Machine Learning Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -143976,7 +143976,7 @@
         "company_name": "Lazard",
         "id": "b0f781ce-6861-4c05-a9dd-5f9368fbe25d",
         "title": "Software Engineer Intern - Data Analytics Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -151270,7 +151270,7 @@
         "company_name": "Sierra Nevada Coporation",
         "id": "92012726-1db6-4024-bb73-002a74a9630a",
         "title": "Business Intelligence Developer Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -158669,7 +158669,7 @@
         "company_name": "Sierra Nevada Coporation",
         "id": "ab5c3871-8314-44f9-b91c-3d526d0839f0",
         "title": "Data Science Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -167396,7 +167396,7 @@
         "company_name": "Symbotic",
         "id": "b0550d41-8b88-4d0d-a2ef-1d2603d29be2",
         "title": "Intern-System Field Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -168292,7 +168292,7 @@
         "company_name": "Leidos",
         "id": "a93702f1-998b-48be-ae34-fe75001e200e",
         "title": "Cyber AI/ML Intern - Cyber AI - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -173514,7 +173514,7 @@
         "company_name": "Waymo",
         "id": "2a0b5a61-7736-47da-a546-07d58b4a7c93",
         "title": "2026 Summer Intern - PhD - Software Engineer - Due ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -173916,7 +173916,7 @@
         "company_name": "Samsung",
         "id": "5c899a43-f53d-4afd-aaef-2cf453a7741c",
         "title": "Intern \u2013 Test AI Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -174672,7 +174672,7 @@
         "company_name": "XPENG Motors",
         "id": "94ae2315-3437-4c38-914d-c51fb043147a",
         "title": "Computer Vision Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -204205,7 +204205,7 @@
         "company_name": "KLA",
         "id": "62b3d1bf-16d7-4b39-9e28-fa5d791584df",
         "title": "Software Intern - IOT",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -208695,7 +208695,7 @@
         "company_name": "Apple",
         "id": "57a196db-b7ba-4bd6-8f44-0fdded4a3336",
         "title": "Siri Speech Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -219453,7 +219453,7 @@
         "company_name": "University Corporation for Atmospheric Research",
         "id": "4ed5bc65-c4aa-4ebb-b324-16784a34fe8b",
         "title": "SIParCS Undergraduate Student Internship - CISL - High Performance Computing",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -225208,7 +225208,7 @@
         "company_name": "CVS Health",
         "id": "50aad116-6b32-4b81-b487-aaa5a9b15fab",
         "title": "Data Science Graduate Internship - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -233154,7 +233154,7 @@
         "company_name": "State Street",
         "id": "ae5efd4c-2b1a-465a-b61a-cc638bad1699",
         "title": "Software Engineer Intern - ML/Data Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -243545,7 +243545,7 @@
         "company_name": "Santander",
         "id": "5c79d5da-1772-47cd-b46a-4380fe62aa29",
         "title": "Deposit Product Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -247041,7 +247041,7 @@
         "company_name": "KLA",
         "id": "2b540120-6984-4078-b3bd-d40bf96f528b",
         "title": "Product Development Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -247782,7 +247782,7 @@
         "company_name": "KLA",
         "id": "ab4c8b22-eb4c-4db4-b864-e00c70e031be",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -247851,7 +247851,7 @@
         "company_name": "Cisco",
         "id": "e0ae2e2d-f58f-4959-aedd-99834d332128",
         "title": "Software Engineer Embedded/Network Systems 1 - Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -248903,7 +248903,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "04d3d73a-2fda-4815-8345-0cabc993b0a0",
         "title": "Software Tools and Assurance Grad Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -249030,7 +249030,7 @@
         "company_name": "Signify",
         "id": "2ddf3143-9c52-4538-8b54-f4a960ddce83",
         "title": "Product Compliance Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -249053,7 +249053,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "0e5f83a1-4929-44bf-bd17-2fbc6adc0abd",
         "title": "Enterprise Performance Modeling and Simulation Graduate Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -258880,6 +258880,111 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/The-New-York-Times",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qorvo",
+        "id": "1eed9aec-c01a-4d91-a985-ea772b0a934a",
+        "title": "Product Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1764510758,
+        "date_posted": 1764510758,
+        "url": "https://careers.qorvo.com/job/Greensboro-Product-Engineering-Intern-NC-27409/1340354900/?ats=successfactors",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Qorvo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CIBC",
+        "id": "89e4e5af-d54b-47e7-95d0-b6fd8cb9f1c9",
+        "title": "2026 Summer Intern - DB/Application Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764503134,
+        "date_posted": 1764503134,
+        "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2026-Summer-Intern---DB-Application-Engineer_2523684",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/CIBC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KLA",
+        "id": "206d8fdd-6362-49af-aad4-76df274db33d",
+        "title": "AI & Process Automation Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1764502525,
+        "date_posted": 1764502525,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/AI---Process-Automation-Intern_2532515",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KLA",
+        "id": "74a19224-7d8f-4862-8cd3-675094b77843",
+        "title": "Software Intern - GPU Optimization",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764502545,
+        "date_posted": 1764502545,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Intern--GPU-optimization-_2532399-2",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NBCUniversal",
+        "id": "20d5cfa5-f533-4fe0-bc51-d80119d453c7",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764618098,
+        "date_posted": 1764618098,
+        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000096445265",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/NBCUniversal",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
