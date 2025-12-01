@@ -135041,7 +135041,7 @@
         "company_name": "General Motors",
         "id": "6ed05831-d47f-40be-bb5e-1e2689b9af30",
         "title": "Intern - Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -233940,7 +233940,7 @@
         "company_name": "Boston Scientific",
         "id": "254d154a-3a11-4af9-8cd4-9ff80746965b",
         "title": "Peripheral Interventions R&D Intern - Interns/Graduates - Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
