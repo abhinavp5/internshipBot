@@ -2576,7 +2576,7 @@
 <td>Engineering Intern</td>
 <td>Mesa, AZ</td>
 <td>🔒</td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Cirrus-Logic?utm_source=GHList&utm_medium=company">Cirrus Logic</a></strong></td>
@@ -5603,7 +5603,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Electronic-Arts?utm_source=GHList&utm_medium=company">Electronic Arts</a></strong></td>
 <td>Software Engineer Intern - Recommendation Systems</td>
 <td>San Carlos, CA</td>
 <td>🔒</td>
@@ -7157,7 +7157,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/CIBC?utm_source=GHList&utm_medium=company">CIBC</a></strong></td>
+<td>↳</td>
 <td>Application/Software Developer Co-op - Capital Markets Technology</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
@@ -10475,7 +10475,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Epic-Games?utm_source=GHList&utm_medium=company">Epic Games</a></strong></td>
+<td>↳</td>
 <td>Game Services Engineer Intern</td>
 <td>Morrisville, NC</td>
 <td>🔒</td>
@@ -16991,7 +16991,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/LPL-Financial-Holdings?utm_source=GHList&utm_medium=company">LPL Financial Holdings</a></strong></td>
+<td>↳</td>
 <td>Internship - Technology - Program Management - Research Team</td>
 <td>Fort Mill, SC</br>San Diego, CA</td>
 <td>🔒</td>
@@ -22864,7 +22864,7 @@
 <td>Global Derivatives Intern - Options</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>29d</td>
+<td>30d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Takeda?utm_source=GHList&utm_medium=company">Takeda</a></strong></td>
@@ -27417,7 +27417,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Oshkosh?utm_source=GHList&utm_medium=company">Oshkosh</a></strong></td>
+<td>↳</td>
 <td>Data Engineer Intern - Advanced Analytics 🎓</td>
 <td>Oshkosh, WI</td>
 <td>🔒</td>
@@ -31008,7 +31008,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Waymo?utm_source=GHList&utm_medium=company">Waymo</a></strong></td>
+<td>↳</td>
 <td>2026 Summer Intern - BS/MS - Test Engineering - Motion Control</td>
 <td>SF</td>
 <td>🔒</td>
@@ -36110,7 +36110,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Fidelity?utm_source=GHList&utm_medium=company">Fidelity Investments</a></strong></td>
+<td>↳</td>
 <td>Quantitative Research Intern-Sustainable Investing Team 🎓</td>
 <td>Boston, MA</td>
 <td>🔒</td>
@@ -36418,7 +36418,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/PIMCO?utm_source=GHList&utm_medium=company">PIMCO</a></strong></td>
+<td>↳</td>
 <td>PhD Summer Intern - Portfolio Management - Quantitative Research Analyst 🎓</td>
 <td>Newport Beach, CA</td>
 <td>🔒</td>
@@ -36796,7 +36796,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company">Wells Fargo</a></strong></td>
 <td>2026 Quantitative Analytics Summer Internship Risk Analytics and Decision Science - PhD - Early Careers 🎓</td>
 <td>Charlotte, NC</td>
 <td>🔒</td>
@@ -38324,7 +38324,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Waymo?utm_source=GHList&utm_medium=company">Waymo</a></strong></td>
+<td>↳</td>
 <td>Intern - Release Evaluation 🎓</td>
 <td>SF</td>
 <td><div align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=7263750&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/eb9578d6-8646-42ee-a692-e5281eb8da56?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
