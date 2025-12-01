@@ -27910,7 +27910,7 @@
         "company_name": "Jump Trading",
         "id": "00edbd61-2c1c-45db-bcf5-242ee5b5718c",
         "title": "Campus Data Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -39291,7 +39291,7 @@
         "company_name": "Adobe",
         "id": "f65a97ce-acdb-4f60-a4e0-a4a7b7a66fcb",
         "title": "AI/ML Intern - Machine Learning Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -67213,7 +67213,7 @@
         "company_name": "NVIDIA",
         "id": "80d4362c-c9ea-4e6c-9f9b-109740bd3291",
         "title": "Hardware Verification",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -67238,7 +67238,7 @@
         "company_name": "NVIDIA",
         "id": "7c49d73a-eb0a-42da-ab00-413a3bdbd7f3",
         "title": "NVIDIA Internships: Hardware Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -82580,7 +82580,7 @@
         "company_name": "Genuine Parts Company",
         "id": "a54034e6-028e-443c-8f8f-b78970eb167f",
         "title": "Web Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -123996,7 +123996,7 @@
         "company_name": "Adobe",
         "id": "f354f30b-fb00-4fd5-b41d-93958a339309",
         "title": "2026 Intern - Research Scientist/Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -149891,7 +149891,7 @@
         "company_name": "ibotta",
         "id": "fccfd290-4453-476d-8fab-cf99ef0dfed1",
         "title": "Fraud Analytics Intern - Fraud Analytics & Operations",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -150309,7 +150309,7 @@
         "company_name": "Motorola",
         "id": "45072c74-5074-4fa6-b28a-f2b6d48ea65a",
         "title": "Software Engineering Intern - Unified Communications",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -154758,7 +154758,7 @@
         "company_name": "Philips",
         "id": "5a04fbad-a684-477f-94f6-1c96e1779cda",
         "title": "Co-op \u2013 Software Engineering - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -161891,7 +161891,7 @@
         "company_name": "Philips",
         "id": "df0d88c4-b6c4-4f1d-9b9c-e257caa3e1e5",
         "title": "Intern-Embedded Software Engineering - Embedded Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -173868,7 +173868,7 @@
         "company_name": "Adobe",
         "id": "12541d33-0758-4ae0-b538-afd805e154dc",
         "title": "2026 Intern - Data Scientist - Predictive Finance",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -177248,7 +177248,7 @@
         "company_name": "Tencent",
         "id": "bd104055-1b8d-4c45-bcd8-d047e7c64feb",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -192352,7 +192352,7 @@
         "company_name": "Thales",
         "id": "9535cf08-857e-4010-bf44-c665bcd8d119",
         "title": "2026 Hardware Engineering Apprentice \u2013 Level 6 Electro-Mechanical Degree Apprenticeship",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -195130,7 +195130,7 @@
         "company_name": "W.R. Berkley",
         "id": "56a70448-70c6-45fe-b9bb-d9c1678e7905",
         "title": "Data Analyst Intern - Power BI - SQL",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -198548,7 +198548,7 @@
         "company_name": "Kensho",
         "id": "944a9800-9b16-4def-8466-60f0965711dc",
         "title": "Software Engineer Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -199128,7 +199128,7 @@
         "company_name": "Cognex",
         "id": "9dcf1f74-1625-4add-8408-78dffced3d47",
         "title": "Core Vision Intern - Vision Algorithms",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -211465,7 +211465,7 @@
         "company_name": "J.M. Smucker",
         "id": "76aea303-ca69-43e3-9b45-f81f9ca6d813",
         "title": "Business Intelligence Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -212089,7 +212089,7 @@
         "company_name": "NBCUniversal",
         "id": "bc4075ce-65c8-4e46-b648-5fb77f8d33d3",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -225165,7 +225165,7 @@
         "company_name": "Motorola",
         "id": "4a91a312-2e73-4ea3-80c6-3deda02aba72",
         "title": "Software Engineering Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -233887,7 +233887,7 @@
         "company_name": "Thales",
         "id": "286c41eb-e5e8-44ee-becf-7abc8b6cdbb7",
         "title": "2026 Manufacturing Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -234894,7 +234894,7 @@
         "company_name": "ASM Global",
         "id": "dcfb7425-efa2-4e02-be38-07a823bd678f",
         "title": "Hospitality and Merchandise Insights Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -240632,7 +240632,7 @@
         "company_name": "Tencent",
         "id": "033c2e1a-5207-4f1f-babd-23babb0ca49d",
         "title": "Cloud Media Services Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -244947,7 +244947,7 @@
         "company_name": "Red Bull",
         "id": "959c4d01-1b50-4bf5-8994-4c8f73221afd",
         "title": "2026 Internship - Spring - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -248558,7 +248558,7 @@
         "company_name": "Santander",
         "id": "068e3187-f05a-425c-a9d1-f236982a4045",
         "title": "Digital Products Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -251329,7 +251329,7 @@
         "company_name": "KBR",
         "id": "dd5b3a2c-6e13-4d2f-9fa0-cc28576d7e6a",
         "title": "Reverse Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -254520,7 +254520,7 @@
         "company_name": "NVIDIA",
         "id": "8d212191-0046-4565-b5b3-0ba39de31d55",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
