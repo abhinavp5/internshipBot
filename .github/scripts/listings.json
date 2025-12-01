@@ -134,25 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Diligent Corporation",
-        "id": "a69a4953-f6a4-41aa-b096-59cef8fb1b60",
-        "title": "Data Journalist/Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743832105,
-        "date_posted": 1743832105,
-        "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/5479175004",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Diligent-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Webster Bank",
         "id": "47923278-ed0e-4a6f-b049-60d2b4d5216c",
         "title": "Summer AI Intern - Cio",
@@ -260,64 +241,6 @@
             "LA"
         ],
         "company_url": "https://simplify.jobs/c/Centerfield",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Ciena",
-        "id": "bdaf23be-7a89-4176-a74a-f8a47f0b88c9",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743832439,
-        "date_posted": 1743832439,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-US/Software-Engineer-Intern--Summer-2025-_R027682",
-        "locations": [
-            "Remote in USA",
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Procter & Gamble (P&G)",
-        "id": "dc376080-a94f-4db4-b71f-c4efbef81cea",
-        "title": "Digital Technologies Internship/Co-op",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1743832134,
-        "date_posted": 1743832134,
-        "url": "https://pg.wd5.myworkdayjobs.com/1000/job/TORONTO-GO/Digital-Technologies-Internship-Co-op-Fall-2025---stage-coop-en-technologies-numriques-automne-2025_R000129158",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Nokia",
-        "id": "a20ac0b7-f489-4752-a723-876700e8bbd6",
-        "title": "Software Design Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1743832870,
-        "date_posted": 1743832870,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/19225",
-        "locations": [
-            "Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -774,25 +697,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Globalization-Partners",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Dusty Robotics",
-        "id": "e73a2f66-31f7-46a2-afe8-6d696337480f",
-        "title": "Software Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743832023,
-        "date_posted": 1743832023,
-        "url": "https://boards.greenhouse.io/dustyrobotics/jobs/6533357003",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/DustyRobotics",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -258856,6 +258760,27 @@
             "Sunnyvale, CA"
         ],
         "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KBR",
+        "id": "fdb033ae-3516-431d-928b-6eead2f8c3b0",
+        "title": "Software Application Developer Intern for GOES-R Series Satellites",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1764568592,
+        "date_posted": 1764568592,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Silver-Spring-Maryland/Software-Application-Developer-Intern-for-GOES-R-Series-Satellites_R2115543",
+        "locations": [
+            "Silver Spring, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/KBR",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
