@@ -134,63 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Seurat Technologies",
-        "id": "0beb0a4d-374e-4fb9-bd1d-87ec21433e94",
-        "title": "Data & AI/ML Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743839969,
-        "date_posted": 1743839969,
-        "url": "https://job-boards.greenhouse.io/seurat/jobs/4549079005",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Seurat-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Leidos",
-        "id": "46ed6787-41e0-4771-be49-d481becfc49c",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743839539,
-        "date_posted": 1743839539,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Trenton-NJ/Software-Engineer-Intern_R-00156524",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Centerfield",
-        "id": "cfe76032-ffbd-4daa-9d46-c89f2c100b8e",
-        "title": "Data Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743839485,
-        "date_posted": 1743839485,
-        "url": "https://jobs.lever.co/centerfield/beb953a2-bb6c-433b-88ed-c720c08780fb/apply",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Centerfield",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Leidos",
         "id": "b8395c0d-9ab8-4f28-b612-b4172f50f742",
         "title": "Aviation Software Engineer Intern",
@@ -826,25 +769,6 @@
             "Tempe, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Uhaul",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Royal Bank of Canada",
-        "id": "127a34bb-feab-4de9-838a-17a483ab588b",
-        "title": "Relationship Manager Commercial Markets Intern",
-        "active": false,
-        "terms": [
-            "Spring 2025"
-        ],
-        "date_updated": 1743838920,
-        "date_posted": 1743838920,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/BRIDGEWATER-Nova-Scotia-Canada/Relationship-Manager-Commercial-Markets-Intern_R-0000121763",
-        "locations": [
-            "Lunenburg, NS, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -28264,7 +28188,7 @@
         "company_name": "M&T Bank",
         "id": "9551aba3-b479-4be7-ac1c-b13c55c7e694",
         "title": "Technology Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -103595,7 +103519,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ad8b1567-30c9-4093-b10b-395eb58e0e33",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -169166,7 +169090,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "e98d2ae7-4a5c-4a8d-93c0-06ab3c8d225f",
         "title": "Data Science Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -169444,7 +169368,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "fc202f9c-55e4-4730-b538-4c12c35c1b98",
         "title": "Software Developer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -169769,7 +169693,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "b6c9b12c-91ca-4c05-aec8-48f75605ec6f",
         "title": "Data and Machine Learning Intern - Artificial Intelligence",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -219003,7 +218927,7 @@
         "company_name": "American Enterprise Institute",
         "id": "94b1b0c1-86b7-4a93-86d0-697898297eab",
         "title": "Housing Center Internship - Housing Center",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -219792,7 +219716,7 @@
         "company_name": "CIBC",
         "id": "552dd713-5e91-44f7-af39-b10b0df687ec",
         "title": "2026 Summer Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -220950,7 +220874,7 @@
         "company_name": "Lennox International",
         "id": "590fee5e-0e83-41b2-8f8d-216a33ef51df",
         "title": "Engineering Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -231440,7 +231364,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "7615cfa2-56ef-49e0-8817-60db45705e9f",
         "title": "Engineering Intern - Software and Systems Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -233258,7 +233182,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "811bb9d8-8e36-4e42-be91-4e9cb6b74c2e",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -256488,7 +256412,7 @@
         "company_name": "BMO ",
         "id": "014dc63f-8bc4-4782-94f9-0d7430394b43",
         "title": "AI Developer \u2013 Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
