@@ -78309,7 +78309,7 @@
         "company_name": "S&P Global ",
         "id": "6a6d90bf-213c-4030-a0b6-74ec3192224a",
         "title": "Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -87588,7 +87588,7 @@
         "company_name": "Marvell",
         "id": "86037ae8-2dc6-4086-8507-7f05cdd324f2",
         "title": "Package Engineering Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -104493,7 +104493,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "32fc1129-317d-499e-b6c3-5ebb215eb592",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -122262,7 +122262,7 @@
         "company_name": "CAE",
         "id": "efa65a8c-d804-442f-9165-003d9fe830c6",
         "title": "Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -124385,7 +124385,7 @@
         "company_name": "Brevan Howard",
         "id": "6eba9337-c06e-4d91-8e8a-00ee119be233",
         "title": "2026 Summer Internship Programme - Artificial Intelligence & Quant",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -132551,7 +132551,7 @@
         "company_name": "U.S. Venture",
         "id": "0954ca2d-86ad-4393-84cd-706e290e51f9",
         "title": "Software Development Intern - Breakthrough",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -168386,7 +168386,7 @@
         "company_name": "NatWest Group",
         "id": "6499446b-d63c-4cb1-b421-fe49e638a813",
         "title": "Engineering Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -198999,7 +198999,7 @@
         "company_name": "PTC",
         "id": "31a1c7ab-099c-4d45-81c3-28f57eeba57f",
         "title": "Web Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -205719,7 +205719,7 @@
         "company_name": "Qorvo",
         "id": "181caf7b-40b4-4c87-9f5b-4cd71545bc38",
         "title": "Data Integrity & Process Improvement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -217889,7 +217889,7 @@
         "company_name": "Waystar",
         "id": "61df5c32-4411-44f5-944c-7eacf6644404",
         "title": "Application Engineer: Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -219345,7 +219345,7 @@
         "company_name": "Shure",
         "id": "f0d5af3f-ab4d-4767-9b11-843f39e6945f",
         "title": "Digital Signal Processing Intern - Digital Signal Processing - Machine Learning",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -219791,7 +219791,7 @@
         "company_name": "3M",
         "id": "93705a25-d1a6-4638-93c4-415a99019415",
         "title": "Internship \u2013 2026 Statistics Intern - Transportation & Electronics Business Group",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -220497,7 +220497,7 @@
         "company_name": "American Enterprise Institute",
         "id": "899e3af7-b2d9-4974-acf0-597d80f7d0a5",
         "title": "Spring Intern: Data Analysis and Education Policy",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -220737,7 +220737,7 @@
         "company_name": "Lennox International",
         "id": "590fee5e-0e83-41b2-8f8d-216a33ef51df",
         "title": "Engineering Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -226251,7 +226251,7 @@
         "company_name": "Cook Group",
         "id": "129f62f7-ecdc-47b0-8945-414033024e52",
         "title": "Intern \u2013 Artificial Intelligence & Innovation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -244294,7 +244294,7 @@
         "company_name": "Rockwell Automation",
         "id": "4de9a532-df2f-4b46-b841-1d2bcf48884f",
         "title": "Co-op \u2013 Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -249897,7 +249897,7 @@
         "company_name": "Point72",
         "id": "3cb07455-ed02-4d0b-85ca-4f7dcd86fc6b",
         "title": "Point72 Academy Investment Analyst Intern Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -252987,7 +252987,7 @@
         "company_name": "Parsons",
         "id": "8b39928a-cf99-4ff8-a4a9-c6f129c00fb0",
         "title": "Computer Engineer Internship - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -257233,7 +257233,7 @@
         "company_name": "Daikin Applied",
         "id": "86eb31c4-6e6c-4647-80e3-ecbd835252c8",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -258773,6 +258773,50 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/HERE-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apex Fintech Solutions",
+        "id": "9d3fed51-680c-43ea-973d-8580b15701bd",
+        "title": "Software Engineer Intern - Accounts",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1764608882,
+        "date_posted": 1764608882,
+        "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/SWE-Intern--Accounts-_JR103944",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apex-Fintech-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Apex Fintech Solutions",
+        "id": "1ec89d97-6eda-4adf-a79f-7a35e2b07fd1",
+        "title": "Product Management Intern - Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764608883,
+        "date_posted": 1764608883,
+        "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Product-Management-Intern--Software-Engineering-_JR103955",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apex-Fintech-Solutions",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
