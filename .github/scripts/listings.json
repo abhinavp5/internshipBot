@@ -111831,7 +111831,7 @@
         "company_name": "Wind River",
         "id": "7507eed2-fbd6-4103-9dc9-b20e51874c60",
         "title": "Data Platform Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -252744,7 +252744,7 @@
         "company_name": "ASML",
         "id": "93893b12-59bc-4a57-a8a8-bb6f35f87283",
         "title": "Intern - Data Science and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
