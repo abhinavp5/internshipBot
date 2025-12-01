@@ -134,25 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Teledyne",
-        "id": "8dba16de-1268-42da-a4ef-7d8bbca5f9c3",
-        "title": "Technical Intern - Summer",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743857969,
-        "date_posted": 1743857969,
-        "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Durham-NC-TDY/Technical-Intern--Summer-_REQ28074-1",
-        "locations": [
-            "Durham, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Northrop Grumman",
         "id": "65c1e082-264e-40e4-a22a-32ef1d5406ef",
         "title": "2025 Fall Co-op Software Engineer Intern",
@@ -227590,7 +227571,7 @@
         "company_name": "Beyond New Horizons",
         "id": "d3c49f61-5d04-4fe2-b12b-a939d199d29b",
         "title": "Engineering & Computer Science Summer 2026 Internships",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -233144,7 +233125,7 @@
         "company_name": "Eaton Corporation",
         "id": "de0a4dcf-175e-4484-a91c-0a654210bc0a",
         "title": "Product Development Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
