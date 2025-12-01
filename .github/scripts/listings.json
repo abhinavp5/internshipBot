@@ -45823,29 +45823,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Other",
-        "company_name": "Vertex Pharmaceuticals",
-        "id": "df84db10-c04f-434f-a956-d0056f137c84",
-        "title": "Vertex Summer 2025 Intern - Conferencing and Event Support Technician",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743847282,
-        "date_posted": 1743847282,
-        "url": "https://vrtx.wd5.myworkdayjobs.com/Vertex_Careers/job/Boston-MA/Vertex-Summer-2025-Intern--Conferencing-and-Event-Support-Technician--Boston--MA-_REQ-24968-1",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertex-Pharmaceuticals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "8e2164a4-b507-4823-ac6e-e9a9cca22b4b",
@@ -64419,7 +64396,7 @@
         "company_name": "Edison International",
         "id": "2fb469a9-bc64-44aa-aa98-670f538729e4",
         "title": "2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -65271,7 +65248,7 @@
         "company_name": "Edison International",
         "id": "80460397-ebd0-4dd3-b2ab-ea852aa33164",
         "title": "2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -65295,7 +65272,7 @@
         "company_name": "Edison International",
         "id": "eceecb14-2a94-413b-8c0b-905c57fd5006",
         "title": "2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -144612,7 +144589,7 @@
         "company_name": "Lazard",
         "id": "17b2b25d-d99c-4ebd-829a-8e99bf954598",
         "title": "AI Engineer Intern - Data Analytics Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -158882,7 +158859,7 @@
         "company_name": "Edison International",
         "id": "557b5f3a-aa05-4666-bbcf-38cc1a0155b1",
         "title": "Intern - Data Analytics - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -161322,7 +161299,7 @@
         "company_name": "Edison International",
         "id": "62c14526-2180-4c19-9375-000bee6b5ccd",
         "title": "Intern - Data Analytics/Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -170164,7 +170141,7 @@
         "company_name": "Edison International",
         "id": "81e23456-f866-446a-b1ca-a56492c9f7ce",
         "title": "Intern - Data Analytics/Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -190072,7 +190049,7 @@
         "company_name": "Boston Scientific",
         "id": "c6194eff-baa1-4a73-abe4-0c5a5609ef4c",
         "title": "Research Scientist Intern - Interns/Graduates - Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -212939,7 +212916,7 @@
         "company_name": "Rolls Royce",
         "id": "9f74087b-1f60-46ea-abbe-8cac2d1c736e",
         "title": "Accessories Internship - Placement Year",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -213863,7 +213840,7 @@
         "company_name": "GM financial",
         "id": "ca24aca0-189f-419c-9efa-c0df6c53c8db",
         "title": "Intern \u2013 Pricing Analytics & Product Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -232711,7 +232688,7 @@
         "company_name": "Edison International",
         "id": "0cd93612-3e79-4dbc-ac33-aff9e72a11b1",
         "title": "Intern - All Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -235181,7 +235158,7 @@
         "company_name": "Edison International",
         "id": "6a827e74-374f-42d6-9849-15b9d767b817",
         "title": "Intern - All Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -241052,7 +241029,7 @@
         "company_name": "Edison International",
         "id": "0407bd73-caeb-4e44-aeee-086733b412e9",
         "title": "Intern - All Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -241139,7 +241116,7 @@
         "company_name": "Eaton Corporation",
         "id": "07abe61a-a434-40f9-b557-0f9b2f1a8608",
         "title": "R&D Engineering Intern - Research & Development Engineering - ES AMER ARS",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -258650,6 +258627,70 @@
             "Silver Spring, MD"
         ],
         "company_url": "https://simplify.jobs/c/KBR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Qualcomm",
+        "id": "00bda23f-8518-42fd-8c52-60304335668d",
+        "title": "FY26 Intern \u2013 Intern Power Platform/AI Engineer - Cambridge - 6 months internship location",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1764583288,
+        "date_posted": 1762539041,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446715369107",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northwood Space",
+        "id": "322ba09a-1ac2-4aac-a31f-a939fbf80172",
+        "title": "Site Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764582903,
+        "date_posted": 1761878932,
+        "url": "https://jobs.ashbyhq.com/NorthwoodSpace/3fab558c-7b20-4bd9-850a-374cc1ac3d44/application",
+        "locations": [
+            "Carson, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwood-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Trane Technologies",
+        "id": "89141c06-d14e-49c6-a6e5-0decb67fae20",
+        "title": "Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1764581949,
+        "date_posted": 1757985308,
+        "url": "https://careers.tranetechnologies.com/global/en/job/2504004",
+        "locations": [
+            "Winona, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Trane-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
