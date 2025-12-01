@@ -133,25 +133,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Arrowstreet Capital",
-        "id": "cd153186-65a5-4fa4-a22f-97904d8897ed",
-        "title": "Compute Platform Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1743868617,
-        "date_posted": 1743868617,
-        "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Compute-Platform-Software-Engineer-Intern--Summer-2025_R1286",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Arrowstreet-Capital",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1743915278,
         "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Ontario-Toronto/Intern---Technical_R25895",
         "company_name": "SS&C Technologies",
@@ -161651,7 +161632,7 @@
         "company_name": "Steel Dynamics",
         "id": "46a2807b-d843-4d99-b217-ab213985b3bb",
         "title": "Software Development Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -168782,7 +168763,7 @@
         "company_name": "Radiance Technologies",
         "id": "7f7dbff7-4fbf-4cf1-9ec4-8660e5ad9951",
         "title": "Software Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -169157,7 +169138,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "5aaea3e0-eb7b-4548-8be4-217d0156b004",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -169552,7 +169533,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "cc0f0c25-47c1-4529-921c-312e616545cf",
         "title": "Front-End Engineer Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -212066,7 +212047,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3be76233-c3da-4f9f-a8a7-f8884bde94e7",
         "title": "Trading Operations Co-op with Drexel University: Spring/Summer a Round",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -224298,7 +224279,7 @@
         "company_name": "Ramboll",
         "id": "e92a667a-d41c-495c-b1f4-4ce7fe674197",
         "title": "Intern \u2013 Air Quality",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -245873,7 +245854,7 @@
         "company_name": "Moog ",
         "id": "998d7eec-0eca-4cc8-87ab-25c2c4c982cf",
         "title": "Intern IT Computer Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -258642,5 +258623,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1764604736,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/virturecruitinghidden/jobs/8314488002",
+        "company_name": "Virtu Financial",
+        "title": "Internship - Low Latency Software Engineer",
+        "locations": [
+            "Austin, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Quantitative Finance",
+        "source": "angie-hue",
+        "id": "e3c092ba-0df0-448d-bb53-ee47883f2be7",
+        "date_posted": 1764604736,
+        "company_url": "",
+        "is_visible": true
     }
 ]
