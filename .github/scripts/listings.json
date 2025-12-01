@@ -134,25 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Northrop Grumman",
-        "id": "65c1e082-264e-40e4-a22a-32ef1d5406ef",
-        "title": "2025 Fall Co-op Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1743858897,
-        "date_posted": 1743858897,
-        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2025-Fall-Co-op-Software-Engineer-Intern---Chantilly-VA_R10191719",
-        "locations": [
-            "Chantilly, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Arrowstreet Capital",
         "id": "cd153186-65a5-4fa4-a22f-97904d8897ed",
         "title": "Compute Platform Software Engineer Intern",
@@ -35967,7 +35948,7 @@
         "company_name": "Ameren",
         "id": "e06f01ed-c41a-417d-8ef8-1277023d153c",
         "title": "Application Development Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Summer 2025",
@@ -127744,7 +127725,7 @@
         "company_name": "RSM",
         "id": "26746dc0-b59f-4adb-971c-4d72a82808eb",
         "title": "Microsoft Business Central Associate - Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -178484,9 +178465,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1760742871,
+        "date_updated": 1764596339,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -190869,9 +190850,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1761948944,
+        "date_updated": 1764596339,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -231898,7 +231879,7 @@
         "company_name": "NBCUniversal",
         "id": "756fd188-c9b7-4c71-abf9-71117c4153ea",
         "title": "Universal Filmed Entertainment Group Film Technology AV/AR Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -251535,7 +251516,7 @@
         "company_name": "FactSet",
         "id": "8bb08322-e249-4882-9f72-7dfa02bdff89",
         "title": "Product Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -252165,7 +252146,7 @@
         "company_name": "Red Bull",
         "id": "d42e646d-2105-480c-b742-dee2bdb28ab9",
         "title": "Insights Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -252186,7 +252167,7 @@
         "company_name": "NBCUniversal",
         "id": "619672e2-80ad-477c-b8a2-61af9041315c",
         "title": "Universal Filmed Entertainment Group Film Technology AV/AR Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -252679,7 +252660,7 @@
         "company_name": "Chanel",
         "id": "a07d463c-df1f-46af-ad75-70a5f2d43099",
         "title": "People Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -254965,9 +254946,9 @@
         "degrees": []
     },
     {
-        "date_updated": 1764174191,
+        "date_updated": 1764596339,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -257464,7 +257445,7 @@
         "company_name": "Bass Pro Shops",
         "id": "55c470be-4c8f-4950-b2bb-c8eab2ef97eb",
         "title": "IT Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
