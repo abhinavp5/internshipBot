@@ -23950,7 +23950,7 @@
         "company_name": "Tenstorrent",
         "id": "f4ab5c55-fdaa-4b85-bae6-d22f9b18e7ce",
         "title": "Physical Design for Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -48314,7 +48314,7 @@
         "company_name": "Fujitsu",
         "id": "8c1d8602-03c2-4a60-8012-ef6d67dbc156",
         "title": "Ph.D. Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -123452,7 +123452,7 @@
         "company_name": "Citadel Securities",
         "id": "aeb731f5-2ac3-477e-921b-74a84adcbdb6",
         "title": "Quantitative Trading \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -206806,7 +206806,7 @@
         "company_name": "Skydio",
         "id": "dd9dc4d4-36a9-4a66-8b4f-bcd6309f2df0",
         "title": "Cloud Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -223101,7 +223101,7 @@
         "company_name": "Leidos",
         "id": "d8c8167d-da36-4509-9c68-041f87570e56",
         "title": "Formal Methods Research Intern - Remote - Onsite - Arlington VA",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -250213,7 +250213,7 @@
         "company_name": "Fulton Bank",
         "id": "8b1d2f6c-7126-4ca5-a508-7b98799fcc10",
         "title": "Intern \u2013 Commercial Strategy & Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -253417,7 +253417,7 @@
         "company_name": "Zoom",
         "id": "20128110-990e-42d3-a39e-b4cafed24c95",
         "title": "AI Research Intern - GenAI & Prototyping",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -257296,7 +257296,7 @@
         "company_name": "Daikin Applied",
         "id": "586460c8-4cbe-4f63-9ba3-94f925c1f37a",
         "title": "Controls Application Engineering Intern - Sales",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
