@@ -22028,7 +22028,7 @@
         "company_name": "Citadel Securities",
         "id": "16352480-c9f0-45d4-9945-7ce4aba872fd",
         "title": "Credit & Rates Rotational Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -155197,7 +155197,7 @@
         "company_name": "State of Wisconsin Investment Board",
         "id": "5d163e58-1ef5-4620-b2db-0cd22b36ab34",
         "title": "Data Science Intern - Data Strategy & Information Delivery Division",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -224372,7 +224372,7 @@
         "company_name": "Kabam",
         "id": "77f593f9-ed6f-43b6-8935-2a724294581c",
         "title": "Operations Product Manager Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -260091,6 +260091,121 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TransUnion",
+        "id": "2ae511d6-d808-419c-9db1-0f70e9af5280",
+        "title": "Data Science & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764653022,
+        "date_posted": 1764653022,
+        "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Science---Analytics-Internship---Summer-2026_19038170",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/TransUnion",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "e711d59e-ae19-48d5-9148-5e7038a60393",
+        "title": "Software Engineering Intern - Circuit Simulation infrastructure",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1764652409,
+        "date_posted": 1764652409,
+        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineering-Intern---Circuit-Simulation-infrastructure_R51758",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sony",
+        "id": "6fac482f-97c8-49bc-94b9-7088623f5f3f",
+        "title": "Engineering Intern - AI Ethics",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1764652342,
+        "date_posted": 1764652342,
+        "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---California/Engineering-Intern--AI-Ethics-_JR-118474",
+        "locations": [
+            "California",
+            "Washington, DC",
+            "LA",
+            "Texas",
+            "San Jose, CA",
+            "Newark, NJ",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Daikin Applied",
+        "id": "64ff76af-138a-4c64-bf43-6ea642058c4d",
+        "title": "Energy Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764652327,
+        "date_posted": 1764652327,
+        "url": "https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Tampa-FL-33619/Energy-Analyst-Intern_R000297-1",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Daikin-Applied",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SS&C",
+        "id": "0589d031-9b0a-4c2d-8a05-6a36fc6b8fbc",
+        "title": "Intern Technical",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1763887918,
+        "date_posted": 1763887918,
+        "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Ontario-Toronto/Intern---Technical_R25895",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/SSC",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
