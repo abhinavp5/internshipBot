@@ -79347,7 +79347,7 @@
         "company_name": "AbbVie",
         "id": "8cc5a698-cf49-433f-9090-6ecb319ff164",
         "title": "Graph Machine Learning Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -99369,7 +99369,7 @@
         "company_name": "Wind River",
         "id": "550251b8-5b5c-4a4b-80cd-044aacc65797",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -127252,7 +127252,7 @@
         "company_name": "ServiceNow",
         "id": "728ee2d5-a9c7-4092-949c-661263608ba7",
         "title": "ServiceNow Security Organization - AI for Security Operations Engineering Intern - Sso",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -130377,7 +130377,7 @@
         "company_name": "Berkshire Grey",
         "id": "bd965732-7f1b-414b-9810-083309d9e010",
         "title": "Robot Learning Research and Development Intern/Co-op - Research & Advanced Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -138451,7 +138451,7 @@
         "company_name": "ServiceNow",
         "id": "96fa47c2-9018-4be3-94f9-8540b4e713ed",
         "title": "AI for Security Operations Engineering Intern - Platform Security Innovation Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -220913,7 +220913,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "17cb828d-c6e4-4e58-b325-7391b925a196",
         "title": "Tax LLM Associate - Winter 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -231804,7 +231804,7 @@
         "company_name": "NBCUniversal",
         "id": "756fd188-c9b7-4c71-abf9-71117c4153ea",
         "title": "Universal Filmed Entertainment Group Film Technology AV/AR Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -231825,7 +231825,7 @@
         "company_name": "NBCUniversal",
         "id": "37bcb49a-d783-4f1c-bf4c-96248f239d30",
         "title": "Sales and Data Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -235337,7 +235337,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Visa",
-        "id": "a010f1f2-6a04-4d2b-8281-df27a33235b0",
+        "id": "0ed6cb36-9c49-457e-987a-0bd0bf11e256",
         "title": "Software Engineer Intern",
         "active": true,
         "terms": [
@@ -237178,7 +237178,7 @@
         "company_name": "Airbus",
         "id": "9bdfbbfc-8132-4664-9b16-4f12a457a76a",
         "title": "Space Software Engineering Degree Apprenticeship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -239103,7 +239103,7 @@
         "company_name": "NBCUniversal",
         "id": "a1ba9aea-4f15-4174-be16-d2c2a68a9928",
         "title": "NBC Local Boston Sales & Data Internships - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -240880,7 +240880,7 @@
         "company_name": "Amazon",
         "id": "e10204d1-1212-40a7-b523-0c30f7f6902f",
         "title": "Digital Product Manager Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -241072,7 +241072,7 @@
         "company_name": "Veolia",
         "id": "ff94c346-0be5-4afa-80a3-d5d3c9695860",
         "title": "Engineering/Instrumentation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -242317,7 +242317,7 @@
         "company_name": "AbbVie",
         "id": "42abcc91-b338-4b13-9ab2-00c4df3422e0",
         "title": "2026 Graph Machine Learning Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -246643,7 +246643,7 @@
         "company_name": "Veolia",
         "id": "b9591b92-d3a7-49b4-a30a-4a7a7e81a8ad",
         "title": "Engineering Instrumentation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -252092,7 +252092,7 @@
         "company_name": "NBCUniversal",
         "id": "619672e2-80ad-477c-b8a2-61af9041315c",
         "title": "Universal Filmed Entertainment Group Film Technology AV/AR Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
