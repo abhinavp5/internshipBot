@@ -82570,7 +82570,7 @@
         "company_name": "Solidigm",
         "id": "7e37923b-7955-4fe4-91f6-d5a8b32eca2d",
         "title": "2026 Undergrad Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -180472,7 +180472,7 @@
         "company_name": "Solidigm",
         "id": "107bfc32-911d-4af7-864d-280513dbd04d",
         "title": "Undergraduate Engineering Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -241051,7 +241051,7 @@
         "company_name": "Amazon",
         "id": "2edd84d8-f216-4722-8633-14dde0b27af4",
         "title": "Software Development Engineer Apprentice - Month Fixed Term Contract",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -256923,7 +256923,7 @@
         "company_name": "T-Mobile",
         "id": "61d563ea-f9a1-4bd3-bc18-2bf60734d99e",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -259704,7 +259704,7 @@
         "company_name": "CLEAResult",
         "id": "e7aa91ca-a6d9-4445-9588-9365a8527896",
         "title": "Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
