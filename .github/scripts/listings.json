@@ -260445,5 +260445,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1764679929,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://smbc.recsolu.com/external/requisitions/cvDDu80WqB4iAQYvnDFZwA",
+        "company_name": "Sumitomo Mitsui Banking Corporation",
+        "title": "Fixed Income Systematic Trading Strats",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Quantitative Finance",
+        "source": "adamthorne27",
+        "id": "7ec94309-1528-4767-8498-2536ec23b035",
+        "date_posted": 1764679929,
+        "company_url": "",
+        "is_visible": true
     }
 ]
