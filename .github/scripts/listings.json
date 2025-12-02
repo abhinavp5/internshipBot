@@ -78381,7 +78381,7 @@
         "company_name": "KeyCorp",
         "id": "56b245b7-bcef-451c-92f9-c4c72f0ee985",
         "title": "2026 Summer Marketing Analytics Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -156869,7 +156869,7 @@
         "company_name": "Arch Capital Group",
         "id": "f176244b-7ea1-4fc6-98ad-5325ae2dfdde",
         "title": "IT Analytics Engineer Intern - IT - Enterprise Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -164182,7 +164182,7 @@
         "company_name": "Ethereum Foundation",
         "id": "28db48ad-41bd-4739-b13e-fa0ccac92cdf",
         "title": "Protocol Specs & Testing Intern - STEEL Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -164257,7 +164257,7 @@
         "company_name": "Ethereum Foundation",
         "id": "0f6be9ca-1122-442f-83b2-22d17ae816ae",
         "title": "Zkevm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -164282,7 +164282,7 @@
         "company_name": "Ethereum Foundation",
         "id": "0bedb1f6-aac7-47c3-a9e9-80620dc9ff13",
         "title": "Geth Intern - Geth Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -191057,7 +191057,7 @@
         "company_name": "Zip",
         "id": "01bcb4ad-d5e7-4fb6-8f9f-eb617e4a7e4f",
         "title": "Software Engineer Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -192184,7 +192184,7 @@
         "company_name": "Highmark Health",
         "id": "f94a36ac-0497-4ac6-baf5-1743c31b127b",
         "title": "Sumer 2026 Analytic Enablement Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -209272,7 +209272,7 @@
         "company_name": "Ethereum Foundation",
         "id": "fe76e072-8d35-4d59-a330-99c6a7fc30dc",
         "title": "Stateless Consensus Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -213542,7 +213542,7 @@
         "company_name": "Tenstorrent",
         "id": "995227e3-4406-4424-94d2-e9a21efe2957",
         "title": "Data Science Intern - Data Science and Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -219118,7 +219118,7 @@
         "company_name": "Insperity",
         "id": "bed001da-adcd-462d-b868-c4c4d3dddb12",
         "title": "Rotational Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -233247,7 +233247,7 @@
         "company_name": "Qorvo",
         "id": "55c51a6e-6642-45c2-8949-62816c235d1d",
         "title": "Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -234796,7 +234796,7 @@
         "company_name": "Vertex Pharmaceuticals",
         "id": "884b4cc7-1b49-4a28-9a79-8be9cad1ef98",
         "title": "Vertex Spring 2026 Co-op - Process Development Data Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -245236,7 +245236,7 @@
         "company_name": "Centene",
         "id": "473990f3-daeb-4602-aa1c-65c771b85aa4",
         "title": "Data Science Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -248826,7 +248826,7 @@
         "company_name": "Astranis",
         "id": "0fc5ddf8-fc73-4b78-9026-3cbcab3e04a9",
         "title": "Environmental Test Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -254443,7 +254443,7 @@
         "company_name": "Uber",
         "id": "92700275-65f7-466c-b34f-c5adda63b219",
         "title": "PhD Software Engineer Intern - Threat Detection",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -258467,7 +258467,7 @@
         "company_name": "Qualcomm",
         "id": "00bda23f-8518-42fd-8c52-60304335668d",
         "title": "FY26 Intern \u2013 Intern Power Platform/AI Engineer - Cambridge - 6 months internship location",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -260684,6 +260684,140 @@
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/Washpost",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Altera Corporation",
+        "id": "de5b5445-7a0c-4909-8604-bff3a9b625a4",
+        "title": "Physical Design Graduate Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1764702156,
+        "date_posted": 1764702156,
+        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Physical-Design-Graduate-Intern_R01389",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Altera-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Camping World",
+        "id": "b8fc0370-29d9-4e34-814f-9277efaf2af0",
+        "title": "AI Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764702181,
+        "date_posted": 1764702181,
+        "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/AI-Intern_25_11243",
+        "locations": [
+            "Vernon Hills, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Camping-World",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "PTC",
+        "id": "a1750e2f-6fcd-4ace-88a0-e649c5e1e57d",
+        "title": "Servicemax Product Management Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1764701913,
+        "date_posted": 1764701913,
+        "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/USA-San-Ramon-CA/ServiceMax-Product-Management-Intern_JR111259-1",
+        "locations": [
+            "San Ramon, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PTC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AT&T",
+        "id": "7096c3ca-a59e-46db-bab7-533b7aaa191b",
+        "title": "AT&T Labs Internship - Advanced Degrees - Cnv",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764701956,
+        "date_posted": 1764701956,
+        "url": "https://att.wd1.myworkdayjobs.com/ATTSpecialInvite/job/Middletown-New-Jersey/AT-T-Labs-Internship---Advanced-Degrees--CNV-_R-92124",
+        "locations": [
+            "Austin, TX",
+            "Bothell, WA",
+            "Dallas, TX",
+            "San Ramon, CA",
+            "Redmond, WA",
+            "Plano, TX",
+            "Bedminster, NJ",
+            "Alpharetta, GA",
+            "Middletown Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/ATT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Covestro",
+        "id": "7a7711bd-9e58-4aa4-925c-d7afb8244cc9",
+        "title": "Intern - In Chemical Development",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1764701249,
+        "date_posted": 1764701249,
+        "url": "https://covestro.wd3.myworkdayjobs.com/cov_external/job/Leverkusen/Praktikant-in--m-w-d--im-Bereich-Chemische-Entwicklung---mit-Gehaltsangabe_JR-2025-02534",
+        "locations": [
+            "Neukirchen-Vluyn, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/a64ca911-92ef-4bce-99ec-a890a343a30c",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "08fe25f6-60ba-4863-b07e-058a731c7f62",
+        "title": "AI-Driven Vehicle Simulation Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1764701144,
+        "date_posted": 1764701144,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000096642970",
+        "locations": [
+            "Southfield, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
