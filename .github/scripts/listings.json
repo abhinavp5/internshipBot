@@ -126690,7 +126690,7 @@
         "company_name": "Hartford Financial Services",
         "id": "ca902d78-0de6-43c8-9a2b-be761eb78d19",
         "title": "Intern - Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -141098,7 +141098,7 @@
         "company_name": "Imprint",
         "id": "4cc71b1b-ff89-47d3-b3d7-57bc614694dd",
         "title": "Risk Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -240332,7 +240332,7 @@
         "company_name": "Cintas",
         "id": "084744ec-6616-409e-aab3-ec703ef94e76",
         "title": "IT Intern \u2013 Middleware Mobility",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -247231,7 +247231,7 @@
         "company_name": "Lightmatter",
         "id": "6d5ca0a8-4fc3-42f0-99bf-8c08c9bde640",
         "title": "API and Database",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -250385,7 +250385,7 @@
         "company_name": "Dominion Energy",
         "id": "02cf283c-e356-4463-8019-373d19185e72",
         "title": "Intern \u2013 System Operations Center Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -260206,6 +260206,27 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/SSC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorola",
+        "id": "851c7bd4-52f5-4adc-b2e5-6c9acd67353b",
+        "title": "Device Management Co-Op - Spring 2026",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1764654504,
+        "date_posted": 1764654504,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Florida-Remote-Work/Device-Management-Co-Op---Spring-2026_R59199",
+        "locations": [
+            "Florida"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
