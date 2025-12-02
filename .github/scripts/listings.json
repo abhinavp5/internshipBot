@@ -195848,7 +195848,7 @@
         "company_name": "Microsoft",
         "id": "fee4b826-cedb-4bf6-bc6a-1b253243b708",
         "title": "Researcher Intern - Coreai Post Training",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2026",
@@ -204670,7 +204670,7 @@
         "company_name": "Boson Ai",
         "id": "e6450ce0-c0b2-4433-9d87-431b44b1b70d",
         "title": "Mscac Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -209251,7 +209251,7 @@
         "company_name": "Idaho National Laboratory",
         "id": "6dc8ba2a-57ee-43ab-94e0-a5081b415d76",
         "title": "Undergraduate Research Assistant Internship - Science and Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -254033,7 +254033,7 @@
         "company_name": "Uber",
         "id": "8b8f84c8-f4b9-47a2-b067-456d21d5b757",
         "title": "PhD Software Engineer - Threat Detection",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -260317,5 +260317,49 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Thorlabs",
+        "id": "30ffd7b3-c670-47ca-9611-7661ff0be386",
+        "title": "Summer 2026 Laser Systems and Technology Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764667424,
+        "date_posted": 1763510461,
+        "url": "https://apply.workable.com/thorlabs/j/E906D229C4/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Thorlabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ALSO",
+        "id": "53adefec-700c-408e-a5ac-5852ae4b5224",
+        "title": "Software Engineering Intern - Firmware",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764666595,
+        "date_posted": 1763087888,
+        "url": "https://jobs.ashbyhq.com/Ridealso/3451e5c5-342c-4b7c-855c-df8e3ac94065/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ALSO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
