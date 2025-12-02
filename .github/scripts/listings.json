@@ -133,44 +133,6 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1743915278,
-        "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Ontario-Toronto/Intern---Technical_R25895",
-        "company_name": "SS&C Technologies",
-        "title": "Intern - Technical",
-        "locations": [
-            "Toronto, Canada"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "Simplify",
-        "id": "0589d031-9b0a-4c2d-8a05-6a36fc6b8fbc",
-        "date_posted": 1743915278,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1743915338,
-        "url": "https://jobs.canadalife.com/job/London-Co-op-Student-IT-ON/1189460701",
-        "company_name": "Canada Life",
-        "title": "Co-op Student IT",
-        "locations": [
-            "Toronto, ON"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "GaryZhous",
-        "id": "ad3c90ae-564f-47dc-a0d4-42e4384c318a",
-        "date_posted": 1743915338,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1744000510,
         "url": "https://job-boards.greenhouse.io/dialoguehealthtechnologiesinc/jobs/5485510004",
         "company_name": "Dialogue",
@@ -260087,6 +260049,48 @@
             "Phoenix, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Uhaul",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "a327dea8-2fc8-41c3-9169-4c0043874397",
+        "title": "Software Engineering Intern - Circuit Simulation",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1764651162,
+        "date_posted": 1764651162,
+        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Software-Engineering-Intern---Circuit-Simulation_R51757-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "1c1e4782-741b-4b15-a4e5-4915ea39953f",
+        "title": "Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764650957,
+        "date_posted": 1764650957,
+        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Intern_R51990",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
