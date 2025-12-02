@@ -144347,7 +144347,7 @@
         "company_name": "Lazard",
         "id": "bd166cbe-6b37-4f06-b5b5-fe5f9f928a2d",
         "title": "Data Engineer Intern - Data Analytics Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -159511,7 +159511,7 @@
         "company_name": "Electronic Arts",
         "id": "b39063dd-94d8-4df3-9413-b65cbf70de2c",
         "title": "Gameplay Engineer Intern - Gameplay Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -241072,7 +241072,7 @@
         "company_name": "Veolia",
         "id": "ff94c346-0be5-4afa-80a3-d5d3c9695860",
         "title": "Engineering/Instrumentation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -246643,7 +246643,7 @@
         "company_name": "Veolia",
         "id": "b9591b92-d3a7-49b4-a30a-4a7a7e81a8ad",
         "title": "Engineering Instrumentation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -257624,7 +257624,7 @@
         "company_name": "Corning",
         "id": "f1a3fd8f-9d6f-4270-916d-b992f4b34152",
         "title": "Research and Development Intern - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -260303,7 +260303,7 @@
         "company_name": "NBCUniversal",
         "id": "58488e0b-9553-4784-8351-615db36e1bb3",
         "title": "Media Tech \u2013 Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
