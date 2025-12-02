@@ -8401,24 +8401,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Marvell",
-        "id": "c42cba08-11b2-422c-b319-f0c7a3abe006",
-        "title": "Digital Design Intern - Bachelors",
-        "active": false,
-        "terms": [],
-        "date_updated": 1743920016,
-        "date_posted": 1743920016,
-        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Ottawa-Canada/Digital-Design-Intern---Bachelors_2401824",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "American Axle & Manufacturing",
         "id": "bc2254ff-ea70-46b6-a78b-e0dc49f19a69",
@@ -192040,7 +192022,7 @@
         "company_name": "Micron Technology",
         "id": "37788686-d879-4c54-bbfd-86843dabba9a",
         "title": "Intern \u2013 ASIC Architect",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -240269,7 +240251,7 @@
         "company_name": "Cintas",
         "id": "9c21bd21-2389-485f-a93b-e984e94a3712",
         "title": "IT Intern Middleware - Integrations",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -254094,7 +254076,7 @@
         "company_name": "Uber",
         "id": "2f3fef49-17d9-4f62-83fb-169f97b1ca42",
         "title": "PhD Applied Scientist Intern - Core Services Science Staff - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -260227,6 +260209,27 @@
             "Florida"
         ],
         "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AffiniPay",
+        "id": "263816ad-9073-4fcc-a715-7393a194ffaf",
+        "title": "Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764656340,
+        "date_posted": 1764656340,
+        "url": "https://www.8am.com/openings/?gh_jid=4622069006",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AffiniPay",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
