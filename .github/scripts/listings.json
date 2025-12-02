@@ -127053,7 +127053,7 @@
         "company_name": "Tenstorrent",
         "id": "6bb74a9a-82ee-4f19-8d0b-66ebf25a2c7c",
         "title": "PCB Hardware Engineer Intern - Pey",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -131312,7 +131312,7 @@
         "company_name": "Oshkosh",
         "id": "e137f488-8d6d-47b1-84fd-3bbe70082070",
         "title": "Software Engineer Intern - Connected Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -260466,6 +260466,75 @@
         "source": "adamthorne27",
         "id": "7ec94309-1528-4767-8498-2536ec23b035",
         "date_posted": 1764679929,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1764689200,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/745-7th-Avenue-New-York/Markets-Quantitative-Analyst-Summer-Internship-2027-New-York_JR-0000083408",
+        "company_name": "Barclays",
+        "title": "Markets Quantitative Analyst Summer Internship 2027 New York",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2027"
+        ],
+        "category": "Quantitative Finance",
+        "source": "angie-hue",
+        "id": "d8d464b4-b131-453f-ae9a-2db23f02f687",
+        "date_posted": 1764689200,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1764689264,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-sri.icims.com/jobs/6263/drexel-university-co-op%3a-software-engineering-full-stack-development/job",
+        "company_name": "SRI International",
+        "title": "Drexel University Co-op: Software Engineering/Full stack development",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "6e148dc8-ffbd-410d-8319-0f3e634b80ae",
+        "date_posted": 1764689264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1764689366,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAM60-Sensitech-Inc-800-Cummings-Center-Beverly-MA-01915-USA/Firmware---Embedded-Software-Co-Op---Summer_30193045",
+        "company_name": "Carrier Global",
+        "title": "Firmware & Embedded Software Co-Op - Summer",
+        "locations": [
+            "Beverly, MA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "c8a50fca-cfba-4b35-b8e4-abab3bba1c4b",
+        "date_posted": 1764689366,
         "company_url": "",
         "is_visible": true
     }
