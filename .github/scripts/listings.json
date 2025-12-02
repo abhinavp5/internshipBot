@@ -19292,7 +19292,7 @@
         "company_name": "IMC Trading",
         "id": "474c034c-cd47-45e2-b198-16e369a72b43",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -161835,7 +161835,7 @@
         "company_name": "Philips",
         "id": "df0d88c4-b6c4-4f1d-9b9c-e257caa3e1e5",
         "title": "Intern-Embedded Software Engineering - Embedded Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -188325,7 +188325,7 @@
         "company_name": "Marvell",
         "id": "aa59536c-9038-49e1-9190-3e84f8abb0eb",
         "title": "Product Engineer Intern - Master's Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -214475,7 +214475,7 @@
         "company_name": "Center for AI Safety",
         "id": "911d74ae-9d3f-4746-898a-03711c3f8e89",
         "title": "Research Engineer Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -248784,7 +248784,7 @@
         "company_name": "Motorola",
         "id": "6628fd27-01b2-444a-9b7f-8ae0403d4d5d",
         "title": "Android Platform Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -255998,7 +255998,7 @@
         "company_name": "Ticketmaster",
         "id": "c69d1040-78ab-49e9-83eb-692cda7db935",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -257776,7 +257776,7 @@
         "company_name": "Keysight Technologies",
         "id": "4c8d8d34-4300-483f-a891-278916c5c58f",
         "title": "AI Training and Inferencing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -258277,7 +258277,7 @@
         "company_name": "Walmart",
         "id": "fec0b54b-dc4a-4397-8f00-bf0f1bf6369a",
         "title": "2026 Summer Intern: Software Engineering 2 - Sunnyvale",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -258813,7 +258813,7 @@
         "company_name": "The New York Times",
         "id": "73629633-1996-430c-8552-721da211c9fc",
         "title": "DIG Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
