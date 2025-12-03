@@ -75912,7 +75912,7 @@
         "company_name": "ServiceNow",
         "id": "cf902aea-acc6-4735-8bff-bb131ab95cf2",
         "title": "UTG \u2013 Software Engineer Internships",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -79154,7 +79154,7 @@
         "company_name": "ServiceNow",
         "id": "7cdae68b-b8d2-4dd5-855d-29fd1834be33",
         "title": "UTG \u2013 Software Engineer Internships",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -98472,7 +98472,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "cc75ebb7-54af-4871-9b94-08788b84063b",
         "title": "Quantitative Systematic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -103087,7 +103087,7 @@
         "company_name": "Cotiviti",
         "id": "9892e214-ccb9-43f4-8016-f9cf87c0de55",
         "title": "Intern \u2013 Generative AI Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -103110,7 +103110,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ad8b1567-30c9-4093-b10b-395eb58e0e33",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -104479,7 +104479,7 @@
         "company_name": "W.R. Berkley",
         "id": "5e7ae581-bfe7-42e4-a462-c48a4fc56c8e",
         "title": "Quantitative Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -127082,7 +127082,7 @@
         "company_name": "ServiceNow",
         "id": "2220cfaf-ccfc-4a96-b5af-52253e3f3e9e",
         "title": "Data Informatics Analyst Intern - Security Organization",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -138166,7 +138166,7 @@
         "company_name": "ServiceNow",
         "id": "a7ac75d1-b271-4c0e-b675-75657a5622bc",
         "title": "Data Informatics Analyst Intern - Security Organization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -149619,7 +149619,7 @@
         "company_name": "ibotta",
         "id": "fccfd290-4453-476d-8fab-cf99ef0dfed1",
         "title": "Fraud Analytics Intern - Fraud Analytics & Operations",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -177729,7 +177729,7 @@
         "company_name": "Visa",
         "id": "baa365d9-2904-4692-ae25-ffdb70fa36d1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -216219,7 +216219,7 @@
         "company_name": "Red Hat",
         "id": "a0faa8c7-7870-415f-ab24-d68d8eb51253",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -219073,7 +219073,7 @@
         "company_name": "Shure",
         "id": "f0d5af3f-ab4d-4767-9b11-843f39e6945f",
         "title": "Digital Signal Processing Intern - Digital Signal Processing - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -220402,7 +220402,7 @@
         "company_name": "Visa",
         "id": "2d81c7c5-7ee3-4946-839a-7cfabe385033",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -235121,7 +235121,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Visa",
-        "id": "0ed6cb36-9c49-457e-987a-0bd0bf11e256",
+        "id": "a010f1f2-6a04-4d2b-8281-df27a33235b0",
         "title": "Software Engineer Intern",
         "active": true,
         "terms": [
@@ -236790,7 +236790,7 @@
         "company_name": "W.R. Berkley",
         "id": "173a2af7-91f8-43bc-815b-eb93b3dd7f3a",
         "title": "Data Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -238908,7 +238908,7 @@
         "company_name": "AbbVie",
         "id": "b6887522-61f3-46ae-bb60-80b649182891",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -239402,7 +239402,7 @@
         "company_name": "Westwood",
         "id": "302d27d0-99fe-444c-a240-bbf113f442ac",
         "title": "GIS Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -241124,7 +241124,7 @@
         "company_name": "AbbVie",
         "id": "ef47db0b-bd8f-4744-a6fd-bf7f29804dea",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -252348,7 +252348,7 @@
         "company_name": "Blue Cross Blue Shield of Michigan",
         "id": "b7b1f2f2-351c-4d19-8511-e5ff017e2d4d",
         "title": "Summer 2026 Intern - Operational Performance",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -257539,7 +257539,7 @@
         "company_name": "Rambus",
         "id": "9899b175-c337-497b-a181-b9ec44f46a36",
         "title": "Design Verification Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -262272,6 +262272,90 @@
             "Dedham, MA"
         ],
         "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ServiceNow",
+        "id": "4d0d580d-c94a-4400-907a-18c33386da35",
+        "title": "Technical AI Architect Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1764782306,
+        "date_posted": 1764782306,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000096854835",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Tencent",
+        "id": "2962898c-fae7-45cf-9285-736c2c1b01bc",
+        "title": "Data Product Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1764782183,
+        "date_posted": 1764782183,
+        "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Data-Product-Intern_R106486",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Terex",
+        "id": "2117492d-6b88-4eb8-ba35-107bab80d779",
+        "title": "Business and Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1764779890,
+        "date_posted": 1764779890,
+        "url": "https://terex.wd1.myworkdayjobs.com/terexcareers/job/USA-SD-Watertown/Business---Data-Analyst-Intern_REQ-10289",
+        "locations": [
+            "Milbank, SD"
+        ],
+        "company_url": "https://simplify.jobs/c/Terex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Trillium",
+        "id": "9cc15f47-422f-417d-b8dc-e887049f17c1",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764780256,
+        "date_posted": 1764780256,
+        "url": "https://www.trlm.com/apply/4993466007?gh_jid=4993466007",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Trillium",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
