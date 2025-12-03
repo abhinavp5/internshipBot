@@ -133,120 +133,6 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1749264930,
-        "url": "https://www.shopify.com/careers/engineering-internships-fall-2025-canada_06dec40f-4885-4b5c-bb03-1834abdaa30a",
-        "company_name": "Shopify",
-        "title": "Engineering Internships, Fall 2025 - Canada",
-        "locations": [
-            "Toronto, Canada"
-        ],
-        "terms": [
-            "Fall 2025"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "GaryZhous",
-        "id": "a26b9b57-c723-4eda-851d-84c4999a34ed",
-        "date_posted": 1744053478,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1744053543,
-        "url": "https://altera.wd1.myworkdayjobs.com/Altera/job/Bloor-St-1/Software-Engineer----Intern_R00569",
-        "company_name": "Altera",
-        "title": "Software Engineer - Intern",
-        "locations": [
-            "Toronto, Canada"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "GaryZhous",
-        "id": "2e5ddf40-f715-46ea-8b79-a95e930bd29e",
-        "date_posted": 1744053543,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1744053716,
-        "url": "https://applyboard.wd3.myworkdayjobs.com/ApplyBoardNH/job/Kitchener/Software-Engineering-Internship_JR102760",
-        "company_name": "ApplyBoard",
-        "title": "Software Engineering Internship",
-        "locations": [
-            "Kitchener, Ontario, Canada"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "GaryZhous",
-        "id": "310328b1-e6e5-4303-82e1-03dfbecd3615",
-        "date_posted": 1744053716,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1749265759,
-        "url": "https://www.shopify.com/careers/engineering-internships-fall-2025-usa_a1cdd252-7fb2-4212-863f-367dd5799bc7",
-        "company_name": "Shopify",
-        "title": "Engineering Internships, Fall 2025 - USA",
-        "locations": [
-            "Remote in USA"
-        ],
-        "terms": [
-            "Fall 2025"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "GaryZhous",
-        "id": "4e3a7778-9cbe-49dc-ab96-fb6060733521",
-        "date_posted": 1744053797,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1744053996,
-        "url": "https://jobs.ericsson.com/careers?domain=ericsson.com&query=developer+intern&start=0&location=canada&pid=563121763751096",
-        "company_name": "Ericsson",
-        "title": "Software Developer Intern",
-        "locations": [
-            "Montreal, Quebec, Canada"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "GaryZhous",
-        "id": "41b48c3c-2680-4f85-8b4b-4f84b028e7e6",
-        "date_posted": 1744053996,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1744054087,
-        "url": "https://careers.se.com/jobs/89517",
-        "company_name": "Schneider Electric",
-        "title": "Software co-op",
-        "locations": [
-            "Victoria, Canada"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "source": "GaryZhous",
-        "id": "2cb7bbf3-dd32-488a-996f-02546272bd66",
-        "date_posted": 1744054087,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "company_name": "Globalization Partners",
         "id": "323dc9ab-8580-46ef-88a4-ed8f3b66047c",
@@ -62591,7 +62477,7 @@
         "company_name": "PIMCO",
         "id": "ec49df5b-6aa3-48c5-b0c3-a1811603b70b",
         "title": "PhD Summer Intern - Portfolio Management - Quantitative Research Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -89453,7 +89339,7 @@
         "company_name": "HP IQ",
         "id": "cc987e63-5416-43be-b3fd-a849388d254e",
         "title": "Software Engineering Intern - Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -153067,7 +152953,7 @@
         "company_name": "Wind River",
         "id": "000d2aa7-5bbc-41c5-9622-64d2d3025af3",
         "title": "Embedded Software Engineering - College Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -164774,7 +164660,7 @@
         "company_name": "Samsung",
         "id": "04191d4e-1da4-402a-8fbd-cc7cac54a230",
         "title": "Intern - Compiler Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -179805,7 +179691,7 @@
         "company_name": "Qualcomm",
         "id": "4eba2ea5-012f-44a5-ac67-56ad3281986d",
         "title": "Intern - Deep Learning Research - Embodied AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -233468,7 +233354,7 @@
         "company_name": "Cummins",
         "id": "25ba3a13-5a87-4443-a581-82ab92dfe6e9",
         "title": "Service Engineering \u2013 Co-op Positions",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -256940,7 +256826,7 @@
         "company_name": "Crane Co.",
         "id": "9e281def-a19e-44bc-b0ab-718d81676b8d",
         "title": "Product Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -257112,7 +256998,7 @@
         "company_name": "Colliers",
         "id": "b545458a-51b1-4ea4-a2e1-dd740a02773d",
         "title": "Data Governance Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -257778,7 +257664,7 @@
         "company_name": "Marvell",
         "id": "21818437-c8c0-42eb-bf98-082b8e191f2f",
         "title": "Hardware Engineer Intern - Bachelor's Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -262398,6 +262284,48 @@
             "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/ElementBiosciences",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "a4fbe341-3134-4d13-95a8-9d5c46dc3706",
+        "title": "Distributed Embodied AI Systems Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1764788736,
+        "date_posted": 1764788736,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000096839252",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "76a6b6ac-b32b-4b68-9cb8-f2f2ce231223",
+        "title": "Vision-Language-Navigation Systems for ADAS Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1764788737,
+        "date_posted": 1764788737,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000096840263",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
