@@ -62661,7 +62661,7 @@
         "company_name": "PIMCO",
         "id": "63ad86c6-0bee-4ed2-b01b-05581c4de028",
         "title": "Summer Internship - PhD Quant Research Analyst - Client Solutions & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -66845,7 +66845,7 @@
         "company_name": "Sysco",
         "id": "4105463a-bb58-443b-88a1-a67027c7664e",
         "title": "Software Dev Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -69002,7 +69002,7 @@
         "company_name": "Oshkosh",
         "id": "cc407239-963b-4e32-b1f3-655aa87934c0",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -74441,7 +74441,7 @@
         "company_name": "USAA",
         "id": "29824396-4955-4c2b-bcb3-253c96832ee5",
         "title": "Product Management Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -80004,7 +80004,7 @@
         "company_name": "Cummins",
         "id": "a1abcbf9-c637-4345-9584-fcd7931535a5",
         "title": "Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -80050,7 +80050,7 @@
         "company_name": "Cummins",
         "id": "0c97eec2-bc16-4d59-9973-cf055d6d33db",
         "title": "Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -80758,7 +80758,7 @@
         "company_name": "Allegion",
         "id": "2caf4d2a-49aa-4e48-be7d-60a145c93ec3",
         "title": "Summer Intern - Firmware Engineer - Product Lifecycle Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -158397,7 +158397,7 @@
         "company_name": "Sierra Nevada Coporation",
         "id": "ab5c3871-8314-44f9-b91c-3d526d0839f0",
         "title": "Data Science Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -204623,7 +204623,7 @@
         "company_name": "Astera Labs",
         "id": "c4624142-a4db-48b4-8a37-6d97f1f9ac45",
         "title": "Design Verification Engineer \u2013 Intern 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -238245,7 +238245,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "619bbcb1-8143-498e-abd4-919f6ec2c4d1",
         "title": "Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -249814,7 +249814,7 @@
         "company_name": "Altera Corporation",
         "id": "cb41a13b-c891-4270-8bdb-bec99492da77",
         "title": "FPGA Design Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -250257,7 +250257,7 @@
         "company_name": "Ticketmaster",
         "id": "5be34ee3-26f4-4ed5-b934-5dc8fe1a14ba",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -259982,7 +259982,7 @@
         "company_name": "Motorola",
         "id": "851c7bd4-52f5-4adc-b2e5-6c9acd67353b",
         "title": "Device Management Co-Op - Spring 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -261273,7 +261273,7 @@
         "company_name": "RR Donnelley",
         "id": "b6e450ec-8174-4a34-8e70-b08f9da910ce",
         "title": "Product Management Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262356,6 +262356,48 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Trillium",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "e7069e4b-c553-444f-8cdf-b77b46740b0a",
+        "title": "Electrical Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764787192,
+        "date_posted": 1764787192,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2026--Intern--Electrical-Engineer-Production-Hardware-Intern---Onsite-_01810095",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Element Biosciences",
+        "id": "8c88a93a-3292-4aa3-ac71-92faf4e4294f",
+        "title": "Genetic Data Scientist",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1764787013,
+        "date_posted": 1764787013,
+        "url": "https://job-boards.greenhouse.io/elementbiosciences/jobs/5721812004",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ElementBiosciences",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
