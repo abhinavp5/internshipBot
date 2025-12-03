@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 1165 Internship Roles by Category
+### Browse 1170 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (329)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (116)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (527)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (532)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (44)
 
@@ -570,7 +570,7 @@
 <td>Software Engineer in Test Intern</td>
 <td>Chicago, IL</td>
 <td><div align="center"><a href="https://ninjatrader.com/careers/internships/?gh_jid=4613350006&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3288a08a-f16e-43ad-8f48-55b75ca30702?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Oracle?utm_source=GHList&utm_medium=company">Oracle</a></strong></td>
@@ -947,7 +947,7 @@
 <td>🔥 <strong><a href="https://simplify.jobs/c/Visa?utm_source=GHList&utm_medium=company">Visa</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>Belfast, UK</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/Visa/744000093261367?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a010f1f2-6a04-4d2b-8281-df27a33235b0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/Visa/744000093261367?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0ed6cb36-9c49-457e-987a-0bd0bf11e256?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>20d</td>
 </tr>
 <tr>
@@ -12986,7 +12986,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/PwC?utm_source=GHList&utm_medium=company">PricewaterhouseCoopers (PwC)</a></strong></td>
 <td>Cybersecurity Consulting Intern</td>
 <td><details><summary><strong>14 locations</strong></summary>Boston, MA</br>Seattle, WA</br>Houston, TX</br>Washington, DC</br>SF</br>LA</br>Dallas, TX</br>Philadelphia, PA</br>Chicago, IL</br>Norridge, IL</br>NYC</br>Minneapolis, MN</br>Mountain View, CA</br>Atlanta, GA</details></td>
 <td>🔒</td>
@@ -15952,7 +15952,7 @@
 <td>Intern – Commercial Strategy & Product</td>
 <td>Lancaster, PA</td>
 <td>🔒</td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Lennar-Corporation?utm_source=GHList&utm_medium=company">Lennar Corporation</a></strong></td>
@@ -18033,6 +18033,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Bluestaq?utm_source=GHList&utm_medium=company">Bluestaq</a></strong></td>
+<td>2026 Bluestaq AI/ML Engineering Summer Internship Cohort</td>
+<td>Colorado Springs, CO</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/bluestaq/jobs/4070310009?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/964d5c3b-b5f5-4423-85ec-3940c17483fe?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Philips?utm_source=GHList&utm_medium=company">Philips</a></strong></td>
 <td>Intern Data Strategy & Analytics</td>
 <td>Cambridge, MA</br>Nashville, TN</td>
@@ -19993,6 +20000,13 @@
 <td>28d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Lennox-International?utm_source=GHList&utm_medium=company">Lennox International</a></strong></td>
+<td>Engineering Intern - Summer 2026</td>
+<td>Columbia, SC</td>
+<td><div align="center"><a href="https://uscareers-lennox.icims.com/jobs/50547/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/590fee5e-0e83-41b2-8f8d-216a33ef51df?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>28d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Toyota-Research-Institute?utm_source=GHList&utm_medium=company">Toyota Research Institute</a></strong></td>
 <td>Automated Driving Advanced Development Intern - Machine Learning Research</td>
 <td>Mountain View, CA</td>
@@ -20340,6 +20354,13 @@
 <td>Engineering Traffic Analyst Intern - Summer 2026</td>
 <td>Edison, NJ</td>
 <td><div align="center"><a href="https://slihrms.wd3.myworkdayjobs.com/careers/job/USNJEdison/Engineering-Traffic-Analyst-Intern---Summer-2026_R-135325-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d5a7f37b-f9ed-4f2a-bda5-413d0cf7b5c6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/WR-Berkley?utm_source=GHList&utm_medium=company">W.R. Berkley</a></strong></td>
+<td>Data Analytics</td>
+<td>Farmington, CT</td>
+<td><div align="center"><a href="https://careers-berkley.icims.com/jobs/13209/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/173a2af7-91f8-43bc-815b-eb93b3dd7f3a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
@@ -21365,6 +21386,13 @@
 <td>1mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/ICEMarkets?utm_source=GHList&utm_medium=company">Intercontinental Exchange</a></strong></td>
+<td>Data Science Intern - Multiple Teams</td>
+<td>Jacksonville, FL</td>
+<td><div align="center"><a href="https://careers-ice.icims.com/jobs/11612/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e98d2ae7-4a5c-4a8d-93c0-06ab3c8d225f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Verisk?utm_source=GHList&utm_medium=company">Verisk</a></strong></td>
 <td>Internship Program - Data & Analytics Developer</td>
 <td>London, UK</td>
@@ -21460,6 +21488,13 @@
 <td>Intern - Network Planning & Engineering - Network Planning - Engineering</td>
 <td><details><summary><strong>5 locations</strong></summary>Plainview, NY</br>Golden, CO</br>Wakefield, MA</br>NYC</br>White Plains, NY</details></td>
 <td><div align="center"><a href="https://www.alticeusacareers.com/job/Bethpage-Intern-Network-Planning-&-Engineering-NY-11714/1332899600/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/54fe422e-d754-4640-97ba-fd405bc8cf7f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/FM-Global?utm_source=GHList&utm_medium=company">FM Global</a></strong></td>
+<td>Data Visualization & Reporting</td>
+<td>Providence, RI</td>
+<td><div align="center"><a href="https://jobs-fmglobal.icims.com/jobs/16037/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/75a609b8-21b5-4234-80a7-a1a9901ec71a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
@@ -21726,7 +21761,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (1983)</summary>
+<summary>🗃️ Inactive roles (1979)</summary>
 
 <table>
 <thead>
@@ -22632,13 +22667,6 @@
 <td>🔥 <strong><a href="https://simplify.jobs/c/LinkedIn?utm_source=GHList&utm_medium=company">LinkedIn</a></strong></td>
 <td>AI/ML Engineer Intern - Master's - Summer 2026 - Mountain View - CA 🎓</td>
 <td>Mountain View, CA</td>
-<td>🔒</td>
-<td>28d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Lennox-International?utm_source=GHList&utm_medium=company">Lennox International</a></strong></td>
-<td>Engineering Intern - Summer 2026</td>
-<td>Columbia, SC</td>
 <td>🔒</td>
 <td>28d</td>
 </tr>
@@ -23556,13 +23584,6 @@
 <td><strong><a href="https://simplify.jobs/c/Weyerhaeuser?utm_source=GHList&utm_medium=company">Weyerhaeuser</a></strong></td>
 <td>Intern - Western Timberlands</td>
 <td>Washington</br>Oregon</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/WR-Berkley?utm_source=GHList&utm_medium=company">W.R. Berkley</a></strong></td>
-<td>Data Analytics</td>
-<td>Farmington, CT</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -25240,13 +25261,6 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>Data Science Intern - Multiple Teams</td>
-<td>Jacksonville, FL</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Systems SEPP Engineering Intern - Simulation and Training Solutions</td>
 <td>Dulles, VA</td>
@@ -25684,13 +25698,6 @@
 <td><strong><a href="https://simplify.jobs/c/CS-Wholesale-Grocers?utm_source=GHList&utm_medium=company">C&S Wholesale Grocers</a></strong></td>
 <td>Procurement Intern - Demand Planning - Summer 2026</td>
 <td>Brattleboro, VT</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/FM-Global?utm_source=GHList&utm_medium=company">FM Global</a></strong></td>
-<td>Data Visualization & Reporting</td>
-<td>Providence, RI</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -34200,7 +34207,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/PwC?utm_source=GHList&utm_medium=company">PricewaterhouseCoopers (PwC)</a></strong></td>
 <td>Deals – Technology and Data Solutions Intern</td>
 <td><details><summary><strong>4 locations</strong></summary>Washington, DC</br>SF</br>Norridge, IL</br>NYC</details></td>
 <td>🔒</td>
