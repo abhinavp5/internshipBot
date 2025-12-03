@@ -224474,7 +224474,7 @@
         "company_name": "Coinbase",
         "id": "9065ddf5-8763-417d-9b5b-036a555f1793",
         "title": "Software Engineer Intern - Consumer Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -259355,7 +259355,7 @@
         "company_name": "MarketAxess",
         "id": "6b4c006f-b474-41f6-afb1-da5874c9f5ce",
         "title": "Quant Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
