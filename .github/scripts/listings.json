@@ -133,25 +133,6 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1744000510,
-        "url": "https://job-boards.greenhouse.io/dialoguehealthtechnologiesinc/jobs/5485510004",
-        "company_name": "Dialogue",
-        "title": "Intern, Software Engineering",
-        "locations": [
-            "Montr\u00e9al, Qu\u00e9bec, Canada"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "GaryZhous",
-        "id": "3633fe83-083d-4ea6-9e0b-f45cebaa4e2c",
-        "date_posted": 1744000510,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1744000627,
         "url": "https://www.presalescollective.com/job/intern-software-engineering-29311",
         "company_name": "PreSales Collective",
@@ -261891,6 +261872,27 @@
             "Portland, OR"
         ],
         "company_url": "https://simplify.jobs/c/Trimble",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Takeda",
+        "id": "e92ee221-83e3-488c-8c92-4b74cbeef5f1",
+        "title": "Intern Program: Audio Processing & Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764734918,
+        "date_posted": 1764734918,
+        "url": "https://takeda.wd3.myworkdayjobs.com/external/job/Boston-MA/XMLNAME-2026-Summer-Internship-Program--Audio-Processing---Machine-Learning-Intern_R0165952",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Takeda",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
