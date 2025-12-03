@@ -134786,7 +134786,7 @@
         "company_name": "The Bank of New York Mellon",
         "id": "0fe70a4b-20dc-495c-9f66-94fd3bcc470c",
         "title": "Business Operations Intern/Co-op - Product and Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -143574,7 +143574,7 @@
         "company_name": "Boston Scientific",
         "id": "9cc38d1b-a63f-49cf-a695-24fee8cbcd8d",
         "title": "Data Science Intern/Co-op - Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -150356,7 +150356,7 @@
         "company_name": "American Express",
         "id": "10f31143-c6c1-469c-90e6-04adb02b5c41",
         "title": "Campus Graduate Summer Internship Program - Global Commercial Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -153629,7 +153629,7 @@
         "company_name": "The Bank of New York Mellon",
         "id": "7b62f10c-2448-44e4-8029-f0bd27aef0b0",
         "title": "Business Operations Intern/Co-op - Product and Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -242615,7 +242615,7 @@
         "company_name": "American Express",
         "id": "1ded2bd6-3391-46b1-922d-5a7457986101",
         "title": "Campus Undergraduate Intern Program - Data Management - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -255316,7 +255316,7 @@
         "company_name": "Uber",
         "id": "dbd5e1fc-a63f-48db-b76e-e0ced50328f1",
         "title": "PhD Software Engineer Intern - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -261929,6 +261929,27 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ALSO",
+        "id": "12982849-c8cd-45b0-9bd7-7e6fb4732b47",
+        "title": "Hardware Engineering Intern - Mechanical Design",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1764755440,
+        "date_posted": 1764153346,
+        "url": "https://jobs.ashbyhq.com/Ridealso/f8d17844-a4cc-42fe-a525-162e74cc9f7f/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ALSO",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
