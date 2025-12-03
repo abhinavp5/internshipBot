@@ -102951,7 +102951,7 @@
         "company_name": "Oshkosh",
         "id": "07042aba-131b-41c3-bda1-679d2a183170",
         "title": "Data Scientist Intern - Digital Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -216156,7 +216156,7 @@
         "company_name": "Oshkosh",
         "id": "c36fe16d-5a64-4f08-b833-bae46a16e323",
         "title": "Order Management Intern - Year Round",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -226153,7 +226153,7 @@
         "company_name": "Astera Labs",
         "id": "3f3bac71-4b4c-4d54-b1aa-e01a39644cd9",
         "title": "Product Marketing and Management Intern - Product Marketing - Product Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -227006,7 +227006,7 @@
         "company_name": "Astera Labs",
         "id": "0e55ff5c-dd34-493c-b226-5e33f582361c",
         "title": "Digital Design Engineer Internship 2026 - Mixed-signal - DSP",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -231326,7 +231326,7 @@
         "company_name": "Astera Labs",
         "id": "f075ba21-9bfa-40ec-8559-250fa83d5723",
         "title": "Semiconductor Packaging Engineer - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -231347,7 +231347,7 @@
         "company_name": "Astera Labs",
         "id": "0df0689e-fbbd-4c36-8d2c-2a3ddce28509",
         "title": "Product Applications Engineer - Aries",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -241551,7 +241551,7 @@
         "company_name": "Astera Labs",
         "id": "bea02f1f-9254-4a85-a4c8-4b36b7c5d3af",
         "title": "Product Applications Engineer Intern - Scorpio",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -261848,6 +261848,49 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Figure-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Motorola",
+        "id": "c3778776-8ed1-4ec8-8781-ce5569be1206",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764734198,
+        "date_posted": 1764734198,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Data-Scientist-Intern--Summer-2026-Internship-_R59966",
+        "locations": [
+            "Chicago, IL",
+            "Hoffman Estates, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Trimble",
+        "id": "2ae087b2-bee4-48e8-87bb-cf61108bce55",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1764733589,
+        "date_posted": 1764733589,
+        "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OR-Lake-Oswego/Software-Engineer-Intern_R52971",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Trimble",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
