@@ -466,25 +466,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "CVS Health",
-        "id": "a9b3aec7-1bc1-4fb2-9278-6bd218b3e6ba",
-        "title": "Data Science Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2025"
-        ],
-        "date_updated": 1744039765,
-        "date_posted": 1744039765,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Data-Science-Co-op_R0553480",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/CVS-Health",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Uhaul",
         "id": "6edb2bec-80e2-45f5-850a-7c4a4ad2d422",
         "title": "Software Development Summer Intern",
@@ -149655,7 +149636,7 @@
         "company_name": "ibotta",
         "id": "fccfd290-4453-476d-8fab-cf99ef0dfed1",
         "title": "Fraud Analytics Intern - Fraud Analytics & Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -163048,7 +163029,7 @@
         "company_name": "Ciena",
         "id": "c496bac6-3d95-41bd-b212-19661da8bae1",
         "title": "Hardware Characterization Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -193902,7 +193883,7 @@
         "company_name": "SAS",
         "id": "80206f4b-cc06-40ce-b61e-95c682351960",
         "title": "Product Accessibility Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -229098,7 +229079,7 @@
         "company_name": "ParetoHealth",
         "id": "b6e80f2e-45a2-49c4-b34b-a4a7d7e1a247",
         "title": "Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -242899,7 +242880,7 @@
         "company_name": "Altom Transport",
         "id": "5e8c6458-5233-41c8-ab55-9f38615a3acd",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -260535,7 +260516,7 @@
         "company_name": "Camping World",
         "id": "b8fc0370-29d9-4e34-814f-9277efaf2af0",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
