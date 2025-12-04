@@ -168323,7 +168323,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "e1add382-7d2c-4688-a42c-5c80d39ac5de",
         "title": "Corporate System AI Engineer Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -168972,7 +168972,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "1b93bbd4-3c44-4ea5-9be4-12fc01cfbef5",
         "title": "Release Engineering Intern - Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -236950,7 +236950,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "4bcdbb27-43d6-4293-96df-6a8b65a00ddb",
         "title": "2026 Cloud Data Engineering Undergrad Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
