@@ -134,40 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Globalization Partners",
-        "id": "323dc9ab-8580-46ef-88a4-ed8f3b66047c",
-        "title": "AI \u2013 Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1744092927,
-        "date_posted": 1744092927,
-        "url": "https://job-boards.greenhouse.io/globalizationpartners/jobs/6529730003",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Globalization-Partners",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Articul8",
-        "id": "762e8c11-8679-4c81-89b3-9792cfe1f1a2",
-        "title": "Intern \u2013 Machine Learning Engineer",
-        "active": false,
-        "terms": [],
-        "date_updated": 1744093323,
-        "date_posted": 1744093323,
-        "url": "https://jobs.ashbyhq.com/articul8/20e55a8f-a509-4ab4-b319-ff958112687f/application",
-        "locations": [
-            "Dublin, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Articul8",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Pison",
         "id": "8e147ac9-5719-46b9-a36d-8b150ea14b01",
         "title": "Algo Productions Intern",
