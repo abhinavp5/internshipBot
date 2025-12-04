@@ -168346,7 +168346,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "e98d2ae7-4a5c-4a8d-93c0-06ab3c8d225f",
         "title": "Data Science Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -263051,6 +263051,27 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Cloudflare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pinterest",
+        "id": "993493cc-bbcd-4e97-8659-4c3dbc3dda4a",
+        "title": "Software Engineer Intern - USA",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764846640,
+        "date_posted": 1764846640,
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7262794",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinterest",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
