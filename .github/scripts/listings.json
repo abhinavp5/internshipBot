@@ -30034,7 +30034,7 @@
         "company_name": "TikTok",
         "id": "5cbd37d5-9572-4786-9044-4a223471831e",
         "title": "Software Engineer Intern - Recommendation Infrastructure",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -126747,7 +126747,7 @@
         "company_name": "ServiceNow",
         "id": "2220cfaf-ccfc-4a96-b5af-52253e3f3e9e",
         "title": "Data Informatics Analyst Intern - Security Organization",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -137831,7 +137831,7 @@
         "company_name": "ServiceNow",
         "id": "a7ac75d1-b271-4c0e-b675-75657a5622bc",
         "title": "Data Informatics Analyst Intern - Security Organization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -156318,7 +156318,7 @@
         "company_name": "Arch Capital Group",
         "id": "f176244b-7ea1-4fc6-98ad-5325ae2dfdde",
         "title": "IT Analytics Engineer Intern - IT - Enterprise Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -182926,7 +182926,7 @@
         "company_name": "AbbVie",
         "id": "6aa4d904-6855-4fdc-bee9-2b70a6b8acad",
         "title": "2026 Software Engineering Co-Op - June - Dec",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -191896,7 +191896,7 @@
         "company_name": "AbbVie",
         "id": "399e8643-0cc1-4039-838a-ae11d8827c28",
         "title": "2026 Software Engineering Co-Op - June - Dec",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -225644,7 +225644,7 @@
         "company_name": "Cook Group",
         "id": "129f62f7-ecdc-47b0-8945-414033024e52",
         "title": "Intern \u2013 Artificial Intelligence & Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -238573,7 +238573,7 @@
         "company_name": "AbbVie",
         "id": "b6887522-61f3-46ae-bb60-80b649182891",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -240789,7 +240789,7 @@
         "company_name": "AbbVie",
         "id": "ef47db0b-bd8f-4744-a6fd-bf7f29804dea",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -263008,6 +263008,27 @@
             "Columbus, IN"
         ],
         "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sierra Nevada Corporation",
+        "id": "ddb0d2cc-8e0d-4be9-88ff-e728173b5c3b",
+        "title": "Systems Engineer 1",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1764838455,
+        "date_posted": 1764838455,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Systems-Engineer-I--For-SNC-Summer-2025-Interns-Only-_R0028909",
+        "locations": [
+            "Lone Tree, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
