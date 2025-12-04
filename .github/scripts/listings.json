@@ -31017,7 +31017,7 @@
         "company_name": "TikTok",
         "id": "e0b68754-f6bf-4417-b34d-9809dde9c3e0",
         "title": "Tool Software Engineer Intern - Tiktok-Intelligent Creation-Effect House",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -31959,7 +31959,7 @@
         "company_name": "TikTok",
         "id": "279a7df5-ceb2-4c32-9ec5-77f6d31d354a",
         "title": "AI Effects Workflow Engineer Intern - Tiktok-Intelligent Creation-LLM Driven Creation - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -35197,7 +35197,7 @@
         "company_name": "WeRide",
         "id": "247df49d-57d7-4cde-b1ca-eeee3214a95b",
         "title": "Intern - Vehicle Embedded Engineer - Dbw",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -157026,7 +157026,7 @@
         "company_name": "Electronic Arts",
         "id": "26e68ae4-38b9-4eb2-94fa-a589a2a73c39",
         "title": "Software Engineer Intern - Sports Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -195273,7 +195273,7 @@
         "company_name": "Amazon",
         "id": "6a5d969b-686c-41c2-88b4-bf98f2233602",
         "title": "2026 Data Scientist Internship - Amazon University Talent Acquisition",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -258304,7 +258304,7 @@
         "company_name": "CIBC",
         "id": "89e4e5af-d54b-47e7-95d0-b6fd8cb9f1c9",
         "title": "2026 Summer Intern - DB/Application Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -260322,7 +260322,7 @@
         "company_name": "BMO ",
         "id": "f353cce3-7921-45bb-a3d6-2450369f16a4",
         "title": "Capital Markets Full Stack Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -263029,6 +263029,28 @@
             "Lone Tree, CO"
         ],
         "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cloudflare",
+        "id": "5580b4b2-b3fc-4cc3-8cce-4c3803891ba6",
+        "title": "Hardware Systems Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1764839987,
+        "date_posted": 1764839987,
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/7436125",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Cloudflare",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
