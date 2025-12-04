@@ -134,25 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Jackson Lewis",
-        "id": "391221db-3eba-4045-b689-bf04c693199f",
-        "title": "Data Services Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744131527,
-        "date_posted": 1744131527,
-        "url": "https://jacksonlewis.wd1.myworkdayjobs.com/en-US/JacksonLewisBusinessandLegalProfessionalsCareers/job/US---FL---Jacksonville/Data-Services-Intern_R153-2025",
-        "locations": [
-            "Jacksonville, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/05712bef-86a0-435b-881e-4807e0d56002",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Nutanix",
         "id": "5c96b14d-a59b-4d86-9c55-a5f09f73ede7",
         "title": "Software Engineering Intern - Ndb",
@@ -98877,7 +98858,7 @@
         "company_name": "W.R. Berkley",
         "id": "772e84bd-7eb3-4373-b29b-8fad617ae11c",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
