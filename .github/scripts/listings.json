@@ -134,25 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Uhaul",
-        "id": "6edb2bec-80e2-45f5-850a-7c4a4ad2d422",
-        "title": "Software Development Summer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744119321,
-        "date_posted": 1744119321,
-        "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Software-Developer-Summer-Intern_R216539",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Uhaul",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Coalition",
         "id": "4e4423e0-e931-46c8-8e5c-f12e473dea95",
         "title": "Backend Engineer Intern",
@@ -102660,7 +102641,7 @@
         "company_name": "Shure",
         "id": "41e961cd-8b3a-4677-8ec0-ed14cd640d75",
         "title": "Mobile Applications \u2013 Intern - Android",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
