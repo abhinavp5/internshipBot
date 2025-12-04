@@ -53414,7 +53414,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3801beb2-e473-44e1-8a9b-a3c4776098f6",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -108581,7 +108581,7 @@
         "company_name": "Lennox International",
         "id": "606f3d71-4e31-4ce2-93bb-662378d17ab8",
         "title": "IoT Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -219040,7 +219040,7 @@
         "company_name": "Sentinel Technologies",
         "id": "ed47a0ef-d38b-4641-b6c9-512c3d497b78",
         "title": "AI Intern - Enterprise Architecture - Innovation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -220072,7 +220072,7 @@
         "company_name": "Lennox International",
         "id": "590fee5e-0e83-41b2-8f8d-216a33ef51df",
         "title": "Engineering Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -261868,7 +261868,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "13566951-eb66-418c-8b1d-3520be88a976",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -263038,5 +263038,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1764863294,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-PhD-Intern_R0130591",
+        "company_name": "PayPal",
+        "title": "Machine Learning Engineer PhD Intern",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "5e6b8271-60c0-4835-bab0-c60b002c9021",
+        "date_posted": 1764863294,
+        "company_url": "",
+        "is_visible": true
     }
 ]
