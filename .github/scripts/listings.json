@@ -135,42 +135,6 @@
     {
         "source": "Simplify",
         "company_name": "Uhaul",
-        "id": "ee3e7dd1-e9b2-4ca6-9db2-4982e43a413e",
-        "title": "Software Development Summer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744101182,
-        "date_posted": 1744101182,
-        "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Software-Development-Summer-Intern_R216546",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Uhaul",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Uhaul",
-        "id": "a2a2b1f7-989c-4583-93e3-18a7e9b9dd72",
-        "title": "Data Analyst Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1744101187,
-        "date_posted": 1744101187,
-        "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Tempe-Arizona/Data-Analyst-Intern_R216544",
-        "locations": [
-            "Tempe, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Uhaul",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Uhaul",
         "id": "6edb2bec-80e2-45f5-850a-7c4a4ad2d422",
         "title": "Software Development Summer Intern",
         "active": false,
@@ -97780,7 +97744,7 @@
         "company_name": "Cotiviti",
         "id": "3dabf3fa-56cb-4626-a1d7-45c6307008f1",
         "title": "Intern \u2013 Generative AI Research Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -101083,7 +101047,7 @@
         "company_name": "Shure",
         "id": "cceac49b-69c3-419f-b97d-5a1ed6b46e09",
         "title": "Cloud Applications Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -154210,7 +154174,7 @@
         "company_name": "United Wholesale Mortgage",
         "id": "2ccde243-2959-41bf-bd01-f96d94926dcc",
         "title": "Technology Summer Intern - Information Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -230656,7 +230620,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "7615cfa2-56ef-49e0-8817-60db45705e9f",
         "title": "Engineering Intern - Software and Systems Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
