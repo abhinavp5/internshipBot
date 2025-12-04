@@ -133,45 +133,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Nutanix",
-        "id": "5c96b14d-a59b-4d86-9c55-a5f09f73ede7",
-        "title": "Software Engineering Intern - Ndb",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744134151,
-        "date_posted": 1744134151,
-        "url": "https://jobs.jobvite.com/nutanix/job/o9zlufwh?nl=1&nl=1&fr=false",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nutanix",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "NVIDIA",
-        "id": "1b543228-2abe-41ad-beea-d080a48ef33f",
-        "title": "Software Engineering Intern - Developer Tools",
-        "active": false,
-        "terms": [],
-        "date_updated": 1744134149,
-        "date_posted": 1744134149,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/France-Courbevoie/Software-Engineering-Intern--Developer-Tools_JR1996457",
-        "locations": [
-            "Paris, France",
-            "Reading, UK",
-            "Berlin, Germany",
-            "Munich, Germany"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1744150337,
         "url": "https://recruiting.ultipro.ca/GRO5004GTOU/JobBoard/725a44ac-2d84-4079-97a5-e64f4eab2f40/OpportunityDetail?opportunityId=7853c217-dbae-4bb0-ba34-ef8dee88128c",
         "company_name": "Groupe Touchette",
@@ -138418,7 +138379,7 @@
         "company_name": "Rambus",
         "id": "30f32a5b-76dd-4ace-8472-5352e3bd5a92",
         "title": "Product Engineering Intern - Product Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -207164,7 +207125,7 @@
         "company_name": "Schonfeld",
         "id": "70bb8db7-d531-4353-bbed-f9bf535c8c2e",
         "title": "2026 DMFI Quantitative Developer Summer Internship-London",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -219813,7 +219774,7 @@
         "company_name": "American Enterprise Institute",
         "id": "899e3af7-b2d9-4974-acf0-597d80f7d0a5",
         "title": "Spring Intern: Data Analysis and Education Policy",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -227505,7 +227466,7 @@
         "company_name": "Rambus",
         "id": "1f934601-b176-42b2-adb3-e2e998544b0c",
         "title": "Test Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -257127,7 +257088,7 @@
         "company_name": "Rambus",
         "id": "9899b175-c337-497b-a181-b9ec44f46a36",
         "title": "Design Verification Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
