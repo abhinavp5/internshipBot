@@ -197521,7 +197521,7 @@
         "company_name": "Rolls Royce",
         "id": "b3844a60-996f-4fdc-bbbf-9edb4f82791d",
         "title": "Intern \u2013 Digital Life Innovation - Intelligent Devices & AI Tooling - Spring/Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -230285,7 +230285,7 @@
         "company_name": "Leidos",
         "id": "56cf7ad2-73ae-47b1-8c2e-07ebf1ad2c2f",
         "title": "Human Factors Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -263873,6 +263873,28 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/MarketAxess",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "836ca6c8-4d99-4cf0-b1c8-42b3aa6ea176",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1764933007,
+        "date_posted": 1764933007,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA133-Tewksbury-Ma-Bldg-3-Concord-50-Apple-Hill-Drive-Concord---Building-3-Tewksbury-MA-01876-USA/XMLNAME-2026-Intern---Software-Development-Intern---Onsite--MA-_01810522",
+        "locations": [
+            "Concord, MA",
+            "Tewksbury, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
