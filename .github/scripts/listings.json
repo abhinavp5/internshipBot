@@ -100549,7 +100549,7 @@
         "company_name": "Shure",
         "id": "7ab269f4-c168-4aef-affd-086940fd86c1",
         "title": "Applied Research Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -102067,7 +102067,7 @@
         "company_name": "Shure",
         "id": "41e961cd-8b3a-4677-8ec0-ed14cd640d75",
         "title": "Mobile Applications \u2013 Intern - Android",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -102182,7 +102182,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ad8b1567-30c9-4093-b10b-395eb58e0e33",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -103270,7 +103270,7 @@
         "company_name": "Mackenzie Investments",
         "id": "0b1d03f5-54c2-466f-a64c-62914ec0123e",
         "title": "Investment Management \u2013 FI-Platform Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -108046,7 +108046,7 @@
         "company_name": "Lennox International",
         "id": "606f3d71-4e31-4ce2-93bb-662378d17ab8",
         "title": "IoT Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -168216,7 +168216,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "4e79f79a-bf73-45f0-a035-c8ed56f6cbcd",
         "title": "Software Engineering Intern - Full-Stack - Java",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -174444,7 +174444,7 @@
     {
         "date_updated": 1760597357,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -220088,7 +220088,7 @@
         "company_name": "Rambus",
         "id": "9a0aca24-0f4b-41d4-8682-8a11169ffa50",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -226989,7 +226989,7 @@
         "company_name": "Rambus",
         "id": "1f934601-b176-42b2-adb3-e2e998544b0c",
         "title": "Test Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -249595,7 +249595,7 @@
         "company_name": "Visa",
         "id": "d93eaa77-7df9-4ade-9338-8ae6df781af5",
         "title": "Software Engineer - Intern - Summer 2026 Ashburn - VA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -249616,7 +249616,7 @@
         "company_name": "Visa",
         "id": "4d41084a-6a62-4c00-a3b6-e56847922030",
         "title": "Software Engineer \u2013 Intern - Summer 2026 - Foster City",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -264094,6 +264094,27 @@
             "Sunnyvale, CA"
         ],
         "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "SharkNinja",
+        "id": "16735273-768e-4ac0-bab4-34b712d4b685",
+        "title": "Summer 2026: Consumer Insights Intern - May to August",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764958259,
+        "date_posted": 1758054623,
+        "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4601571006",
+        "locations": [
+            "Needham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/SharkNinja",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
