@@ -168096,7 +168096,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "2135c037-9723-4474-b040-a13457a2bbcb",
         "title": "C++ Developer Intern - Curve Engine",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -213178,7 +213178,7 @@
         "company_name": "Alliance Laundry Systems",
         "id": "24845bef-dcad-4c18-a140-12ba502024c7",
         "title": "Project Data Analyst Co-op - Project Management - Product Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -249593,7 +249593,7 @@
         "company_name": "Visa",
         "id": "4ea4b8b9-9812-484b-9763-e9675424ee80",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -250622,7 +250622,7 @@
         "company_name": "JP Morgan Chase",
         "id": "5b4ca0ce-f055-4d3f-828b-18e366ce77e8",
         "title": "Forestry Resource and Valuation Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
