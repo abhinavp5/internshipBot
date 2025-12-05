@@ -134,25 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Leidos",
-        "id": "18d0016e-c3fd-487c-97ce-edce4bbd01d9",
-        "title": "Software Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744218098,
-        "date_posted": 1744218098,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Development-Intern_R-00157151",
-        "locations": [
-            "Chantilly, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Onto Innovation",
         "id": "28482560-5f35-4ebc-a81e-d7a62f7d9f1b",
         "title": "Software Engineer 1 \u2013 Intern",
@@ -108065,7 +108046,7 @@
         "company_name": "Lennox International",
         "id": "606f3d71-4e31-4ce2-93bb-662378d17ab8",
         "title": "IoT Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -131154,7 +131135,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "cd1eeddf-de6b-42cb-93a8-e468e9b5f219",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -150018,7 +149999,7 @@
         "company_name": "Motorola",
         "id": "93d159d3-6043-4a6b-adde-c772b83d5c95",
         "title": "Software Engineer Intern - CPE SW E2E Triage",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -220044,7 +220025,7 @@
         "company_name": "Bloom Energy",
         "id": "410f5050-3eaa-419f-9c1c-188efe204088",
         "title": "RMCC Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -224182,7 +224163,7 @@
         "company_name": "Steel Dynamics",
         "id": "2e633dc2-ec03-4bcd-955d-65a656e9f46b",
         "title": "Quality & Product Development Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -264008,6 +263989,27 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Tokyo-Electron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "5339a682-c6be-4b3e-8f4b-39e225eec1ff",
+        "title": "Business Intelligence Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1764952383,
+        "date_posted": 1764952383,
+        "url": "https://amazon.jobs/en/jobs/3094384/2026-business-intelligence-engineer-internship",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
