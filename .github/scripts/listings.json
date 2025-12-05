@@ -52917,7 +52917,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3801beb2-e473-44e1-8a9b-a3c4776098f6",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -102220,7 +102220,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ad8b1567-30c9-4093-b10b-395eb58e0e33",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -108084,7 +108084,7 @@
         "company_name": "Lennox International",
         "id": "606f3d71-4e31-4ce2-93bb-662378d17ab8",
         "title": "IoT Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -131173,7 +131173,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "cd1eeddf-de6b-42cb-93a8-e468e9b5f219",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -132205,7 +132205,7 @@
         "company_name": "W.R. Berkley",
         "id": "0c7562e6-7d8e-4ada-b934-9b6bdd000c2f",
         "title": "Intern \u2013 Software Developer - Reactjs",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -193968,7 +193968,7 @@
         "company_name": "W.R. Berkley",
         "id": "56a70448-70c6-45fe-b9bb-d9c1678e7905",
         "title": "Data Analyst Intern - Power BI - SQL",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -213197,7 +213197,7 @@
         "company_name": "Alliance Laundry Systems",
         "id": "24845bef-dcad-4c18-a140-12ba502024c7",
         "title": "Project Data Analyst Co-op - Project Management - Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -213675,7 +213675,7 @@
         "company_name": "Apogee Engineering",
         "id": "c0b246ac-9f50-4715-82eb-c08b2ecfc468",
         "title": "Technical Intelligence Analyst \u2013 Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -230065,7 +230065,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "7615cfa2-56ef-49e0-8817-60db45705e9f",
         "title": "Engineering Intern - Software and Systems Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -238512,7 +238512,7 @@
         "company_name": "Westwood",
         "id": "302d27d0-99fe-444c-a240-bbf113f442ac",
         "title": "GIS Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -241124,7 +241124,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "1f8d9cb9-1b54-4e19-86da-bdbc4709ccd8",
         "title": "Integration and Test Intern Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -246255,7 +246255,7 @@
         "company_name": "Alliance Laundry Systems",
         "id": "dda0a2ba-b6fc-4b39-8ba3-32ed779c5321",
         "title": "Product Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -247933,7 +247933,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "f5fa5008-5492-4008-ab41-c793fb26dc3c",
         "title": "Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -250620,7 +250620,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "417871cd-9f57-4003-ba18-d9cab6796608",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -261371,7 +261371,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "13566951-eb66-418c-8b1d-3520be88a976",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -263688,7 +263688,7 @@
         "company_name": "SRI International",
         "id": "6b469735-6228-4bfe-b2c7-01f09e764d81",
         "title": "Intern \u2013 Computational and Applied Mathematics",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
