@@ -257581,7 +257581,7 @@
         "company_name": "HERE Technologies",
         "id": "6e5f30a9-f2c0-4e99-8986-e385ce51ba3b",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
