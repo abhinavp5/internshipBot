@@ -134,23 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Qualtrics",
-        "id": "0ddf509f-b865-41b0-a8fe-26a19d405dd3",
-        "title": "Software Engineering Intern - Collect Platform",
-        "active": false,
-        "terms": [],
-        "date_updated": 1744180049,
-        "date_posted": 1744180049,
-        "url": "https://www.qualtrics.com/careers/us/en/job/6781711?gh_jid=6781711",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualtrics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "ZOLL Medical Corporation",
         "id": "47c6b6eb-b915-4a10-96bb-d5b0d1e8afce",
         "title": "Engineering Co-op - Embedded Software",
@@ -44702,52 +44685,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "44ae1c47-0243-495d-b2f9-2ef5007efb7c",
-        "title": "Student Researcher Intern - Edge Research Project for General Intelligence - Doubao Foundation Model Team - Seed",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1751537146,
-        "date_posted": 1744179916,
-        "url": "https://jobs.bytedance.com/en/position/7491033496392337682/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "45405cb7-e3e4-41b3-9804-32005f41de20",
-        "title": "Student Researcher Intern - Edge Research Project for General Intelligence - Doubao Foundation Model Team - Seed",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1751536326,
-        "date_posted": 1744179917,
-        "url": "https://jobs.bytedance.com/en/position/7491032451558721810/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "pony.ai",
         "id": "40cc0419-8dbb-4ea5-81d6-cb30c72b1032",
         "title": "Research Intern - Deep Learning",
@@ -44793,52 +44730,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "27c68e8f-455b-4627-b1c1-80f49736428e",
-        "title": "Student Researcher Intern - Edge Research Project for General Intelligence - Doubao Foundation Model Team - Seed",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1751537698,
-        "date_posted": 1744179917,
-        "url": "https://jobs.bytedance.com/en/position/7491034443466574087/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "715939b5-61f2-4336-a71d-423f95c17ef1",
-        "title": "Student Researcher Intern - Edge Research Project for General Intelligence - Doubao Foundation Model Team - Seed",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1751535992,
-        "date_posted": 1744179917,
-        "url": "https://jobs.bytedance.com/en/position/7491033494333016327/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
         ]
     },
     {
@@ -44935,29 +44826,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Elf Beauty",
-        "id": "0a3beb73-c48e-471d-8028-12ff4251479f",
-        "title": "Intern \u2013 IT Service Desk",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1754519854,
-        "date_posted": 1744179816,
-        "url": "https://jobs.lever.co/elfbeauty/4d15a039-f5c1-4321-bf66-f48217bdce78/apply",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Elf-Beauty",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -225433,7 +225301,7 @@
         "company_name": "Cook Group",
         "id": "129f62f7-ecdc-47b0-8945-414033024e52",
         "title": "Intern \u2013 Artificial Intelligence & Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -262635,7 +262503,7 @@
         "company_name": "SRI International",
         "id": "88e44adf-fee4-4c3f-9e84-f34416bc06e6",
         "title": "Drexel University Co-op: Embedded Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
