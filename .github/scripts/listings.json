@@ -126154,7 +126154,7 @@
         "company_name": "ServiceNow",
         "id": "2220cfaf-ccfc-4a96-b5af-52253e3f3e9e",
         "title": "Data Informatics Analyst Intern - Security Organization",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -137238,7 +137238,7 @@
         "company_name": "ServiceNow",
         "id": "a7ac75d1-b271-4c0e-b675-75657a5622bc",
         "title": "Data Informatics Analyst Intern - Security Organization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -239865,7 +239865,7 @@
         "company_name": "Honeywell",
         "id": "49f97851-d09e-4e8d-b984-3a0b81ca1d5d",
         "title": "Intern Bachelors Field Svc Eng",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -255756,7 +255756,7 @@
         "company_name": "T-Mobile",
         "id": "660e6d86-5b04-4252-ac0c-6b5128c78444",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -264073,6 +264073,27 @@
             "Sunnyvale, CA"
         ],
         "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intuitive Surgical",
+        "id": "0c373a92-87e0-467e-8670-c3bd3f776614",
+        "title": "Computer Vision Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764956955,
+        "date_posted": 1764956955,
+        "url": "https://jobs.smartrecruiters.com/Intuitive/744000097150430",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
