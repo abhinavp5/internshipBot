@@ -59379,7 +59379,7 @@
         "company_name": "CACI",
         "id": "04bdcb46-76de-40ed-be2e-dd10a0779a98",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -77925,7 +77925,7 @@
         "company_name": "Activision-Blizzard",
         "id": "a694ec56-fea2-4dff-9f3f-2e0293082bc3",
         "title": "2026 Summer Internships - Analytics & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -97189,7 +97189,7 @@
         "company_name": "Cotiviti",
         "id": "3dabf3fa-56cb-4626-a1d7-45c6307008f1",
         "title": "Intern \u2013 Generative AI Research Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -97843,7 +97843,7 @@
         "company_name": "Legrand NA",
         "id": "f12c4439-da73-4544-9abe-313c848354d9",
         "title": "Firmware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -102197,7 +102197,7 @@
         "company_name": "Cotiviti",
         "id": "9892e214-ccb9-43f4-8016-f9cf87c0de55",
         "title": "Intern \u2013 Generative AI Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -102244,7 +102244,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9c843ea8-9b7c-4b8c-a34c-b8c89aa81148",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -102315,7 +102315,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "08b5f3e9-aa6a-4dcb-839c-f936a41196a3",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -103331,7 +103331,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "32fc1129-317d-499e-b6c3-5ebb215eb592",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -105349,7 +105349,7 @@
         "company_name": "Symbotic",
         "id": "0ff3c863-bc07-4548-b4d0-9bc7655b442b",
         "title": "Co-op-Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Spring 2025",
@@ -168115,7 +168115,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "2135c037-9723-4474-b040-a13457a2bbcb",
         "title": "C++ Developer Intern - Curve Engine",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -185155,7 +185155,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ab14d678-a7f0-4e4b-9014-0fc570ae05a3",
         "title": "Electricity + Natural Gas Analyst Internship: Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -213197,7 +213197,7 @@
         "company_name": "Alliance Laundry Systems",
         "id": "24845bef-dcad-4c18-a140-12ba502024c7",
         "title": "Project Data Analyst Co-op - Project Management - Product Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -216684,7 +216684,7 @@
         "company_name": "HPR (Hyannis Port Research)",
         "id": "cd8be661-f9c2-4163-9acb-c5c796f84a64",
         "title": "FPGA Engineer Intern - FPGA",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -219061,7 +219061,7 @@
         "company_name": "Bartlett & West",
         "id": "878534f2-b978-4d1e-ade6-a97e9dc0acee",
         "title": "GIS Intern - Water Resources Focus",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -222924,7 +222924,7 @@
         "company_name": "Legrand NA",
         "id": "458d3f94-3485-481b-9c89-637846a1a233",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -224201,7 +224201,7 @@
         "company_name": "Steel Dynamics",
         "id": "2e633dc2-ec03-4bcd-955d-65a656e9f46b",
         "title": "Quality & Product Development Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -230785,7 +230785,7 @@
         "company_name": "Vanguard",
         "id": "8cb4bd68-f719-476c-b0c2-608336b72539",
         "title": "IMFS Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -244413,7 +244413,7 @@
         "company_name": "Amgen",
         "id": "872d4623-6033-4890-b755-fabf9df08be1",
         "title": "R&D Protein Footprinting Data Analysis Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -244904,7 +244904,7 @@
         "company_name": "SRI International",
         "id": "185db282-0dc3-4839-93ea-c3e7758acc70",
         "title": "Drexel University Co-op: Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -246255,7 +246255,7 @@
         "company_name": "Alliance Laundry Systems",
         "id": "dda0a2ba-b6fc-4b39-8ba3-32ed779c5321",
         "title": "Product Innovation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -256201,7 +256201,7 @@
         "company_name": "Dallas College",
         "id": "68a1dbac-a972-4ffc-82d3-e5cf2a90df17",
         "title": "SAS Programmer 1",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -259609,7 +259609,7 @@
         "company_name": "Camping World",
         "id": "b8fc0370-29d9-4e34-814f-9277efaf2af0",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -261993,7 +261993,7 @@
         "company_name": "Serco North America",
         "id": "81b935f2-57d5-47ba-a066-04e9b65bcacc",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -263597,5 +263597,110 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Brown Brothers Harriman",
+        "id": "7f6505f6-7f7a-4ed3-bb75-b8cf20a8b1d1",
+        "title": "Transformation Management Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1764922257,
+        "date_posted": 1764922257,
+        "url": "https://bbh.wd5.myworkdayjobs.com/en-US/BBH/job/Boston/XMLNAME-2026-Transformation-Management-Summer-Internship_69268",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/8daaaedd-ec77-45a3-ab9c-dc153ae865ed",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Employee Navigator",
+        "id": "de8588b9-852c-4350-b091-bae985c02969",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1764922158,
+        "date_posted": 1764922158,
+        "url": "https://www.employeenavigator.com/careers/7443357?gh_jid=7443357",
+        "locations": [
+            "Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/057d6a38-ad60-41e8-9856-87fd62f64315",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Grassroots Analytics",
+        "id": "402553c2-466c-4a95-9070-a25b563cdfea",
+        "title": "AI Developer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1764922528,
+        "date_posted": 1764922528,
+        "url": "https://job-boards.greenhouse.io/grassrootsanalytics/jobs/4623431006",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Grassroots-Analytics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "a0255e26-4ead-4b99-95f7-ba5003221663",
+        "title": "Intern \u2013 Engineering - ASIC Physical Design",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1764921673,
+        "date_posted": 1764921673,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---3850-N-First-St/Intern---Engineering--ASIC-Physical-Design-_R2408-25",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SRI International",
+        "id": "6b469735-6228-4bfe-b2c7-01f09e764d81",
+        "title": "Intern \u2013 Computational and Applied Mathematics",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1764922478,
+        "date_posted": 1758832142,
+        "url": "https://careers-sri.icims.com/jobs/6288/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SRI-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
