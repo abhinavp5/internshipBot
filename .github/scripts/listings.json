@@ -102178,7 +102178,7 @@
         "company_name": "Cotiviti",
         "id": "9892e214-ccb9-43f4-8016-f9cf87c0de55",
         "title": "Intern \u2013 Generative AI Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -259419,7 +259419,7 @@
         "company_name": "Kimley-Horn",
         "id": "0ca542fc-7df1-43a1-b90a-7a00baa1ffb9",
         "title": "GIS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -262890,7 +262890,7 @@
         "company_name": "Equativ",
         "id": "556cc3f2-e973-428f-88c3-05f9ef126777",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
