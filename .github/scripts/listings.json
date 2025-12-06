@@ -96013,7 +96013,7 @@
         "company_name": "Cotiviti",
         "id": "3dabf3fa-56cb-4626-a1d7-45c6307008f1",
         "title": "Intern \u2013 Generative AI Research Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -96429,7 +96429,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "385eed62-f687-4fff-ab42-08f41edb4cb5",
         "title": "Quantitative Systematic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -96667,7 +96667,7 @@
         "company_name": "Legrand NA",
         "id": "f12c4439-da73-4544-9abe-313c848354d9",
         "title": "Firmware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -98333,7 +98333,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "97094f97-0c76-42e9-bacf-3f331d041f15",
         "title": "Quantitative Systematic Trading Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -100859,7 +100859,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "c948674f-b374-488f-af89-265ae92d4fca",
         "title": "Machine Learning Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -101021,7 +101021,7 @@
         "company_name": "Cotiviti",
         "id": "9892e214-ccb9-43f4-8016-f9cf87c0de55",
         "title": "Intern \u2013 Generative AI Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -102155,7 +102155,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "32fc1129-317d-499e-b6c3-5ebb215eb592",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -161182,7 +161182,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "5abe26e2-a1a5-4e91-b31b-ce80282cfe95",
         "title": "Quantitative Systematic Trading Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -166730,7 +166730,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "315215f2-cf98-4b01-85eb-14f7837c9dcd",
         "title": "Mobile Application Development Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -166753,7 +166753,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "32530b9f-31b7-4efc-887c-48ec4bd8da7a",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -166777,7 +166777,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "427c46da-aae1-45df-b8af-36a388b72682",
         "title": "AI Engineering Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -166800,7 +166800,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "5aaea3e0-eb7b-4548-8be4-217d0156b004",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -167124,7 +167124,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "bc4eaca1-d7bb-46f8-a195-59f2f4955803",
         "title": "Weather Data Analyst Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -167148,7 +167148,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "46f30da2-6e82-4eed-a01d-e3f793a37634",
         "title": "Quantitative Engineer Intern - Clearing Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -167241,7 +167241,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "1b93bbd4-3c44-4ea5-9be4-12fc01cfbef5",
         "title": "Release Engineering Intern - Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -183979,7 +183979,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ab14d678-a7f0-4e4b-9014-0fc570ae05a3",
         "title": "Electricity + Natural Gas Analyst Internship: Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -191779,7 +191779,7 @@
         "company_name": "SAS",
         "id": "878e5db2-ee3a-4779-b74e-0f88dc9f01d2",
         "title": "Summer 2025-System Architect Intern - Master's",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -212238,7 +212238,7 @@
         "company_name": "Cook Group",
         "id": "1b5d3b69-67e4-479a-9695-419cdbb88228",
         "title": "Information Technology Intern - Artificial Intelligence",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -216452,7 +216452,7 @@
         "company_name": "American Enterprise Institute",
         "id": "94b1b0c1-86b7-4a93-86d0-697898297eab",
         "title": "Housing Center Internship - Housing Center",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -223025,7 +223025,7 @@
         "company_name": "Steel Dynamics",
         "id": "2e633dc2-ec03-4bcd-955d-65a656e9f46b",
         "title": "Quality & Product Development Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -236374,7 +236374,7 @@
         "company_name": "Grow Financial Federal Credit Union",
         "id": "174d4243-5d60-41da-b34b-5071b2105e1c",
         "title": "Systems Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -237336,7 +237336,7 @@
         "company_name": "Westwood",
         "id": "302d27d0-99fe-444c-a240-bbf113f442ac",
         "title": "GIS Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -245079,7 +245079,7 @@
         "company_name": "Alliance Laundry Systems",
         "id": "dda0a2ba-b6fc-4b39-8ba3-32ed779c5321",
         "title": "Product Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -245359,7 +245359,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "66a4e52b-9858-46ed-8489-458449973aeb",
         "title": "FPGA Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -255473,7 +255473,7 @@
         "company_name": "Rambus",
         "id": "9899b175-c337-497b-a181-b9ec44f46a36",
         "title": "Design Verification Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],

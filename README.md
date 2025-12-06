@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 1064 Internship Roles by Category
+### Browse 1065 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (314)
 
@@ -17,7 +17,7 @@
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (476)
 
-📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (36)
+📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (37)
 
 🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (139)
 
@@ -9754,7 +9754,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Shure?utm_source=GHList&utm_medium=company">Shure</a></strong></td>
 <td>Mobile Applications (Android) Intern 🛂</td>
 <td>Niles, IL</td>
 <td>🔒</td>
@@ -16169,7 +16169,7 @@
 <td>Intern Associate Technical Portfolio Analyst</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Blizzard-Entertainment?utm_source=GHList&utm_medium=company">Blizzard Entertainment</a></strong></td>
@@ -19129,7 +19129,7 @@
 <td>PhD Intern - AI Researcher for CAD - B-Rep 🎓</td>
 <td>Toronto, ON, Canada</td>
 <td><div align="center"><a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Intern---AI-Researcher-for-CAD--B-Rep--Generation_25WD92254-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/47844f61-18ee-4be2-a378-45789bdee8d5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NRG-Energy?utm_source=GHList&utm_medium=company">NRG Energy</a></strong></td>
@@ -36477,6 +36477,13 @@
 <td>1mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Susquehanna?utm_source=GHList&utm_medium=company">Susquehanna International Group (SIG)</a></strong></td>
+<td>Quantitative Systematic Trading Intern - Multiple Teams 🎓</td>
+<td>Philadelphia, PA</br>NYC</td>
+<td><div align="center"><a href="https://careers-sig.icims.com/jobs/9314/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5abe26e2-a1a5-4e91-b31b-ce80282cfe95?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Barclays?utm_source=GHList&utm_medium=company">Barclays</a></strong></td>
 <td>Sales - Trading and Structuring Summer Internship Programme 2026 - Multiple Teams</td>
 <td>London, UK</td>
@@ -36502,7 +36509,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (284)</summary>
+<summary>🗃️ Inactive roles (283)</summary>
 
 <table>
 <thead>
@@ -36743,13 +36750,6 @@
 <td>↳</td>
 <td>Quantitative Researcher Intern - Multiple Teams</td>
 <td>Miami, FL</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Susquehanna?utm_source=GHList&utm_medium=company">Susquehanna International Group (SIG)</a></strong></td>
-<td>Quantitative Systematic Trading Intern - Multiple Teams 🎓</td>
-<td>Philadelphia, PA</br>NYC</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
