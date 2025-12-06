@@ -81087,7 +81087,7 @@
         "company_name": "Copeland",
         "id": "5c05e5e9-808b-4377-ad07-83a337acae29",
         "title": "Spring \u2013 Associate Agile Engineer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025"
@@ -84084,7 +84084,7 @@
         "company_name": "Autodesk",
         "id": "4726bb97-70ef-44dd-a753-6ca39945e9e3",
         "title": "Intern \u2013 Software Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -92120,7 +92120,7 @@
         "company_name": "Baird",
         "id": "ceb8337f-67e5-448c-a761-7c5a1b5b7b82",
         "title": "Internship - IT Data & Analytics - Year-Round",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -102552,7 +102552,7 @@
     {
         "date_updated": 1757669614,
         "sponsorship": "Offers Sponsorship",
-        "active": false,
+        "active": true,
         "degrees": [
             "Bachelor's"
         ],
@@ -114887,7 +114887,7 @@
         "company_name": "Ingredion",
         "id": "60acc3ec-8dfd-45ca-9e7a-861d92d7b92a",
         "title": "Product Portfolio Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -114956,7 +114956,7 @@
         "company_name": "Ingredion",
         "id": "7b70869d-69a5-4068-9fdc-5f0ad52d535b",
         "title": "Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -116888,7 +116888,7 @@
         "company_name": "The Toro Company",
         "id": "26f255ab-83d8-4720-860c-21c49670b2b5",
         "title": "Commercial Service Publications Intern - The Toro Company",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -167522,7 +167522,7 @@
         "company_name": "PTC",
         "id": "01162422-6eda-42ba-9efd-59df3e2cbd48",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -170957,7 +170957,7 @@
         "company_name": "HNTB",
         "id": "05fe7a89-7c97-415c-b5b8-c52602da6632",
         "title": "Technology Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -174977,7 +174977,7 @@
         "company_name": "PTC",
         "id": "6fcf7be0-2e34-490a-8089-b791d2c76420",
         "title": "Onshape Software Development \u2013 Intern - AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -176224,7 +176224,7 @@
         "company_name": "CAE",
         "id": "a9d38a3d-2cbd-4be9-b8a9-b7a8ec3a17aa",
         "title": "R&D Engineering Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -184073,7 +184073,7 @@
         "company_name": "Autodesk",
         "id": "1b73fe84-0ab4-4e37-acef-c90f282dd825",
         "title": "Intern \u2013 Ecommerce Machine Learning",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -191429,7 +191429,7 @@
         "company_name": "General Motors",
         "id": "ff0a0e20-d264-41e0-af86-2aef50bb4574",
         "title": "Summer Intern - Research & Development - Vehicle Health Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -199588,7 +199588,7 @@
         "company_name": "PTC",
         "id": "b5e4ba67-6b28-4fbc-8e3f-0a066dec3d1b",
         "title": "R&D Product Operations Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -199821,7 +199821,7 @@
         "company_name": "Prologis",
         "id": "fee11d35-8013-4523-9714-1e3b0a590276",
         "title": "Intern \u2013 Global Strategy Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -201560,7 +201560,7 @@
         "company_name": "Tencent",
         "id": "6bdda2c4-63b7-4bbd-9f90-e10f7ddf8325",
         "title": "Tencent Cloud Cpaas Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -204903,7 +204903,7 @@
         "company_name": "PTC",
         "id": "9b5b114b-6b81-4a85-9185-7357ce26e6a5",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -232329,7 +232329,7 @@
         "company_name": "Nidec",
         "id": "aa80bef8-20db-4958-adbe-8ee2fc469f31",
         "title": "Project Portfolio Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -237523,7 +237523,7 @@
         "company_name": "Avis Budget Group",
         "id": "67f3247a-bf70-494c-b643-e37fc9d18645",
         "title": "Accelerate \u2013 And Analytics Intern - Commercial Strategy - Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -243743,7 +243743,7 @@
         "company_name": "Autodesk",
         "id": "d9c698fc-a40e-4bcf-b660-5dc2af81fbfc",
         "title": "PhD Intern - Efficient 3D Generated Frameworks",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -245905,7 +245905,7 @@
         "company_name": "The Boeing Company",
         "id": "55b29805-7cc5-4cfc-a805-400b9853d85f",
         "title": "Assembly Mechanic Apprenticeship-Electrical",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -247053,7 +247053,7 @@
         "company_name": "Tencent",
         "id": "85aa94d6-bd23-48a9-a0ca-f51433dea9ca",
         "title": "Hunyuan AIGC Algorithm Researcher Intern - World Model Foundation Direction",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -251418,7 +251418,7 @@
         "company_name": "Geico",
         "id": "654f6fbc-1ad8-426f-a357-dc935efddde4",
         "title": "TDP Software and AI Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -251464,7 +251464,7 @@
         "company_name": "LabCorp",
         "id": "9909d8e0-02a6-4e22-b78b-7d06712763ab",
         "title": "Intern Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -251486,7 +251486,7 @@
         "company_name": "LabCorp",
         "id": "966cbcdd-f24d-40fe-93fd-76fbc48d3b64",
         "title": "Intern - Real World Data Curation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -262218,7 +262218,7 @@
         "company_name": "Trellix",
         "id": "010b2570-29e7-47aa-8078-6e5d362e3a02",
         "title": "Undergraduate Intern - Months - Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -263231,7 +263231,7 @@
         "company_name": "Workday",
         "id": "4ca5ee10-ec57-4527-bf55-46dbaf213fde",
         "title": "Data and AI Platforms Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
