@@ -134,25 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Alo Yoga",
-        "id": "2fff27a3-530e-4ffe-8809-624841eb4d5c",
-        "title": "Software Engineering \u2013 HRIS Intern",
-        "active": false,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": 1744265897,
-        "date_posted": 1744265897,
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/5499692004",
-        "locations": [
-            "Culver City, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Alo-Yoga",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Socure",
         "id": "0922473c-105a-4e93-9759-7098f96d34a3",
         "title": "Data Science Intern - DI",
@@ -376,25 +357,6 @@
             "Orange Park, FL"
         ],
         "company_url": "https://simplify.jobs/c/KBR",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Cyberark",
-        "id": "984603a7-550f-45c7-a058-1d1d50bc4361",
-        "title": "AI GTM Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744266146,
-        "date_posted": 1744266146,
-        "url": "https://jobs.smartrecruiters.com/Cyberark1/744000052969960",
-        "locations": [
-            "Newton, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/ad82fc6f-2c63-4173-8dcd-2209d5a97368",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -788,23 +750,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Sentry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Lightcast",
-        "id": "1871e448-1bfe-4775-9b40-1e95b7fc3753",
-        "title": "Engineering Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1744360184,
-        "date_posted": 1744265815,
-        "url": "https://jobs.lever.co/economicmodeling/8e1865e0-0e9a-4e86-a86a-f98266f1b1a8/apply",
-        "locations": [
-            "Moscow, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Lightcast",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -96950,7 +96895,7 @@
         "company_name": "Legrand NA",
         "id": "f12c4439-da73-4544-9abe-313c848354d9",
         "title": "Firmware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -100030,7 +99975,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "7bb38c12-27e1-4e8d-bddd-a149edbd6e8a",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -130280,7 +130225,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "cd1eeddf-de6b-42cb-93a8-e468e9b5f219",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -191425,7 +191370,7 @@
         "company_name": "MasterControl",
         "id": "f516b03c-e4ae-48a5-a08f-91cf183142d4",
         "title": "Data Platform Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -192062,7 +192007,7 @@
         "company_name": "SAS",
         "id": "878e5db2-ee3a-4779-b74e-0f88dc9f01d2",
         "title": "Summer 2025-System Architect Intern - Master's",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -242109,7 +242054,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "97e090ec-e81f-4184-9dd9-87a5d6360c1d",
         "title": "Product Management Intern - Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -260970,7 +260915,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "0228371c-2e46-4c9f-aab5-1ed2fa8028a6",
         "title": "Software Intern Engineer for Crypto and Cross Domain Solutions",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -260991,7 +260936,7 @@
         "company_name": "Carrier Global",
         "id": "777abdff-9abb-4430-9681-951fefcbec85",
         "title": "Software Engineering Intern - Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -261012,7 +260957,7 @@
         "company_name": "Carrier Global",
         "id": "0d54ff03-4657-4590-af05-08783fef3699",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -261033,7 +260978,7 @@
         "company_name": "Carrier Global",
         "id": "04dd59f5-b1d5-41a3-b44e-7bc3ad9c83b9",
         "title": "Software Engineering Intern - Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2028",
             "Spring 2028",
@@ -264242,6 +264187,93 @@
             "Dallas, TX"
         ],
         "company_url": "https://simplify.jobs/c/Standard-Aero",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Calico Labs",
+        "id": "51f2fd67-840d-4144-bdef-751d59751620",
+        "title": "Intern \u2013 Laboratory Automation Software - BS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765002829,
+        "date_posted": 1765002829,
+        "url": "https://www.calicolabs.com/careers/?gh_jid=8326850002",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/CalicoLabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Calico Labs",
+        "id": "12ed34e3-30d4-4581-bd3d-8957f6b89745",
+        "title": "Intern \u2013 Machine Learning and Genomics - MS/PhD",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765002823,
+        "date_posted": 1765002823,
+        "url": "https://www.calicolabs.com/careers/?gh_jid=8326864002",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/CalicoLabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "8df19359-596a-49ad-9a84-f32be586b072",
+        "title": "Autonomous Network Fabric Eng Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1765001959,
+        "date_posted": 1765001959,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28016",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Honeywell",
+        "id": "d930845a-377b-40c2-bcdc-81e0b9a7007d",
+        "title": "Intern \u2013 Embedded Firmware Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1765001944,
+        "date_posted": 1765001944,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/130551",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
