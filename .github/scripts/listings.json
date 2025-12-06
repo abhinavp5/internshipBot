@@ -134,44 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Socure",
-        "id": "0922473c-105a-4e93-9759-7098f96d34a3",
-        "title": "Data Science Intern - DI",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744267887,
-        "date_posted": 1744267887,
-        "url": "https://socure.wd1.myworkdayjobs.com/en-US/SocureCareers/job/Remote---USA/Data-Science-Intern---DI_JR512",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Socure",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Socure",
-        "id": "173ee118-bbc1-4812-bf33-0b4d55a7d292",
-        "title": "Data Science Intern - Fpf",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744267866,
-        "date_posted": 1744267866,
-        "url": "https://socure.wd1.myworkdayjobs.com/en-US/SocureCareers/job/Remote---USA/Data-Science-Intern_JR510",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Socure",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Tesla",
         "id": "f25595e7-e369-406f-a31a-00b96cb666d9",
         "title": "Internship - Thermal Systems Embedded Software Engineer - Vehicle Firmware",
@@ -85478,7 +85440,7 @@
         "company_name": "Marvell",
         "id": "86037ae8-2dc6-4086-8507-7f05cdd324f2",
         "title": "Package Engineering Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -165919,7 +165881,7 @@
         "company_name": "Trimble",
         "id": "4f502412-4401-4c95-9c48-ee6a703e4d75",
         "title": "Hardware Engineering Intern - CTCT",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -173606,7 +173568,7 @@
     {
         "date_updated": 1760597526,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -180804,7 +180766,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "c1c29644-635a-435f-af62-0ad18f6a5872",
         "title": "AI Engineering Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -191857,7 +191819,7 @@
         "company_name": "L.L.Bean",
         "id": "206e0559-5b5f-4789-a9e8-f4e35c6a9d05",
         "title": "Customer Marketing Analytics Intern - ",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -206299,7 +206261,7 @@
         "company_name": "Skydio",
         "id": "07c9c6e5-0037-4dfd-b370-d6168c770515",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -214381,7 +214343,7 @@
         "company_name": "Red Hat",
         "id": "a0faa8c7-7870-415f-ab24-d68d8eb51253",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -236322,7 +236284,7 @@
         "company_name": "Workday",
         "id": "5429e9bd-2896-4b0b-9940-900a8e63010b",
         "title": "Analytics Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -257966,7 +257928,7 @@
         "company_name": "Uhaul",
         "id": "ca98fb6f-1da4-4462-835b-abc037464b92",
         "title": "Software Development Intern - Software Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -262496,7 +262458,7 @@
         "company_name": "Camping World",
         "id": "50722b66-a508-483e-b5c1-42e312a8c3ce",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -264274,6 +264236,133 @@
             "Crawley, UK"
         ],
         "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dexcom",
+        "id": "fc6e063f-7210-43c5-aa76-33d157f60996",
+        "title": "Intern 2 - Data Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765003813,
+        "date_posted": 1765003813,
+        "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Intern-II---Data-Engineering_JR115330",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dexcoma",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Simons Foundation",
+        "id": "fb844deb-54bc-49de-931f-9e8293cf95af",
+        "title": "Scientific Visual Exploration Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765003464,
+        "date_posted": 1765003464,
+        "url": "https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/162-Fifth-Avenue-New-York-NY/Scientific-Visual-Exploration-Software-Intern_R0001996",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/645bbffd-6910-4c90-b4d5-ec941d975b60",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Simons Foundation",
+        "id": "faac02c4-698b-4f8b-af8e-b2e9f2824f5b",
+        "title": "High Performance Computing Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1765003468,
+        "date_posted": 1765003468,
+        "url": "https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/162-Fifth-Avenue-New-York-NY/High-Performance-Computing-Intern_R0001993",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/645bbffd-6910-4c90-b4d5-ec941d975b60",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Orthofix",
+        "id": "cab2a722-65f1-41a7-a1fc-34e547e9db35",
+        "title": "Intern Data Scientist",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1765003292,
+        "date_posted": 1765003292,
+        "url": "https://orthofix.wd1.myworkdayjobs.com/external_careers/job/Toronto/Intern---Canada_OFX25627",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Orthofix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Regal Rexnord",
+        "id": "8f59e20b-6ccd-4606-87d3-40bdc3f4aba5",
+        "title": "Engineering Lab Technology Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1765003378,
+        "date_posted": 1765003378,
+        "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Engineering-Lab-Technology-Co-op--Spring-2026-_R25_05904",
+        "locations": [
+            "Vandalia, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/37e0cd83-539e-4474-a63a-abc8ce7b4694",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "79947bfa-c40f-482a-b3c4-e3934d49f19f",
+        "title": "SoC Design Verification Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1765003359,
+        "date_posted": 1765003359,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Richardson/SoC-Design-Verification-Intern--Winter-Spring-2026-_JR-2504263",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
