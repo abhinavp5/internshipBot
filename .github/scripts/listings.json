@@ -134,44 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "thyssenkrupp",
-        "id": "82e18d58-a40d-461a-b814-ed3b6f0b378f",
-        "title": "Data Analytics Intern - Business Solutions Group",
-        "active": false,
-        "terms": [],
-        "date_updated": 1744300940,
-        "date_posted": 1744300940,
-        "url": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Southfield-Michigan-USA/Data-Analytics-Intern---Business-Solutions-Group_JR102729",
-        "locations": [
-            "Southfield, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Thyssenkrupp",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Proofpoint",
-        "id": "e2e051d9-605d-4f77-987e-641e59bf754c",
-        "title": "Software Engineering Intern - Machine Learning",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744301129,
-        "date_posted": 1744301129,
-        "url": "https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Sunnyvale-CA/Software-Engineering-Intern--Machine-Learning_R12174",
-        "locations": [
-            "Pittsburgh, PA",
-            "Draper, UT",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/proofpoint",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "LiveRamp",
         "id": "7bd70dab-61b4-433b-a397-855958886504",
         "title": "Software Engineer Co-Op",
@@ -208058,7 +208020,7 @@
         "company_name": "Wabtec",
         "id": "fd278d60-2ce4-4197-8e98-8fe7ca50243f",
         "title": "Mechatronics Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
