@@ -221330,7 +221330,7 @@
         "company_name": "BP",
         "id": "81bf0241-7f2f-462b-898a-c55d371f07f3",
         "title": "Apprenticeship - Digital - Data Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -233008,7 +233008,7 @@
         "company_name": "Teledyne",
         "id": "689d2320-97b9-49eb-910e-901bc1a4fb98",
         "title": "Computer Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -239132,7 +239132,7 @@
         "company_name": "Lumafield",
         "id": "498a98d5-6036-42e9-a7ae-4e8ffd66e251",
         "title": "Product Intern - Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -254139,7 +254139,7 @@
         "company_name": "Dallas Fort Worth International Airport",
         "id": "c5fd015a-f367-40b0-b5af-2873a8b2c4f1",
         "title": "2026 Undergraduate Summer Internship - HR Data Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -260786,7 +260786,7 @@
         "company_name": "Amgen",
         "id": "48b7222e-4a05-4350-8ed3-a3e6e9f9a172",
         "title": "R&D Digital Operations Grad Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
