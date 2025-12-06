@@ -149521,7 +149521,7 @@
         "company_name": "Electronic Arts",
         "id": "bed1d764-b91a-405a-af14-93d21892258e",
         "title": "AI Engineer Intern - AI Platform",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -264236,6 +264236,27 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WTW",
+        "id": "6a3c3dac-9a62-4e44-af28-3e821630f8d1",
+        "title": "Corporate Risk and Broking Intern - Risk & Analytics Core-2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765016172,
+        "date_posted": 1765016172,
+        "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202508633",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/WTW",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
