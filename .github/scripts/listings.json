@@ -100716,7 +100716,7 @@
         "company_name": "Shure",
         "id": "bd24eda5-ecb6-497b-9a0f-e45bf2378726",
         "title": "Marketing Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -156685,7 +156685,7 @@
         "company_name": "Innovative Defense Technologies",
         "id": "a20e0820-f1ea-4b11-8fb5-9cd5f608b415",
         "title": "Software Engineer Intern - Integrated Mission Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -166777,7 +166777,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "427c46da-aae1-45df-b8af-36a388b72682",
         "title": "AI Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -167078,7 +167078,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "4e79f79a-bf73-45f0-a035-c8ed56f6cbcd",
         "title": "Software Engineering Intern - Full-Stack - Java",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -180791,7 +180791,7 @@
         "company_name": "Second Dinner",
         "id": "d4c077e6-f86e-4652-bfd0-2a68e196b562",
         "title": "2026] Product Manager Intern - Unannounced Super Fun Video Game",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -203791,7 +203791,7 @@
         "company_name": "Rivian",
         "id": "bbdd6b69-e411-4469-aa55-487d44ea13f8",
         "title": "Software Engineering Intern - Android - Mobile App Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2027",
@@ -264257,6 +264257,27 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/WTW",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "569c7c14-69f8-4074-8301-6d0815747765",
+        "title": "Assembly & Test Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1765021223,
+        "date_posted": 1765021223,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/ELC01-Midland-Ontario-Canada-450-Leitz-Road-Midland-ON-L4R-5B8-Canada/Assembly---Test-Engineering-Co-op_01811034",
+        "locations": [
+            "Barrie, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
