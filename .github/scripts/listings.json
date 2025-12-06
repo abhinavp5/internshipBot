@@ -79878,7 +79878,7 @@
         "company_name": "PennState University",
         "id": "69430fc1-dbac-4fba-8c07-697012305db3",
         "title": "Guidance and Control Research & Development Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Spring 2025",
@@ -98865,7 +98865,7 @@
         "company_name": "Shure",
         "id": "67dbe0f9-2e0a-40f0-973e-ec2714e57a07",
         "title": "Proof of Concept Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -99242,7 +99242,7 @@
         "company_name": "Shure",
         "id": "cceac49b-69c3-419f-b97d-5a1ed6b46e09",
         "title": "Cloud Applications Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -101065,7 +101065,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "08b5f3e9-aa6a-4dcb-839c-f936a41196a3",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -130955,7 +130955,7 @@
         "company_name": "W.R. Berkley",
         "id": "0c7562e6-7d8e-4ada-b934-9b6bdd000c2f",
         "title": "Intern \u2013 Software Developer - Reactjs",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -193558,7 +193558,7 @@
         "company_name": "CACI",
         "id": "5f9cb4a7-82ee-4a17-8634-489ab25127d7",
         "title": "Application Developer Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -215169,7 +215169,7 @@
         "company_name": "Wabtec",
         "id": "6552aea7-d64a-4712-8795-0fedf9435a02",
         "title": "Summer 2026 Engineering Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -217293,7 +217293,7 @@
         "company_name": "Sentinel Technologies",
         "id": "ed47a0ef-d38b-4641-b6c9-512c3d497b78",
         "title": "AI Intern - Enterprise Architecture - Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -217811,7 +217811,7 @@
         "company_name": "Bartlett & West",
         "id": "878534f2-b978-4d1e-ade6-a97e9dc0acee",
         "title": "GIS Intern - Water Resources Focus",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -241326,7 +241326,7 @@
         "company_name": "FM Global",
         "id": "75a609b8-21b5-4234-80a7-a1a9901ec71a",
         "title": "Data Visualization & Reporting",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -258296,7 +258296,7 @@
         "company_name": "Harvard Business Publishing",
         "id": "e6ca74c2-8674-4fe2-a88f-e5dae2ebbf82",
         "title": "Data Engineering Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
