@@ -254413,7 +254413,7 @@
         "company_name": "Danaher Corporation",
         "id": "4e6c4ded-ee8f-479a-9b2e-63c2687a649c",
         "title": "Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
