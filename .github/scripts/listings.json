@@ -25800,7 +25800,7 @@
         "company_name": "M&T Bank",
         "id": "9551aba3-b479-4be7-ac1c-b13c55c7e694",
         "title": "Technology Internship Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -254516,7 +254516,7 @@
         "company_name": "Chevron Corporation",
         "id": "67edabcd-aab9-4cce-8a49-f6b219d06781",
         "title": "Earth Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
