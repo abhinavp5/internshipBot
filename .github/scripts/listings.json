@@ -134,97 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Veolia",
-        "id": "5196b209-29c9-4566-9011-3ad4bcf21bfd",
-        "title": "Junior Drupal Development Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1744353735,
-        "date_posted": 1744353735,
-        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000053148205",
-        "locations": [
-            "Paramus, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Veolia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Veolia",
-        "id": "9e30b060-72a4-4bcc-97df-bdb2c98df6fe",
-        "title": "Junior Java Development Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1744353719,
-        "date_posted": 1744353719,
-        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000053145599",
-        "locations": [
-            "Paramus, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Veolia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Veolia",
-        "id": "93b0f04f-1a34-4ffa-af75-13f3e4f0fc18",
-        "title": "GIS Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744353705,
-        "date_posted": 1744353705,
-        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000053171795",
-        "locations": [
-            "Moonachie, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Veolia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Veolia",
-        "id": "389188e8-5fe2-47a4-9332-ba4d90f906bb",
-        "title": "GIS Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744353704,
-        "date_posted": 1744353704,
-        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000053171855",
-        "locations": [
-            "Saddle Brook, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Veolia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "GP Fund Solutions",
-        "id": "43957c29-69b6-42ca-8675-bc9727747d16",
-        "title": "Data Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744353574,
-        "date_posted": 1744353574,
-        "url": "https://gpfs.breezy.hr/p/fcb4b86d62b4/apply",
-        "locations": [
-            "Latham, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/GP-Fund-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Mill",
         "id": "f2ef3744-4d37-4dbb-8c27-944d59ac5066",
         "title": "Firmware Engineering Intern",
@@ -237,25 +146,6 @@
             "San Bruno, CA"
         ],
         "company_url": "https://simplify.jobs/c/1b1d6494-c3a4-4700-94ca-f6de41fb4693",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "TabaPay",
-        "id": "02d2d0ce-95dc-451e-bcae-84aa7341c91f",
-        "title": "Python Engineer Summer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744355264,
-        "date_posted": 1744355264,
-        "url": "https://tabapay.com/careers.html?gh_jid=4555063006",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TabaPay",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -161351,7 +161241,7 @@
         "company_name": "Thomson Reuters",
         "id": "bf14b465-70ca-41c8-a84b-90b7c815d3e2",
         "title": "Research Engineering Intern - AI Platform",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -208280,7 +208170,7 @@
         "company_name": "Stanley Black & Decker",
         "id": "7e968c55-c09d-4390-b270-61a0f7a0dd0b",
         "title": "Engineering Co-Op: Summer and Fall 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -240629,7 +240519,7 @@
         "company_name": "St. Jude Children's Research Hospital",
         "id": "53ade756-4246-41d4-ae05-0e07e5df5d3c",
         "title": "Intern - Web Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -252248,7 +252138,7 @@
         "company_name": "AstraZeneca",
         "id": "5132b3c0-b35b-468a-a498-7adb1e3e5fa5",
         "title": "Medical Affairs Analytics Intern - Oncology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
