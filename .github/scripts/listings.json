@@ -37080,7 +37080,7 @@
         "company_name": "Sony",
         "id": "4d31c39d-1ec6-4a10-8e98-ff51adbdfe94",
         "title": "Reinforcement Learning Research Intern for Game AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -257752,7 +257752,7 @@
         "company_name": "Sony",
         "id": "6fac482f-97c8-49bc-94b9-7088623f5f3f",
         "title": "Engineering Intern - AI Ethics",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
