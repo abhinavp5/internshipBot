@@ -133,25 +133,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Leidos",
-        "id": "5ac90468-a1cd-4cb9-9dd4-90356a85df96",
-        "title": "Software Development Intern",
-        "active": false,
-        "terms": [
-            "Spring 2025"
-        ],
-        "date_updated": 1744357801,
-        "date_posted": 1744357801,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Long-Beach-MS/Software-Development-Intern_R-00157221",
-        "locations": [
-            "Long Beach, MS"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1749268602,
         "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5509/fall-intern%2c-technology-engineering/job",
         "company_name": "Mackenzie Investments",
@@ -166804,7 +166785,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "b6c9b12c-91ca-4c05-aec8-48f75605ec6f",
         "title": "Data and Machine Learning Intern - Artificial Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
