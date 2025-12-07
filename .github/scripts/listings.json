@@ -106475,7 +106475,7 @@
         "company_name": "Lennox International",
         "id": "606f3d71-4e31-4ce2-93bb-662378d17ab8",
         "title": "IoT Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -235941,7 +235941,7 @@
         "company_name": "Grow Financial Federal Credit Union",
         "id": "174d4243-5d60-41da-b34b-5071b2105e1c",
         "title": "Systems Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -240427,7 +240427,7 @@
         "company_name": "St. Jude Children's Research Hospital",
         "id": "d209773a-07f4-478b-b8f5-e17e6cd63776",
         "title": "Summer Intern - IT",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
