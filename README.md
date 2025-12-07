@@ -7577,7 +7577,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/CIBC?utm_source=GHList&utm_medium=company">CIBC</a></strong></td>
+<td>↳</td>
 <td>Application/Software Developer Co-op - Capital Markets Technology</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
@@ -13000,7 +13000,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Cisco?utm_source=GHList&utm_medium=company">Cisco</a></strong></td>
+<td>↳</td>
 <td>Security Consulting Engineer I – Intern</td>
 <td>Research Triangle, Durham, NC</td>
 <td>🔒</td>
@@ -37636,7 +37636,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/PIMCO?utm_source=GHList&utm_medium=company">PIMCO</a></strong></td>
+<td>↳</td>
 <td>PhD Summer Intern - Portfolio Management - Quantitative Research Analyst 🎓</td>
 <td>Newport Beach, CA</td>
 <td>🔒</td>
