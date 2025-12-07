@@ -3073,10 +3073,10 @@
 <td>Software Engineer Intern</td>
 <td>Richardson, TX</td>
 <td>🔒</td>
-<td>29d</td>
+<td>30d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>↳</td>
 <td>2026 Intern – Software Engineer Platform Intern - Onsite - TX</td>
 <td>Richardson, TX</td>
 <td>🔒</td>
@@ -14344,14 +14344,14 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
 <td>Software Engineer Intern - Data Arch - Shorttext Rec - BS/MS</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
 <td>4mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
+<td>↳</td>
 <td>Software Development Engineer in Test Intern - Tiktok-Growth</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
@@ -15423,7 +15423,7 @@
 <td>Product Management Intern - Software Engineering</td>
 <td>Austin, TX</td>
 <td><div align="center"><a href="https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Product-Management-Intern--Software-Engineering-_JR103955?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1ec89d97-6eda-4adf-a79f-7a35e2b07fd1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Lumafield?utm_source=GHList&utm_medium=company">Lumafield</a></strong></td>
@@ -16627,7 +16627,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Patreon?utm_source=GHList&utm_medium=company">Patreon</a></strong></td>
+<td>↳</td>
 <td>Product Management Intern</td>
 <td>SF</br>NYC</td>
 <td>🔒</td>
@@ -18443,7 +18443,7 @@
 <td>Data Engineer Intern</td>
 <td>Elmira, NY</td>
 <td><div align="center"><a href="https://corningjobs.corning.com/job/Corning-Data-Engineering-Intern-Summer-2026-NY-14831/1347705900/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d5b13d85-fb65-4298-afc1-e482fb1cfc3b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Tokyo-Electron?utm_source=GHList&utm_medium=company">Tokyo Electron</a></strong></td>
@@ -24246,7 +24246,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Chubb?utm_source=GHList&utm_medium=company">Chubb</a></strong></td>
 <td>2026 Risk Engineering Intern - Global Underwriting Support</td>
 <td>Bedminster, NJ</td>
 <td>🔒</td>
@@ -36555,7 +36555,7 @@
 <td>12-month Internship program: Investment Quantitative Research team in London</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/StoneX-Group?utm_source=GHList&utm_medium=company">StoneX Group</a></strong></td>
