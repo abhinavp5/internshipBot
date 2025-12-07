@@ -133,25 +133,6 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1749320302,
-        "url": "https://job-boards.greenhouse.io/sentry/jobs/6793872/",
-        "company_name": "Sentry",
-        "title": "Software Engineer, Intern (Fall 2025)",
-        "locations": [
-            "Toronto, Canada"
-        ],
-        "terms": [
-            "Fall 2025"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "GaryZhous",
-        "id": "879333a4-f61b-46d1-8902-39f4dbf0de10",
-        "date_posted": 1744346210,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "company_name": "Alo Yoga",
         "id": "71008e50-31e5-48a4-85d5-3288247661f5",
@@ -167545,7 +167526,7 @@
         "company_name": "PTC",
         "id": "00084bb2-38f6-4ccb-a13f-ac955e6fb053",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -176749,7 +176730,7 @@
         "company_name": "The Toro Company",
         "id": "c2d35d79-425d-4184-90ee-270187371951",
         "title": "IBP Data Management Intern - The Toro Company",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
