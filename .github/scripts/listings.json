@@ -85157,7 +85157,7 @@
         "company_name": "Marvell",
         "id": "86037ae8-2dc6-4086-8507-7f05cdd324f2",
         "title": "Package Engineering Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -252761,7 +252761,7 @@
         "company_name": "Carrier Global",
         "id": "131d00d1-d67f-484c-a861-624583344657",
         "title": "Digital Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -262070,7 +262070,7 @@
         "company_name": "Northrop Grumman",
         "id": "ef781138-b3d1-429f-895f-30bbe42d0840",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
