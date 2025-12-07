@@ -134,102 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Alo Yoga",
-        "id": "71008e50-31e5-48a4-85d5-3288247661f5",
-        "title": "Business Systems Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2024"
-        ],
-        "date_updated": 1744352327,
-        "date_posted": 1744352327,
-        "url": "https://boards.greenhouse.io/aloyoga/jobs/5500720004",
-        "locations": [
-            "Culver City, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Alo-Yoga",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "ByteDance",
-        "id": "38fd1355-b788-437a-a469-1a3fab3d5086",
-        "title": "Software Engineer Intern - AIGC Platform - Monetization GenAI",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1744352953,
-        "date_posted": 1744352953,
-        "url": "https://jobs.bytedance.com/en/position/7491779899817412882/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "ServiceNow",
-        "id": "80dd5fb8-d073-44ff-8e67-96a2abf3614a",
-        "title": "Intern \u2013 Associate Software Engineer",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1744352803,
-        "date_posted": 1744352803,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000053195651",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Nokia",
-        "id": "ea8de79b-7f71-4bc6-85fa-36c64c89922c",
-        "title": "Software Designer Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1744352661,
-        "date_posted": 1744352661,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/19491",
-        "locations": [
-            "Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Nokia",
-        "id": "834e7cf2-7b51-48d8-b109-5e730071653f",
-        "title": "UI Web Developer Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1744352654,
-        "date_posted": 1744352654,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/19495",
-        "locations": [
-            "Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Veolia",
         "id": "5196b209-29c9-4566-9011-3ad4bcf21bfd",
         "title": "Junior Drupal Development Intern",
@@ -81211,7 +81115,7 @@
         "company_name": "Genuine Parts Company",
         "id": "85af988d-2c72-41e0-9cc0-837d6252313a",
         "title": "Mobile Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -187550,7 +187454,7 @@
         "company_name": "Marriott Vacations Worldwide",
         "id": "ca63f029-b288-4298-882f-7b632bb244fa",
         "title": "Data Science Intern - Spring 2026 - Orlando - FL",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -228754,7 +228658,7 @@
         "company_name": "Gilead Sciences",
         "id": "6ece6ca9-436e-483b-aeae-f8171e1fe171",
         "title": "Intern \u2013 R&D - Information Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -243766,7 +243670,7 @@
         "company_name": "Blue Origin",
         "id": "aa2e2b6f-9e08-44d8-92f2-2f4db3af51eb",
         "title": "Engineering - Undergraduate",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
