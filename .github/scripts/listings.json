@@ -247,25 +247,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Assurant",
-        "id": "25cc85bb-85df-4221-9175-e0f2df08e843",
-        "title": "Data Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744462512,
-        "date_posted": 1744462512,
-        "url": "https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Lewisville/Data-Analytics-Intern_R-108328",
-        "locations": [
-            "Lewisville, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Assurant",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1744522545,
         "url": "https://careers.siemens-healthineers.com/global/en/job/R-20844/Application-Software-Developer-Intern",
         "company_name": "Siemens Healthineers",
@@ -52282,7 +52263,7 @@
         "company_name": "AbbVie",
         "id": "14aa40b6-8174-4dcd-b20d-9f417ef55e0f",
         "title": "Computational Data Scientist Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -235324,7 +235305,7 @@
         "company_name": "Workday",
         "id": "5429e9bd-2896-4b0b-9940-900a8e63010b",
         "title": "Analytics Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
