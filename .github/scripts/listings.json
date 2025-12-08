@@ -232496,7 +232496,7 @@
         "company_name": "Vanasse Hangen Brustlin (VHB)",
         "id": "d3e79988-39b8-41dc-8737-999d4650d3d7",
         "title": "Traffic Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -262444,7 +262444,7 @@
         "company_name": "Trellix",
         "id": "b41be869-a3ce-4f8d-8e6e-48020b3ae41f",
         "title": "Undergraduate Intern - Months - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -263132,7 +263132,7 @@
         "company_name": "Honeywell",
         "id": "d930845a-377b-40c2-bcdc-81e0b9a7007d",
         "title": "Intern \u2013 Embedded Firmware Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
