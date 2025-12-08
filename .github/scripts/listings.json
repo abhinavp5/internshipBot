@@ -95764,7 +95764,7 @@
         "company_name": "Legrand NA",
         "id": "f12c4439-da73-4544-9abe-313c848354d9",
         "title": "Firmware Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -100236,7 +100236,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "08b5f3e9-aa6a-4dcb-839c-f936a41196a3",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -166315,7 +166315,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "b6c9b12c-91ca-4c05-aec8-48f75605ec6f",
         "title": "Data and Machine Learning Intern - Artificial Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -166338,7 +166338,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "1b93bbd4-3c44-4ea5-9be4-12fc01cfbef5",
         "title": "Release Engineering Intern - Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -174454,7 +174454,7 @@
         "company_name": "Serco North America",
         "id": "9834ac2b-e4e0-4ffc-8e31-227db9f80cac",
         "title": "Software Engineering Intern - Orlando - FL",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -194297,7 +194297,7 @@
         "company_name": "Epic Games",
         "id": "705a7ad5-44e5-407d-ad68-3a17db40698d",
         "title": "Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -206364,7 +206364,7 @@
         "company_name": "Epic Games",
         "id": "d18cf107-1097-4539-9a12-36e5438d0aa9",
         "title": "Engine Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -211118,7 +211118,7 @@
         "company_name": "Alliance Laundry Systems",
         "id": "24845bef-dcad-4c18-a140-12ba502024c7",
         "title": "Project Data Analyst Co-op - Project Management - Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -214088,7 +214088,7 @@
         "company_name": "Tencent",
         "id": "61928166-a9f9-49af-9c21-57d6637d7ead",
         "title": "3D Model and Scene Generation Algorithm Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -215549,7 +215549,7 @@
         "company_name": "American Enterprise Institute",
         "id": "94b1b0c1-86b7-4a93-86d0-697898297eab",
         "title": "Housing Center Internship - Housing Center",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -217256,7 +217256,7 @@
         "company_name": "American Enterprise Institute",
         "id": "899e3af7-b2d9-4974-acf0-597d80f7d0a5",
         "title": "Spring Intern: Data Analysis and Education Policy",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -220845,7 +220845,7 @@
         "company_name": "Legrand NA",
         "id": "458d3f94-3485-481b-9c89-637846a1a233",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -227724,7 +227724,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "b2e5c9a4-0b91-4f7b-a58b-29b7500589fd",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -232827,7 +232827,7 @@
         "company_name": "Micron Technology",
         "id": "9ade09b9-1071-46ac-81e2-3064864a9ea1",
         "title": "Registered Apprenticeship Program - Equipment Technician",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -239024,7 +239024,7 @@
         "company_name": "Shure",
         "id": "dbfe6459-45e8-40be-b954-8c607b54b4e8",
         "title": "Global Product Management Intern - Content Creation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -240497,7 +240497,7 @@
         "company_name": "FM Global",
         "id": "75a609b8-21b5-4234-80a7-a1a9901ec71a",
         "title": "Data Visualization & Reporting",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -247246,7 +247246,7 @@
         "company_name": "Chewy",
         "id": "3c85927b-23b7-43d4-bb01-f367e6019b68",
         "title": "AI Research Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -248541,7 +248541,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "417871cd-9f57-4003-ba18-d9cab6796608",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -259784,7 +259784,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "0228371c-2e46-4c9f-aab5-1ed2fa8028a6",
         "title": "Software Intern Engineer for Crypto and Cross Domain Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -261609,7 +261609,7 @@
         "company_name": "SRI International",
         "id": "6b469735-6228-4bfe-b2c7-01f09e764d81",
         "title": "Intern \u2013 Computational and Applied Mathematics",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -263505,6 +263505,112 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Port-Authority-NY-NJ",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "KEEN Footwear",
+        "id": "52015586-dadc-41b9-96ad-3d4f9e04173a",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765223934,
+        "date_posted": 1765223934,
+        "url": "https://www.keenfootwear.com/careers-list.html?4636127005&gh_jid=4636127005",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/KEEN-Footwear",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Moloco",
+        "id": "855fb7ac-5e14-4cbb-af1f-20ae9bac892c",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1765223126,
+        "date_posted": 1765223126,
+        "url": "https://job-boards.greenhouse.io/moloco/jobs/7547608003",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Moloco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Primetals Technologies",
+        "id": "a33b8745-fe0a-4221-8df4-ca4dd5410744",
+        "title": "Apprentice Field Service Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1765222617,
+        "date_posted": 1765222617,
+        "url": "https://mhicareers.com/job/North-Las-Vegas-Apprentice-Field-Service-Engineer-NV-89115/1274430701/?ats=successfactors",
+        "locations": [
+            "North Las Vegas, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Primetals-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "ATLAS SP",
+        "id": "8717cb10-bad9-4c10-a8f0-1ad51f2c0072",
+        "title": "Summer 2027 Aspire Origination \u2013 Sales & Trading Internship",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1765222639,
+        "date_posted": 1765222639,
+        "url": "https://job-boards.greenhouse.io/atlassp/jobs/4998016007",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/ATLAS-SP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Mackenzie Investments",
+        "id": "3cdc8c73-d123-4c0c-b0b5-60fb851617ac",
+        "title": "Intern - Product - ETF",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765223761,
+        "date_posted": 1759910184,
+        "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5732/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mackenzie-Investments",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
