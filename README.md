@@ -2933,7 +2933,7 @@
 <td>Software Engineer</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">NVIDIA</a></strong></td>
@@ -4560,7 +4560,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company">Apple</a></strong></td>
 <td>Intern - Distributed Build System</td>
 <td>London, UK</td>
 <td>🔒</td>
@@ -10073,7 +10073,7 @@
 <td>Software Engineer Intern</td>
 <td><details><summary><strong>8 locations</strong></summary>Seattle, WA</br>SF</br>Oakland, CA</br>Remote in USA</br>St. Louis, MO</br>NYC</br>Portland, OR</br>Atlanta, GA</details></td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Zebra-Technologies?utm_source=GHList&utm_medium=company">Zebra Technologies</a></strong></td>
@@ -15493,7 +15493,7 @@
 <td>Summer 2026 Product Intern</td>
 <td><details><summary><strong>4 locations</strong></summary>Newport Beach, CA</br>Portsmouth, NH</br>Greensboro, NC</br>Denver, CO</details></td>
 <td><div align="center"><a href="https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/USCA--USA--Colorado--Denver-HQ---VFC/Summer-2026-Product-Intern_R-20251121-0019-2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9946fdc0-cd04-42e7-aa2b-713d77089911?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>12d</td>
+<td>13d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">NVIDIA</a></strong></td>
@@ -38538,7 +38538,7 @@
 <td>Intern 2 - Firmware Engineering</td>
 <td>San Diego, CA</td>
 <td><div align="center"><a href="https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Intern-II---Firmware-Engineering_JR115337?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/20b6ea75-9646-40c3-a3f4-aaac9c4fcdbe?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Dexcoma?utm_source=GHList&utm_medium=company">Dexcom</a></strong></td>
