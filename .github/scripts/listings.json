@@ -134,44 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "USAA",
-        "id": "831d02b4-3e00-47fa-91e4-c9f8df5e6f2c",
-        "title": "Data Analyst Intern - Bank Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744465872,
-        "date_posted": 1744465872,
-        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Data-Analyst-Intern---Bank-Analytics_R0108690",
-        "locations": [
-            "Plano, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "RTX",
-        "id": "3a270119-c742-4007-8ed7-5ecf12e5eb05",
-        "title": "2025 Intern \u2013 Supply Chain Data Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744465794,
-        "date_posted": 1744465794,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA101-Andover-MA-350-Lowell-St-Essex-350-Lowell-Street-Essex-Andover-MA-01810-USA/XMLNAME-2025-Intern---Supply-Chain-Data-Analytics-Intern---Onsite_01762367",
-        "locations": [
-            "Andover, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Leidos",
         "id": "76383b0c-442a-4a3b-80b2-dbed9499305f",
         "title": "Software Developer Summer Intern",
@@ -205,25 +167,6 @@
             "El Segundo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Skechers",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Cibc",
-        "id": "4d1fdf7d-c0f1-4dea-98c9-7f9f6db02b70",
-        "title": "2026 Sales & Trading Summer Analyst",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1744466790,
-        "date_posted": 1744466790,
-        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/New-York-NY/XMLNAME-2026-Sales---Trading-Summer-Analyst_2501721",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Cibc",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -256169,7 +256112,7 @@
         "company_name": "Cisco",
         "id": "328d3dbf-a926-439e-882c-d69f12d4e2f5",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -262116,7 +262059,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "7922e239-0bc1-4258-89ad-fc886267f1fd",
         "title": "LLM & Agentic AI R&D Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
