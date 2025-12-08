@@ -133,25 +133,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Leidos",
-        "id": "76383b0c-442a-4a3b-80b2-dbed9499305f",
-        "title": "Software Developer Summer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744469906,
-        "date_posted": 1744469906,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Developer-Summer-Intern_R-00157444",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1744522545,
         "url": "https://careers.siemens-healthineers.com/global/en/job/R-20844/Application-Software-Developer-Intern",
         "company_name": "Siemens Healthineers",
@@ -256665,7 +256646,7 @@
         "company_name": "AstraZeneca",
         "id": "98e753d0-8fd7-420f-b8e7-4f075e1547de",
         "title": "Innovation and AI Strategy Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
