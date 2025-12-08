@@ -152,25 +152,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Skechers",
-        "id": "6484b914-00b0-4a91-830a-1e3fe3f1e589",
-        "title": "Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744466991,
-        "date_posted": 1744466991,
-        "url": "https://skechers.wd5.myworkdayjobs.com/One-career-site/job/Manhattan-Beach-CA/Data-Analyst-Intern--Summer-2025-_JR113456",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Skechers",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1744522545,
         "url": "https://careers.siemens-healthineers.com/global/en/job/R-20844/Application-Software-Developer-Intern",
         "company_name": "Siemens Healthineers",
@@ -262844,7 +262825,7 @@
         "company_name": "Honeywell",
         "id": "0e89fad8-af3e-474a-ac3a-0698bcef7fd3",
         "title": "Embedded Firmware Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
