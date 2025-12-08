@@ -134,59 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Scale AI",
-        "id": "f56fa945-fa86-40ee-99bf-6ac7bde48751",
-        "title": "Technical Advisor Intern - GenAI",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744440191,
-        "date_posted": 1744440191,
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4553274005",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Scale-AI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "RainFocus",
-        "id": "5c80a4ec-bc9b-48e5-8cc4-7b4d30c216d5",
-        "title": "Data Research Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1744440513,
-        "date_posted": 1744440513,
-        "url": "https://jobs.lever.co/rainfocus/f9caad33-7c43-4408-a390-e6a3287819ca/apply",
-        "locations": [
-            "Lehi, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/ed21637c-52d8-41c5-a2a2-2591ed07ef22",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "RainFocus",
-        "id": "5139bce7-cd6d-4c65-a448-2c86a86c7358",
-        "title": "Development Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1744440512,
-        "date_posted": 1744440512,
-        "url": "https://jobs.lever.co/rainfocus/647d05f3-d427-45b2-a674-7025328eed68/apply",
-        "locations": [
-            "Lehi, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/ed21637c-52d8-41c5-a2a2-2591ed07ef22",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Tesla",
         "id": "c09d6c06-d1d8-42d4-a0f5-6afa3f779d4c",
         "title": "Internship - Embedded Software Engineer - Air Suspension & Adaptive Damping",
