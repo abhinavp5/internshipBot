@@ -134,197 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Archipelago",
-        "id": "019b5e84-9393-4db0-803c-39a6315de88c",
-        "title": "Engineering Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1744438103,
-        "date_posted": 1744438103,
-        "url": "https://job-boards.greenhouse.io/onarchipelago/jobs/4558758006",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Archipelago",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Strava",
-        "id": "d235dcc7-7b63-48fa-8efe-9ecb2b9e001d",
-        "title": "Software Engineering Intern - IOS",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744439188,
-        "date_posted": 1744439188,
-        "url": "https://job-boards.greenhouse.io/strava/jobs/6764929",
-        "locations": [
-            "SF",
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Strava",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Strava",
-        "id": "d923dd03-0e81-40a8-88c1-9a192db186a5",
-        "title": "Software Engineering Intern - ML",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744439194,
-        "date_posted": 1744439194,
-        "url": "https://job-boards.greenhouse.io/strava/jobs/6764961",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Strava",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Strava",
-        "id": "f27ede44-bcf5-4c21-b1a6-59a4d1740270",
-        "title": "Software Engineering Intern - Server",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744439193,
-        "date_posted": 1744439193,
-        "url": "https://job-boards.greenhouse.io/strava/jobs/6763469",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Strava",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Strava",
-        "id": "528de866-c148-4573-a833-b8c933e7ca71",
-        "title": "Software Engineering Intern - Foundation",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744439196,
-        "date_posted": 1744439196,
-        "url": "https://job-boards.greenhouse.io/strava/jobs/6764963",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Strava",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Strava",
-        "id": "eede2f94-e064-4bd2-9410-d5979fb9c349",
-        "title": "Software Engineering Intern - Android",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744439191,
-        "date_posted": 1744439191,
-        "url": "https://job-boards.greenhouse.io/strava/jobs/6764937",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Strava",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Strava",
-        "id": "781d4a0e-916a-4128-b5f1-83b7771f3090",
-        "title": "Software Engineering Intern - Web",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744439191,
-        "date_posted": 1744439191,
-        "url": "https://job-boards.greenhouse.io/strava/jobs/6764965",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Strava",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Nokia",
-        "id": "37f5c549-390e-4613-b9c6-166cd62f7617",
-        "title": "SW Tools Development Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1744438862,
-        "date_posted": 1744438862,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/19305",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Nokia",
-        "id": "86a88727-7566-4fd8-907c-c4b2feb4a77f",
-        "title": "Customer Applications Eng Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1752133469,
-        "date_posted": 1744438863,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/18855",
-        "locations": [
-            "Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Auctane",
-        "id": "fa5f8fd0-44cb-4e25-bfad-5f806f67bd15",
-        "title": "Data Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744438769,
-        "date_posted": 1744438769,
-        "url": "https://job-boards.greenhouse.io/auctane/jobs/6541156003",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Auctane",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Scale AI",
         "id": "f56fa945-fa86-40ee-99bf-6ac7bde48751",
         "title": "Technical Advisor Intern - GenAI",
@@ -64350,7 +64159,7 @@
         "company_name": "NVIDIA",
         "id": "fa62e711-af00-4269-b218-1f6d7b45bc95",
         "title": "NVIDIA 2026 Internships: PhD Generative AI Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -247654,7 +247463,7 @@
         "company_name": "Micron Technology",
         "id": "72c25cde-8226-4fee-90c3-05ae10d27f03",
         "title": "Intern \u2013 System Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -255775,7 +255584,7 @@
         "company_name": "Trane Technologies",
         "id": "89141c06-d14e-49c6-a6e5-0decb67fae20",
         "title": "Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
