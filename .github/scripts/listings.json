@@ -189178,7 +189178,7 @@
         "company_name": "Warner Bros.",
         "id": "30051ed7-78b6-494b-bc27-e37baacb1193",
         "title": "TT Games Programming Intern: Knutsford - Summer 2026 - 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -263625,7 +263625,7 @@
         "company_name": "Cadence Design Systems",
         "id": "f7bfff2f-ebe3-4144-b79c-5b17a9651c9f",
         "title": "Design Engineer Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -264260,6 +264260,27 @@
             "Carson, CA"
         ],
         "company_url": "https://simplify.jobs/c/AEG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sparksoft",
+        "id": "32df4c32-167c-42eb-8ef1-7eb8f0880959",
+        "title": "Artificial Intelligence Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1765263620,
+        "date_posted": 1765263620,
+        "url": "https://job-boards.greenhouse.io/sparksoftcorporation/jobs/4998433007",
+        "locations": [
+            "Maryland"
+        ],
+        "company_url": "https://simplify.jobs/c/Sparksoft",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
