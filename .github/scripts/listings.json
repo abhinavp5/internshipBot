@@ -133,25 +133,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Atomic Semi",
-        "id": "b595adfe-7a2e-439f-95d5-5fe49ca7312a",
-        "title": "Embedded Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1744524876,
-        "date_posted": 1744524876,
-        "url": "https://jobs.ashbyhq.com/atomicsemi/25580bcb-f36f-4342-97a6-b814a3359b8f/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Atomic-Semi",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1744599987,
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602800879512",
         "company_name": "Boston Scientific",
@@ -264237,6 +264218,48 @@
             "Norcross, GA"
         ],
         "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Realtor.com",
+        "id": "73bca8b0-9475-4356-bd17-e017811cd225",
+        "title": "User Experience and Web Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765261213,
+        "date_posted": 1765261213,
+        "url": "https://boards.greenhouse.io/rdccareers/jobs/7499951003",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Realtordotcom",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AEG",
+        "id": "584b81a2-320b-4a07-af31-22025aa334d7",
+        "title": "Spring Intern - Broadcast - Dignity Health Sports Park",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1765261259,
+        "date_posted": 1765261259,
+        "url": "https://www.aegworldwide.com/jobs?gh_jid=8326598002",
+        "locations": [
+            "Carson, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AEG",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
