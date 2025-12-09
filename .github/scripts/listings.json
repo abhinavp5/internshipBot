@@ -148180,7 +148180,7 @@
         "company_name": "Marvell",
         "id": "9a3dfb4e-5f83-403a-9578-e88a30e583b5",
         "title": "Failure Analysis Engineer Intern - Failure Analysis",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -179874,7 +179874,7 @@
         "company_name": "Marvell",
         "id": "8dfa4ef7-a17f-408b-80df-a1f8f7634aeb",
         "title": "Hardware Validation Intern - Master's Degree",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -259359,7 +259359,7 @@
         "company_name": "RTX",
         "id": "e7069e4b-c553-444f-8cdf-b77b46740b0a",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
