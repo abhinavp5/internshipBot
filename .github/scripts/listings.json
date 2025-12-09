@@ -43940,7 +43940,7 @@
         "company_name": "Integra FEC",
         "id": "2ef07195-8a9a-4ef6-b472-cce8b7b52e20",
         "title": "Spring \u2013 Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -222972,7 +222972,7 @@
         "company_name": "Cook Group",
         "id": "129f62f7-ecdc-47b0-8945-414033024e52",
         "title": "Intern \u2013 Artificial Intelligence & Innovation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
