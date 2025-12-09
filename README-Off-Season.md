@@ -10894,6 +10894,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>21d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Endeavor-Air?utm_source=GHList&utm_medium=company">Endeavor Air</a></strong></td>
+<td>Operational Analytics and Performance Intern - Operational Analytics and Performance</td>
+<td>Minneapolis, MN</td>
+<td>Winter 2025</td>
+<td><div align="center"><a href="https://careers-endeavorair.icims.com/jobs/5159/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/654728d9-52c4-43e0-8e14-3b84252b80d6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/KLA?utm_source=GHList&utm_medium=company">KLA</a></strong></td>
 <td>AI & Workflow Automation Intern</td>
 <td>Ann Arbor, MI</td>
@@ -10955,14 +10963,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Cincinnati, OH</td>
 <td>Winter 2025</td>
 <td><div align="center"><a href="https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Analytics-and-Change-Management-Intern_R8210?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9eca4894-7a37-487b-be45-8c7caf580fe6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>25d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Grow-Financial-Federal-Credit-Union?utm_source=GHList&utm_medium=company">Grow Financial Federal Credit Union</a></strong></td>
-<td>Systems Analyst Intern</td>
-<td>United States</td>
-<td>Winter 2026</td>
-<td><div align="center"><a href="https://careers-growfinancial.icims.com/jobs/2572/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/174d4243-5d60-41da-b34b-5071b2105e1c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>25d</td>
 </tr>
 <tr>
@@ -12435,14 +12435,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>21d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Endeavor-Air?utm_source=GHList&utm_medium=company">Endeavor Air</a></strong></td>
-<td>Operational Analytics and Performance Intern - Operational Analytics and Performance</td>
-<td>Minneapolis, MN</td>
-<td>Winter 2025</td>
-<td>🔒</td>
-<td>21d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/FM-Global?utm_source=GHList&utm_medium=company">FM Global</a></strong></td>
 <td>Innovation Graduate Co-op</td>
 <td>Providence, RI</td>
@@ -12575,6 +12567,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Data Management Intern - Clinical Education</td>
 <td>Morristown, NJ</td>
 <td>Winter 2025</td>
+<td>🔒</td>
+<td>25d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Grow-Financial-Federal-Credit-Union?utm_source=GHList&utm_medium=company">Grow Financial Federal Credit Union</a></strong></td>
+<td>Systems Analyst Intern</td>
+<td>United States</td>
+<td>Winter 2026</td>
 <td>🔒</td>
 <td>25d</td>
 </tr>

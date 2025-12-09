@@ -15,11 +15,11 @@
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (102)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (493)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (494)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (31)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (143)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (142)
 
 ---
 
@@ -6037,7 +6037,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Electronic-Arts?utm_source=GHList&utm_medium=company">Electronic Arts</a></strong></td>
+<td>↳</td>
 <td>Software Engineer Intern - Recommendation Systems</td>
 <td>San Carlos, CA</td>
 <td>🔒</td>
@@ -12420,6 +12420,13 @@
 <td>🔒</td>
 <td>3mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Kodak?utm_source=GHList&utm_medium=company">Kodak</a></strong></td>
+<td>Web Developer Intern</td>
+<td>Remote in USA</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -12446,13 +12453,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Kodak?utm_source=GHList&utm_medium=company">Kodak</a></strong></td>
-<td>Web Developer Intern</td>
-<td>Remote in USA</td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Cloudflare?utm_source=GHList&utm_medium=company">Cloudflare</a></strong></td>
 <td>Software Engineer Intern</td>
@@ -18369,6 +18369,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Intuitive-Surgical?utm_source=GHList&utm_medium=company">Intuitive Surgical</a></strong></td>
+<td>Data Engineering Intern</td>
+<td>Norcross, GA</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000097624395?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0f3b453c-fb04-4e63-9852-d03592ff979a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Take-Two?utm_source=GHList&utm_medium=company">Take Two</a></strong></td>
 <td>Data Science Intern</td>
 <td>NYC</td>
@@ -22479,7 +22486,7 @@
 <td>Software Engineer Intern - ML/Data Engineer</td>
 <td>Princeton, NJ</td>
 <td>🔒</td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Anduril?utm_source=GHList&utm_medium=company">Anduril</a></strong></td>
@@ -30266,7 +30273,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company">Motorola</a></strong></td>
 <td>Data Analyst Intern</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
@@ -31894,7 +31901,7 @@
 <td>Research Scientist Intern - Waveguide Design - PhD 🎓</td>
 <td>Redmond, WA</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Wellmark?utm_source=GHList&utm_medium=company">Wellmark</a></strong></td>
@@ -32737,7 +32744,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
+<td>↳</td>
 <td>Data Engineer Intern - Privacy and Data Protection Office</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
@@ -39633,13 +39640,6 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
-<td>Integration and Test Intern Engineer</td>
-<td>Canonsburg, PA</td>
-<td><div align="center"><a href="https://careers-gdms.icims.com/jobs/67927/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1f8d9cb9-1b54-4e19-86da-bdbc4709ccd8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
 <td>Co-Op - Software Developer - Virtualization and SIL Integration</td>
 <td>Markham, ON, Canada</br>Oshawa, ON, Canada</td>
@@ -39679,7 +39679,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (638)</summary>
+<summary>🗃️ Inactive roles (639)</summary>
 
 <table>
 <thead>
@@ -40578,6 +40578,13 @@
 <td>↳</td>
 <td>Hardware Test Engineering Intern/Co-op - Mechanical Engineering</td>
 <td>Dallas, TX</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
+<td>Integration and Test Intern Engineer</td>
+<td>Canonsburg, PA</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>

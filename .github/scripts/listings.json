@@ -98844,7 +98844,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "7bb38c12-27e1-4e8d-bddd-a149edbd6e8a",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -130126,7 +130126,7 @@
         "company_name": "W.R. Berkley",
         "id": "0c7562e6-7d8e-4ada-b934-9b6bdd000c2f",
         "title": "Intern \u2013 Software Developer - Reactjs",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -211596,7 +211596,7 @@
         "company_name": "Apogee Engineering",
         "id": "c0b246ac-9f50-4715-82eb-c08b2ecfc468",
         "title": "Technical Intelligence Analyst \u2013 Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -224292,7 +224292,7 @@
         "company_name": "Beyond New Horizons",
         "id": "d3c49f61-5d04-4fe2-b12b-a939d199d29b",
         "title": "Engineering & Computer Science Summer 2026 Internships",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -235471,7 +235471,7 @@
         "company_name": "Grow Financial Federal Credit Union",
         "id": "174d4243-5d60-41da-b34b-5071b2105e1c",
         "title": "Systems Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -239045,7 +239045,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "1f8d9cb9-1b54-4e19-86da-bdbc4709ccd8",
         "title": "Integration and Test Intern Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -240774,7 +240774,7 @@
         "company_name": "Endeavor Air",
         "id": "654728d9-52c4-43e0-8e14-3b84252b80d6",
         "title": "Operational Analytics and Performance Intern - Operational Analytics and Performance",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -258346,7 +258346,7 @@
         "company_name": "Centerline Communications",
         "id": "8a1cd513-116a-4562-ac4b-877107548033",
         "title": "GIS Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -264235,6 +264235,27 @@
             "Cape Canaveral, FL"
         ],
         "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intuitive Surgical",
+        "id": "0f3b453c-fb04-4e63-9852-d03592ff979a",
+        "title": "Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765256696,
+        "date_posted": 1765256696,
+        "url": "https://jobs.smartrecruiters.com/Intuitive/744000097624395",
+        "locations": [
+            "Norcross, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
