@@ -158234,7 +158234,7 @@
         "company_name": "Pacific Life",
         "id": "6e75c64c-834c-470e-9a52-7a248ec9642a",
         "title": "Data Analytics Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -165484,7 +165484,7 @@
         "company_name": "Radiance Technologies",
         "id": "7f7dbff7-4fbf-4cf1-9ec4-8660e5ad9951",
         "title": "Software Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -265015,6 +265015,27 @@
             "Raleigh, NC"
         ],
         "company_url": "https://simplify.jobs/c/Bandwidth",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "23d82f28-fda2-4580-9d90-afbb45d611df",
+        "title": "Software Engineer - Robot Learning Platform",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765320564,
+        "date_posted": 1765320564,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/Software-Engineering-Intern--Robot-Learning-Platform---Summer-2026_JR2007959",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
