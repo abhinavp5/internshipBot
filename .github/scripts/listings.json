@@ -98878,7 +98878,7 @@
         "company_name": "Symbotic",
         "id": "07e4f9a6-62f1-4503-bb00-96cbb0a4a1f0",
         "title": "Intern-Bot Controls",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -163999,7 +163999,7 @@
         "company_name": "SageSure",
         "id": "9a51f01c-90ab-4ada-85d9-4be33203aec1",
         "title": "Catastrophe Risk R&D Intern - Catastrophe Risk R&D",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -191641,7 +191641,7 @@
         "company_name": "Motorola",
         "id": "8582658d-7300-4f5f-b6d0-3aab613e157a",
         "title": "Dsp \u2013 Software Engineering Intern - Digital Signal Processing - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -249488,7 +249488,7 @@
         "company_name": "Playfly Sports",
         "id": "91f4dd7c-d2f6-449a-95bc-02851b881bff",
         "title": "Consulting & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -253344,7 +253344,7 @@
         "company_name": "Danaher Corporation",
         "id": "dc4987c6-6650-4b19-9f1f-26817e3e56fa",
         "title": "Supply Chain Innovation Intern - AI & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -264973,6 +264973,27 @@
             "Neukirchen-Vluyn, Germany"
         ],
         "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "a1f143d1-fbb8-47e1-aac3-8f004e35ce86",
+        "title": "Software Engineer Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1765309014,
+        "date_posted": 1765309014,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28094",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
