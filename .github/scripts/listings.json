@@ -236053,7 +236053,7 @@
         "company_name": "Baxter International",
         "id": "79cddfa1-3e45-492c-bea6-e8a2b62196a8",
         "title": "Co-op Engineering R&D",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -239898,7 +239898,7 @@
         "company_name": "St. Jude Children's Research Hospital",
         "id": "271b6d3f-76b2-4d91-b3eb-38462b3d6c4b",
         "title": "Intern - AI Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -264994,6 +264994,27 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bandwidth",
+        "id": "8a864735-c11b-457d-874a-4ec901879775",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765314034,
+        "date_posted": 1765314034,
+        "url": "https://job-boards.greenhouse.io/bandwidth/jobs/7455381",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Bandwidth",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
