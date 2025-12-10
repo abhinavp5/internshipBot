@@ -74198,7 +74198,7 @@
         "company_name": "Allegion",
         "id": "66fe4510-4544-4a7a-82df-374a0cc7c28e",
         "title": "Summer Intern - Firmware Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -87544,7 +87544,7 @@
         "company_name": "Symbotic",
         "id": "b92a04e8-974c-432d-949c-aff0dd745e38",
         "title": "Intern-Hardware Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -127483,7 +127483,7 @@
         "company_name": "GE Vernova",
         "id": "58fc2eaa-a366-4221-8e2f-f652bccce412",
         "title": "Sustainability AI Solutions Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -128026,7 +128026,7 @@
         "company_name": "Robinhood",
         "id": "ed0b4253-55fc-427b-a955-ed1b9b41d22c",
         "title": "Software Engineering Intern - Backend",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -223863,7 +223863,7 @@
         "company_name": "Optiver",
         "id": "f007935e-49c7-43a1-8acd-918f309ae576",
         "title": "FPGA Engineer Intern - Summer 2026 - Austin",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -227622,7 +227622,7 @@
         "company_name": "Marvell",
         "id": "aba15f66-8bf9-44ea-ba72-dd5ef722c684",
         "title": "Electrical Hardware Engineer Intern - Bachelor's Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -254792,7 +254792,7 @@
         "company_name": "Lumentum",
         "id": "577d95cb-3d74-49a4-a931-b786a0b4f5a3",
         "title": "Optical Verification Technician Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -257924,7 +257924,7 @@
         "company_name": "Wood",
         "id": "5ec0f0a0-3956-45a1-8e0e-dc19ea9fa817",
         "title": "Data Engineering / Computer Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -258932,7 +258932,7 @@
         "company_name": "Teamworks",
         "id": "95fb8ccb-18fd-4a11-bb10-a633356038bd",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262316,7 +262316,7 @@
         "company_name": "LabCorp",
         "id": "6bc03dc7-78c7-4595-9c66-ed0093767921",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -264505,7 +264505,7 @@
         "company_name": "Motorola",
         "id": "0c359e70-b50d-40ae-ae30-4ea8d6b4de1c",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -268900,5 +268900,26 @@
         "date_posted": 1765390447,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Copart",
+        "id": "8a205391-9fe7-4a42-80f1-237337aab624",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1765390631,
+        "date_posted": 1765390631,
+        "url": "https://copart.wd12.myworkdayjobs.com/copart/job/US-TX-IT-Software-QA-726/Software-Engineering-Intern_JR106006",
+        "locations": [
+            "Texas"
+        ],
+        "company_url": "https://simplify.jobs/c/Copart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
