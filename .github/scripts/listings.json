@@ -50689,7 +50689,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3801beb2-e473-44e1-8a9b-a3c4776098f6",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -62468,7 +62468,7 @@
         "company_name": "Trimble",
         "id": "38b09cff-71ea-419b-9577-5c9846381906",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -84198,7 +84198,7 @@
         "company_name": "Marvell",
         "id": "86037ae8-2dc6-4086-8507-7f05cdd324f2",
         "title": "Package Engineering Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -95615,7 +95615,7 @@
         "company_name": "Legrand NA",
         "id": "f12c4439-da73-4544-9abe-313c848354d9",
         "title": "Firmware Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -98695,7 +98695,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "7bb38c12-27e1-4e8d-bddd-a149edbd6e8a",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -99969,7 +99969,7 @@
         "company_name": "Cotiviti",
         "id": "9892e214-ccb9-43f4-8016-f9cf87c0de55",
         "title": "Intern \u2013 Generative AI Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -99992,7 +99992,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ad8b1567-30c9-4093-b10b-395eb58e0e33",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -129977,7 +129977,7 @@
         "company_name": "W.R. Berkley",
         "id": "0c7562e6-7d8e-4ada-b934-9b6bdd000c2f",
         "title": "Intern \u2013 Software Developer - Reactjs",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -190727,7 +190727,7 @@
         "company_name": "SAS",
         "id": "878e5db2-ee3a-4779-b74e-0f88dc9f01d2",
         "title": "Summer 2025-System Architect Intern - Master's",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -211186,7 +211186,7 @@
         "company_name": "Cook Group",
         "id": "1b5d3b69-67e4-479a-9695-419cdbb88228",
         "title": "Information Technology Intern - Artificial Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -241662,7 +241662,7 @@
         "company_name": "CAE",
         "id": "f4788b18-20eb-45c2-a50a-7eed4f3bd850",
         "title": "R&D Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -243921,7 +243921,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "166fff75-94b6-49ac-a9a8-f585852ad4eb",
         "title": "Life Insurance Research & Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -244307,7 +244307,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "66a4e52b-9858-46ed-8489-458449973aeb",
         "title": "FPGA Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -252799,7 +252799,7 @@
         "company_name": "OmniSource",
         "id": "86e5ce14-6ff8-4733-97d2-3d675a9dc466",
         "title": "Environmental Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -259486,7 +259486,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "7b910886-f188-4065-a2f5-e7d5c708b41a",
         "title": "Intern Engineer \u2013 Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -260744,7 +260744,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "37bb1efc-3cf5-4f3e-b99c-cd99abea4fa7",
         "title": "Systems Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -264010,9 +264010,9 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Mackenzie Investments",
-        "id": "efbfa21f-4fbe-43bc-b3ea-879aca0563d3",
+        "id": "0d3ac323-29ff-43b7-a984-75009f99587c",
         "title": "Intern - Data Scientist",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -268543,6 +268543,361 @@
         "source": "AlmondCroffle",
         "id": "8ad42e83-9cec-47d9-8108-632104b95119",
         "date_posted": 1765388499,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1765388870,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://www.metacareers.com/profile/job_details/2059739221232640",
+        "company_name": "Meta",
+        "title": "Research Scientist Intern, Computational Chemist",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Winter 2026",
+            "Spring 2026",
+            "Fall 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "41b49e0b-6452-42a9-8893-0d31db922126",
+        "date_posted": 1765388870,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1765388970,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://www.metacareers.com/profile/job_details/25514049594874160",
+        "company_name": "Meta",
+        "title": "Research Scientist Intern, Advanced Materials for Soft Robotics (PhD)",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Winter 2026",
+            "Spring 2026",
+            "Fall 2026"
+        ],
+        "category": "Hardware Engineering",
+        "source": "AlmondCroffle",
+        "id": "1009dc2c-0870-44a9-a48f-4ac0b57cd856",
+        "date_posted": 1765388970,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1765389145,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://jobs.bosch.com/en/job/REF273459Q-llm-agentic-ai-r-d-intern",
+        "company_name": "Bosch",
+        "title": "LLM & Agentic AI R&D Intern",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Winter 2026",
+            "Spring 2026",
+            "Fall 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "2ef20c02-0da5-469f-ae3b-77415aa7081c",
+        "date_posted": 1765389145,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1765389185,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://www.metacareers.com/profile/job_details/843617948284299",
+        "company_name": "Meta",
+        "title": "Research Scientist Intern, Organic Optoelectronic Materials (PhD)",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Winter 2026",
+            "Spring 2026",
+            "Fall 2026"
+        ],
+        "category": "Hardware Engineering",
+        "source": "AlmondCroffle",
+        "id": "2c5d7095-48e9-43ec-bb00-96891d5d0cdd",
+        "date_posted": 1765389185,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1765389253,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://roche.wd3.myworkdayjobs.com/en-US/rog-a2o-gene/job/South-San-Francisco/Machine-Learning-Scientist-Intern_202512-131284",
+        "company_name": "Genentech",
+        "title": "Machine Learning Scientist Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "0472ddb1-3fbf-4cbf-abe6-e46f15433ad8",
+        "date_posted": 1765389253,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1765389335,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://roche.wd3.myworkdayjobs.com/en-US/rog-a2o-gene/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Quantitative-Systems-Pharmacology_202512-131165",
+        "company_name": "Genentech",
+        "title": "Quantitative Systems Pharmacology",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "8d5413ad-e069-4113-863d-447b7e129bbb",
+        "date_posted": 1765389335,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1765389481,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2026-AI-Product-Strategy-Internship_REQ340118",
+        "company_name": "T-Mobile",
+        "title": "AI Product Strategy Internship",
+        "locations": [
+            "Bellevue, WA",
+            "Overland Park, KS",
+            "Frisco, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "0f29412a-94dd-43a4-aa91-e15b5500c2b9",
+        "date_posted": 1765389481,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1765389554,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/AI-Product-Innovation-Intern_REQ339262",
+        "company_name": "T-Mobile",
+        "title": "AI Product Innovation Intern",
+        "locations": [
+            "Bellevue, WA",
+            "Overland Park, KS",
+            "Frisco, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "b9fa880e-4b1f-4286-87f3-9346f804a1e8",
+        "date_posted": 1765389554,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nelnet",
+        "id": "173bf3ac-012c-491a-b469-131490545349",
+        "title": "Intern \u2013 Solar Data Operations",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1765388908,
+        "date_posted": 1765388908,
+        "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---Solar-Data-Operations_R22098-1",
+        "locations": [
+            "Lincoln, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Nelnet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "9b8c97c9-3ec7-462c-ae47-fdf599f170eb",
+        "title": "Research Intern - Extended Perception Interaction Cognition - Epic",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765383871,
+        "date_posted": 1765383871,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556631767",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CLEAResult",
+        "id": "6ba9cb62-e7a0-4608-9687-122494dfbe41",
+        "title": "Clean Energy & Green Building Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1765385879,
+        "date_posted": 1765385879,
+        "url": "https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Providence-RI---Harris-Avenue/Rhode-Island-Clean-Energy---Green-Building-Intern_R0016568",
+        "locations": [
+            "Providence, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/CLEAResult",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Booz Allen",
+        "id": "6df216f4-09e0-4e81-a02e-a6b08528ee93",
+        "title": "AFSIM Modeling and Simulation Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1765384810,
+        "date_posted": 1765223223,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/AFSIM-Modeling---Simulation-Engineer_R0230379",
+        "locations": [
+            "Beavercreek, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "date_updated": 1765390095,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Durham-NC/Intern---Clinical-Development-Backend-Engineering_2534910",
+        "company_name": "Labcorp",
+        "title": "Intern \u2013 Clinical Development-Backend Engineering",
+        "locations": [
+            "Durham, NC"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "6478f0a9-d9c1-48a4-84bb-e64e3051dc62",
+        "date_posted": 1765390095,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1765390329,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers2/job/Santa-Clara-CA/Data-Engineer-Intern_2502263",
+        "company_name": "Marvell",
+        "title": "Data Engineer Intern",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "f29fb596-a0db-4fb1-9ece-8d5a7b1f8722",
+        "date_posted": 1765390329,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1765390447,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Software-Engineering-AI-Intern--Summer-2026_10136353",
+        "company_name": "Disney",
+        "title": "Software Engineering AI Intern",
+        "locations": [
+            "Glendale, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "7f2ab273-6ad2-49d7-8a7d-2ecfa55a4a8d",
+        "date_posted": 1765390447,
         "company_url": "",
         "is_visible": true
     }
