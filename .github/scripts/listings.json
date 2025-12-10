@@ -122636,7 +122636,7 @@
         "company_name": "Keysight Technologies",
         "id": "3778d759-dc9d-4a2d-ac1b-85bbb7dff303",
         "title": "R&D Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -164886,7 +164886,7 @@
         "company_name": "Nelnet",
         "id": "6ef29ab4-e717-430e-a6b0-85df3509ef66",
         "title": "Intern \u2013 IT Software Engineer .NET",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -235844,7 +235844,7 @@
         "company_name": "AbbVie",
         "id": "b6887522-61f3-46ae-bb60-80b649182891",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -238060,7 +238060,7 @@
         "company_name": "AbbVie",
         "id": "ef47db0b-bd8f-4744-a6fd-bf7f29804dea",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -244207,7 +244207,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "7a7c4061-b715-4ae1-aac8-52c5cabd09c4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -253897,7 +253897,7 @@
         "company_name": "Daikin Applied",
         "id": "86eb31c4-6e6c-4647-80e3-ecbd835252c8",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -256148,7 +256148,7 @@
         "company_name": "Ivalua",
         "id": "2803d251-227d-436a-bf29-f62886d7683e",
         "title": "Customer Application Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -260884,7 +260884,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "f2e04e83-81ad-4024-8a5a-ea44a3b569af",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -262075,7 +262075,7 @@
         "company_name": "Franklin Templeton",
         "id": "7dc314e1-ac9c-45ad-9b66-c0cac619c12a",
         "title": "Business Data Solutions \u2013 Undergrad Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
