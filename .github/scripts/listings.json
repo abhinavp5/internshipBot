@@ -242765,7 +242765,7 @@
         "company_name": "Autodesk",
         "id": "d9c698fc-a40e-4bcf-b660-5dc2af81fbfc",
         "title": "PhD Intern - Efficient 3D Generated Frameworks",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -268127,6 +268127,48 @@
             "Cambridge, MA"
         ],
         "company_url": "https://simplify.jobs/c/Draper",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorola",
+        "id": "5c6e2961-0b57-445c-bf01-6f4438047070",
+        "title": "North America Solutions Deployment & Integration \u2013 Engineering Operations Summer Intern - Sdi - 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765382004,
+        "date_posted": 1765382004,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/North-America-Solutions-Deployment---Integration--NA-SDI--Engineering-Operations-Summer-Intern--2026_R60147",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Walt Disney Company",
+        "id": "e0245201-81c0-4392-9f3e-c2166c0a07f0",
+        "title": "Software Engineering AI Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1765381540,
+        "date_posted": 1765381540,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Software-Engineering-AI-Intern--Summer-2026_10136353",
+        "locations": [
+            "Glendale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
