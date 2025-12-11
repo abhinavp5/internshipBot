@@ -201690,7 +201690,7 @@
         "company_name": "Autodesk",
         "id": "fd88bb68-2619-47ef-9102-a318f1dd01b8",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -206955,7 +206955,7 @@
         "company_name": "Stanley Black & Decker",
         "id": "7e968c55-c09d-4390-b270-61a0f7a0dd0b",
         "title": "Engineering Co-Op: Summer and Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -261896,7 +261896,7 @@
         "company_name": "Franklin Templeton",
         "id": "92969bdd-d799-426c-bae1-66f63de9de28",
         "title": "Undergraduate Digital Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -269071,7 +269071,7 @@
         "company_name": "CommScope",
         "id": "29d09aa5-bf18-4d09-b993-20868004fa63",
         "title": "Intern - IMS Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -269587,7 +269587,7 @@
         "company_name": "EXL",
         "id": "3be11a17-3454-4ccb-9cca-9b0213e5a43f",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
