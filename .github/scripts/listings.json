@@ -35287,7 +35287,7 @@
         "company_name": "American Express",
         "id": "8de356b6-d2f1-4af3-8783-85c9c548bb1f",
         "title": "Campus Undergraduate Summer Internship Program - 2026 Product - Global Commercial Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -41804,30 +41804,6 @@
         "degrees": [
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "ab34214a-43ba-456d-8301-aa5273a84338",
-        "title": "Machine Learning Engineer Intern - E-commerce-Supply Chain & Logistics",
-        "active": true,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1751551022,
-        "date_posted": 1744728931,
-        "url": "https://jobs.bytedance.com/en/position/7397459645466380553/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
         ]
     },
     {
@@ -153073,7 +153049,7 @@
         "company_name": "Arch Capital Group",
         "id": "f176244b-7ea1-4fc6-98ad-5325ae2dfdde",
         "title": "IT Analytics Engineer Intern - IT - Enterprise Data",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -195147,7 +195123,7 @@
         "company_name": "PTC",
         "id": "31a1c7ab-099c-4d45-81c3-28f57eeba57f",
         "title": "Web Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -214406,28 +214382,6 @@
         "date_updated": 1761869325,
         "date_posted": 1761869325,
         "url": "https://jobs.bytedance.com/en/position/7377536502726887689/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "605159bf-fab4-4aa1-a4e8-9e2fd313e8f7",
-        "title": "Machine Learning Engineer Intern - E-commerce-Supply Chain & Logistics - 2025 Summer/Fall - PhD",
-        "active": true,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1751545575,
-        "date_posted": 1744728933,
-        "url": "https://jobs.bytedance.com/en/position/7397460004344138021/detail",
         "locations": [
             "Seattle, WA"
         ],
