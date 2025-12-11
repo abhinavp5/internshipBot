@@ -157870,7 +157870,7 @@
         "company_name": "WeRide",
         "id": "c663da55-e08f-4e5d-a3ce-09ae6aeaab6d",
         "title": "Intern Software Engineer - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -239421,7 +239421,7 @@
         "company_name": "American Express",
         "id": "62a863c7-3993-4ae3-9fb0-b2a968c46069",
         "title": "Campus Undergraduate Intern Program - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
