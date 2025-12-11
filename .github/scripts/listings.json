@@ -262003,7 +262003,7 @@
         "company_name": "Sika",
         "id": "4d88ae4e-81b6-4fa5-9fad-8c16b601c53c",
         "title": "Product Management Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -264966,7 +264966,7 @@
         "company_name": "Sika",
         "id": "1416b578-211a-41ac-911b-3a064b487512",
         "title": "Product Management Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
