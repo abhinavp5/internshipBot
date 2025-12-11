@@ -9,17 +9,17 @@
 
 ---
 
-### Browse 1212 Internship Roles by Category
+### Browse 1208 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (330)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (328)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (104)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (103)
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (605)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (32)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (141)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (140)
 
 ---
 
@@ -521,7 +521,7 @@
 <td>Intern – Laboratory Automation Software - BS</td>
 <td>San Bruno, CA</td>
 <td><div align="center"><a href="https://www.calicolabs.com/careers/?gh_jid=8326850002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/51f2fd67-840d-4144-bdef-751d59751620?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Dexcoma?utm_source=GHList&utm_medium=company">Dexcom</a></strong></td>
@@ -647,20 +647,6 @@
 <td>Software Engineer Intern</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://www.trlm.com/apply/4993466007?gh_jid=4993466007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9cc15f47-422f-417d-b8dc-e887049f17c1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
-<td>Software Engineer Intern</td>
-<td>Celebration, FL</td>
-<td><div align="center"><a href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Software-Engineering-Intern--Summer-2026-_10135863?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/7a26d037-6f81-4b64-91c8-2963b256ecf5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Software Engineer Intern</td>
-<td>Orlando, FL</td>
-<td><div align="center"><a href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Software-Engineering-Intern--Summer-2026_10135329-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/dc496b90-052c-4c8c-9b93-3799288af531?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>7d</td>
 </tr>
 <tr>
@@ -2404,7 +2390,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (1904)</summary>
+<summary>🗃️ Inactive roles (1906)</summary>
 
 <table>
 <thead>
@@ -2498,6 +2484,20 @@
 <td><strong><a href="https://simplify.jobs/c/Carrier-Global?utm_source=GHList&utm_medium=company">Carrier Global</a></strong></td>
 <td>Software Engineering Intern</td>
 <td>Syracuse, NY</td>
+<td>🔒</td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Celebration, FL</td>
+<td>🔒</td>
+<td>7d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Software Engineer Intern</td>
+<td>Orlando, FL</td>
 <td>🔒</td>
 <td>7d</td>
 </tr>
@@ -12021,6 +12021,20 @@
 <td>🔒</td>
 <td>3mo</td>
 </tr>
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Stripe?utm_source=GHList&utm_medium=company">Stripe</a></strong></td>
+<td>Software Engineer – Intern</td>
+<td>Toronto, ON, Canada</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/SpaceX?utm_source=GHList&utm_medium=company">SpaceX</a></strong></td>
+<td>Software Engineering Internship/Co-op</td>
+<td><details><summary><strong>8 locations</strong></summary>Bastrop, TX</br>Irvine, CA</br>Cape Canaveral, FL</br>Brownsville, TX</br>Redmond, WA</br>McGregor, TX</br>West Athens, CA</br>Sunnyvale, CA</details></td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -12047,20 +12061,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Stripe?utm_source=GHList&utm_medium=company">Stripe</a></strong></td>
-<td>Software Engineer – Intern</td>
-<td>Toronto, ON, Canada</td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/SpaceX?utm_source=GHList&utm_medium=company">SpaceX</a></strong></td>
-<td>Software Engineering Internship/Co-op</td>
-<td><details><summary><strong>8 locations</strong></summary>Bastrop, TX</br>Irvine, CA</br>Cape Canaveral, FL</br>Brownsville, TX</br>Redmond, WA</br>McGregor, TX</br>West Athens, CA</br>Sunnyvale, CA</details></td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/22c7fd64-5419-4c19-8f0b-c4e2b6620614?utm_source=GHList&utm_medium=company">Metron</a></strong></td>
 <td>Software Developer Intern</td>
@@ -15951,13 +15951,6 @@
 <td>14d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Truist-Bank?utm_source=GHList&utm_medium=company">Truist Bank</a></strong></td>
-<td>AFCO Direct – Product Team Intern - Digital Strategy</td>
-<td><details><summary><strong>6 locations</strong></summary>Washington, DC</br>Charlotte, NC</br>Fort Lauderdale, FL</br>Highland Park, IL</br>NYC</br>Atlanta, GA</details></td>
-<td><div align="center"><a href="https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Lake-Forest-IL---Telecommuter/XMLNAME-2026-AFCO-Direct---Digital-Strategy---Summer-Product-Team-Internship_R0108533?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/21417ed8-afe3-4008-9e33-99c7f368da25?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Blue-Shield-Of-California?utm_source=GHList&utm_medium=company">Blue Shield of California</a></strong></td>
 <td>2026 Summer Platforms Internship</td>
 <td><details><summary><strong>8 locations</strong></summary>Redding, CA</br>Long Beach, CA</br>Rancho Cordova, CA</br>Galt, CA</br>Canoga Park, LA</br>Oakland, CA</br>El Dorado Hills, CA</br>San Diego, CA</details></td>
@@ -16529,7 +16522,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (326)</summary>
+<summary>🗃️ Inactive roles (327)</summary>
 
 <table>
 <thead>
@@ -16609,6 +16602,13 @@
 <td><strong><a href="https://simplify.jobs/c/USAFacts?utm_source=GHList&utm_medium=company">USAFacts</a></strong></td>
 <td>AI Product Intern</td>
 <td>Bellevue, WA</td>
+<td>🔒</td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Truist-Bank?utm_source=GHList&utm_medium=company">Truist Bank</a></strong></td>
+<td>AFCO Direct – Product Team Intern - Digital Strategy</td>
+<td><details><summary><strong>6 locations</strong></summary>Washington, DC</br>Charlotte, NC</br>Fort Lauderdale, FL</br>Highland Park, IL</br>NYC</br>Atlanta, GA</details></td>
 <td>🔒</td>
 <td>14d</td>
 </tr>
@@ -19906,7 +19906,7 @@
 <td>Intern – Machine Learning and Genomics - MS/PhD 🎓</td>
 <td>San Bruno, CA</td>
 <td><div align="center"><a href="https://www.calicolabs.com/careers/?gh_jid=8326864002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/12ed34e3-30d4-4581-bd3d-8957f6b89745?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/AstraZeneca?utm_source=GHList&utm_medium=company">AstraZeneca</a></strong></td>
@@ -40550,13 +40550,6 @@
 <td>27d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Haleon?utm_source=GHList&utm_medium=company">Haleon</a></strong></td>
-<td>Co-Op Engineering</td>
-<td>Catskill, NY</td>
-<td><div align="center"><a href="https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/USA---Missouri---St-Louis/XMLNAME-2026-Co-Op--Engineering--6-months--July-2026-start-_535454?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3652dcd4-e063-4e8d-abd3-0ef6300a5070?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>28d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
 <td>Firmware Engineer - Bachelor's Degree</td>
 <td>Santa Clara, CA</td>
@@ -41086,7 +41079,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (655)</summary>
+<summary>🗃️ Inactive roles (656)</summary>
 
 <table>
 <thead>
@@ -41301,6 +41294,13 @@
 <td>Melbourne, FL</td>
 <td>🔒</td>
 <td>27d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Haleon?utm_source=GHList&utm_medium=company">Haleon</a></strong></td>
+<td>Co-Op Engineering</td>
+<td>Catskill, NY</td>
+<td>🔒</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>

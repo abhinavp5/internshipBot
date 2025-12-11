@@ -134,59 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Ubisoft",
-        "id": "b7fc8f2a-c35e-4e16-b6fb-8fd7e0b6c4ac",
-        "title": "Junior Data Analyst / Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1744697804,
-        "date_posted": 1744697804,
-        "url": "https://jobs.smartrecruiters.com/Ubisoft2/744000053671306",
-        "locations": [
-            "Newcastle upon Tyne, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Ubisoft",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "ATPCO",
-        "id": "45ed58d4-e9e8-4ff2-8668-388ac397943c",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1744698465,
-        "date_posted": 1744698465,
-        "url": "https://jobs.smartrecruiters.com/ATPCO1/744000053729091",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Western Digital",
-        "id": "31751ebc-4acc-4ac3-bc1f-ace0364284b3",
-        "title": "Summer 2025 Intern - Failure Analysis Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744698947,
-        "date_posted": 1744698947,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000053727625",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Rocket Lawyer",
         "id": "43d4877a-693d-403d-87fa-c165bff8e54f",
         "title": "Software Engineering Intern",
@@ -83774,7 +83721,7 @@
         "company_name": "Manulife Financial",
         "id": "f51a95f7-5995-4e6e-bd43-5a06985fb1d4",
         "title": "Summer Intern/Co-op - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -84859,7 +84806,7 @@
         "company_name": "Manulife Financial",
         "id": "1b9bfb5a-9647-483a-8550-0dcad69b9709",
         "title": "Summer Intern/Co-op - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -103690,7 +103637,7 @@
         "company_name": "Innovative Systems",
         "id": "18179e94-31bb-48a4-8a3d-74e6ba90bc0a",
         "title": "Intern/Co-op - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -234360,7 +234307,7 @@
         "company_name": "Haleon",
         "id": "3652dcd4-e063-4e8d-abd3-0ef6300a5070",
         "title": "Co-Op Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -251387,7 +251334,7 @@
         "company_name": "Truist Bank",
         "id": "21417ed8-afe3-4008-9e33-99c7f368da25",
         "title": "AFCO Direct \u2013 Product Team Intern - Digital Strategy",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -258976,7 +258923,7 @@
         "company_name": "The Walt Disney Company",
         "id": "dc496b90-052c-4c8c-9b93-3799288af531",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -259039,7 +258986,7 @@
         "company_name": "The Walt Disney Company",
         "id": "7a26d037-6f81-4b64-91c8-2963b256ecf5",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262659,7 +262606,7 @@
         "company_name": "FOX",
         "id": "9520a854-0819-4bbd-a1ee-6f638d471882",
         "title": "FOX Sports Intern Program - Audience Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
