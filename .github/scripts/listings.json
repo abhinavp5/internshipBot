@@ -186827,7 +186827,7 @@
         "company_name": "ByteDance",
         "id": "ce773288-d19c-45ec-99e8-c2cb99110a76",
         "title": "Software Engineer Intern - Doubao - Seed - Machine Learning System - 2025 Summer - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -216839,7 +216839,7 @@
         "company_name": "Visa",
         "id": "2d81c7c5-7ee3-4946-839a-7cfabe385033",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -221964,7 +221964,7 @@
         "company_name": "1X",
         "id": "e17c765e-efc6-44de-a46d-145caed2c07a",
         "title": "AI Residency",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -235345,7 +235345,7 @@
         "company_name": "AbbVie",
         "id": "b6887522-61f3-46ae-bb60-80b649182891",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -237561,7 +237561,7 @@
         "company_name": "AbbVie",
         "id": "ef47db0b-bd8f-4744-a6fd-bf7f29804dea",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -258037,7 +258037,7 @@
         "company_name": "Paccar",
         "id": "c3b9a889-8c9b-4028-8215-0a73267d6e20",
         "title": "2026 Summer Internship: Sales Administration Data Analyst - Greenhouse Gas",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -265087,7 +265087,7 @@
         "company_name": "Sika",
         "id": "1416b578-211a-41ac-911b-3a064b487512",
         "title": "Product Management Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -270237,6 +270237,49 @@
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/American-Enterprise-Institute",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Baselayer",
+        "id": "b8e1d27f-b9ab-4f70-bbcf-f90c153eb521",
+        "title": "Solutions Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1765439018,
+        "date_posted": 1765439018,
+        "url": "https://job-boards.greenhouse.io/baselayer/jobs/5030065008",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Baselayer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "78d683f8-85e3-4ec4-b1db-39ae3176449f",
+        "title": "Intern Engineer \u2013 Co-Op - May 2026 Start",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765444007,
+        "date_posted": 1765409451,
+        "url": "https://careers-gdms.icims.com/jobs/69612/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
