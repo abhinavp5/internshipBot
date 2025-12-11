@@ -123519,7 +123519,7 @@
         "company_name": "ServiceNow",
         "id": "2220cfaf-ccfc-4a96-b5af-52253e3f3e9e",
         "title": "Data Informatics Analyst Intern - Security Organization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -134603,7 +134603,7 @@
         "company_name": "ServiceNow",
         "id": "a7ac75d1-b271-4c0e-b675-75657a5622bc",
         "title": "Data Informatics Analyst Intern - Security Organization",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -262124,7 +262124,7 @@
         "company_name": "Sika",
         "id": "4d88ae4e-81b6-4fa5-9fad-8c16b601c53c",
         "title": "Product Management Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -265087,7 +265087,7 @@
         "company_name": "Sika",
         "id": "1416b578-211a-41ac-911b-3a064b487512",
         "title": "Product Management Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -265738,7 +265738,7 @@
         "company_name": "RTX",
         "id": "8e193e1a-2a4b-4fd7-81ff-037c94015e39",
         "title": "2026 Intern \u2013 Production Test Engineering Intern - AZ",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -270301,6 +270301,29 @@
             "Kings Bay Base, GA"
         ],
         "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AeroVironment",
+        "id": "e2803679-8757-4f8a-ae41-ba70b7481d7f",
+        "title": "System Test Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765449082,
+        "date_posted": 1765047564,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2026-System-Test-Engineering-Intern_5853",
+        "locations": [
+            "Simi Valley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
