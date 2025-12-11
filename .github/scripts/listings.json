@@ -39590,7 +39590,7 @@
         "company_name": "Sony",
         "id": "210207e6-30d3-4af1-8144-e51978e1b349",
         "title": "Research Intern on Generative AI for Content Creation",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -81784,7 +81784,7 @@
         "company_name": "Cboe",
         "id": "69150572-540e-4f04-818e-64b0dddf6921",
         "title": "Software Engineer Intern - Data Vantage",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -103092,7 +103092,7 @@
         "company_name": "The Toro Company",
         "id": "6fc4515b-e0b3-4fdc-96ff-f2e71519bbec",
         "title": "Integrated Supply Chain \u2013 Analytics Intern - Isc",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -121444,7 +121444,7 @@
         "company_name": "GlobalFoundries",
         "id": "eea3ed20-4d85-4988-9893-60763df7d5ee",
         "title": "Tapeout Engineering Business Applications and Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -121900,7 +121900,7 @@
         "company_name": "GlobalFoundries",
         "id": "068643cc-3266-4ea1-a919-58cdaa04ffef",
         "title": "End Markets Intern - Automotive",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -122676,7 +122676,7 @@
         "company_name": "GlobalFoundries",
         "id": "342345c5-bd9e-4aef-b0f2-12d5d9853259",
         "title": "Field Application Engineering Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -144448,7 +144448,7 @@
         "company_name": "Highmark Health",
         "id": "fed50e10-d6a1-4901-bb15-0d48d028e747",
         "title": "Associate Product Owner Intern - Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -145861,7 +145861,7 @@
         "company_name": "Highmark Health",
         "id": "a07923a7-8e0d-40f0-be1b-7d4396f34a2c",
         "title": "Data Test Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -158101,7 +158101,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "493be860-f46e-4ab7-89c1-ef5fbfccff5b",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -166000,7 +166000,7 @@
         "company_name": "PTC",
         "id": "01162422-6eda-42ba-9efd-59df3e2cbd48",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -167081,7 +167081,7 @@
         "company_name": "Keysight Technologies",
         "id": "a434db50-e4f5-4917-84ff-292302fc4ab4",
         "title": "Computer Science Intern - BOLT and Wafer Fab Operations Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -186211,7 +186211,7 @@
         "company_name": "Highmark Health",
         "id": "6e7da5ea-9a2c-47e0-9e27-aef6e7dfaf49",
         "title": "Summer 2026 Data Analytics Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -190532,7 +190532,7 @@
         "company_name": "Highmark Health",
         "id": "b9b8956b-7e6d-41de-a8b6-9bea367f0076",
         "title": "Summer 2026 Reimbursement Data Engineer Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -194918,7 +194918,7 @@
         "company_name": "Rivian",
         "id": "f853a4b9-7b29-43ad-92e6-63302aa41848",
         "title": "Software Engineering Intern - Infotainment Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -194960,7 +194960,7 @@
         "company_name": "John Deere",
         "id": "96ea8465-084b-46e7-9477-5ce99df3a92d",
         "title": "2026 Intern - Product Engineering - Product Engineering (CA) - JD Power Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -195945,7 +195945,7 @@
         "company_name": "Rivian",
         "id": "c14bc85f-7bf1-4fa3-af76-aa4fa371e3cd",
         "title": "Software Engineering Intern \u2013 Software Engineer 3D Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -196266,7 +196266,7 @@
         "company_name": "Highmark Health",
         "id": "5f0294ec-e6e3-4240-b50d-0b5ccd5f4822",
         "title": "Summer 2026 Reporting Analyst Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -196463,7 +196463,7 @@
         "company_name": "Highmark Health",
         "id": "b33c0fdf-c700-49ea-a855-d1767a18c686",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -224381,7 +224381,7 @@
         "company_name": "Reingold",
         "id": "6eeedfb3-02bb-4a25-8402-5c13bbad58eb",
         "title": "AI Solutions Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -225782,7 +225782,7 @@
         "company_name": "Great American Insurance Company",
         "id": "139e90e8-0c45-4de1-b5a1-06930e57358e",
         "title": "Emerging Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -231915,7 +231915,7 @@
         "company_name": "Highmark Health",
         "id": "5c951258-3a70-467d-b8ab-16f49e9cb2a2",
         "title": "Summer 2026 Associate Technical Engineer Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -233834,7 +233834,7 @@
         "company_name": "Hometap",
         "id": "c5436868-7e21-49cc-a04a-94724650c511",
         "title": "Full Stack Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -234476,7 +234476,7 @@
         "company_name": "Workday",
         "id": "5429e9bd-2896-4b0b-9940-900a8e63010b",
         "title": "Analytics Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -237801,7 +237801,7 @@
         "company_name": "Generac",
         "id": "45bfac6e-d88b-43e1-bd0a-85ae73f4f1d1",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -243524,7 +243524,7 @@
         "company_name": "Rivian",
         "id": "f929997f-fa76-4fab-8a50-9cd265c183de",
         "title": "Software Engineering Intern - Over-the-Air",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -252468,7 +252468,7 @@
         "company_name": "Barclays",
         "id": "c19db88d-a9b3-4c65-a87a-d577fb93d4c9",
         "title": "Finance Treasury Funding & Investment Analyst Summer Internship Programme 2026 London",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -252795,7 +252795,7 @@
         "company_name": "Danaher Corporation",
         "id": "4e6c4ded-ee8f-479a-9b2e-63c2687a649c",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -253966,7 +253966,7 @@
         "company_name": "Rivian",
         "id": "d642476d-86e5-4ad7-9fe1-a403bb940096",
         "title": "Software Engineering Intern - System Integration Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -255867,7 +255867,7 @@
         "company_name": "Camping World",
         "id": "3347869e-7b28-4b57-b3d6-94eb8b01c01a",
         "title": "Data Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -258661,7 +258661,7 @@
         "company_name": "Trillium",
         "id": "9cc15f47-422f-417d-b8dc-e887049f17c1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -267786,7 +267786,7 @@
         "company_name": "Manulife Financial",
         "id": "71ffd762-8c02-459d-af4c-371691dced3e",
         "title": "Intern - Data Science Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -269547,7 +269547,7 @@
         "company_name": "RTX",
         "id": "6058e8b2-c545-470b-9e22-d0e0d001e45f",
         "title": "Data Science Internship - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -270344,7 +270344,7 @@
         "company_name": "Global Partners",
         "id": "a9a3a7c2-55ee-4bfa-b1cb-a6b3727aa9ca",
         "title": "Northeastern Co-Op - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -270450,7 +270450,7 @@
         "company_name": "NXP Semiconductors",
         "id": "c22f1e49-1ad8-42d4-997b-1060ef9f3b69",
         "title": "Data Engineer / Data Analyst Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
