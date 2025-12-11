@@ -187267,9 +187267,9 @@
         ]
     },
     {
-        "date_updated": 1762179224,
+        "date_updated": 1765481140,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -187290,9 +187290,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762179279,
+        "date_updated": 1765481140,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -187589,9 +187589,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762180688,
+        "date_updated": 1765481140,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -218531,9 +218531,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762359727,
+        "date_updated": 1765481140,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -240937,9 +240937,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1763483249,
+        "date_updated": 1765481140,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -267912,9 +267912,9 @@
         "degrees": []
     },
     {
-        "date_updated": 1765388387,
+        "date_updated": 1765481140,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -267958,9 +267958,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1765388499,
+        "date_updated": 1765481140,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -270487,5 +270487,28 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1765482539,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://uscareers-docusign.icims.com/jobs/28330/software-engineer-intern/job",
+        "company_name": "Docusign",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "1e5c3778-6565-46b2-898c-0c3a89783246",
+        "date_posted": 1765482539,
+        "company_url": "",
+        "is_visible": true
     }
 ]
