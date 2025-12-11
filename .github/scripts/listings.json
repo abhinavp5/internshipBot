@@ -134,23 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Becton Dickinson",
-        "id": "93c612bc-e843-4e44-ad9a-3a4313012a56",
-        "title": "AI Solution Analyst \u2013 Internship",
-        "active": false,
-        "terms": [],
-        "date_updated": 1744720291,
-        "date_posted": 1744720291,
-        "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/AI-Solution-Analyst---Internship_R-516027",
-        "locations": [
-            "Midland Park, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "American Cancer Society",
         "id": "44266ac2-f0ad-4d2b-9996-9b6a8fd9c5e8",
         "title": "IT \u2013 Intern - MS365/Data Management",
@@ -270390,6 +270373,27 @@
             "Winnipeg, MB, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Mackenzie-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Teledyne",
+        "id": "d1660f37-c2cc-446b-a6ba-181370bfcb7b",
+        "title": "College Intern - Technical",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1765458422,
+        "date_posted": 1764367819,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Woodridge-IL/College-Intern---Technical_REQ32073",
+        "locations": [
+            "Woodridge, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
