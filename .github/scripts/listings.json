@@ -134,42 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "BorgWarner",
-        "id": "738e468c-bfd5-4b83-a99d-1e75f3256057",
-        "title": "Data Science Intern - Summer",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744783836,
-        "date_posted": 1744783836,
-        "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Data-Science-Intern--Summer-_R2025-1497-1",
-        "locations": [
-            "Auburn Hills, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/BorgWarner",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Marvell",
-        "id": "b3915074-3c3a-461f-a1c3-f76f19000f68",
-        "title": "Software / Firmware Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1744784776,
-        "date_posted": 1744784776,
-        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Software---Firmware-Intern---Bachelor-s-Degree_2500897",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "ByteDance",
         "id": "271c1b1b-4895-458c-b674-017b139579fc",
         "title": "Software Engineer Intern - AI Platform",
@@ -15176,7 +15140,7 @@
         "company_name": "ByteDance",
         "id": "bc6ec38d-0e59-4761-9bd6-9bb2bba2ca8c",
         "title": "Multilingual Data Intern - Speech",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -84853,7 +84817,7 @@
         "company_name": "Walmart",
         "id": "0cb22b13-3df8-4d90-a7c1-385e5120afe5",
         "title": "Software Engineer II",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -151965,7 +151929,7 @@
         "company_name": "Qualcomm",
         "id": "2e52504c-af83-470b-920c-8372cb0448ff",
         "title": "Intern - Deep Learning Research - AI Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -162682,7 +162646,7 @@
         "company_name": "CIBC",
         "id": "dc766d57-4125-45b8-9301-041d8a3fe25a",
         "title": "Intern - Data Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -250737,7 +250701,7 @@
         "company_name": "ByteDance",
         "id": "246dbc29-c08f-4556-8026-373a243f6f8e",
         "title": "3D Avatar Research and Development Intern - PICO Perception - Doctor of Philosophy",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -260352,7 +260316,7 @@
         "company_name": "ByteDance",
         "id": "715939b5-61f2-4336-a71d-423f95c17ef1",
         "title": "Student Researcher Intern - Doubao Foundation Model Team\",\"Seed\",\"2025 Start\",\"PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
