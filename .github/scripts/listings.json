@@ -271924,5 +271924,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Walt Disney Company",
+        "id": "b2a15756-8bb9-4eca-a0fb-8cdd5a84a96c",
+        "title": "Production Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765515659,
+        "date_posted": 1765515659,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Vancouver-BC-Canada/Production-Engineering-Intern---Summer-2026--Open-to-Canadian-Citizens---PR-only-_10138551",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
