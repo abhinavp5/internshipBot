@@ -135,23 +135,6 @@
     {
         "source": "Simplify",
         "company_name": "Cboe",
-        "id": "23f9c207-6f05-4b81-801f-ad5b6991e558",
-        "title": "C++ Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1744794026,
-        "date_posted": 1744794026,
-        "url": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/London-United-Kingdom/C---Intern_R-3907",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Cboe",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Cboe",
         "id": "eb9ef9e1-a713-4774-be9d-eec0afacf8a2",
         "title": "Quantitative Analytics Intern",
         "active": false,
