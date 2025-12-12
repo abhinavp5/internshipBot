@@ -36042,7 +36042,7 @@
         "company_name": "Capital One",
         "id": "712139b2-cfd7-4510-a04f-ad0a45f6def6",
         "title": "Current PhD \u2013 Data Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -133746,7 +133746,7 @@
         "company_name": "Enova",
         "id": "f6b56db5-9676-4b4d-b404-e750d8fe8e4c",
         "title": "Analytics Intern - Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -172840,7 +172840,7 @@
         "company_name": "Ciena",
         "id": "62d7d29a-29d1-419d-8809-98b92542011d",
         "title": "AI Agent Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -177747,7 +177747,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "03aff928-7d72-48f4-9672-ba0174eaacca",
         "title": "Powertrain Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -249578,7 +249578,7 @@
         "company_name": "Landscape Forms",
         "id": "6828ff57-9a8d-4562-8536-9780eb6970a7",
         "title": "Product Engineering CAD Intern - Starting in January",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -268306,7 +268306,7 @@
         "company_name": "CommScope",
         "id": "b4652dae-ba51-4a17-8bc6-7b4ed6413c0f",
         "title": "Intern-Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
