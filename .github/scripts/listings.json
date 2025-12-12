@@ -134,44 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Glassdoor",
-        "id": "707ec615-4165-4075-8255-a49437bb4b02",
-        "title": "Mobile Software Engineer in Test Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744809108,
-        "date_posted": 1744809108,
-        "url": "https://job-boards.greenhouse.io/glassdoor/jobs/7958968002",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Glassdoor",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Glassdoor",
-        "id": "2918100b-53a3-4091-9861-a9d95ff18c51",
-        "title": "Mobile Software Engineer in Test Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744810486,
-        "date_posted": 1744810486,
-        "url": "https://job-boards.greenhouse.io/glassdoor/jobs/7958963002",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Glassdoor",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Omnicell",
         "id": "b5d901ba-12ed-4927-8712-a6c478d8f6a5",
         "title": "Intern \u2013 Data Science",
