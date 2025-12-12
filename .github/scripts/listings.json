@@ -23566,7 +23566,7 @@
         "company_name": "Jump Trading",
         "id": "d2b759b7-e0f7-48ec-9dc9-1ae840067950",
         "title": "Campus Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Summer 2025",
@@ -23590,7 +23590,7 @@
         "company_name": "Jump Trading",
         "id": "b32c6f61-f7a1-467d-b08e-3bb78a3dce30",
         "title": "Campus ASIC Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -23610,7 +23610,7 @@
         "company_name": "Jump Trading",
         "id": "14b8c2af-a3a6-4902-bcf1-68dd3e6aad38",
         "title": "Campus FPGA Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Summer 2026",
@@ -27740,7 +27740,7 @@
             "Summer 2026"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "4ff4add7-2071-49a4-af3f-2c630fdab6c5",
         "date_posted": 1754641765,
@@ -56357,7 +56357,7 @@
         "company_name": "Thomson Reuters",
         "id": "786f8fa0-7272-4fb8-bfdb-3ef84ae35916",
         "title": "Applied Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -57877,7 +57877,7 @@
         "company_name": "Geotab",
         "id": "3f54eaf8-6e63-4e6e-8d0b-d8627496677c",
         "title": "Data Analyst Intern - Data Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -64551,7 +64551,7 @@
         "company_name": "Thomson Reuters",
         "id": "6d8b2f7a-90ad-4ef3-a3d0-cdb62f633296",
         "title": "Applied Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -80109,7 +80109,7 @@
         "company_name": "Geotab",
         "id": "68450c2f-ea7d-4036-b2d2-c53722da0b9d",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -98636,7 +98636,7 @@
         "company_name": "Shure",
         "id": "bd24eda5-ecb6-497b-9a0f-e45bf2378726",
         "title": "Marketing Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -100546,7 +100546,7 @@
     {
         "date_updated": 1757669614,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -128972,7 +128972,7 @@
         "company_name": "GlobalFoundries",
         "id": "8ebe14b7-9706-4af7-afc0-ce593f98a791",
         "title": "Software Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -142168,7 +142168,7 @@
         "company_name": "Thomson Reuters",
         "id": "ac93f703-916c-4687-b921-14313f39843c",
         "title": "Software Engineer Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -154868,7 +154868,7 @@
         "company_name": "Thomson Reuters",
         "id": "13af258e-60f8-491c-8289-be228c97bb08",
         "title": "Applied Science Intern - Machine Learning - Natural Language Processing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -155688,7 +155688,7 @@
         "company_name": "Hudson River Trading",
         "id": "bfebec1d-751b-4822-a808-b3bd773d2ea4",
         "title": "Algorithm Development Intern - Quant Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -155713,7 +155713,7 @@
         "company_name": "Hudson River Trading",
         "id": "b9680721-0052-486b-8786-efc24cbb2542",
         "title": "Algorithm Development Intern - Quant Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -155736,7 +155736,7 @@
         "company_name": "Hudson River Trading",
         "id": "0e717103-e4c7-4997-b468-689210b0e286",
         "title": "Software Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -159460,7 +159460,7 @@
         "company_name": "Thomson Reuters",
         "id": "bf14b465-70ca-41c8-a84b-90b7c815d3e2",
         "title": "Research Engineering Intern - AI Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -171250,7 +171250,7 @@
     {
         "date_updated": 1760597388,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -171274,7 +171274,7 @@
     {
         "date_updated": 1760597429,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -190139,7 +190139,7 @@
         "company_name": "MongoDB",
         "id": "1b5c5b56-3b3c-4365-8315-2a5003383e36",
         "title": "2026 \u2013 Fintech Product Management Intern - Palo Alto",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -194902,7 +194902,7 @@
         "company_name": "Lumafield",
         "id": "22673c04-7162-46c9-9ab4-e7b815ddb636",
         "title": "Engineering Intern - Backend Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -200899,7 +200899,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "fa3f1178-2aa5-4889-b818-0ef54dfafa93",
         "title": "Data Analyst \u2013 Emerging Talent Intern - Automatic Camera Enforcement - Ace",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -212888,7 +212888,7 @@
         "company_name": "Procter & Gamble (P&G)",
         "id": "2bc8686f-d5a7-4ffb-87e1-483c4182362f",
         "title": "Research & Development Engineer Intern May 2026 - Associate Scientist - Freshmen - Sophomores - And Juniors",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -219126,7 +219126,7 @@
         "company_name": "Thomson Reuters",
         "id": "b0026445-222f-4706-a2e3-e41487d4e5a2",
         "title": "Research Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -232559,7 +232559,7 @@
         "company_name": "Root Insurance",
         "id": "af3963f4-cb0f-4c0a-a0c9-deb1b35e4732",
         "title": "Policyholder Experience Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -240852,7 +240852,7 @@
         "company_name": "Centene",
         "id": "473990f3-daeb-4602-aa1c-65c771b85aa4",
         "title": "Data Science Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -248893,7 +248893,7 @@
         "company_name": "Invesco",
         "id": "fa87b586-d1be-44ff-9bd8-8d72b45fca58",
         "title": "Digital Asset Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -248914,7 +248914,7 @@
         "company_name": "Invesco",
         "id": "116248cd-8bc4-41f7-9b5d-393ead358ce5",
         "title": "Summer 2026 ETF Product Development Internship - Early Careers",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -256331,7 +256331,7 @@
         "company_name": "Camping World",
         "id": "b8fc0370-29d9-4e34-814f-9277efaf2af0",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -266506,7 +266506,7 @@
         "company_name": "BorgWarner",
         "id": "fc8ca754-15ad-4916-86c7-cf37bd1cba0d",
         "title": "Computer Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -271825,7 +271825,7 @@
         "company_name": "JP Morgan Chase",
         "id": "448045fc-f0c6-45ec-8b7b-18a18a4c1e11",
         "title": "Applied AI/ML Associate Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
