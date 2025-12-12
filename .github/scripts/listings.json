@@ -35837,7 +35837,7 @@
         "company_name": "Capital One",
         "id": "6c8ee6ed-a86a-41d4-9681-3e49eb43810b",
         "title": "Current PhD \u2013 Applied Research Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -41818,7 +41818,7 @@
         "company_name": "Integra FEC",
         "id": "42f4a77d-8bf3-412c-b11e-ac97053d0ccc",
         "title": "Spring \u2013 Data Scientist Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -81611,7 +81611,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "c8b0046f-24ae-44c1-a3be-9e6130c03476",
         "title": "Tech Consultant intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -238062,7 +238062,7 @@
         "company_name": "Lightmatter",
         "id": "5697829f-9331-4b59-b7f6-5ab88d723618",
         "title": "Chip Firmware & Data Analytics \u2013 Intern - Boston",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -250356,7 +250356,7 @@
         "company_name": "Truist Bank",
         "id": "21417ed8-afe3-4008-9e33-99c7f368da25",
         "title": "AFCO Direct \u2013 Product Team Intern - Digital Strategy",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -263561,7 +263561,7 @@
         "company_name": "Thomson Reuters",
         "id": "30cc96c0-114a-4804-8281-6c88477a6433",
         "title": "Applied Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -267087,7 +267087,7 @@
         "company_name": "Motorola",
         "id": "5c6e2961-0b57-445c-bf01-6f4438047070",
         "title": "North America Solutions Deployment & Integration \u2013 Engineering Operations Summer Intern - Sdi - 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -268375,7 +268375,7 @@
         "company_name": "CommScope",
         "id": "7d0887c1-7529-464f-9236-98c2e0d27030",
         "title": "Intern Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -271804,7 +271804,7 @@
         "company_name": "Nokia",
         "id": "67ef0b7b-fc5a-4ce8-86f8-7b70e2ac6185",
         "title": "Security Software Developer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -271836,6 +271836,27 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BMO ",
+        "id": "fc49fe53-7c78-4eee-b700-9ff70b96106b",
+        "title": "Developer \u2013 Co-op/Intern - Data - AI",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1765563313,
+        "date_posted": 1765563313,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Developer---Data--AI--Platform---Support--Winter-2026--Co-op-Internship----4-months_R250025208-2",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO-Bank",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
