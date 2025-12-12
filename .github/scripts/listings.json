@@ -134,42 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Cboe",
-        "id": "eb9ef9e1-a713-4774-be9d-eec0afacf8a2",
-        "title": "Quantitative Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744805874,
-        "date_posted": 1744805874,
-        "url": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/London-United-Kingdom/Quantitative-Analytics-Intern_R-3902",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Cboe",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Cboe",
-        "id": "52819597-6bf6-4d89-ac6d-4384c9802433",
-        "title": "Data Pipeline Engineer Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1744806241,
-        "date_posted": 1744806241,
-        "url": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/London-United-Kingdom/Data-Pipeline-Engineer-Intern_R-3908-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Cboe",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Glassdoor",
         "id": "707ec615-4165-4075-8255-a49437bb4b02",
         "title": "Mobile Software Engineer in Test Intern",
