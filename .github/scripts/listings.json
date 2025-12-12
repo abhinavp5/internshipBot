@@ -15132,7 +15132,7 @@
         "company_name": "IMC Trading",
         "id": "58423c76-0d80-435f-b226-e29ee7fa5bf1",
         "title": "Quantitative Trader Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -41960,7 +41960,7 @@
         "company_name": "Integra FEC",
         "id": "1e85e0d8-5672-481a-a48d-bf56bce876b8",
         "title": "Spring \u2013 Data Scientist Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -85756,7 +85756,7 @@
         "company_name": "Chatham Financial",
         "id": "4b5e9b02-da0e-40ab-bee4-32f365f4ad07",
         "title": "2026 Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -121462,7 +121462,7 @@
         "company_name": "Keysight Technologies",
         "id": "7bf7e1e7-4bf7-4ed1-ac67-b49a7284c54b",
         "title": "Application Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -153825,7 +153825,7 @@
         "company_name": "Exact Sciences",
         "id": "f59ba4ac-2c4f-43c1-aa3f-67ef87f04d03",
         "title": "AI Engineer Intern - Machine Learning Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -196264,7 +196264,7 @@
         "company_name": "SupplyHouse.com",
         "id": "c5590880-c16f-4f79-b5c1-68a364131ea2",
         "title": "Full Stack Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -208109,7 +208109,7 @@
         "company_name": "Epic Games",
         "id": "287f02b6-6603-474c-af66-6b03245a774d",
         "title": "Language Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -229384,7 +229384,7 @@
         "company_name": "Quantbot Technologies",
         "id": "e3d5bb9f-3edb-4586-853f-03882d4ddb05",
         "title": "Data Trading Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -258071,7 +258071,7 @@
         "company_name": "Parsons",
         "id": "0f2d1f1c-200a-440d-8d5f-c732c6e00b60",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -263717,7 +263717,7 @@
         "company_name": " RGA Reinsurance Company",
         "id": "d17fa7b5-a0cd-49bd-977c-6f5ac0f51093",
         "title": "Intern - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -267767,7 +267767,7 @@
         "company_name": "Booz Allen",
         "id": "6df216f4-09e0-4e81-a02e-a6b08528ee93",
         "title": "AFSIM Modeling and Simulation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -270748,7 +270748,7 @@
         "company_name": "Walmart",
         "id": "66135bc9-d614-46b6-834b-711eb1181a64",
         "title": "2026 Summer Grad Intern Senior Data Science-Sunnyvale - CA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -271079,7 +271079,7 @@
         "company_name": "Semtech",
         "id": "2050f568-f825-4ca1-9a2a-75b186fc5875",
         "title": "Artificial Intelligence / Data Scientist Intern - HR",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -271857,6 +271857,27 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/BMO-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sarasota County",
+        "id": "072cdbbf-9e82-4596-a6d0-893ae3f80430",
+        "title": "GIS Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765564570,
+        "date_posted": 1765564570,
+        "url": "https://scgov.wd5.myworkdayjobs.com/SCGOV/job/Administration-Center/GIS-Intern---Summer-2026-Internship_R20263",
+        "locations": [
+            "Sarasota, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Sarasota-County",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
