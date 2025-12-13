@@ -134,23 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Conductor",
-        "id": "8854998c-cb7b-4aab-bb95-fd5d4464479a",
-        "title": "AI Engineer Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1744878988,
-        "date_posted": 1744878988,
-        "url": "https://job-boards.greenhouse.io/conductor/jobs/6813479",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Conductor",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Tesla",
         "id": "6bec6ee3-84c5-4679-89a9-5ab7a2653a93",
         "title": "Internship - Integration Platforms Software Developer - Vehicle Firmware",
