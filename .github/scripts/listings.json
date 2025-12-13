@@ -34918,7 +34918,7 @@
         "company_name": "GE Vernova",
         "id": "d1f13d1a-7b5e-4cbd-b7ab-177d17dc3684",
         "title": "GE Vernova Grid Automation Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -77725,7 +77725,7 @@
         "company_name": "PennState University",
         "id": "69430fc1-dbac-4fba-8c07-697012305db3",
         "title": "Guidance and Control Research & Development Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Spring 2025",
@@ -155025,7 +155025,7 @@
         "company_name": "Exact Sciences",
         "id": "c8dd94ad-3c0a-48dc-9159-357eba5e40c9",
         "title": "Commercial Customer Experience Analytics Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -156787,7 +156787,7 @@
         "company_name": "Barclays",
         "id": "22667ddc-4015-42a7-b2a4-19275eb9bb16",
         "title": "Sales - Trading and Structuring Summer Internship Programme 2026 - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -163821,7 +163821,7 @@
         "company_name": "NatWest Group",
         "id": "6499446b-d63c-4cb1-b421-fe49e638a813",
         "title": "Engineering Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -198452,7 +198452,7 @@
         "company_name": "ABB",
         "id": "e4f7eaa8-ff6e-47d6-949e-1b28b1b857c0",
         "title": "Software Engineering Intern-Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -202750,7 +202750,7 @@
         "company_name": "PTC",
         "id": "9b5b114b-6b81-4a85-9185-7357ce26e6a5",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -205234,7 +205234,7 @@
         "company_name": "Uline",
         "id": "1d243268-812e-4059-a879-518556236dd6",
         "title": "Ecommerce Analyst Internship - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -207896,7 +207896,7 @@
         "company_name": "Synchrony Financial",
         "id": "d9df2609-5220-4c12-8f19-80fcc8ea7e96",
         "title": "Uconn Stamford Digital Technology Center Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -212036,7 +212036,7 @@
         "company_name": "HNTB",
         "id": "36d37c26-0477-4ff4-af3d-fba066754a56",
         "title": "Returning Technology Intern-Summer 2026 \u2013 Great Lakes Division-For Current/Former HNTB Interns Only",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -226944,7 +226944,7 @@
         "company_name": "Adobe",
         "id": "d3a0521c-615e-4fd9-bf3d-5b2df0572d8a",
         "title": "SAMI Intern - Product Manager",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -235348,7 +235348,7 @@
         "company_name": "Avis Budget Group",
         "id": "67f3247a-bf70-494c-b643-e37fc9d18645",
         "title": "Accelerate \u2013 And Analytics Intern - Commercial Strategy - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -236194,7 +236194,7 @@
         "company_name": "Rural King",
         "id": "81edcaf8-38f9-485f-abb7-2e28ca905c3f",
         "title": "Internship - IT - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -236370,7 +236370,7 @@
         "company_name": "AtkinsR\u00e9alis",
         "id": "d5a7f37b-f9ed-4f2a-bda5-413d0cf7b5c6",
         "title": "Engineering Traffic Analyst Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -241330,7 +241330,7 @@
         "company_name": "Genuine Parts Company",
         "id": "36f32c53-d3e5-4fc7-ac53-0abb252c6576",
         "title": "Technology Intern-Payments - Payments",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -241568,7 +241568,7 @@
         "company_name": "Autodesk",
         "id": "d9c698fc-a40e-4bcf-b660-5dc2af81fbfc",
         "title": "PhD Intern - Efficient 3D Generated Frameworks",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -256255,7 +256255,7 @@
         "company_name": "Covestro",
         "id": "7a7711bd-9e58-4aa4-925c-d7afb8244cc9",
         "title": "Intern - In Chemical Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -260093,7 +260093,7 @@
         "company_name": "ABB",
         "id": "9bdcfb77-ab62-434a-bf30-915eb9d0ca4f",
         "title": "IS Salesforce.com Agile Delivery Intern-Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -260591,7 +260591,7 @@
         "company_name": "Tokyo Electron",
         "id": "bff64d61-2a43-413c-a2f3-092e24fb58b1",
         "title": "Business Intelligence Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -260950,7 +260950,7 @@
         "company_name": "Arizona State University",
         "id": "ded11ba6-1938-476a-90d9-ee5558c944fd",
         "title": "Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -269107,7 +269107,7 @@
         "company_name": "Genentech",
         "id": "6a024118-11b6-406a-9c1b-7076e832219d",
         "title": "Intern - Computational Sciences Center of Excellence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -272884,7 +272884,7 @@
         "company_name": "General Motors",
         "id": "88e8805e-8f1f-412a-9a73-bd823e8e7035",
         "title": "Intern AI/ML Software Engineering Intern - Simulation Core - Master's",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -272996,7 +272996,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "c3a00ecc-f66f-4a2d-9318-78a777a1587e",
         "title": "2026 Summer \u2013 Data Analyst Intern - Grm - 4 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
