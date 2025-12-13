@@ -122078,7 +122078,7 @@
         "company_name": "Brevan Howard",
         "id": "f4001e18-f0bf-4dbe-b785-39ae3a7ff58d",
         "title": "2026 Summer Internship Programme - Macro Trading",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -130887,7 +130887,7 @@
         "company_name": "Micron Technology",
         "id": "7f8bcdbd-beaa-47c2-9ad1-4e0b69777224",
         "title": "Intern - ASIC Design Verification - ASIC Design Verification",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -152177,7 +152177,7 @@
         "company_name": "Arch Capital Group",
         "id": "f176244b-7ea1-4fc6-98ad-5325ae2dfdde",
         "title": "IT Analytics Engineer Intern - IT - Enterprise Data",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -187667,7 +187667,7 @@
         "company_name": "Thales",
         "id": "37962285-9b09-463b-bb66-1dadd5737f21",
         "title": "Software Engineering Apprentice \u2013 Graduate Level Apprenticeship in IT: Software Development - Software Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -191222,7 +191222,7 @@
         "company_name": "CACI",
         "id": "5f9cb4a7-82ee-4a17-8634-489ab25127d7",
         "title": "Application Developer Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -199224,7 +199224,7 @@
         "company_name": "Tencent",
         "id": "6bdda2c4-63b7-4bbd-9f90-e10f7ddf8325",
         "title": "Tencent Cloud Cpaas Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -214767,7 +214767,7 @@
         "company_name": "CIBC",
         "id": "a2fb2dfa-0057-4d75-afaa-da533d6a7e2a",
         "title": "2026 Summer Intern - Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -218796,7 +218796,7 @@
         "company_name": "Thomson Reuters",
         "id": "b0026445-222f-4706-a2e3-e41487d4e5a2",
         "title": "Research Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -235410,7 +235410,7 @@
         "company_name": "ASML",
         "id": "6bda84b5-e0cb-4b7c-8df5-dfe740c2e6a1",
         "title": "Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -240429,7 +240429,7 @@
         "company_name": "The Travelers Companies",
         "id": "01da9c92-50f7-41eb-8e39-b02c2c06309f",
         "title": "Data Science Leadership Development Program Intern - Data Science Leadership Development Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -250444,7 +250444,7 @@
         "company_name": "ASML",
         "id": "a7cd3bc5-0e41-4da3-9f31-6ad3cda89303",
         "title": "Internship \u2013 CDO Data / Visualization / Cloud / AI Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -251802,7 +251802,7 @@
         "company_name": "Dallas Fort Worth International Airport",
         "id": "52dd23b5-5e2c-4511-a008-fb9293244a1d",
         "title": "Undergraduate Intern - Enterprise Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -254884,7 +254884,7 @@
         "company_name": "Oaktree Capital Management",
         "id": "bb79ddd6-058e-4fdd-af69-f3153cf8824b",
         "title": "2026 Undergraduate Intern - Risk - Reporting & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Summer 2028"
@@ -263793,7 +263793,7 @@
         "company_name": "American Enterprise Institute",
         "id": "acb3cfd6-5481-4de6-991a-e29ac2402800",
         "title": "Economic Policy Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -270306,7 +270306,7 @@
         "company_name": "General Motors",
         "id": "b99bc178-f5b0-4fdf-aac0-c9c8786fc88c",
         "title": "Intern - Master's Degree",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -271025,7 +271025,7 @@
         "company_name": "General Motors",
         "id": "18453d33-690b-4db4-b88d-268765e694bb",
         "title": "Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -271411,7 +271411,7 @@
         "company_name": "TJX",
         "id": "1488c757-cba8-4d46-8967-ef838f878c71",
         "title": "Product Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -272813,7 +272813,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "c3a00ecc-f66f-4a2d-9318-78a777a1587e",
         "title": "2026 Summer \u2013 Data Analyst Intern - Grm - 4 Months",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -273436,6 +273436,48 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Dexcoma",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "d54715b3-0bed-44ab-bbb4-50df2175b535",
+        "title": "Data Scientist Intern - HR",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765653643,
+        "date_posted": 1765653643,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Summer---HR--Data-Scientist-Intern--4-Months-_R-0000150725",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "d912006c-3caf-4901-aa06-c56b0cdde398",
+        "title": "Wealth Management Data Analyst - 4 - Months",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765653653,
+        "date_posted": 1765653653,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Wealth-Management--Summer-Data-Analyst--4-16-months-_R-0000152428",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
