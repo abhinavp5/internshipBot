@@ -134,79 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Stronghold Investment Management",
-        "id": "5c71e144-3be4-43c1-a127-c88bf3300019",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1744872271,
-        "date_posted": 1744872271,
-        "url": "https://job-boards.greenhouse.io/strongholdim/jobs/4710351007",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Stronghold-Investment-Management",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Baxter International",
-        "id": "9d430446-dfbe-4a71-9403-ace67d2e9b91",
-        "title": "Advanced Surgery Marketing Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744873222,
-        "date_posted": 1744873222,
-        "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Deerfield-Illinois/Advanced-Surgery-Marketing-Data-Analyst-Intern_JR-167354-1",
-        "locations": [
-            "Highland Park, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Baxter-International",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Veolia",
-        "id": "a37b1819-ab2f-4d38-b530-5fdbe0015ea4",
-        "title": "Junior Automation Developer Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1744872504,
-        "date_posted": 1744872504,
-        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000054392840",
-        "locations": [
-            "Paramus, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Veolia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Veolia",
-        "id": "e5893996-b84a-41ef-9c84-606d12ebb185",
-        "title": "Digital Adoption Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1744872509,
-        "date_posted": 1744872509,
-        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000054382955",
-        "locations": [
-            "Oakville, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Veolia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DigiCert",
         "id": "52167ba8-a3d6-4803-8b9a-6db84de93101",
         "title": "Software Developer Intern",
@@ -92411,7 +92338,7 @@
         "company_name": "Marmon Holdings",
         "id": "fd6aa588-63f5-44d4-9253-72d84365341a",
         "title": "Product Management/Marketing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -229576,7 +229503,7 @@
         "company_name": "L3Harris Technologies",
         "id": "7bd9e025-769b-4921-947b-3d657a1244f8",
         "title": "Electro-Mechanical Technician Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -252877,7 +252804,7 @@
         "company_name": "Direct Supply",
         "id": "dde2b917-5272-4a21-b552-7b38cfa941e7",
         "title": "Applied AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2026",
@@ -264765,7 +264692,7 @@
         "company_name": "Microsoft",
         "id": "cbd8b4c7-1d8d-403c-ab38-efac9a64a7e9",
         "title": "Data Center Technician Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -270105,7 +270032,7 @@
         "company_name": "Analytical Mechanics Associates",
         "id": "e8ab2d7f-a7f9-48a7-a30f-deb814bb0791",
         "title": "Materials Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -271846,7 +271773,7 @@
         "company_name": "BMO ",
         "id": "fc49fe53-7c78-4eee-b700-9ff70b96106b",
         "title": "Developer \u2013 Co-op/Intern - Data - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
