@@ -134,25 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Air Company",
-        "id": "8e3e54b1-4cac-4c54-9b30-40055d1919e7",
-        "title": "Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744915341,
-        "date_posted": 1744915341,
-        "url": "https://job-boards.greenhouse.io/aircompany/jobs/4551844005",
-        "locations": [
-            "Brooklyn, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Air-Company",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Tesla",
         "id": "26f650ef-5400-44d5-ac29-f161b2d339ac",
         "title": "Internship - Crash Safety Embedded Software Engineer - Vehicle Firmware",
@@ -49302,7 +49283,7 @@
         "company_name": "ABB",
         "id": "549d5c9f-c1ed-4289-b62b-24e1b536f5bd",
         "title": "Application Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -58061,7 +58042,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "5a255f93-f6bd-44ba-9a50-3370cd974c67",
         "title": "Application Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -61120,7 +61101,7 @@
         "company_name": "Trimble",
         "id": "9d87d164-2aab-4eb8-8db7-c9125493a517",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -82880,7 +82861,7 @@
         "company_name": "Marvell",
         "id": "86037ae8-2dc6-4086-8507-7f05cdd324f2",
         "title": "Package Engineering Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -86226,7 +86207,7 @@
         "company_name": "Symbotic",
         "id": "b92a04e8-974c-432d-949c-aff0dd745e38",
         "title": "Intern-Hardware Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -112945,7 +112926,7 @@
         "company_name": "QBE Insurance",
         "id": "83e9b9dd-85c8-494e-ac0f-93e284935350",
         "title": "Data Science and Machine Learning Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -129035,7 +129016,7 @@
         "company_name": "NatWest Group",
         "id": "b6d2abe3-d325-4793-9c93-b6d7749bdacc",
         "title": "Engineering Internship - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -135899,7 +135880,7 @@
         "company_name": "Trend Micro",
         "id": "38402f7f-4e24-444f-a0f2-488121b1b121",
         "title": "Software Developer Intern/Co-op - Cloud One R&D",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -146866,7 +146847,7 @@
         "company_name": "Zebra Technologies",
         "id": "f682071f-e3a1-43f7-be3a-3f4a068370ed",
         "title": "Internship - Software Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -154978,7 +154959,7 @@
         "company_name": "ABB",
         "id": "83453038-cf2d-4efb-b37b-33248138452a",
         "title": "Data and Analytics Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -156644,7 +156625,7 @@
         "company_name": "Barclays",
         "id": "22667ddc-4015-42a7-b2a4-19275eb9bb16",
         "title": "Sales - Trading and Structuring Summer Internship Programme 2026 - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -166234,7 +166215,7 @@
         "company_name": "AVEVA",
         "id": "43a90e10-f572-4d34-a429-c6625de8707a",
         "title": "Services Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -174241,7 +174222,7 @@
         "company_name": "CAE",
         "id": "42ce6779-6049-4c3b-ac90-eaf06905dbad",
         "title": "R&D Engineering Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -228054,7 +228035,7 @@
         "company_name": "Iridium Communications",
         "id": "4453e83a-2847-485d-b202-f4c787d99591",
         "title": "Iridium Product Management \u2013 Internship - Sales - Marketing",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -228552,7 +228533,7 @@
         "company_name": "Stryker",
         "id": "93bed506-361d-43bd-9784-6f5f626c027a",
         "title": "Kettering Engineering Co-op - R&D - New Product Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -247995,7 +247976,7 @@
         "company_name": "ASML",
         "id": "93893b12-59bc-4a57-a8a8-bb6f35f87283",
         "title": "Intern - Data Science and Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -250505,7 +250486,7 @@
         "company_name": "ASML",
         "id": "836abb74-d2b6-49a5-aa49-0cf301085570",
         "title": "Internship \u2013 CDO Data / Visualization / Cloud / AI Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -259813,7 +259794,7 @@
         "company_name": "ASML",
         "id": "a53a111c-db44-4e25-a7f5-01fd05b4c458",
         "title": "Intern - Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -260141,7 +260122,7 @@
         "company_name": "BMO ",
         "id": "4624bfb9-72e4-4775-a042-937573b660de",
         "title": "Investment Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -260427,7 +260408,7 @@
         "company_name": "BMO ",
         "id": "ebc8202f-a8cd-4f14-a48c-2ce8011f0512",
         "title": "Investment Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -260913,7 +260894,7 @@
         "company_name": "Workday",
         "id": "4ca5ee10-ec57-4527-bf55-46dbaf213fde",
         "title": "Data and AI Platforms Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
