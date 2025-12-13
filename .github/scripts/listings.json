@@ -134,27 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Tesla",
-        "id": "26f650ef-5400-44d5-ac29-f161b2d339ac",
-        "title": "Internship - Crash Safety Embedded Software Engineer - Vehicle Firmware",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1744918262,
-        "date_posted": 1744918262,
-        "url": "https://www.tesla.com/careers/search/job/241074",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Tesla",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "WeaveGrid",
         "id": "655b9d31-5afc-4b9c-ab20-8d7d4ecc6aee",
         "title": "Software Engineer Intern",
@@ -35902,7 +35881,7 @@
         "company_name": "Bristol Myers Squibb",
         "id": "f92a6652-a828-4407-b347-cd9a73eba7b4",
         "title": "Technology Rotational Development Program Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -121811,7 +121790,7 @@
         "company_name": "Brevan Howard",
         "id": "82036080-9220-40aa-9967-255db179afd9",
         "title": "Summer Internship Programme 2026 - Systematic Trading",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -152012,7 +151991,7 @@
         "company_name": "Philips",
         "id": "c760da69-fbc6-449d-b858-7dc1962ef831",
         "title": "Co-op \u2013 Healthcare Data Scientist - Healthcare Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -170611,7 +170590,7 @@
         "company_name": "Philips",
         "id": "3ac955f3-6b56-432c-b7d1-3bd37ccf2d36",
         "title": "Co-op-Data Engineer-Reedsville - PA-January-June 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -173909,7 +173888,7 @@
         "company_name": "CAE",
         "id": "a9d38a3d-2cbd-4be9-b8a9-b7a8ec3a17aa",
         "title": "R&D Engineering Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -187223,7 +187202,7 @@
         "company_name": "ASML",
         "id": "949b987c-5491-4265-911c-d8bc73a7afaf",
         "title": "Internship - Materials Science Engineer Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -202228,7 +202207,7 @@
         "company_name": "Brevan Howard",
         "id": "da50e893-6a1e-4c6b-9f59-b30b83debd89",
         "title": "2026 Summer Internship - Systematic Trading Technology - New York",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -207907,7 +207886,7 @@
         "company_name": "Lloyds Bank",
         "id": "164198c9-4789-4a29-909b-974c52f98e17",
         "title": "Technology Engineering Graduate Apprentice - Edinburgh",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -228275,7 +228254,7 @@
         "company_name": "Thales",
         "id": "a6c10d8d-3694-464d-96ca-1df810002655",
         "title": "Assembly Technician Apprentice Level 3 Maintenance Operations Engineering Technician Apprenticeship",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -232229,7 +232208,7 @@
         "company_name": "Sun Life",
         "id": "bb6ea72f-ebbd-4cc5-b42b-3f40b9180180",
         "title": "IT Delivery: Foundational Integration Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -242583,7 +242562,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "07380309-2f31-49a4-9dfc-cc25b945c66d",
         "title": "Product Management Intern-Government",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -247934,7 +247913,7 @@
         "company_name": "ASML",
         "id": "c1302acc-0717-4016-b6a3-cc21b01e9e98",
         "title": "Data Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -250026,7 +250005,7 @@
         "company_name": "AstraZeneca",
         "id": "5132b3c0-b35b-468a-a498-7adb1e3e5fa5",
         "title": "Medical Affairs Analytics Intern - Oncology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -256135,7 +256114,7 @@
         "company_name": "Santander",
         "id": "7282efd6-dbb3-4f5d-b79e-8b05ea3a49b8",
         "title": "Digital Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -263167,7 +263146,7 @@
         "company_name": "Genentech",
         "id": "5bc897f3-35bb-41fc-8ee2-889e8a9e042b",
         "title": "Intern - Product Technical Development - Digital Sciences Focus",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -263188,7 +263167,7 @@
         "company_name": "Sanofi",
         "id": "019d8ea0-177e-4847-a5e2-34c963f5942d",
         "title": "Mrna Systems Engineering \u2013 Fall 2026 Co-op - Vaccine Summer",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Summer 2026"
@@ -266502,7 +266481,7 @@
         "company_name": "Magna",
         "id": "ee536092-a4df-44a0-9cb6-113470b5426d",
         "title": "Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -268924,7 +268903,7 @@
         "company_name": "Genentech",
         "id": "e6c654e7-106c-4a6a-b5e5-e793647d1154",
         "title": "Intern - Braid Delta Lab",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -268945,7 +268924,7 @@
         "company_name": "Genentech",
         "id": "6a024118-11b6-406a-9c1b-7076e832219d",
         "title": "Intern - Computational Sciences Center of Excellence",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -272262,7 +272241,7 @@
         "company_name": "Airbus",
         "id": "960c2fb7-be96-48e5-938d-b45745fc0726",
         "title": "Summer Internship - Market Product Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -272283,7 +272262,7 @@
         "company_name": "General Motors",
         "id": "a5945f9d-f7da-4cf3-ad1a-eb952a00856e",
         "title": "Intern - Simulation Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -272610,7 +272589,7 @@
         "company_name": "General Motors",
         "id": "bdfb09a4-e0ed-4b1e-9221-bdc0508da599",
         "title": "Intern - AI/ML Software Engineer - Master's",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -272632,7 +272611,7 @@
         "company_name": "General Motors",
         "id": "4983bc36-345d-49ee-ad79-7c92c9e7a0c8",
         "title": "Intern - Autonomous Driving - Simulation Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -272654,7 +272633,7 @@
         "company_name": "General Motors",
         "id": "3d85b4c1-0132-4544-b720-4a4e9e707c9e",
         "title": "Intern - Autonomous Driving",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -273271,7 +273250,7 @@
         "company_name": "Genentech",
         "id": "abf0bd34-0008-40b0-ba6b-ae86ba967e06",
         "title": "Intern - Learning & Skill Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -273296,7 +273275,7 @@
         "company_name": "Genentech",
         "id": "7be0efe2-86d5-4b74-9b17-3582834c3b40",
         "title": "Intern - CMG Learning and Skill Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -273394,6 +273373,69 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Semtech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "5d519218-91cc-4875-ab77-33811f20e4df",
+        "title": "Data Operations Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765653649,
+        "date_posted": 1765653649,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/XMLNAME-2026-Summer---CDO--Data-Operations-Analyst-Intern--4-months---Bedford--NS-_R-0000150531",
+        "locations": [
+            "Nova Scotia, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "25f0b185-16b9-453c-9888-d55098255219",
+        "title": "2026 Summer \u2013 Data Quality Analyst Intern - Cdo - 4 months\u201d,",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765653646,
+        "date_posted": 1765653646,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/XMLNAME-2026-Summer---CDO--Data-Quality-Analyst-Intern--4-months---Bedford--NS-_R-0000150533",
+        "locations": [
+            "Nova Scotia, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Dexcom",
+        "id": "442147ef-2c23-47c0-a15e-279aeae07061",
+        "title": "Intern 1 \u2013 Clinical Services Product Management",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765652548,
+        "date_posted": 1765652548,
+        "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/Intern-I---Clinical-Services-Product-Management_JR115477",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dexcoma",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
