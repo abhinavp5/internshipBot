@@ -134,25 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Baxter International",
-        "id": "db3d1619-d348-4d1c-a115-e7f1aebc9747",
-        "title": "2025 Summer Intern - Devops Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744911655,
-        "date_posted": 1744911655,
-        "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Raleigh-North-Carolina/XMLNAME-2025-Summer-Intern---DevOps-Software-Engineer_JR-169268-1",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Baxter-International",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Sylvera",
         "id": "f542294f-1f7d-415d-8919-c35d8a4f977f",
         "title": "Graduate Carbon Analyst Intern",
@@ -51115,7 +51096,7 @@
         "company_name": "Analog Devices",
         "id": "cc96e6ea-6422-459f-b404-08632e7bbbd2",
         "title": "Machine Learning Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -69473,7 +69454,7 @@
         "company_name": "SNC-Lavalin",
         "id": "8fae3a4d-98af-48f1-b62c-ceb1feb4415d",
         "title": "Cultural Resources GIS Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -106546,7 +106527,7 @@
         "company_name": "Parsons",
         "id": "0a1d1e7c-b6f1-4ae6-9eb8-e58d04d776ac",
         "title": "Engineering Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -185354,7 +185335,7 @@
         "company_name": "Marriott Vacations Worldwide",
         "id": "ca63f029-b288-4298-882f-7b632bb244fa",
         "title": "Data Science Intern - Spring 2026 - Orlando - FL",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -202328,7 +202309,7 @@
         "company_name": "Brevan Howard",
         "id": "da50e893-6a1e-4c6b-9f59-b30b83debd89",
         "title": "2026 Summer Internship - Systematic Trading Technology - New York",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -226796,7 +226777,7 @@
         "company_name": "Adobe",
         "id": "ac6e2e8f-b93b-485b-a6bb-2417bf8b913a",
         "title": "SAMI Intern - Product Manager - Community Engagement",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -229496,7 +229477,7 @@
         "company_name": "Thales",
         "id": "65998e5b-d0e7-48bd-8d96-83bc78fb170a",
         "title": "Academy Engineer Apprentice \u2013 Level 6 Higher Level Apprenticeship - Mechatronic Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -237724,7 +237705,7 @@
         "company_name": "AbbVie",
         "id": "42abcc91-b338-4b13-9ab2-00c4df3422e0",
         "title": "2026 Graph Machine Learning Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -250565,7 +250546,7 @@
         "company_name": "ASML",
         "id": "a7cd3bc5-0e41-4da3-9f31-6ad3cda89303",
         "title": "Internship \u2013 CDO Data / Visualization / Cloud / AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -262234,7 +262215,7 @@
         "company_name": "Axiom Space",
         "id": "95c9dee5-19e2-43b3-8f7a-802bb2b7ff48",
         "title": "Space Station Computer Science and Computer Engineering Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -269778,7 +269759,7 @@
         "company_name": "Fermilab",
         "id": "209f0bf7-0fe6-4d69-adf3-3f37c202cbb1",
         "title": "URA-Fermilab: Undergraduate Research Intern - Fursi",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -273473,6 +273454,27 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Samsung-Research-America",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Semtech",
+        "id": "691f93ac-60e5-4bbd-b4db-e0328a0030f8",
+        "title": "IC Packaging Design Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765626280,
+        "date_posted": 1765626280,
+        "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/High-Speed-Analog-IC-Design-Intern_REQ2905-2",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Semtech",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
