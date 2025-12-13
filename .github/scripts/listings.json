@@ -134,42 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Sylvera",
-        "id": "f542294f-1f7d-415d-8919-c35d8a4f977f",
-        "title": "Graduate Carbon Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1744913641,
-        "date_posted": 1744913641,
-        "url": "https://jobs.lever.co/sylvera/e1df352f-8389-43ca-abac-8968a22e9494/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sylvera",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Magna",
-        "id": "2000c3e6-7a28-49e9-8006-f41e5ce2c226",
-        "title": "Industry Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1744914504,
-        "date_posted": 1744914504,
-        "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Victor-Iowa-US/XMLNAME-40-Intern_R00178295",
-        "locations": [
-            "Coralville, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/Magna",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Air Company",
         "id": "8e3e54b1-4cac-4c54-9b30-40055d1919e7",
         "title": "Engineering Intern",
@@ -41013,32 +40977,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "pony.ai",
-        "id": "40cc0419-8dbb-4ea5-81d6-cb30c72b1032",
-        "title": "Research Intern - Deep Learning",
-        "active": true,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1755346568,
-        "date_posted": 1744914592,
-        "url": "https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/apply",
-        "locations": [
-            "Fremont, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/pony.ai",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Nokia",
         "id": "93d7ff2d-bc43-4e2f-b433-97f3e6c22c43",
         "title": "Video Coding Coop",
@@ -79255,7 +79193,7 @@
         "company_name": "Genuine Parts Company",
         "id": "fc0b8987-4819-4829-ac0a-1dbcf5b5f451",
         "title": "Customer Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -153196,7 +153134,7 @@
         "company_name": "ABB",
         "id": "d7d419d5-4c4f-4111-aa49-a9853d6b1a5d",
         "title": "Field Application Engineering Intern-Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -165403,7 +165341,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Motive",
-        "id": "957cb7f4-7a23-4886-8e5e-6f8219c72ac8",
+        "id": "c9ce58e6-0507-4d0e-9e09-fb8dcb89dc84",
         "title": "Embedded Engineer Intern",
         "active": true,
         "terms": [
@@ -173402,7 +173340,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "5d2a15d2-df9d-493a-a4dd-1aabe18773bd",
         "title": "HPE Labs \u2013 Research Lab PhD Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -195210,7 +195148,7 @@
         "company_name": "Clio",
         "id": "23548c7d-01ff-437f-ae9c-07e51f4c86b4",
         "title": "Software Developer \u2013 Co-op - Engineering - Ruby on Rails, AngularJS, React Native, MySQL, Redis, ElasticSearch",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -202372,7 +202310,7 @@
         "company_name": "GE Vernova",
         "id": "5af4887d-044c-4249-8e14-6353c4551ed4",
         "title": "Modeling and Simulation Intern - Modeling and Simulation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -210708,7 +210646,7 @@
         "company_name": "Cboe",
         "id": "ae84b274-7be8-43c5-97cc-6c6a08abf824",
         "title": "Client Intelligence Platform Intern - Data & Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -227781,7 +227719,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "c94165b3-3b95-42d8-93f1-e63185c63d59",
         "title": "Corporate Intern - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -228356,7 +228294,7 @@
         "company_name": "Thales",
         "id": "a6c10d8d-3694-464d-96ca-1df810002655",
         "title": "Assembly Technician Apprentice Level 3 Maintenance Operations Engineering Technician Apprenticeship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -228529,7 +228467,7 @@
         "company_name": "Bloom Energy",
         "id": "72a72587-8f86-48a3-a899-034e606e9e00",
         "title": "Process Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -239800,7 +239738,7 @@
         "company_name": "Trimble",
         "id": "0d4578f1-0fc2-4f30-9ca3-af0c47be4782",
         "title": "Data Engineer/Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -241398,7 +241336,7 @@
         "company_name": "SRI International",
         "id": "185db282-0dc3-4839-93ea-c3e7758acc70",
         "title": "Drexel University Co-op: Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -244256,7 +244194,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "da8914dd-354d-488f-81ba-9645d2b6693c",
         "title": "Software Integration Engineer Grad Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -244385,7 +244323,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "0e5f83a1-4929-44bf-bd17-2fbc6adc0abd",
         "title": "Enterprise Performance Modeling and Simulation Graduate Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -246921,7 +246859,7 @@
         "company_name": "CVS Health",
         "id": "aba55c61-7092-4510-abfe-1b0bae49da6b",
         "title": "Software Engineering Graduate Internship - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -262322,7 +262260,7 @@
         "company_name": "T-Mobile",
         "id": "288d2582-c122-4b55-9f78-a82d247963ab",
         "title": "Summer 2026 Business Intelligence \u2013 Engineer internship - BI",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -270324,7 +270262,7 @@
         "company_name": "GlobalFoundries",
         "id": "587a8418-0a47-4a2a-a563-f1c11362e91b",
         "title": "Product Management Intern - Feature-Rich CMOS - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
