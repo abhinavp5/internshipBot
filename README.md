@@ -1179,7 +1179,7 @@
 <td>Rtk Internship - Junior Software Engineer</td>
 <td>Farmers Branch, TX</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/aechelontechnology/jobs/4904960008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9082da61-057b-4091-9ce6-2092cb662419?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NinjaTrader?utm_source=GHList&utm_medium=company">NinjaTrader</a></strong></td>
@@ -14988,7 +14988,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
+<td>↳</td>
 <td>Software Engineer Intern - Recommendation Infrastructure</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
@@ -15002,7 +15002,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
+<td>↳</td>
 <td>Backend Software Engineer Intern - Tiktok-Product Infrastructure-Account - 2026 Summer - BS/MS</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
@@ -17173,7 +17173,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Lucid?utm_source=GHList&utm_medium=company">Lucid</a></strong></td>
 <td>Product Management Internship Summer 2026 - </td>
 <td>Raleigh, NC</td>
 <td>🔒</td>
@@ -17551,7 +17551,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/NBCUniversal?utm_source=GHList&utm_medium=company">NBCUniversal</a></strong></td>
+<td>↳</td>
 <td>Media Product Intern</td>
 <td>London, UK</td>
 <td>🔒</td>
@@ -21551,7 +21551,7 @@
 <td>ML Research Engineer Intern</td>
 <td>London, UK</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/embed/job_app?token=7141601&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3dea6bc1-b1b9-48b7-af91-f3846cb66aad?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/David-Yurman?utm_source=GHList&utm_medium=company">David Yurman</a></strong></td>
@@ -24075,7 +24075,7 @@
 <td>Business Insights Intern</td>
 <td>Deerfield Beach, FL</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NBCUniversal?utm_source=GHList&utm_medium=company">NBCUniversal</a></strong></td>
@@ -29097,7 +29097,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/NBCUniversal?utm_source=GHList&utm_medium=company">NBCUniversal</a></strong></td>
+<td>↳</td>
 <td>Technology Solutions Intern - Technology Solutions</td>
 <td>London, UK</td>
 <td>🔒</td>
@@ -33136,7 +33136,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Tokyo-Electron?utm_source=GHList&utm_medium=company">Tokyo Electron</a></strong></td>
+<td>↳</td>
 <td>Automation Engineer Intern</td>
 <td>Austin, TX</td>
 <td>🔒</td>
