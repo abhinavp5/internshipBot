@@ -247524,7 +247524,7 @@
         "company_name": "Shield AI",
         "id": "d66e215a-eb19-40ad-89cf-9e41b01c3096",
         "title": "Mission Systems Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -265057,7 +265057,7 @@
         "company_name": "Snap",
         "id": "84a8b3c7-74f8-4ebf-b145-d97f15b9d13d",
         "title": "3D Graphics Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -273485,7 +273485,7 @@
         "company_name": "Civil & Environmental Consultants",
         "id": "3e425eb2-62c0-4212-98d6-17f2f4322c17",
         "title": "Geotechnical Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
