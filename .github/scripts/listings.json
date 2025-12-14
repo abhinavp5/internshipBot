@@ -266542,7 +266542,7 @@
         "company_name": "Snap",
         "id": "3e5bf8dc-428d-48c6-af81-bb77f731deaa",
         "title": "AR Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
