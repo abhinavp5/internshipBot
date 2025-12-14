@@ -134,23 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "WeaveGrid",
-        "id": "655b9d31-5afc-4b9c-ab20-8d7d4ecc6aee",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1744957569,
-        "date_posted": 1744957569,
-        "url": "https://job-boards.greenhouse.io/weavegrid/jobs/5508189004",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/WeaveGrid",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Qualtrics",
         "id": "8f26aa92-60fb-4907-8d91-225cda5b405b",
         "title": "Data Science Intern",
@@ -142588,7 +142571,7 @@
         "company_name": "Vanguard",
         "id": "7177a6d4-db68-4b79-b2be-fcf987effecc",
         "title": "Application Engineer Intern/Co-op - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -153758,7 +153741,7 @@
         "company_name": "Major League Baseball",
         "id": "92b6ab05-cf11-4f63-bead-7e4e0d79becc",
         "title": "Data Science Intern - Baseball Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -272723,7 +272706,7 @@
         "company_name": "Fresenius Medical Care",
         "id": "6833474a-9712-4b83-869a-947255f19f5e",
         "title": "Embedded SW Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
