@@ -134,40 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Pebble",
-        "id": "a9de73b6-b8a4-488b-b66f-6389fdd6672c",
-        "title": "Data Analytics Internship",
-        "active": false,
-        "terms": [],
-        "date_updated": 1744964153,
-        "date_posted": 1744964153,
-        "url": "https://job-boards.greenhouse.io/pebblelife/jobs/4712125007",
-        "locations": [
-            "Fremont, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Pebble",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Sila Nanotechnologies",
-        "id": "548f4c42-9c8a-45d3-accc-4073d220f0e2",
-        "title": "Component R&D \u2013 Battery Modeling Team Internship",
-        "active": false,
-        "terms": [],
-        "date_updated": 1744963762,
-        "date_posted": 1744963762,
-        "url": "https://silanano.com/job-application/6817256/?gh_jid=6817256",
-        "locations": [
-            "Alameda, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SilaNano",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Airbus",
         "id": "174b11c5-ab86-4240-acfe-94632a3d04ae",
         "title": "Long-Term Internship - Data Analytics",
@@ -164152,7 +164118,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "e98d2ae7-4a5c-4a8d-93c0-06ab3c8d225f",
         "title": "Data Science Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -164290,7 +164256,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "32530b9f-31b7-4efc-887c-48ec4bd8da7a",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -164314,7 +164280,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "427c46da-aae1-45df-b8af-36a388b72682",
         "title": "AI Engineering Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -164337,7 +164303,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "5aaea3e0-eb7b-4548-8be4-217d0156b004",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -164661,7 +164627,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "bc4eaca1-d7bb-46f8-a195-59f2f4955803",
         "title": "Weather Data Analyst Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -164685,7 +164651,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "46f30da2-6e82-4eed-a01d-e3f793a37634",
         "title": "Quantitative Engineer Intern - Clearing Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -164708,7 +164674,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "f9220cd0-2992-46d7-bdae-b62e7d300658",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -164778,7 +164744,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "1b93bbd4-3c44-4ea5-9be4-12fc01cfbef5",
         "title": "Release Engineering Intern - Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -209558,7 +209524,7 @@
         "company_name": "Alliance Laundry Systems",
         "id": "24845bef-dcad-4c18-a140-12ba502024c7",
         "title": "Project Data Analyst Co-op - Project Management - Product Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -241222,7 +241188,7 @@
         "company_name": "SRI International",
         "id": "603b17d3-05d5-4bbe-83a1-17d30513c3d4",
         "title": "Drexel University Co-op: Systems Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -246959,7 +246925,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "417871cd-9f57-4003-ba18-d9cab6796608",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
