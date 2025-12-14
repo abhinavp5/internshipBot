@@ -134,23 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Delta Dental",
-        "id": "7522b29b-279a-484a-9e59-d841315ffb18",
-        "title": "Internship-Application Development",
-        "active": false,
-        "terms": [],
-        "date_updated": 1745005656,
-        "date_posted": 1745005656,
-        "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship--Application-Development_JR100784",
-        "locations": [
-            "East Lansing, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Delta-Dental",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Leidos",
         "id": "fe226dbe-9d11-4909-80b9-d0f38e1a2678",
         "title": "Software Engineering Intern",
@@ -98867,7 +98850,7 @@
         "company_name": "W.R. Berkley",
         "id": "e0f69806-7896-4be8-a283-0a348eb5d929",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -152053,7 +152036,7 @@
         "company_name": "Arch Capital Group",
         "id": "f176244b-7ea1-4fc6-98ad-5325ae2dfdde",
         "title": "IT Analytics Engineer Intern - IT - Enterprise Data",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
