@@ -36823,7 +36823,7 @@
         "company_name": "TikTok",
         "id": "92c99343-d3c6-4c90-91e7-fc37dd3f027c",
         "title": "Product Manager Intern - Tiktok-Product-Search Growth - 2026 Summer - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -179492,9 +179492,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1761214491,
+        "date_updated": 1765775874,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -184685,9 +184685,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1761866277,
+        "date_updated": 1765775874,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -186420,9 +186420,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762245905,
+        "date_updated": 1765775874,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -222921,9 +222921,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762555426,
+        "date_updated": 1765775874,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -272621,7 +272621,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1765582722,
+        "date_updated": 1765775236,
         "date_posted": 1765582722,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Backend-Software-Engineer--Fleet-Tooling--Bachelor-s-Degree-_JR-202524256",
         "locations": [
@@ -272631,7 +272631,9 @@
         "company_url": "https://simplify.jobs/c/General-Motors",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": []
+        "degrees": [
+            "Master's"
+        ]
     },
     {
         "source": "Simplify",
