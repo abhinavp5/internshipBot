@@ -97076,7 +97076,7 @@
         "company_name": "STR",
         "id": "739ed98a-653f-4c48-9d5c-7257360e3af7",
         "title": "Analytics Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -164107,7 +164107,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "32530b9f-31b7-4efc-887c-48ec4bd8da7a",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -230387,7 +230387,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Visa",
-        "id": "a010f1f2-6a04-4d2b-8281-df27a33235b0",
+        "id": "0ed6cb36-9c49-457e-987a-0bd0bf11e256",
         "title": "Software Engineer Intern",
         "active": true,
         "terms": [
@@ -262802,7 +262802,7 @@
         "company_name": "Analog Devices",
         "id": "7cc66d08-5bae-45dd-a9ff-9d0f71976eea",
         "title": "Digital Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -266054,7 +266054,7 @@
         "company_name": "Northrop Grumman",
         "id": "04892e10-87b8-4ea9-9ee7-650767b64d53",
         "title": "2026 Systems Engineer Intern - Baltimore MD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
