@@ -133,44 +133,6 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1749320195,
-        "url": "https://www.pgcareers.com/global/en/job/R000129158/Digital-Technologies-Internship-Co-op-Fall-2025---stage-coop-en-technologies-num%25C3%25A9riques-automne-2025",
-        "company_name": "Procter & Gamble",
-        "title": "Digital Technologies Internship/Co-op Fall 2025",
-        "locations": [
-            "TORONTO, Ontario, Canada"
-        ],
-        "terms": [
-            "Fall 2025"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "GaryZhous",
-        "id": "68f944a9-d742-42f2-ae47-deffc9813159",
-        "date_posted": 1745035292,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1745035406,
-        "url": "https://jobs.sap.com/job/Toronto-SAP-iXp-Intern-Product-Support-ON-M5K-1B7/1188581301",
-        "company_name": "SAP",
-        "title": "SAP iXp Intern - Product Support",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "GaryZhous",
-        "id": "eef1465d-043e-4ae9-b882-42f2c5fc8c79",
-        "date_posted": 1745035406,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "company_name": "Kalderos",
         "id": "23a9ede1-319b-4a8e-8ded-54d188f5540b",
@@ -28430,7 +28392,7 @@
         "company_name": "ByteDance",
         "id": "ccd9f420-e266-4129-8725-492d70b95d5d",
         "title": "3D Avatar Research and Development Intern - PICO Perception",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -164003,7 +163965,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "e1add382-7d2c-4688-a42c-5c80d39ac5de",
         "title": "Corporate System AI Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -164141,7 +164103,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "315215f2-cf98-4b01-85eb-14f7837c9dcd",
         "title": "Mobile Application Development Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -164350,7 +164312,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "2135c037-9723-4474-b040-a13457a2bbcb",
         "title": "C++ Developer Intern - Curve Engine",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -164652,7 +164614,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "1b93bbd4-3c44-4ea5-9be4-12fc01cfbef5",
         "title": "Release Engineering Intern - Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -215767,7 +215729,7 @@
         "company_name": "OmniSource",
         "id": "5a0de67c-94b7-4303-8869-fd2a1c1b129e",
         "title": "Data Analytics Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -226173,7 +226135,7 @@
         "company_name": "Nutanix",
         "id": "9cca7dda-ed78-45d8-ad05-49baddbd15e1",
         "title": "Business Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -242468,7 +242430,7 @@
         "company_name": "Alliance Laundry Systems",
         "id": "dda0a2ba-b6fc-4b39-8ba3-32ed779c5321",
         "title": "Product Innovation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -259357,7 +259319,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "2fbee002-5bbe-46ae-8686-b9ba9bd2b19e",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -269997,7 +269959,7 @@
         "company_name": "Rolls Royce",
         "id": "717fc683-eed2-4aab-ac17-f834ef630459",
         "title": "Intern \u2013 Digital Life Innovation - In-Car Entertainment - Spring/Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
