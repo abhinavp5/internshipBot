@@ -93367,7 +93367,7 @@
         "company_name": "Cotiviti",
         "id": "3dabf3fa-56cb-4626-a1d7-45c6307008f1",
         "title": "Intern \u2013 Generative AI Research Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -103367,7 +103367,7 @@
         "company_name": "TC Energy",
         "id": "5d44c63e-0d08-4843-8345-105812db7318",
         "title": "Data Analytics Intern - Operations Office of Excellence Assurance",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -223183,7 +223183,7 @@
         "company_name": "Rambus",
         "id": "1f934601-b176-42b2-adb3-e2e998544b0c",
         "title": "Test Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -226221,7 +226221,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "7615cfa2-56ef-49e0-8817-60db45705e9f",
         "title": "Engineering Intern - Software and Systems Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
