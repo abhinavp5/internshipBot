@@ -98375,7 +98375,7 @@
         "company_name": "Cotiviti",
         "id": "9892e214-ccb9-43f4-8016-f9cf87c0de55",
         "title": "Intern \u2013 Generative AI Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -149797,7 +149797,7 @@
         "company_name": "United Wholesale Mortgage",
         "id": "2ccde243-2959-41bf-bd01-f96d94926dcc",
         "title": "Technology Summer Intern - Information Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -263941,7 +263941,7 @@
         "company_name": "ServiceNow",
         "id": "6bc9048c-0168-4ee2-af5e-6e02b18baf60",
         "title": "Intern Associate Technical Portfolio Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
