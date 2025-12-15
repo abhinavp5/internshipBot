@@ -934,7 +934,7 @@
 <td>Software Development Engineer Intern</td>
 <td>Bellevue, WA</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/usafacts/jobs/4029872009?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6f1eddaf-74b9-4c64-9253-168bfd1eaa95?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>16d</td>
+<td>17d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Dandy?utm_source=GHList&utm_medium=company">Dandy</a></strong></td>
@@ -9044,21 +9044,21 @@
 <td>Comcast Access Systems Support Intern</td>
 <td>Remote in USA</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Comcast Mobile Engineering Intern</td>
 <td>Philadelphia, PA</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Comcast Software Engineer Intern</td>
 <td>Philadelphia, PA</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Duolingo?utm_source=GHList&utm_medium=company">Duolingo</a></strong></td>
@@ -14400,7 +14400,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
 <td>Software Engineer Intern - Media Engine</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
@@ -18129,7 +18129,7 @@
 <td>Comcast AI Product Intern</td>
 <td>Philadelphia, PA</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Whisper-Aero?utm_source=GHList&utm_medium=company">Whisper Aero</a></strong></td>
@@ -20865,7 +20865,7 @@
 <td>Data Analyst Intern</td>
 <td>Chicago, IL</td>
 <td><div align="center"><a href="https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Analyst-Internship---Summer-2026_19038486?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bc7762e5-8638-466a-b9ba-0625be71aaaf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Awetomaton?utm_source=GHList&utm_medium=company">Awetomaton</a></strong></td>
@@ -21439,7 +21439,7 @@
 <td>Research Intern</td>
 <td><details><summary><strong>4 locations</strong></summary>LA</br>Burbank, CA</br>Hollywood, LA</br>North Hollywood, LA</details></td>
 <td><div align="center"><a href="https://careers.paramount.com/job/Los-Angeles-Research-Internships-(Summer-2026,-In-Person-LA)-CA-90038/1345251100/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/723382a1-6dab-41de-b216-d3a5ae4e971d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/ASML?utm_source=GHList&utm_medium=company">ASML</a></strong></td>
@@ -32664,21 +32664,21 @@
 <td>Comcast AI-Driven Software Development Intern</td>
 <td>West Chester, PA</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Comcast Cyber Security Data Engineer Intern</td>
 <td>Philadelphia, PA</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/00c1909f-a319-4a12-b75e-478061f3ff68?utm_source=GHList&utm_medium=company">The Home Depot</a></strong></td>
 <td>Data Science PhD Level Internship 🎓</td>
 <td>Atlanta, GA</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/CIBC?utm_source=GHList&utm_medium=company">CIBC</a></strong></td>
