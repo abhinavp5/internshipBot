@@ -13208,7 +13208,7 @@
         "company_name": "Medpace, Inc.",
         "id": "19e2eeec-000d-4a76-aaec-d774c1b64e43",
         "title": "Web Developer Internship/Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -34457,7 +34457,7 @@
         "company_name": "GE Vernova",
         "id": "d1f13d1a-7b5e-4cbd-b7ab-177d17dc3684",
         "title": "GE Vernova Grid Automation Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -51595,7 +51595,7 @@
         "company_name": "Samsara",
         "id": "4c9fd007-f0b4-4bf4-a60b-1f389c05bd41",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -64338,7 +64338,7 @@
         "company_name": "CACI",
         "id": "b30abb2c-e64c-45d7-8223-3c40fd83de57",
         "title": "Data Analyst / BI Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -69543,7 +69543,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "612ab4fe-69f9-408a-a608-6e91704ea650",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -116158,7 +116158,7 @@
         "company_name": "Verkada",
         "id": "bce1d99a-579a-4c9e-83c8-8ffc6fa4130a",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -132108,7 +132108,7 @@
         "company_name": "Motorola",
         "id": "5750c6f8-335b-4fe9-8cff-38993783fa42",
         "title": "IT Systems Analyst Intern - Supply Chain - IT Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -198789,7 +198789,7 @@
         "company_name": "Ascend Learning",
         "id": "d5de965f-dc8e-4c3d-8090-3becbe5141a7",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -209846,7 +209846,7 @@
         "company_name": "Medpace, Inc.",
         "id": "56943d8d-4232-451e-9d14-995fcd3ebe27",
         "title": "Informatics Internship/Co-Op Spring 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -222767,7 +222767,7 @@
     {
         "date_updated": 1762555258,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -230686,7 +230686,7 @@
         "company_name": "MaineGeneral Health",
         "id": "283feff9-dc4c-4325-81e1-58a857138d24",
         "title": "Senior Application Engineer \u2013 Maine Residency Required - Partially",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -233552,7 +233552,7 @@
         "company_name": "Elevance Health",
         "id": "12be034a-f85a-4e00-9bf3-d6b3788cae0c",
         "title": "Business Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -239542,7 +239542,7 @@
         "company_name": "Amperity",
         "id": "71c813ad-cb42-4f53-a848-5fb7a4c92ddf",
         "title": "Product Manager Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -245887,7 +245887,7 @@
         "company_name": "Root Access",
         "id": "da6e9571-eb16-43ab-8875-85d4a3f1a7e6",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -245908,7 +245908,7 @@
         "company_name": "Root Access",
         "id": "d38d3591-243a-48c9-b098-e671ff3d4541",
         "title": "Firmware Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -246211,7 +246211,7 @@
         "company_name": "Micron Technology",
         "id": "33bf0707-f5ec-4664-a8f0-fd624631beb7",
         "title": "Registered Apprentice - Equipment Technician",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -247628,7 +247628,7 @@
         "company_name": "ASML",
         "id": "93893b12-59bc-4a57-a8a8-bb6f35f87283",
         "title": "Intern - Data Science and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -250801,7 +250801,7 @@
         "company_name": "Raymond James Financial",
         "id": "dc646ba2-926f-481a-abe8-9bd5bd49cd93",
         "title": "Intern - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -256026,7 +256026,7 @@
         "company_name": "Al Warren Oil Company",
         "id": "eb4db4fa-341f-4ba0-9a6f-a15b23637c59",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -259669,7 +259669,7 @@
         "company_name": "Brown Brothers Harriman",
         "id": "7f6505f6-7f7a-4ed3-bb75-b8cf20a8b1d1",
         "title": "Transformation Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -268212,7 +268212,7 @@
         "company_name": "Wisk",
         "id": "60ca16ca-1791-4af3-beb8-e0e25f2a9505",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -268534,7 +268534,7 @@
         "company_name": "Dow Chemical Company",
         "id": "a371a8bf-5678-48e1-a65c-873f93412fcf",
         "title": "Local College Co-op - Research & Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -269138,7 +269138,7 @@
         "company_name": "Teledyne",
         "id": "d1660f37-c2cc-446b-a6ba-181370bfcb7b",
         "title": "College Intern - Technical",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -272417,7 +272417,7 @@
         "company_name": "Optiver",
         "id": "56977343-da29-4982-bd1c-318946b093b2",
         "title": "Software Engineer Intern - Summer 2026 - Austin",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -273565,6 +273565,113 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Ripple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "GE Vernova",
+        "id": "89ebb34c-402f-4e54-985f-452cea5f7bf7",
+        "title": "Controls Product Management Cost Analyst Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1765834618,
+        "date_posted": 1765834618,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Longmont/Controls-Product-Management-Cost-Analyst-Intern_R5021234-1",
+        "locations": [
+            "Longmont, CO",
+            "Greenville, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Thales",
+        "id": "34d6b655-1658-4d2a-a554-1a7dd690ef81",
+        "title": "Embedded Software Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1765834896,
+        "date_posted": 1765834896,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Glasgow/Embedded-Software-Engineer-Intern_R0309885",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Thales",
+        "id": "2bfbbf5b-d2d8-43e0-a3c5-cfc71fa4887d",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1765834893,
+        "date_posted": 1765834893,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Glasgow/Software-Engineering-Intern_R0309531",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "6226ab73-2698-4d91-acfb-90a7aef290c6",
+        "title": "AML Data Management Intern - Grm - 8 Months",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765834964,
+        "date_posted": 1765834964,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Summer---GRM--AML-Data-Management-Intern--8-Months-_R-0000149922",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "GE Vernova",
+        "id": "2f12e87f-8ce4-4049-a28f-42f57c46c853",
+        "title": "GE Vernova Controls Advanced Software Product Launch Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765834617,
+        "date_posted": 1765834617,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Atlanta/GE-Vernova-Controls-Advanced-Software-Product-Launch-Intern---Summer-2026_R5021158-1",
+        "locations": [
+            "Longmont, CO",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
