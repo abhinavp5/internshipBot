@@ -10,17 +10,17 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 739 Internship Roles by Category
+### Browse 737 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (214)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (56)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (55)
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (288)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (16)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-hardware-engineering-internship-roles)** (165)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-hardware-engineering-internship-roles)** (164)
 
 ---
 
@@ -9143,14 +9143,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Skydio?utm_source=GHList&utm_medium=company">Skydio</a></strong></td>
-<td>Hardware Product Management Intern</td>
-<td>San Mateo, CA</td>
-<td>Winter 2025</td>
-<td><div align="center"><a href="https://www.skydio.com/jobs/7494620003?gh_jid=7494620003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b264f834-ec6f-4a63-b87d-27f9ff182db5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Faraday-Future?utm_source=GHList&utm_medium=company">Faraday Future</a></strong></td>
 <td>Part Time Product Associate Intern</td>
 <td>West Athens, CA</td>
@@ -9171,7 +9163,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (119)</summary>
+<summary>🗃️ Inactive roles (120)</summary>
 
 <table>
 <thead>
@@ -9573,6 +9565,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Vertiv?utm_source=GHList&utm_medium=company">Vertiv</a></strong></td>
 <td>Product Management Analyst – Intern - Product Costing</td>
 <td>Dorking, UK</td>
+<td>Winter 2025</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Skydio?utm_source=GHList&utm_medium=company">Skydio</a></strong></td>
+<td>Hardware Product Management Intern</td>
+<td>San Mateo, CA</td>
 <td>Winter 2025</td>
 <td>🔒</td>
 <td>1mo</td>
@@ -11277,6 +11277,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><div align="center"><a href="https://careers.kodak.com/job/USA-Marketing-Analytics-Intern-CA/1344032100/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c0855650-24a7-406a-a00c-49044e15053b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>24d</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company">Tencent</a></strong></td>
+<td>Hunyuan AIGC Algorithm Researcher Intern - World Model Foundation Direction</td>
+<td>Palo Alto, CA</td>
+<td>Winter 2025</td>
+<td><div align="center"><a href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-AIGC-Algorithm-Researcher-intern--World-Model-Foundation-Direction-_R106508?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/85aa94d6-bd23-48a9-a0ca-f51433dea9ca?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>24d</td>
+</tr>
 </tbody>
 </table>
 
@@ -11303,14 +11311,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company">Tencent</a></strong></td>
-<td>Hunyuan AIGC Algorithm Researcher Intern - World Model Foundation Direction</td>
-<td>Palo Alto, CA</td>
-<td>Winter 2025</td>
-<td><div align="center"><a href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-AIGC-Algorithm-Researcher-intern--World-Model-Foundation-Direction-_R106508?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/85aa94d6-bd23-48a9-a0ca-f51433dea9ca?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>24d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Metropolitan-Transportation-Authority?utm_source=GHList&utm_medium=company">Metropolitan Transportation Authority</a></strong></td>
 <td>Data Analyst – Emerging Talent Intern</td>
@@ -22270,14 +22270,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>30d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Skydio?utm_source=GHList&utm_medium=company">Skydio</a></strong></td>
-<td>Flight Test Intern</td>
-<td>San Mateo, CA</td>
-<td>Winter 2025</td>
-<td><div align="center"><a href="https://www.skydio.com/jobs/7506782003?gh_jid=7506782003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0e210d8b-c821-47be-a3ff-945db72ee04d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Fermilab?utm_source=GHList&utm_medium=company">Fermilab</a></strong></td>
 <td>VALOR Apprenticeship</td>
 <td>Batavia, IL</td>
@@ -22946,7 +22938,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (443)</summary>
+<summary>🗃️ Inactive roles (444)</summary>
 
 <table>
 <thead>
@@ -23268,6 +23260,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Radiance-Technologies?utm_source=GHList&utm_medium=company">Radiance Technologies</a></strong></td>
 <td>Software Reverse Engineer CO-OP Intern</td>
 <td>Wright-Patterson AFB, OH</td>
+<td>Winter 2025</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Skydio?utm_source=GHList&utm_medium=company">Skydio</a></strong></td>
+<td>Flight Test Intern</td>
+<td>San Mateo, CA</td>
 <td>Winter 2025</td>
 <td>🔒</td>
 <td>1mo</td>

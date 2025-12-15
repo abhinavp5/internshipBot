@@ -205,25 +205,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Baxter International",
-        "id": "ce52c408-b65b-48af-98b9-a68537b044a1",
-        "title": "Intern - Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1745072461,
-        "date_posted": 1745072461,
-        "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Raleigh-North-Carolina/XMLNAME-2025-Summer-Intern---Software-Engineer_JR-169273-1",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Baxter-International",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1749264190,
         "url": "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000123520EXTERNALENCA/2025-Fall-Student-Opportunities-Capital-Markets-QTS-Software-Developer-4-12-Months",
         "company_name": "RBC",
@@ -31594,7 +31575,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "3b44967e-536c-43a3-9ceb-440d6b0dfa8d",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -67340,7 +67321,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "7d759071-51ab-4627-818f-a1e444d0e332",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -93081,7 +93062,7 @@
         "company_name": "Medpace, Inc.",
         "id": "cbc5159b-aced-4cd4-b72f-628f9ea961e5",
         "title": "Software Development Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -94113,7 +94094,7 @@
         "company_name": "Steel Dynamics",
         "id": "7ba65b7f-ae42-4a6b-8450-04416d267214",
         "title": "Computer Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -151941,7 +151922,7 @@
         "company_name": "Arch Capital Group",
         "id": "f176244b-7ea1-4fc6-98ad-5325ae2dfdde",
         "title": "IT Analytics Engineer Intern - IT - Enterprise Data",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -183821,7 +183802,7 @@
     {
         "date_updated": 1761800520,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -202757,7 +202738,7 @@
         "company_name": "Skydio",
         "id": "b264f834-ec6f-4a63-b87d-27f9ff182db5",
         "title": "Hardware Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -205158,7 +205139,7 @@
         "company_name": "Skydio",
         "id": "d7e44aec-f7e6-4731-a0d6-9b4ad656424e",
         "title": "Autonomy Engineer Intern Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -209613,7 +209594,7 @@
         "company_name": "Energy Transfer Partners",
         "id": "e2936fbe-3f9d-4505-90ca-02168798d551",
         "title": "Intern \u2013 Business Transformation and Integration - Accounting Transformation and Integration Department",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -234626,7 +234607,7 @@
         "company_name": "Skydio",
         "id": "0e210d8b-c821-47be-a3ff-945db72ee04d",
         "title": "Flight Test Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -234843,7 +234824,7 @@
         "company_name": "Skydio",
         "id": "ff90c89b-bdce-43bd-bf1a-dae5dc76734b",
         "title": "Hardware Test and Reliability Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -241847,7 +241828,7 @@
     {
         "date_updated": 1763657145,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -269644,7 +269625,7 @@
         "company_name": "Sikich",
         "id": "3f885c0a-27b4-4a52-b476-8170f97722c8",
         "title": "Summer 2026 Intelligence Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
