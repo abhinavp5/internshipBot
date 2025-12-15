@@ -211526,7 +211526,7 @@
         "company_name": "Red Hat",
         "id": "a0faa8c7-7870-415f-ab24-d68d8eb51253",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -248932,7 +248932,7 @@
         "company_name": "LabCorp",
         "id": "616eddd8-6084-4996-8755-6d714f67f3c7",
         "title": "Intern \u2013 Business Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -254794,7 +254794,7 @@
         "company_name": "Fiserv",
         "id": "589af6f6-9f42-4bff-afe4-60e33759767f",
         "title": "Technology Intern Program - Application Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -257057,7 +257057,7 @@
         "company_name": "TD Bank",
         "id": "80a17625-cac7-4d86-a3a4-8c7cde7018f3",
         "title": "TD Talent Connect \u2013 Co-op/Intern Applicants - University of Toronto - January  & 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -257800,7 +257800,7 @@
         "company_name": "Qualcomm",
         "id": "1841f2e4-a448-4a8a-a4c9-a3a470c1161c",
         "title": "FY26 Intern \u2013 AI/Machine Learning Internship - Canada - Or  months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -259884,7 +259884,7 @@
         "company_name": "BMO ",
         "id": "4624bfb9-72e4-4775-a042-937573b660de",
         "title": "Investment Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -260170,7 +260170,7 @@
         "company_name": "BMO ",
         "id": "ebc8202f-a8cd-4f14-a48c-2ce8011f0512",
         "title": "Investment Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -268581,7 +268581,7 @@
         "company_name": "Cisco",
         "id": "2bc48395-de55-46ba-9d8c-f5c825b4d203",
         "title": "Software Engineer Full Stack/Application 2 - Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -270393,7 +270393,7 @@
         "company_name": "Moog ",
         "id": "024b752d-c508-4993-8748-53864e30adb3",
         "title": "Intern \u2013 Mechanical Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
