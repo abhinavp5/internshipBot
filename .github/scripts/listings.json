@@ -98402,7 +98402,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "08b5f3e9-aa6a-4dcb-839c-f936a41196a3",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -201165,7 +201165,7 @@
         "company_name": "Skydio",
         "id": "b0313b92-8a8b-4d31-b174-2b54bfa12fa5",
         "title": "Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -250521,7 +250521,7 @@
         "company_name": "Skydio",
         "id": "2a5d530b-ffea-4187-96a7-f65b95ebae31",
         "title": "Cloud Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
