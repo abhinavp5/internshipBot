@@ -67298,7 +67298,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "be476f85-663f-4c37-bc25-40a5853b02be",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -132272,7 +132272,7 @@
         "company_name": "GE Vernova",
         "id": "e5180360-c08c-4494-aa97-2ff49f5cdc06",
         "title": "Power System Intern - AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -235387,7 +235387,7 @@
         "company_name": "Skydio",
         "id": "bc332039-aec8-47fe-bed9-885cbd6867af",
         "title": "Mobile Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -272137,7 +272137,7 @@
         "company_name": "Skydio",
         "id": "bb4fb348-f33e-44b0-b770-b8a050dd49dc",
         "title": "Software Engineer Intern - Boston",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
