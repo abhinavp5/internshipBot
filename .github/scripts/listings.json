@@ -24670,7 +24670,7 @@
         "company_name": "TikTok",
         "id": "a1525997-1c16-4b29-9052-9bf2afbf8d99",
         "title": "Data Science intern - 2025 Start - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -24852,7 +24852,7 @@
         "company_name": "TikTok",
         "id": "7acabf5a-1421-4b78-85ca-4aea13033332",
         "title": "Data Engineer Intern - Ads Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -37050,7 +37050,7 @@
         "company_name": "TikTok",
         "id": "fc8938a2-d02c-4389-8545-89cb6d6ca294",
         "title": "Machine Learning Engineer Intern - Search E-commerce",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -37260,7 +37260,7 @@
         "company_name": "TikTok",
         "id": "d8e58675-340d-4eb5-bc71-e33b03ff4646",
         "title": "Machine Learning Engineer Intern - Search E-commerce",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -37377,7 +37377,7 @@
         "company_name": "TikTok",
         "id": "2565d4c5-2380-4fda-9ef9-8592df984630",
         "title": "Machine Learning Engineer Intern - Search E-commerce",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -269744,7 +269744,7 @@
         "company_name": "Dematic",
         "id": "fea19860-81f2-42f0-a52d-de3617a57a09",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
