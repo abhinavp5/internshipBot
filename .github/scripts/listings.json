@@ -276087,5 +276087,311 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1765904594,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.capellaspace.com/company/apply?gh_jid=5737184004",
+        "company_name": "Capella",
+        "title": "Flight Software Engineering Intern",
+        "locations": [
+            "Louisville, CO"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Hardware Engineering",
+        "source": "AlmondCroffle",
+        "id": "081d3951-c0ed-454c-8258-21f2a28ff275",
+        "date_posted": 1765904594,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1765904872,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/capitaltg/jobs/4967364007",
+        "company_name": "Capital Technology Group",
+        "title": "Software Development",
+        "locations": [
+            "Remote in USA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "5644054a-389f-4aa8-9407-5798b119e11b",
+        "date_posted": 1765904872,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1765904967,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://velera.wd5.myworkdayjobs.com/veleracareers/job/Remote-USA/Intern---Data-Engineer--REMOTE-_8844",
+        "company_name": "Velera",
+        "title": "Data Engineer",
+        "locations": [
+            "Remote in USA"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Winter 2026",
+            "Spring 2026",
+            "Fall 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "7e0fee85-6b27-4c02-a943-7b7b47f28ebd",
+        "date_posted": 1765904967,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1765905163,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/c4621e0f-5c1e-4a67-adc4-0671cbcaf28c",
+        "company_name": "Bosch",
+        "title": "AI Research Intern - Wireless Perception",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "72e67034-d744-4eed-84b8-67d1a488b538",
+        "date_posted": 1765905163,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1765905356,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.williamblair.com/Careers/job-description?gh_jid=4824302007",
+        "company_name": "William Blair",
+        "title": "Working in Technology (WiT) Data Science",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "e02796d2-39d4-4867-9129-33b20ee2c329",
+        "date_posted": 1765905356,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1765905587,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.smartrecruiters.com/LinkedIn3/aa222455-47c8-492e-a445-5ccbcee7ae9b",
+        "company_name": "LinkedIn",
+        "title": "Data Engineer- Data Science Intern, Master's",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "0f0d42f7-4d21-4673-8880-574d8ced1106",
+        "date_posted": 1765905555,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1765905639,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://jobs.smartrecruiters.com/LinkedIn3/517e679d-be36-45ce-ab17-7c44eb8279ed",
+        "company_name": "LinkedIn",
+        "title": "Applied Science- Data Science Intern, PhD",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "321d806d-2a18-4acd-98ff-ece4997d6e20",
+        "date_posted": 1765905639,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1765905668,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://jobs.smartrecruiters.com/LinkedIn3/c09bade2-b299-4574-a51f-9fc711d1c913",
+        "company_name": "LinkedIn",
+        "title": "Strategy & Insights- Data Science Intern, Master's",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "39e88ace-8fcd-4b32-896c-f73ccdbe0631",
+        "date_posted": 1765905668,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1765906008,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Quantitative-Systems-Pharmacology-Modeling-Intern--PhD-Students_R-241829",
+        "company_name": "AstraZeneca",
+        "title": "Quantitative Systems Pharmacology Modeling Intern, PhD Students",
+        "locations": [
+            "Gaithersburg, MD"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "e6a72cfd-b318-4a00-95fb-0dad2ddc9233",
+        "date_posted": 1765906008,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1765906152,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://roche.wd3.myworkdayjobs.com/rog-a2o-gene/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Biology-Research---AI-Development--BRAID-_202512-131753",
+        "company_name": "Genentech",
+        "title": "Biology Research | AI Development (BRAID)",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "94a1cee2-00a6-4bc2-b2d5-0c8ce103960d",
+        "date_posted": 1765906152,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1765906185,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://roche.wd3.myworkdayjobs.com/en-US/rog-a2o-gene/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---CSCoE-AI-for-Drug-Discovery_202512-131719",
+        "company_name": "Genentech",
+        "title": "CSCoE AI for Drug Discovery",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "221fb20a-cdd6-47b7-87b2-a130a058cc27",
+        "date_posted": 1765906185,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1765906226,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://roche.wd3.myworkdayjobs.com/rog-a2o-gene/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Computational-Sciences-Center-of-Excellence---AI-Agentic-Bioinformatics-Tools-for-Clinical-Biomarker-Omics-Workflows_202512-132057",
+        "company_name": "Genentech",
+        "title": "Computational Sciences Center of Excellence - AI-Agentic Bioinformatics Tools for Clinical Biomarker Omics Workflows",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "3ddad838-d196-4997-a1c1-5c3ae1406238",
+        "date_posted": 1765906226,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1765906334,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/XMLNAME---Summer-Intern---AI--Human-Computer-Interaction---Future-PC-Experience-Research_UNI3539-1",
+        "company_name": "Hewlett Packard",
+        "title": "AI, Human-Computer Interaction & Future PC Experience Research",
+        "locations": [
+            "Spring, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "c18646ce-5bc8-4652-ba34-015adacf5fcc",
+        "date_posted": 1765906334,
+        "company_url": "",
+        "is_visible": true
     }
 ]
