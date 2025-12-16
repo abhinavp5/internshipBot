@@ -82494,7 +82494,7 @@
         "company_name": "Marvell",
         "id": "86037ae8-2dc6-4086-8507-7f05cdd324f2",
         "title": "Package Engineering Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -151831,7 +151831,7 @@
         "company_name": "Arch Capital Group",
         "id": "f176244b-7ea1-4fc6-98ad-5325ae2dfdde",
         "title": "IT Analytics Engineer Intern - IT - Enterprise Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -173375,9 +173375,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760742919,
+        "date_updated": 1765891441,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -173398,9 +173398,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760742973,
+        "date_updated": 1765891441,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -182267,9 +182267,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761602970,
+        "date_updated": 1765891441,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -184394,9 +184394,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761864818,
+        "date_updated": 1765891441,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -236120,9 +236120,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1763139090,
+        "date_updated": 1765891441,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -245471,9 +245471,9 @@
         "degrees": []
     },
     {
-        "date_updated": 1763741365,
+        "date_updated": 1765891441,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -245494,9 +245494,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1763741433,
+        "date_updated": 1765891441,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -245517,9 +245517,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1763741473,
+        "date_updated": 1765891441,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -266775,9 +266775,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1765388437,
+        "date_updated": 1765891441,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -266971,9 +266971,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1765389481,
+        "date_updated": 1765891441,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -266996,9 +266996,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1765389554,
+        "date_updated": 1765891441,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
