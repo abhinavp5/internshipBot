@@ -207388,7 +207388,7 @@
         "company_name": "Synchrony Financial",
         "id": "71eb2d44-2181-4361-8d16-72e3250210a7",
         "title": "Uconn Stamford Digital Technology Center Intern - Spring 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -272683,7 +272683,7 @@
         "company_name": "Zipline",
         "id": "8f5bbcf8-380b-49f1-a981-bbe80f9b29ae",
         "title": "Analytics Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
