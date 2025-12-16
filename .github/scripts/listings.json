@@ -24832,7 +24832,7 @@
         "company_name": "TikTok",
         "id": "f7ae716b-13a6-4464-9c91-775ac62596a4",
         "title": "Machine Learning Engineer Intern - Creative AI - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -24893,7 +24893,7 @@
         "company_name": "TikTok",
         "id": "7a09a47d-71fc-4d58-8e8c-a04fe2040205",
         "title": "Software Engineer Intern \u2013 Lead Ads - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -25758,7 +25758,7 @@
         "company_name": "TikTok",
         "id": "5cbd37d5-9572-4786-9044-4a223471831e",
         "title": "Software Engineer Intern - Recommendation Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -26659,7 +26659,7 @@
         "company_name": "TikTok",
         "id": "cf294fa3-2eff-4f7b-92ba-b89575f3ccc8",
         "title": "Machine Learning Engineer Intern - Featurestore",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -36291,7 +36291,7 @@
         "company_name": "TikTok",
         "id": "362a0ac9-188d-4372-b066-0bee0060f17c",
         "title": "Machine Learning Engineer Intern - E-commerce-Recommendation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -37516,7 +37516,7 @@
         "company_name": "TikTok",
         "id": "da93ee33-ebb1-468a-a44f-0ce3bbd79f3c",
         "title": "Machine Learning Engineer Intern - Training Pre-processing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -37562,7 +37562,7 @@
         "company_name": "TikTok",
         "id": "7c68b905-999b-4d62-b612-f9da412d6e5f",
         "title": "Machine Learning Engineer Intern - Featurestore",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -37632,7 +37632,7 @@
         "company_name": "TikTok",
         "id": "cc3c7860-177b-4234-9c65-70fe86c1d176",
         "title": "Machine Learning Engineer Intern - E-commerce-Recommendation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -48014,7 +48014,7 @@
         "company_name": "TikTok",
         "id": "29355c80-48bf-4523-a41c-71582bd278bc",
         "title": "Product Operations Project Intern - SMB Industry Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -86732,7 +86732,7 @@
         "company_name": "TikTok",
         "id": "248f53f0-fcfe-4f7d-a9fd-6555e0688167",
         "title": "Data Analyst Project Intern - Supply Chain & Logistics - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -93911,7 +93911,7 @@
         "company_name": "Legrand NA",
         "id": "f12c4439-da73-4544-9abe-313c848354d9",
         "title": "Firmware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -94448,7 +94448,7 @@
         "company_name": "W.R. Berkley",
         "id": "772e84bd-7eb3-4373-b29b-8fad617ae11c",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -99657,7 +99657,7 @@
         "company_name": "W.R. Berkley",
         "id": "5e7ae581-bfe7-42e4-a462-c48a4fc56c8e",
         "title": "Quantitative Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -120450,7 +120450,7 @@
         "company_name": "TikTok",
         "id": "150bf422-b54e-45a1-8bb6-0c55509c8cdb",
         "title": "Product Manager - Intern - Travel & Entertainment Ads",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -128273,7 +128273,7 @@
         "company_name": "W.R. Berkley",
         "id": "0c7562e6-7d8e-4ada-b934-9b6bdd000c2f",
         "title": "Intern \u2013 Software Developer - Reactjs",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -129279,7 +129279,7 @@
         "company_name": "RESPEC",
         "id": "7e3150d2-3408-4a2a-8c6f-7634903812d8",
         "title": "Student Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -133720,7 +133720,7 @@
         "company_name": "RESPEC",
         "id": "1168a44b-3215-4f61-b484-7f14838fd4ca",
         "title": "Student Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -134008,7 +134008,7 @@
         "company_name": "Rambus",
         "id": "30f32a5b-76dd-4ace-8472-5352e3bd5a92",
         "title": "Product Engineering Intern - Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -164021,7 +164021,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "427c46da-aae1-45df-b8af-36a388b72682",
         "title": "AI Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -164415,7 +164415,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "f9220cd0-2992-46d7-bdae-b62e7d300658",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -166281,7 +166281,7 @@
         "company_name": "TikTok",
         "id": "9794742b-8dd1-4344-b679-e404cdde18b8",
         "title": "Data Science Project Intern - Supply Chain & Logistics",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -209265,7 +209265,7 @@
         "company_name": "Alliance Laundry Systems",
         "id": "24845bef-dcad-4c18-a140-12ba502024c7",
         "title": "Project Data Analyst Co-op - Project Management - Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -209482,7 +209482,7 @@
         "company_name": "Cook Group",
         "id": "1b5d3b69-67e4-479a-9695-419cdbb88228",
         "title": "Information Technology Intern - Artificial Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -215107,7 +215107,7 @@
         "company_name": "Bartlett & West",
         "id": "878534f2-b978-4d1e-ade6-a97e9dc0acee",
         "title": "GIS Intern - Water Resources Focus",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -215381,7 +215381,7 @@
         "company_name": "American Enterprise Institute",
         "id": "899e3af7-b2d9-4974-acf0-597d80f7d0a5",
         "title": "Spring Intern: Data Analysis and Education Policy",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -215600,7 +215600,7 @@
         "company_name": "OmniSource",
         "id": "5a0de67c-94b7-4303-8869-fd2a1c1b129e",
         "title": "Data Analytics Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -216172,7 +216172,7 @@
         "company_name": "Rambus",
         "id": "9a0aca24-0f4b-41d4-8682-8a11169ffa50",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -222011,7 +222011,7 @@
         "company_name": "TikTok",
         "id": "84f64fbf-d57b-43a4-8733-afcd6e01eb5a",
         "title": "Product Manager Project Intern - Search Ads Product - 2025 Start - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -222328,7 +222328,7 @@
         "company_name": "TikTok",
         "id": "9be4601b-6c85-43d3-a8ff-a3a28375f249",
         "title": "Product Manager Project Intern - Search Ads Product - 2025 Start - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -223073,7 +223073,7 @@
         "company_name": "Rambus",
         "id": "1f934601-b176-42b2-adb3-e2e998544b0c",
         "title": "Test Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -231946,7 +231946,7 @@
         "company_name": "W.R. Berkley",
         "id": "173a2af7-91f8-43bc-815b-eb93b3dd7f3a",
         "title": "Data Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -240950,7 +240950,7 @@
         "company_name": "SRI International",
         "id": "185db282-0dc3-4839-93ea-c3e7758acc70",
         "title": "Drexel University Co-op: Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -244611,7 +244611,7 @@
         "company_name": "Intuitive Surgical",
         "id": "549d8449-d93d-4fd5-b514-2a6d6805ec6e",
         "title": "AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -245637,7 +245637,7 @@
         "company_name": "Intuitive Surgical",
         "id": "e0d9fd04-ca06-4136-9e90-c39d4b80f9d7",
         "title": "AI Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -246877,7 +246877,7 @@
         "company_name": "TikTok",
         "id": "b26c0264-beb2-4684-ba18-93b1abe2a54c",
         "title": "Product Manager Project Intern - Search Ads Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -258337,7 +258337,7 @@
         "company_name": "SRI International",
         "id": "88e44adf-fee4-4c3f-9e84-f34416bc06e6",
         "title": "Drexel University Co-op: Embedded Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -259018,7 +259018,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "37bb1efc-3cf5-4f3e-b99c-cd99abea4fa7",
         "title": "Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -275517,7 +275517,7 @@
         "company_name": "Roku",
         "id": "e5a24f6e-f873-4e2e-b9c4-7c2509d69d71",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -275805,6 +275805,27 @@
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kimley-Horn",
+        "id": "a3e4be66-d600-402e-b1cf-9d3ad8e346e2",
+        "title": "Landscape Architecture Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1765880887,
+        "date_posted": 1757613466,
+        "url": "https://careers-kimley-horn.icims.com/jobs/19158/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kimley-Horn",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
