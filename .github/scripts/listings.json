@@ -36171,7 +36171,7 @@
         "company_name": "TikTok",
         "id": "70137e6e-d90f-48c5-9673-27cdeab98ec0",
         "title": "Product manager Intern - Tiktok-Search-Comprehensive Search - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -174306,7 +174306,7 @@
         "company_name": "Idaho National Laboratory",
         "id": "2e66bd05-67b2-487b-9ffe-44330568ac9c",
         "title": "Bioenergy Digital Engineering Summer 2026 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -234064,7 +234064,7 @@
         "company_name": "AbbVie",
         "id": "b6887522-61f3-46ae-bb60-80b649182891",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -236280,7 +236280,7 @@
         "company_name": "AbbVie",
         "id": "ef47db0b-bd8f-4744-a6fd-bf7f29804dea",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -274619,7 +274619,7 @@
         "company_name": "Ambarella",
         "id": "63dad1d4-6db9-48bd-91b4-f9d284d25240",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
