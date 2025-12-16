@@ -99657,7 +99657,7 @@
         "company_name": "W.R. Berkley",
         "id": "5e7ae581-bfe7-42e4-a462-c48a4fc56c8e",
         "title": "Quantitative Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -163951,7 +163951,7 @@
         "company_name": "Shield AI",
         "id": "ebaa9281-76b7-4260-8c4c-d74ad4291ffc",
         "title": "Hardware Test Engineering Intern/Co-op - Electrical Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -175338,7 +175338,7 @@
         "company_name": "DatologyAI",
         "id": "537c5b49-5525-49e5-92f7-22b3e72cf73d",
         "title": "Software Engineer Intern - Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -178203,7 +178203,7 @@
         "company_name": "Wing",
         "id": "6c1b9ac2-2f98-43bf-ad01-361b580c495e",
         "title": "Backend Software Engineer Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -258295,7 +258295,7 @@
         "company_name": "Uhaul",
         "id": "f6af4cf7-7e01-4de9-b540-d1282b680abf",
         "title": "U-Box Data Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -274835,7 +274835,7 @@
         "company_name": "2nd Order Solutions",
         "id": "5e7d6af6-bee7-4686-87a2-6e1fdd8d80b0",
         "title": "2026 Summer Data Science Internship - Campus",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -276678,7 +276678,7 @@
         "company_name": "CVS Health",
         "id": "cabd73e9-79bc-42a3-8969-77dd588edbcd",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -276689,6 +276689,27 @@
             "Needham, MA"
         ],
         "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sandisk",
+        "id": "64ffe8dd-9747-4454-8276-306763e02876",
+        "title": "Summer 2026 Intern - Firmware Verification Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765926215,
+        "date_posted": 1765926215,
+        "url": "https://jobs.smartrecruiters.com/Sandisk/744000099236655",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sandisk",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
