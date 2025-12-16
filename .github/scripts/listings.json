@@ -204814,7 +204814,7 @@
         "company_name": "Rolls Royce",
         "id": "a84bc728-1df8-4934-b5d3-557951b066c5",
         "title": "ConnectedDrive Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -226831,7 +226831,7 @@
         "company_name": "Vanguard",
         "id": "8cb4bd68-f719-476c-b0c2-608336b72539",
         "title": "IMFS Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
