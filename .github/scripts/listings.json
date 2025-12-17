@@ -255272,7 +255272,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1764689264,
+        "date_updated": 1766007614,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "degrees": [
@@ -255292,7 +255292,7 @@
         "id": "6e148dc8-ffbd-410d-8319-0f3e634b80ae",
         "date_posted": 1764689264,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1765195069,
@@ -264990,7 +264990,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1765371931,
+        "date_updated": 1766007532,
         "date_posted": 1765371931,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556622023",
         "locations": [
@@ -264999,7 +264999,9 @@
         "company_url": "https://simplify.jobs/c/Microsoft",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": []
+        "degrees": [
+            "Master's"
+        ]
     },
     {
         "source": "Simplify",
@@ -265894,7 +265896,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1765371939,
+        "date_updated": 1766007515,
         "date_posted": 1765371939,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556621732",
         "locations": [
@@ -265903,7 +265905,9 @@
         "company_url": "https://simplify.jobs/c/Microsoft",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": []
+        "degrees": [
+            "Master's"
+        ]
     },
     {
         "source": "Simplify",
