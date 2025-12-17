@@ -134,23 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Ursa Major",
-        "id": "97615dff-dda5-4006-ac88-b6d59fb83973",
-        "title": "Avionics Embedded Software Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1745260109,
-        "date_posted": 1745260109,
-        "url": "https://www.ursamajor.com/careers/4555862005?gh_jid=4555862005",
-        "locations": [
-            "Loveland, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/UrsaMajor",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Moog Inc",
         "id": "c2f73359-370f-46f5-aa08-af0dbf2c118a",
         "title": "Intern \u2013 Software Engineering",
@@ -278469,6 +278452,27 @@
             "Huntsville, AL"
         ],
         "company_url": "https://simplify.jobs/c/I3",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Aberdeen",
+        "id": "f8dc4fbc-efee-4c75-b473-5b81bc0a75fa",
+        "title": "Data & Analytics Apprentice",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1765990140,
+        "date_posted": 1765990140,
+        "url": "https://abrdn.wd3.myworkdayjobs.com/abrdn/job/Edinburgh/Data---Analytics-Apprentice_R0073486",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Aberdeen",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
