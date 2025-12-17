@@ -234064,7 +234064,7 @@
         "company_name": "AbbVie",
         "id": "b6887522-61f3-46ae-bb60-80b649182891",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -236280,7 +236280,7 @@
         "company_name": "AbbVie",
         "id": "ef47db0b-bd8f-4744-a6fd-bf7f29804dea",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -271599,7 +271599,7 @@
         "company_name": "Veolia",
         "id": "6381be46-7764-462c-8899-78f420be6b7c",
         "title": "Summer Intern - Procurement",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
