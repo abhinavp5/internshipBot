@@ -188,23 +188,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "American Axle & Manufacturing",
-        "id": "99dc65fc-e7b5-4ded-98c8-aa000309754f",
-        "title": "Product Engineering Co-Op",
-        "active": false,
-        "terms": [],
-        "date_updated": 1745247001,
-        "date_posted": 1745247001,
-        "url": "https://aampower.wd1.myworkdayjobs.com/aam-career-site/job/Three-Rivers-MI/Product-Engineering-Co-Op_JREQ-215169",
-        "locations": [
-            "Portage, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Axle-And-Manufacturing",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Applied Materials",
         "id": "5b2b7e4b-253f-4fd7-997f-3b9786f16e60",
         "title": "Intern \u2013 Data Science",
@@ -82494,7 +82477,7 @@
         "company_name": "Marvell",
         "id": "86037ae8-2dc6-4086-8507-7f05cdd324f2",
         "title": "Package Engineering Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -118335,7 +118318,7 @@
         "company_name": "Stryker",
         "id": "8c0576c5-a3c1-431c-a152-3dd639724aac",
         "title": "Product Management Co-Op and Marketing Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -151831,7 +151814,7 @@
         "company_name": "Arch Capital Group",
         "id": "f176244b-7ea1-4fc6-98ad-5325ae2dfdde",
         "title": "IT Analytics Engineer Intern - IT - Enterprise Data",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -163836,7 +163819,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "e1add382-7d2c-4688-a42c-5c80d39ac5de",
         "title": "Corporate System AI Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -258659,7 +258642,7 @@
         "company_name": "Massachusetts School Building Authority",
         "id": "add44d05-5842-439c-807e-1f20a4bafd79",
         "title": "Capital Planning Data Assistant \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -267153,9 +267136,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1765390447,
+        "date_updated": 1765983013,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -269401,9 +269384,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1765484388,
+        "date_updated": 1765983013,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -276187,9 +276170,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1765905356,
+        "date_updated": 1765983013,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
