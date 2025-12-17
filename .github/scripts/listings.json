@@ -39751,7 +39751,7 @@
         "company_name": "DRW",
         "id": "23e84c27-9141-4601-8b5c-75d1f020ba3c",
         "title": "AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2027",
@@ -66533,7 +66533,7 @@
         "company_name": "Roblox",
         "id": "7b26fe8f-ff2f-46c4-9bef-85d54d89afff",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -81222,7 +81222,7 @@
         "company_name": "Autodesk",
         "id": "4726bb97-70ef-44dd-a753-6ca39945e9e3",
         "title": "Intern \u2013 Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -82314,7 +82314,7 @@
         "company_name": "Marvell",
         "id": "86037ae8-2dc6-4086-8507-7f05cdd324f2",
         "title": "Package Engineering Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -112094,7 +112094,7 @@
         "company_name": "Ingredion",
         "id": "7b70869d-69a5-4068-9fdc-5f0ad52d535b",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -113259,7 +113259,7 @@
         "company_name": "Ingredion",
         "id": "50b066d7-6cfd-489c-976d-fc77114337ee",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -135910,7 +135910,7 @@
         "company_name": "Adobe",
         "id": "bf67b3a9-1eda-46fd-9af5-4647b6c4e788",
         "title": "Intern - Applied Science - Machine Learning Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -187229,7 +187229,7 @@
         "company_name": "AbbVie",
         "id": "399e8643-0cc1-4039-838a-ae11d8827c28",
         "title": "2026 Software Engineering Co-Op - June - Dec",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -203886,7 +203886,7 @@
         "company_name": "MongoDB",
         "id": "27eaab38-a776-41b7-a199-0bbbcca3b34b",
         "title": "Data Engineering Intern 2026 - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -214733,7 +214733,7 @@
         "company_name": "Waymo",
         "id": "f4b49d48-87c0-47fc-987a-48de0a10af23",
         "title": "2026 Summer Intern - MS/PhD - ML Compute - Hardware Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -219282,7 +219282,7 @@
         "company_name": "MongoDB",
         "id": "7a2b974a-a6d8-4c79-8069-8dab9801cdf8",
         "title": "2026 \u2013 Software Engineering Intern - Internal Engineering - NYC",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -223213,7 +223213,7 @@
         "company_name": "Barry-Wehmiller",
         "id": "9df51b71-f6a6-4578-b14b-12b16aa85594",
         "title": "DI Technical Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -227530,7 +227530,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "b3af255e-38d6-400d-b6cc-d53326258b4a",
         "title": "Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -247127,7 +247127,7 @@
         "company_name": "Shield AI",
         "id": "b6abf268-2b65-4c90-865f-332ab3c77a95",
         "title": "Mission Systems Engineering Intern \u2013 2026 Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -256186,7 +256186,7 @@
         "company_name": "ServiceNow",
         "id": "c6456e63-35d5-4467-87d7-d275a2eafd58",
         "title": "Portfolio Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262295,7 +262295,7 @@
         "company_name": "MKS Instruments",
         "id": "a8536358-005c-4b52-9d86-a419e3b89c8f",
         "title": "Compliance Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262469,7 +262469,7 @@
         "company_name": "CSL",
         "id": "e0f4aec4-a5ac-49fd-8f5b-2976518c1a1a",
         "title": "Plasma Innovation & Project Delivery Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -262554,7 +262554,7 @@
         "company_name": "Motorola",
         "id": "77b1e8d1-96a6-4464-bc97-47d0d74b8fae",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -268253,7 +268253,7 @@
         "company_name": "Uber",
         "id": "e21c5ccd-9053-4aa0-827a-9edfd5d26421",
         "title": "PhD Software Engineer Intern - Observability Data Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -274250,7 +274250,7 @@
         "company_name": " CCC Intelligent Solutions",
         "id": "5fec9cd5-8ac6-4438-9349-6a5472559839",
         "title": "Software Engineer Intern - Workflow",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -274787,7 +274787,7 @@
         "company_name": "Intapp",
         "id": "71ab4eeb-bcf5-4423-80ef-d4a52c6d45e3",
         "title": "Machine Learning & Natural Language Processing \u2013 Engineer Intern - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
