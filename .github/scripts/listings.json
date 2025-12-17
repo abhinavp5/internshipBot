@@ -116558,7 +116558,7 @@
         "company_name": "Zurn Elkay Water Solutions",
         "id": "8da1d298-d91b-4811-bd1d-905a4fb55b3d",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -118007,7 +118007,7 @@
         "company_name": "Magna",
         "id": "beee5305-5693-4d18-b24b-457787b21ab0",
         "title": "Computer Vision & AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -121583,7 +121583,7 @@
         "company_name": "Hartford Financial Services",
         "id": "ca902d78-0de6-43c8-9a2b-be761eb78d19",
         "title": "Intern - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -125728,7 +125728,7 @@
         "company_name": "GE Vernova",
         "id": "58fc2eaa-a366-4221-8e2f-f652bccce412",
         "title": "Sustainability AI Solutions Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -162507,7 +162507,7 @@
         "company_name": "Athena Health",
         "id": "9f352f46-0ad1-4238-893d-c3ca8a01a337",
         "title": "Software Engineering Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -170193,7 +170193,7 @@
         "company_name": "Philips",
         "id": "3ac955f3-6b56-432c-b7d1-3bd37ccf2d36",
         "title": "Co-op-Data Engineer-Reedsville - PA-January-June 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -178008,7 +178008,7 @@
         "company_name": "Marvell",
         "id": "8dfa4ef7-a17f-408b-80df-a1f8f7634aeb",
         "title": "Hardware Validation Intern - Master's Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -181340,7 +181340,7 @@
         "company_name": "Autodesk",
         "id": "1b73fe84-0ab4-4e37-acef-c90f282dd825",
         "title": "Intern \u2013 Ecommerce Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -189754,7 +189754,7 @@
         "company_name": "Keysight Technologies",
         "id": "8ca7d742-6806-4afe-ac9c-db9cab8fb952",
         "title": "R&D Hardware Engineer Intern - ",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -202898,7 +202898,7 @@
         "company_name": "Cencora",
         "id": "9f84106d-4749-4864-8bab-8fa6c8aaebae",
         "title": "Data & Analytics Intern - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -240899,7 +240899,7 @@
         "company_name": "SRI International",
         "id": "185db282-0dc3-4839-93ea-c3e7758acc70",
         "title": "Drexel University Co-op: Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -257113,7 +257113,7 @@
         "company_name": "Nokia",
         "id": "0c4c89e3-f4d2-4866-b1ec-8b7304a61761",
         "title": "Software Development Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -257134,7 +257134,7 @@
         "company_name": "Altom Transport",
         "id": "a81d63f5-261c-47ec-8d1d-5b7b85ecb61e",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -257176,7 +257176,7 @@
         "company_name": "Altom Transport",
         "id": "32229731-9b9e-48ef-95a4-fd147c820a71",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262749,7 +262749,7 @@
         "company_name": "Genentech",
         "id": "5bc897f3-35bb-41fc-8ee2-889e8a9e042b",
         "title": "Intern - Product Technical Development - Digital Sciences Focus",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -269737,7 +269737,7 @@
         "company_name": "Axiom Space",
         "id": "9c9a482a-b776-4b1c-b1d9-7ef06d4c1892",
         "title": "EVA Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -271483,7 +271483,7 @@
         "company_name": "Realtor.com",
         "id": "f5cb18e2-3850-42cc-890c-694531a9eee3",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -278473,6 +278473,27 @@
             "Edinburgh, UK"
         ],
         "company_url": "https://simplify.jobs/c/Aberdeen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "47369e3c-7b4c-4cb5-9f90-c8f641c04e2c",
+        "title": "Data Intern - Ecco",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765996746,
+        "date_posted": 1765996746,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Summer---ECCO--Data-Intern--4-Months-_R-0000152651",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
