@@ -163709,7 +163709,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "2135c037-9723-4474-b040-a13457a2bbcb",
         "title": "C++ Developer Intern - Curve Engine",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -214633,7 +214633,7 @@
         "company_name": "Bartlett & West",
         "id": "878534f2-b978-4d1e-ade6-a97e9dc0acee",
         "title": "GIS Intern - Water Resources Focus",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -215126,7 +215126,7 @@
         "company_name": "OmniSource",
         "id": "5a0de67c-94b7-4303-8869-fd2a1c1b129e",
         "title": "Data Analytics Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -219773,7 +219773,7 @@
         "company_name": "Steel Dynamics",
         "id": "2e633dc2-ec03-4bcd-955d-65a656e9f46b",
         "title": "Quality & Product Development Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -225375,7 +225375,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "b2e5c9a4-0b91-4f7b-a58b-29b7500589fd",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -246192,7 +246192,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "417871cd-9f57-4003-ba18-d9cab6796608",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -258544,7 +258544,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "37bb1efc-3cf5-4f3e-b99c-cd99abea4fa7",
         "title": "Systems Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -265749,7 +265749,7 @@
         "company_name": "The Washington Post",
         "id": "cbd19d8a-98f7-48cb-817e-adfdb205810c",
         "title": "Intern - Site Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -268003,7 +268003,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "dafd130f-cee9-4f04-b1aa-f378511a9839",
         "title": "Intern Engineer \u2013 Co-Op - May 2026 Start",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -277396,7 +277396,7 @@
         "company_name": "Westwood",
         "id": "269c8204-4cbe-484d-ab3b-4e4fe2f59262",
         "title": "Survey Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -279148,7 +279148,7 @@
         "company_name": "Mercury Insurance",
         "id": "7db44460-602a-41e0-9ac5-bf0380fe322a",
         "title": "Personal Lines Product Intern National",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -279653,5 +279653,70 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Barry-Wehmiller",
+        "id": "f4fed798-7479-4c73-978b-64f63ef36248",
+        "title": "BI Data Quality Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1766078249,
+        "date_posted": 1766078249,
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/St-Louis-MO/BI-Data-Quality-Intern_R020297-1",
+        "locations": [
+            "Clayton, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Barry-Wehmiller",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cintas",
+        "id": "9caac971-6fd7-4bfc-9c2d-5518cef6a013",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1766075321,
+        "date_posted": 1766075321,
+        "url": "https://careers.cintas.com/job/Mason-Data-Analytics-Intern-OH-45040/1350748200/?ats=successfactors",
+        "locations": [
+            "Mason, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Cintas",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Andersons",
+        "id": "86a76e13-1ed1-4cbf-a2d6-328caaac65f0",
+        "title": "SAP Intern - March 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766076660,
+        "date_posted": 1766076660,
+        "url": "https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/SAP-Intern--March-2026-_R11880",
+        "locations": [
+            "Perrysburg, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Andersons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
