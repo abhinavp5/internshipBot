@@ -45584,7 +45584,7 @@
 <td>2026 Combination Product Development Engineering Intern</td>
 <td>Waukegan, IL</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Rocket-Lab-USA?utm_source=GHList&utm_medium=company">Rocket Lab USA</a></strong></td>

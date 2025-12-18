@@ -1726,7 +1726,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (897)</summary>
+<summary>🗃️ Inactive roles (896)</summary>
 
 <table>
 <thead>
@@ -3893,7 +3893,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/PTC?utm_source=GHList&utm_medium=company">PTC</a></strong></td>
 <td>Software Development Intern</td>
 <td>Boston, MA</td>
 <td>Winter 2025</td>
@@ -4826,7 +4826,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Omaha, NE</td>
 <td>Winter 2025</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Uber?utm_source=GHList&utm_medium=company">Uber</a></strong></td>
@@ -8905,14 +8905,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Software Engineering Intern - Simulation and Virtualization</td>
 <td>Santa Clara, CA</td>
 <td>Fall 2025</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
-<td>Web Portal Dev Co-op/Intern</td>
-<td>Canada</td>
-<td>Fall 2025, Winter 2025</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
@@ -27233,7 +27225,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company">Tesla</a></strong></td>
+<td>↳</td>
 <td>Internship - Factory Firmware Embedded Software Engineer - Vehicle Software</td>
 <td>Palo Alto, CA</td>
 <td>Fall 2025, Winter 2025, Spring 2026</td>

@@ -134,26 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Nokia",
-        "id": "1bd8cabd-eeb4-4ebb-8e2a-a3f2c6b5e7fe",
-        "title": "Web Portal Dev Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1745300177,
-        "date_posted": 1745300177,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19366",
-        "locations": [
-            "Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "NVIDIA",
         "id": "ad8e8d89-0caa-4097-b989-e1135451f287",
         "title": "Software Engineering Intern - Simulation and Virtualization",
@@ -62704,7 +62684,7 @@
         "company_name": "Booz Allen",
         "id": "53b9b467-80c8-4768-ab57-1ed92002df27",
         "title": "University \u2013 2026 Summer Games Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -162223,7 +162203,7 @@
         "company_name": "Athena Health",
         "id": "9f352f46-0ad1-4238-893d-c3ca8a01a337",
         "title": "Software Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
