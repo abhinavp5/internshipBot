@@ -22425,7 +22425,7 @@
         "company_name": "Ramp",
         "id": "c6e49d6b-6ba2-4c6a-b329-b0d834b7db4d",
         "title": "Software Engineer Internship - Backend",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -52724,7 +52724,7 @@
     {
         "date_updated": 1756368691,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -115594,7 +115594,7 @@
         "company_name": "Qualcomm",
         "id": "f53a53a8-d8c1-44b0-a938-acf4cf2ae380",
         "title": "FY26 Intern \u2013 Telemetry and Tuning Software Engineering Internship - Interim Engineering Intern - SW",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -160183,7 +160183,7 @@
         "company_name": "GM financial",
         "id": "eb092262-4db4-4081-b853-b9f857942c19",
         "title": "Intern \u2013 Software Development Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -189994,7 +189994,7 @@
         "company_name": "Qualcomm",
         "id": "31628bc4-1752-4732-b39c-359d0dac35ed",
         "title": "FY26 Intern \u2013 Machine Learning Compiler & Performance Engineering Intern - Canada - Months - Interim Engineering Intern - Systems - 50279 QCT AIML Systems (Markham)",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -192616,7 +192616,7 @@
         "company_name": "Qualcomm",
         "id": "2b8a8c4a-20de-4137-8f5e-b865d3620925",
         "title": "FY26 Intern \u2013 Multimodal Reasoning Research Internship - Canada - 4 months - Interim Engineering Intern - SW - 12738 AI Research - Canada",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -219253,7 +219253,7 @@
         "company_name": "Parsons",
         "id": "4c650e73-4be2-43bd-ad16-51e1b7fed7e0",
         "title": "Electrical / Hardware Engineering Intern Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -271171,7 +271171,7 @@
         "company_name": "Hologic",
         "id": "717af14f-58a9-4c50-8bd9-2fdbd55502eb",
         "title": "Intern Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -279759,6 +279759,48 @@
             "Oakville, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Geotab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TransUnion",
+        "id": "142dba4b-c9a5-4dfc-ae81-bc82ac98e627",
+        "title": "Data Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1766085193,
+        "date_posted": 1766085193,
+        "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Leeds-United-Kingdom/Data-Engineer--Apprentice-_19037979-1",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TransUnion",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "McKesson",
+        "id": "01c28777-bdfd-4ef5-afbe-d658d274e27c",
+        "title": "Impact Strategy & Analytics Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766085154,
+        "date_posted": 1766085154,
+        "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Impact-Strategy---Analytics-Intern---Summer-2026_JR0135785-1",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/McKesson",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
