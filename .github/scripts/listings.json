@@ -135,45 +135,6 @@
     {
         "source": "Simplify",
         "company_name": "NVIDIA",
-        "id": "ad8e8d89-0caa-4097-b989-e1135451f287",
-        "title": "Software Engineering Intern - Simulation and Virtualization",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1745301669,
-        "date_posted": 1745301669,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Simulation-and-Virtualization---Fall-2025_JR1996439",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Influential",
-        "id": "c19c3f1a-5e18-44d2-9cea-43c721c9b6c7",
-        "title": "Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1745300951,
-        "date_posted": 1745300951,
-        "url": "https://job-boards.greenhouse.io/influential/jobs/4561630006",
-        "locations": [
-            "Las Vegas, NV",
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Influential",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "NVIDIA",
         "id": "1337e51d-a085-49f0-80f4-9110f74a3f3a",
         "title": "Shoreline Backend Engineering Intern",
         "active": false,
