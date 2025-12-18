@@ -41412,7 +41412,7 @@
         "company_name": "Qorvo",
         "id": "193d969e-779a-4ee4-8839-c966f62e133f",
         "title": "Software Characterization Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -151357,7 +151357,7 @@
         "company_name": "Arch Capital Group",
         "id": "f176244b-7ea1-4fc6-98ad-5325ae2dfdde",
         "title": "IT Analytics Engineer Intern - IT - Enterprise Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -239525,7 +239525,7 @@
         "company_name": "Radiance Technologies",
         "id": "57cfb0df-cc33-4dfc-9867-e97dc587eb66",
         "title": "Reverse Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -279459,5 +279459,52 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1766068028,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/77660aee-f8b9-440b-9d4a-93de7178631f",
+        "company_name": "Veolia",
+        "title": "Manufacturing Software Engineer Intern",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "3b4783c2-a632-4cac-a7a8-27bcc1193729",
+        "date_posted": 1766068028,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1766068117,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.ashbyhq.com/the-exploration-company/da63221d-dd60-41fe-8dd5-bb1a565a7824",
+        "company_name": "The Exploration Company",
+        "title": "Crew Systems Engineering Intern - Avionics/Software",
+        "locations": [
+            "Houston, TX"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "a90e94a6-f0e5-4b60-b6bf-9fa45dfe9400",
+        "date_posted": 1766068117,
+        "company_url": "",
+        "is_visible": true
     }
 ]
