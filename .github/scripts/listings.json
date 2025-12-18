@@ -190595,7 +190595,7 @@
         "company_name": "Leidos",
         "id": "97fc208a-8d4d-4015-bc23-2cd338ab5549",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -259016,7 +259016,7 @@
         "company_name": "Camping World",
         "id": "50722b66-a508-483e-b5c1-42e312a8c3ce",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -274900,7 +274900,7 @@
         "company_name": "Northrop Grumman",
         "id": "481c1c42-6d79-4045-9d0a-c2777d2acafe",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
