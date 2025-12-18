@@ -279417,5 +279417,47 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "X-energy",
+        "id": "5027f42f-7c99-4f47-bfd2-79d7b2d8ab32",
+        "title": "Engineering Intern - Systems",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766063144,
+        "date_posted": 1765086553,
+        "url": "https://xenergy.wd5.myworkdayjobs.com/X-energyUS/job/Oak-Ridge-TN/Engineering-Intern--Systems_R100694-1",
+        "locations": [
+            "Oak Ridge, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/X-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "X-energy",
+        "id": "442ff296-8b27-4b39-b2b8-a99295c60a7c",
+        "title": "Engineering Intern - Systems",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766063198,
+        "date_posted": 1764498866,
+        "url": "https://xenergy.wd5.myworkdayjobs.com/X-energyUS/job/Rockville-MD/Engineering-Intern--Systems_R100698",
+        "locations": [
+            "North Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/X-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
