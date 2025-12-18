@@ -214031,7 +214031,7 @@
         "company_name": "Experian",
         "id": "117ca039-7af0-456d-a657-4c2c30ce93a8",
         "title": "Fraud Analytics Summer Intern - Remote & Paid",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -269644,7 +269644,7 @@
         "company_name": "Micron Technology",
         "id": "6f847bf4-2ee6-45e0-aeef-16a6e0aa6042",
         "title": "Intern GEL Software - GEL",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -279718,5 +279718,49 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Geotab",
+        "id": "955f583a-3b56-45e8-a4c5-ae6a879243e8",
+        "title": "Product Coordinator Intern - Summer/May 2026 - 8 Months",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766084060,
+        "date_posted": 1766084060,
+        "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5019374008",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Oakville, ON, Canada",
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Geotab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Geotab",
+        "id": "587e3129-adef-4f37-ab6f-bb8c0a36ced0",
+        "title": "Product Safety Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766081652,
+        "date_posted": 1766081652,
+        "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5024988008",
+        "locations": [
+            "Oakville, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Geotab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
