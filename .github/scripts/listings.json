@@ -207255,7 +207255,7 @@
         "company_name": "Syska Hennessy Group",
         "id": "39d879e8-8fd0-490e-a060-3af2437bb728",
         "title": "Innovations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -255745,7 +255745,7 @@
         "company_name": "Paccar",
         "id": "5ddbf2af-f5b5-42a6-a5a4-3eda290bae1b",
         "title": "Intern AI-Driven Vehicle Definition",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -278810,7 +278810,7 @@
         "company_name": "Mercury Insurance",
         "id": "cc595046-fa62-465f-a125-c8ef38c4c969",
         "title": "Marketing Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
