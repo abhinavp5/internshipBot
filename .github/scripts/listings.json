@@ -134,44 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Leidos",
-        "id": "7cd1c007-ac09-4f23-b732-dd7f2dc8659d",
-        "title": "Software Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1745298372,
-        "date_posted": 1745298372,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/XMLNAME--Software-Development-Intern_R-00157822",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "NVIDIA",
-        "id": "eaf0cc87-83d9-41a2-ba49-3c2a9e42c006",
-        "title": "Software Engineering Intern - Rack Management-Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1745298330,
-        "date_posted": 1745298330,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Rack-Management-Engineering---Summer-2025_JR1990090-1",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Nokia",
         "id": "1bd8cabd-eeb4-4ebb-8e2a-a3f2c6b5e7fe",
         "title": "Web Portal Dev Co-op/Intern",
@@ -277445,7 +277407,7 @@
         "company_name": "CVS Health",
         "id": "eb6109eb-b40c-4a1d-9ad3-b3436c92d45f",
         "title": "Software Engineer \u2013 Grad Intern Conversion",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
