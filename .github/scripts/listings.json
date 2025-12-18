@@ -83608,7 +83608,7 @@
         "company_name": "onsemi",
         "id": "c0615520-6a6f-4519-92f6-9f737cf94a46",
         "title": "New Product Engineering Intern - External Manufacturing",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -127695,7 +127695,7 @@
         "company_name": "Uber",
         "id": "d0b8453b-c3ef-4835-a743-e8006abd265a",
         "title": "Software Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -150350,7 +150350,7 @@
         "company_name": "Qualcomm",
         "id": "2e52504c-af83-470b-920c-8372cb0448ff",
         "title": "Intern - Deep Learning Research - AI Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -188189,7 +188189,7 @@
         "company_name": "GM financial",
         "id": "2b054ba9-3019-4210-a979-f78c70b8cef9",
         "title": "Intern \u2013 Product Owner",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -195753,7 +195753,7 @@
         "company_name": "Adobe",
         "id": "e36771d4-044f-4ec9-b10f-962863cf8dba",
         "title": "Intern - Data Science - Lightroom",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -222367,7 +222367,7 @@
         "company_name": "Qualcomm",
         "id": "f08383bc-32a4-45a0-9150-06e0b9eb239d",
         "title": "FY26 Intern \u2013 Deep Learning Research Internship - Canada - 4 months - Interim Engineering Intern - SW - 12738 AI Research - Canada",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -245975,7 +245975,7 @@
         "company_name": "CVS Health",
         "id": "c70854ea-5eb4-4b72-8464-5f1f0dfc3559",
         "title": "Software Engineering Undergraduate Internship - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -257197,7 +257197,7 @@
         "company_name": "Qualcomm",
         "id": "1841f2e4-a448-4a8a-a4c9-a3a470c1161c",
         "title": "FY26 Intern \u2013 AI/Machine Learning Internship - Canada - Or  months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -279801,6 +279801,132 @@
             "Irving, TX"
         ],
         "company_url": "https://simplify.jobs/c/McKesson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TWG Global",
+        "id": "457c0f29-9a28-418e-8c2a-cde3ffb00be7",
+        "title": "AI/ML Scientist Intern - Graphs",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1766088499,
+        "date_posted": 1766088499,
+        "url": "https://apply.workable.com/twgai/j/17D884D060/apply",
+        "locations": [
+            "Santa Monica, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TWG-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TWG Global",
+        "id": "c8664924-fad1-4a90-9054-48db3f32cd33",
+        "title": "AI/ML Scientist Intern - United Kingdom",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1766088470,
+        "date_posted": 1766088470,
+        "url": "https://apply.workable.com/twgai/j/70140075F0/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TWG-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "TWG Global",
+        "id": "91edb7a7-791f-48b8-96f8-3b1a1759a150",
+        "title": "AI/ML Scientist Intern - Quantitative Research & Data Science",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1766088462,
+        "date_posted": 1766088462,
+        "url": "https://apply.workable.com/twgai/j/15B958D8CC/apply",
+        "locations": [
+            "Santa Monica, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TWG-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TWG Global",
+        "id": "6511c004-16a4-456e-bab8-5c68672ba79a",
+        "title": "AI/ML Scientist Intern - Simulation Optimization and Reinforcement Learning",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1766088464,
+        "date_posted": 1766088464,
+        "url": "https://apply.workable.com/twgai/j/5FADB8A7EE/apply",
+        "locations": [
+            "Santa Monica, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TWG-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TWG Global",
+        "id": "461910a5-9f08-41c2-9fb2-163511478e33",
+        "title": "AI Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1766088477,
+        "date_posted": 1766088477,
+        "url": "https://apply.workable.com/twgai/j/4458DA5457/apply",
+        "locations": [
+            "Santa Monica, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TWG-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TWG Global",
+        "id": "22a77349-2e88-456c-9641-9245ebb2838e",
+        "title": "AI/ML Scientist Intern - Natural Language Processing",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1766088466,
+        "date_posted": 1766088466,
+        "url": "https://apply.workable.com/twgai/j/95E27142C1/apply",
+        "locations": [
+            "Santa Monica, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TWG-Global",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
