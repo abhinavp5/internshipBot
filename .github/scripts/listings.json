@@ -134,46 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "NVIDIA",
-        "id": "1337e51d-a085-49f0-80f4-9110f74a3f3a",
-        "title": "Shoreline Backend Engineering Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1745305050,
-        "date_posted": 1745305050,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Shoreline-Backend-Engineering-Intern---Fall-2025_JR1996691",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Tesla",
-        "id": "88167140-ff6c-4015-be29-5155f403656a",
-        "title": "Internship - Factory Firmware Embedded Software Engineer - Vehicle Software",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025",
-            "Spring 2026"
-        ],
-        "date_updated": 1745305703,
-        "date_posted": 1745305703,
-        "url": "https://www.tesla.com/careers/search/job/241653",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Tesla",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Nokia",
         "id": "1f2438f9-6c03-41b6-91ad-773dd5d6203b",
         "title": "Software Designer Co-op/Intern",
@@ -124294,7 +124254,7 @@
         "company_name": "Zebra Technologies",
         "id": "e2d70cce-c552-42fd-844f-d60d2e22175c",
         "title": "Internship - Software Engineering - Corporate and Business Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -161101,7 +161061,7 @@
         "company_name": "Zebra Technologies",
         "id": "216d350e-e3db-48d5-9811-ab3499e37819",
         "title": "Internship - RFID Hardware Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -237278,7 +237238,7 @@
         "company_name": "American Express",
         "id": "94aa63df-183b-47a7-a462-0502fd761139",
         "title": "Campus Undergraduate Intern Program - Management Information Systems & Analytics - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
