@@ -10090,7 +10090,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Lucid?utm_source=GHList&utm_medium=company">Lucid</a></strong></td>
+<td>↳</td>
 <td>Software Engineer Internship</td>
 <td>Salt Lake City, UT</td>
 <td>🔒</td>
