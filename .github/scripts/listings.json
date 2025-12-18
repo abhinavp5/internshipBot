@@ -134,42 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Soda Health",
-        "id": "ddec5b8e-4633-41ae-a875-8a82f896d0f7",
-        "title": "Undergraduate Internship",
-        "active": false,
-        "terms": [],
-        "date_updated": 1745360147,
-        "date_posted": 1745360147,
-        "url": "https://job-boards.greenhouse.io/sodahealth/jobs/4560518006",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Soda-Health",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Red Horse Corp",
-        "id": "f2dd1264-2802-4324-8fe9-30d735456be7",
-        "title": "Summer Intern - Software Developer",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1745361107,
-        "date_posted": 1745361107,
-        "url": "https://jobs.lever.co/redhorsecorp/eb64725d-8a87-474b-897c-1763d4dad779/apply",
-        "locations": [
-            "Gainesville, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Red-Horse-Corp",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Parsons",
         "id": "60856255-2c79-4efa-b63a-b1d1f9398ba2",
         "title": "Software Engineer Internship Summer 2025",
@@ -3077,24 +3041,6 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hermeus",
-        "id": "91d79ec8-af73-443a-8eaa-137947d9e3d8",
-        "title": "Avionics Hardware Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1745360667,
-        "date_posted": 1745360667,
-        "url": "https://jobs.lever.co/hermeus/b902ec35-5dcd-41c1-8e8b-2ca311c174de/apply",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Hermeus",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -222535,7 +222481,7 @@
         "company_name": "Ramp",
         "id": "e6dcb022-9baa-4899-9885-73d239ca65ff",
         "title": "Software Engineer Internship - Forward Deployed",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -228513,7 +228459,7 @@
         "company_name": "Cirrus Logic",
         "id": "f766484a-1133-4b0e-9fc7-e940ccb4be6d",
         "title": "Intern - Haptics Software Tools Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -245999,7 +245945,7 @@
         "company_name": "CVS Health",
         "id": "aba55c61-7092-4510-abfe-1b0bae49da6b",
         "title": "Software Engineering Graduate Internship - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -271320,7 +271266,7 @@
         "company_name": "Hologic",
         "id": "9d248056-c5f1-4199-ab0b-3fb5f26311da",
         "title": "Intern Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
