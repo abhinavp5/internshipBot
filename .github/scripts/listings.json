@@ -134,48 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Lumentum",
-        "id": "075fc119-e012-4e96-9e99-74ab104a95b2",
-        "title": "Process Automation Software Engineer Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1745423614,
-        "date_posted": 1745423614,
-        "url": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Process-Automation-Software-Engineer-Co-op-Intern_2025742",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Lumentum",
-        "id": "75f8b830-c76d-49a4-b4c4-b5def108873b",
-        "title": "Embedded Software Engineer Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Spring 2026"
-        ],
-        "date_updated": 1745424463,
-        "date_posted": 1745424463,
-        "url": "https://lumentum.wd5.myworkdayjobs.com/en-US/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_2025715-1",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/0985b121-88fd-4402-aea9-c0c55bfbbc99",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Teledyne",
         "id": "07f55fc4-63c3-4789-a072-bf99a65475ee",
         "title": "Software Engineering Intern",
