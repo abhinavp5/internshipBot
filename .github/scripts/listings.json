@@ -134,46 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Synthego",
-        "id": "5c0788b7-1667-43e9-8c36-09c494b91862",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1745381930,
-        "date_posted": 1745381930,
-        "url": "https://jobs.lever.co/synthego/72b132dd-74ba-4092-a1a7-a176d4951c54/apply",
-        "locations": [
-            "San Carlos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Synthego",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Tesla",
-        "id": "ba0be119-29f3-47b4-80dc-cd565f8e8bbf",
-        "title": "Internship - Backend Engineer - Cell Manufacturing Software",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1745383129,
-        "date_posted": 1745383129,
-        "url": "https://www.tesla.com/careers/search/job/241784",
-        "locations": [
-            "Fremont, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Tesla",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Vantage Data Centers",
         "id": "ee8ffabc-1b57-451d-a375-1397162afab8",
         "title": "Summer Internship - Energy Solutions Researcher",
@@ -146215,7 +146175,7 @@
         "company_name": "Atomic Semi",
         "id": "ab56d435-ad3a-42ea-a615-17abf29dd893",
         "title": "Packaging Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -240688,7 +240648,7 @@
         "company_name": "Western Digital",
         "id": "5b921ece-9395-4990-af0f-6c4eaec08841",
         "title": "Intern - System Testing - MS Only",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -243991,7 +243951,7 @@
         "company_name": "Mercer Advisors",
         "id": "ff22b5a9-53b0-455a-b3be-2c439a3de398",
         "title": "Data Intern - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -259117,7 +259077,7 @@
         "company_name": "AT&T",
         "id": "d636941a-f03a-4646-9a6d-36941ee55059",
         "title": "AT&T Labs Internship - Undergraduate and Masters Degrees",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -279856,7 +279816,7 @@
         "company_name": "BMO ",
         "id": "af17bb4d-0d69-49f0-8885-7818922aded3",
         "title": "Software Developer \u2013 Co-op/Intern - Winter 2026 - Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
