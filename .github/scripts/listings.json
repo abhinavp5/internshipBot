@@ -134,45 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Becton Dickinson",
-        "id": "861cf02a-de3b-46b1-a9f9-a7a9d4a3dbbf",
-        "title": "Intern Project Coordinator - Software Engineering Project and Program Management",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1745380618,
-        "date_posted": 1745380618,
-        "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---San-Diego-Bldg-AB/Intern-Project-Coordinator---Software-Engineering-Project-and-Program-Management_R-513602",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "IJM",
-        "id": "85ba10a3-8ac1-4632-93ac-9fc07c68d364",
-        "title": "Resource Technology Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1745381253,
-        "date_posted": 1745381253,
-        "url": "https://ijm.wd5.myworkdayjobs.com/careers-ijm/job/District-of-Columbia---Remote/Resource-Technology-Intern---Fall-2025_R-01836",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/IJM",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Synthego",
         "id": "5c0788b7-1667-43e9-8c36-09c494b91862",
         "title": "Software Engineering Intern",
