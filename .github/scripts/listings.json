@@ -134,25 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Leidos",
-        "id": "60f64adb-d212-457e-a256-0a16802b048e",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Spring 2025"
-        ],
-        "date_updated": 1745448874,
-        "date_posted": 1745448874,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Engineering-Intern_R-00157784",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "SPS Commerce",
         "id": "468c2989-07c6-425c-abf0-c14cbcb0fde3",
         "title": "Software Engineer Intern",
@@ -344,25 +325,6 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Mercedes-Benz",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Veolia",
-        "id": "68d84b4a-ebe4-4661-bb94-b658682b6ba6",
-        "title": "New Business Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1745448243,
-        "date_posted": 1745448243,
-        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000055378125",
-        "locations": [
-            "Moonachie, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Veolia",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -96504,7 +96466,7 @@
         "company_name": "Citizens Financial Group",
         "id": "d54e67c1-814b-4ca4-a06e-ad9ce4cc8c0f",
         "title": "Data Science Graduate Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -220129,7 +220091,7 @@
         "company_name": "Analog Devices",
         "id": "16f2e03c-9bbe-46ea-80ea-51870d08badd",
         "title": "Product Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -222025,7 +221987,7 @@
         "company_name": "Rambus",
         "id": "1f934601-b176-42b2-adb3-e2e998544b0c",
         "title": "Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -247666,7 +247628,7 @@
         "company_name": "Geico",
         "id": "654f6fbc-1ad8-426f-a357-dc935efddde4",
         "title": "TDP Software and AI Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -261858,7 +261820,7 @@
         "company_name": "RTX",
         "id": "9747f3d2-0ec2-4c0e-b855-b9b2bd719a5b",
         "title": "Intern \u2013 Software Engineer Intern - CA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -280829,6 +280791,48 @@
             "Somerset County, NJ"
         ],
         "company_url": "https://simplify.jobs/c/Roche",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capital One",
+        "id": "e48ade5c-3ea5-444f-8b51-b495ec8178ab",
+        "title": "Intern Data Analytics Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766184833,
+        "date_posted": 1766184833,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Analytics-Engineering---Summer-2026_R232055-2",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "56dcb857-5f87-4df9-b7ac-211fcb9b0aec",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766184434,
+        "date_posted": 1766184434,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA105-BBN-Headquarters-10-Moulton-Street---Cambridge-MA-02138-USA/Summer-2026-Intern---Full-Stack-Developer--Onsite-_01813685",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
