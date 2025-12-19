@@ -72288,7 +72288,7 @@
         "company_name": "Auto-Owners Insurance",
         "id": "89458fa4-671a-4f16-80d0-b17bfb3af74d",
         "title": "Software Developer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -111597,7 +111597,7 @@
         "company_name": "Colonial Pipeline Company",
         "id": "f6d61cb5-31ab-419a-8485-97f5d21d18ba",
         "title": "Intern \u2013 Asset Integrity",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
