@@ -163151,7 +163151,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "427c46da-aae1-45df-b8af-36a388b72682",
         "title": "AI Engineering Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -200403,7 +200403,7 @@
         "company_name": "Electronic Arts",
         "id": "1ea94bcc-ea88-4394-94c6-ab6ca96c13d0",
         "title": "Software Engineer Intern ML AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -217071,7 +217071,7 @@
         "company_name": "Electronic Arts",
         "id": "f22f4aef-6545-42c8-9b88-9ede6a95ec66",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -233171,7 +233171,7 @@
         "company_name": "AbbVie",
         "id": "b6887522-61f3-46ae-bb60-80b649182891",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -235387,7 +235387,7 @@
         "company_name": "AbbVie",
         "id": "ef47db0b-bd8f-4744-a6fd-bf7f29804dea",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -252443,7 +252443,7 @@
         "company_name": "Amazon",
         "id": "e58ad3e6-d27e-4a16-b91e-7a37db8fd6b7",
         "title": "Application-Specific Integrated Circuit \u2013 Engineer Intern - ASIC",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -272339,7 +272339,7 @@
         "company_name": "Civil & Environmental Consultants",
         "id": "3e425eb2-62c0-4212-98d6-17f2f4322c17",
         "title": "Geotechnical Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
