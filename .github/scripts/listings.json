@@ -72294,7 +72294,7 @@
         "company_name": "Auto-Owners Insurance",
         "id": "52280fbc-05cd-4714-a6fa-72ff9c3d0f9f",
         "title": "Predictive Modeler Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -159655,7 +159655,7 @@
         "company_name": "Signifyd",
         "id": "6184b633-7c47-46e5-9ce5-4b9338f3fb6e",
         "title": "Engineering Intern - Software Development - Java",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -234101,7 +234101,7 @@
         "company_name": "Analog Devices",
         "id": "5321141d-4c6d-4eb8-a40c-f8f39013a33c",
         "title": "Hardware Security Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -238304,7 +238304,7 @@
         "company_name": "Trimble",
         "id": "0d4578f1-0fc2-4f30-9ca3-af0c47be4782",
         "title": "Data Engineer/Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -249713,7 +249713,7 @@
         "company_name": "KBR",
         "id": "3a679d52-ec27-4b04-8825-ab7b0bb2ed69",
         "title": "Cloud FinOps & Generative AI Intern - Part-Time During School - Full-Time Summer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -264826,7 +264826,7 @@
         "company_name": "Microchip Technology",
         "id": "9eaf1e16-e50b-4a1e-aa7a-896bd22c331d",
         "title": "Intern-Technician",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -265691,7 +265691,7 @@
         "company_name": "Gilead Sciences",
         "id": "c7c6c9ac-a549-4565-9ba8-e75405b01a24",
         "title": "Intern \u2013 Market Research - Advanced Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -273551,7 +273551,7 @@
         "company_name": "ASML",
         "id": "a1bafa2e-8056-450f-afb8-ee1c54545fc9",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -277317,7 +277317,7 @@
         "company_name": "Ciena",
         "id": "22c4d75a-9770-4e81-a709-7304bb5e54de",
         "title": "Hardware Design Co-Op - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -280808,6 +280808,27 @@
             "Gaithersburg, MD"
         ],
         "company_url": "https://simplify.jobs/c/AstraZeneca",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Roche",
+        "id": "1a4328ef-dc13-4c6e-b095-fbeea1124d21",
+        "title": "Intern - Data Insights Unit",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766175007,
+        "date_posted": 1766175007,
+        "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Branchburg/XMLNAME-2026-Summer-Intern---Data-Insights-Unit_202512-132013",
+        "locations": [
+            "Somerset County, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Roche",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
