@@ -63311,7 +63311,7 @@
         "company_name": "CACI",
         "id": "b30abb2c-e64c-45d7-8223-3c40fd83de57",
         "title": "Data Analyst / BI Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -73301,7 +73301,7 @@
         "company_name": "AbbVie",
         "id": "8cc5a698-cf49-433f-9090-6ecb319ff164",
         "title": "Graph Machine Learning Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -104158,7 +104158,7 @@
         "company_name": "Atlassian",
         "id": "4c0e9e4a-e270-4dd2-8ae2-6c7046742f9b",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -233033,7 +233033,7 @@
         "company_name": "AbbVie",
         "id": "b6887522-61f3-46ae-bb60-80b649182891",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -235249,7 +235249,7 @@
         "company_name": "AbbVie",
         "id": "ef47db0b-bd8f-4744-a6fd-bf7f29804dea",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -236226,7 +236226,7 @@
         "company_name": "AbbVie",
         "id": "42abcc91-b338-4b13-9ab2-00c4df3422e0",
         "title": "2026 Graph Machine Learning Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -246192,7 +246192,7 @@
         "company_name": "KLA",
         "id": "a85504d5-8d13-4edb-9156-5028bc686369",
         "title": "AI/ML Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -262052,7 +262052,7 @@
         "company_name": "Berkshire Grey",
         "id": "30d7ed67-09c1-43fe-b27e-9b44ca165002",
         "title": "Robot Learning Research and Development Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -262907,7 +262907,7 @@
         "company_name": "Microsoft",
         "id": "08a73d8b-e859-41ac-9857-9142276ff0b1",
         "title": "Research Intern in Machine Learning - Machine Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -269526,7 +269526,7 @@
         "company_name": "Uber",
         "id": "123e27a5-6848-49f7-85ac-973ea8ad7061",
         "title": "PhD Software Engineer Intern - Autonomous Vehicles Cloud",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -274235,7 +274235,7 @@
         "company_name": "Apex Fintech Solutions",
         "id": "c143632b-a235-454e-a395-8df616aafa2c",
         "title": "PCEP Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -279981,7 +279981,7 @@
         "company_name": "First American",
         "id": "718159b2-f2b9-4bf7-be0d-bb20eca05ff2",
         "title": "Technical Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
