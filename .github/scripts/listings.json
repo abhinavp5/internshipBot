@@ -92387,7 +92387,7 @@
         "company_name": "Cotiviti",
         "id": "3dabf3fa-56cb-4626-a1d7-45c6307008f1",
         "title": "Intern \u2013 Generative AI Research Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -95690,7 +95690,7 @@
         "company_name": "Shure",
         "id": "cceac49b-69c3-419f-b97d-5a1ed6b46e09",
         "title": "Cloud Applications Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -96121,7 +96121,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "7bb38c12-27e1-4e8d-bddd-a149edbd6e8a",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -96448,7 +96448,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3900ee26-a593-429d-aeb9-6cea38b113a8",
         "title": "Machine Learning Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -97418,7 +97418,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ad8b1567-30c9-4093-b10b-395eb58e0e33",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -97513,7 +97513,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "08b5f3e9-aa6a-4dcb-839c-f936a41196a3",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -98506,7 +98506,7 @@
         "company_name": "Mackenzie Investments",
         "id": "0b1d03f5-54c2-466f-a64c-62914ec0123e",
         "title": "Investment Management \u2013 FI-Platform Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -98529,7 +98529,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "32fc1129-317d-499e-b6c3-5ebb215eb592",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -126371,7 +126371,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "cd1eeddf-de6b-42cb-93a8-e468e9b5f219",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -127403,7 +127403,7 @@
         "company_name": "W.R. Berkley",
         "id": "0c7562e6-7d8e-4ada-b934-9b6bdd000c2f",
         "title": "Intern \u2013 Software Developer - Reactjs",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -162989,7 +162989,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "e98d2ae7-4a5c-4a8d-93c0-06ab3c8d225f",
         "title": "Data Science Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -163174,7 +163174,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "5aaea3e0-eb7b-4548-8be4-217d0156b004",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -163522,7 +163522,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "46f30da2-6e82-4eed-a01d-e3f793a37634",
         "title": "Quantitative Engineer Intern - Clearing Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -206083,7 +206083,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3be76233-c3da-4f9f-a8a7-f8884bde94e7",
         "title": "Trading Operations Co-op with Drexel University: Spring/Summer a Round",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -219354,7 +219354,7 @@
         "company_name": "Steel Dynamics",
         "id": "2e633dc2-ec03-4bcd-955d-65a656e9f46b",
         "title": "Quality & Product Development Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -221524,7 +221524,7 @@
         "company_name": "Beyond New Horizons",
         "id": "d3c49f61-5d04-4fe2-b12b-a939d199d29b",
         "title": "Engineering & Computer Science Summer 2026 Internships",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -222180,7 +222180,7 @@
         "company_name": "Rambus",
         "id": "1f934601-b176-42b2-adb3-e2e998544b0c",
         "title": "Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -223645,7 +223645,7 @@
         "company_name": "Gilead Sciences",
         "id": "9da4956b-8195-4c63-a826-18a05fbc4c44",
         "title": "Intern \u2013 R&D - Clinical Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -224305,7 +224305,7 @@
         "company_name": "Activision-Blizzard",
         "id": "52b54998-0a6a-4a02-8dad-cf81629e6723",
         "title": "Intern - Tech Design",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -224956,7 +224956,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "b2e5c9a4-0b91-4f7b-a58b-29b7500589fd",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -225218,7 +225218,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "7615cfa2-56ef-49e0-8817-60db45705e9f",
         "title": "Engineering Intern - Software and Systems Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -226775,7 +226775,7 @@
         "company_name": "Iridium Communications",
         "id": "4453e83a-2847-485d-b202-f4c787d99591",
         "title": "Iridium Product Management \u2013 Internship - Sales - Marketing",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -234772,7 +234772,7 @@
         "company_name": "Rural King",
         "id": "81edcaf8-38f9-485f-abb7-2e28ca905c3f",
         "title": "Internship - IT - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -236277,7 +236277,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "1f8d9cb9-1b54-4e19-86da-bdbc4709ccd8",
         "title": "Integration and Test Intern Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -243086,7 +243086,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "f5fa5008-5492-4008-ab41-c793fb26dc3c",
         "title": "Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -251802,7 +251802,7 @@
         "company_name": "Rambus",
         "id": "9899b175-c337-497b-a181-b9ec44f46a36",
         "title": "Design Verification Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -252600,7 +252600,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "28cefb5f-0670-40d6-a374-a3fb4854153f",
         "title": "Systems Engineering Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -258125,7 +258125,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "37bb1efc-3cf5-4f3e-b99c-cd99abea4fa7",
         "title": "Systems Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -258841,7 +258841,7 @@
         "company_name": "SRI International",
         "id": "6b469735-6228-4bfe-b2c7-01f09e764d81",
         "title": "Intern \u2013 Computational and Applied Mathematics",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -278685,7 +278685,7 @@
         "company_name": "Mercury Insurance",
         "id": "64654417-3976-42d7-aa67-9cd3643a0ccd",
         "title": "Technology Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -279136,7 +279136,7 @@
         "company_name": "Autodesk",
         "id": "512b5f32-540c-457a-95f5-949c3fed9835",
         "title": "Intern \u2013 NSERC Create / Vision",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -280592,6 +280592,27 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/IntrinsicAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Keysight Technologies",
+        "id": "9d06080b-4535-444b-bc30-28976e38a42f",
+        "title": "Industrial Internship - 6 - Months",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766141431,
+        "date_posted": 1766141431,
+        "url": "https://jobs.keysight.com/jobs/51149?lang=en-us&icims=1",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
