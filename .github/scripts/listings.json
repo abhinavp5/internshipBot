@@ -134,25 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Motorola",
-        "id": "014eab26-d084-43f1-bc26-2c334ae01057",
-        "title": "Software Engineering Co-Op",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1745489950,
-        "date_posted": 1745489950,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-Engineering-Co-Op---Summer-2025_R54758",
-        "locations": [
-            "Allen, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Corewell Health",
         "id": "ea7d4fbf-8fbe-494b-929e-07c041b3b680",
         "title": "HR Data Analytics Intern",
@@ -235897,7 +235878,7 @@
         "company_name": "AbbVie",
         "id": "42abcc91-b338-4b13-9ab2-00c4df3422e0",
         "title": "2026 Graph Machine Learning Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
