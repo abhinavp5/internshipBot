@@ -154,42 +154,42 @@ jobs:
             echo "" >> "$GITHUB_STEP_SUMMARY"
           done
 
-      - name: Check for listings.json changes
+      - name: Check for README.md changes
         if: steps.check-for-upstream-changes.outputs.skip != 'true'
-        id: check-listings
+        id: check-readme
         shell: bash
         run: |
           set -euo pipefail
           mkdir -p email
           
-          HAS_LISTINGS_CHANGES=false
+          HAS_README_CHANGES=false
           
           for patch in changes/patch-*.patch; do
             [ -f "$patch" ] || continue
             BRANCH=${patch#changes/patch-}
             BRANCH=${BRANCH%.patch}
 
-            # Check if listings.json was modified AND has added/changed lines
-            if grep -q "^+++.*listings\.json" "$patch"; then
-              # Check if there are any added lines (+) or modified lines (@@) in listings.json
-              if grep -A 1000 "^+++.*listings\.json" "$patch" | grep -q "^+"; then
-                echo "listings.json changes with added/modified lines detected in branch: $BRANCH"
-                HAS_LISTINGS_CHANGES=true
+            # Check if README.md was modified AND has added/changed lines
+            if grep -q "^+++.*README\.md" "$patch"; then
+              # Check if there are any added lines (+) in README.md
+              if grep -A 1000 "^+++.*README\.md" "$patch" | grep -q "^+"; then
+                echo "README.md changes with added/modified lines detected in branch: $BRANCH"
+                HAS_README_CHANGES=true
                 break
               fi
             fi
           done
           
-          if [ "$HAS_LISTINGS_CHANGES" = "true" ]; then
-            echo "has_listings_changes=true" >> $GITHUB_OUTPUT
-            echo "listings.json changes with additions detected, will call Python script"
+          if [ "$HAS_README_CHANGES" = "true" ]; then
+            echo "has_readme_changes=true" >> $GITHUB_OUTPUT
+            echo "README.md changes with additions detected, will call Python script"
           else
-            echo "has_listings_changes=false" >> $GITHUB_OUTPUT
-            echo "No listings.json additions/changes detected"
+            echo "has_readme_changes=false" >> $GITHUB_OUTPUT
+            echo "No README.md additions/changes detected"
           fi
 
       - name: Call Python script for new opportunities
-        if: steps.check-for-upstream-changes.outputs.skip != 'true' && steps.check-listings.outputs.has_listings_changes == 'true'
+        if: steps.check-for-upstream-changes.outputs.skip != 'true' && steps.check-readme.outputs.has_readme_changes == 'true'
         run: |
           python3 new_opps.py
 
@@ -201,7 +201,7 @@ jobs:
           path: email/body.txt
 
       - name: Check if there are new internships
-        if: steps.check-for-upstream-changes.outputs.skip != 'true' && steps.check-listings.outputs.has_listings_changes == 'true'
+        if: steps.check-for-upstream-changes.outputs.skip != 'true' && steps.check-readme.outputs.has_readme_changes == 'true'
         id: newlines
         shell: bash
         run: |
@@ -213,7 +213,7 @@ jobs:
           fi
 
       - name: Load email body into env
-        if: steps.check-for-upstream-changes.outputs.skip != 'true' && steps.check-listings.outputs.has_listings_changes == 'true'
+        if: steps.check-for-upstream-changes.outputs.skip != 'true' && steps.check-readme.outputs.has_readme_changes == 'true'
         shell: bash
         run: |
           EMAIL_BODY="$(cat email/body.txt)"
@@ -223,8 +223,22 @@ jobs:
             echo "EOF"
           } >> "$GITHUB_ENV"
 
+      - name: Prepare email recipients
+        if: steps.check-for-upstream-changes.outputs.skip != 'true' && steps.check-readme.outputs.has_readme_changes == 'true' && steps.newlines.outputs.has_new == 'true'
+        shell: bash
+        run: |
+          # Start with the main recipient
+          RECIPIENTS="${{ secrets.MAIL_USERNAME }}"
+          
+          # Add additional recipients if the secret exists and is not empty
+          if [ -n "${{ secrets.MAIL_ADDITIONAL_RECIPIENTS }}" ]; then
+            RECIPIENTS="${RECIPIENTS},${{ secrets.MAIL_ADDITIONAL_RECIPIENTS }}"
+          fi
+          
+          echo "RECIPIENTS=${RECIPIENTS}" >> $GITHUB_ENV
+
       - name: Send email with changes (SMTP)
-        if: steps.check-for-upstream-changes.outputs.skip != 'true' && steps.check-listings.outputs.has_listings_changes == 'true' && steps.newlines.outputs.has_new == 'true'
+        if: steps.check-for-upstream-changes.outputs.skip != 'true' && steps.check-readme.outputs.has_readme_changes == 'true' && steps.newlines.outputs.has_new == 'true'
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: smtp.gmail.com
@@ -233,14 +247,14 @@ jobs:
           username: ${{ secrets.MAIL_USERNAME }} # Emailing myself so using same email and pass
           password: ${{ secrets.MAIL_PASSWORD }}
           subject: New Internship Posted
-          to: ${{ secrets.MAIL_USERNAME }}
+          to: ${{ env.RECIPIENTS }}
           from: ${{ secrets.MAIL_USERNAME }}
           ignore_cert: true
           convert_markdown: false
           body: ${{ env.EMAIL_BODY }}
 
       - name: Print email body (for logs)
-        if: always() && steps.check-for-upstream-changes.outputs.skip != 'true' && steps.check-listings.outputs.has_listings_changes == 'true'
+        if: always() && steps.check-for-upstream-changes.outputs.skip != 'true' && steps.check-readme.outputs.has_readme_changes == 'true'
         shell: bash
         run: |
           echo "Email body:" && cat email/body.txt
