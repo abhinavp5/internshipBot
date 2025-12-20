@@ -134,23 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Corewell Health",
-        "id": "ea7d4fbf-8fbe-494b-929e-07c041b3b680",
-        "title": "HR Data Analytics Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1745508813,
-        "date_posted": 1745508813,
-        "url": "https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/HR-Data-Analytics-Intern_R168659",
-        "locations": [
-            "Grand Rapids, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Corewell-Health",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Nokia",
         "id": "aea63ff3-bc4c-4097-884a-077491c09c08",
         "title": "Automation Engineer Co-op/Intern",
@@ -280444,7 +280427,7 @@
         "company_name": "Global Partners",
         "id": "e01cf88b-9bd7-4aed-b79f-b032899c3d5d",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -281971,6 +281954,27 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/Collaborative-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CME Group",
+        "id": "c856d519-9052-4f09-aee6-995ea7a6cd16",
+        "title": "Research and Product Development PhD Student Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1766245930,
+        "date_posted": 1766110618,
+        "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/New-York---300-Vesey-Street/Research-and-Product-Development-PhD-Student-Intern--Part-Time--12-Month-Program-_33597-1",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/CME-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
