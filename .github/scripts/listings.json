@@ -134,25 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Leidos",
-        "id": "1ac29674-d52e-42dd-8baf-787ccaf241a4",
-        "title": "Technical Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1745526489,
-        "date_posted": 1745526489,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/8739-Ellicott-City-MD-Home-Office/Technical-Intern_R-00157687",
-        "locations": [
-            "Ellicott City, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "KBR",
         "id": "d91ddf61-a490-4dfa-8324-c12ffc4fe0a2",
         "title": "Intern for Total Operational Weather Readiness-Satellites - Towr-S",
@@ -198790,7 +198771,7 @@
         "company_name": "Quora",
         "id": "326806f0-99b5-48a2-9759-73826ea0a195",
         "title": "Machine Learning Engineer Intern - Poe",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -225352,7 +225333,7 @@
         "company_name": "Zscaler",
         "id": "88241b63-f7bf-49b2-a440-a4df05962d9e",
         "title": "Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
