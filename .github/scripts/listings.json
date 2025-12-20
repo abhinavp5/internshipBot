@@ -134,60 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Nokia",
-        "id": "aea63ff3-bc4c-4097-884a-077491c09c08",
-        "title": "Automation Engineer Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1745519064,
-        "date_posted": 1745519064,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20101",
-        "locations": [
-            "Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Nokia",
-        "id": "2be6c863-30ff-4c73-8422-52b95b5d009b",
-        "title": "Automation Engineer Co-op/Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1745519065,
-        "date_posted": 1745519065,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20107",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Curtiss-Wright Corporation",
-        "id": "2557ef13-33d6-4399-9f21-50471b9abb5a",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1745518767,
-        "date_posted": 1745518767,
-        "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-NY-East-Farmingdale-Peerless/Software-Engineer-Intern_JR8464-1",
-        "locations": [
-            "Plainview, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Curtiss-Wright",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "The Federal Reserve System",
         "id": "34eae332-98f6-409b-8279-50526b9a5199",
         "title": "Data Analyst Intern",
@@ -202,23 +148,6 @@
             "Kansas City, MO"
         ],
         "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Lightcast",
-        "id": "8f1e1f56-e127-4e35-92a5-e990fa60f8aa",
-        "title": "Intern \u2013 Engineering",
-        "active": false,
-        "terms": [],
-        "date_updated": 1745518270,
-        "date_posted": 1745518270,
-        "url": "https://jobs.lever.co/economicmodeling/c274b569-f058-43ab-a0ab-c14e839df498/apply",
-        "locations": [
-            "Moscow, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Lightcast",
         "is_visible": true,
         "sponsorship": "Other"
     },
