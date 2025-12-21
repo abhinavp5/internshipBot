@@ -134,23 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Flock Safety",
-        "id": "03065df9-d376-4664-b12b-ed2cca97526c",
-        "title": "Software Engineer \u2013 Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1745604319,
-        "date_posted": 1745604319,
-        "url": "https://jobs.ashbyhq.com/Flock%20Safety/e134f9b9-4546-42f8-9872-b5220a52947d/application",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/FlockSafety",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Cigna Group",
         "id": "146ebfa5-7b5d-4562-981a-0367e0d2c008",
         "title": "Software Engineering/Data Analytics Intern - Evernorth",
@@ -1807,26 +1790,6 @@
             "Canada"
         ],
         "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Lennox International",
-        "id": "592d267a-5a89-4c50-87c8-2eb8c3e22087",
-        "title": "Hardware Engineering Co-Op",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1745602898,
-        "date_posted": 1745602898,
-        "url": "https://uscareers-lennox.icims.com/jobs/48568/job",
-        "locations": [
-            "Farmers Branch, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Lennox-International",
         "is_visible": true,
         "sponsorship": "Other"
     },
