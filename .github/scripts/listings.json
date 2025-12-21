@@ -133,25 +133,6 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1752133721,
-        "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_2025715-1",
-        "company_name": "Lumentum",
-        "title": "Embedded Software Engineer Co-op/Intern \ud83d\udec2",
-        "locations": [
-            "Ottawa, Ontario, Canada"
-        ],
-        "terms": [
-            "Fall 2025"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "GaryZhous",
-        "id": "94476c90-6c19-4769-ba94-999fca430417",
-        "date_posted": 1745553628,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "company_name": "Tesla",
         "id": "329adca1-9dd4-4160-b001-cd07d17ee61b",
@@ -94518,7 +94499,7 @@
         "company_name": "Shure",
         "id": "67dbe0f9-2e0a-40f0-973e-ec2714e57a07",
         "title": "Proof of Concept Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -125576,7 +125557,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "cd1eeddf-de6b-42cb-93a8-e468e9b5f219",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -150166,7 +150147,7 @@
         "company_name": "Arch Capital Group",
         "id": "f176244b-7ea1-4fc6-98ad-5325ae2dfdde",
         "title": "IT Analytics Engineer Intern - IT - Enterprise Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -189274,7 +189255,7 @@
         "company_name": "Axon",
         "id": "f184965a-e5c3-4faa-94e7-b23a9f3496c6",
         "title": "Software Engineer Intern - Public Safety Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -190713,7 +190694,7 @@
         "company_name": "Axon",
         "id": "207bc6eb-6fda-4620-9fd9-5c898e70ec29",
         "title": "Software Engineer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -202069,7 +202050,7 @@
         "company_name": "Cook Group",
         "id": "564db16f-71cd-423b-a7f7-0eed890ab827",
         "title": "Intern \u2013 Statistics & Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -207600,7 +207581,7 @@
         "company_name": "Alliance Laundry Systems",
         "id": "24845bef-dcad-4c18-a140-12ba502024c7",
         "title": "Project Data Analyst Co-op - Project Management - Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -208078,7 +208059,7 @@
         "company_name": "Apogee Engineering",
         "id": "c0b246ac-9f50-4715-82eb-c08b2ecfc468",
         "title": "Technical Intelligence Analyst \u2013 Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -214484,7 +214465,7 @@
         "company_name": "Rambus",
         "id": "9a0aca24-0f4b-41d4-8682-8a11169ffa50",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -236955,7 +236936,7 @@
         "company_name": "Major League Baseball",
         "id": "b25ffade-bc5e-437b-8102-0d1289ec1752",
         "title": "Intern - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -242291,7 +242272,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "f5fa5008-5492-4008-ab41-c793fb26dc3c",
         "title": "Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -257330,7 +257311,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "37bb1efc-3cf5-4f3e-b99c-cd99abea4fa7",
         "title": "Systems Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -258046,7 +258027,7 @@
         "company_name": "SRI International",
         "id": "6b469735-6228-4bfe-b2c7-01f09e764d81",
         "title": "Intern \u2013 Computational and Applied Mathematics",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -260598,7 +260579,7 @@
         "company_name": "Mackenzie Investments",
         "id": "efbfa21f-4fbe-43bc-b3ea-879aca0563d3",
         "title": "Intern - Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -277934,7 +277915,7 @@
         "company_name": "Mercury Insurance",
         "id": "7db44460-602a-41e0-9ac5-bf0380fe322a",
         "title": "Personal Lines Product Intern National",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -279870,7 +279851,7 @@
         "company_name": "Geosyntec Consultants",
         "id": "97200b49-b97d-4a22-a5ee-93dfb16c860e",
         "title": "Environmental Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
