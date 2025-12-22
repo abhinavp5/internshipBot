@@ -46739,7 +46739,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9d257cdf-efe6-4ac9-b1f0-5ed5e11826f0",
         "title": "Quantitative Systematic Trading Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -177277,9 +177277,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761213264,
+        "date_updated": 1766399119,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -178416,9 +178416,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1761290580,
+        "date_updated": 1766399119,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -182312,9 +182312,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761864653,
+        "date_updated": 1766399119,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -244834,9 +244834,9 @@
         "degrees": []
     },
     {
-        "date_updated": 1763999714,
+        "date_updated": 1766399119,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -260931,9 +260931,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1765288051,
+        "date_updated": 1766399119,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -265052,9 +265052,9 @@
         "degrees": []
     },
     {
-        "date_updated": 1765390095,
+        "date_updated": 1766399119,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -276061,9 +276061,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1765988586,
+        "date_updated": 1766399119,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
