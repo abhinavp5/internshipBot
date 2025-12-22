@@ -25210,7 +25210,7 @@
             "Spring 2026"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "a711ba41-e256-4c31-a145-413dcf173032",
         "date_posted": 1754664637,
@@ -46739,7 +46739,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9d257cdf-efe6-4ac9-b1f0-5ed5e11826f0",
         "title": "Quantitative Systematic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -49998,7 +49998,7 @@
         "company_name": "Zebra Technologies",
         "id": "664ca7be-70f9-46a4-ad15-0189b1c7d74a",
         "title": "2026 Summer Internship - Marketing Data Science & Analytics - Corporate and Business Services - CEO",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -63421,7 +63421,7 @@
         "company_name": "Zebra Technologies",
         "id": "caef386f-e7b3-4d52-8ae6-4619852a0322",
         "title": "2026 Summer Internship - Firmware/Software Engineer - Corporate and Business Services - CEO",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -69078,7 +69078,7 @@
         "company_name": "Eluvio",
         "id": "1f0509b9-4976-44da-865d-8b144d7d72ec",
         "title": "Machine Learning / Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -71235,7 +71235,7 @@
         "company_name": "Muon Space",
         "id": "968eaf46-d15e-41d7-ab52-2123e9600417",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -100463,7 +100463,7 @@
         "company_name": "Tenstorrent",
         "id": "e971a3e2-631b-4ad9-ab78-effc38c864ed",
         "title": "AI Compiler Software Intern - Pey",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -137156,7 +137156,7 @@
         "company_name": "Eluvio",
         "id": "e77d40d5-0aea-4714-a2ba-b55066f24655",
         "title": "AI Machine Learning Intern - Gen AI - Multimodal",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -154807,7 +154807,7 @@
         "company_name": "Adobe",
         "id": "2d784bda-fb86-478e-ae5d-75f00e2606f3",
         "title": "Intern - Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -158833,7 +158833,7 @@
         "company_name": "Shield AI",
         "id": "d802398c-6c0a-49ce-9665-8dc3cacd0185",
         "title": "Embedded Engineering Co-Op - Embedded Software - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -175337,7 +175337,7 @@
         "company_name": "Shield AI",
         "id": "02b93080-acb0-44f4-a2d2-bd949cdbc865",
         "title": "Hardware Test Engineering Fall Co-op - Mechanical - June 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -208763,7 +208763,7 @@
         "company_name": "Eluvio",
         "id": "de898c38-47b0-4c4b-869c-32c6a683931b",
         "title": "Intern: Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -214261,7 +214261,7 @@
         "company_name": "Shield AI",
         "id": "23ec8038-f399-443a-8b3f-6606aef948bd",
         "title": "Embedded Software Engineering Intern \u2013 2026 Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -228218,7 +228218,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Visa",
-        "id": "a010f1f2-6a04-4d2b-8281-df27a33235b0",
+        "id": "0ed6cb36-9c49-457e-987a-0bd0bf11e256",
         "title": "Software Engineer Intern",
         "active": true,
         "terms": [
@@ -230900,7 +230900,7 @@
         "company_name": "AvicenaTech",
         "id": "428754ac-c863-471a-a763-3fcf03cb6b46",
         "title": "Software Intern for System Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -232804,7 +232804,7 @@
         "company_name": "Exact Sciences",
         "id": "a934eb31-8220-4a78-98ad-9400e276039b",
         "title": "AI Engineer Intern - GenAI - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -234242,7 +234242,7 @@
         "company_name": "Shield AI",
         "id": "9c96a9ea-4c26-4327-bda6-974b09146fde",
         "title": "Integration & Test Engineering Co-Op - Dallas - TX",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -245959,7 +245959,7 @@
         "company_name": "Emerson Electric",
         "id": "cff05de8-2ea8-4bb1-a58c-285a779ad98a",
         "title": "Cloud Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -248401,7 +248401,7 @@
         "company_name": "Shield AI",
         "id": "a733abf8-ad90-441d-86df-27a8a1321ce1",
         "title": "Intern - Hardware Test - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -257199,7 +257199,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "2c289eb5-790f-40ad-82fd-132a54ea6869",
         "title": "2026 Machine Learning Engineering Undergrad Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -257241,7 +257241,7 @@
         "company_name": "Sony Interactive Entertainment",
         "id": "bd629b9d-aa73-4e73-9567-de41120e71db",
         "title": "Graphics Programming Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -260547,7 +260547,7 @@
         "company_name": "Autodesk",
         "id": "024af9c7-745f-4aa9-bf0a-06e6c65f96fe",
         "title": "Intern AI Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -268561,7 +268561,7 @@
         "company_name": "Rocket Mortgage",
         "id": "b5f8b344-1f70-4178-b938-3b4e1e429392",
         "title": "Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -273164,7 +273164,7 @@
         "company_name": "CLEAResult",
         "id": "db3f1576-e8cb-427f-910b-c9981d228023",
         "title": "Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025"
@@ -275620,7 +275620,7 @@
         "company_name": "HCSC",
         "id": "52db06f8-9617-4e7c-b776-eef2a1b0c832",
         "title": "Early Careers \u2013 Associate Automation Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
