@@ -94955,7 +94955,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "7bb38c12-27e1-4e8d-bddd-a149edbd6e8a",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -96964,7 +96964,7 @@
         "company_name": "STR",
         "id": "55ef5836-6a70-473b-a610-e3a0283be476",
         "title": "Cyber Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -147651,7 +147651,7 @@
         "company_name": "United Wholesale Mortgage",
         "id": "2ccde243-2959-41bf-bd01-f96d94926dcc",
         "title": "Technology Summer Intern - Information Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -220550,7 +220550,7 @@
         "company_name": "Blue Cross Blue Shield of Michigan",
         "id": "1c445a5e-4657-4bdd-9985-cb96dd9a1db9",
         "title": "2026 Summer Intern-Program/Product Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -236840,7 +236840,7 @@
         "company_name": "Endeavor Air",
         "id": "654728d9-52c4-43e0-8e14-3b84252b80d6",
         "title": "Operational Analytics and Performance Intern - Operational Analytics and Performance",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
