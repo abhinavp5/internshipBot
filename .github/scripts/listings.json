@@ -105397,7 +105397,7 @@
         "company_name": "CACI",
         "id": "e23910b4-3c7b-4405-a800-7b2c2d582349",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -162449,7 +162449,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "1b93bbd4-3c44-4ea5-9be4-12fc01cfbef5",
         "title": "Release Engineering Intern - Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -166047,7 +166047,7 @@
         "company_name": "Cirrus Logic",
         "id": "3815da2e-dfa5-4886-b29e-db9f9e565ab8",
         "title": "Spring Intern - Hardware Platform Development Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -187979,7 +187979,7 @@
         "company_name": "Bloom Energy",
         "id": "9315b6c7-d48c-4f7f-8902-fd77b98f5a55",
         "title": "Full Stack Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -212170,7 +212170,7 @@
         "company_name": "Shure",
         "id": "f0d5af3f-ab4d-4767-9b11-843f39e6945f",
         "title": "Digital Signal Processing Intern - Digital Signal Processing - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -214113,7 +214113,7 @@
         "company_name": "Rambus",
         "id": "9a0aca24-0f4b-41d4-8682-8a11169ffa50",
         "title": "Firmware Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -249014,7 +249014,7 @@
         "company_name": "OmniSource",
         "id": "86e5ce14-6ff8-4733-97d2-3d675a9dc466",
         "title": "Environmental Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -274602,7 +274602,7 @@
         "company_name": "RTX",
         "id": "b4b8c96a-f875-43ac-ba40-3d56decf5994",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
