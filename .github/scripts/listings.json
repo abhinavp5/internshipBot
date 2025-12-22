@@ -96989,7 +96989,7 @@
         "company_name": "STR",
         "id": "50ee89ec-610b-41c2-b7ec-c0a824029b22",
         "title": "Cyber Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -97340,7 +97340,7 @@
         "company_name": "Mackenzie Investments",
         "id": "0b1d03f5-54c2-466f-a64c-62914ec0123e",
         "title": "Investment Management \u2013 FI-Platform Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -102023,7 +102023,7 @@
         "company_name": "Grant Thornton",
         "id": "ef834d9b-10c2-4059-9d0c-74dacd77ff18",
         "title": "Tax Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -119671,7 +119671,7 @@
         "company_name": "Xcimer Energy",
         "id": "3438f99c-d17e-41df-9a60-dc1ae46249ce",
         "title": "Internship - Computational and Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -121878,7 +121878,7 @@
         "company_name": "Bracebridge Capital",
         "id": "d00ee066-859c-4795-83c8-cc278ae0de90",
         "title": "Software Engineer - Application Development Intern/Co-op - Quantitative Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -133431,7 +133431,7 @@
         "company_name": "CACI",
         "id": "decd66fc-e746-4175-a7da-977586420002",
         "title": "Cloud Software Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -182409,7 +182409,7 @@
         "company_name": "Centerstone",
         "id": "fec42271-5a2c-43cd-8fc9-d3ab4140f87c",
         "title": "Bachelor Level Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -216075,7 +216075,7 @@
         "company_name": "Helsing",
         "id": "de6d04d1-3712-460a-a3e2-71c34a02a147",
         "title": "Software Engineer \u2013 Intern - ",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -233606,7 +233606,7 @@
         "company_name": "Rural King",
         "id": "81edcaf8-38f9-485f-abb7-2e28ca905c3f",
         "title": "Internship - IT - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -234495,7 +234495,7 @@
         "company_name": "FOX",
         "id": "89697048-197b-4c41-83fb-7b1fd0dd6468",
         "title": "Product Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -244607,7 +244607,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "417871cd-9f57-4003-ba18-d9cab6796608",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -251229,7 +251229,7 @@
         "company_name": "Marvell",
         "id": "3b861c94-3975-4342-af95-7cedf6e77cdc",
         "title": "Physical Design Engineer Intern - Bachelor's Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -256450,7 +256450,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "ddb0d2cc-8e0d-4be9-88ff-e728173b5c3b",
         "title": "Systems Engineer 1",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -258616,7 +258616,7 @@
         "company_name": "Inspire Medical Systems",
         "id": "cfbddfc5-6908-4ebc-9d9e-0871057ae7fa",
         "title": "Firmware Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -263412,7 +263412,7 @@
         "company_name": "Microsoft",
         "id": "fe633189-af3d-4a83-8a19-b70a04c6e46b",
         "title": "Research Intern - Robot Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -264122,7 +264122,7 @@
         "company_name": "Zoetis",
         "id": "a5f4b474-a438-41c4-b204-e98b01c83da6",
         "title": "ZOETIS Tech & Digital \u2013 Solutions Architecture & Engineering Intern - Ztd - Gms",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -274581,7 +274581,7 @@
         "company_name": "RTX",
         "id": "19d79f28-5d50-424d-8795-e0b613aafa69",
         "title": "Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -275597,7 +275597,7 @@
         "company_name": "Bose",
         "id": "fc27401f-6958-43c8-9e4b-dfd74316ed97",
         "title": "Software Engineer in Test Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -281698,6 +281698,132 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Banco Bilbao Vizcaya Argentaria",
+        "id": "ae4b7d7c-5701-428d-9897-4723880bae0b",
+        "title": "Developed Market \u2013 Credit Trading Internship London - DM",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1766431717,
+        "date_posted": 1766431717,
+        "url": "https://bbva.wd3.myworkdayjobs.com/BBVA/job/LONDON/Developed-Market--DM--Credit-Trading-Internship-London_JR00091473",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Banco-Bilbao-Vizcaya-Argentaria",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Blackstone",
+        "id": "5ae4ee52-0518-41c5-b810-e3b527708317",
+        "title": "Blackstone Credit and Insurance Quant and Portfolio Analytics Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766431727,
+        "date_posted": 1766431727,
+        "url": "https://blackstone.wd1.myworkdayjobs.com/bx_external_site/job/New-York/XMLNAME-2026-Blackstone-Credit-and-Insurance--Quant-and-Portfolio-Analytics-Summer-Analyst_34790-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Blackstone",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sarasota County",
+        "id": "e1cd6333-ab2d-4c27-89cb-c0242a0699a5",
+        "title": "GIS Intern  On-Site Summer 2026 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766431363,
+        "date_posted": 1766431363,
+        "url": "https://scgov.wd5.myworkdayjobs.com/SCGOV/job/Twin-Lakes-Park/GIS-Intern---On-Site-Summer-2026-Internship_R20268",
+        "locations": [
+            "Sarasota, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Sarasota-County",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "United Therapeutics Corporation",
+        "id": "c0828586-df4e-4ccf-a8d6-df97ac87be7b",
+        "title": "Intern Health Sciences Data Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766431455,
+        "date_posted": 1766431455,
+        "url": "https://vhr-unither.wd5.myworkdayjobs.com/External/job/Silver-Spring-MD/Intern---Health-Sciences-Data-Analyst_R04532",
+        "locations": [
+            "Silver Spring, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Therapeutics-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Micron Technology",
+        "id": "a92e77b0-237c-47a9-a530-1cebf4379602",
+        "title": "Intern \u2013 Probe Process",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1766431307,
+        "date_posted": 1766431307,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Probe-Process-Intern_JR85128",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Micron Technology",
+        "id": "549904da-b528-46c2-85b8-665b5a4d4417",
+        "title": "Intern \u2013 Global Environmental Compliance",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1766431301,
+        "date_posted": 1766431301,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Environmental-Engineering-Intern---Global-Environmental-Compliance_JR87608",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
