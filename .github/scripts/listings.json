@@ -84627,7 +84627,7 @@
         "company_name": "RESPEC",
         "id": "67697e1a-0800-4b63-894c-a9f03c6054b8",
         "title": "Student Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -91221,7 +91221,7 @@
         "company_name": "Cotiviti",
         "id": "3dabf3fa-56cb-4626-a1d7-45c6307008f1",
         "title": "Intern \u2013 Generative AI Research Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -159887,7 +159887,7 @@
         "company_name": "Iridium Communications",
         "id": "23de8143-2060-483b-9d4c-6f912604bfd2",
         "title": "Software Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -161938,7 +161938,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "315215f2-cf98-4b01-85eb-14f7837c9dcd",
         "title": "Mobile Application Development Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -171819,7 +171819,7 @@
         "company_name": "CAE",
         "id": "42ce6779-6049-4c3b-ac90-eaf06905dbad",
         "title": "R&D Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -196440,7 +196440,7 @@
         "company_name": "UC Health",
         "id": "9e8374d8-7b6b-4ee8-835a-c5cf4679ba0b",
         "title": "Digital Health Systems Co-op Student",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -196629,7 +196629,7 @@
         "company_name": "UC Health",
         "id": "31cbbfdb-c914-4a34-aca1-6b2d6bfd63f4",
         "title": "Digital Health Systems Co-op Student",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -197075,7 +197075,7 @@
         "company_name": "KLA",
         "id": "62b3d1bf-16d7-4b39-9e28-fa5d791584df",
         "title": "Software Intern - IOT",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -207707,7 +207707,7 @@
         "company_name": "Apogee Engineering",
         "id": "c0b246ac-9f50-4715-82eb-c08b2ecfc468",
         "title": "Technical Intelligence Analyst \u2013 Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -223535,7 +223535,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "488a7295-310f-45ad-b191-4f4822778dd4",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -224052,7 +224052,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "7615cfa2-56ef-49e0-8817-60db45705e9f",
         "title": "Engineering Intern - Software and Systems Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -233408,7 +233408,7 @@
         "company_name": "Great American Insurance Company",
         "id": "88c05a4a-8cd2-4602-b73b-313d60bc1ba9",
         "title": "Digital Relationship Management Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2028",
             "Winter 2028",
@@ -237793,7 +237793,7 @@
         "company_name": "Zebra Technologies",
         "id": "760cd1f6-a7f1-4233-bd35-2285763c6d4d",
         "title": "2026 Summer Internship - US - AI Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -250636,7 +250636,7 @@
         "company_name": "Rambus",
         "id": "9899b175-c337-497b-a181-b9ec44f46a36",
         "title": "Design Verification Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -253205,7 +253205,7 @@
         "company_name": "Thorlabs",
         "id": "30ffd7b3-c670-47ca-9611-7661ff0be386",
         "title": "Summer 2026 Laser Systems and Technology Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -277160,7 +277160,7 @@
         "company_name": "Leidos",
         "id": "ba238e5e-0d7f-4ab0-8497-58ce80b64109",
         "title": "FPGA Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -278205,7 +278205,7 @@
         "company_name": "McKesson",
         "id": "01c28777-bdfd-4ef5-afbe-d658d274e27c",
         "title": "Impact Strategy & Analytics Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -281652,6 +281652,50 @@
         "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28498",
         "locations": [
             "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "3e2790a0-da8d-4dbe-a24b-673bd4c639e1",
+        "title": "AI Research Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1766420534,
+        "date_posted": 1766420534,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000100086635",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "3032eac0-d6f1-439a-aa74-0b69536094e0",
+        "title": "Software Design Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766419770,
+        "date_posted": 1766419770,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28893",
+        "locations": [
+            "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Nokia",
         "is_visible": true,
