@@ -260227,7 +260227,7 @@
         "company_name": "Mackenzie Investments",
         "id": "efbfa21f-4fbe-43bc-b3ea-879aca0563d3",
         "title": "Intern - Data Scientist",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -281515,6 +281515,124 @@
         "source": "AlmondCroffle",
         "id": "5213defc-325f-4d4e-93dc-748174eb6036",
         "date_posted": 1766409774,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1766409866,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.ashbyhq.com/cobot/86933504-7a8f-46d1-a745-edfe53c47427",
+        "company_name": "CoBot",
+        "title": "SWE Intern, AI, Navigation & Controls (Undergraduate)",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "b387b8fd-d859-4028-8a44-d52d123bd16a",
+        "date_posted": 1766409866,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1766409973,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://dexcom.wd1.myworkdayjobs.com/en-US/dexcom/job/San-Diego-California/Intern-I---Software-Test-Development-Engineering_JR115297",
+        "company_name": "Dexcom",
+        "title": "Intern I - Software Test Development Engineering",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "1eaea90d-15f8-4a10-a4d8-f84d049fa6da",
+        "date_posted": 1766409973,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1766410055,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-gdms.icims.com/jobs/69376/intern-software-and-test-engineer-for-space-and-embedded-crypto-solutions/job",
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Intern Software and Test Engineer for Space and Embedded Crypto Solutions",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Winter 2026",
+            "Spring 2026",
+            "Fall 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "bb29a8a6-9770-4447-a710-62efc98bb649",
+        "date_posted": 1766410055,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1766410158,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/modernizingmedicineinc/jobs/8236500002",
+        "company_name": "Modernizing Medicine",
+        "title": "GI Software Engineering Intern - Cloud Team",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "6e240e6b-e8d9-4ad6-883e-3d0419456e05",
+        "date_posted": 1766410158,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1766410735,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/03aa9fec-d569-4a57-9aae-67959e48fd74",
+        "company_name": "ServiceNow",
+        "title": "Technical AI Architect Intern (Master's Degree)",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "1c53749a-9d9f-442c-8e81-1361c5671954",
+        "date_posted": 1766410735,
         "company_url": "",
         "is_visible": true
     }
