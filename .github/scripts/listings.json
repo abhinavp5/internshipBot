@@ -78492,7 +78492,7 @@
         "company_name": "Cboe",
         "id": "354f597d-edec-4746-af49-2d6a0a737c26",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -119743,7 +119743,7 @@
         "company_name": "Cboe",
         "id": "188d3151-5615-47a6-acd7-151fe76624af",
         "title": "Software Engineer Intern - FX Co-Op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -270257,7 +270257,7 @@
         "company_name": "General Motors",
         "id": "e3deb107-ddf9-4af0-a4fd-caa803f240ca",
         "title": "2026 Summer Intern - Backend Software Engineer - Fleet Tooling",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
