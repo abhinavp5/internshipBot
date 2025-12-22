@@ -134,47 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Tesla",
-        "id": "3c57dd30-c02d-4128-a6eb-27a1852515a6",
-        "title": "Internship - Analytics Engineering - Thermal & Chassis",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1745646354,
-        "date_posted": 1745646354,
-        "url": "https://www.tesla.com/careers/search/job/242048",
-        "locations": [
-            "Fremont, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Tesla",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Tesla",
-        "id": "2e8ae03b-f1c5-4252-9950-ec0635d5c1ca",
-        "title": "Internship - Frontend Engineer - Applications Engineering",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Spring 2025"
-        ],
-        "date_updated": 1745646325,
-        "date_posted": 1745646325,
-        "url": "https://www.tesla.com/careers/search/job/242108",
-        "locations": [
-            "Fremont, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Tesla",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "TD Bank",
         "id": "ad3e9035-8579-4b01-b35a-aa93da42c7eb",
         "title": "Active Trader Segment Intern/Co-op",
@@ -277815,7 +277774,7 @@
         "company_name": "RTX",
         "id": "0ba61e91-1a87-4fd9-a1e6-7746724a94c5",
         "title": "Intern: 2026 Summer - F135 Program Digital Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
