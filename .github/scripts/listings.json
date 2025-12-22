@@ -187937,7 +187937,7 @@
         "company_name": "Bloom Energy",
         "id": "ba668c84-13f4-4a1e-b983-df156ce4b884",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -220036,7 +220036,7 @@
         "company_name": "Bloom Energy",
         "id": "c711b3d1-7380-4fcf-b22a-07af6189aed2",
         "title": "Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -261388,7 +261388,7 @@
         "company_name": "American Enterprise Institute",
         "id": "acb3cfd6-5481-4de6-991a-e29ac2402800",
         "title": "Economic Policy Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
