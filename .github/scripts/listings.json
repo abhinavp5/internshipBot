@@ -96229,7 +96229,7 @@
         "company_name": "Cotiviti",
         "id": "9892e214-ccb9-43f4-8016-f9cf87c0de55",
         "title": "Intern \u2013 Generative AI Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -102627,7 +102627,7 @@
         "company_name": "Zebra Technologies",
         "id": "093b9e34-c756-4571-acfb-b420aa4e7623",
         "title": "2026 Summer Internship - Supplies & Sensors Research & Development - Corporate and Business Services - CEO",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -161985,7 +161985,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "427c46da-aae1-45df-b8af-36a388b72682",
         "title": "AI Engineering Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -162332,7 +162332,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "bc4eaca1-d7bb-46f8-a195-59f2f4955803",
         "title": "Weather Data Analyst Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -162449,7 +162449,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "1b93bbd4-3c44-4ea5-9be4-12fc01cfbef5",
         "title": "Release Engineering Intern - Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -186987,7 +186987,7 @@
         "company_name": "SAS",
         "id": "878e5db2-ee3a-4779-b74e-0f88dc9f01d2",
         "title": "Summer 2025-System Architect Intern - Master's",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -219076,7 +219076,7 @@
         "company_name": "Cook Group",
         "id": "129f62f7-ecdc-47b0-8945-414033024e52",
         "title": "Intern \u2013 Artificial Intelligence & Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -223535,7 +223535,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "488a7295-310f-45ad-b191-4f4822778dd4",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -224052,7 +224052,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "7615cfa2-56ef-49e0-8817-60db45705e9f",
         "title": "Engineering Intern - Software and Systems Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -225609,7 +225609,7 @@
         "company_name": "Iridium Communications",
         "id": "4453e83a-2847-485d-b202-f4c787d99591",
         "title": "Iridium Product Management \u2013 Internship - Sales - Marketing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -228218,7 +228218,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Visa",
-        "id": "a010f1f2-6a04-4d2b-8281-df27a33235b0",
+        "id": "0ed6cb36-9c49-457e-987a-0bd0bf11e256",
         "title": "Software Engineer Intern",
         "active": true,
         "terms": [
@@ -231537,7 +231537,7 @@
         "company_name": "Grow Financial Federal Credit Union",
         "id": "174d4243-5d60-41da-b34b-5071b2105e1c",
         "title": "Systems Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -232005,7 +232005,7 @@
         "company_name": "AbbVie",
         "id": "b6887522-61f3-46ae-bb60-80b649182891",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -260101,7 +260101,7 @@
         "company_name": "Sharp Electronics",
         "id": "19771832-913b-4f67-b8b5-f8a7b5936cbd",
         "title": "AI Process Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -261640,7 +261640,7 @@
         "company_name": "American Enterprise Institute",
         "id": "c42590be-0c86-43ad-b225-bf67dc537fe7",
         "title": "Summer Intern: Data Analysis and Education Policy",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -276437,7 +276437,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "d7267066-1336-4848-bade-3e8d6868faae",
         "title": "Data Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -277498,7 +277498,7 @@
         "company_name": "Mercury Insurance",
         "id": "2e984909-c24c-42bc-abf5-09cb5bac6673",
         "title": "Personal Lines Product Intern Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -277563,7 +277563,7 @@
         "company_name": "Mercury Insurance",
         "id": "7db44460-602a-41e0-9ac5-bf0380fe322a",
         "title": "Personal Lines Product Intern National",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -277690,7 +277690,7 @@
         "company_name": "Mercury Insurance",
         "id": "3c225f10-10d3-47db-9095-5cb536061840",
         "title": "Sales Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -277818,7 +277818,7 @@
         "company_name": "Mercury Insurance",
         "id": "1b7cd4aa-d377-4e17-91a1-9b44d03249fe",
         "title": "R&D Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -281153,7 +281153,7 @@
         "company_name": "AbbVie",
         "id": "870275a4-82c3-4c7f-9408-9ae5ff501343",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
