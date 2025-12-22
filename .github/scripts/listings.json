@@ -134,42 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Extreme Networks",
-        "id": "29f8b46c-d572-40af-833b-8556f393a938",
-        "title": "AI Marketing Intern - LLM Prompt Engineering & Content Integration",
-        "active": false,
-        "terms": [],
-        "date_updated": 1745624541,
-        "date_posted": 1745624541,
-        "url": "https://jobs.lever.co/extremenetworks/10b7ad61-7d06-4820-b477-8484910beb1f/apply",
-        "locations": [
-            "California"
-        ],
-        "company_url": "https://simplify.jobs/c/Extreme-Networks",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "KLA",
-        "id": "14f6b9c6-1f5f-417c-b5ea-67923565afb6",
-        "title": "Applications Development Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1745625362,
-        "date_posted": 1745625362,
-        "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Austin-TX/Applications-Development-Engineering-Intern---Summer-2025_2529296-1",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/KLA",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "NVIDIA",
         "id": "23e6564a-17cf-4bd7-b0a9-6b1b06bb312a",
         "title": "Software Engineering Intern - AI Storage Infrastructure",
@@ -96384,7 +96348,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ad8b1567-30c9-4093-b10b-395eb58e0e33",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -126369,7 +126333,7 @@
         "company_name": "W.R. Berkley",
         "id": "0c7562e6-7d8e-4ada-b934-9b6bdd000c2f",
         "title": "Intern \u2013 Software Developer - Reactjs",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -160019,7 +159983,7 @@
         "company_name": "Iridium Communications",
         "id": "23de8143-2060-483b-9d4c-6f912604bfd2",
         "title": "Software Engineering Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -228350,7 +228314,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Visa",
-        "id": "a010f1f2-6a04-4d2b-8281-df27a33235b0",
+        "id": "0ed6cb36-9c49-457e-987a-0bd0bf11e256",
         "title": "Software Engineer Intern",
         "active": true,
         "terms": [
