@@ -94581,7 +94581,7 @@
         "company_name": "Shure",
         "id": "7ab269f4-c168-4aef-affd-086940fd86c1",
         "title": "Applied Research Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -149757,7 +149757,7 @@
         "company_name": "Arch Capital Group",
         "id": "f176244b-7ea1-4fc6-98ad-5325ae2dfdde",
         "title": "IT Analytics Engineer Intern - IT - Enterprise Data",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -247698,7 +247698,7 @@
         "company_name": "Voyant Photonics",
         "id": "1e40b7d8-f89e-4433-bc0e-86d931572866",
         "title": "Intern - Field Testing & Dataset Creation",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -253167,7 +253167,7 @@
         "company_name": "Thorlabs",
         "id": "30ffd7b3-c670-47ca-9611-7661ff0be386",
         "title": "Summer 2026 Laser Systems and Technology Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -264276,7 +264276,7 @@
         "company_name": "Genentech",
         "id": "ddd6f51e-594f-400b-be9f-7702baec7c03",
         "title": "Machine Learning Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -268150,7 +268150,7 @@
         "company_name": "Intapp",
         "id": "099ca4af-af7f-4cf5-8225-6e09c7e53872",
         "title": "IT Business Applications Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -281796,7 +281796,7 @@
         "company_name": "Barry-Wehmiller",
         "id": "30946f8d-64f8-4672-9cf9-4a4bd9e73c23",
         "title": "Business Insights Developer & Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
