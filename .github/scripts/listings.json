@@ -91183,7 +91183,7 @@
         "company_name": "Cotiviti",
         "id": "3dabf3fa-56cb-4626-a1d7-45c6307008f1",
         "title": "Intern \u2013 Generative AI Research Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -91576,7 +91576,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "87fc97ec-ca87-43df-a38a-d186466d89ef",
         "title": "Quantitative Systematic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -91599,7 +91599,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "385eed62-f687-4fff-ab42-08f41edb4cb5",
         "title": "Quantitative Systematic Trading Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -93503,7 +93503,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "97094f97-0c76-42e9-bacf-3f331d041f15",
         "title": "Quantitative Systematic Trading Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -94109,7 +94109,7 @@
         "company_name": "Shure",
         "id": "67dbe0f9-2e0a-40f0-973e-ec2714e57a07",
         "title": "Proof of Concept Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -96029,7 +96029,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "c948674f-b374-488f-af89-265ae92d4fca",
         "title": "Machine Learning Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -96214,7 +96214,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ad8b1567-30c9-4093-b10b-395eb58e0e33",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -97325,7 +97325,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "32fc1129-317d-499e-b6c3-5ebb215eb592",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -126199,7 +126199,7 @@
         "company_name": "W.R. Berkley",
         "id": "0c7562e6-7d8e-4ada-b934-9b6bdd000c2f",
         "title": "Intern \u2013 Software Developer - Reactjs",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -131957,7 +131957,7 @@
         "company_name": "Rambus",
         "id": "8e5c43e7-05a6-4746-935b-495159a96309",
         "title": "Silicon IP Field Application Engineer Intern - Field Application Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -161947,7 +161947,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "427c46da-aae1-45df-b8af-36a388b72682",
         "title": "AI Engineering Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -162318,7 +162318,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "46f30da2-6e82-4eed-a01d-e3f793a37634",
         "title": "Quantitative Engineer Intern - Clearing Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -162341,7 +162341,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "f9220cd0-2992-46d7-bdae-b62e7d300658",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -173075,7 +173075,7 @@
         "company_name": "Legrand",
         "id": "b31d0e34-3c2d-4ab8-b48c-c8aaa564942f",
         "title": "Information Systems Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -207669,7 +207669,7 @@
         "company_name": "Apogee Engineering",
         "id": "c0b246ac-9f50-4715-82eb-c08b2ecfc468",
         "title": "Technical Intelligence Analyst \u2013 Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -223668,7 +223668,7 @@
         "company_name": "iCapital Network",
         "id": "cfea6f53-d066-466e-8a5b-212b7fa5fe73",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -225571,7 +225571,7 @@
         "company_name": "Iridium Communications",
         "id": "4453e83a-2847-485d-b202-f4c787d99591",
         "title": "Iridium Product Management \u2013 Internship - Sales - Marketing",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -231967,7 +231967,7 @@
         "company_name": "AbbVie",
         "id": "b6887522-61f3-46ae-bb60-80b649182891",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -232547,7 +232547,7 @@
         "company_name": "Lifeway",
         "id": "a4d021fc-c379-4f45-a496-8915f8070698",
         "title": "Software Engineer Intern - Associate Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -241882,7 +241882,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "f5fa5008-5492-4008-ab41-c793fb26dc3c",
         "title": "Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -260063,7 +260063,7 @@
         "company_name": "Sharp Electronics",
         "id": "19771832-913b-4f67-b8b5-f8a7b5936cbd",
         "title": "AI Process Automation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -269613,7 +269613,7 @@
         "company_name": "Hologic",
         "id": "fe81ccfc-05f5-4cba-97d2-10a949d115f0",
         "title": "Intern \u2013 Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -277460,7 +277460,7 @@
         "company_name": "Mercury Insurance",
         "id": "2e984909-c24c-42bc-abf5-09cb5bac6673",
         "title": "Personal Lines Product Intern Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -277481,7 +277481,7 @@
         "company_name": "Mercury Insurance",
         "id": "64654417-3976-42d7-aa67-9cd3643a0ccd",
         "title": "Technology Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -281115,7 +281115,7 @@
         "company_name": "AbbVie",
         "id": "870275a4-82c3-4c7f-9408-9ae5ff501343",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -282904,6 +282904,157 @@
             "Birmingham, UK"
         ],
         "company_url": "https://simplify.jobs/c/Moog",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Motional",
+        "id": "3a2b196a-03b4-4f67-8176-15858e9163ef",
+        "title": "Intern - Perception",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766509598,
+        "date_posted": 1766509598,
+        "url": "https://motional.com/open-positions/?gh_jid=7570001003#/7570001003",
+        "locations": [
+            "Boston, MA",
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Motional",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "National Information Solutions Cooperative (NISC)",
+        "id": "1e9a976a-0c17-4577-b784-558dd7bb726d",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766510226,
+        "date_posted": 1766510226,
+        "url": "https://job-boards.greenhouse.io/nisc/jobs/7493815",
+        "locations": [
+            "Bismarck, ND"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-NISC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NT Concepts",
+        "id": "e93560c6-08f4-4406-998b-629c59fb38bd",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766509577,
+        "date_posted": 1766509577,
+        "url": "https://job-boards.greenhouse.io/ntconcepts/jobs/5743018004",
+        "locations": [
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/NTConcepts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Motional",
+        "id": "aa2f05e7-38f2-4372-b732-ae42030fe60c",
+        "title": "Intern - Master of Science/Doctor of Philosophy - Infrastructure",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766509596,
+        "date_posted": 1766509596,
+        "url": "https://motional.com/open-positions/?gh_jid=7570086003#/7570086003",
+        "locations": [
+            "Boston, MA",
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Motional",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Motional",
+        "id": "d4499a3e-2a69-4f3a-a2bf-69197577c0de",
+        "title": "Intern - MS/PhD - Motion Planning and Controls",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766509608,
+        "date_posted": 1766509608,
+        "url": "https://motional.com/open-positions/?gh_jid=7570047003#/7570047003",
+        "locations": [
+            "Boston, MA",
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Motional",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Motional",
+        "id": "0c1a9ae1-0575-4e87-8cf4-3de0612a5c2b",
+        "title": "Intern - MS/PhD - Behaviors",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1766509594,
+        "date_posted": 1766509594,
+        "url": "https://motional.com/open-positions/?gh_jid=7570040003#/7570040003",
+        "locations": [
+            "Boston, MA",
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Motional",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NT Concepts",
+        "id": "61174df6-9bbd-4206-85da-c0562c943349",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766509573,
+        "date_posted": 1766509573,
+        "url": "https://job-boards.greenhouse.io/ntconcepts/jobs/5742629004",
+        "locations": [
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/NTConcepts",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
