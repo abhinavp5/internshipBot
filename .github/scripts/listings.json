@@ -135435,7 +135435,7 @@
         "company_name": "ONE Finance",
         "id": "202faa59-b175-4b20-9f63-8ee142070102",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -149571,7 +149571,7 @@
         "company_name": "Philips",
         "id": "c760da69-fbc6-449d-b858-7dc1962ef831",
         "title": "Co-op \u2013 Healthcare Data Scientist - Healthcare Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -257723,7 +257723,7 @@
         "company_name": "Fidelity National Information Services",
         "id": "603d74b6-44a9-4139-9ce5-02ea3362c4ce",
         "title": "Intern \u2013 AI ML Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -269269,7 +269269,7 @@
         "company_name": "Hologic",
         "id": "1a6d9235-eb29-47a3-861f-f38c5a59ecf0",
         "title": "Intern Systems Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
