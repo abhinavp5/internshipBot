@@ -84627,7 +84627,7 @@
         "company_name": "RESPEC",
         "id": "67697e1a-0800-4b63-894c-a9f03c6054b8",
         "title": "Student Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -110987,7 +110987,7 @@
         "company_name": "RESPEC",
         "id": "eeb11883-a57a-42a2-bd99-bf0a7a685d50",
         "title": "Student Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -218814,7 +218814,7 @@
         "company_name": "Commonwealth of Massachusetts",
         "id": "0d2eb849-9351-41e1-80f9-7335ea76843b",
         "title": "Watershed Planning Program \u2013 Intern \u2013 Unpaid Internship - Data Management and Water Quality Assessment Section",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
