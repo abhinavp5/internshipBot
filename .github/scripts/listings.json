@@ -271442,7 +271442,7 @@
         "company_name": "Ripple",
         "id": "338d7a6a-d9e4-48c2-95df-b839a254e57e",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -283055,6 +283055,70 @@
             "Vienna, VA"
         ],
         "company_url": "https://simplify.jobs/c/NTConcepts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "FHLBank Atlanta",
+        "id": "b6fbdfb9-cebf-429b-a7f2-e5c1e31611ed",
+        "title": "Capital Markets Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766516522,
+        "date_posted": 1766516522,
+        "url": "https://fhlbatl.wd1.myworkdayjobs.com/fhlbatl/job/Atlanta-Georgia/Capital-Markets-Intern_JR275",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/FHLBank-Atlanta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "FHLBank Atlanta",
+        "id": "a1090bd1-558e-4898-b109-65cf35c9f052",
+        "title": "Software Development Workflow Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766516522,
+        "date_posted": 1766516522,
+        "url": "https://fhlbatl.wd1.myworkdayjobs.com/fhlbatl/job/Atlanta-Georgia/Software-Development-Workflow-Intern_JR269",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/FHLBank-Atlanta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "073bc550-abc5-4287-a1d3-a3d7ce1f7184",
+        "title": "Electrical Engineer Co-Op - Test & Validation",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1766516460,
+        "date_posted": 1766516460,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/A01-Rockford---Aerospace-4747-Harrison-Avenue-Rockford-IL-61125-USA/Electrical--Test---Validation--Engineer-Co-Op--Summer---Fall-2026--Onsite-_01808633",
+        "locations": [
+            "Rockford, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
