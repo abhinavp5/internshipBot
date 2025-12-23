@@ -41685,7 +41685,7 @@
         "company_name": "Arch Capital Group",
         "id": "245b7f95-99ce-4821-a9b8-2080fcaf0513",
         "title": "IT Servicing NGS Product Summer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -149757,7 +149757,7 @@
         "company_name": "Arch Capital Group",
         "id": "f176244b-7ea1-4fc6-98ad-5325ae2dfdde",
         "title": "IT Analytics Engineer Intern - IT - Enterprise Data",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -228119,7 +228119,7 @@
         "company_name": "Thales",
         "id": "9b279fe5-1275-4856-8df5-6a0fafe4f5f6",
         "title": "Systems Engineering Intern/Co-op - North Vancouver Shipyards",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -228920,7 +228920,7 @@
         "company_name": "Regal Rexnord",
         "id": "5f98ea57-cd95-467b-a92c-89b9456471b1",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -238683,7 +238683,7 @@
         "company_name": "Mercedes-Benz",
         "id": "6a06b447-0755-41b3-97ff-51db6e78d737",
         "title": "OBD Certification & Compliance Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -241279,7 +241279,7 @@
         "company_name": "Barr",
         "id": "e3ad6d33-aa9d-4c4e-ba2b-19a5482515dd",
         "title": "GIS Intern - GIS Specialist",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -248212,7 +248212,7 @@
         "company_name": "Sixth Street",
         "id": "0fa81adf-b8fe-4d18-8021-b4e17284ff87",
         "title": "Intern - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -259911,7 +259911,7 @@
         "company_name": "UntilLabs",
         "id": "04e1164f-b898-4da9-83c5-c990b7d4070b",
         "title": "Embedded Software Intern - Winter 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -260336,7 +260336,7 @@
         "company_name": "Sparksoft",
         "id": "32df4c32-167c-42eb-8ef1-7eb8f0880959",
         "title": "Artificial Intelligence Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -280691,7 +280691,7 @@
         "company_name": "HUB International",
         "id": "e3ecaf23-f821-4ae8-86dc-95c015934f43",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -281626,7 +281626,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "3e2790a0-da8d-4dbe-a24b-673bd4c639e1",
         "title": "AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -283119,6 +283119,27 @@
             "Rockford, IL"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "thyssenkrupp",
+        "id": "bbda7e7c-7de0-4db9-91d9-c5964f94704a",
+        "title": "Sustainability Systems Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1766517527,
+        "date_posted": 1766517527,
+        "url": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Sustainability-Systems-Intern_JR104148",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Thyssenkrupp",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
