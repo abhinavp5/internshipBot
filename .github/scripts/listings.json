@@ -65381,7 +65381,7 @@
         "company_name": "Broadridge",
         "id": "fc5407a3-6c0a-42ae-882f-9b4ebf69c596",
         "title": "2026 Summer Internship Program - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -110523,7 +110523,7 @@
         "company_name": "QBE Insurance",
         "id": "83e9b9dd-85c8-494e-ac0f-93e284935350",
         "title": "Data Science and Machine Learning Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -149795,7 +149795,7 @@
         "company_name": "Arch Capital Group",
         "id": "f176244b-7ea1-4fc6-98ad-5325ae2dfdde",
         "title": "IT Analytics Engineer Intern - IT - Enterprise Data",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -239866,7 +239866,7 @@
         "company_name": "KLA",
         "id": "2b540120-6984-4078-b3bd-d40bf96f528b",
         "title": "Product Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -278012,7 +278012,7 @@
         "company_name": "Cirrus Logic",
         "id": "3f69cb97-ec8a-4088-85d9-fbddf16be2c8",
         "title": "Intern - Embedded Machine Learning Engineer - AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
