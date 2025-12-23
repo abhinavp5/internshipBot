@@ -1500,24 +1500,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "F5",
-        "id": "23aac249-abbf-45c2-b5a0-a674d8e23d74",
-        "title": "Hardware Compliance Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1745745143,
-        "date_posted": 1745745143,
-        "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Liberty-Lake/Hardware-Compliance-Intern_RP1032875",
-        "locations": [
-            "Spokane, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/F5",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "American Axle & Manufacturing",
         "id": "bc2254ff-ea70-46b6-a78b-e0dc49f19a69",
@@ -84607,7 +84589,7 @@
         "company_name": "RESPEC",
         "id": "67697e1a-0800-4b63-894c-a9f03c6054b8",
         "title": "Student Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -110967,7 +110949,7 @@
         "company_name": "RESPEC",
         "id": "eeb11883-a57a-42a2-bd99-bf0a7a685d50",
         "title": "Student Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -225808,7 +225790,7 @@
         "company_name": "Advanced Energy",
         "id": "fdbf1e3c-23b1-474a-95be-e2219beb53a8",
         "title": "Intern \u2013 Electronics Service",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
