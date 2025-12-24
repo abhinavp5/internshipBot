@@ -185163,7 +185163,7 @@
         "company_name": "Thales",
         "id": "a1c9c9d5-6b8c-44db-b532-5a97b23bab25",
         "title": "2026 Algorithm Engineering Apprentice \u2013 Level 6 Digital and Technology Solutions Degree Apprentices\u2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -280150,7 +280150,7 @@
         "company_name": "Zoetis",
         "id": "d82faee0-9668-4806-b938-cb414e6b0f88",
         "title": "AI & Digital Manufacturing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
