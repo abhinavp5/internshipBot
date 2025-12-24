@@ -344,34 +344,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Salesforce",
-        "id": "067c25bd-f98b-43ed-a67a-b1ec7b27e227",
-        "title": "Intern - Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1745871243,
-        "date_posted": 1745871243,
-        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Summer-2026-Intern---Software-Engineer_JR293195-1",
-        "locations": [
-            "Palo Alto, CA",
-            "Boston, MA",
-            "Seattle, WA",
-            "Indianapolis, IN",
-            "SF",
-            "Dallas, TX",
-            "New York, NY",
-            "Bellevue, WA",
-            "Atlanta, GA",
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Salesforce",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Nokia",
         "id": "18796743-d643-4be3-b626-975441c50431",
         "title": "Next-Gen AI Co-op/Intern",
