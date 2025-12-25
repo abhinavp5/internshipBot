@@ -134,62 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Intuitive Surgical",
-        "id": "7b80fd65-531d-4dcf-a4fc-6d4ae4394da1",
-        "title": "Software Engineering Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1745965556,
-        "date_posted": 1745965556,
-        "url": "https://jobs.smartrecruiters.com/Intuitive/744000056483405",
-        "locations": [
-            "Durham, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Mr. Cooper",
-        "id": "0224fc29-15b3-4fe2-8490-9260c8c91079",
-        "title": "Quantitative Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1745967448,
-        "date_posted": 1745967448,
-        "url": "https://nationstar.wd5.myworkdayjobs.com/mrcooper/job/Cypress-Waters---Dallas-TX/XMLNAME-2025-Summer-Intern-Program---Quantitative-Analyst-Intern_023848",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/21c673f4-d5e4-401d-aa12-c91bc6aa44fb",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Aledade",
-        "id": "d53c6162-37f7-49f7-8881-319eb456e281",
-        "title": "Internship - Web Analyst",
-        "active": false,
-        "terms": [],
-        "date_updated": 1745967004,
-        "date_posted": 1745967004,
-        "url": "https://jobs.lever.co/aledade/8465e84c-791c-4253-8cf2-e3de4a240a38/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Aledade",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Nokia",
         "id": "72308833-334c-46e0-b990-cb78a75c635c",
         "title": "AI Agent Developer Co-op/Intern",
@@ -196692,7 +196636,7 @@
         "company_name": "Boson Ai",
         "id": "e6450ce0-c0b2-4433-9d87-431b44b1b70d",
         "title": "Mscac Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
