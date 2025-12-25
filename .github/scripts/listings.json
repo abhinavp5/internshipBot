@@ -283844,5 +283844,30 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ATCO",
+        "id": "6d25a836-5f02-474a-a18b-3379c883bee0",
+        "title": "May 2026 Engineering \u2013 Co-op - Electric Division - Multiple",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766669857,
+        "date_posted": 1766445342,
+        "url": "https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19317",
+        "locations": [
+            "Grande Prairie, AB, Canada",
+            "Calgary, AB, Canada",
+            "Kitscoty, AB, Canada",
+            "Edmonton, AB, Canada",
+            "Viking, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/ATCO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
