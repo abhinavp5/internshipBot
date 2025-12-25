@@ -283823,5 +283823,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Archer",
+        "id": "c68d829e-34ea-40c0-89be-cd356436d699",
+        "title": "Software Engineer Intern - Electric Engine",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766651112,
+        "date_posted": 1766651112,
+        "url": "https://job-boards.greenhouse.io/archer56/jobs/7570844003",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Archer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
