@@ -134,67 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Tesla",
-        "id": "dc95581a-9baa-4ea4-a987-4f3e4e3610e6",
-        "title": "Internship - Software Engineer - Integration - AI Platforms",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1745907873,
-        "date_posted": 1745907873,
-        "url": "https://www.tesla.com/careers/search/job/242189",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Tesla",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Tesla",
-        "id": "7f78ee71-3541-4bf6-b1a6-c7016042a6da",
-        "title": "Internship - Software Engineer - Update Systems",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1745907872,
-        "date_posted": 1745907872,
-        "url": "https://www.tesla.com/careers/search/job/242185",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Tesla",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Tesla",
-        "id": "e5aba06d-7e55-42b3-8f93-d8e4e984246b",
-        "title": "Internship - Fullstack Engineer - Optimus Tooling",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1745907872,
-        "date_posted": 1745907872,
-        "url": "https://www.tesla.com/careers/search/job/242190",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Tesla",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Nokia",
         "id": "18796743-d643-4be3-b626-975441c50431",
         "title": "Next-Gen AI Co-op/Intern",
@@ -281727,7 +281666,7 @@
         "company_name": "McKesson",
         "id": "3c846126-bcc8-4ec3-be85-3ccde9511bcf",
         "title": "Compliance Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
