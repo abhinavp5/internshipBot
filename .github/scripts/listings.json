@@ -134,61 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "DeepIntent",
-        "id": "28bf94ed-aece-44f3-9c5e-c662c61c07f2",
-        "title": "AI Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1746038640,
-        "date_posted": 1746038640,
-        "url": "https://job-boards.greenhouse.io/deepintent/jobs/5530250004",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/DeepIntent",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Highspot",
-        "id": "f680f7d7-b055-437a-b454-e64f4987d2f5",
-        "title": "Associate Engineer Internship",
-        "active": false,
-        "terms": [],
-        "date_updated": 1746039174,
-        "date_posted": 1746039174,
-        "url": "https://jobs.lever.co/highspot/3cd0d0b8-d281-44c8-92b6-20714a3d47e6/apply",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Highspot",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Rocket Lab USA",
-        "id": "966b3ec7-23d1-4bac-951c-e1bc89a8836c",
-        "title": "Flight Software Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1746039761,
-        "date_posted": 1746039761,
-        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/6546477003",
-        "locations": [
-            "Long Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Businessolver",
         "id": "0799c405-f3c2-49e4-92d5-f1a26b876572",
         "title": "Business Intelligence Internship",
@@ -143198,7 +143143,7 @@
         "company_name": "Marvell",
         "id": "9a3dfb4e-5f83-403a-9578-e88a30e583b5",
         "title": "Failure Analysis Engineer Intern - Failure Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -198178,7 +198123,7 @@
         "company_name": "Waymo",
         "id": "f41d3677-2908-4db7-b229-a87b20af2a86",
         "title": "2026 Summer Intern - MS/PhD - Low-bit Model Quantization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
