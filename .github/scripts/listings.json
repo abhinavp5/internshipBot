@@ -134,27 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Tesla",
-        "id": "f06a44a4-ede3-4cee-b468-21cd16ade2a6",
-        "title": "Internship - Fullstack Software Engineer - Machine Learning Platform - AI Infrastructure",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1745994030,
-        "date_posted": 1745994030,
-        "url": "https://www.tesla.com/careers/search/job/242174",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Tesla",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DeepIntent",
         "id": "28bf94ed-aece-44f3-9c5e-c662c61c07f2",
         "title": "AI Engineering Intern",
@@ -282035,7 +282014,7 @@
         "company_name": "RTX",
         "id": "073bc550-abc5-4287-a1d3-a3d7ce1f7184",
         "title": "Electrical Engineer Co-Op - Test & Validation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
