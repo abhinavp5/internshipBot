@@ -233912,7 +233912,7 @@
         "company_name": "National Renewable Energy Laboratory",
         "id": "b19e7c80-8ff3-4a1f-add3-323a117ec93f",
         "title": "Post-Undergraduate/Graduate \u2013 Data Engineering Intern - Year-Round",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -234062,7 +234062,7 @@
         "company_name": "National Renewable Energy Laboratory",
         "id": "0c6a19cd-1783-4958-b496-b1d65539847d",
         "title": "Post-Undergraduate/Graduate \u2013 Software Engineering Intern for Grid Modeling Applications - Year-Round",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -264661,7 +264661,7 @@
         "company_name": "Zscaler",
         "id": "f6ef0152-835c-4eec-a3f3-2a0c1fdcfbc7",
         "title": "Product Manager Intern - Cybersecurity",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -282370,7 +282370,7 @@
         "company_name": "Roche",
         "id": "38c91d95-996b-405f-aa24-f6d2546c8f5f",
         "title": "Intern - Systems Engineer - Systems & Hardware Engineering Chapter",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
