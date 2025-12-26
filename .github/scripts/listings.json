@@ -161788,7 +161788,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Motive",
-        "id": "98ba106f-eee0-47db-a33a-d94c43898f0b",
+        "id": "e1ed9c7c-c0f9-41f8-b8a1-c53f1732ff5e",
         "title": "Embedded Engineer Intern",
         "active": true,
         "terms": [
@@ -240618,7 +240618,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "da8914dd-354d-488f-81ba-9645d2b6693c",
         "title": "Software Integration Engineer Grad Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -264792,7 +264792,7 @@
         "company_name": "Public Service Enterprise Group",
         "id": "b0958166-baf3-41f3-aca5-9ab4535c6e3b",
         "title": "Technical Intern - Gas Operations GIS South",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -268047,7 +268047,7 @@
         "company_name": "Veolia",
         "id": "e1fe41cc-603f-4c20-80f4-4610a15f4f2b",
         "title": "Intern - General",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -269745,7 +269745,7 @@
         "company_name": "Genentech",
         "id": "7be0efe2-86d5-4b74-9b17-3582834c3b40",
         "title": "Intern - CMG Learning and Skill Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -273941,7 +273941,7 @@
         "company_name": "Veolia",
         "id": "bda2a9c7-30bd-49f4-970c-9c7f4e9898e3",
         "title": "Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
