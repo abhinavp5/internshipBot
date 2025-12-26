@@ -24305,7 +24305,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/GE-Vernova?utm_source=GHList&utm_medium=company">GE Vernova</a></strong></td>
+<td>↳</td>
 <td>GE Vernova Marketing and Commercial Data and Process Enablement Intern - Summer 2026</td>
 <td>Houston, TX</br>Longmont, CO</td>
 <td><div align="center"><a href="https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Longmont/GE-Vernova-Marketing-and--Commercial-Data-and-Process-Enablement-Intern---Summer-2026_R5021156-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/04a5903e-e933-4b2b-a1ee-999acfd6d4c2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
