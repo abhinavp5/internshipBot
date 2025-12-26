@@ -1809,27 +1809,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Invoice Cloud",
-        "id": "b92a39fc-d1dd-44f6-9a5c-e28e52ceb53b",
-        "title": "Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1746623819,
-        "date_posted": 1746052723,
-        "url": "http://invoicecloud.net/careers/open-positions?gh_jid=6561354003",
-        "locations": [
-            "Boston, MA",
-            "Quincy, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Invoice-Cloud",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "NVIDIA",
         "id": "3d528fad-bfcf-45b1-918a-b6416f3c45c6",
@@ -191613,7 +191592,7 @@
         "company_name": "Centerstone",
         "id": "a853c26b-c125-4b3d-a2be-290209970432",
         "title": "Bachelor Level Intern Spring Semester - ",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -197758,7 +197737,7 @@
         "company_name": "Waymo",
         "id": "c88e3ce8-775d-4abd-a1f8-ddd309487065",
         "title": "2026 Summer Intern - MS/PhD - ML Architecture - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -211676,7 +211655,7 @@
         "company_name": "Waymo",
         "id": "25fffaf4-c1f5-415d-85c4-a9785acb31c4",
         "title": "2026 Summer Intern - BS/MS - Positioning - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -275301,7 +275280,7 @@
         "company_name": "Motorola",
         "id": "25c10f28-e59e-45e8-82af-1153992322c4",
         "title": "Data Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -281478,7 +281457,7 @@
         "company_name": "VSP Vision",
         "id": "f53f6e6e-64ca-4805-85c9-9958ab1a5ac9",
         "title": "Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
