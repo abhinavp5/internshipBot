@@ -134,43 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "American Axle & Manufacturing",
-        "id": "3b1775c2-f21c-4262-a51e-b1e5d11c61a4",
-        "title": "Product Engineering Co-Op",
-        "active": false,
-        "terms": [],
-        "date_updated": 1746080177,
-        "date_posted": 1746080177,
-        "url": "https://aampower.wd1.myworkdayjobs.com/aam-career-site/job/Detroit-MI/Product-Engineering-Co-Op_JREQ-216016",
-        "locations": [
-            "Detroit, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Axle-And-Manufacturing",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Tesla",
-        "id": "9f3fd448-d82d-4abe-b364-0b7862c157aa",
-        "title": "Internship - C++ Robotics Software Engineer - Optimus",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1746080401,
-        "date_posted": 1746080401,
-        "url": "https://www.tesla.com/careers/search/job/242272",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Tesla",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Autodesk",
         "id": "7a6cc4fd-04b5-43eb-bca5-b3b9561138a8",
         "title": "Intern \u2013 AI Developer / Stagiaire en d\u00e9veloppement IA",
@@ -257532,7 +257495,7 @@
         "company_name": "The Federal Reserve System",
         "id": "050e06ff-336a-432d-883a-47b2eaf05b4a",
         "title": "BTS Records & Information Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
