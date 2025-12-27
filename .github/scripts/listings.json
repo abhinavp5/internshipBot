@@ -134,23 +134,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Autodesk",
-        "id": "7a6cc4fd-04b5-43eb-bca5-b3b9561138a8",
-        "title": "Intern \u2013 AI Developer / Stagiaire en d\u00e9veloppement IA",
-        "active": false,
-        "terms": [],
-        "date_updated": 1746116462,
-        "date_posted": 1746116462,
-        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Montreal-QC-CAN/Intern--AI-Developer---Stagiaire-en-dveloppement-IA_25WD88193",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Leidos",
         "id": "6cb10bc4-7258-4ac0-8964-36e4d6bbd4b7",
         "title": "Software Specialist Intern",
@@ -212756,7 +212739,7 @@
         "company_name": "LinkedIn",
         "id": "4145fa34-a3e7-4c03-94ca-76d6d02e4386",
         "title": "AI/ML Engineer Intern - Master's - Summer 2026 - Mountain View - CA",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -236870,7 +236853,7 @@
         "company_name": "LinkedIn",
         "id": "fa7e7c93-38f2-4017-b3c5-f46831cd229b",
         "title": "AI/ML Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
