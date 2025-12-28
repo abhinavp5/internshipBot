@@ -4099,27 +4099,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Alice L. Walton School of Medicine",
-        "id": "ab658957-bc85-426a-9631-17426f5c09b2",
-        "title": "Education Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1747315572,
-        "date_posted": 1746211282,
-        "url": "https://awe.wd1.myworkdayjobs.com/art_and_wellness/job/Bentonville-AR/XMLNAME-2025-Education-Data-Analyst--Fall_JR1634-2",
-        "locations": [
-            "Bentonville, AR"
-        ],
-        "company_url": "https://simplify.jobs/c/Alice-L-Walton-School-Of-Medicine",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Amgen",
         "id": "ce4bd948-2c14-46f1-a057-d5875bcd7e9a",
@@ -223940,7 +223919,7 @@
         "company_name": "Iridium Communications",
         "id": "4453e83a-2847-485d-b202-f4c787d99591",
         "title": "Iridium Product Management \u2013 Internship - Sales - Marketing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
