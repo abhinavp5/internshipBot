@@ -4101,27 +4101,6 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Alice L. Walton School of Medicine",
-        "id": "f99b5cdc-c1a6-49b7-a1fc-9d8fbbb6b2b9",
-        "title": "Education Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1747314651,
-        "date_posted": 1746206334,
-        "url": "https://awe.wd1.myworkdayjobs.com/art_and_wellness/job/Bentonville-AR/XMLNAME-2025-Education-Data-Analyst--Fall_JR1635-2",
-        "locations": [
-            "Bentonville, AR"
-        ],
-        "company_url": "https://simplify.jobs/c/Alice-L-Walton-School-Of-Medicine",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Alice L. Walton School of Medicine",
         "id": "ab658957-bc85-426a-9631-17426f5c09b2",
         "title": "Education Data Analyst Intern",
         "active": false,
@@ -125595,7 +125574,7 @@
         "company_name": "RESPEC",
         "id": "7e3150d2-3408-4a2a-8c6f-7634903812d8",
         "title": "Student Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
