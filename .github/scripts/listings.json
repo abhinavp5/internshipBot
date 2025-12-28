@@ -134,24 +134,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Trimble",
-        "id": "197f4497-4f43-41a8-aa6c-65ae359b6f82",
-        "title": "Component Engineering Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1746203781,
-        "date_posted": 1746203781,
-        "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OH-Dayton/Component-Engineering-Intern_R49774",
-        "locations": [
-            "Dayton, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Trimble",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Splunk",
         "id": "9007b196-a92a-4037-b7a0-fdeb373b1fd2",
@@ -123593,7 +123575,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "cd1eeddf-de6b-42cb-93a8-e468e9b5f219",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -242995,7 +242977,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "417871cd-9f57-4003-ba18-d9cab6796608",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -281784,7 +281766,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Robert Bosch Venture Capital",
-        "id": "9f0f67e3-fa5c-4310-9862-3510999ec378",
+        "id": "a3e064cb-e293-4915-86b3-dbca1858d0c4",
         "title": "Security Research Intern",
         "active": true,
         "terms": [
