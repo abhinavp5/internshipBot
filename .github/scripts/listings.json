@@ -192,26 +192,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hewlett Packard (HP)",
-        "id": "2484c73e-67dc-494a-974e-9265861f9c29",
-        "title": "Digital and Transformation Software Internship",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1746225308,
-        "date_posted": 1746225308,
-        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Digital-and-Transformation-Software-Internship_3141294-1",
-        "locations": [
-            "Spring, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Blend",
         "id": "559352b1-da05-4bb2-9689-d206a285c512",
@@ -216935,7 +216915,7 @@
         "company_name": "IDeaS",
         "id": "d149d6a9-f6ff-4075-a7c0-cbd1b4464478",
         "title": "Data Scientist Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
