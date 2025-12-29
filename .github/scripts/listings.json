@@ -133,26 +133,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Verkada",
-        "id": "b985c2e9-afbf-4483-8caf-535dd499e166",
-        "title": "Hardware Engineer",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1746253430,
-        "date_posted": 1746253430,
-        "url": "https://job-boards.greenhouse.io/verkada/jobs/4321159007",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Verkada",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1752133532,
         "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20099",
         "company_name": "Nokia",
