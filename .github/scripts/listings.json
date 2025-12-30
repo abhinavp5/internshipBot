@@ -133,42 +133,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Unisys",
-        "id": "c53ebde2-c99f-48eb-a414-b2f1714f5260",
-        "title": "Software Engineer",
-        "active": false,
-        "terms": [],
-        "date_updated": 1746394346,
-        "date_posted": 1746394346,
-        "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Blue-Bell-PA-United-States-of-America/Software-Engineer-Drexel-Co-op_REQ565136",
-        "locations": [
-            "Ambler, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/f36d80a6-23f4-416c-bd74-b85753adb3b7",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Unisys",
-        "id": "7dbb3cee-67bc-4a70-a44e-f7fe074afe3d",
-        "title": "Software Engineer",
-        "active": false,
-        "terms": [],
-        "date_updated": 1746394509,
-        "date_posted": 1746394509,
-        "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Blue-Bell-PA-United-States-of-America/Software-Engineer-Drexel-Co-op_REQ565137",
-        "locations": [
-            "Ambler, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/f36d80a6-23f4-416c-bd74-b85753adb3b7",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1746424134,
         "url": "https://jobs.bombardier.com/job/Dorval-Intern-in-Information-Technology-%28Summer-2025%29-Qu%C3%A9b-H4S-2A3/1165981501",
         "company_name": "Bombardier",
@@ -77852,7 +77816,7 @@
         "company_name": "HMH",
         "id": "c8d678a5-30cb-4a88-b4be-bf11fa8e371b",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -189447,7 +189411,7 @@
         "company_name": "Cencora",
         "id": "19b4f3c5-5650-43b7-83f8-9a9378ae889a",
         "title": "Data & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -191902,7 +191866,7 @@
         "company_name": "KLA",
         "id": "cbbeed55-9f7b-460e-8282-478f3600d352",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -194998,7 +194962,7 @@
         "company_name": "Altera Corporation",
         "id": "b82d8dc0-de3a-43ac-9e9f-c82b46b7b62c",
         "title": "FPGA Design Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -205756,7 +205720,7 @@
         "company_name": "Medpace, Inc.",
         "id": "56943d8d-4232-451e-9d14-995fcd3ebe27",
         "title": "Informatics Internship/Co-Op Spring 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -252525,7 +252489,7 @@
         "company_name": "Invenergy",
         "id": "d6ea3e56-748d-43ec-8ed8-c6fb73966f48",
         "title": "Intern Data Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -272609,7 +272573,7 @@
         "company_name": "Sandisk",
         "id": "64ffe8dd-9747-4454-8276-306763e02876",
         "title": "Summer 2026 Intern - Firmware Verification Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -274829,7 +274793,7 @@
         "company_name": "Altom Transport",
         "id": "3240644b-bfad-4e09-9c7c-5972eea6bc1c",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -278652,7 +278616,7 @@
         "company_name": "Nokia",
         "id": "c51a156c-cadc-4ca7-934f-f965ede55529",
         "title": "Data Science Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -284066,7 +284030,7 @@
         "company_name": "HBK Capital Management",
         "id": "be896a02-b5ce-46d7-90a3-3f5650d31c3a",
         "title": "Software Engineer Strategy Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
