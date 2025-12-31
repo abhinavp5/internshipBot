@@ -164080,7 +164080,7 @@
         "company_name": "Netflix",
         "id": "51741b3e-7a65-4ff5-8e5e-582dbcae8aa9",
         "title": "Machine Learning/AI Scientist Intern - PhD - 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -271499,7 +271499,7 @@
         "company_name": "Genentech",
         "id": "b58c3c09-7bfa-4e32-9b3f-73e5133f8ef3",
         "title": "Intern - Genentech Gred Computational Sciences - Center of Excellence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -275304,7 +275304,7 @@
         "company_name": "Genentech",
         "id": "367d904b-c681-4996-9bc3-cd9e853dd7cd",
         "title": "2026 Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
