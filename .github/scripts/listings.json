@@ -134,165 +134,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nokia",
-        "id": "f0cb3639-6dc7-4a9f-9eeb-e3f0abc14d27",
-        "title": "Embedded C/C++ SW Developer Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1746472692,
-        "date_posted": 1746472692,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20364",
-        "locations": [
-            "Kanata, Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nokia",
-        "id": "71177361-4df4-4c8f-ab38-ffee6d3669b3",
-        "title": "DSP Firmware Engineering Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1746472681,
-        "date_posted": 1746472681,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20313",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Capital One",
-        "id": "9139048c-1afb-4c8e-996f-e66f67c6ea31",
-        "title": "Intern \u2013 Data Scientist",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1746472519,
-        "date_posted": 1746472519,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist--Fall-2025-_R214895",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Capital One",
-        "id": "c98d98bc-cd59-4fef-bd06-c97b6e61b2c4",
-        "title": "Intern \u2013 Full Stack Software Engineer - Team Cia",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1746472507,
-        "date_posted": 1746472507,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-CIA---Fall-2025_R215349",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Capital One",
-        "id": "ab964c01-867c-4a94-8329-d4587739dccf",
-        "title": "Intern \u2013 Full Stack Software Engineer - Team The6Ix",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1746472505,
-        "date_posted": 1746472505,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-The6ix---Fall-2025_R215348",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Capital One",
-        "id": "840acf05-df8b-4618-91fe-b70815f1be5a",
-        "title": "Intern \u2013 Full Stack Software Engineer - Team Velocity Black",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1746472509,
-        "date_posted": 1746472509,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Velocity-Black---Fall-2025_R215353",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "TD Bank",
-        "id": "4f66d7db-dbf0-4d23-849c-ae6c203e8e3a",
-        "title": "Global Markets Intern/Co-op - Fx - FI & Precious Metals Distribution",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1746474179,
-        "date_posted": 1746474179,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Global-Markets-Intern-Co-op---FX--FI---Precious-Metals-Distribution--Fall-2025-_R_1418689",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GeoComply",
-        "id": "cce162be-73fa-408a-b7a3-ae7c1f2c7298",
-        "title": "Data Scientist Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1746473822,
-        "date_posted": 1746473822,
-        "url": "https://jobs.lever.co/geocomply-2/f99c826c-8a04-4384-b773-3bb97f900097/apply",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/GeoComply",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Super",
         "id": "d00d6713-5585-469b-85e1-b67e606e3411",
@@ -83487,7 +83328,7 @@
         "company_name": "The Toro Company",
         "id": "be6aa4eb-60ca-45bf-86c4-495c41a5889d",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -261703,7 +261544,7 @@
         "company_name": "The Toro Company",
         "id": "bfc82abf-0764-4f25-ad22-ed747406698b",
         "title": "IBP Data Management Intern - The Toro Company",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
