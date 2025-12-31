@@ -152,26 +152,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Capital One",
-        "id": "6fddd4b8-f091-453b-97fc-3918f85157cd",
-        "title": "Intern \u2013 Full Stack Software Engineer - Customer Acquisitions",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1746456530,
-        "date_posted": 1746456530,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Customer-Acquisitions---Fall-2025_R215347",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Aledade",
         "id": "f0827bfc-550c-4c6f-98f1-4d4ea72bdf96",
@@ -185,66 +165,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Aledade",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Capital One",
-        "id": "80553404-d37d-44b8-ae64-2f5c443b3500",
-        "title": "Intern \u2013 Backend Software Engineer",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1746456531,
-        "date_posted": 1746456531,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Canusa-Street---Fall-2025_R215346",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Capital One",
-        "id": "6201ffc1-3189-45dc-a44b-7c3c8b214dc6",
-        "title": "Intern \u2013 Backend Software Engineer - Team Arcus",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1746456530,
-        "date_posted": 1746456530,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Arcus---Fall-2025_R215514",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Capital One",
-        "id": "043a1716-ccbc-4525-9cfb-c68cc026148d",
-        "title": "Intern \u2013 IOS Software Engineer - Team Capital One Travel",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1746456530,
-        "date_posted": 1746456530,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--iOS-Software-Engineer---Team-Capital-One-Travel---Fall-2025_R215356",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -366,27 +286,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "bacef4b9-db33-4826-b75b-67181e9a7907",
-        "title": "Software Developer Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1746456803,
-        "date_posted": 1746456803,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19365",
-        "locations": [
-            "Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -147685,7 +147584,7 @@
         "company_name": "Arch Capital Group",
         "id": "f176244b-7ea1-4fc6-98ad-5325ae2dfdde",
         "title": "IT Analytics Engineer Intern - IT - Enterprise Data",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -284075,7 +283974,7 @@
         "company_name": "SteerBridge",
         "id": "38a4bfc3-d79e-42ad-8c5a-6ba443491f1b",
         "title": "Intern Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
