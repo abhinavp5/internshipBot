@@ -133,25 +133,6 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1746424134,
-        "url": "https://jobs.bombardier.com/job/Dorval-Intern-in-Information-Technology-%28Summer-2025%29-Qu%C3%A9b-H4S-2A3/1165981501",
-        "company_name": "Bombardier",
-        "title": "Intern in Information Technology (Summer 2025)",
-        "locations": [
-            "Dorval, Qu\u00e9bec, Canada"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "source": "GaryZhous",
-        "id": "887de1e1-cf59-4470-8319-ff0d6c46a3c8",
-        "date_posted": 1746424134,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Ontario Teachers' Pension Plan",
@@ -245403,7 +245384,7 @@
         "company_name": "Micron Technology",
         "id": "158fa4be-60fd-4c5d-89ec-307e47335eb4",
         "title": "Intern \u2013 AI/DA Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
