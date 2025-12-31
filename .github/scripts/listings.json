@@ -135,46 +135,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Super",
-        "id": "d00d6713-5585-469b-85e1-b67e606e3411",
-        "title": "Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1746477599,
-        "date_posted": 1746477599,
-        "url": "https://jobs.lever.co/super-com/119e5a3d-af46-4602-aaa1-35f9f7fce4fc/apply",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Super",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Leidos",
-        "id": "f3aa84ce-e3f1-4558-81ad-e8854ad77b45",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2025"
-        ],
-        "date_updated": 1746479053,
-        "date_posted": 1746479053,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Petersburg-FL/Software-Engineer-Intern_R-00158666",
-        "locations": [
-            "St. Petersburg, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Western Digital",
         "id": "47a1f9a4-8c0c-4e2a-a9da-51d671c56120",
         "title": "Summer 2025 Intern - Applications Engineering",
