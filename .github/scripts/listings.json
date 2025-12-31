@@ -249583,7 +249583,7 @@
         "company_name": "Smith+Nephew",
         "id": "c95fcd2f-533a-40ec-94a7-43941d7ecba1",
         "title": "Intern/Co-op \u2013 Operational Technology Engineer - Memphis - TN",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -266174,7 +266174,7 @@
         "company_name": "Anoka County Minnesota",
         "id": "dec77533-f543-4c12-8e95-2844f7a2b438",
         "title": "Associate Crime Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -275027,7 +275027,7 @@
         "company_name": "T-Mobile",
         "id": "4183ed67-5187-41f1-932a-db0cc201fc05",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
