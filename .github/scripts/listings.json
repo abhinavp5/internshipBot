@@ -278835,7 +278835,7 @@
         "company_name": "Arch Capital Group",
         "id": "b5ee5175-e0a8-4b2b-bd1a-6457c28830da",
         "title": "Insurance Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -283570,7 +283570,7 @@
         "company_name": "Nutanix",
         "id": "4517181b-c420-4514-a0df-1059ec52b260",
         "title": "Software Engineering Intern - Undergrad ONLY - Distributed systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
