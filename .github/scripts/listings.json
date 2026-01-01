@@ -216837,7 +216837,7 @@
         "company_name": "Takeda",
         "id": "e1c0821d-3cf6-4f6c-95e0-2a00c95fd6d1",
         "title": "2026 Summer Internship Program: US New Product Launches \u2013 Intern - Data - Digital & Technology - DD&T",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -218821,7 +218821,7 @@
         "company_name": "Formlabs",
         "id": "599f2c62-2e11-4a28-ad8d-e92b10e424c4",
         "title": "Print Optimization Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -279083,7 +279083,7 @@
         "company_name": "Micron Technology",
         "id": "549904da-b528-46c2-85b8-665b5a4d4417",
         "title": "Intern \u2013 Global Environmental Compliance",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -284717,6 +284717,48 @@
             "LA"
         ],
         "company_url": "https://simplify.jobs/c/Fehr-And-Peers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zoetis",
+        "id": "075039d5-afbb-4ba6-a32f-6a52771de8fc",
+        "title": "Tech and Digital Intern: Process Optimization & Automation Developer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764832905,
+        "date_posted": 1764832905,
+        "url": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Parsippany/Tech-and-Digital-Intern---Process-Optimization---Automation-Developer_JR00019607-2",
+        "locations": [
+            "Parsippany-Troy Hills, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoetis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Charter Manufacturing",
+        "id": "94f867a0-4dd9-42dd-bdf5-19c5fcc11d6c",
+        "title": "Digital Industry Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765626140,
+        "date_posted": 1765626140,
+        "url": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Saukville-WI/Digital-Industry-40-Intern---Summer-2026_R07141",
+        "locations": [
+            "Grafton, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Charter-Manufacturing",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
