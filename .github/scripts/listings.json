@@ -264092,7 +264092,7 @@
         "company_name": "Baselayer",
         "id": "0752126c-b743-4d01-b298-21dd4893d3f0",
         "title": "Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -264181,7 +264181,7 @@
         "company_name": "Baselayer",
         "id": "b8e1d27f-b9ab-4f70-bbcf-f90c153eb521",
         "title": "Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -284654,6 +284654,27 @@
             "Boca Raton, FL"
         ],
         "company_url": "https://simplify.jobs/c/ModMed",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Charles River Associates (CRA)",
+        "id": "f00b59d2-c88c-4497-aa6d-b2681de9fb46",
+        "title": "Intern \u2013 Antitrust & Competition Economics Practice",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1758608796,
+        "date_posted": 1758608796,
+        "url": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/7259125",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Charles-River-Associates",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
