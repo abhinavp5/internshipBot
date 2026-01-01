@@ -133,64 +133,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "American Electric Power",
-        "id": "055ac22c-965f-48fa-8641-b21668ac815b",
-        "title": "Load Research \u2013 Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1746562502,
-        "date_posted": 1746562502,
-        "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Load-Research---Intern_R8592",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Electric-Power",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "SS&C",
-        "id": "a64fe5db-e9d4-4463-92e1-6338175c4589",
-        "title": "Summer Intern - Machine Learning",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1746562291,
-        "date_posted": 1746562291,
-        "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/London-UK/Summer-Intern--Machine-Learning_R33447",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/SSC",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "SS&C",
-        "id": "3a4bbff8-98df-47fb-86af-952129b22d78",
-        "title": "Summer Intern - Machine Learning",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1746562969,
-        "date_posted": 1746562969,
-        "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/London-UK/Summer-Intern--Machine-Learning_R33446",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/SSC",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1752133269,
         "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19305",
         "company_name": "Nokia",
@@ -122445,7 +122387,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "ccc105ff-5dae-4442-9318-b636784164f9",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -232260,7 +232202,7 @@
         "company_name": "Shure",
         "id": "dbfe6459-45e8-40be-b954-8c607b54b4e8",
         "title": "Global Product Management Intern - Content Creation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -239090,7 +239032,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "f5fa5008-5492-4008-ab41-c793fb26dc3c",
         "title": "Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -243935,7 +243877,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "9446fe88-ca32-4044-9c9a-f948a1d294ba",
         "title": "Software Developer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -265292,7 +265234,7 @@
         "company_name": "Fresenius Medical Care",
         "id": "9e665bc8-eeb3-437e-99bd-e727e7286679",
         "title": "IT Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -285649,6 +285591,69 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Wing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AbbVie",
+        "id": "e2367c3d-4be5-4b5d-aff3-039fec081dac",
+        "title": "Statistics Intern - PhD",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766222335,
+        "date_posted": 1766222335,
+        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990010808696",
+        "locations": [
+            "Livingston, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/AbbVie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AbbVie",
+        "id": "d043fb48-1906-4d28-b1e4-b9ba4ef5d0df",
+        "title": "Statistics Intern - PhD",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766171378,
+        "date_posted": 1766171378,
+        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990010808736",
+        "locations": [
+            "Waukegan, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/AbbVie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AbbVie",
+        "id": "a5cda7bd-0d20-423e-961b-e5c7a69d1584",
+        "title": "Statistics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763162754,
+        "date_posted": 1763162754,
+        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990010808715",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AbbVie",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
