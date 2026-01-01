@@ -134,47 +134,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Formlabs",
-        "id": "06a26793-67b1-43e9-8a00-cd93a37230c5",
-        "title": "Hardware Systems Engineering Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Summer 2025"
-        ],
-        "date_updated": 1746554925,
-        "date_posted": 1746554925,
-        "url": "https://careers.formlabs.com/job/6830753/apply/?gh_jid=6830753",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Formlabs",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Blue Yonder",
-        "id": "44e7512a-e7ce-4795-b102-e40c808db06b",
-        "title": "Network Trading Partner Growth Intern \u2013 Sales Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1746555647,
-        "date_posted": 1746555647,
-        "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Network-Trading-Partner-Growth-Intern--Sales-Intern-_251779-1",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "GeoComply",
         "id": "669a0773-ee6b-4ec4-ad3c-ddf4f6254706",
@@ -123507,7 +123466,7 @@
         "company_name": "W.R. Berkley",
         "id": "0c7562e6-7d8e-4ada-b934-9b6bdd000c2f",
         "title": "Intern \u2013 Software Developer - Reactjs",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -205082,7 +205041,7 @@
         "company_name": "Elf Beauty",
         "id": "8ec9f794-a761-4d9b-9d61-9c3f86bce2e4",
         "title": "Intern \u2013 Retail Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -207807,7 +207766,7 @@
         "company_name": "Dow Chemical Company",
         "id": "9db87fa6-fa09-452c-b6eb-cfd7ea1697cb",
         "title": "2025 \u2013 2026 Campus Internship - Research & Development - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2026",
@@ -208176,7 +208135,7 @@
         "company_name": "Altamira Technologies",
         "id": "04b6eb42-113a-42c1-b076-63d0552bd5f4",
         "title": "Active Geolocation Operator \u2013 Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -210811,7 +210770,7 @@
         "company_name": "OmniSource",
         "id": "5a0de67c-94b7-4303-8869-fd2a1c1b129e",
         "title": "Data Analytics Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -213986,7 +213945,7 @@
         "company_name": "Westwood",
         "id": "3544929e-1e95-411e-bbe7-74fd11a79140",
         "title": "Noise Control & Acoustics Intern - Noise Control - Acoustics",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -214181,7 +214140,7 @@
         "company_name": "Legrand NA",
         "id": "458d3f94-3485-481b-9c89-637846a1a233",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -226748,7 +226707,7 @@
         "company_name": "Dow Chemical Company",
         "id": "fe1fe6e2-8217-4720-a541-83510cc94fdf",
         "title": "Campus Intern - Research & Development - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2026"
@@ -234152,7 +234111,7 @@
         "company_name": "Endeavor Air",
         "id": "3019cc40-461e-4db1-8f5d-411364ad6c07",
         "title": "Safety Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -285473,6 +285432,48 @@
             "Philadelphia, PA"
         ],
         "company_url": "https://simplify.jobs/c/WSP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Legrand",
+        "id": "80a2e16d-bc7a-4e5e-b130-619172a01b7a",
+        "title": "Product Marketing Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1767284239,
+        "date_posted": 1767222775,
+        "url": "https://jobs-legrand.icims.com/jobs/9622/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Farmington, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Legrand",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "KLA",
+        "id": "fbbb9c4c-9486-4f34-9dbf-69a6f2fa0bbb",
+        "title": "Product Marketing Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765901761,
+        "date_posted": 1765901761,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Totowa-NJ/Product-Marketing-Intern_2533061-1",
+        "locations": [
+            "Paterson, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
