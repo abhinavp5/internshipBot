@@ -170383,7 +170383,7 @@
         "company_name": "Legrand",
         "id": "b31d0e34-3c2d-4ab8-b48c-c8aaa564942f",
         "title": "Information Systems Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -184425,7 +184425,7 @@
         "company_name": "Motorola",
         "id": "73003e55-1891-44d5-9b6e-d31f4ae759f0",
         "title": "North America Solutions Deployment & Integration \u2013 Engineering Operations Summer Intern - Sdi - 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -188023,7 +188023,7 @@
         "company_name": "DTCC",
         "id": "a5313db8-6f83-49ec-bac5-23dc3d8262be",
         "title": "Model Risk Intern \u2013 2026 Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -202512,7 +202512,7 @@
         "company_name": "Micron Technology",
         "id": "e9b46f70-f66f-4653-8a9a-a841d47b8b8f",
         "title": "Process Control Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -224045,7 +224045,7 @@
         "company_name": "Oshkosh",
         "id": "a79b588a-7ae8-4b0c-94d9-cfcfe4bd015b",
         "title": "Electronics & Controls Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -230657,7 +230657,7 @@
         "company_name": "Shield AI",
         "id": "3c8db8c3-dd71-4163-b312-44b7a6249f37",
         "title": "Radio Frequency Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -230988,7 +230988,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "4123bf09-a168-4560-b447-28fdc6d9922b",
         "title": "Training Database Administrator & Curricula Developer Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -234584,7 +234584,7 @@
         "company_name": "Fortive",
         "id": "ef8f6517-370a-40fa-ac37-488042c18150",
         "title": "Research Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -237771,7 +237771,7 @@
         "company_name": "Analog Devices",
         "id": "de9115b2-a1f6-4f85-8ed3-20d2ecb207d3",
         "title": "Communication & Data Transmission Algorithms",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -272995,7 +272995,7 @@
         "company_name": "Vistra",
         "id": "373d4eb9-b3b3-4a6e-8eac-dca96e8ad1c1",
         "title": "Intern - Maintenance",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -284762,5 +284762,92 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Westinghouse Electric Company",
+        "id": "937ac27d-da09-4e1e-b491-b5448eb47316",
+        "title": "Equipment Qualification Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765408343,
+        "date_posted": 1765408343,
+        "url": "https://careers.westinghousenuclear.com/job/New-Stanton-Equipment-Qualification-Intern-Summer-2026-PA-15672/1340725800/?ats=successfactors",
+        "locations": [
+            "New Stanton, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DXC Technology",
+        "id": "8ee2f5c5-ad35-40c7-b448-487246ca76cc",
+        "title": "DXC Degree Apprenticeship Programme",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1765623888,
+        "date_posted": 1765623888,
+        "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---RFW---ERSKINE/DXC-Apprenticeship-Programme-2026_51567259",
+        "locations": [
+            "Glasgow, UK",
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/DXC-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zurich Insurance",
+        "id": "a6ace6b4-e6b4-49e7-8966-5989c14cf7d9",
+        "title": "ZRS Intern - Quality and Compliance",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766100764,
+        "date_posted": 1766100764,
+        "url": "https://www.careers.zurich.com/job/Schaumburg-ZRS-Internship-Quality-and-Compliance-Summer-2026-IL-60159/1348768057/?ats=successfactors",
+        "locations": [
+            "Hoffman Estates, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Zurich-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Plexus",
+        "id": "3c2672f9-e330-4605-af67-a0164240a099",
+        "title": "Intern - Digital Engineer - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765622140,
+        "date_posted": 1765622140,
+        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Intern---Digital-Engineer--Summer-2026-_R033649-1",
+        "locations": [
+            "Neenah, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Plexus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
