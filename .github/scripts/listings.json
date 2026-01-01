@@ -170383,7 +170383,7 @@
         "company_name": "Legrand",
         "id": "b31d0e34-3c2d-4ab8-b48c-c8aaa564942f",
         "title": "Information Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -269939,7 +269939,7 @@
         "company_name": "Vera Institute of Justice",
         "id": "75b6fe78-84ed-406b-bdce-18624def07d2",
         "title": "Research Intern - Incarceration & Inequality Project",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -284633,6 +284633,27 @@
             "Minneapolis, MN"
         ],
         "company_url": "https://simplify.jobs/c/Marsh-McLennan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Modernizing Medicine",
+        "id": "050d30bb-b369-4af1-8ffe-6c67ae483fa3",
+        "title": "Security Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1762816954,
+        "date_posted": 1762384704,
+        "url": "https://job-boards.greenhouse.io/modernizingmedicineinc/jobs/8236611002",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/ModMed",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
