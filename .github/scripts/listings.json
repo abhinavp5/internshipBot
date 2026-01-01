@@ -132672,7 +132672,7 @@
         "company_name": "Wells Enterprises",
         "id": "ffb542f2-23a6-4ab8-9802-46618a9a5429",
         "title": "Internship - IT",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -248230,7 +248230,7 @@
         "company_name": "GE Aerospace",
         "id": "1591d3a5-9787-4c13-94cb-2f6d48aabda1",
         "title": "Unison Engineering Intern - Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -273166,7 +273166,7 @@
         "company_name": "AstraZeneca",
         "id": "bfd6609b-daeb-406f-8cff-f55bc6048906",
         "title": "Data Automation and Modeling Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
