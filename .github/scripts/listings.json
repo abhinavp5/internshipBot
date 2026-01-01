@@ -146988,7 +146988,7 @@
         "company_name": "Lumentum",
         "id": "b5785866-bb3e-4691-83ca-2a8ab6d06ec1",
         "title": "Transport Product Line Management Intern/Co-op - Product Line Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -218078,7 +218078,7 @@
         "company_name": "Wing",
         "id": "dcef8f5d-e765-439b-a147-9cdf5ba9dab6",
         "title": "Guidance \u2013 Control Software Engineering Intern - Navigation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -225690,7 +225690,7 @@
         "company_name": "GlobalFoundries",
         "id": "11003bc5-a885-401f-8587-47f1c44e1049",
         "title": "Technology Development Integration Engineering Intern - Feature-Rich CMOS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -232134,7 +232134,7 @@
         "company_name": "Lumentum",
         "id": "67d4adcf-50c3-460a-8298-6b47f3f3bb7e",
         "title": "Embedded Software Engineer Co-op/Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -256494,7 +256494,7 @@
         "company_name": "GlobalFoundries",
         "id": "79947bfa-c40f-482a-b3c4-e3934d49f19f",
         "title": "SoC Design Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -256794,7 +256794,7 @@
         "company_name": "Primetals Technologies",
         "id": "a33b8745-fe0a-4221-8df4-ca4dd5410744",
         "title": "Apprentice Field Service Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -280675,7 +280675,7 @@
         "company_name": "TikTok",
         "id": "30d7194c-6390-4682-917c-f15f789d4f78",
         "title": "Growth Marketing Project Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -285544,6 +285544,111 @@
             "Westminster, CA"
         ],
         "company_url": "https://simplify.jobs/c/Harbinger-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Textron",
+        "id": "111d699c-e246-40b2-8c12-f2e735cb68a9",
+        "title": "High School Intern - Data Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1767251823,
+        "date_posted": 1767251823,
+        "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=338473",
+        "locations": [
+            "Independence, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Textron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Entegris",
+        "id": "b7c55d94-dbdc-4b32-9f68-abdf8b2b137e",
+        "title": "Research & Development Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766516940,
+        "date_posted": 1766516940,
+        "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/San-Luis-Obispo-CA/Research---Development-Intern---Summer-2026_REQ-9615",
+        "locations": [
+            "San Luis Obispo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Entegris",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Entegris",
+        "id": "439f161f-b806-4c02-ac0e-59b6bd806b54",
+        "title": "Nanoparticle Research Associate Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766475035,
+        "date_posted": 1766475035,
+        "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Nanoparticle-Research-Associate-Intern---Summer-2026_REQ-9634-1",
+        "locations": [
+            "Montgomery, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Entegris",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dallas Fort Worth International Airport",
+        "id": "8057e22f-c7e5-4d1a-9257-7f9d6641798e",
+        "title": "Undergraduate Intern - Public Safety Research & Analytics",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1765055868,
+        "date_posted": 1765055868,
+        "url": "https://dfwairport.wd5.myworkdayjobs.com/External/job/DPS-Headquarters/XMLNAME-2026-Undergraduate-Summer-Internship---Public-Safety-Research---Analytics_JR101089",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Dallas-Fort-Worth-International-Airport",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wing",
+        "id": "db9dcad3-9de1-4888-8884-16ac33ab1234",
+        "title": "Manufacturing Software Test Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764867547,
+        "date_posted": 1763087016,
+        "url": "https://wing.com/careers/8249812002?gh_jid=8249812002",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wing",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
