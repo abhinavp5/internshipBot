@@ -198748,7 +198748,7 @@
         "company_name": "Vertiv",
         "id": "d7b38512-f4da-4aec-9ed8-779d0a9dc323",
         "title": "Test Engineering Internship - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -285231,6 +285231,28 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Certik",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AMC Networks",
+        "id": "1ed78cbb-38bf-4362-bda9-56a223e0b8ac",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766601431,
+        "date_posted": 1766601431,
+        "url": "https://amcn.wd5.myworkdayjobs.com/amcnetworks/job/New-York-NY/Summer-Intern---Global-Technology---Operations_R-4754",
+        "locations": [
+            "Santa Monica, CA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/AMC-Networks",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
