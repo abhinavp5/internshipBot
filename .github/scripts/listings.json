@@ -117938,7 +117938,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "bbe5b5aa-3fd1-464c-a4d2-d4280818c0f9",
         "title": "Tax LLM Associate - Industry Tax Practice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -191654,7 +191654,7 @@
         "company_name": "Zebra Technologies",
         "id": "7c5f4f5c-24c6-444c-b3dd-a730c3fbd1e1",
         "title": "2026 Summer Internship \u2013 Print Lifecycle Intern - US - Corporate and Business Services - CEO",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -199279,7 +199279,7 @@
         "company_name": "MongoDB",
         "id": "7d4d0dd7-b079-4558-b0f1-f80079e5d3df",
         "title": "2026 \u2013 Security Engineering Intern - Seattle",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -208843,7 +208843,7 @@
         "company_name": "Ever.Ag",
         "id": "718e4e1b-3ea7-4799-93b5-a555657e6eff",
         "title": "Database Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -222496,7 +222496,7 @@
         "company_name": "SoloPulse",
         "id": "75b041e3-166b-4dd6-8127-9ff4fd1efde4",
         "title": "Radar Digital Signal Processing \u2013 Intern/Co-op - Dsp",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -228380,7 +228380,7 @@
         "company_name": "Microchip Technology",
         "id": "9f7703e5-5077-420e-b40b-2331283b0c9e",
         "title": "Intern Equipment Engineering Technician - Thin Films",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -237554,7 +237554,7 @@
         "company_name": "Rivian",
         "id": "fe5880d5-2009-4f24-bd33-8c6d5d1ba4e3",
         "title": "PhD Electrical Hardware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -259193,7 +259193,7 @@
         "company_name": "Microsoft",
         "id": "bc6efca6-78b6-43a9-bc44-256d51ab8063",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -284675,6 +284675,48 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Charles-River-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Mercer University",
+        "id": "ace4d0eb-8e17-4766-bf50-7bbc3ec27da8",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1765638246,
+        "date_posted": 1765638246,
+        "url": "https://merceruniversity.wd1.myworkdayjobs.com/student/job/Warner-Robins-GA--31088-7810/Engineering-Intern_JR102934",
+        "locations": [
+            "Warner Robins, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mercer-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fehr & Peers",
+        "id": "b15ecec6-f743-4c3a-9986-7a643302b3ac",
+        "title": "Transportation Internship - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1761871190,
+        "date_posted": 1761871190,
+        "url": "https://jobs.lever.co/fehrandpeers/5f595813-c806-4ada-bd0b-23fbc1c5d2d1/apply",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fehr-And-Peers",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
