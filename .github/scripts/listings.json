@@ -186861,7 +186861,7 @@
         "company_name": "Adobe",
         "id": "dbfe7eda-4996-40ee-9172-2d91d63e8ff2",
         "title": "Intern - AI Knowledge Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -243208,7 +243208,7 @@
         "company_name": "Dover",
         "id": "f0096eac-6ae5-4547-b031-a07fdfc48505",
         "title": "Customer Quality/Warranty Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -278444,7 +278444,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "34070e76-bc27-46a4-bc37-5aae60674289",
         "title": "Multi-Modal Cyber-physical sensing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
