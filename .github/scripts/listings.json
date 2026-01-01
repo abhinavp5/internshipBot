@@ -44247,7 +44247,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3801beb2-e473-44e1-8a9b-a3c4776098f6",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -90811,7 +90811,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "97094f97-0c76-42e9-bacf-3f331d041f15",
         "title": "Quantitative Systematic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -91417,7 +91417,7 @@
         "company_name": "Shure",
         "id": "67dbe0f9-2e0a-40f0-973e-ec2714e57a07",
         "title": "Proof of Concept Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -91794,7 +91794,7 @@
         "company_name": "Shure",
         "id": "cceac49b-69c3-419f-b97d-5a1ed6b46e09",
         "title": "Cloud Applications Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -93337,7 +93337,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "c948674f-b374-488f-af89-265ae92d4fca",
         "title": "Machine Learning Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -159255,7 +159255,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "427c46da-aae1-45df-b8af-36a388b72682",
         "title": "AI Engineering Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -178545,7 +178545,7 @@
         "company_name": "Marvell",
         "id": "a35abda7-6a1b-4ffb-8305-ef2eb634756d",
         "title": "Architecture DSP Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -190994,7 +190994,7 @@
         "company_name": "Marsh",
         "id": "fb55ba8c-6d87-4342-882f-3322ea061eed",
         "title": "Oliver Wyman \u2013 Data & Analytics Apprenticeship 2026 - Newcastle",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -194450,7 +194450,7 @@
         "company_name": "Marvell",
         "id": "312270d7-2342-4f74-a56a-24764697457b",
         "title": "Architecture ASIC / System Intern - Master's Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -194824,7 +194824,7 @@
         "company_name": "Neuralink",
         "id": "0a0a0a4b-56b1-4618-95fd-5034bdcf8e2b",
         "title": "Digital IC Design Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -196551,7 +196551,7 @@
         "company_name": "Idaho National Laboratory",
         "id": "eeae9d3b-74e5-4ba2-a237-91fbe806b058",
         "title": "Graduate Research Assistant Internship - Science and Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -198942,7 +198942,7 @@
         "company_name": "Marvell",
         "id": "785efc6c-72e3-4180-990d-92d06033f513",
         "title": "Hardware Design Intern - Bachelor's Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -217649,7 +217649,7 @@
         "company_name": "Neuralink",
         "id": "b7e0770f-1c4e-4053-b935-275f1082e435",
         "title": "Design Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -223119,7 +223119,7 @@
         "company_name": "Thales",
         "id": "a6c10d8d-3694-464d-96ca-1df810002655",
         "title": "Assembly Technician Apprentice Level 3 Maintenance Operations Engineering Technician Apprenticeship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -224240,7 +224240,7 @@
         "company_name": "Thales",
         "id": "65998e5b-d0e7-48bd-8d96-83bc78fb170a",
         "title": "Academy Engineer Apprentice \u2013 Level 6 Higher Level Apprenticeship - Mechatronic Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -227157,7 +227157,7 @@
         "company_name": "W.R. Berkley",
         "id": "173a2af7-91f8-43bc-815b-eb93b3dd7f3a",
         "title": "Data Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -238697,7 +238697,7 @@
         "company_name": "Fujitsu",
         "id": "bc438285-7f87-4718-8e19-26af672608a4",
         "title": "Intern in Data Security Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -248473,7 +248473,7 @@
         "company_name": "Marvell",
         "id": "71a1e224-f8fe-475d-8c76-59743073cb80",
         "title": "Signal Integrity Engineer - Cloud Platform Optics",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -251172,7 +251172,7 @@
         "company_name": "WSP",
         "id": "80243689-efff-4987-bff3-6327f9999a62",
         "title": "Transportation Planning Intern-Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -253954,7 +253954,7 @@
         "company_name": "Black Box",
         "id": "2b7f7119-6e0b-4b2e-b708-f0e5a94582a0",
         "title": "Cabling Apprentice - Data Center",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -256249,7 +256249,7 @@
         "company_name": "Anduril",
         "id": "60613172-3c99-40e9-b9be-21db30d3c2e6",
         "title": "Manufacturing Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -265918,7 +265918,7 @@
         "company_name": "The Walt Disney Company",
         "id": "076b201f-4265-45f0-9fbd-038f6c27a3bd",
         "title": "Technical Assistant Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -265939,7 +265939,7 @@
         "company_name": "The Walt Disney Company",
         "id": "bd68550d-6ebb-4024-b36d-843aef6a7d2c",
         "title": "Studio Talent Group Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -268684,7 +268684,7 @@
         "company_name": "Mackenzie Investments",
         "id": "a7a65e29-5ca9-4a94-8f42-cb952651ee4e",
         "title": "Summer Intern 2026 - Investment Management - Multi-Asset Allocation",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -273707,7 +273707,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "d7267066-1336-4848-bade-3e8d6868faae",
         "title": "Data Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -274747,7 +274747,7 @@
         "company_name": "Mercury Insurance",
         "id": "a9b34c8d-56f1-49d6-aa73-d980731b647c",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -274789,7 +274789,7 @@
         "company_name": "Mercury Insurance",
         "id": "64654417-3976-42d7-aa67-9cd3643a0ccd",
         "title": "Technology Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -279487,7 +279487,7 @@
         "company_name": "Apex Fintech Solutions",
         "id": "e26844a9-fc18-4052-98bb-b2908895fbdf",
         "title": "Product Marketing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -281309,7 +281309,7 @@
         "company_name": "Marvell",
         "id": "d7b2ba82-b555-44fc-a9f7-68d6d286ccab",
         "title": "Silicon Photonics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -283926,7 +283926,7 @@
         "company_name": "DC Water",
         "id": "b979c560-719a-498d-bb15-3032d5c5cece",
         "title": "Intern - Clean Rivers",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -285384,6 +285384,95 @@
             "Irvine, CA"
         ],
         "company_url": "https://simplify.jobs/c/Obsidian-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "6831d1e8-ab0d-4b48-b538-12d8658a1fbe",
+        "title": "Design DSP Verification Intern - Bachelor's Degree",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1766024265,
+        "date_posted": 1766024265,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Design-DSP-Verification-Intern---Bachelor-s-Degree_2503928",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dematic",
+        "id": "024ef7c5-2b8f-4cbd-9a77-6cc2a7864e27",
+        "title": "CMS and Web Administrator Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1765637257,
+        "date_posted": 1765637257,
+        "url": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Waterloo-Canada/CMS-and-Web-Administrator-Co-op_JR-0082561",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Dematic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Marvell",
+        "id": "505e680d-00e4-40bf-a814-4e4b9ca0ae7e",
+        "title": "Product Marketing Intern - Bachelor's Degree",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1765625612,
+        "date_posted": 1765625612,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Product-Marketing-Intern---Bachelor-s-Degree_2502725",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WSP",
+        "id": "d878deff-8003-4a88-847b-2af2a621c613",
+        "title": "Transportation Planning Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763772365,
+        "date_posted": 1763772365,
+        "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/76182",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/WSP",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
