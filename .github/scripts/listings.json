@@ -88907,7 +88907,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "385eed62-f687-4fff-ab42-08f41edb4cb5",
         "title": "Quantitative Systematic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -93522,7 +93522,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ad8b1567-30c9-4093-b10b-395eb58e0e33",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -171545,7 +171545,7 @@
         "company_name": "Altera Corporation",
         "id": "2882a9a0-b1c1-488a-b75c-a5e7bcb5a6ef",
         "title": "Internship - FPGA Hardware Design Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -223313,7 +223313,7 @@
         "company_name": "Cirrus Logic",
         "id": "cd3e1c39-19ea-450c-b021-3a9883b5eeec",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -223982,7 +223982,7 @@
         "company_name": "Thales",
         "id": "286c41eb-e5e8-44ee-becf-7abc8b6cdbb7",
         "title": "2026 Manufacturing Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -257710,7 +257710,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "596464a2-d68c-4e09-845f-2c85f3474255",
         "title": "Designer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -271072,7 +271072,7 @@
         "company_name": "Baker Hughes",
         "id": "76d54f13-b82e-4e08-bbc4-3c0faf3eab51",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -271181,7 +271181,7 @@
         "company_name": "Draper",
         "id": "9feb6e0f-3ea5-4674-b296-9ab8161b4361",
         "title": "Electro-Mechanical Instrument Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -276855,7 +276855,7 @@
         "company_name": "The Boeing Company",
         "id": "ecb1a20a-1b49-4b82-aef8-6dd3e99ee461",
         "title": "Product Support Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -282013,7 +282013,7 @@
         "company_name": "Aramark",
         "id": "1c5ce248-5998-4d96-8834-d2bf0c0fc0ff",
         "title": "Environmental Sustainability Intern - Yosemite",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -283546,7 +283546,7 @@
         "company_name": "Draper",
         "id": "18f1a901-f21b-4cdb-90f9-84b2db9bcd58",
         "title": "Simulation Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -285342,6 +285342,48 @@
             "Staines-upon-Thames, UK"
         ],
         "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Thales",
+        "id": "16ccf466-0f7e-4730-8f8a-b40f9e1bf780",
+        "title": "Academy Engineer Apprentice \u2013 Level 5 Higher Level Apprenticeship - Mechatronic Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1765627964,
+        "date_posted": 1765627964,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Belfast/XMLNAME-2026-Academy-Engineer-Apprentice--Level-5-_R0298427-1",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Obsidian Entertainment",
+        "id": "4a4ec83b-0e13-437f-92fa-5f9efb623049",
+        "title": "Area Designer Intern - Area Design",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763120201,
+        "date_posted": 1761898081,
+        "url": "https://obsidian.applytojob.com/apply/BtnxtlX823/Area-Designer-2026-Summer-Internship",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Obsidian-Entertainment",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
