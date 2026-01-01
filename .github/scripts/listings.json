@@ -159404,7 +159404,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "bc4eaca1-d7bb-46f8-a195-59f2f4955803",
         "title": "Weather Data Analyst Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -220862,7 +220862,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "b2e5c9a4-0b91-4f7b-a58b-29b7500589fd",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -238950,7 +238950,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "0e5f83a1-4929-44bf-bd17-2fbc6adc0abd",
         "title": "Enterprise Performance Modeling and Simulation Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -257299,7 +257299,7 @@
         "company_name": "Mackenzie Investments",
         "id": "efbfa21f-4fbe-43bc-b3ea-879aca0563d3",
         "title": "Intern - Data Scientist",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -266616,7 +266616,7 @@
         "company_name": "Veolia",
         "id": "6381be46-7764-462c-8899-78f420be6b7c",
         "title": "Summer Intern - Procurement",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -285846,6 +285846,48 @@
             "Denton, TX"
         ],
         "company_url": "https://simplify.jobs/c/Paccar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AECOM",
+        "id": "4104f226-fd2a-4b26-8f7d-13ff1d5ded6f",
+        "title": "Geoscientist Apprentice - Nottingham - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766129213,
+        "date_posted": 1766129213,
+        "url": "https://jobs.smartrecruiters.com/AECOM2/744000098113426",
+        "locations": [
+            "Nottingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AECOM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Aerospace Corporation",
+        "id": "f9ef081b-1735-4186-9cca-60f1fcddc571",
+        "title": "2026 Atomic Clocks & Device Physics Graduate Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1764503472,
+        "date_posted": 1764503472,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Atomic-Clocks---Device-Physics-Graduate-Intern_R014029",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
