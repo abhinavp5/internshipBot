@@ -109440,7 +109440,7 @@
         "company_name": "The Toro Company",
         "id": "26f255ab-83d8-4720-860c-21c49670b2b5",
         "title": "Commercial Service Publications Intern - The Toro Company",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -197137,7 +197137,7 @@
         "company_name": "Oracle",
         "id": "9e8b604e-ad48-4936-9254-8a4b9486b307",
         "title": "Undergrad Software Engineer Intern - Oracle Cloud Infrastructure - Oci - Santa Clara - CA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -214266,7 +214266,7 @@
         "company_name": "Ocean Optics",
         "id": "744971bf-0694-405c-af2a-4a715ca0a6f1",
         "title": "Manufacturing Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -253633,7 +253633,7 @@
         "company_name": "Cummins",
         "id": "2c2264e5-8769-4a2e-a04d-aea912d6ad98",
         "title": "Service Engineering \u2013 Co-op Positions",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -258509,7 +258509,7 @@
         "company_name": "Commonwealth of Massachusetts",
         "id": "12288166-2aab-4749-b1b1-93c25d13fbff",
         "title": "Transit Co-op Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -281529,7 +281529,7 @@
         "company_name": "L3Harris Technologies",
         "id": "da0154a0-c2bd-4897-935b-63a971c492d6",
         "title": "Engineering Intern - Process Improvement",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
