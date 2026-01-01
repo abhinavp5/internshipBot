@@ -128578,7 +128578,7 @@
         "company_name": "ServiceNow",
         "id": "a7ac75d1-b271-4c0e-b675-75657a5622bc",
         "title": "Data Informatics Analyst Intern - Security Organization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -185486,7 +185486,7 @@
         "company_name": "ServiceNow",
         "id": "9ff6bd62-b2f4-4e2b-ab32-e14b1f166507",
         "title": "Digital Technology \u2013 Associate Data Informatics Analyst Intern - Dt",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -187053,7 +187053,7 @@
         "company_name": "Vertiv",
         "id": "f83765ab-6928-443d-a015-e329a6f8dbb5",
         "title": "Project Engineering Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -187831,7 +187831,7 @@
         "company_name": "Vertiv",
         "id": "129c6831-824d-4271-b86c-7c7ac07e5d2b",
         "title": "Design Engineer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -197967,7 +197967,7 @@
         "company_name": "Vertiv",
         "id": "2a4989b6-02a1-40b3-9330-b60a1b96c77b",
         "title": "Computer Engineering Internship - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -222412,7 +222412,7 @@
         "company_name": "Vertiv",
         "id": "117835f9-3148-45fc-8459-9f4f4d9a34b4",
         "title": "Engineering Internship - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -252649,7 +252649,7 @@
         "company_name": "ServiceNow",
         "id": "4d0d580d-c94a-4400-907a-18c33386da35",
         "title": "Technical AI Architect Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -271632,7 +271632,7 @@
         "company_name": "Analytical Mechanics Associates",
         "id": "a5f6ffa2-3fb6-47d4-b836-920cc33d5476",
         "title": "Materials Testing Intern - Spring 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -277287,7 +277287,7 @@
         "company_name": "Applied Materials",
         "id": "3985aee6-05da-4f99-a262-b06f74bf34bb",
         "title": "Product Marketing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -278041,7 +278041,7 @@
         "company_name": "Airbnb",
         "id": "8abe3ca0-5db4-4972-b7ee-779a549c7dc0",
         "title": "Strategic Finance & Analytics Intern - MBA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -282247,7 +282247,7 @@
         "company_name": "TD Bank",
         "id": "7d84f2ac-acf4-4750-99bd-0703014aa95a",
         "title": "Everyday Savings & Investing \u2013 Everyday Advice Journey Co-op/Intern - Everyday Savings & Investing - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -285253,6 +285253,95 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/AMC-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Genmab",
+        "id": "97a254d5-6d5d-48b0-835f-1aee401e2d58",
+        "title": "Clinical Pharmacology and Quantitative Science Intern - Programming/Computer Science",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1766013580,
+        "date_posted": 1766013580,
+        "url": "https://genmab.wd3.myworkdayjobs.com/Genmab_Careers_Site/job/Princeton/Clinical-Pharmacology-and-Quantitative-Science-Intern--Programming-Computer-Science-_R14681",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Genmab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analog Devices",
+        "id": "df7e3f52-6d31-429e-8f8d-8d70d5bd87b7",
+        "title": "Product Applications Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1766830884,
+        "date_posted": 1765637867,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Applications-Intern_R255003",
+        "locations": [
+            "San Jose, CA",
+            "Centennial, CO",
+            "Colorado Springs, CO",
+            "Durham, NC",
+            "Chandler, AZ",
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Marmon Holdings",
+        "id": "f3df3b30-863e-4a3d-9232-9c9ebbdbe858",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765024866,
+        "date_posted": 1765024866,
+        "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Cullman-AL/Engineering-Intern---Summer-2026_JR0000037704-4",
+        "locations": [
+            "Decatur, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Marmon-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ServiceNow",
+        "id": "9a807e33-4d44-47aa-b0e9-d5bb90820147",
+        "title": "Intern \u2013 Associate Technical Accelerator Consultant - Impact",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763509130,
+        "date_posted": 1763509130,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000094242239",
+        "locations": [
+            "Staines-upon-Thames, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
