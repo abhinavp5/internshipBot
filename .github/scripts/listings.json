@@ -13932,7 +13932,7 @@
         "company_name": "Neuralink",
         "id": "ca10b950-dafb-4ebf-b140-a175ce765fc3",
         "title": "Robot Optics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -102117,7 +102117,7 @@
         "company_name": "Trane Technologies",
         "id": "53cab62f-e3b7-4577-a40d-ba1314ac4c52",
         "title": "Embedded Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -131662,7 +131662,7 @@
         "company_name": "Compassion International",
         "id": "4cad432e-56cc-4915-9946-5e7cf1ae625a",
         "title": "Internship - IT and Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -141081,7 +141081,7 @@
         "company_name": "Seagate Technology ",
         "id": "e6827b00-0b78-4660-9ca8-91293c8e301c",
         "title": "Firmware Engineering Intern - Firmware Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -193394,7 +193394,7 @@
         "company_name": "Seagate Technology ",
         "id": "b3ce6047-12dc-4b24-a927-06954418500b",
         "title": "Data Scientist Internship - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -200387,7 +200387,7 @@
         "company_name": "Hitachi",
         "id": "b0ee24eb-48fc-4f39-b7db-c177faf93fe3",
         "title": "Intern Procurement Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -206482,7 +206482,7 @@
         "company_name": "NVIDIA",
         "id": "e5632f7f-e911-4dca-8150-a66d94ea686c",
         "title": "NVIDIA 2026 Internships: Hardware Physical Design / VLSI - US",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -229448,7 +229448,7 @@
         "company_name": "Rivian",
         "id": "77bb3f98-f6d3-4066-bf17-04eeb5e1976e",
         "title": "Software Engineering Intern - Vehicle Controls - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -240848,7 +240848,7 @@
         "company_name": "Intuitive Surgical",
         "id": "e0d9fd04-ca06-4136-9e90-c39d4b80f9d7",
         "title": "AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -265197,7 +265197,7 @@
         "company_name": "General Motors",
         "id": "b114d58c-4f4f-45b6-af8e-c4715d5f4e13",
         "title": "Intern - Autonomous Vehicle Systems and Integration - Bachelors Degree",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -267727,7 +267727,7 @@
         "company_name": "CVS Health",
         "id": "1ee638bc-8cb5-484d-84be-05aeab681527",
         "title": "Store Brands Corporate Internship - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -271788,7 +271788,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "75a525b7-da89-42b9-a321-182ec0aee504",
         "title": "Quality Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -276466,7 +276466,7 @@
         "company_name": "Daimler Truck",
         "id": "afdac13c-518c-4bf2-9662-344ab7bcdd70",
         "title": "Product Validation Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -283350,7 +283350,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "0436f6da-716a-4ecf-b66c-ce1476b1f498",
         "title": "Multi-Modal Cyber-Physical Sensing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -284849,5 +284849,390 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Public Service Enterprise Group",
+        "id": "706c4803-7992-41ed-a99b-b4ef6612ea71",
+        "title": "Summer 2026 \u2013 Technical Intern - Voice of the Customer Team",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1767050081,
+        "date_posted": 1767050081,
+        "url": "https://jobs.pseg.com/job/Newark-Summer-2026-Technical-Intern-Voice-of-the-Customer-Team-NJ-07101/1352389400/?ats=successfactors",
+        "locations": [
+            "Newark, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Public-Service-Enterprise-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Aerospace Corporation",
+        "id": "df37b44b-1e11-4965-a577-990d884618f5",
+        "title": "Graduate Microelectronics Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1766619091,
+        "date_posted": 1766619091,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Microelectronics-Graduate-Internship_R014174",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Public Service Enterprise Group",
+        "id": "1692df5f-e87d-4d6a-ad69-81bab76d7446",
+        "title": "Technical Intern - Outside Plant Distribution Asset Mgmt",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766532389,
+        "date_posted": 1766532389,
+        "url": "https://jobs.pseg.com/job/Edison-Summer-2026-Technical-Intern-Outside-Plant-Distribution-Asset-Mgmt-NJ-08817/1351953900/?ats=successfactors",
+        "locations": [
+            "Edison, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Public-Service-Enterprise-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ASML",
+        "id": "e27cda72-591f-4261-9681-60727447af61",
+        "title": "EUV Field Service Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766446672,
+        "date_posted": 1766446672,
+        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Austin-TX-USA/EUV-Field-Service-Engineer-Internship_J-00330512",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/ASML",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AstraZeneca",
+        "id": "4e462424-1e3b-4a65-8bd8-b3656a838e7b",
+        "title": "Automation Technician Intern - Waltham - MA",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766015759,
+        "date_posted": 1766015759,
+        "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Waltham---MA/Automation-Technician-Intern---Waltham--MA_R-242042",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/AstraZeneca",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Harris Computer",
+        "id": "dcb0f70a-f1e3-4bff-a8f1-265f4b73b499",
+        "title": "Information Management Student",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1765651989,
+        "date_posted": 1765651989,
+        "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Charlottetown-Prince-Edward-Island/Information-Management-Student--Co-op-Work-Term---Internship-_R0031084",
+        "locations": [
+            "Charlottetown, PE, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Harris-Computer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "05e7612f-663c-407f-b254-06aa3c818000",
+        "title": "Intern \u2013 Probe Equipment Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1765643083,
+        "date_posted": 1765643083,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Probe-Equipment-Engineer_JR81059",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Thales",
+        "id": "ca5d1c8d-3c44-427c-9a52-c994098cd0e8",
+        "title": "Industrial Placement Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1765636775,
+        "date_posted": 1765636775,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Templecombe/Industrial-Placement-Intern_R0310185-1",
+        "locations": [
+            "Trafford, UK",
+            "Yeovil, UK",
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Thales",
+        "id": "6416607b-e3fa-4399-bab1-0379767d6db9",
+        "title": "2026 Test and Repair Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1765636747,
+        "date_posted": 1765636747,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Crawley/XMLNAME-2026-Test-and-Repair-Apprentice_R0298245-1",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rolls Royce",
+        "id": "551d679f-b3c0-4706-af79-2c761ade8cb9",
+        "title": "Vehicle Electronics Test & Validation Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765523660,
+        "date_posted": 1765523660,
+        "url": "https://jobs.bmwgroup.com/job/Spartanburg-Vehicle-Electronics-Test-&-Validation-Intern-(Summer-2026)-Sout/1275354801/?ats=successfactors",
+        "locations": [
+            "Spartanburg, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Protech Automotive Solutions",
+        "id": "300816cb-d781-43d2-8f23-94a69ae27906",
+        "title": "Automotive ADAS Calibration Technician Apprentice",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1765471544,
+        "date_posted": 1765471544,
+        "url": "https://calibercollision.wd1.myworkdayjobs.com/protech/job/Everett-WA/Automotive-ADAS-Calibration-Technician-Apprentice_R0210483",
+        "locations": [
+            "Everett, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Protech-Automotive-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Thales",
+        "id": "4a817403-fc81-46fd-85d7-c7ac03411510",
+        "title": "Industrial Placement Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1765379557,
+        "date_posted": 1765379557,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Templecombe/Industrial-Placement-Intern_R0310192-1",
+        "locations": [
+            "Trafford, UK",
+            "Yeovil, UK",
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rocket Mortgage",
+        "id": "62096cac-dd8e-4009-ac5e-e8f5d842e7fd",
+        "title": "Audio Visual Integration Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764978966,
+        "date_posted": 1764978966,
+        "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Audio-Visual-Integration-Intern---Summer-2026_R-080347",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Mortgage",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nidec",
+        "id": "2af0a51c-33d4-4593-b335-9cfe855455fe",
+        "title": "Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1764495607,
+        "date_posted": 1764495607,
+        "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---ACIM-MO/Engineering-Co-op_R0012604",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Nidec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analog Devices",
+        "id": "7efe2695-25d6-44db-bb7b-516390f3fe0d",
+        "title": "Design Evaluation Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1765626251,
+        "date_posted": 1765626251,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Design-Evaluation-Engineer-Intern_R255015",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qorvo",
+        "id": "0c6398a0-2cb5-4f82-81ca-ed1dbb7a407e",
+        "title": "Characterization Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1763231764,
+        "date_posted": 1763231764,
+        "url": "https://careers.qorvo.com/job/Greensboro-Characterization-Engineering-Intern-NC-27409/1323400700/?ats=successfactors",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Qorvo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Seagate Technology ",
+        "id": "df36ec91-d6b7-4a59-857a-c888b506b79d",
+        "title": "Reader Characterization Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763231700,
+        "date_posted": 1763231700,
+        "url": "https://seagatecareers.com/job/Bloomington-Reader-Characterization-Summer-Intern-MN/1341802500/?ats=successfactors",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Seagate-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Certik",
+        "id": "8ef8c8b8-75a1-44f0-8479-d38724f80d4f",
+        "title": "Security Research Internship",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1761876263,
+        "date_posted": 1761876263,
+        "url": "https://jobs.lever.co/certik/148afcf8-106b-42fa-a516-6bb8f1184e33/apply",
+        "locations": [
+            "Seattle, WA",
+            "California",
+            "Remote in USA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Certik",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
