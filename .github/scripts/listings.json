@@ -158895,7 +158895,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "32530b9f-31b7-4efc-887c-48ec4bd8da7a",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -164241,7 +164241,7 @@
         "company_name": "Illumio",
         "id": "eb2578c2-32ca-45a0-8e8f-df52ffa06295",
         "title": "Technical Program Management Intern - Program Management - Automation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -179762,7 +179762,7 @@
         "company_name": "Goldman Sachs",
         "id": "6b7da95f-b45b-47cc-a261-e13a127bc366",
         "title": "2026 \u2013 Summer Associate - London - Asset and Wealth Management Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -204464,7 +204464,7 @@
         "company_name": "Tenstorrent",
         "id": "e5735f03-8e18-4fbd-b5d8-f014df117bb9",
         "title": "Systems Engineer Intern - Pey",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -220724,7 +220724,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "b2e5c9a4-0b91-4f7b-a58b-29b7500589fd",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -220986,7 +220986,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "7615cfa2-56ef-49e0-8817-60db45705e9f",
         "title": "Engineering Intern - Software and Systems Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -228233,7 +228233,7 @@
         "company_name": "Hitachi Energy",
         "id": "983dae1b-c855-4977-80f5-e88a6e2c412a",
         "title": "Applications Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -238854,7 +238854,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "f5fa5008-5492-4008-ab41-c793fb26dc3c",
         "title": "Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -241541,7 +241541,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "417871cd-9f57-4003-ba18-d9cab6796608",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -252635,7 +252635,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "7b910886-f188-4065-a2f5-e7d5c708b41a",
         "title": "Intern Engineer \u2013 Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -257035,7 +257035,7 @@
         "company_name": "Sharp Electronics",
         "id": "19771832-913b-4f67-b8b5-f8a7b5936cbd",
         "title": "AI Process Automation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -258574,7 +258574,7 @@
         "company_name": "American Enterprise Institute",
         "id": "c42590be-0c86-43ad-b225-bf67dc537fe7",
         "title": "Summer Intern: Data Analysis and Education Policy",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262942,7 +262942,7 @@
         "company_name": "Westinghouse Electric Company",
         "id": "bb423c59-e04c-40ce-8ef4-5fc6c1566180",
         "title": "Nuclear Core Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -266154,7 +266154,7 @@
         "company_name": "Nokia",
         "id": "3151987a-1ed0-4cf4-8ea5-60e96b9ef67e",
         "title": "Silicon Photonics Packaging Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -267497,7 +267497,7 @@
         "company_name": "Zipline",
         "id": "4e2aad2a-081a-4739-9ae6-dc6853690bab",
         "title": "Mechatronics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -269157,7 +269157,7 @@
         "company_name": "Nokia",
         "id": "03438dda-fb6e-4115-9eb8-7ad522a90fad",
         "title": "Optical Networking Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -277422,7 +277422,7 @@
         "company_name": "The Weir Group",
         "id": "ff73e212-e1f5-4954-bde0-b01fc69020fe",
         "title": "AI Inspection Analysis Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -282843,7 +282843,7 @@
         "company_name": "Nokia",
         "id": "657538b2-6e07-4501-aa7a-b12fa7eddc15",
         "title": "Electromechanical Assembly Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -286693,6 +286693,90 @@
             "California"
         ],
         "company_url": "https://simplify.jobs/c/Fehr-And-Peers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "c625f680-78e2-4820-8b43-ec1cce15d9c9",
+        "title": "Web Applications Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765937337,
+        "date_posted": 1765937337,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28482",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "286eaf1e-7806-4660-be9d-cb2487a36369",
+        "title": "Wireless Systems Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765937344,
+        "date_posted": 1765937344,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28470",
+        "locations": [
+            "Berkeley Heights, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sanctuary AI",
+        "id": "b7512d56-a3fd-4a98-853d-e15b05057e49",
+        "title": "Robot Test Pilot Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1765408756,
+        "date_posted": 1765408756,
+        "url": "https://jobs.lever.co/sanctuary/1679ab93-50e1-495a-8182-ee8d3af89e25/apply",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Sanctuary-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Seagate Technology ",
+        "id": "2beffdf1-e790-41f1-9b5e-8fb83a3ce6dc",
+        "title": "Product Assurance Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1763668931,
+        "date_posted": 1763668931,
+        "url": "https://seagatecareers.com/job/Longmont-Product-Assurance-Engineering-Intern-CO-80501/1344307600/?ats=successfactors",
+        "locations": [
+            "Longmont, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Seagate-Technology",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
