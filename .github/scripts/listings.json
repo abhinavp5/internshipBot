@@ -134,64 +134,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "MRI Software",
-        "id": "4790ca08-9ac5-4a4c-ba43-23980bc87e6e",
-        "title": "Summer 2025 Intern - Accounting Data Management",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1746646842,
-        "date_posted": 1746646842,
-        "url": "https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/US-Remote/Summer-2025-Intern---Accounting-Data-Management_R-105078",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/MRI-Software",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TransUnion",
-        "id": "06d573b8-0261-46fd-9d42-5a668196fa74",
-        "title": "Identity Analytics Internship",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1746649845,
-        "date_posted": 1746649845,
-        "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Identity-Analytics-Internship---Summer-2025_19034961",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/00cf2cf8-458d-4e49-8d00-a1a897d7294a",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nuro",
-        "id": "38de9e0e-3227-45c3-9f8e-3eb912ae5b2d",
-        "title": "Software Engineer \u2013 Intern - Performance",
-        "active": false,
-        "terms": [],
-        "date_updated": 1746650101,
-        "date_posted": 1746650101,
-        "url": "https://nuro.ai/careersitem?gh_jid=6867897",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nuro",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Ciena",
         "id": "9257e37c-cd39-4602-8b41-f206271460e5",
@@ -379,27 +321,6 @@
             "Colorado Springs, CO"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Elekta",
-        "id": "78caa94e-4405-471a-9f77-3a558a0cca35",
-        "title": "Software Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1746650436,
-        "date_posted": 1746650436,
-        "url": "https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/San-Jose/Software-Development-Intern--San-Jose--CA_R2024-2430",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Elekta",
         "is_visible": true,
         "sponsorship": "Other"
     },
