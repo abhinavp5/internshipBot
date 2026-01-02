@@ -134,47 +134,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nokia",
-        "id": "6cf00bd1-2dc3-4f0f-882d-ac92cc8131a6",
-        "title": "Hardware Failure Analysis Co-op",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1746643700,
-        "date_posted": 1746643700,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20154",
-        "locations": [
-            "Berkeley Heights, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CACI",
-        "id": "b0fc217e-8da0-4ce9-a87d-39beada63cb0",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1746644146,
-        "date_posted": 1746644146,
-        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-MD-Annapolis-Junction/Software-Engineering-Intern---Summer-2025_311520-1",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "The Federal Reserve System",
         "id": "2614e1ce-4777-4501-b31d-f98fda2b57e4",
@@ -135952,7 +135911,7 @@
         "company_name": "Datacor",
         "id": "e61053ba-cbb8-4fc6-9776-6d37677e7aa7",
         "title": "Internship Program - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -171261,7 +171220,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "686e8961-1647-4d30-95e0-0e918028970d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -179622,7 +179581,7 @@
         "company_name": "Qrypt",
         "id": "a14761cb-b37b-4167-9fb0-cb3004bad3a7",
         "title": "Hardware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -208253,7 +208212,7 @@
         "company_name": "Detroit Lions",
         "id": "6d287dc8-76a7-41f0-b9a2-bfecbb9d0555",
         "title": "Quantitative Research Intern - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -227980,7 +227939,7 @@
         "company_name": "Microchip Technology",
         "id": "3716a2d5-deba-4155-90d2-ec46cee1e0a8",
         "title": "Intern-Equipment Engineering Technician - Wet Process",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -252248,7 +252207,7 @@
         "company_name": "Parsons",
         "id": "0f2d1f1c-200a-440d-8d5f-c732c6e00b60",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -259714,7 +259673,7 @@
         "company_name": "Microsoft",
         "id": "3794a3c3-3380-4006-a612-a9e20b5f965f",
         "title": "Cambridge Internship Program - Network Systems for Physical AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -268667,7 +268626,7 @@
         "company_name": "Al Warren Oil Company",
         "id": "6fc6f18d-b376-4823-8c40-21fba6ff8395",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -273818,7 +273777,7 @@
         "company_name": "Altom Transport",
         "id": "080065c1-9c3c-4827-a516-39426b85538f",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -283076,7 +283035,7 @@
         "company_name": "Altom Transport",
         "id": "097e26ff-4b4b-484f-8cc0-8a46356f81fb",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -284369,7 +284328,7 @@
         "company_name": "Zoetis",
         "id": "075039d5-afbb-4ba6-a32f-6a52771de8fc",
         "title": "Tech and Digital Intern: Process Optimization & Automation Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -287171,7 +287130,7 @@
         "company_name": "Zoetis",
         "id": "1374dbba-65b8-4bad-8f03-ef7cf0d3b814",
         "title": "Tech and Digital Intern: Process Optimization & Automation Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
