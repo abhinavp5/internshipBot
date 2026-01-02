@@ -92970,7 +92970,7 @@
         "company_name": "Keysight Technologies",
         "id": "42c7838d-ac38-4148-8fb3-e8ed8ea09c8c",
         "title": "ASIC R&D Test Development / DFT Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -203290,7 +203290,7 @@
         "company_name": "Cluely",
         "id": "8ca0f8ff-3ff3-4a35-8fbe-67ec857d442a",
         "title": "Engineering Intern - ",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -204893,7 +204893,7 @@
         "company_name": "Michelin",
         "id": "58a86e10-4e48-456a-aebe-4235ab29b212",
         "title": "2026 Engineering Co-Op Louisville - KY",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -205349,7 +205349,7 @@
         "company_name": "Rocket Lab USA",
         "id": "4eeadcca-f766-4b84-b99d-4242c944697d",
         "title": "RF Engineering Intern Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -214707,7 +214707,7 @@
         "company_name": "Equitable Holdings",
         "id": "46d519b9-caca-43a1-a9c4-becef208af8a",
         "title": "2026 Summer Intern - Workplace Solutions",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -230802,7 +230802,7 @@
         "company_name": "Eaton Corporation",
         "id": "07abe61a-a434-40f9-b557-0f9b2f1a8608",
         "title": "R&D Engineering Intern - Research & Development Engineering - ES AMER ARS",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -231449,7 +231449,7 @@
         "company_name": "Wells Enterprises",
         "id": "c75b80a8-5839-43fc-9674-d431c8c00d26",
         "title": "Internship - Research & Development - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -278128,7 +278128,7 @@
         "company_name": "AbbVie",
         "id": "870275a4-82c3-4c7f-9408-9ae5ff501343",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -286414,6 +286414,93 @@
             "Fairview, OR"
         ],
         "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AccuWeather",
+        "id": "e31ca028-1d4b-452e-9f03-6f81c9b01950",
+        "title": "Forecasting Intern - State College - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1767254703,
+        "date_posted": 1767254703,
+        "url": "https://job-boards.greenhouse.io/accuweather/jobs/7485118",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/AccuWeather",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hologic",
+        "id": "da6d1396-9eb1-4f49-ac99-44a3268a6646",
+        "title": "Intern \u2013 Engineering - Product Development",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1765582030,
+        "date_posted": 1765582030,
+        "url": "https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/10474",
+        "locations": [
+            "Marlborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hologic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hologic",
+        "id": "e2211274-3d88-41fc-b3f8-c6a912efe144",
+        "title": "Intern Service Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1764997868,
+        "date_posted": 1764997868,
+        "url": "https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/10397",
+        "locations": [
+            "Newark, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/Hologic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Keysight Technologies",
+        "id": "5037dee6-b8d4-4b62-9dad-d99706472280",
+        "title": "New Product Introduction Engineering",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1762919238,
+        "date_posted": 1758781400,
+        "url": "https://jobs.keysight.com/jobs/49685?lang=en-us&icims=1",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
