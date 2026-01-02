@@ -134229,7 +134229,7 @@
         "company_name": "Lazard",
         "id": "bd166cbe-6b37-4f06-b5b5-fe5f9f928a2d",
         "title": "Data Engineer Intern - Data Analytics Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -272217,7 +272217,7 @@
         "company_name": "EquipmentShare",
         "id": "4830ed65-9e02-4b3e-ad82-4d819a4ea118",
         "title": "Intern: People Analytics and Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -275694,7 +275694,7 @@
         "company_name": "Zoetis",
         "id": "5dcf84c1-a608-4f4a-81bc-d30098c7ddf2",
         "title": "Intern-ERP Finance Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -276239,7 +276239,7 @@
         "company_name": "Hearst",
         "id": "f00a9411-fede-48cc-9033-64bf960280ef",
         "title": "KMBC Studio Productions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -280974,7 +280974,7 @@
         "company_name": "Electronic Arts",
         "id": "80c32176-e521-485e-ac93-eebfd7693156",
         "title": "Operations Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -286546,6 +286546,49 @@
             "Urbana, IL"
         ],
         "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Genentech",
+        "id": "fdd55d7f-5055-4149-acc3-9e01b5cddc3a",
+        "title": "Intern - Foundation Models - Prescient Design",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766197832,
+        "date_posted": 1766197832,
+        "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Foundation-Models--Prescient-Design_202512-132192",
+        "locations": [
+            "San Bruno, CA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Genentech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Trane Technologies",
+        "id": "dde0623d-e560-4340-98e7-8a218446901b",
+        "title": "Validation & Verification Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1763715081,
+        "date_posted": 1763715081,
+        "url": "https://careers.tranetechnologies.com/global/en/job/2506312",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Trane-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
