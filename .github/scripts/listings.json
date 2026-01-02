@@ -72094,7 +72094,7 @@
         "company_name": "PennState University",
         "id": "69430fc1-dbac-4fba-8c07-697012305db3",
         "title": "Guidance and Control Research & Development Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Spring 2025",
@@ -93163,7 +93163,7 @@
         "company_name": "Cotiviti",
         "id": "9892e214-ccb9-43f4-8016-f9cf87c0de55",
         "title": "Intern \u2013 Generative AI Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -125914,7 +125914,7 @@
         "company_name": "NVIDIA",
         "id": "1b1c110f-664c-4fb4-ad7c-115545eb901e",
         "title": "Intern - Computer Architecture and Systems Research - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -127313,7 +127313,7 @@
         "company_name": "Rockwell Automation",
         "id": "346276e3-ed36-4b1e-9a06-a080452e996a",
         "title": "Co-op \u2013 Hardware Development Engineer - Hardware Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -146729,7 +146729,7 @@
         "company_name": "Arch Capital Group",
         "id": "f176244b-7ea1-4fc6-98ad-5325ae2dfdde",
         "title": "IT Analytics Engineer Intern - IT - Enterprise Data",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -158757,7 +158757,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "e98d2ae7-4a5c-4a8d-93c0-06ab3c8d225f",
         "title": "Data Science Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -159290,7 +159290,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "46f30da2-6e82-4eed-a01d-e3f793a37634",
         "title": "Quantitative Engineer Intern - Clearing Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -170047,7 +170047,7 @@
         "company_name": "Legrand",
         "id": "b31d0e34-3c2d-4ab8-b48c-c8aaa564942f",
         "title": "Information Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -170543,7 +170543,7 @@
         "company_name": "Brevan Howard",
         "id": "a9835d89-5fa0-44f4-b509-98fb54769c7b",
         "title": "",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -176121,7 +176121,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ab14d678-a7f0-4e4b-9014-0fc570ae05a3",
         "title": "Electricity + Natural Gas Analyst Internship: Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -197054,7 +197054,7 @@
         "company_name": "GE Vernova",
         "id": "af8e1e12-35ae-4ea1-92f5-d5ea581dade9",
         "title": "GE Vernova Certified Learning for Robotic Control Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -199557,7 +199557,7 @@
         "company_name": "GE Vernova",
         "id": "4992adc8-5468-4e8c-a59c-fc095b353491",
         "title": "GE Vernova \u2013 Advanced Predictive Controls Intern - AI & Grid Stability - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -202864,7 +202864,7 @@
         "company_name": "Micron Technology",
         "id": "1cf7a99a-155c-46d3-a409-54f0e1912b54",
         "title": "Intern \u2013 HBM Design Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -204641,7 +204641,7 @@
         "company_name": "Apogee Engineering",
         "id": "c0b246ac-9f50-4715-82eb-c08b2ecfc468",
         "title": "Technical Intelligence Analyst \u2013 Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -206318,7 +206318,7 @@
         "company_name": "Micron Technology",
         "id": "b801cd48-d11d-4617-a068-115673b82ea3",
         "title": "Intern \u2013 Design Engineer - Hbm",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -207629,7 +207629,7 @@
         "company_name": "PennState University",
         "id": "f431b8cc-e02e-45da-8f59-49a0324b5d6b",
         "title": "Summer Research Associate",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -213629,7 +213629,7 @@
         "company_name": "Plexus",
         "id": "5e13a869-6081-4328-9b5b-be21a399d899",
         "title": "Intern \u2013 Digital Manufacturing Operations Engineer - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -216010,7 +216010,7 @@
         "company_name": "Cook Group",
         "id": "129f62f7-ecdc-47b0-8945-414033024e52",
         "title": "Intern \u2013 Artificial Intelligence & Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -216608,7 +216608,7 @@
         "company_name": "Takeda",
         "id": "9290cf59-6d6c-4c27-be3c-2d0c14cfe035",
         "title": "2026 Summer Internship Program: Data & Analytics Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -220469,7 +220469,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "488a7295-310f-45ad-b191-4f4822778dd4",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -224348,7 +224348,7 @@
         "company_name": "ABB",
         "id": "6fef7099-b2ae-4b14-afb7-51098040409b",
         "title": "Automation Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -224369,7 +224369,7 @@
         "company_name": "Marmon Holdings",
         "id": "28a47411-fa6d-4dd6-b6eb-c60571eb8e4a",
         "title": "Engineering Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -226155,7 +226155,7 @@
         "company_name": "Stryker",
         "id": "81f17b60-fc34-4bc3-9781-856582bbeba9",
         "title": "R&D Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -230391,7 +230391,7 @@
         "company_name": "Tencent",
         "id": "033c2e1a-5207-4f1f-babd-23babb0ca49d",
         "title": "Cloud Media Services Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -230433,7 +230433,7 @@
         "company_name": "GE Vernova",
         "id": "e8a918fe-60dc-464e-93be-ed484b799493",
         "title": "GE Vernova HV Circuit-Breaker Robotic assembling lines intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -230476,7 +230476,7 @@
         "company_name": "Micron Technology",
         "id": "89f0c1cd-324d-4db4-a3dd-0e4ece979b45",
         "title": "Intern \u2013 DRAM Applications Engineer 1",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -230519,7 +230519,7 @@
         "company_name": "Analog Devices",
         "id": "61440a58-a098-409f-8f7d-62ecadb48e85",
         "title": "Digital Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -243699,7 +243699,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "9446fe88-ca32-4044-9c9a-f948a1d294ba",
         "title": "Software Developer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -250666,7 +250666,7 @@
         "company_name": "Endeavor Health",
         "id": "b4ec26b1-bb73-4d6c-baf6-bbbd041a39de",
         "title": "Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -252635,7 +252635,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "7b910886-f188-4065-a2f5-e7d5c708b41a",
         "title": "Intern Engineer \u2013 Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -268520,7 +268520,7 @@
         "company_name": "GE Vernova",
         "id": "2f12e87f-8ce4-4049-a28f-42f57c46c853",
         "title": "GE Vernova Controls Advanced Software Product Launch Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -268626,7 +268626,7 @@
         "company_name": "Micron Technology",
         "id": "cdc789a2-ffd0-400d-918c-fc35532cd44e",
         "title": "Intern \u2013 Engineer - Electrical Design",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -274453,7 +274453,7 @@
         "company_name": "Mercury Insurance",
         "id": "64654417-3976-42d7-aa67-9cd3643a0ccd",
         "title": "Technology Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -274773,7 +274773,7 @@
         "company_name": "X-energy",
         "id": "5027f42f-7c99-4f47-bfd2-79d7b2d8ab32",
         "title": "Engineering Intern - Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -276741,7 +276741,7 @@
         "company_name": "Roche",
         "id": "1a4328ef-dc13-4c6e-b095-fbeea1124d21",
         "title": "Intern - Data Insights Unit",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -282101,7 +282101,7 @@
         "company_name": "RTX",
         "id": "963b5a15-19c8-4abf-9bf8-95fa92c24956",
         "title": "Systems Engineering Intern - Hardware In the Loop",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -286846,5 +286846,176 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Becton Dickinson",
+        "id": "84f0355e-8588-4def-9574-eddf4756065d",
+        "title": "Co-op Global Marketing - Rxauto",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1766418540,
+        "date_posted": 1765903098,
+        "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NC---Durham---Roche-Drive/Co-op--Global-Marketing--RxAuto_R-533686-1",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hilcorp",
+        "id": "b7c29b3f-9bd8-48df-96f3-23ebcf7383f4",
+        "title": "Intern - As-Built Drafting",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1765626845,
+        "date_posted": 1765626845,
+        "url": "https://hec.wd5.myworkdayjobs.com/hilcorp_energy_company/job/Anchorage-AK/I-2671---AK-IT-Records-Co-Op-Student_R005669-1",
+        "locations": [
+            "Anchorage, AK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hilcorp",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Marmon Holdings",
+        "id": "0cf46ddc-b2a7-4568-9ab6-378e069d5334",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765042563,
+        "date_posted": 1765042563,
+        "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Ferdinand-IN/Engineering-Intern---Summer-2026_JR0000037706-5",
+        "locations": [
+            "Owensboro, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Marmon-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "9d3cb2eb-eeb5-4cde-ba5c-89d85bd39e6c",
+        "title": "Networking R&D Hardware Design Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1764804125,
+        "date_posted": 1764804125,
+        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Networking-R-D-Hardware-Design-Intern_1193537",
+        "locations": [
+            "Roseville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "City of Austin",
+        "id": "20b5da37-4256-47d8-8756-fb2924bd89fc",
+        "title": "Internship \u2013 Graduate - Systems Planning for Water/Wastewater/Reclaimed Water - Austin Water",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1764287002,
+        "date_posted": 1764287002,
+        "url": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Waller-Creek-Center/Internship---Graduate---Systems-Planning-for-Water-Wastewater-Reclaimed-Water--Austin-Water-_JR101208",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/City-Of-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "f3c11d3e-418c-462f-a6d4-f9bd42cb42e1",
+        "title": "Intern Layout AI-Automation",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1766161207,
+        "date_posted": 1764154395,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Layout-AI-Automation_JR86351",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "54b8f4a9-ca1b-4733-8ea9-2d062f9dd4d5",
+        "title": "Intern Semiconductor Design Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1763924800,
+        "date_posted": 1763924800,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Semiconductor-Design-Engineer_JR84962",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sierra Nevada Corporation",
+        "id": "7b58a5aa-d8e5-49fb-bc7f-5334cd7e4181",
+        "title": "Systems Engineer Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765637998,
+        "date_posted": 1765637998,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Systems-Engineer-Intern---Summer-2026_R0028382",
+        "locations": [
+            "Hagerstown, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
