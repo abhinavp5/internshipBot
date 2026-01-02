@@ -117158,7 +117158,7 @@
         "company_name": "ServiceNow",
         "id": "2220cfaf-ccfc-4a96-b5af-52253e3f3e9e",
         "title": "Data Informatics Analyst Intern - Security Organization",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -195716,7 +195716,7 @@
         "company_name": "Lumafield",
         "id": "e224f319-f099-4bb1-b360-e659ff0930c0",
         "title": "Engineering Intern - Embedded Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -220923,7 +220923,7 @@
         "company_name": "Tenstorrent",
         "id": "24ffb910-4a7c-4e94-b093-03adc4f5115c",
         "title": "Chiplet Security Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -230624,7 +230624,7 @@
         "company_name": "Beta Technologies",
         "id": "f6472f17-ba4d-4c27-8256-155f1ced033d",
         "title": "2026 \u2013 2027 BETA Internship - Vermont",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -276454,7 +276454,7 @@
         "company_name": "NXP Semiconductors",
         "id": "7aad84f8-64bc-4c42-b997-d574cd815d2f",
         "title": "AI/ML ASIC Design and Implementation Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
