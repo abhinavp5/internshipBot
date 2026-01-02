@@ -88155,7 +88155,7 @@
         "company_name": "Cotiviti",
         "id": "3dabf3fa-56cb-4626-a1d7-45c6307008f1",
         "title": "Intern \u2013 Generative AI Research Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -88571,7 +88571,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "385eed62-f687-4fff-ab42-08f41edb4cb5",
         "title": "Quantitative Systematic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -90475,7 +90475,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "97094f97-0c76-42e9-bacf-3f331d041f15",
         "title": "Quantitative Systematic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -91889,7 +91889,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "7bb38c12-27e1-4e8d-bddd-a149edbd6e8a",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -129045,7 +129045,7 @@
         "company_name": "MKS Instruments",
         "id": "47dd7841-95eb-4e63-b908-d86486653268",
         "title": "Data Scientist Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -159220,7 +159220,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "4e79f79a-bf73-45f0-a035-c8ed56f6cbcd",
         "title": "Software Engineering Intern - Full-Stack - Java",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -159266,7 +159266,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "bc4eaca1-d7bb-46f8-a195-59f2f4955803",
         "title": "Weather Data Analyst Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -180520,7 +180520,7 @@
         "company_name": "Centerstone",
         "id": "6f4aa08d-0137-483d-9c06-65fdf9b8e75a",
         "title": "Bachelor Level Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -186504,7 +186504,7 @@
         "company_name": "Genuine Parts Company",
         "id": "4c7686fe-afef-460b-8747-3d8ab32ad560",
         "title": "Cloud Developer Intern - Cloud Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -204918,7 +204918,7 @@
         "company_name": "Microchip Technology",
         "id": "7c2d8aaa-7c05-4110-94e0-11ff8b54d8a1",
         "title": "Intern \u2013 Technician",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -206591,7 +206591,7 @@
         "company_name": "Legrand",
         "id": "990ef33c-969a-45f9-b9f3-674f96b7935d",
         "title": "Intern \u2013 Engineering Firmware",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -209104,7 +209104,7 @@
         "company_name": "Shure",
         "id": "f0d5af3f-ab4d-4767-9b11-843f39e6945f",
         "title": "Digital Signal Processing Intern - Digital Signal Processing - Machine Learning",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -220598,7 +220598,7 @@
         "company_name": "Tokyo Electron",
         "id": "153cb9c8-2cd3-42bb-9e27-029aa24a3210",
         "title": "ATG SPS CFD Simulation Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -223371,7 +223371,7 @@
         "company_name": "Stryker",
         "id": "8f592589-39a7-4bcb-b21f-42396ac2edd0",
         "title": "Intern - New Product Development Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -272575,7 +272575,7 @@
         "company_name": "Vertex Pharmaceuticals",
         "id": "b926cd08-cca6-4734-b62b-8458ce77403d",
         "title": "Vertex Summer Intern 2026 - Statistical Programming",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -274862,7 +274862,7 @@
         "company_name": "Cook Group",
         "id": "a8805501-122e-44c3-b383-690400242aa1",
         "title": "Product Management/Marketing Intern - Aortic Medical Devices",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -278171,7 +278171,7 @@
         "company_name": "SCS Engineers",
         "id": "a0ef2e1a-c3a3-44d8-840e-b046bca8a5ee",
         "title": "Engineering Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -287056,6 +287056,27 @@
             "Princeton, NJ"
         ],
         "company_url": "https://simplify.jobs/c/Genmab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "City of Amarillo",
+        "id": "a39d20ec-aeab-4e84-afaf-bbadc905cf3b",
+        "title": "College Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1765927666,
+        "date_posted": 1765927666,
+        "url": "https://amarillo.wd5.myworkdayjobs.com/amarillo_external_career_site/job/Simms-Municipal-Building/COLLEGE-INTERN_JR2308",
+        "locations": [
+            "Amarillo, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/City-Of-Amarillo",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
