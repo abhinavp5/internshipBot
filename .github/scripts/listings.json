@@ -225742,7 +225742,7 @@
         "company_name": "Allegion",
         "id": "b4e4e986-f05c-4add-abd7-8bdedb6ccb52",
         "title": "Product Assurance Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -242483,7 +242483,7 @@
         "company_name": "National Renewable Energy Laboratory",
         "id": "86265c7f-20fe-4f04-96a6-9061cad655a6",
         "title": "Graduate Intern - Building Energy Modeling and Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -250075,7 +250075,7 @@
         "company_name": "Leidos",
         "id": "3058d075-dde1-44e5-971b-e35bbb30f28a",
         "title": "Systems Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -251759,7 +251759,7 @@
         "company_name": "Philips",
         "id": "9eb17c96-29a0-4f0f-9a4d-4afcbc2d5a9b",
         "title": "Intern Data Strategy & Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -270098,7 +270098,7 @@
         "company_name": "Microchip Technology",
         "id": "cd40c2db-7f7f-4d0b-a228-e51eeb59039b",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -278213,7 +278213,7 @@
         "company_name": "CME Group",
         "id": "c856d519-9052-4f09-aee6-995ea7a6cd16",
         "title": "Research and Product Development PhD Student Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -280607,7 +280607,7 @@
         "company_name": "NVIDIA",
         "id": "da0549e8-661f-4b9d-ace2-d2fb292c16b2",
         "title": "VLSI Design Automation Intern - Applied AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -283820,7 +283820,7 @@
         "company_name": "Marmon Holdings",
         "id": "aab8397d-6b39-4df0-b60b-5677da96dcc2",
         "title": "Data Engineer \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -284263,7 +284263,7 @@
         "company_name": "Marsh & McLennan",
         "id": "2e092f9c-89d7-47b6-8c75-d194a543ccc5",
         "title": "Government Health Consulting Informatics Summer Intern - College Program 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -287140,6 +287140,137 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Tokyo-Electron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "S&P Global ",
+        "id": "2ef99700-9310-44bf-8795-6ded828e4b48",
+        "title": "Research Analyst Intern \u2013 Early Career - Fuels - Chemicals & Resource Solutions",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1767144062,
+        "date_posted": 1767144062,
+        "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Houston-TX/Research-Analyst-Intern---Fuels--Chemicals---Resource-Solutions--Early-Career-_320543-1",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/SP-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zoetis",
+        "id": "1374dbba-65b8-4bad-8f03-ef7cf0d3b814",
+        "title": "Tech and Digital Intern: Process Optimization & Automation Developer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764733752,
+        "date_posted": 1764733752,
+        "url": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Parsippany/Tech-and-Digital-Intern---Process-Optimization---Automation-Developer_JR00019606-2",
+        "locations": [
+            "Parsippany-Troy Hills, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoetis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Thermo Fisher Scientific",
+        "id": "1ae291a9-944a-405f-a261-e4e85c4da6d0",
+        "title": "Field Service Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764534444,
+        "date_posted": 1764534444,
+        "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Massachusetts-USA/Field-Service-Engineer-Apprentice---Multiple-Locations_R-01334931",
+        "locations": [
+            "Philadelphia, PA",
+            "Newark, NJ",
+            "Kansas City, MO",
+            "Massachusetts",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Aerospace",
+        "id": "f625201c-4feb-49e4-8f28-41527ed27d3e",
+        "title": "Engineering Engines Co-op - Computer or Software Engineering - US (Location) Fall 2026",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1764534298,
+        "date_posted": 1764534298,
+        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engineering-Engines-Co-op---Computer-or-Software-Engineering---US---Fall-2026_R5002219",
+        "locations": [
+            "Sharonville, OH",
+            "Saugus, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Barclays",
+        "id": "a320e62e-b484-4b05-8a89-dca0bcefd2bd",
+        "title": "Global Transaction Banking Degree Apprenticeship Programme",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1765637528,
+        "date_posted": 1765637528,
+        "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Global-Transaction-Banking-Degree-Apprenticeship-Programme-2026-London_JR-0000065118",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Barclays",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Marmon Holdings",
+        "id": "81e4c78f-76ab-4782-bb1a-7a28ff06dd2b",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1762211615,
+        "date_posted": 1762211615,
+        "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Cullman-AL/Engineering-Intern---Summer-2026_JR0000037705-4",
+        "locations": [
+            "Decatur, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Marmon-Holdings",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
