@@ -48649,7 +48649,7 @@
         "company_name": "Voyant Photonics",
         "id": "d78cd560-fb92-454c-a948-b9599498e394",
         "title": "Internship - Lidar Test Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -191910,7 +191910,7 @@
         "company_name": "Prologis",
         "id": "f58b8ae7-1041-422f-99b8-6432ac1c7b04",
         "title": "Intern \u2013 ESG",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -219989,7 +219989,7 @@
         "company_name": "Lightmatter",
         "id": "120bdea1-c87e-4092-b9b1-24df12ce73e5",
         "title": "Layout Engineering \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
