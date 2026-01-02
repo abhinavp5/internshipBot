@@ -11472,7 +11472,7 @@
         "company_name": "Lamb Weston",
         "id": "0832f3cd-0410-4623-bf21-f0ad4a5e13c0",
         "title": "Lamb Weston Summer Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -54208,7 +54208,7 @@
         "company_name": "Solar Turbines",
         "id": "8f35b0c2-155e-4c1d-8e82-e28b7f5acf4d",
         "title": "2026 Internship - Gas Turbine Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -197440,7 +197440,7 @@
         "company_name": "Oracle",
         "id": "e38006ed-d9bd-40d2-920b-2753b4e1e259",
         "title": "Undergrad Software Engineer Intern - Oracle Cloud Infrastructure - Oci - Nashville - TN",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -233178,7 +233178,7 @@
         "company_name": "Berkshire Hathaway Energy",
         "id": "e0da3d81-704d-418f-a4c8-03aabb7dc278",
         "title": "Intern Renewable Generation Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -286589,6 +286589,27 @@
             "Bloomington, MN"
         ],
         "company_url": "https://simplify.jobs/c/Trane-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cummins",
+        "id": "27e15385-2635-486b-8ad5-0374e1dba996",
+        "title": "Product Systems Validation Co-Op Positions",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1764833150,
+        "date_posted": 1764833150,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2422788",
+        "locations": [
+            "Columbus, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
