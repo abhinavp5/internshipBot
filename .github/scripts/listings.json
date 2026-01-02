@@ -133,25 +133,6 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1752133269,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19305",
-        "company_name": "Nokia",
-        "title": "SW Tools Development Co-op/Intern \ud83d\udec2",
-        "locations": [
-            "Katana, Ontario, Canada"
-        ],
-        "terms": [
-            "Fall 2025"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "GaryZhous",
-        "id": "b284edeb-6476-4d83-b66b-392a141ce884",
-        "date_posted": 1746594058,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Cibc",
@@ -169804,7 +169785,7 @@
         "company_name": "Illumio",
         "id": "8823043f-42bf-4d99-bea8-192b7e2a07ad",
         "title": "Engineering Intern - Architecture Platform",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -201415,7 +201396,7 @@
         "company_name": "Autodesk",
         "id": "43187255-7543-47c0-a796-f7417447e265",
         "title": "Intern \u2013 Finance Business Intelligence Developer - Finance BI - Business Insights & Automation",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -217483,7 +217464,7 @@
         "company_name": "Muon Space",
         "id": "f54ddc6f-45ed-4ac6-b161-f851d515db39",
         "title": "Systems Engineering Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -265407,7 +265388,7 @@
         "company_name": "General Motors",
         "id": "8c9b42d6-a425-4d1e-bafd-130f1bcbf77e",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -266794,7 +266775,7 @@
         "company_name": "Rolls Royce",
         "id": "fb862b2c-4795-4db2-9149-a1c09be0f3cf",
         "title": "Overseas Supply Chain Operations and Data Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -267959,7 +267940,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "5d519218-91cc-4875-ab77-33811f20e4df",
         "title": "Data Operations Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -271409,7 +271390,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "22b49f86-f347-4763-a5fa-a04987659bbd",
         "title": "PCL Forecasting Intern - Grm - Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -286501,6 +286482,70 @@
             "Santa Rosa, CA"
         ],
         "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Port Authority NY NJ",
+        "id": "b798b884-fd30-4122-9ca4-13a9f3bf6593",
+        "title": "Summer Intern - Tenant Construction and Alteration Process",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764630948,
+        "date_posted": 1764630948,
+        "url": "https://jobs.jobvite.com/panynj/job/oawZyfwX?nl=1&nl=1&fr=false",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Port-Authority-NY-NJ",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Maven Securities",
+        "id": "1d051c50-4d56-4de6-b986-d00eafd8b01f",
+        "title": "Amsterdam Trader Summer Internship 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763088064,
+        "date_posted": 1763088064,
+        "url": "https://job-boards.greenhouse.io/emergingtalent/jobs/7267548",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Maven-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rivian",
+        "id": "1268c87c-0412-4a75-9209-48c2b9a47691",
+        "title": "Research Park Intern - Hardware Design",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1762996713,
+        "date_posted": 1762996713,
+        "url": "https://careers.rivian.com/jobs/27469?lang=en-us&icims=1",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
