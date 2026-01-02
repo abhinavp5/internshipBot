@@ -157,28 +157,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Tesla",
-        "id": "dd99bafb-211f-4215-bbb1-6fb0f7866715",
-        "title": "Internship - Electronic Design Engineer - AI Hardware",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1746598650,
-        "date_posted": 1746598650,
-        "url": "https://www.tesla.com/careers/search/job/242582",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Tesla",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Nokia",
         "id": "6cf00bd1-2dc3-4f0f-882d-ac92cc8131a6",
         "title": "Hardware Failure Analysis Co-op",
@@ -57987,7 +57965,7 @@
         "company_name": "Booz Allen",
         "id": "53b9b467-80c8-4768-ab57-1ed92002df27",
         "title": "University \u2013 2026 Summer Games Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -209318,7 +209296,7 @@
         "company_name": "CIBC",
         "id": "a2fb2dfa-0057-4d75-afaa-da533d6a7e2a",
         "title": "2026 Summer Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -223063,7 +223041,7 @@
         "company_name": "Stryker",
         "id": "93bed506-361d-43bd-9784-6f5f626c027a",
         "title": "Kettering Engineering Co-op - R&D - New Product Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -246681,7 +246659,7 @@
         "company_name": "Chevron Corporation",
         "id": "a5c0ed89-39c2-430e-b4d4-52d42301aac6",
         "title": "2025 \u2013 Previous Intern - 2026 Earth Scientist Full Time",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -251738,7 +251716,7 @@
         "company_name": "Takeda",
         "id": "e92ee221-83e3-488c-8c92-4b74cbeef5f1",
         "title": "Intern Program: Audio Processing & Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -252958,7 +252936,7 @@
         "company_name": "Rivian",
         "id": "36470474-c4b2-478e-b777-97ff936725f2",
         "title": "Research Park Intern - Embedded Systems Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -259114,7 +259092,7 @@
         "company_name": "Microsoft",
         "id": "5f7a66c6-b15d-4f95-bcb7-952025bc75b5",
         "title": "Silicon Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025",
@@ -275052,7 +275030,7 @@
         "company_name": "Cintas",
         "id": "9caac971-6fd7-4bfc-9c2d-5518cef6a013",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -282653,7 +282631,7 @@
         "company_name": "Trane Technologies",
         "id": "2d3b5231-5718-4478-88b8-d2b9d74f184a",
         "title": "Business Systems Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -286610,6 +286588,27 @@
             "Columbus, IN"
         ],
         "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Corsair",
+        "id": "6086b4c1-3fcf-49e4-bb2f-afa81740b09b",
+        "title": "Product Marketing Intern - Memory",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765839968,
+        "date_posted": 1765839968,
+        "url": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8636",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Corsair",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
