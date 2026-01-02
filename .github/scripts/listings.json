@@ -29492,7 +29492,7 @@
         "company_name": "ByteDance",
         "id": "de48457d-a67f-404d-998a-651a76fa2e00",
         "title": "Research Intern - Virtual Network",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -30743,7 +30743,7 @@
         "company_name": "ByteDance",
         "id": "80d6a52f-8b0e-41cb-9ddd-0c97a3c7e8ec",
         "title": "Research Intern - Infrastructure System Lab",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -30766,7 +30766,7 @@
         "company_name": "ByteDance",
         "id": "7bc2ed3b-fb22-486b-a610-140134aed186",
         "title": "Research Intern - Infrastructure System Lab",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -207259,7 +207259,7 @@
         "company_name": "ByteDance",
         "id": "ac5c5f08-da14-42de-b7aa-0d532145eefa",
         "title": "Research Scientist Intern - Biomolecular Structure Foundation Models - Seed AI-for-Science - 2026 Start - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -239486,7 +239486,7 @@
         "company_name": "Intuitive Surgical",
         "id": "549d8449-d93d-4fd5-b514-2a6d6805ec6e",
         "title": "AI Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -246055,7 +246055,7 @@
         "company_name": "Ambarella",
         "id": "d5dc5d72-f912-436f-8385-faa6dc97d1f4",
         "title": "Verification Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -246139,7 +246139,7 @@
         "company_name": "Ambarella",
         "id": "736a514c-c180-47cd-9b72-e9b5613e1d6e",
         "title": "DFT Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -246162,7 +246162,7 @@
         "company_name": "Ambarella",
         "id": "22d08295-47cf-4b31-9064-5548c060a73f",
         "title": "ASIC Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -251136,7 +251136,7 @@
         "company_name": "Nokia",
         "id": "48c92c1a-18d9-488e-9976-188c1e758d39",
         "title": "Radio Frequency IC Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -253914,7 +253914,7 @@
         "company_name": "Nokia",
         "id": "dabba410-1c96-4046-8d60-bbb537b899a6",
         "title": "Bell Labs Platform ASIC Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -253957,7 +253957,7 @@
         "company_name": "Nokia",
         "id": "6f24cfe5-46c6-4a95-a973-d02fb02376ad",
         "title": "Bell Labs Fiber Optics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -257718,7 +257718,7 @@
         "company_name": "Ambarella",
         "id": "d1b52a81-9c46-4fe8-b3ef-097dd0a546b7",
         "title": "ASIC Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -276804,7 +276804,7 @@
         "company_name": "Nokia",
         "id": "7de825a8-45ba-49e2-858e-3d256324554c",
         "title": "Hardware Digital Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],

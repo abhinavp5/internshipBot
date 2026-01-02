@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1112 Internship Roles by Category
+### Browse 1110 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (280)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (279)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (76)
 
@@ -19,7 +19,7 @@
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (19)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (124)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (123)
 
 ---
 
@@ -1287,13 +1287,6 @@
 <td>28d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
-<td>Bell Labs Fiber Optics Co-op</td>
-<td>Berkeley Heights, NJ</td>
-<td><div align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27739?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6f24cfe5-46c6-4a95-a973-d02fb02376ad?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>28d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/General-Dynamics-Mission-Systems?utm_source=GHList&utm_medium=company">General Dynamics Mission Systems</a></strong></td>
 <td>SW Engineering Intern</td>
 <td>Brooklyn, OH</td>
@@ -2054,7 +2047,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (2139)</summary>
+<summary>🗃️ Inactive roles (2140)</summary>
 
 <table>
 <thead>
@@ -2680,6 +2673,13 @@
 <td><strong><a href="https://simplify.jobs/c/Roche?utm_source=GHList&utm_medium=company">Roche</a></strong></td>
 <td>Intern - Csi</td>
 <td>Santa Clara, CA</td>
+<td>🔒</td>
+<td>28d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
+<td>Bell Labs Fiber Optics Co-op</td>
+<td>Berkeley Heights, NJ</td>
 <td>🔒</td>
 <td>28d</td>
 </tr>
@@ -12574,6 +12574,20 @@
 <td>🔒</td>
 <td>3mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Varda-Space?utm_source=GHList&utm_medium=company">Varda Space</a></strong></td>
+<td>Mission Operations Internship - Mission Operations</td>
+<td>El Segundo, CA</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Varda-Space-Industries?utm_source=GHList&utm_medium=company">Varda Space Industries</a></strong></td>
+<td>Microsoft / Security Administration Internship</td>
+<td>El Segundo, CA</td>
+<td>🔒</td>
+<td>3mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -12600,20 +12614,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Varda-Space?utm_source=GHList&utm_medium=company">Varda Space</a></strong></td>
-<td>Mission Operations Internship - Mission Operations</td>
-<td>El Segundo, CA</td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Varda-Space-Industries?utm_source=GHList&utm_medium=company">Varda Space Industries</a></strong></td>
-<td>Microsoft / Security Administration Internship</td>
-<td>El Segundo, CA</td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
 <tr>
 <td>↳</td>
 <td>Mission Software – Internship - Python</td>
@@ -29048,7 +29048,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company">Tencent</a></strong></td>
 <td>Research Internship - Reinforcement Learning for Large Foundation Models</td>
 <td>Bellevue, WA</td>
 <td>🔒</td>
@@ -44834,13 +44834,6 @@
 <td>27d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
-<td>Bell Labs Platform ASIC Research Intern</td>
-<td>Berkeley Heights, NJ</td>
-<td><div align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27971?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/dabba410-1c96-4046-8d60-bbb537b899a6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>28d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Cummins?utm_source=GHList&utm_medium=company">Cummins</a></strong></td>
 <td>Product Engineering – Summer Internship Positions</td>
 <td>Columbus, IN</td>
@@ -45153,7 +45146,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (772)</summary>
+<summary>🗃️ Inactive roles (773)</summary>
 
 <table>
 <thead>
@@ -45422,6 +45415,13 @@
 <td><strong><a href="https://simplify.jobs/c/Northrop-Grumman?utm_source=GHList&utm_medium=company">Northrop Grumman</a></strong></td>
 <td>Computer Engineer Intern</td>
 <td>Beavercreek, OH</td>
+<td>🔒</td>
+<td>28d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
+<td>Bell Labs Platform ASIC Research Intern</td>
+<td>Berkeley Heights, NJ</td>
 <td>🔒</td>
 <td>28d</td>
 </tr>
