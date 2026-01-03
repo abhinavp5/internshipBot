@@ -277,24 +277,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Ultra",
-        "id": "89150ba7-d369-4b20-915f-4dc03e53982f",
-        "title": "Production Apprentice - Wireperson",
-        "active": false,
-        "terms": [],
-        "date_updated": 1746714316,
-        "date_posted": 1746714316,
-        "url": "https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Greenford-420/Production-Apprentice---Wireperson_REQ-9817-1",
-        "locations": [
-            "Wembley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Ultra",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Ciena",
         "id": "32d01d1c-65fc-4b1c-8103-b98fc5547f8f",
         "title": "Software Engineer and Tools Developer Co-op",
@@ -122276,32 +122258,6 @@
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Uber",
-        "id": "d0b8453b-c3ef-4835-a743-e8006abd265a",
-        "title": "Software Engineering Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1758581843,
-        "date_posted": 1746712968,
-        "url": "https://www.uber.com/global/en/careers/list/135752/",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "NYC",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Uber",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -283953,7 +283909,7 @@
         "company_name": "Protech Automotive Solutions",
         "id": "300816cb-d781-43d2-8f23-94a69ae27906",
         "title": "Automotive ADAS Calibration Technician Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
