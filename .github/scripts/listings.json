@@ -277285,7 +277285,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "34070e76-bc27-46a4-bc37-5aae60674289",
         "title": "Multi-Modal Cyber-physical sensing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -282191,7 +282191,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "0436f6da-716a-4ecf-b66c-ce1476b1f498",
         "title": "Multi-Modal Cyber-Physical Sensing Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
