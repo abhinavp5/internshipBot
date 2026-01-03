@@ -134,24 +134,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Neuralink",
-        "id": "a2dfea15-9579-4b72-97ab-b4d45941a3b8",
-        "title": "Software Engineer Intern - Implant",
-        "active": false,
-        "terms": [],
-        "date_updated": 1746685496,
-        "date_posted": 1746685496,
-        "url": "https://boards.greenhouse.io/neuralink/jobs/6569020003",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Neuralink",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Cadence Design Systems",
         "id": "92c54b88-ccb2-477f-84d4-4b327bed7724",
@@ -434,24 +416,6 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Neuralink",
-        "id": "ff0f892b-1c03-4107-a4cf-5c53b1b53595",
-        "title": "Software Engineer Intern - Implant",
-        "active": true,
-        "terms": [],
-        "date_updated": 1746685497,
-        "date_posted": 1746685497,
-        "url": "https://boards.greenhouse.io/neuralink/jobs/6569018003",
-        "locations": [
-            "Fremont, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Neuralink",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -29874,7 +29838,7 @@
         "company_name": "Capital One",
         "id": "712139b2-cfd7-4510-a04f-ad0a45f6def6",
         "title": "Current PhD \u2013 Data Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -35016,7 +34980,7 @@
         "company_name": "Copart",
         "id": "bfc7551f-36a8-4e18-8c84-cd29ed4949a8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -144583,7 +144547,7 @@
         "company_name": "State of Wisconsin Investment Board",
         "id": "5d163e58-1ef5-4620-b2db-0cd22b36ab34",
         "title": "Data Science Intern - Data Strategy & Information Delivery Division",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -144629,7 +144593,7 @@
         "company_name": "State of Wisconsin Investment Board",
         "id": "21dc8a6e-6270-49ba-8a33-5e878c7bf215",
         "title": "Data Analytics Engineering Intern - Data Analytics Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -156814,7 +156778,7 @@
         "company_name": "7-Eleven",
         "id": "54e0c2d6-1ee7-48dc-b696-ce9a4293dc40",
         "title": "Digital Product Manager Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -224765,7 +224729,7 @@
         "company_name": "7-Eleven",
         "id": "d0a6ea20-188d-4c95-8664-a43446417e23",
         "title": "Restaurant Culinary Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -244813,7 +244777,7 @@
         "company_name": "Copart",
         "id": "0f6c7447-54b7-41b3-a8ee-0f74d113a958",
         "title": "Technology Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -257240,7 +257204,7 @@
         "company_name": "Sanofi",
         "id": "019d8ea0-177e-4847-a5e2-34c963f5942d",
         "title": "Mrna Systems Engineering \u2013 Fall 2026 Co-op - Vaccine Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Summer 2026"
@@ -263066,7 +263030,7 @@
         "company_name": "Micron Technology",
         "id": "681d4632-7e7b-4fbb-a735-228f94c5cf24",
         "title": "Intern \u2013 Product Owner AI/Agentic Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -271634,7 +271598,7 @@
         "company_name": "Empower",
         "id": "98cd5446-68cd-4412-8e9b-2f01cbcf6cbc",
         "title": "Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -276306,7 +276270,7 @@
         "company_name": "Capital One",
         "id": "e48ade5c-3ea5-444f-8b51-b495ec8178ab",
         "title": "Intern Data Analytics Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
