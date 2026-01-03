@@ -134,46 +134,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Leidos",
-        "id": "84ac4272-d4a2-4412-b5d8-7d00ba25607a",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1746666748,
-        "date_posted": 1746666748,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Trenton-NJ/Software-Engineer-Intern_R-00158927",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "nVent",
-        "id": "4fc4a1f8-c966-4545-8314-ca6877785188",
-        "title": "Summer Software Engineering Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1746667346,
-        "date_posted": 1746667346,
-        "url": "https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Solon-OH-US/Summer-Software-Engineering-Co-op_R17359",
-        "locations": [
-            "Solon, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/bfdacd80-1593-4655-8b3a-da62394b5fff",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Tesla",
         "id": "36c766d7-51b7-4d96-b98c-22c50173a09b",
