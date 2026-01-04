@@ -154,66 +154,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Leidos",
-        "id": "403d20a4-a5c6-43ea-bb89-24ef47978ad7",
-        "title": "Technical Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1746827197,
-        "date_posted": 1746827197,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00159032",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lowe's ",
-        "id": "54be3dff-1b76-4ec3-9a16-6399df0a09ac",
-        "title": "Corporate Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1746826773,
-        "date_posted": 1746826773,
-        "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Corporate-Intern_JR-02146986",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Lowes",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Western Digital",
-        "id": "9e48cae9-755b-4f06-81a1-447657165558",
-        "title": "Servo Firmware Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1746828725,
-        "date_posted": 1746828725,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000058636185",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "American Axle & Manufacturing",
         "id": "da485715-c6b7-455e-92c6-8e12cadfd06a",
@@ -147850,7 +147790,7 @@
         "company_name": "Adobe",
         "id": "a5147a9b-d6c5-45fe-8d36-a86c49e199e5",
         "title": "Intern - AI Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -187917,7 +187857,7 @@
         "company_name": "Bedrock Robotics",
         "id": "8444f1ad-9504-49f5-b0a7-873fe4919b30",
         "title": "Machine Learning Internship 2026: World Models - World Models - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
