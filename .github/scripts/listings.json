@@ -155442,7 +155442,7 @@
         "company_name": "Iridium Communications",
         "id": "e63a3e37-0a93-489c-91ea-1d948ed419a2",
         "title": "Software Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -155538,7 +155538,7 @@
         "company_name": "Iridium Communications",
         "id": "23de8143-2060-483b-9d4c-6f912604bfd2",
         "title": "Software Engineering Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -240258,7 +240258,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "417871cd-9f57-4003-ba18-d9cab6796608",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
