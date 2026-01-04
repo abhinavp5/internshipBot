@@ -134,29 +134,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Tesla",
-        "id": "18b47e8d-cdc6-4e71-a484-8c97cd467149",
-        "title": "Internship - ML Performance Software Engineer - Dojo",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025",
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1746771431,
-        "date_posted": 1746771431,
-        "url": "https://www.tesla.com/careers/search/job/242741",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Tesla",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Comcast",
         "id": "ae23abdf-db11-4483-8781-c6c37ee35486",
@@ -182518,7 +182495,7 @@
         "company_name": "General Motors",
         "id": "ff0a0e20-d264-41e0-af86-2aef50bb4574",
         "title": "Summer Intern - Research & Development - Vehicle Health Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -215374,7 +215351,7 @@
         "company_name": "Takeda",
         "id": "e1c0821d-3cf6-4f6c-95e0-2a00c95fd6d1",
         "title": "2026 Summer Internship Program: US New Product Launches \u2013 Intern - Data - Digital & Technology - DD&T",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -263734,7 +263711,7 @@
         "company_name": "General Motors",
         "id": "b114d58c-4f4f-45b6-af8e-c4715d5f4e13",
         "title": "Intern - Autonomous Vehicle Systems and Integration - Bachelors Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
