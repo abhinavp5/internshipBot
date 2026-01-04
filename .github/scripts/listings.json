@@ -134,26 +134,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Aquatic Capital Management",
-        "id": "0b2f6b9a-ea9b-4d56-ad80-54c295ac5b1b",
-        "title": "Quantitative Researcher \u2013 Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1746749561,
-        "date_posted": 1746749561,
-        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7985726002",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Activision-Blizzard",
         "id": "b614c210-3b53-4a02-aaf7-e01855ac9ed5",
@@ -53566,7 +53546,7 @@
         "company_name": "Mitsubishi UFJ Financial Group",
         "id": "aae15e6f-4f06-48b7-9f72-fcc6759de829",
         "title": "2026 MUFG Summer Internship Programme: Credit Sales & Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
