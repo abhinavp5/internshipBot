@@ -216461,7 +216461,7 @@
         "company_name": "Trimble",
         "id": "f555f161-c16c-49ee-a65d-5065f53de9e3",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -217608,7 +217608,7 @@
         "company_name": "Gilead Sciences",
         "id": "9378d81a-0170-4752-b39b-ee3c7da7cad3",
         "title": "Intern \u2013 IT - Enterprise Data & Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -217757,7 +217757,7 @@
         "company_name": "Gilead Sciences",
         "id": "76105af0-1c3d-48e4-9a66-12997b87fa3d",
         "title": "Intern \u2013 IT - Enterprise Data and Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -274442,7 +274442,7 @@
         "company_name": "General Motors",
         "id": "ed5b0f23-b8db-4297-a6bc-697bf5b73624",
         "title": "Intern \u2013 AI/ML Intern - Autonomous Vehicle Engineering - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -274465,7 +274465,7 @@
         "company_name": "General Motors",
         "id": "e1d80878-0c90-440d-a097-fa70b5e4b876",
         "title": "2026 Summer Intern - Software Engineer - Dynamics & Controls",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -274487,7 +274487,7 @@
         "company_name": "General Motors",
         "id": "daa520e2-7f5c-42ac-aaf8-dbf92d9faca1",
         "title": "2026 Summer Intern \u2013 AI/ML Intern - Vision Language Model/Action - Masters",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -274510,7 +274510,7 @@
         "company_name": "General Motors",
         "id": "b579c978-b0d4-4010-9fb8-7884b1d228e3",
         "title": "Intern AI/ML - Model Scaling Foundations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -274533,7 +274533,7 @@
         "company_name": "General Motors",
         "id": "89e0e415-3436-4d61-b994-2ec30f21b5ce",
         "title": "Intern \u2013 AI/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -274945,7 +274945,7 @@
         "company_name": "General Motors",
         "id": "f4b40f3e-de96-4441-a0c2-6e1a04c45ce0",
         "title": "2026 Summer Intern - Machine Learning Engineer - Trajectory Generation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -275078,7 +275078,7 @@
         "company_name": "General Motors",
         "id": "3ed64adb-392f-4daf-987b-dd3218e81354",
         "title": "Intern - Machine Learning Engineer - Trajectory Generation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -275101,7 +275101,7 @@
         "company_name": "General Motors",
         "id": "3e9f670d-3567-47cd-9550-dd7c47787dcb",
         "title": "Intern - Software Engineer - Autonomous Robot",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -275421,7 +275421,7 @@
         "company_name": "General Motors",
         "id": "0e13c4db-4313-439d-84af-43073b34f3a8",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -275658,7 +275658,7 @@
         "company_name": "General Motors",
         "id": "c2afc32b-aa6f-4047-ad82-7e91cec8791b",
         "title": "Intern - Machine Learning Engineer-Autonomous Vehicle Engineering - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -277758,7 +277758,7 @@
         "company_name": "Genentech",
         "id": "a1408622-ec4e-4cbc-8a5e-ccd6a6d90150",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -277955,7 +277955,7 @@
         "company_name": "Genentech",
         "id": "07b793c3-ee34-4cf0-85ff-b9a9d7fb5cd4",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -283139,7 +283139,7 @@
         "company_name": "Thales",
         "id": "6416607b-e3fa-4399-bab1-0379767d6db9",
         "title": "2026 Test and Repair Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -286286,5 +286286,76 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ontario Teachers' Pension Plan",
+        "id": "ff7618c4-09e1-49b6-ae69-cc8b287ede30",
+        "title": "Intern \u2013 Product & Data Engineering - May 2026 - Months",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1767607131,
+        "date_posted": 1767607131,
+        "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Product---Data-Engineering--May-2026---16-months-_6803",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Ontario Teachers' Pension Plan",
+        "id": "4bad7b5f-c624-4d06-8338-9ad41e04a242",
+        "title": "Intern Capital Markets - Quantitative Strategies and Research",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2026"
+        ],
+        "date_updated": 1767607144,
+        "date_posted": 1767607144,
+        "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Capital-Markets--Quantitative-Strategies-and-Research--May-2026---8-months-_6787",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Roche",
+        "id": "8a6ead90-1dee-48e0-a480-0fe0f0dd82e5",
+        "title": "Intern - Technical Specialist",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1767606106,
+        "date_posted": 1767606106,
+        "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Mississauga/XMLNAME-2026-Intern----Technical-Specialist_202512-131927",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Roche",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
