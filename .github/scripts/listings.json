@@ -54690,7 +54690,7 @@
         "company_name": "Dick's Sporting Goods",
         "id": "eddf878f-e0ab-4a89-96d3-4cca543a62e1",
         "title": "Product Management \u2013 Corporate Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -54713,7 +54713,7 @@
         "company_name": "Dick's Sporting Goods",
         "id": "c5ec9e19-d3f5-4cb1-8fe8-3c8b88648240",
         "title": "Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -99545,7 +99545,7 @@
         "company_name": "Waymo",
         "id": "44ae45dc-3628-443f-9818-709a953e88af",
         "title": "2026 Summer Intern - PhD - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -133792,7 +133792,7 @@
         "company_name": "Rockwell Automation",
         "id": "844e9e8d-72b2-4082-9c71-0798ec7cb875",
         "title": "Intern - Test Engineering - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -147511,7 +147511,7 @@
         "company_name": "DoorDash",
         "id": "5c786307-6534-42fc-9e3b-1f6fd9b5fd5a",
         "title": "Software Engineer \u2013 Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -150669,7 +150669,7 @@
         "company_name": "Sigma Computing",
         "id": "11efee46-30fc-4085-a6e2-1840f25c1541",
         "title": "Product Management Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -167487,7 +167487,7 @@
         "company_name": "Wayve",
         "id": "81522f32-a19a-4736-b21d-35bb8a8af359",
         "title": "Research Scientist Intern - Multimodal Spatial Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -168519,7 +168519,7 @@
         "company_name": "Wayve",
         "id": "087e7158-ac2c-476e-9220-8ae96817d0d4",
         "title": "Research Scientist Intern - Embodied Foundation Models - Evaluation",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -169506,7 +169506,7 @@
         "company_name": "Wayve",
         "id": "6f03db60-d614-4dee-9b9e-64d8523287e5",
         "title": "Research Scientist Intern - Embodied Foundation Models - Data - Modeling - & Reasoning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Spring 2026",
@@ -192310,7 +192310,7 @@
         "company_name": "Veryable",
         "id": "1b4c1b12-0e67-4fee-878f-4e72190b145d",
         "title": "Mobile Engineer Intern  - Unpaid",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -195931,7 +195931,7 @@
         "company_name": "Wayve",
         "id": "9d46ee17-834b-4abe-b374-6c5da7d409ea",
         "title": "Research Scientist Intern - World Modelling",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -208386,7 +208386,7 @@
         "company_name": "Wayve",
         "id": "c3d9b8be-8d9c-438b-8ffd-1f10e20e8457",
         "title": "Research Scientist Intern - Reinforcement Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -218053,7 +218053,7 @@
         "company_name": "Gilead Sciences",
         "id": "cd87a95d-3382-4ce4-a2e8-e78824f9f74c",
         "title": "Intern Development - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -229986,7 +229986,7 @@
         "company_name": "Cencora",
         "id": "1968b5be-c8a4-48d3-818d-d7ad773411de",
         "title": "Ecommerce Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -238568,7 +238568,7 @@
         "company_name": "Seagate Technology ",
         "id": "b78c36bf-8ce0-42c7-8ac3-cf5fe8788c90",
         "title": "Intern \u2013 Advanced Signal Processing and Embedded Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -246517,7 +246517,7 @@
         "company_name": "Wayve",
         "id": "527b0ead-74a7-4f99-a31d-b90ad6c1ffad",
         "title": "Research Scientist Intern - Data for Embodied AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -254383,7 +254383,7 @@
         "company_name": "Striim",
         "id": "846285eb-2016-4a44-99e9-80f844f4a550",
         "title": "Applied AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -260964,7 +260964,7 @@
         "company_name": "CommScope",
         "id": "903856f1-791c-4826-bdc4-a03c5c53f0a7",
         "title": "Intern-Product Lifecyle Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -270791,7 +270791,7 @@
         "company_name": "FactSet",
         "id": "6bf14c2c-b272-424b-8bb7-d673431bbecc",
         "title": "Buy-Side Analytics Internship - San Francisco - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -270833,7 +270833,7 @@
         "company_name": "FactSet",
         "id": "e9013261-685c-4000-9151-68370afd9b4e",
         "title": "Buy-Side Analytics Internship - Chicago - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -275337,7 +275337,7 @@
         "company_name": "Motorola",
         "id": "edf09727-c12d-4d15-a1e4-2bb3d5f7a84c",
         "title": "Hardware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -278102,7 +278102,7 @@
         "company_name": "Lucid Motors",
         "id": "35904980-fd04-4e7a-a88b-588c05ed8ec7",
         "title": "Intern \u2013 Controls and Automation Engineer - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -278994,7 +278994,7 @@
         "company_name": "Neurocrine Biosciences",
         "id": "5acb080d-7afc-43d5-9b0c-cbc7b977c177",
         "title": "Data Analyst Clinical Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -282312,7 +282312,7 @@
         "company_name": "Amentum",
         "id": "3f4c2ed4-6bca-4865-9499-e8e58769e169",
         "title": "Combustion Devices Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -284876,7 +284876,7 @@
         "company_name": "Hologic",
         "id": "e2211274-3d88-41fc-b3f8-c6a912efe144",
         "title": "Intern Service Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
