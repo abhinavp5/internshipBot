@@ -22422,7 +22422,7 @@
         "company_name": "Stoneridge",
         "id": "753e359c-7c68-4a7c-a013-8479caed144a",
         "title": "Business Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -123395,7 +123395,7 @@
         "company_name": "GE Vernova",
         "id": "88881e7e-16c3-4233-9c0c-efa7f1e0a44d",
         "title": "Edison Research Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -171574,7 +171574,7 @@
         "company_name": "Momentive",
         "id": "76997916-346c-4046-b29d-e33b5391e533",
         "title": "Summer 2026 Enterprise Reporting & Analytics \u2013 Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -197081,7 +197081,7 @@
         "company_name": "Cook Group",
         "id": "564db16f-71cd-423b-a7f7-0eed890ab827",
         "title": "Intern \u2013 Statistics & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -217565,7 +217565,7 @@
         "company_name": "Gilead Sciences",
         "id": "df6e11bf-05f1-40c8-a22f-49a8ff9257b7",
         "title": "Intern \u2013 Commercial IT AI - Market Access",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -217671,7 +217671,7 @@
         "company_name": "Root Insurance",
         "id": "052213fc-a299-4297-8d52-650fdcb79ca2",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -217841,7 +217841,7 @@
         "company_name": "Great American Insurance Company",
         "id": "4b8da79b-dbc0-42f6-b553-fe841e464349",
         "title": "Data Application Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -226878,7 +226878,7 @@
         "company_name": "Great American Insurance Company",
         "id": "9eca4894-7a37-487b-be45-8c7caf580fe6",
         "title": "Data Analytics and Change Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -275232,7 +275232,7 @@
         "company_name": "RTX",
         "id": "56dcb857-5f87-4df9-b7ac-211fcb9b0aec",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -281505,7 +281505,7 @@
         "company_name": "Shield AI",
         "id": "a5e7f5d9-a952-4096-8cc8-eba9b253d20a",
         "title": "C++ Software Engineering Intern \u2013 2026 Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -283116,7 +283116,7 @@
         "company_name": "Thales",
         "id": "ca5d1c8d-3c44-427c-9a52-c994098cd0e8",
         "title": "Industrial Placement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -283202,7 +283202,7 @@
         "company_name": "Thales",
         "id": "4a817403-fc81-46fd-85d7-c7ac03411510",
         "title": "Industrial Placement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
