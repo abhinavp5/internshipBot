@@ -217587,7 +217587,7 @@
         "company_name": "Gilead Sciences",
         "id": "bf2660a5-13db-4d25-95e1-5349be1a29be",
         "title": "Intern \u2013 R&D Quality - Governance - Risk & Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -217862,7 +217862,7 @@
         "company_name": "Gilead Sciences",
         "id": "9da4956b-8195-4c63-a826-18a05fbc4c44",
         "title": "Intern \u2013 R&D - Clinical Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -217883,7 +217883,7 @@
         "company_name": "Gilead Sciences",
         "id": "76ae87c8-3a7d-42e9-b2c3-702cdcf343d3",
         "title": "Intern-Clinical Operations-Clinical Data Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -217925,7 +217925,7 @@
         "company_name": "Gilead Sciences",
         "id": "447d0963-e5d9-4bf3-ba98-d775d3511b08",
         "title": "Intern IT - Commercial IT AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -217967,7 +217967,7 @@
         "company_name": "Gilead Sciences",
         "id": "0f05cc5b-cf02-48fe-ae01-3afbd2ed1f3d",
         "title": "Intern \u2013 IT - Commercial IT AI - Digital Marketing",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -218053,7 +218053,7 @@
         "company_name": "Gilead Sciences",
         "id": "cd87a95d-3382-4ce4-a2e8-e78824f9f74c",
         "title": "Intern Development - Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -219393,7 +219393,7 @@
         "company_name": "Gilead Sciences",
         "id": "6ece6ca9-436e-483b-aeae-f8171e1fe171",
         "title": "Intern \u2013 R&D - Information Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -219414,7 +219414,7 @@
         "company_name": "Gilead Sciences",
         "id": "27d7f09c-bc15-410e-b82c-336ae81710dc",
         "title": "Intern \u2013 IT - AI/ML Enterprise Data & Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -260063,7 +260063,7 @@
         "company_name": "Gilead Sciences",
         "id": "c7c6c9ac-a549-4565-9ba8-e75405b01a24",
         "title": "Intern \u2013 Market Research - Advanced Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -274621,7 +274621,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "43d62ca6-9ec8-490b-9e28-0d6ea83d4a0e",
         "title": "Relationship Manager - Business Markets",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -286402,6 +286402,109 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Gilead Sciences",
+        "id": "cc21a986-6434-426d-becb-b204b9718aa6",
+        "title": "Intern \u2013 IT",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1767615603,
+        "date_posted": 1767615603,
+        "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---IT---Employee-Experience_R0048423",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gilead-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Gilead Sciences",
+        "id": "b8411a3b-4305-4a5b-b057-c15f3cdba319",
+        "title": "Intern \u2013 Pdm",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1767615632,
+        "date_posted": 1767615632,
+        "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern--PDM--DPP-Innovation---New-Product-Planning_R0048499",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gilead-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Gilead Sciences",
+        "id": "81311c8f-2ed3-465e-b456-1dc0da342660",
+        "title": "Intern \u2013 Clinical Data Science - Biostatistics - Oncology",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1767615581,
+        "date_posted": 1767615581,
+        "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Clinical-Development---Biostatistics--Oncology_R0048760",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gilead-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Gilead Sciences",
+        "id": "3dc80410-f2bf-4e03-a170-633a71decfa8",
+        "title": "Intern  Pdm - Quality - Data Scientist",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1767615596,
+        "date_posted": 1767615596,
+        "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Data-Science---Quality_R0048787",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gilead-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PharmD",
+            "PhD"
         ]
     }
 ]
