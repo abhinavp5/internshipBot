@@ -267096,7 +267096,7 @@
         "company_name": "Moog ",
         "id": "4f4a5be7-248e-4da0-8008-d7ba51384e11",
         "title": "Intern \u2013 IT Computer Science - Data Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -274989,7 +274989,7 @@
         "company_name": "General Motors",
         "id": "d0f1f147-839c-4fba-9b56-963ebb3a3003",
         "title": "Intern - Software Engineer - ADAS Core Software Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -275032,7 +275032,7 @@
         "company_name": "General Motors",
         "id": "980dc4a6-6503-4fd8-a2d8-a03f5020a0e3",
         "title": "Intern - Machine Learning Engineer - Map Enhancements",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -275054,7 +275054,7 @@
         "company_name": "General Motors",
         "id": "49cfcb33-2de1-4a82-b73f-2310f3afc009",
         "title": "Intern - Map Enhancements",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -275850,7 +275850,7 @@
         "company_name": "General Motors",
         "id": "119dd22a-10a4-4a36-91b9-7941aafac2e5",
         "title": "2026 Summer Intern - Software Engineer - Mapping Software Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
