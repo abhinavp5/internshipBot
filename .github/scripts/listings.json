@@ -153,24 +153,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Commure",
-        "id": "347065aa-15f4-4573-a2c6-71e3dd129d1f",
-        "title": "Software Engineering Intern - Rcm Core",
-        "active": false,
-        "terms": [],
-        "date_updated": 1746846561,
-        "date_posted": 1746846561,
-        "url": "https://jobs.ashbyhq.com/Commure-Athelas/b48a9b63-c86d-4ddb-8212-32d598bdbecd/application",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Commure",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1752133013,
         "url": "https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/Canada---Ottawa/XMLNAME--Intern---Software-Development----8-months---Hybrid-Ottawa_R003484",
         "company_name": "Entrust",
@@ -109089,7 +109071,7 @@
         "company_name": "Zebra Technologies",
         "id": "9d92dcf6-8eeb-441b-97bf-6529891b322f",
         "title": "2026 Summer Internship - Software Engineer - Android - Corporate and Business Services - CEO",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -283890,7 +283872,7 @@
         "company_name": "AbbVie",
         "id": "e59f2a10-8710-46ab-8ea7-30a8f2af1194",
         "title": "Statistics Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
