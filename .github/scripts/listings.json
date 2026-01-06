@@ -52475,7 +52475,7 @@
         "company_name": "American Express",
         "id": "aba87d08-1d33-49c8-9641-f2d665bef101",
         "title": "New York, NY",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -58410,7 +58410,7 @@
         "company_name": "Qualcomm",
         "id": "dda95b0c-7463-4a39-9ff2-d1241bea2ba2",
         "title": "Embedded Engineering Internship - Interim Engineering Intern - SW",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -134774,7 +134774,7 @@
         "company_name": "Boston Scientific",
         "id": "83afca73-7efb-415b-a881-8f9491609caa",
         "title": "Hardware Intern - Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
