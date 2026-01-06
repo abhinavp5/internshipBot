@@ -52237,7 +52237,7 @@
         "company_name": "Xcel Energy",
         "id": "c50f9cb2-3cab-4ee4-bb36-e6b54accd768",
         "title": "Commercial Operations Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -105110,7 +105110,7 @@
         "company_name": "RTX",
         "id": "1ac48732-97af-431a-a133-f28221dca868",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -145159,7 +145159,7 @@
         "company_name": "Arch Capital Group",
         "id": "f176244b-7ea1-4fc6-98ad-5325ae2dfdde",
         "title": "IT Analytics Engineer Intern - IT - Enterprise Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -178215,7 +178215,7 @@
         "company_name": "Marriott Vacations Worldwide",
         "id": "ca63f029-b288-4298-882f-7b632bb244fa",
         "title": "Data Science Intern - Spring 2026 - Orlando - FL",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -252474,7 +252474,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "3380ed07-c341-471a-8ada-5a3b0d8db748",
         "title": "Software Engineer Intern - Tcs",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -270478,7 +270478,7 @@
         "company_name": "Capital Technology Group",
         "id": "28dff36e-d5a8-46a0-a5c4-961b761739e7",
         "title": "Summer Internship - Software Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -275255,7 +275255,7 @@
         "company_name": "Advance Auto Parts",
         "id": "3403928b-e8fd-486a-b5f6-0ed0f61f9c2b",
         "title": "IT Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
