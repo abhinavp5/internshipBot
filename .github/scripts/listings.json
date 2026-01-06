@@ -28541,7 +28541,7 @@
         "company_name": "W.W. Grainger",
         "id": "1682fbfc-b5b6-4a5d-a5ec-f0138208298d",
         "title": "GTG Intern - Applied Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -178215,7 +178215,7 @@
         "company_name": "Marriott Vacations Worldwide",
         "id": "ca63f029-b288-4298-882f-7b632bb244fa",
         "title": "Data Science Intern - Spring 2026 - Orlando - FL",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -233613,7 +233613,7 @@
         "company_name": "Centific",
         "id": "2e11e598-c395-4818-9b85-fb7e5035942d",
         "title": "Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -256367,7 +256367,7 @@
         "company_name": "Nokia",
         "id": "76957cd3-a07d-4554-afaf-731c927f6adf",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -256409,7 +256409,7 @@
         "company_name": "Nokia",
         "id": "0ec7d8eb-5f6e-439f-bce4-c7dbe79fdfb1",
         "title": "Data fabric and network automation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262165,7 +262165,7 @@
         "company_name": "NVIDIA",
         "id": "62a7a49a-e107-4f65-9b35-03794dc40743",
         "title": "Performance Engineering Intern - Deep Learning and HPC - Winter 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -262948,7 +262948,7 @@
         "company_name": "Nokia",
         "id": "4e1d01b3-ccfc-4aae-8460-8007be4afa0c",
         "title": "AI R&D Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -264437,7 +264437,7 @@
         "company_name": "Nokia",
         "id": "67ef0b7b-fc5a-4ce8-86f8-7b70e2ac6185",
         "title": "Security Software Developer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -264605,7 +264605,7 @@
         "company_name": "W.W. Grainger",
         "id": "dacb6b8b-c6e0-4404-91ea-8382995594cf",
         "title": "GTG Intern - Business Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -267461,7 +267461,7 @@
         "company_name": "Nokia",
         "id": "46cfeebc-841c-4a85-a901-dcdd8c5c13f2",
         "title": "AI R&D Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -267566,7 +267566,7 @@
         "company_name": "Nokia",
         "id": "068eb06d-f7e8-4eee-969c-b4b74e8c1712",
         "title": "Security Software Developer Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -269361,7 +269361,7 @@
         "company_name": "Nokia",
         "id": "53262511-9fe1-43b4-be01-2286393f789e",
         "title": "AI/ML Architect",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -272313,7 +272313,7 @@
         "company_name": "Nokia",
         "id": "48cbd6ae-0f4b-412a-91a7-0fd45a594aff",
         "title": "R&D Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -278678,7 +278678,7 @@
         "company_name": "Genentech",
         "id": "13f4d598-8acd-41d0-9b1e-3a87edb58e30",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -288520,6 +288520,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "31182ac1-ef76-42e9-8e81-cc0c14233206",
+        "title": "2026 Intern \u2013 Software Engineer Intern - AZ",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1767692297,
+        "date_posted": 1767692297,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ805-RMS-AP-Bldg-805-1151-East-Hermans-Road-Building-805-Tucson-AZ-85756-USA/XMLNAME-2026-Intern---Software-Engineer-Intern---Onsite--AZ-_01813329",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
