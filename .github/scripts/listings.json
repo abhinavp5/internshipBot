@@ -239391,7 +239391,7 @@
         "company_name": "Zscaler",
         "id": "742ab9fc-9435-4c1d-b55f-596c237d24fa",
         "title": "Product Manager - Zscaler Internet Acess",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -288355,6 +288355,101 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Together AI",
+        "id": "a5815333-a9ff-42b5-b387-f83930210776",
+        "title": "Research Intern RL & Post-Training Systems - Turbo - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1767672609,
+        "date_posted": 1767672609,
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5007818007",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Together-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Together AI",
+        "id": "9712cf62-42d4-4c3c-bc2a-3b8ca98bcf42",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1767672588,
+        "date_posted": 1767672588,
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5012768007",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Together-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Together AI",
+        "id": "70f35831-cecf-4e93-af61-230854911df1",
+        "title": "Research Intern - Model Shaping",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1767672582,
+        "date_posted": 1767672582,
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5015074007",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Together-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Together AI",
+        "id": "112a54c4-8a20-477b-b35b-e6a1385f902f",
+        "title": "Frontier Agents Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1767672582,
+        "date_posted": 1767672582,
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5012769007",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Together-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
