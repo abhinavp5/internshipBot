@@ -230874,7 +230874,7 @@
         "company_name": "American Express",
         "id": "daa3f03b-2c5d-4730-88bf-77518740a737",
         "title": "Campus Graduate Intern Program - Data Management - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -230916,7 +230916,7 @@
         "company_name": "American Express",
         "id": "63ebae04-9b6c-4dbd-9c85-21679c799447",
         "title": "Campus Graduate Intern Program - Data Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -241003,7 +241003,7 @@
         "company_name": "American Express",
         "id": "d6fdb237-6dd5-44ff-ae39-9a110b0986b5",
         "title": "Campus \u2013 Apprenticeship Programme - Technology Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -290084,7 +290084,7 @@
         "company_name": "Walmart",
         "id": "baf9390b-bd5d-43cc-8eaf-cb577826beac",
         "title": "Intern Software Engineer 2 - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -291119,6 +291119,29 @@
             "Batavia, IL"
         ],
         "company_url": "https://simplify.jobs/c/Fermilab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Investment Management Corporation of Ontario",
+        "id": "9eb88375-1d28-4125-b0b8-5606f95ea3b2",
+        "title": "Intern Data Enablement",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1767779080,
+        "date_posted": 1767779080,
+        "url": "https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Data-Enablement_R25-222",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Investment-Management-Corporation-Of-Ontario",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
