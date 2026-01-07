@@ -258715,7 +258715,7 @@
         "company_name": "Microsoft",
         "id": "cb843c79-c283-448f-a789-5f88b5ef2dac",
         "title": "Software Engineer: AI/ML Intern Opportunities - MAI for University Students",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -272315,7 +272315,7 @@
         "company_name": "Mercury Insurance",
         "id": "4684f8dd-02a0-46ca-b39b-bf13932c803a",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
