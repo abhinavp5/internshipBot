@@ -154,165 +154,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lucid Motors",
-        "id": "ca3b30cf-6a3d-42c5-8b39-03c59fe0fcd1",
-        "title": "Fleet Operations Analytics Intern",
-        "active": false,
-        "terms": [],
-        "date_updated": 1747084579,
-        "date_posted": 1747084579,
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4732575007",
-        "locations": [
-            "Saratoga County, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Lucid-Motors",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "d2a18477-34b8-4a56-b349-fc552f0345dd",
-        "title": "Special Projects Software Dev Coop",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1747084473,
-        "date_posted": 1747084473,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20430",
-        "locations": [
-            "Naperville, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Maxar Technologies",
-        "id": "54190050-0087-491b-a031-788916147643",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1747085240,
-        "date_posted": 1747085240,
-        "url": "https://maxar.wd1.myworkdayjobs.com/maxar/job/Herndon-VA/Software-Engineering-Intern_R22272",
-        "locations": [
-            "Melbourne, FL",
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/MaxarTech",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cibc",
-        "id": "366b8c85-edf9-4f0e-af27-9ebd557848c1",
-        "title": "Software Developer Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1747086673,
-        "date_posted": 1747086673,
-        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Software-Developer-Co-op_2511369-1",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Cibc",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cibc",
-        "id": "7eab18a3-c7f1-4587-a321-a25c6eb2165a",
-        "title": "Mainframe Application Developer Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1747086671,
-        "date_posted": 1747086671,
-        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Mainframe-Application-Developer-Co-op_2511349-1",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Cibc",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cibc",
-        "id": "28251594-49db-4bc1-b35b-99a01c46430f",
-        "title": "Application/Software Developer Co-op - Enterprise Technology & Business Management",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1747086669,
-        "date_posted": 1747086669,
-        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op---Enterprise-Technology---Business-Management_2511320",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Cibc",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cibc",
-        "id": "7c16d83a-ac66-40ce-80ce-54b6b0947769",
-        "title": "Application/Software Developer Co-op - Commercial Banking and Payments Technology",
-        "active": false,
-        "terms": [],
-        "date_updated": 1747086668,
-        "date_posted": 1747086668,
-        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op---Commercial-Banking-and-Payments-Technology_2511321",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Cibc",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cibc",
-        "id": "75727fe3-e645-4818-ad38-970a173870da",
-        "title": "Application Developer Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1747086668,
-        "date_posted": 1747086668,
-        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Developer-Co-op_2511398",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Cibc",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Badger Meter",
         "id": "b5486b82-5af1-4e28-84eb-553c1f5cac8c",
@@ -71020,7 +70861,7 @@
         "company_name": "Rocket Lab USA",
         "id": "66930c5e-5ee3-4001-a5df-fea9f903166c",
         "title": "Flight Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -95653,7 +95494,7 @@
         "company_name": "Schonfeld",
         "id": "47daeceb-52b1-47ad-955a-c93a7a5a5f29",
         "title": "Sector Data Analyst Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -130801,7 +130642,7 @@
         "company_name": "Chatham Financial",
         "id": "f52c5d61-2223-415f-bee0-3b4067823a9b",
         "title": "Software Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -133166,7 +133007,7 @@
         "company_name": "Autodesk",
         "id": "5f5788e2-5b67-4762-a2f8-fd4efc74d339",
         "title": "Intern - AI Agent and Knowledge Graphs - Research - AI Technologies",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -136038,7 +135879,7 @@
         "company_name": "Zurn Elkay Water Solutions",
         "id": "8985dd14-f2f7-4164-9287-6410a821f56d",
         "title": "Embedded Hardware Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -158251,7 +158092,7 @@
         "company_name": "Expedition Technology",
         "id": "e5cc0780-7070-4f17-a1e5-c5d0f8c013c9",
         "title": "Software Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -158857,7 +158698,7 @@
         "company_name": "Coinbase",
         "id": "ee814b5f-f089-4e55-a5f6-86d231fac005",
         "title": "Product Manager Intern - Product Group - Core Business",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -172027,7 +171868,7 @@
         "company_name": "Marvell",
         "id": "9fef21d0-a164-4297-9626-d14bad97a8a1",
         "title": "Hardware Engineer Intern - Master's Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -191722,7 +191563,7 @@
         "company_name": "UC Health",
         "id": "9e8374d8-7b6b-4ee8-835a-c5cf4679ba0b",
         "title": "Digital Health Systems Co-op Student",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -196910,7 +196751,7 @@
         "company_name": "Molina Healthcare",
         "id": "6938f627-754c-479d-8fb6-da8f96711f85",
         "title": "IT Data Analytics Intern - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -221761,7 +221602,7 @@
         "company_name": "CAE",
         "id": "553450bb-bd20-44a4-930c-1da1a25cd738",
         "title": "Apprentice Simulator Technician",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -222102,7 +221943,7 @@
         "company_name": "GM financial",
         "id": "00f33303-7f26-4c9d-b67f-fe9ceaea12a9",
         "title": "Intern Software Development Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -271609,7 +271450,7 @@
         "company_name": "Leidos",
         "id": "5ad37fc4-60ac-45b8-bceb-1bfce917e78f",
         "title": "Software Engineer / Web Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -272252,7 +272093,7 @@
         "company_name": "Rolls Royce",
         "id": "22b6ce5e-80cf-42ca-aa1e-56326758cf50",
         "title": "Quality Analytics and Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -276625,7 +276466,7 @@
         "company_name": "Bristol Myers Squibb",
         "id": "3dda6268-4a62-468d-ac00-56d9b4317638",
         "title": "Intern Statistical Programmer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -278470,7 +278311,7 @@
         "company_name": "USA for UNHCR",
         "id": "9c8c4a13-2507-42f7-8bc9-42e0b755d0dd",
         "title": "Intern \u2013 Business Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -278659,7 +278500,7 @@
         "company_name": "USA for UNHCR",
         "id": "ebef8275-e6fa-4064-a35a-0b65b3c56ffd",
         "title": "Intern \u2013 The Hive",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -280869,7 +280710,7 @@
         "company_name": "Micron Technology",
         "id": "7fa78086-3a51-4439-aad7-7f8ab20c3721",
         "title": "Intern \u2013 SIG Software Design",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -281170,7 +281011,7 @@
         "company_name": "GlobalFoundries",
         "id": "9c887014-6834-4e3d-bdb1-03a1c966ade7",
         "title": "Product Management Intern - Ultra Low Power CMOS - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -290531,7 +290372,7 @@
         "company_name": "ASML",
         "id": "c7607553-2b11-4914-bed7-a038105fb135",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -290669,7 +290510,7 @@
         "company_name": "Rolls Royce",
         "id": "4c2504fe-dc57-4342-9fd3-956cb64f91d4",
         "title": "System Integration and Validation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -291297,7 +291138,7 @@
         "company_name": "Nokia",
         "id": "9d385ba7-8122-4338-a261-382cbae31d7a",
         "title": "Web Developer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
