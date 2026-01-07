@@ -20421,7 +20421,7 @@
         "company_name": "Dell Technologies",
         "id": "d8febde7-8223-4ce5-9483-e1a44005c713",
         "title": "Dell ISG Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -192963,7 +192963,7 @@
         "company_name": "Cadence Design Systems",
         "id": "ae1cf32a-3b93-49ae-8f1b-4e135ad5defb",
         "title": "Software Engineer Intern - C/C++ - Python",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -229482,7 +229482,7 @@
         "company_name": "National Renewable Energy Laboratory",
         "id": "60b18545-87c0-4d56-a4d2-b38d6dbe5987",
         "title": "Graduate \u2013 Intern - 3 - Month",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -239161,7 +239161,7 @@
         "company_name": "National Renewable Energy Laboratory",
         "id": "2fcdb5f1-193c-437d-8e57-2ea575e7e652",
         "title": "Graduate Intern - Machine Learning - Solar Forecasting",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -259169,7 +259169,7 @@
         "company_name": "Northrop Grumman",
         "id": "04892e10-87b8-4ea9-9ee7-650767b64d53",
         "title": "2026 Systems Engineer Intern - Baltimore MD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -272528,7 +272528,7 @@
         "company_name": "Genentech",
         "id": "534fcead-39d8-4077-beff-bf79d1a80141",
         "title": "2026 Summer Intern - Frontiers Research - Prescient Design",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -287120,7 +287120,7 @@
         "company_name": "Northrop Grumman",
         "id": "667bd1fb-3795-4c14-bec6-b787e3cae5eb",
         "title": "2026 Cyber Software Engineer Intern - San Antonio TX",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
