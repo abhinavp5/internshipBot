@@ -220075,7 +220075,7 @@
         "company_name": "CAE",
         "id": "52ce22e6-4734-471f-b754-8db3de4fd70f",
         "title": "R&D Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -248573,7 +248573,7 @@
         "company_name": "Ciena",
         "id": "be0d3c5b-5d80-40a8-9b51-3fcb5e78a7f0",
         "title": "Intern AI Prompt Engineer for Technical Documentation",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -272336,7 +272336,7 @@
         "company_name": "Energy Transfer Partners",
         "id": "b0844497-e084-4290-95a2-780e78cc2d95",
         "title": "Intern-Trading Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
