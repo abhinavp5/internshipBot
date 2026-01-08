@@ -250,46 +250,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Cibc",
-        "id": "0b626d73-f595-40ea-b3f9-a789080545c7",
-        "title": "Production Application Support Co-op - Capital Markets Technology",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1747107417,
-        "date_posted": 1747107417,
-        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Production-Application-Support-Co-op---Capital-Markets-Technology_2511388",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Cibc",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cibc",
-        "id": "e9846664-7d77-4a6f-882d-9678a92dd8ca",
-        "title": "Data Scientist Co-op - Enterprise Technology and Business Management",
-        "active": false,
-        "terms": [
-            "Spring 2025"
-        ],
-        "date_updated": 1747107411,
-        "date_posted": 1747107411,
-        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Scientist-Co-op---Enterprise-Technology-and-Business-Management_2511395",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Cibc",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Ripple",
         "id": "f091d113-33fe-40d2-ab2e-880b8c7a42b2",
         "title": "Software Engineer Intern - Custody",
@@ -26557,7 +26517,7 @@
         "company_name": "American Express",
         "id": "40e2795d-c6b5-4103-beb4-cbd81b1e9f43",
         "title": "Campus Graduate Summer Internship Program - 2026 Software Engineer - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -228799,7 +228759,7 @@
         "company_name": "Eaton Corporation",
         "id": "07abe61a-a434-40f9-b557-0f9b2f1a8608",
         "title": "R&D Engineering Intern - Research & Development Engineering - ES AMER ARS",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
