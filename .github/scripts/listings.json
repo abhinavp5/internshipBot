@@ -76634,7 +76634,7 @@
         "company_name": "Walmart",
         "id": "0cb22b13-3df8-4d90-a7c1-385e5120afe5",
         "title": "Software Engineer II",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -93988,7 +93988,7 @@
         "company_name": "ServiceNow",
         "id": "e9dc80ec-36c7-44c8-a98f-83df73a6c81c",
         "title": "Product Manager Intern - Masters Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -94011,7 +94011,7 @@
         "company_name": "ServiceNow",
         "id": "e9c27ea2-d1c3-43c2-9215-8402c9d12255",
         "title": "Sr. Inbound Product Manager Intern - MBA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -94034,7 +94034,7 @@
         "company_name": "ServiceNow",
         "id": "72590545-26bd-4645-91bf-2cc7a315ca49",
         "title": "Sr. Outbound Product Manager Intern - MBA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -246605,7 +246605,7 @@
         "company_name": "Smith+Nephew",
         "id": "c95fcd2f-533a-40ec-94a7-43941d7ecba1",
         "title": "Intern/Co-op \u2013 Operational Technology Engineer - Memphis - TN",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -285490,7 +285490,7 @@
         "company_name": "RTX",
         "id": "9c92a765-eeb6-4bc6-9d4a-369299ec0b03",
         "title": "Intern \u2013 Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
