@@ -155,24 +155,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Ripple",
-        "id": "f091d113-33fe-40d2-ab2e-880b8c7a42b2",
-        "title": "Software Engineer Intern - Custody",
-        "active": false,
-        "terms": [],
-        "date_updated": 1747169247,
-        "date_posted": 1747169247,
-        "url": "https://ripple.com/careers/all-jobs/job/6858576?gh_jid=6858576",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Ripple",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "SharkNinja",
         "id": "8ff977ac-a858-457e-9d79-f327bc3556e4",
         "title": "Digital & Website Technology Intern",
@@ -91071,7 +91053,7 @@
         "company_name": "Cotiviti",
         "id": "9892e214-ccb9-43f4-8016-f9cf87c0de55",
         "title": "Intern \u2013 Generative AI Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -292076,7 +292058,7 @@
         "company_name": "Cotiviti",
         "id": "a785abe5-ba03-4388-af75-d74873170340",
         "title": "Intern \u2013 Generative AI Research Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
