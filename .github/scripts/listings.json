@@ -241366,7 +241366,7 @@
         "company_name": "Johnson Law Group",
         "id": "c25496e1-2e81-4754-9f01-5a0692210601",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -276661,7 +276661,7 @@
         "company_name": "Blackstone",
         "id": "5ae4ee52-0518-41c5-b810-e3b527708317",
         "title": "Blackstone Credit and Insurance Quant and Portfolio Analytics Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -285385,7 +285385,7 @@
         "company_name": "RTX",
         "id": "2cfb0f95-85fe-4071-a43a-9dedee610d1c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -286085,7 +286085,7 @@
         "company_name": "RTX",
         "id": "6a6bea1e-8163-487b-8731-c8ab3425d9aa",
         "title": "Intern - Life Cycle Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
