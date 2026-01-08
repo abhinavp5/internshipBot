@@ -154,24 +154,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "EarnIn",
-        "id": "624fb675-ce97-4350-9424-7902dba105ec",
-        "title": "Machine Learning Intern - Infra",
-        "active": false,
-        "terms": [],
-        "date_updated": 1747166036,
-        "date_posted": 1747166036,
-        "url": "https://job-boards.greenhouse.io/earnin/jobs/6884689",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Earnin",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Ripple",
         "id": "f091d113-33fe-40d2-ab2e-880b8c7a42b2",
@@ -18749,7 +18731,7 @@
         "company_name": "TikTok",
         "id": "85c7ef68-e176-469b-920b-6d6e0dfda0e3",
         "title": "Software Engineer Intern - Trust and Safety-Engineer-AI Safety - 2026 Summer - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -104885,7 +104867,7 @@
         "company_name": "Peraton",
         "id": "be46f342-e7c8-4193-a782-4ba29d65c4ba",
         "title": "Summer 2026 Software Development Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -199751,7 +199733,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3be76233-c3da-4f9f-a8a7-f8884bde94e7",
         "title": "Trading Operations Co-op with Drexel University: Spring/Summer a Round",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -282016,7 +281998,7 @@
         "company_name": "Nokia",
         "id": "5fa614ca-7406-4d7b-89da-8752a5f36a28",
         "title": "Analytics/Next-Gen AI Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -282143,7 +282125,7 @@
         "company_name": "Nokia",
         "id": "0556a71c-43af-470f-8bbc-5ba3ef8a83d8",
         "title": "Next-Gen AI Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -282164,7 +282146,7 @@
         "company_name": "Nokia",
         "id": "833f4f5a-8090-4dce-9d6a-a08d7e2ebabc",
         "title": "Next-Gen AI Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -287973,7 +287955,7 @@
         "company_name": "LMI ",
         "id": "b895c618-60a5-4bd2-94fa-188534201379",
         "title": "Software Engineer Intern - Usps - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -289543,7 +289525,7 @@
         "company_name": "Unisys",
         "id": "a70221d4-fd4b-4a06-b595-cfc180d02622",
         "title": "2026 Drexel Spring Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -292638,5 +292620,115 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "APEX Analytix",
+        "id": "56a6bdf4-3ff1-4773-a65b-57786a24b950",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1767888566,
+        "date_posted": 1767888566,
+        "url": "https://ats.rippling.com/apexanalytix-careers/jobs/13266804-b931-4b28-a132-40c09e2c4a42",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/APEX-Analytix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ramboll",
+        "id": "567971aa-993a-4528-b5c7-dfafee613428",
+        "title": "Intern \u2013 Air Quality",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1767889764,
+        "date_posted": 1767889764,
+        "url": "https://jobs.smartrecruiters.com/Ramboll3/744000102284825",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Ramboll",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Experian",
+        "id": "021cc33d-b9cd-4e2e-a6d7-95034ec977e7",
+        "title": "Software Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1767889010,
+        "date_posted": 1767889010,
+        "url": "https://jobs.smartrecruiters.com/Experian/744000102327375",
+        "locations": [
+            "Nottingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Experian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Federal Reserve System",
+        "id": "0bc98a83-87f0-43b6-aaf1-c2ec0a8826f2",
+        "title": "Research Department \u2013 Business Outlook Survey Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1767901354,
+        "date_posted": 1767901354,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Philadelphia-PA/Research-department---Business-Outlook-Survey-Summer-Intern_R-0000030959",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cadence Design Systems",
+        "id": "fa4bfe0c-52aa-40fc-87b3-95c48d179585",
+        "title": "Intern \u2013 Silicon Solutions Group",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1767899914,
+        "date_posted": 1767899914,
+        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/EDINBURGH-01/Intern---Silicon-Solutions-Group_R52686",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
