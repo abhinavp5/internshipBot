@@ -144346,7 +144346,7 @@
         "company_name": "Arch Capital Group",
         "id": "f176244b-7ea1-4fc6-98ad-5325ae2dfdde",
         "title": "IT Analytics Engineer Intern - IT - Enterprise Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -269728,7 +269728,7 @@
         "company_name": "Cisco",
         "id": "6cb78400-d478-4414-b3f2-99a7889c59ef",
         "title": "Software Engineer Embedded/Network Systems 2 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -283293,7 +283293,7 @@
         "company_name": "Intapp",
         "id": "f1d006fc-d330-4d43-8ed2-29bee206ecc4",
         "title": "Implementation Services Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -293812,5 +293812,125 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Etched.ai",
+        "id": "478541c3-9bf0-4685-8acb-3c2cfb74663b",
+        "title": "Software Intern - Software",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765532828,
+        "date_posted": 1765246045,
+        "url": "https://jobs.ashbyhq.com/Etched/605c286d-be56-4e83-83b8-436d29ce17df/application",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Etched-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Etched.ai",
+        "id": "6d720695-b1a1-4efc-929e-9c6024f34ff0",
+        "title": "ASIC Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765532043,
+        "date_posted": 1765235280,
+        "url": "https://jobs.ashbyhq.com/Etched/57decba7-ade0-448f-b5ab-e8ba5b7baf12/application",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Etched-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Etched.ai",
+        "id": "20d5ae1c-50e7-48e9-81d2-5bb3126aafc1",
+        "title": "Architecture Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765531732,
+        "date_posted": 1765235270,
+        "url": "https://jobs.ashbyhq.com/Etched/6f23713f-5409-45b7-aae8-adb8710cdbc3/application",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Etched-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Etched.ai",
+        "id": "0cac70d8-1f99-4481-beb9-5a5f22a0357d",
+        "title": "Platform Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765531922,
+        "date_posted": 1765235267,
+        "url": "https://jobs.ashbyhq.com/Etched/097cf1d6-592c-4ce4-910e-401512278368/application",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Etched-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "DigiKey",
+        "id": "91eb4c45-9129-4d93-83bb-0feecd8a49e2",
+        "title": "Product Management & Supplier Development Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1767964404,
+        "date_posted": 1764495788,
+        "url": "https://digikey.wd5.myworkdayjobs.com/digi-key/job/Thief-River-Falls-MN/Supplier-Intern_R5122",
+        "locations": [
+            "Erskine, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/DigiKey",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]

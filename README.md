@@ -9,17 +9,17 @@
 
 ---
 
-### Browse 1090 Internship Roles by Category
+### Browse 1093 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (293)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (77)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (579)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (578)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (20)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (121)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (125)
 
 ---
 
@@ -1539,7 +1539,7 @@
 <td>30d</td>
 </tr>
 <tr>
-<td><strong>Etched.ai</strong></td>
+<td><strong><a href="https://simplify.jobs/c/Etched-AI?utm_source=GHList&utm_medium=company">Etched.ai</a></strong></td>
 <td>Software Intern 🛂</td>
 <td>San Jose, CA</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/etched/605c286d-be56-4e83-83b8-436d29ce17df?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
@@ -23416,13 +23416,6 @@
 <td>29d</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>Implementation Services Intern</td>
-<td>Charlotte, NC</td>
-<td><div align="center"><a href="https://intapp.wd1.myworkdayjobs.com/Intapp/job/Charlotte-NC/Implementation-Services-Intern_R2024535-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f1d006fc-d330-4d43-8ed2-29bee206ecc4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>29d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Genentech?utm_source=GHList&utm_medium=company">Genentech</a></strong></td>
 <td>Intern - Computational Sciences Center of Excellence</td>
 <td>San Bruno, CA</td>
@@ -25352,7 +25345,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (2593)</summary>
+<summary>🗃️ Inactive roles (2594)</summary>
 
 <table>
 <thead>
@@ -26321,6 +26314,13 @@
 <td><strong><a href="https://simplify.jobs/c/Chemours?utm_source=GHList&utm_medium=company">Chemours</a></strong></td>
 <td>AI & Data Science Intern</td>
 <td>Remote in USA</td>
+<td>🔒</td>
+<td>29d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Intapp?utm_source=GHList&utm_medium=company">Intapp</a></strong></td>
+<td>Implementation Services Intern</td>
+<td>Charlotte, NC</td>
 <td>🔒</td>
 <td>29d</td>
 </tr>
@@ -46542,10 +46542,38 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Etched-AI?utm_source=GHList&utm_medium=company">Etched.ai</a></strong></td>
+<td>Software Intern - Software</td>
+<td>San Jose, CA</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/Etched/605c286d-be56-4e83-83b8-436d29ce17df/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/478541c3-9bf0-4685-8acb-3c2cfb74663b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
 <td>Hardware Engineering</td>
 <td>Sunnyvale, CA</td>
 <td><div align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28179?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/44ca0392-6474-41c1-bda5-48317a5983c3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Etched-AI?utm_source=GHList&utm_medium=company">Etched.ai</a></strong></td>
+<td>ASIC Intern</td>
+<td>San Jose, CA</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/Etched/57decba7-ade0-448f-b5ab-e8ba5b7baf12/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6d720695-b1a1-4efc-929e-9c6024f34ff0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Architecture Intern</td>
+<td>San Jose, CA</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/Etched/6f23713f-5409-45b7-aae8-adb8710cdbc3/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/20d5ae1c-50e7-48e9-81d2-5bb3126aafc1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Platform Intern</td>
+<td>San Jose, CA</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/Etched/097cf1d6-592c-4ce4-910e-401512278368/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0cac70d8-1f99-4481-beb9-5a5f22a0357d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>

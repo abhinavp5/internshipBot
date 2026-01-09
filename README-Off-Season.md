@@ -14,13 +14,13 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (168)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (46)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (47)
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (227)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-quantitative-finance-internship-roles)** (11)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-hardware-engineering-internship-roles)** (105)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-hardware-engineering-internship-roles)** (104)
 
 ---
 
@@ -9420,6 +9420,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>San Jose, CA</td>
 <td>Spring 2026</td>
 <td><div align="center"><a href="https://careers.cisco.com/global/en/job/2000446?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/92470aba-c1dc-4774-908d-1c505a700664?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/DigiKey?utm_source=GHList&utm_medium=company">DigiKey</a></strong></td>
+<td>Product Management & Supplier Development Intern</td>
+<td>Erskine, MN</td>
+<td>Spring 2026</td>
+<td><div align="center"><a href="https://digikey.wd5.myworkdayjobs.com/digi-key/job/Thief-River-Falls-MN/Supplier-Intern_R5122?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/91eb4c45-9129-4d93-83bb-0feecd8a49e2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
@@ -23718,14 +23726,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>23d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Cisco?utm_source=GHList&utm_medium=company">Cisco</a></strong></td>
-<td>Software Engineer Embedded/Network Systems 2 - Intern</td>
-<td>San Jose, CA</td>
-<td>Spring 2026</td>
-<td><div align="center"><a href="https://careers.cisco.com/global/en/job/2001130?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6cb78400-d478-4414-b3f2-99a7889c59ef?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>23d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Intuitive-Surgical?utm_source=GHList&utm_medium=company">Intuitive Surgical</a></strong></td>
 <td>Manufacturing Software Engineering Intern</td>
 <td>Sunnyvale, CA</td>
@@ -24298,7 +24298,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (564)</summary>
+<summary>🗃️ Inactive roles (565)</summary>
 
 <table>
 <thead>
@@ -24439,6 +24439,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Spring 2026</td>
 <td>🔒</td>
 <td>22d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Cisco?utm_source=GHList&utm_medium=company">Cisco</a></strong></td>
+<td>Software Engineer Embedded/Network Systems 2 - Intern</td>
+<td>San Jose, CA</td>
+<td>Spring 2026</td>
+<td>🔒</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Analytical-Mechanics-Associates?utm_source=GHList&utm_medium=company">Analytical Mechanics Associates</a></strong></td>
