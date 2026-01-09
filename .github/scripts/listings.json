@@ -260904,7 +260904,7 @@
         "company_name": "Paccar",
         "id": "6052f579-8af0-4ae0-9717-fd169cb6e1de",
         "title": "Intern - Aftersales Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -266858,7 +266858,7 @@
         "company_name": "Seagate Technology ",
         "id": "e406f8d3-7336-43b7-bcbb-924fc5af161f",
         "title": "Metrology Intern Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -275194,7 +275194,7 @@
         "company_name": "Shopify",
         "id": "dfaa5637-5169-4ee2-8dca-a718e62dd78f",
         "title": "Canada Internship Engineering Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -292407,7 +292407,7 @@
         "company_name": "Experian",
         "id": "021cc33d-b9cd-4e2e-a6d7-95034ec977e7",
         "title": "Software Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -293766,6 +293766,51 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ASSA ABLOY",
+        "id": "88028bc7-9c2b-42e8-9d70-b3661a04d2fc",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1767951971,
+        "date_posted": 1767802454,
+        "url": "https://assaabloy.jobs2web.com/job/Monroe-Summer-Interns-NC-28112/983330801/?ats=successfactors",
+        "locations": [
+            "Indian Trail, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/ASSA-ABLOY",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lennox International",
+        "id": "b0bfa3e4-1532-4fd9-a97e-936b96f7a502",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1767951964,
+        "date_posted": 1761838884,
+        "url": "https://uscareers-lennox.icims.com/jobs/50553/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Columbia, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Lennox-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
