@@ -291549,7 +291549,7 @@
         "company_name": "Washpost",
         "id": "edb58ed3-3a6f-408e-84a5-dd0a7d8a5488",
         "title": "Summer Intern - Subscriptions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
