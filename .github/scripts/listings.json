@@ -51021,7 +51021,7 @@
         "company_name": "Stryker",
         "id": "b7b8e488-bdc3-46e1-b216-ba3d15bcde37",
         "title": "2026 Summer Intern - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -144346,7 +144346,7 @@
         "company_name": "Arch Capital Group",
         "id": "f176244b-7ea1-4fc6-98ad-5325ae2dfdde",
         "title": "IT Analytics Engineer Intern - IT - Enterprise Data",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -216537,7 +216537,7 @@
         "company_name": "Medpace, Inc.",
         "id": "598be69a-2777-42ff-846f-921774adfc8c",
         "title": "Business Intelligence Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
