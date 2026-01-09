@@ -154,48 +154,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ciena",
-        "id": "8b66467c-d77d-40fc-a7be-3e6757c307c1",
-        "title": "Hardware Design Co-Op",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1747247059,
-        "date_posted": 1747247059,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Design-Co-Op--Sept-2025-_R027961",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Braze",
-        "id": "4bc301ad-139f-40c9-b973-8f32bb064ae1",
-        "title": "Growth Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1747246904,
-        "date_posted": 1747246904,
-        "url": "https://boards.greenhouse.io/braze/jobs/6887583",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Braze",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Marathon Petroleum",
         "id": "3f8ab7cf-6061-45f7-972a-99a70c41f253",
@@ -14789,7 +14747,7 @@
         "company_name": "HPR (Hyannis Port Research)",
         "id": "3f55a41c-bd7c-4855-83ca-36cd58dfe0ea",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -105045,7 +105003,7 @@
         "company_name": "Colonial Pipeline Company",
         "id": "f6d61cb5-31ab-419a-8485-97f5d21d18ba",
         "title": "Intern \u2013 Asset Integrity",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -114028,7 +113986,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "cd674b59-9731-400f-a53f-0d509a773341",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -158262,7 +158220,7 @@
         "company_name": "AVEVA",
         "id": "43a90e10-f572-4d34-a429-c6625de8707a",
         "title": "Services Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -205166,7 +205124,7 @@
         "company_name": "HPR (Hyannis Port Research)",
         "id": "cd8be661-f9c2-4163-9acb-c5c796f84a64",
         "title": "FPGA Engineer Intern - FPGA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -239824,7 +239782,7 @@
         "company_name": "LeoLabs",
         "id": "f1b75868-7d27-485c-8154-e7ac8eff5426",
         "title": "Hardware Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -240218,7 +240176,7 @@
         "company_name": "Western Digital",
         "id": "ab867ca3-5592-4d38-9299-c1eba466f26c",
         "title": "Intern \u2013 ASIC Verification Intern - MS Only",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -249934,7 +249892,7 @@
         "company_name": "Element Biosciences",
         "id": "8c88a93a-3292-4aa3-ac71-92faf4e4294f",
         "title": "Genetic Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -284028,7 +283986,7 @@
         "company_name": "Rivian",
         "id": "1268c87c-0412-4a75-9209-48c2b9a47691",
         "title": "Research Park Intern - Hardware Design",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -287405,7 +287363,7 @@
         "company_name": " CCC Intelligent Solutions",
         "id": "0610d2d4-9271-4152-9c08-446058625bd1",
         "title": "Software Engineer Intern - Workflow",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -289644,7 +289602,7 @@
         "company_name": "Abacus Insights",
         "id": "dd05f999-ca63-42b7-b6bc-7555053bd4b5",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -290188,7 +290146,7 @@
         "company_name": "Vertiv",
         "id": "c1d070e0-60dc-49f4-b1b9-9f09d7d535ac",
         "title": "Computer Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
