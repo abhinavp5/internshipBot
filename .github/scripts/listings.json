@@ -155,46 +155,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Manulife",
-        "id": "7446da85-9c9f-4ab9-8dba-b24eb8a02fc0",
-        "title": "Business Intelligence Analyst Co-op",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1747262707,
-        "date_posted": 1747262707,
-        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_AdminJobs/job/Waterloo-Ontario/Business-Intelligence-Analyst-Co-op---Fall-Winter-2025--8-Months-_JR25050909",
-        "locations": [
-            "Kitchener, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/acb6271e-e26a-401d-befe-547f56e287b5",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "SentinelOne",
-        "id": "51445576-fb3d-44a0-96ea-90b92c7aafc3",
-        "title": "TA Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1747262628,
-        "date_posted": 1747262628,
-        "url": "https://www.sentinelone.com/jobs/6571632003?gh_jid=6571632003",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/SentinelOne",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Cibc",
         "id": "7bfe7822-eb47-40a5-8106-72ad51aae638",
         "title": "Analytics Co-Op",
@@ -82156,7 +82116,7 @@
         "company_name": "Saab",
         "id": "9a15ae1c-cea2-4b39-8b42-0f47b3493bee",
         "title": "Co-Op \u2013 Software Spring",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -281570,7 +281530,7 @@
         "company_name": "Nokia",
         "id": "56598de0-62dd-4387-95af-beefd5bded4c",
         "title": "Hardware Developer Eng Co-op/Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -294034,7 +293994,7 @@
         "company_name": "TD Bank",
         "id": "37759fe8-0fe4-4cd7-9e47-9377dc6cba2d",
         "title": "Global Markets Intern/Co-op - Prime Brokerage",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
