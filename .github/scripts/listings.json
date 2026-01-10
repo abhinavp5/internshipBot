@@ -153,26 +153,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ChargePoint",
-        "id": "562b87c3-5f3e-4aec-972f-03419f369bdd",
-        "title": "Software Engineering \u2013 Intern",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1747276545,
-        "date_posted": 1747276545,
-        "url": "https://www.chargepoint.com/about/opportunities/job/?gh_jid=7979604002",
-        "locations": [
-            "Los Gatos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ChargePoint",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1749265725,
         "url": "https://careers-cadent.icims.com/jobs/1186/backend-engineer-intern/job",
         "company_name": "Cadent",
