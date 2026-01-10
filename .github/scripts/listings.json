@@ -153,25 +153,6 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1749265725,
-        "url": "https://careers-cadent.icims.com/jobs/1186/backend-engineer-intern/job",
-        "company_name": "Cadent",
-        "title": "Backend Engineer Intern",
-        "locations": [
-            "New York, NY"
-        ],
-        "terms": [
-            "Fall 2025"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "GaryZhous",
-        "id": "8ec93f77-38f3-4159-89c4-8e6aa8e83ddb",
-        "date_posted": 1747281975,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Amgen",
