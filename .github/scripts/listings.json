@@ -176,46 +176,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Delta Dental",
-        "id": "46c759eb-2144-4a2b-9dc2-4172dd81f292",
-        "title": "Internship-Application Development",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1747340074,
-        "date_posted": 1747340074,
-        "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship--Application-Development_JR100790",
-        "locations": [
-            "East Lansing, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Delta-Dental",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Zeta Global",
-        "id": "1d34a32c-385b-48f7-9031-9f9b0691cf68",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1747341294,
-        "date_posted": 1747341294,
-        "url": "https://zetaglobal.com/jobs/jobs-at-zeta-global?gh_jid=5542309004",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Zeta-Global",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "United Parcel Service (UPS)",
         "id": "82d9beec-5891-4c8a-889d-98bdebe59e34",
         "title": "Software & Data Systems Co-Op",
@@ -265021,7 +264981,7 @@
         "company_name": "Shure",
         "id": "3c71e6a0-dd53-4d4a-b1ca-4c6f25b3a1ef",
         "title": "Global Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
