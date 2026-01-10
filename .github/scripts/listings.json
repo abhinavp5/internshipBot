@@ -154,46 +154,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "United Parcel Service (UPS)",
-        "id": "82d9beec-5891-4c8a-889d-98bdebe59e34",
-        "title": "Software & Data Systems Co-Op",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1747349109,
-        "date_posted": 1747349109,
-        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/Software---Data-Systems-Co-Op_R25015575",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cibc",
-        "id": "eb34ab8a-c084-4119-888f-a0ca63cd012c",
-        "title": "Production Application Support Co-op - Distribution & Cards Technology",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1747349894,
-        "date_posted": 1747349894,
-        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Production-Application-Support-Co-op---Distribution---Cards-Technology_2511731",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Cibc",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "S&P Global ",
         "id": "5959704a-920a-4913-a38b-2e016c8d2136",
