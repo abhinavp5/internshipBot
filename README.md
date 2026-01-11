@@ -14099,7 +14099,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/United-Parcel-Service?utm_source=GHList&utm_medium=company">United Parcel Service (UPS)</a></strong></td>
+<td>↳</td>
 <td>UPS Information Security Summer 2026 Internship</td>
 <td>Louisville, KY</td>
 <td>🔒</td>
@@ -28037,7 +28037,7 @@
 <td>GenAI & AI/ML Engineering Intern</td>
 <td>Milpitas, CA</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Goodnotes?utm_source=GHList&utm_medium=company">Goodnotes</a></strong></td>
@@ -44087,7 +44087,7 @@
 <td>FTIS Quantitative Equity Portfolio Management Intern</td>
 <td>California</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/GelberGroup?utm_source=GHList&utm_medium=company">Gelber Group</a></strong></td>

@@ -2650,7 +2650,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>El Segundo, CA</td>
 <td>Spring 2026</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Cirrus-Logic?utm_source=GHList&utm_medium=company">Cirrus Logic</a></strong></td>
@@ -4645,7 +4645,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/PTC?utm_source=GHList&utm_medium=company">PTC</a></strong></td>
+<td>↳</td>
 <td>Software Development Intern</td>
 <td>Boston, MA</td>
 <td>Winter 2025</td>
@@ -7637,7 +7637,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Arcade-AI?utm_source=GHList&utm_medium=company">Arcade AI</a></strong></td>
+<td>↳</td>
 <td>Software Engineer Intern - Frontend</td>
 <td>SF</td>
 <td>Winter 2025, Winter 2026</td>
@@ -13248,7 +13248,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Raleigh, NC</br>North Charleston, SC</td>
 <td>Spring 2026</td>
 <td>🔒</td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/GCI?utm_source=GHList&utm_medium=company">GCI</a></strong></td>
@@ -18427,7 +18427,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
+<td>↳</td>
 <td>Solutions Architecture Intern - PhD 🎓</td>
 <td>Santa Clara, CA</td>
 <td>Winter 2025</td>
@@ -18715,7 +18715,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/BerkshireGrey?utm_source=GHList&utm_medium=company">Berkshire Grey</a></strong></td>
+<td>↳</td>
 <td>Robot Learning Research and Development Intern/Co-op - Research & Advanced Development 🎓</td>
 <td>Bedford, MA</td>
 <td>Winter 2026, Spring 2026</td>
