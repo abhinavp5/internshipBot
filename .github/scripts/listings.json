@@ -154,46 +154,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "TP-ICAP",
-        "id": "ea5aebe3-57ee-4714-8403-84f7376d8da0",
-        "title": "Equities Sales & Trading Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1747423441,
-        "date_posted": 1747423441,
-        "url": "https://tp.wd3.myworkdayjobs.com/en-US/TP-ICAP/job/New-York/Equities-Sales---Trading-Intern_R3733",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/732fd349-3ee1-4161-bc74-e2fdbd6418d7",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ciena",
-        "id": "bba77f80-bc62-43d3-ab66-72c938241681",
-        "title": "Embedded Software Engineer \u2013 Co-op",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1747423359,
-        "date_posted": 1747423359,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Co-op--Fall-2025---4-16-Months-_R028004",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ConnectWise",
         "id": "600a9cfc-a6eb-44c1-b1d6-1f0332d812bc",
@@ -209,27 +169,6 @@
             "Tampa, FL"
         ],
         "company_url": "https://simplify.jobs/c/ConnectWise",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RTX",
-        "id": "dc94a419-8585-49e8-b7c8-816d37dfa23e",
-        "title": "Stage \u2013 Gestion de projets et d\u00e9veloppement d'outils d'analyse en qualit\u00e9 - Quality Project management and data analysis tool development",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1747424147,
-        "date_posted": 1747424147,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/LOC13052-1000-Boul-Marie-VictorinLongueuilQuebecJ4G-1A1Canada/Stage---Automne-2025---Gestion-de-projets-et-dveloppement-d-outils-d-analyse-en-qualit---Internship---Fall-2025---Quality-Project-management-and-data-analysis-tool-development_01766979",
-        "locations": [
-            "Longueuil, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other"
     },
