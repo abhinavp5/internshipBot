@@ -154,26 +154,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Bank of Montreal",
-        "id": "6ebec920-a6c8-4cca-900f-5733cbd93e5e",
-        "title": "Analyst \u2013 Co-op/Internship - People Analytics",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1747438592,
-        "date_posted": 1747438592,
-        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst--People-Analytics---Fall-2025--Co-op-Internship----4-Months_R250013180",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/BMO",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "NVIDIA",
         "id": "8b897957-ab38-426a-b656-6ebaa6f51deb",
@@ -251,26 +231,6 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Envoy",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RTX",
-        "id": "21ed4bd6-474c-45f7-99ef-766bb81d5473",
-        "title": "Stage \u2013 Science des donn\u00e9es et Analytique d\u2019affaires / Internship - Data Science and Business Analytics",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1747437106,
-        "date_posted": 1747437106,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/LOC13052-1000-Boul-Marie-VictorinLongueuilQuebecJ4G-1A1Canada/Stage---Automne-2025---Science-des-donnes-et-Analytique-d-affaires---Internship---Fall-2025---Data-Science-and-Business-Analytics_01768200",
-        "locations": [
-            "Longueuil, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -32391,31 +32351,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Perplexity AI",
-        "id": "c8df496c-f428-440b-9616-d851dccf7fb1",
-        "title": "Internship Program",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1751929579,
-        "date_posted": 1747435549,
-        "url": "https://job-boards.greenhouse.io/perplexityai/jobs/4735785007",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/PerplexityAI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
         ]
     },
     {
