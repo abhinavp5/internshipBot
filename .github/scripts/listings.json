@@ -133321,7 +133321,7 @@
         "company_name": "FOX",
         "id": "d29182eb-0d49-4e45-aabc-1ceaf972cf6d",
         "title": "Internship Program - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -274790,7 +274790,7 @@
         "company_name": "CME Group",
         "id": "c856d519-9052-4f09-aee6-995ea7a6cd16",
         "title": "Research and Product Development PhD Student Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -279034,7 +279034,7 @@
         "company_name": "TD Bank",
         "id": "a586b779-480e-404e-bdfc-d6c787f0798f",
         "title": "2026 Summer Internship Program - Platforms & Technology - Business Systems Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
