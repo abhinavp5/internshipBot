@@ -296115,5 +296115,51 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LinkedIn",
+        "id": "aafa7740-5a85-4214-bda2-806643f66707",
+        "title": "Apprentice Engineer - Backend",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1768258971,
+        "date_posted": 1768258971,
+        "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000103157825",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LinkedIn",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LinkedIn",
+        "id": "73623c85-ee45-424c-ae39-425906b9ef0e",
+        "title": "Apprentice Engineer - Artificial Intelligence / Machine Learning",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1768258997,
+        "date_posted": 1768258997,
+        "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000103157425",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LinkedIn",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
