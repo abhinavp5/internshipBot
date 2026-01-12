@@ -10908,7 +10908,7 @@
         "company_name": "Morgan Stanley",
         "id": "3c831e96-b42c-4023-99fe-aca3702e3e05",
         "title": "MSIM-Portfolio Solutions-Quant Generalist-Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -32166,29 +32166,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "GeoComply",
-        "id": "e20a54dd-f62c-43c5-b88c-d0e0adbaf4a5",
-        "title": "Future Product Management Considerations",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753266312,
-        "date_posted": 1747521224,
-        "url": "https://jobs.lever.co/geocomply-2/ca562c00-8ecf-4aae-b30c-9528aac47a7a/apply",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/GeoComply",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -118790,7 +118767,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "ccc105ff-5dae-4442-9318-b636784164f9",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -119726,7 +119703,7 @@
         "company_name": "W.R. Berkley",
         "id": "0c7562e6-7d8e-4ada-b934-9b6bdd000c2f",
         "title": "Intern \u2013 Software Developer - Reactjs",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -137138,7 +137115,7 @@
         "company_name": "Emerson Electric",
         "id": "cf69453f-c677-404e-811d-0669b60a9ea2",
         "title": "Cloud Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -144461,7 +144438,7 @@
         "company_name": "MKS Instruments",
         "id": "acfff515-e7e7-4480-b81d-a4ca2089c7ac",
         "title": "Software/Firmware Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -150311,7 +150288,7 @@
         "company_name": "Expedia Group",
         "id": "b699a376-9059-4661-ad08-90f275c09e83",
         "title": "Machine Learning Science Intern - Masters",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -167885,7 +167862,7 @@
         "company_name": "OpenTable",
         "id": "fc4970f4-a616-4dbe-b006-e599e6dbe7c0",
         "title": "Software Engineer Internship - Hybrid - Toronto",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -185808,7 +185785,7 @@
         "company_name": "Bedrock Robotics",
         "id": "e5e890f6-8118-4a93-bb53-235aab31c793",
         "title": "Internship 2026 Application / Interface Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -185981,7 +185958,7 @@
         "company_name": "VSP Vision",
         "id": "83e200b4-955d-4d11-8e69-5a6dc3df3833",
         "title": "Internship - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -199014,7 +198991,7 @@
         "company_name": "Essen Health Care",
         "id": "5bbe5efe-14da-4829-9ba8-59f0f6de337b",
         "title": "Quality Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -199440,7 +199417,7 @@
         "company_name": "GM financial",
         "id": "5d4a419f-5676-4d11-a0c3-fa65e99953a8",
         "title": "Intern \u2013 Business Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -208510,7 +208487,7 @@
         "company_name": "Neuberger Berman",
         "id": "60765b44-a9ad-40f7-8696-9e22d4ce6377",
         "title": "Fixed Income 2026 Summer Quant Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -220686,7 +220663,7 @@
         "company_name": "Marvell",
         "id": "2ccf321b-8f17-4c7c-9853-a63c0307b8c6",
         "title": "Computer Science/Data Science Intern - Bachelor's Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -228029,7 +228006,7 @@
         "company_name": "Bloomberg Industry Group",
         "id": "c691c236-8c88-4ef9-b605-1ec3689fb09e",
         "title": "Intern Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -240074,7 +240051,7 @@
         "company_name": "The Allen Institute for AI",
         "id": "88654d64-d8cd-4a56-b58c-f0a24cce5c62",
         "title": "Research Intern - Prior",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -243421,7 +243398,7 @@
         "company_name": "Ambarella",
         "id": "7ec18b92-6234-459e-a584-65cfa7366928",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -268196,7 +268173,7 @@
         "company_name": "Nokia",
         "id": "857e3079-6700-42fa-8b54-06397c8aade1",
         "title": "Hardware Failure Analysis Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -270714,7 +270691,7 @@
         "company_name": "Mercury Insurance",
         "id": "cc595046-fa62-465f-a125-c8ef38c4c969",
         "title": "Marketing Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -283300,7 +283277,7 @@
         "company_name": "Sanctuary AI",
         "id": "b7512d56-a3fd-4a98-853d-e15b05057e49",
         "title": "Robot Test Pilot Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -285138,7 +285115,7 @@
         "company_name": "Cadent",
         "id": "76e8f0b1-b8f5-411a-b802-2a67417f9df7",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -291140,7 +291117,7 @@
         "company_name": "FactSet",
         "id": "e0398d7c-c0c4-4bed-b7ee-10c9734f242f",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -295076,7 +295053,7 @@
         "company_name": "General Dynamics UK",
         "id": "5a654ff9-e4b5-4703-9757-9108befcc945",
         "title": "Co-op Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -295120,7 +295097,7 @@
         "company_name": "General Dynamics UK",
         "id": "124e62e4-6260-4dd0-ae14-a3a4fb6ffa6e",
         "title": "Co-op Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
