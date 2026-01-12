@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 1066 Internship Roles by Category
+### Browse 1064 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (281)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (280)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (74)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (566)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (565)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (20)
 
@@ -346,13 +346,6 @@
 <td>Software Engineering Intern</td>
 <td>Milpitas, CA</td>
 <td><div align="center"><a href="https://jobs.smartrecruiters.com/Sandisk/744000102165035?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0a16bc00-327f-4179-9e28-d874530eb166?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/General-Dynamics-UK?utm_source=GHList&utm_medium=company">General Dynamics UK</a></strong></td>
-<td>Co-op May 2026 - Software Engineering - 4-Months</td>
-<td>Ottawa, ON, Canada</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/GDMSI/744000102172913?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c6ea0b87-2f08-423a-9f86-697d5576dd39?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>4d</td>
 </tr>
 <tr>
@@ -2061,7 +2054,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (2256)</summary>
+<summary>🗃️ Inactive roles (2257)</summary>
 
 <table>
 <thead>
@@ -2120,6 +2113,13 @@
 <td><strong><a href="https://simplify.jobs/c/Peter-Millar?utm_source=GHList&utm_medium=company">Peter Millar</a></strong></td>
 <td>Application Engineer Internship</td>
 <td>Raleigh, NC</br>Durham, NC</td>
+<td>🔒</td>
+<td>4d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/General-Dynamics-UK?utm_source=GHList&utm_medium=company">General Dynamics UK</a></strong></td>
+<td>Co-op May 2026 - Software Engineering - 4-Months</td>
+<td>Ottawa, ON, Canada</td>
 <td>🔒</td>
 <td>4d</td>
 </tr>
@@ -6051,7 +6051,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
+<td>↳</td>
 <td>Data fabric and network automation Co-op</td>
 <td>Sunnyvale, CA</td>
 <td>🔒</td>
@@ -12497,6 +12497,20 @@
 <td>🔒</td>
 <td>4mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Mohawk?utm_source=GHList&utm_medium=company">Mohawk</a></strong></td>
+<td>Applications Development Intern</td>
+<td>Georgia</td>
+<td>🔒</td>
+<td>4mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Eventual?utm_source=GHList&utm_medium=company">Eventual</a></strong></td>
+<td>Software Engineer – Intern</td>
+<td>SF</td>
+<td>🔒</td>
+<td>4mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -12523,20 +12537,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Mohawk?utm_source=GHList&utm_medium=company">Mohawk</a></strong></td>
-<td>Applications Development Intern</td>
-<td>Georgia</td>
-<td>🔒</td>
-<td>4mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Eventual?utm_source=GHList&utm_medium=company">Eventual</a></strong></td>
-<td>Software Engineer – Intern</td>
-<td>SF</td>
-<td>🔒</td>
-<td>4mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Vermeer?utm_source=GHList&utm_medium=company">Vermeer</a></strong></td>
 <td>IT Security Analyst Intern</td>
@@ -21880,7 +21880,7 @@
 <td>Intern Surface Science</td>
 <td>Wilton, CT</td>
 <td><div align="center"><a href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship--Surface-Science--Forensics---Defect-Control-Summer-2026_J-00332800?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/25e2c492-887f-440e-8827-0dc6edbde372?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Southwest-Airlines?utm_source=GHList&utm_medium=company">Southwest Airlines</a></strong></td>
@@ -24375,13 +24375,6 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/KEEN-Footwear?utm_source=GHList&utm_medium=company">KEEN Footwear</a></strong></td>
-<td>Systems Integration Engineer Intern</td>
-<td>Portland, OR</td>
-<td><div align="center"><a href="https://www.keenfootwear.com/careers-list.html?4636982005&gh_jid=4636982005&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/87d6071e-4088-483d-a98f-d9a11cd0c5cb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Zoox?utm_source=GHList&utm_medium=company">Zoox</a></strong></td>
 <td>Signal Processing</td>
 <td>San Mateo, CA</td>
@@ -25415,7 +25408,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (2652)</summary>
+<summary>🗃️ Inactive roles (2653)</summary>
 
 <table>
 <thead>
@@ -26727,6 +26720,13 @@
 <td><strong><a href="https://simplify.jobs/c/The-National-Football-League?utm_source=GHList&utm_medium=company">The National Football League</a></strong></td>
 <td>2026 Graduate Summer Intern - NY</td>
 <td>NYC</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/KEEN-Footwear?utm_source=GHList&utm_medium=company">KEEN Footwear</a></strong></td>
+<td>Systems Integration Engineer Intern</td>
+<td>Portland, OR</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -31645,7 +31645,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
+<td>↳</td>
 <td>AI R&D Engineer Co-op</td>
 <td>United States</td>
 <td>🔒</td>
@@ -44496,7 +44496,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Schonfeld?utm_source=GHList&utm_medium=company">Schonfeld</a></strong></td>
 <td>2026 DMFI Quantitative Developer Summer Internship-London</td>
 <td>London, UK</td>
 <td>🔒</td>
