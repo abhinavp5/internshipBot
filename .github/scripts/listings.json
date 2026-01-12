@@ -202210,7 +202210,7 @@
         "company_name": "Rocket Lab USA",
         "id": "a1c24618-f85b-4f2d-b767-3872b0d956cc",
         "title": "Flight Software Intern Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -252792,7 +252792,7 @@
         "company_name": "Regal Rexnord",
         "id": "8f59e20b-6ccd-4606-87d3-40bdc3f4aba5",
         "title": "Engineering Lab Technology Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -289528,7 +289528,7 @@
         "company_name": "Vermeer",
         "id": "3900afb7-c85e-470d-afbd-fddc4cd5642f",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
