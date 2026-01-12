@@ -155497,7 +155497,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "5aaea3e0-eb7b-4548-8be4-217d0156b004",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -217024,7 +217024,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "488a7295-310f-45ad-b191-4f4822778dd4",
         "title": "Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -225988,7 +225988,7 @@
         "company_name": "Westwood",
         "id": "302d27d0-99fe-444c-a240-bbf113f442ac",
         "title": "GIS Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -242060,7 +242060,7 @@
         "company_name": "Geosyntec Consultants",
         "id": "1c2841c8-11f7-4844-818e-839078f8228b",
         "title": "Geographic Information Systems \u2013 Intern - GIS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -250448,7 +250448,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "37bb1efc-3cf5-4f3e-b99c-cd99abea4fa7",
         "title": "Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -290749,7 +290749,7 @@
         "company_name": "Cotiviti",
         "id": "a785abe5-ba03-4388-af75-d74873170340",
         "title": "Intern \u2013 Generative AI Research Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -290772,7 +290772,7 @@
         "company_name": "LMI ",
         "id": "88021173-25d9-47e9-aaeb-eb4c006dda89",
         "title": "AI Engineer Intern - Usps - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -295624,5 +295624,191 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Group 1001",
+        "id": "e5bef42d-b5ee-41bb-9e3d-f7034a9dccaf",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1768235205,
+        "date_posted": 1768235205,
+        "url": "https://group1001wd.wd5.myworkdayjobs.com/careers/job/Zionsville-Indiana/Data-Analytics-Intern_R25_0716",
+        "locations": [
+            "Zionsville, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Group-1001",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TD Bank",
+        "id": "a593215e-a92b-4278-b591-669679e48837",
+        "title": "Colleague Readiness & Communications \u2013 Product Analyst Intern/Co-op - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768235647,
+        "date_posted": 1768235647,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Colleague-Readiness---Communications---Product-Analyst-Co-op-Intern--SUMMER-2026-_R_1466103",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Generate Biomedicines",
+        "id": "7543945d-a738-4fcd-b511-cebcdf0df2d3",
+        "title": "Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768235656,
+        "date_posted": 1768235656,
+        "url": "https://generatebiomedicines.com/open-positions?gh_jid=4643136006",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/GenerateBiomedicines",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nasdaq",
+        "id": "30e7fbec-34f6-4eeb-a46a-fd93233b6ca6",
+        "title": "Data Science Intern - London Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768235403,
+        "date_posted": 1768235403,
+        "url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/United-Kingdom---London/Data-Science-Intern----London-Summer-2026_R0024802",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Nasdaq",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "1a8d59cd-c2bf-45d3-bf23-e6d13fd6eb2e",
+        "title": "FPGA Intern Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1768235379,
+        "date_posted": 1768235379,
+        "url": "https://careers-gdms.icims.com/jobs/70121/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Coca-Cola Company",
+        "id": "6ee5fab6-8005-4c23-a178-884eb57cb70e",
+        "title": "CPS Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768235282,
+        "date_posted": 1768235282,
+        "url": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/CPS-Data-Science-Intern_R-133297",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Coca-Cola-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Plexus",
+        "id": "616b4366-2b2c-4fd6-b0b1-79cad2e8de0c",
+        "title": "Intern \u2013 Software Engineer - Spring 2027",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1768235036,
+        "date_posted": 1768235036,
+        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Raleigh-NC/Intern---Software-Engineer--Spring-2027-_R035780",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Plexus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Coca-Cola Company",
+        "id": "4a0b141e-700f-4faa-9ce8-e2e8d3aa7d84",
+        "title": "Data Analyst \u2013 Emerging Category Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768235289,
+        "date_posted": 1768235289,
+        "url": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Data-Analyst--Emerging-Category-Intern_R-133380",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Coca-Cola-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
