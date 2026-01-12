@@ -226428,7 +226428,7 @@
         "company_name": "Fermilab",
         "id": "f05c6632-ea9c-4f15-a547-bb8a1a28ba21",
         "title": "VALOR Apprenticeship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Spring 2026"
