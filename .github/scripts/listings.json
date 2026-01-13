@@ -111764,7 +111764,7 @@
         "company_name": "RTX",
         "id": "6da420b3-9731-4cad-9552-8d7301c86056",
         "title": "Software Engineering Co-Op - Summer/Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -155289,7 +155289,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "e98d2ae7-4a5c-4a8d-93c0-06ab3c8d225f",
         "title": "Data Science Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -201173,7 +201173,7 @@
         "company_name": "Apogee Engineering",
         "id": "c0b246ac-9f50-4715-82eb-c08b2ecfc468",
         "title": "Technical Intelligence Analyst \u2013 Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -217256,7 +217256,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "b2e5c9a4-0b91-4f7b-a58b-29b7500589fd",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -219399,7 +219399,7 @@
         "company_name": "Vanasse Hangen Brustlin (VHB)",
         "id": "d1d139ca-9876-4720-8580-5d9432509926",
         "title": "Highway Safety Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -285567,7 +285567,7 @@
         "company_name": "Wex",
         "id": "a83343f6-f74b-4f1e-98aa-d1e1b1c3b039",
         "title": "PhD Intern - AI/ML/NLP Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -287236,7 +287236,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "28a5242e-0479-4fcc-b429-3cc051bb05b3",
         "title": "Technology Intern/Co-op with Drexel University",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -298157,6 +298157,53 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Coca-Cola Company",
+        "id": "f3676de1-577e-475f-8b78-e6854cbdab2a",
+        "title": "Marketing Technology Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768260564,
+        "date_posted": 1768260564,
+        "url": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Marketing-Technology-Engineering-Intern_R-133431",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Coca-Cola-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Westinghouse Electric Company",
+        "id": "b0aa1e6f-59d6-45e4-a0d2-88df57706107",
+        "title": "Collaboration Automation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768296910,
+        "date_posted": 1765408331,
+        "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Collaboration-Automation-Intern-Summer-2026-NC/1338434100/?ats=successfactors",
+        "locations": [
+            "Grove City, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
