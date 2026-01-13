@@ -155289,7 +155289,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "e98d2ae7-4a5c-4a8d-93c0-06ab3c8d225f",
         "title": "Data Science Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262644,7 +262644,7 @@
         "company_name": "Veolia",
         "id": "e1fe41cc-603f-4c20-80f4-4610a15f4f2b",
         "title": "Intern - General",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -291117,7 +291117,7 @@
         "company_name": "FactSet",
         "id": "e0398d7c-c0c4-4bed-b7ee-10c9734f242f",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -298608,6 +298608,29 @@
             "Burlington, VT"
         ],
         "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "af95142a-4cab-4434-8143-7649e87aa6f9",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768321079,
+        "date_posted": 1768321079,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000103273574",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
