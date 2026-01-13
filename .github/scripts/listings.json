@@ -32438,7 +32438,7 @@
         "company_name": "Figma",
         "id": "5cd05981-28e8-4654-8a6d-11adc58e4f04",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -72032,7 +72032,7 @@
         "company_name": "Cboe",
         "id": "e81a9694-6bb8-4f2c-a6a3-47ad8b59b23c",
         "title": "Machine Learning Intern - Regulatory",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -75467,7 +75467,7 @@
         "company_name": "Radiant",
         "id": "c85a9a31-3aeb-48df-b1f9-41f050855522",
         "title": "Summer 2026 Internship - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -120334,7 +120334,7 @@
         "company_name": "Autodesk",
         "id": "fdc98a3e-328b-42a9-bf6c-9f1786448981",
         "title": "Intern \u2013 Construction AI Agent Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -126711,7 +126711,7 @@
         "company_name": "Samsung",
         "id": "26c729e4-fea0-42b8-8f16-e24e62efa1f5",
         "title": "Intern - System Software Engineer - CXL",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -130479,7 +130479,7 @@
         "company_name": "Audax Group",
         "id": "7c223542-da18-4af0-8ea9-929c3c2da9a9",
         "title": "AI Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -168757,7 +168757,7 @@
         "company_name": "Rivian",
         "id": "92c10bc5-801d-4201-b292-adef7df9f512",
         "title": "Software Engineering Intern - Digital Manufacturing Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -192492,7 +192492,7 @@
         "company_name": "Epic Games",
         "id": "38160c08-0955-4dd8-8780-8e7f46c1c350",
         "title": "Gameplay Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -193502,7 +193502,7 @@
         "company_name": "Epic Games",
         "id": "c445f529-1b55-489c-a66f-67ab023c5031",
         "title": "Gameplay Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -216847,7 +216847,7 @@
         "company_name": "iCapital Network",
         "id": "d2336667-a364-4c69-8938-b833ccd551eb",
         "title": "DLT Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -223353,7 +223353,7 @@
         "company_name": "W.R. Berkley",
         "id": "173a2af7-91f8-43bc-815b-eb93b3dd7f3a",
         "title": "Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -231974,7 +231974,7 @@
         "company_name": "League",
         "id": "c50d936a-723b-430a-8a90-7e1c46760f73",
         "title": "AI Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -243885,7 +243885,7 @@
         "company_name": "Seagate Technology ",
         "id": "ba54dbf9-ecee-434b-867b-5255afbe0ddb",
         "title": "Intern \u2013 Digital Agent Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -259218,7 +259218,7 @@
         "company_name": "CommScope",
         "id": "29d09aa5-bf18-4d09-b993-20868004fa63",
         "title": "Intern - IMS Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -260223,7 +260223,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "03cef171-11f2-4357-8a5f-87d1d2f5a5d6",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -267463,7 +267463,7 @@
         "company_name": "Nokia",
         "id": "53262511-9fe1-43b4-be01-2286393f789e",
         "title": "AI/ML Architect",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -274725,7 +274725,7 @@
         "company_name": "Genentech",
         "id": "8ccddd83-8fb3-414c-bd4d-83da8c117df5",
         "title": "Intern - AI systems performance engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -283340,7 +283340,7 @@
         "company_name": "ASML",
         "id": "4ffb5d82-3f85-40ee-9ab8-972d27565c3c",
         "title": "Intern - System Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -283406,7 +283406,7 @@
         "company_name": "Hilcorp",
         "id": "b7c29b3f-9bd8-48df-96f3-23ebcf7383f4",
         "title": "Intern - As-Built Drafting",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -288245,7 +288245,7 @@
         "company_name": "Seagate Technology ",
         "id": "bbb15492-7ad3-4e0a-9a1e-22df24e14a11",
         "title": "Firmware and Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -289695,7 +289695,7 @@
         "company_name": "Keysight Technologies",
         "id": "a934bfbb-278b-486a-ab83-711f1f3c105c",
         "title": "Aerospace Defense Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -290584,7 +290584,7 @@
         "company_name": "Sandisk",
         "id": "0a16bc00-327f-4179-9e28-d874530eb166",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -293411,7 +293411,7 @@
         "company_name": "Vertex Pharmaceuticals",
         "id": "35d50217-b2f3-4152-add2-1c1585c44fe7",
         "title": "Vertex Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -294129,7 +294129,7 @@
         "company_name": "Nordstrom",
         "id": "fcd5436d-d290-4e22-ab0c-57fae97336a8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -296377,7 +296377,7 @@
         "company_name": "Experian",
         "id": "bdc62b2a-7e1b-4706-b384-34fb3c67e853",
         "title": "AI/ML Partner Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -296400,7 +296400,7 @@
         "company_name": "Motorola",
         "id": "96ef80e8-5f2f-4e21-9738-2abd17055066",
         "title": "Embedded Android Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -296565,7 +296565,7 @@
         "company_name": "Cambria",
         "id": "6470346d-4f54-41a5-a3ee-6c0c0b471bd9",
         "title": "Salesforce AI Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -297239,7 +297239,7 @@
         "company_name": "CAE",
         "id": "c636061d-0d8e-465b-ab95-a0cab29c9621",
         "title": "Business Intelligence Analyst & Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -297612,7 +297612,7 @@
         "company_name": "SailPoint",
         "id": "fcad14bd-2b1c-49c4-9d8d-e054749d3af2",
         "title": "Software Engineer Intern - .Net",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
