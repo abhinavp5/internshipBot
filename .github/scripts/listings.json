@@ -221,26 +221,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Transcarent",
-        "id": "48a02491-cfce-46e2-b53b-900e9ebe5015",
-        "title": "Data Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1747671038,
-        "date_posted": 1747671038,
-        "url": "https://boards.greenhouse.io/transcarent/jobs/5543472004",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Transcarent",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "FOX",
         "id": "948359c4-4373-42f8-96b1-ed76f929329e",
@@ -85223,7 +85203,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "cc75ebb7-54af-4871-9b94-08788b84063b",
         "title": "Quantitative Systematic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -155938,7 +155918,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "f9220cd0-2992-46d7-bdae-b62e7d300658",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -264479,7 +264459,7 @@
         "company_name": "Shure",
         "id": "3c71e6a0-dd53-4d4a-b1ca-4c6f25b3a1ef",
         "title": "Global Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -292662,7 +292642,7 @@
         "company_name": "SCS Engineers",
         "id": "830484a2-d3e9-47f4-8a3b-5caffdf4792c",
         "title": "Science or Geology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -296215,7 +296195,7 @@
         "company_name": "LinkedIn",
         "id": "aafa7740-5a85-4214-bda2-806643f66707",
         "title": "Apprentice Engineer - Backend",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -298881,7 +298861,7 @@
         "company_name": "LinkedIn",
         "id": "7d816486-84b7-4bcd-bafe-f4fad798be9f",
         "title": "Apprentice Engineer - Backend",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
