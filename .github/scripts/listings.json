@@ -16,7 +16,8 @@
         "id": "8e89d029-fc69-4ceb-850c-bbfddd85468a",
         "date_posted": 1751392325,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1751391461,
@@ -35,7 +36,8 @@
         "id": "d392cd10-3f46-468d-8db4-12f671399814",
         "date_posted": 1751391461,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1751391438,
@@ -54,7 +56,8 @@
         "id": "35b8c1e8-38dd-4ef8-9801-2911d05a4557",
         "date_posted": 1751391438,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1751391426,
@@ -73,7 +76,8 @@
         "id": "d2a001fc-30ad-4524-9e77-588f5c4c66ad",
         "date_posted": 1751391426,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "source": "Simplify",
@@ -92,7 +96,8 @@
         ],
         "company_url": "https://simplify.jobs/c/Point72",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1751932740,
@@ -111,7 +116,8 @@
         "id": "4f119462-71fa-4165-ba58-fa617e051552",
         "date_posted": 1751932740,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Quantitative Finance"
     },
     {
         "source": "Simplify",
@@ -130,7 +136,8 @@
         ],
         "company_url": "https://simplify.jobs/c/Skydio",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "category": "Software Engineering"
     },
     {
         "source": "Simplify",
@@ -1751,7 +1758,8 @@
         "id": "79eb1afe-a512-4460-b39d-e47ff49d4245",
         "date_posted": 1748455696,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "source": "Simplify",
@@ -1937,7 +1945,8 @@
         "id": "a6816326-091b-4e8c-a9e6-2d6a7ebe31d9",
         "date_posted": 1748494960,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "source": "Simplify",
@@ -2300,7 +2309,8 @@
         "id": "b4a6ebd7-dc7e-4791-bca6-59c9d6601c60",
         "date_posted": 1748577845,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "source": "Simplify",
@@ -2564,7 +2574,8 @@
         "id": "6be9981a-007e-46f6-a3e2-7daecd6621f4",
         "date_posted": 1748841670,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "source": "Simplify",
@@ -3798,7 +3809,8 @@
         "id": "b50f4695-ca31-4a4b-b26b-6710666f8da4",
         "date_posted": 1749614655,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "source": "Simplify",
@@ -4485,7 +4497,8 @@
         "id": "73394687-0e49-4c91-b6ac-a051ce2c79f6",
         "date_posted": 1750204444,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1750204481,
@@ -4504,7 +4517,8 @@
         "id": "fe8ba0c7-d7e9-4ee0-ae84-1516c4047978",
         "date_posted": 1750204481,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1750205091,
@@ -4523,7 +4537,8 @@
         "id": "f284382c-18c1-4c15-9078-46325bc0ac21",
         "date_posted": 1750205091,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "source": "Simplify",
@@ -4790,7 +4805,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "source": "Simplify",
@@ -5053,7 +5069,8 @@
         "id": "59029780-d67d-4195-97b4-87c8323d4df6",
         "date_posted": 1750558409,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "source": "Simplify",
@@ -5967,7 +5984,8 @@
         "id": "f85f1657-3d74-42d5-baae-51504f16a958",
         "date_posted": 1751336913,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "source": "Simplify",
@@ -6490,7 +6508,8 @@
         "id": "28286b52-4c99-4d00-a870-d919c13d68c6",
         "date_posted": 1751577264,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "source": "Simplify",
@@ -6754,7 +6773,8 @@
         "id": "d8910e4e-3f35-4ebd-b2c7-1c94c0381e14",
         "date_posted": 1751931887,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1751931942,
@@ -6773,7 +6793,8 @@
         "id": "6134684a-8849-4b69-abf5-3aa6464ebe8f",
         "date_posted": 1751931942,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "source": "Simplify",
@@ -6893,7 +6914,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1751938726,
@@ -6912,7 +6934,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1751938726,
@@ -6931,7 +6954,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1754417269,
@@ -6970,7 +6994,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1751938726,
@@ -6989,7 +7014,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1751938726,
@@ -7008,7 +7034,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1752129686,
@@ -7027,7 +7054,8 @@
         "is_visible": false,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1752130429,
@@ -7046,7 +7074,8 @@
         "is_visible": false,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1751938726,
@@ -7065,7 +7094,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1751938726,
@@ -7084,7 +7114,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1751938726,
@@ -7103,7 +7134,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1751938726,
@@ -7122,7 +7154,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Hardware Engineering"
     },
     {
         "date_updated": 1756729574,
@@ -7164,7 +7197,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "date_updated": 1751938726,
@@ -7183,7 +7217,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Hardware Engineering"
     },
     {
         "date_updated": 1751938726,
@@ -7202,7 +7237,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1751938726,
@@ -7221,7 +7257,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1756117742,
@@ -7243,7 +7280,8 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1756117687,
@@ -7265,7 +7303,8 @@
         ],
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1751938726,
@@ -7284,7 +7323,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Hardware Engineering"
     },
     {
         "date_updated": 1751938726,
@@ -7303,7 +7343,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1751938726,
@@ -7322,7 +7363,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1751938726,
@@ -7341,7 +7383,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1751938726,
@@ -7360,7 +7403,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1751938726,
@@ -7382,7 +7426,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1754813592,
@@ -7404,7 +7449,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1751938726,
@@ -7425,7 +7471,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1751938726,
@@ -7445,7 +7492,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1752129519,
@@ -7464,7 +7512,8 @@
         "is_visible": false,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1751938726,
@@ -7483,7 +7532,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1751938726,
@@ -7502,7 +7552,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1753178182,
@@ -7523,7 +7574,8 @@
         "is_visible": false,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1751938726,
@@ -7542,7 +7594,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1751938726,
@@ -7581,7 +7634,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1751938726,
@@ -7600,7 +7654,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1751938726,
@@ -7619,7 +7674,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1751938726,
@@ -7638,7 +7694,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1751938726,
@@ -7657,7 +7714,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1751938726,
@@ -7676,7 +7734,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1753970719,
@@ -7695,7 +7754,8 @@
         "is_visible": false,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1751938726,
@@ -7714,7 +7774,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1754837304,
@@ -7744,7 +7805,8 @@
         "is_visible": false,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1752129226,
@@ -7766,7 +7828,8 @@
         "is_visible": false,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1751938726,
@@ -7785,7 +7848,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1751938726,
@@ -7805,7 +7869,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1751938726,
@@ -7825,7 +7890,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1751938726,
@@ -7845,7 +7911,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Hardware Engineering"
     },
     {
         "date_updated": 1751938726,
@@ -7865,7 +7932,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1751938726,
@@ -7885,7 +7953,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1751938726,
@@ -7904,7 +7973,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1751938726,
@@ -7925,7 +7995,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1751938726,
@@ -7944,7 +8015,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1751938726,
@@ -7963,7 +8035,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1751938726,
@@ -7982,7 +8055,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1753971049,
@@ -8022,7 +8096,8 @@
         "is_visible": true,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Hardware Engineering"
     },
     {
         "date_updated": 1752129853,
@@ -8042,7 +8117,8 @@
         "is_visible": false,
         "terms": [
             "Summer 2026"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1751933358,
@@ -8061,7 +8137,8 @@
         "id": "49be9ce1-98f8-4c21-ba2c-6ecfd467eff0",
         "date_posted": 1751933358,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "source": "Simplify",
@@ -8240,7 +8317,8 @@
         "id": "4ef69a7e-5eed-4888-8266-560682eba2db",
         "date_posted": 1752080600,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1754478380,
@@ -8259,7 +8337,8 @@
         "id": "0467d78e-d6ec-422b-b5f2-0a0b411e22cf",
         "date_posted": 1752080685,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "source": "Simplify",
@@ -8500,7 +8579,8 @@
         "id": "83e384ae-fc76-43d3-9937-d7c8653f3713",
         "date_posted": 1752137497,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1754478146,
@@ -8519,7 +8599,8 @@
         "id": "08e875c0-37d9-4c14-a517-8edfc0c8c4a4",
         "date_posted": 1752137672,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1754477985,
@@ -8538,7 +8619,8 @@
         "id": "77902452-0e2b-47dd-8fca-362b8d214de2",
         "date_posted": 1752137950,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Hardware Engineering"
     },
     {
         "date_updated": 1755041506,
@@ -8558,7 +8640,8 @@
         "id": "ec631329-50ef-458e-94be-87ad6775ab49",
         "date_posted": 1752139394,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1752139891,
@@ -8577,7 +8660,8 @@
         "id": "99c64db6-b31e-49c0-8c82-006faeb4416b",
         "date_posted": 1752139891,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1752140336,
@@ -8596,7 +8680,8 @@
         "id": "43fc589d-0403-44cd-832e-0e5c471c7426",
         "date_posted": 1752140336,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "source": "Simplify",
@@ -8675,7 +8760,8 @@
         "id": "59a2944f-01ba-41d7-b602-c513beeaddba",
         "date_posted": 1752185665,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "source": "Simplify",
@@ -9714,7 +9800,8 @@
         "id": "3eba7b3a-5f7d-4127-9629-675724975dab",
         "date_posted": 1752558239,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "source": "Simplify",
@@ -9963,7 +10050,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "source": "Simplify",
@@ -10026,7 +10114,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1757984591,
@@ -10049,7 +10138,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "date_updated": 1756202552,
@@ -10071,7 +10161,8 @@
         "is_visible": true,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1756202601,
@@ -10093,7 +10184,8 @@
         "is_visible": true,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1755593220,
@@ -10112,7 +10204,8 @@
         "id": "aedeea80-c175-4dad-aedb-40e5b199d02f",
         "date_posted": 1752703034,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1752703435,
@@ -10131,7 +10224,8 @@
         "id": "386b263c-ba3b-49c8-9b72-8ba2aefe5771",
         "date_posted": 1752703435,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Hardware Engineering"
     },
     {
         "date_updated": 1752703528,
@@ -10150,7 +10244,8 @@
         "id": "e46a4600-d0f3-439b-9717-3d9224c91423",
         "date_posted": 1752703528,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Hardware Engineering"
     },
     {
         "date_updated": 1756949344,
@@ -10172,7 +10267,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1752703920,
@@ -10191,7 +10287,8 @@
         "id": "2b34ebf3-50f0-4b51-914e-b771146f4345",
         "date_posted": 1752703920,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1752704054,
@@ -10211,7 +10308,8 @@
         "id": "3ed6c80a-cbaa-4d87-9928-60cd94e9d12d",
         "date_posted": 1752704054,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1753971149,
@@ -10230,7 +10328,8 @@
         "id": "9172ef4a-5b49-4c4a-8994-cf56ecfd5921",
         "date_posted": 1752704192,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Hardware Engineering"
     },
     {
         "date_updated": 1752704767,
@@ -10249,7 +10348,8 @@
         "id": "7a76ed8c-250a-427c-8492-d6fc7ef8997e",
         "date_posted": 1752704297,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1752704375,
@@ -10268,7 +10368,8 @@
         "id": "a8f8bb7e-1150-4205-8081-6d0609cc0ec5",
         "date_posted": 1752704375,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1752704493,
@@ -10287,7 +10388,8 @@
         "id": "afa81220-95fd-42b5-887d-22c6d1cf80e8",
         "date_posted": 1752704493,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Quantitative Finance"
     },
     {
         "source": "Simplify",
@@ -11072,7 +11174,8 @@
         "id": "f763e13a-9d72-474c-b855-1ac5ed14c36f",
         "date_posted": 1753167130,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1753177953,
@@ -11091,7 +11194,8 @@
         "id": "8cc151ea-ae04-43a3-9026-1dc72a2bcf38",
         "date_posted": 1753177953,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "source": "Simplify",
@@ -11312,7 +11416,8 @@
         "id": "f3104144-b5dc-4b87-b0be-aad6991b1090",
         "date_posted": 1753297309,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "source": "Simplify",
@@ -11351,7 +11456,8 @@
         "id": "1f084a00-0869-4ddf-a62e-d7a33c7a13a4",
         "date_posted": 1753403845,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "source": "Simplify",
@@ -11494,7 +11600,8 @@
         "id": "9d48f5ab-5719-43f7-bfc8-b7d1409d0121",
         "date_posted": 1753480519,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "source": "Simplify",
@@ -11952,7 +12059,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "date_updated": 1753724203,
@@ -11974,7 +12082,8 @@
         "id": "cfae5044-39c8-4291-8cbb-532effc2c6fe",
         "date_posted": 1753724203,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "source": "Simplify",
@@ -12392,7 +12501,8 @@
         "id": "a68a7eb6-6843-4470-9a78-2f594b44b9f2",
         "date_posted": 1753794282,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "date_updated": 1753797508,
@@ -12411,7 +12521,8 @@
         "id": "8be12d6b-c211-43e9-ac5e-031fa7bb122b",
         "date_posted": 1753797508,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1756949361,
@@ -12433,7 +12544,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1755041484,
@@ -12452,7 +12564,8 @@
         "id": "1d121ea9-1c36-4ed3-92b8-53ec2b8f7b92",
         "date_posted": 1753800498,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1755644959,
@@ -12472,7 +12585,7 @@
         "date_posted": 1753800872,
         "company_url": "",
         "is_visible": false,
-        "category": "None",
+        "category": "Software",
         "degrees": [
             "Bachelor's"
         ]
@@ -12498,7 +12611,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1755793142,
@@ -12520,7 +12634,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Hardware Engineering"
     },
     {
         "source": "Simplify",
@@ -12722,7 +12837,8 @@
         "id": "3b18d185-a436-4a4a-be2a-377f73684b0b",
         "date_posted": 1753832237,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1753972768,
@@ -12741,7 +12857,8 @@
         "id": "105f38b0-6409-4d1a-886a-78f95036951a",
         "date_posted": 1753832317,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "source": "Simplify",
@@ -12892,7 +13009,8 @@
         "is_visible": true,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1753886304,
@@ -12911,7 +13029,8 @@
         "id": "ad243775-06bb-4d21-b6f9-6becc1b35bfd",
         "date_posted": 1753886304,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1753886466,
@@ -12935,7 +13054,8 @@
         "id": "773146b6-5594-40a6-bf71-81966afced00",
         "date_posted": 1753886466,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Hardware Engineering"
     },
     {
         "date_updated": 1755223604,
@@ -12959,7 +13079,8 @@
         "id": "d5a96687-d8f3-41ba-b29c-a693238eb9f5",
         "date_posted": 1753887047,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1753972851,
@@ -12983,7 +13104,8 @@
         "id": "3cb99435-ac73-4695-8b97-b2d73cd99471",
         "date_posted": 1753887172,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "date_updated": 1755567646,
@@ -13007,7 +13129,8 @@
         "id": "54d0ba18-9fe4-4769-b007-76a7b16069e0",
         "date_posted": 1753887303,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "date_updated": 1757544074,
@@ -13034,7 +13157,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "date_updated": 1754417581,
@@ -13053,7 +13177,8 @@
         "id": "2d152a19-6776-4d9b-a84b-e9ec4caaa257",
         "date_posted": 1753887979,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "date_updated": 1755049661,
@@ -13072,7 +13197,8 @@
         "id": "adb7f02f-04dc-490a-8bd5-4f2e51713d9e",
         "date_posted": 1753888107,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1757985173,
@@ -13099,7 +13225,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Hardware Engineering"
     },
     {
         "date_updated": 1755782563,
@@ -13149,7 +13276,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "date_updated": 1756460559,
@@ -13171,7 +13299,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "date_updated": 1753972941,
@@ -13190,7 +13319,8 @@
         "id": "76a04b29-32ac-492b-a3e8-fd7ccfdc5cd4",
         "date_posted": 1753900848,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1754477066,
@@ -13209,7 +13339,8 @@
         "id": "c0bfaa5d-951b-4c0a-9256-bbfdb7d23687",
         "date_posted": 1753901428,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1753902751,
@@ -13233,7 +13364,8 @@
         "id": "b55257a3-502c-431c-baaf-849281bbefee",
         "date_posted": 1753902751,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1754477151,
@@ -13257,7 +13389,8 @@
         "id": "3e14edb5-cec3-4f0c-8a3d-e17d388fa666",
         "date_posted": 1753902847,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1755049610,
@@ -13276,7 +13409,8 @@
         "id": "91d6b9ac-c324-4427-8c22-2700eb41266d",
         "date_posted": 1753903073,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1754477252,
@@ -13296,7 +13430,8 @@
         "id": "52806a00-c046-4f0e-b4c3-05edf119d7d0",
         "date_posted": 1753903161,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1753903246,
@@ -13316,7 +13451,8 @@
         "id": "b3d93de4-d3d7-4875-9624-204cfc856735",
         "date_posted": 1753903246,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1755567622,
@@ -13335,7 +13471,8 @@
         "id": "fedfb83b-a53e-46a7-818d-eae47d1e8084",
         "date_posted": 1753903350,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1753903472,
@@ -13354,7 +13491,8 @@
         "id": "41e6a8b5-f4e7-49ce-937d-8c7982659c8d",
         "date_posted": 1753903472,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "source": "Simplify",
@@ -13661,7 +13799,8 @@
         "id": "23f9b154-2ee9-47f4-b87d-25c5c8aec18c",
         "date_posted": 1753985972,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1754477433,
@@ -13680,7 +13819,8 @@
         "id": "e07eb3f7-bf2c-45a6-bf96-116fc88bb677",
         "date_posted": 1753986055,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1754274551,
@@ -13699,7 +13839,8 @@
         "id": "f2f1c82c-371f-4e92-92b1-0e1b75e9819c",
         "date_posted": 1753986313,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "source": "Simplify",
@@ -15025,7 +15166,8 @@
         "id": "8cbfccf6-8a38-46e4-9bfc-540dfef9f371",
         "date_posted": 1754330783,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "source": "Simplify",
@@ -15150,7 +15292,8 @@
         "id": "a8a5d903-3816-4142-91fb-af11a6cfc7d9",
         "date_posted": 1754358265,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "date_updated": 1754663442,
@@ -15169,7 +15312,8 @@
         "id": "b4731746-4ba2-4ce8-8a7f-fd25038f9f74",
         "date_posted": 1754358352,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "date_updated": 1754360452,
@@ -15188,7 +15332,8 @@
         "id": "8d6422b1-7e8b-416d-aba0-b3495599c4c5",
         "date_posted": 1754360452,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Hardware Engineering"
     },
     {
         "date_updated": 1757544048,
@@ -15215,7 +15360,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "date_updated": 1754360793,
@@ -15234,7 +15380,8 @@
         "id": "5f43856c-3bde-465b-bd43-9778ad86133d",
         "date_posted": 1754360793,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1755498859,
@@ -15259,7 +15406,8 @@
         "id": "f0f2ef0d-a3cb-4c08-8af4-fbc26cb9fa85",
         "date_posted": 1754360928,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1754505204,
@@ -15283,7 +15431,8 @@
         "id": "15d2967a-2539-49a5-8d33-c4b4b7f4ba45",
         "date_posted": 1754361386,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1754363934,
@@ -15302,7 +15451,8 @@
         "id": "9cb12f36-6168-4a9b-a830-a3b05b7b80b4",
         "date_posted": 1754363934,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "date_updated": 1754363985,
@@ -15321,7 +15471,8 @@
         "id": "104ba742-a080-4cfc-a787-389a4b2623c4",
         "date_posted": 1754363985,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1754364082,
@@ -15345,7 +15496,8 @@
         "id": "10c6a34e-045d-49ae-8c16-438ff31f6929",
         "date_posted": 1754364082,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "source": "Simplify",
@@ -15451,7 +15603,8 @@
         "id": "68a97b61-7e02-4e63-b578-00bb0a61420e",
         "date_posted": 1754377883,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1757544016,
@@ -15478,7 +15631,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "date_updated": 1754663970,
@@ -15498,7 +15652,8 @@
         "id": "7dc4bfa6-d1e8-466a-983a-3f81f926fe65",
         "date_posted": 1754378177,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "source": "Simplify",
@@ -15824,7 +15979,8 @@
         "id": "b677ea27-398f-4293-b2ed-f261f89ffa59",
         "date_posted": 1754479401,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1754500959,
@@ -15843,7 +15999,8 @@
         "id": "e96f4d5d-e95d-4172-b530-37f903a17500",
         "date_posted": 1754500959,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1754505435,
@@ -15862,7 +16019,8 @@
         "id": "cbbaa1ac-f761-4ffa-a4bc-707d8e6ef385",
         "date_posted": 1754505435,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1754527584,
@@ -15881,7 +16039,8 @@
         "id": "ad5ce389-551e-4be7-bebd-a09b9b49cad8",
         "date_posted": 1754527293,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1754527811,
@@ -15900,7 +16059,8 @@
         "id": "293a4f93-8d58-4676-b1cb-e4b7b013b734",
         "date_posted": 1754527485,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1754528171,
@@ -15924,7 +16084,8 @@
         "id": "88d1b7c8-562e-40c3-8671-3d8b11ad7cbc",
         "date_posted": 1754528171,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "date_updated": 1755783388,
@@ -15951,7 +16112,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1754541336,
@@ -15970,7 +16132,8 @@
         "id": "08b13424-cf12-4e7b-a1e4-522ce7650ba2",
         "date_posted": 1754541336,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Hardware Engineering"
     },
     {
         "source": "Simplify",
@@ -16012,7 +16175,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "source": "Simplify",
@@ -18688,7 +18852,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1758584026,
@@ -18710,7 +18875,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1755595065,
@@ -18729,7 +18895,8 @@
         "id": "417bc8bf-397c-415a-9f30-ebe7d2007e4e",
         "date_posted": 1754641197,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1754754628,
@@ -18749,7 +18916,8 @@
         "id": "4042e060-9e80-4d3c-ac52-7d36428ac488",
         "date_posted": 1754641489,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1754753848,
@@ -18769,7 +18937,8 @@
         "id": "4ff4add7-2071-49a4-af3f-2c630fdab6c5",
         "date_posted": 1754641765,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1754642532,
@@ -18788,7 +18957,8 @@
         "id": "24c1973d-7482-4b76-8e75-a23ef19f1ddd",
         "date_posted": 1754642532,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "date_updated": 1755595051,
@@ -18807,7 +18977,8 @@
         "id": "a00eab9a-37e5-4cd3-bf5f-6cd6ca453830",
         "date_posted": 1754649919,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Other"
     },
     {
         "date_updated": 1756460492,
@@ -18829,7 +19000,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1755223695,
@@ -18849,7 +19021,8 @@
         "id": "3bde1631-d27d-4bbd-b332-3f90a23e35b2",
         "date_posted": 1754650597,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1756460571,
@@ -18877,7 +19050,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1754754046,
@@ -18902,7 +19076,8 @@
         "id": "a711ba41-e256-4c31-a145-413dcf173032",
         "date_posted": 1754664637,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1754747262,
@@ -18926,7 +19101,8 @@
         "id": "896c4b0a-56e1-4bc7-aeab-6b3b06fb9835",
         "date_posted": 1754675762,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "date_updated": 1754675840,
@@ -18949,7 +19125,8 @@
         "id": "0d7d3106-ea59-4f71-a6e2-af27575452cc",
         "date_posted": 1754675840,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1758057882,
@@ -18971,7 +19148,8 @@
         "is_visible": true,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Hardware Engineering"
     },
     {
         "source": "Simplify",
@@ -19392,7 +19570,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "source": "Simplify",
@@ -19453,7 +19632,8 @@
         "id": "00f215b2-7f30-4521-a54a-2cb75eb46389",
         "date_posted": 1754929475,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "source": "Simplify",
@@ -19579,7 +19759,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1754990024,
@@ -19599,7 +19780,8 @@
         "id": "afe605ee-fd86-49a0-8390-b66d2f7678bd",
         "date_posted": 1754990024,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1757544627,
@@ -19622,7 +19804,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "date_updated": 1757559391,
@@ -19645,7 +19828,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1757543679,
@@ -19668,7 +19852,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "source": "Simplify",
@@ -19731,7 +19916,8 @@
         "id": "e55c7b8e-c0cf-4693-b3ec-b426279d2557",
         "date_posted": 1755007169,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "date_updated": 1755007340,
@@ -19757,7 +19943,8 @@
         "id": "a8a23997-547c-463a-8f46-77226250bf84",
         "date_posted": 1755007340,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "date_updated": 1755007425,
@@ -19776,7 +19963,8 @@
         "id": "0679493b-6252-4971-8752-e6d6a84f1000",
         "date_posted": 1755007425,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "date_updated": 1755166210,
@@ -19795,7 +19983,8 @@
         "id": "38bddc63-a4eb-4a49-8ce2-a768807f2650",
         "date_posted": 1755007550,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "date_updated": 1757561099,
@@ -19822,7 +20011,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1755049690,
@@ -19846,7 +20036,8 @@
         "id": "a773bb44-78a2-4c96-95c3-d194f1e22806",
         "date_posted": 1755014282,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "source": "Simplify",
@@ -20057,7 +20248,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1758671800,
@@ -20174,7 +20366,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Hardware Engineering"
     },
     {
         "source": "Simplify",
@@ -20545,7 +20738,8 @@
         "id": "fd67a8ae-43fa-492a-bc2a-ef78e3442409",
         "date_posted": 1755155751,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "source": "Simplify",
@@ -20587,7 +20781,8 @@
         "id": "7c193c8a-fc5e-4613-b0e8-fa805000d058",
         "date_posted": 1755166358,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Hardware Engineering"
     },
     {
         "date_updated": 1755166544,
@@ -20608,7 +20803,8 @@
         "id": "8ce6bc8d-6494-40aa-947d-cd0a1d8ec6aa",
         "date_posted": 1755166544,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "date_updated": 1755567773,
@@ -20632,7 +20828,8 @@
         "id": "c0b724f8-afea-43bd-bf40-1d75e6334c74",
         "date_posted": 1755166637,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1755166768,
@@ -20655,7 +20852,8 @@
         "id": "f815eb2f-0dff-4c16-98d8-a584b9969bc9",
         "date_posted": 1755166768,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Quantitative Finance"
     },
     {
         "date_updated": 1755567810,
@@ -20674,7 +20872,8 @@
         "id": "aa7fa6b8-477d-4b49-87ab-dbe7db6b8a86",
         "date_posted": 1755166896,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1755192124,
@@ -20697,7 +20896,8 @@
         "id": "e9d47e16-c9a3-46ca-8741-464512bd5290",
         "date_posted": 1755167452,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1755167523,
@@ -20720,7 +20920,8 @@
         "id": "fe4e7ffc-53c2-47b3-a6c2-9a3877197d7e",
         "date_posted": 1755167523,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1755167694,
@@ -20743,7 +20944,8 @@
         "id": "6262d9ea-74a7-4f1b-9808-0f793754f7f2",
         "date_posted": 1755167694,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1755167776,
@@ -20762,7 +20964,8 @@
         "id": "a2911035-3a66-4719-ab56-55f7c142ce93",
         "date_posted": 1755167776,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1755223866,
@@ -20781,7 +20984,8 @@
         "id": "8fdfa7b0-df95-4009-a3b8-e433466c825f",
         "date_posted": 1755167935,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1756201860,
@@ -20890,7 +21094,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "source": "Simplify",
@@ -21318,7 +21523,8 @@
         "id": "4193bd89-d8b8-4e02-aab3-7f2a5dd6f423",
         "date_posted": 1755248292,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1755782446,
@@ -21362,7 +21568,8 @@
         "id": "47344b22-9c07-45c2-b3f1-b79b9e388de6",
         "date_posted": 1755264404,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1755567834,
@@ -21381,7 +21588,8 @@
         "id": "d98006af-1b44-46d1-9a3d-960e0494ec5f",
         "date_posted": 1755264461,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1757728269,
@@ -21410,7 +21618,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "date_updated": 1758245350,
@@ -21437,7 +21646,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "date_updated": 1755265063,
@@ -21461,7 +21671,8 @@
         "id": "cd8a53a5-daa7-4793-b752-5fd191eb4f78",
         "date_posted": 1755265063,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1755417820,
@@ -21480,7 +21691,8 @@
         "id": "0cb65a62-bd96-4720-9472-145fa41c4047",
         "date_posted": 1755265165,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "source": "Simplify",
@@ -23194,7 +23406,8 @@
         "id": "1b6d7184-6ae8-4a04-a8f1-0c82c93e8fe2",
         "date_posted": 1755419208,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "date_updated": 1755797244,
@@ -23220,7 +23433,8 @@
         "is_visible": true,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Hardware Engineering"
     },
     {
         "date_updated": 1755567869,
@@ -23243,7 +23457,8 @@
         "id": "88ac5f94-c72c-45ec-8268-15fc0a9f4277",
         "date_posted": 1755419710,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1755419842,
@@ -23262,7 +23477,8 @@
         "id": "4eac0a74-05d5-4c88-9cff-b7f66a8ab346",
         "date_posted": 1755419842,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1755419933,
@@ -23285,7 +23501,8 @@
         "id": "3f3f7265-437a-4e75-8ecb-d8de1168e1c6",
         "date_posted": 1755419933,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Hardware Engineering"
     },
     {
         "source": "Simplify",
@@ -23329,7 +23546,8 @@
         "id": "1539711d-fec5-4c60-9620-fca2226bbad6",
         "date_posted": 1755420986,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1755421079,
@@ -23348,7 +23566,8 @@
         "id": "359bb3c2-6338-4f7b-9711-398cb120f1b8",
         "date_posted": 1755421079,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Other"
     },
     {
         "date_updated": 1759960743,
@@ -23394,7 +23613,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1755498731,
@@ -23413,7 +23633,8 @@
         "id": "89fe88ab-dcf7-4f12-8546-1ca545d7e336",
         "date_posted": 1755421578,
         "company_url": "",
-        "is_visible": false
+        "is_visible": false,
+        "category": "Software Engineering"
     },
     {
         "date_updated": 1759958569,
@@ -23436,7 +23657,8 @@
         "is_visible": false,
         "degrees": [
             "Bachelor's"
-        ]
+        ],
+        "category": "Hardware Engineering"
     },
     {
         "source": "Simplify",
@@ -24254,7 +24476,8 @@
         "id": "afc74390-93b7-42a2-9b8f-57146a9a6079",
         "date_posted": 1755563302,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "source": "Simplify",
@@ -24324,7 +24547,7 @@
     },
     {
         "source": "Simplify",
-        "category": "None",
+        "category": "Software",
         "company_name": "Altera Corporation",
         "id": "cf5dbc2c-f0e6-4fc5-82f0-8f136c40f323",
         "title": "AI Software Intern",
@@ -24568,7 +24791,8 @@
         "id": "26f81b94-8d18-462b-97df-91b074f04852",
         "date_posted": 1755594678,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Product Management"
     },
     {
         "source": "Simplify",
@@ -24744,7 +24968,8 @@
         "id": "8c081963-9765-423e-bb50-0c58e9d77e35",
         "date_posted": 1755637840,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Data Science, AI & Machine Learning"
     },
     {
         "source": "Simplify",
@@ -25310,7 +25535,7 @@
     },
     {
         "source": "Simplify",
-        "category": "None",
+        "category": "Software",
         "company_name": "Magna",
         "id": "8e39e7cd-fb7a-4013-8a9a-2b3f90e3da9d",
         "title": "IT Co-op Student",
@@ -32190,7 +32415,8 @@
         "id": "2512ffa8-e22c-43b5-9b7d-65a74477180b",
         "date_posted": 1755638663,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Software Engineering"
     },
     {
         "source": "Simplify",
@@ -47189,7 +47415,7 @@
         "company_name": "Booz Allen",
         "id": "c007327d-d3cc-426d-9772-317fb5167d97",
         "title": "University \u2013 Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -73899,29 +74125,6 @@
         "is_visible": false
     },
     {
-        "date_updated": 1757402802,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210664608",
-        "company_name": "JPMorganChase",
-        "title": "Machine Learning Center of Excellence",
-        "locations": [
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "Simplify",
-        "id": "698158f3-0e82-42bf-9b33-cc4fbb5dfafd",
-        "date_posted": 1757402802,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Marvell",
@@ -77466,29 +77669,6 @@
         ]
     },
     {
-        "date_updated": 1757404530,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/248277",
-        "company_name": "Pella Corporation",
-        "title": "Software Engineering Intern",
-        "locations": [
-            "Pella, IA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "605aaf3d-eaab-43c0-ad2c-7c8066c5b87c",
-        "date_posted": 1757404530,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1762295783,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
@@ -78768,29 +78948,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Texas Instruments",
-        "id": "605aaf3d-eaab-43c0-ad2c-7c8066c5b87c",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757446323,
-        "date_posted": 1757446323,
-        "url": "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/248277",
-        "locations": [
-            "Newton, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/Texas-Instruments",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -113866,30 +114023,6 @@
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210664814",
         "locations": [
             "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "JP Morgan Chase",
-        "id": "698158f3-0e82-42bf-9b33-cc4fbb5dfafd",
-        "title": "Machine Learning Center of Excellence Summer Associate - NLP",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758377831,
-        "date_posted": 1757120322,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210664608",
-        "locations": [
-            "NYC"
         ],
         "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
         "is_visible": true,
@@ -150288,7 +150421,7 @@
         "company_name": "Expedia Group",
         "id": "b699a376-9059-4661-ad08-90f275c09e83",
         "title": "Machine Learning Science Intern - Masters",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -164194,7 +164327,7 @@
         "category": "Software",
         "company_name": "GM financial",
         "id": "2cf6d3f8-bc0c-4e27-a691-9648da31dad6",
-        "title": "",
+        "title": "Software Engineer Intern",
         "active": false,
         "terms": [
             "Summer 2026"
@@ -167051,7 +167184,7 @@
         "category": "Product",
         "company_name": "Hitachi Energy",
         "id": "f394aadb-9f00-4b01-896c-f5f1d669a539",
-        "title": "",
+        "title": "Product Intern",
         "active": false,
         "terms": [
             "Summer 2026"
@@ -167074,7 +167207,7 @@
         "category": "AI/ML/Data",
         "company_name": "Brevan Howard",
         "id": "a9835d89-5fa0-44f4-b509-98fb54769c7b",
-        "title": "",
+        "title": "AI/ML/Data Intern",
         "active": true,
         "terms": [
             "Summer 2026"
@@ -167517,7 +167650,7 @@
         "category": "AI/ML/Data",
         "company_name": "AgZen",
         "id": "6879c293-2e1f-4f3e-b160-85f4c3327044",
-        "title": "",
+        "title": "AI/ML/Data Intern",
         "active": true,
         "terms": [
             "Winter 2025"
@@ -168327,7 +168460,7 @@
         "category": "AI/ML/Data",
         "company_name": "University of Maryland Medical System",
         "id": "bbbc613a-7af4-4373-bccf-064dca8c0b2b",
-        "title": "",
+        "title": "AI/ML/Data Intern",
         "active": false,
         "terms": [
             "Winter 2025"
@@ -168543,7 +168676,7 @@
         "category": "AI/ML/Data",
         "company_name": "Booz Allen",
         "id": "aed369de-997f-4d2c-884e-2d70785fa0c7",
-        "title": "",
+        "title": "AI/ML/Data Intern",
         "active": false,
         "terms": [
             "Winter 2026",
@@ -169133,7 +169266,7 @@
         "category": "AI/ML/Data",
         "company_name": "Rolls Royce",
         "id": "775f53c7-4654-4f99-8a37-e4bbeb76fe40",
-        "title": "",
+        "title": "AI/ML/Data Intern",
         "active": false,
         "terms": [
             "Spring 2026"
@@ -169344,7 +169477,7 @@
         "category": "AI/ML/Data",
         "company_name": "Figure",
         "id": "8975855e-f378-4504-bae1-81a1d994ecbb",
-        "title": "",
+        "title": "AI/ML/Data Intern",
         "active": false,
         "terms": [
             "Winter 2026",
@@ -169417,7 +169550,7 @@
         "category": "AI/ML/Data",
         "company_name": "FMC Corporation",
         "id": "bafc0c28-3ba6-4ae2-b369-cfaa03da0a16",
-        "title": "",
+        "title": "AI/ML/Data Intern",
         "active": false,
         "terms": [
             "Winter 2025",
@@ -188103,7 +188236,7 @@
         "company_name": "AnySignal",
         "id": "8f6fb57b-9cff-412b-9ab0-0c80965eeb13",
         "title": "Embedded Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -208443,7 +208576,7 @@
         "company_name": "Vanguard",
         "id": "5b334b82-4782-46ed-8836-6a81873e19b2",
         "title": "Application Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -211631,7 +211764,7 @@
         "company_name": "Comcast",
         "id": "1d168d73-c1a1-46fc-a647-6a1ad352ea4c",
         "title": "Comcast Data Scientist Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -211890,7 +212023,7 @@
         "company_name": "Comcast",
         "id": "2fef703c-56cb-4012-9f19-7110f1623523",
         "title": "Comcast Machine Learning Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -288291,7 +288424,7 @@
         "company_name": "T-Mobile",
         "id": "a8e0a784-a4ba-404e-b681-a54dd7fdf019",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -292497,7 +292630,7 @@
         "company_name": "Comcast",
         "id": "d7b0b50c-bda6-464d-96d0-5cd3ae00bcb7",
         "title": "Embedded System Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -292520,7 +292653,7 @@
         "company_name": "Comcast",
         "id": "9fa556b8-7f9f-474d-b778-1f05ab1d1f0b",
         "title": "Machine Learning Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -298553,7 +298686,7 @@
         "company_name": "IDEMIA",
         "id": "1722e33d-f6bc-457a-9351-8e1dbb9f46a2",
         "title": "Power BI Data Analyst Internship - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
