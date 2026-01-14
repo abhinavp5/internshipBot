@@ -161,46 +161,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Leidos",
-        "id": "c78ccc38-20aa-48d3-b25d-49bd3965384a",
-        "title": "Software Developer Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1747680982,
-        "date_posted": 1747680982,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Software-Developer-Co-op_R-00159417",
-        "locations": [
-            "Bethesda, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nextiva",
-        "id": "9ec67b14-277d-4125-bf7b-d1618e3cd0fc",
-        "title": "Marketing Intern - LLM Optimization - AI SEO / GEO",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1747682122,
-        "date_posted": 1747682122,
-        "url": "https://www.nextiva.com/company/careers-listing?gh_jid=8002493002",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Nextiva",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Bloom Energy",
         "id": "58f3f1bd-0812-4b70-be51-72b9023d0c7a",
@@ -114276,7 +114236,7 @@
         "company_name": "HNTB",
         "id": "0de26396-5f65-44e7-9dd4-da7b069f7eca",
         "title": "Returning New Grad Software Engineer 1",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -225613,7 +225573,7 @@
         "company_name": "Adobe",
         "id": "d57d7625-bea6-4f9e-8f3c-79d40428d155",
         "title": "2026 Intern - Enterprise Marketing AI Data Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -248899,7 +248859,7 @@
         "company_name": "Tencent",
         "id": "2962898c-fae7-45cf-9285-736c2c1b01bc",
         "title": "Data Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -294641,7 +294601,7 @@
         "company_name": "Genentech",
         "id": "7a78f29c-64c3-46fa-a4b4-b64331bf648b",
         "title": "Research Intern - Braid",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
