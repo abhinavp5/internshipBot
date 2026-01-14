@@ -162,26 +162,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "FOX",
-        "id": "817544e3-8e5a-434f-b199-daaac9a40815",
-        "title": "Fall 2025 FOX News Media Internship Program - Data Analytics",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1747639013,
-        "date_posted": 1747639013,
-        "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Fall-2025-FOX-News-Media-Internship-Program---Data-Analytics---New-York_R50028891",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Fox",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "KION",
         "id": "ea3102c0-b2dc-4dd2-91c6-df6b32105b1c",
         "title": "GenAI Agent Development Intern",
@@ -40695,7 +40675,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3801beb2-e473-44e1-8a9b-a3c4776098f6",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -88173,7 +88153,7 @@
         "company_name": "Shure",
         "id": "cceac49b-69c3-419f-b97d-5a1ed6b46e09",
         "title": "Cloud Applications Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -88362,7 +88342,7 @@
         "company_name": "Shure",
         "id": "4056025f-51a8-4971-8e2c-874f160c7ce0",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -88604,7 +88584,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "7bb38c12-27e1-4e8d-bddd-a149edbd6e8a",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -89996,7 +89976,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "08b5f3e9-aa6a-4dcb-839c-f936a41196a3",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -111446,7 +111426,7 @@
         "company_name": "Shure",
         "id": "34053954-ba41-4968-9bc9-770b754f1e15",
         "title": "Audio Applied Research Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -118830,7 +118810,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "cd1eeddf-de6b-42cb-93a8-e468e9b5f219",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -155560,7 +155540,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "32530b9f-31b7-4efc-887c-48ec4bd8da7a",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -155931,7 +155911,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "bc4eaca1-d7bb-46f8-a195-59f2f4955803",
         "title": "Weather Data Analyst Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -181599,7 +181579,7 @@
         "company_name": "W.R. Berkley",
         "id": "56a70448-70c6-45fe-b9bb-d9c1678e7905",
         "title": "Data Analyst Intern - Power BI - SQL",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -199124,7 +199104,7 @@
         "company_name": "Essen Health Care",
         "id": "5bbe5efe-14da-4829-9ba8-59f0f6de337b",
         "title": "Quality Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -207776,7 +207756,7 @@
         "company_name": "LinkedIn",
         "id": "4145fa34-a3e7-4c03-94ca-76d6d02e4386",
         "title": "AI/ML Engineer Intern - Master's - Summer 2026 - Mountain View - CA",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -223486,7 +223466,7 @@
         "company_name": "W.R. Berkley",
         "id": "173a2af7-91f8-43bc-815b-eb93b3dd7f3a",
         "title": "Data Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -226098,7 +226078,7 @@
         "company_name": "Westwood",
         "id": "302d27d0-99fe-444c-a240-bbf113f442ac",
         "title": "GIS Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -231890,7 +231870,7 @@
         "company_name": "LinkedIn",
         "id": "fa7e7c93-38f2-4017-b3c5-f46831cd229b",
         "title": "AI/ML Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -233841,7 +233821,7 @@
         "company_name": "Alliance Laundry Systems",
         "id": "dda0a2ba-b6fc-4b39-8ba3-32ed779c5321",
         "title": "Product Innovation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -240364,7 +240344,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "9446fe88-ca32-4044-9c9a-f948a1d294ba",
         "title": "Software Developer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -264519,7 +264499,7 @@
         "company_name": "Shure",
         "id": "3c71e6a0-dd53-4d4a-b1ca-4c6f25b3a1ef",
         "title": "Global Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -270632,7 +270612,7 @@
         "company_name": "Mercury Insurance",
         "id": "4684f8dd-02a0-46ca-b39b-bf13932c803a",
         "title": "Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -270824,7 +270804,7 @@
         "company_name": "Mercury Insurance",
         "id": "cc595046-fa62-465f-a125-c8ef38c4c969",
         "title": "Marketing Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -282446,7 +282426,7 @@
         "company_name": "LHB",
         "id": "19c49138-f5b0-41cd-8218-2987c388c00c",
         "title": "Climate Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -285248,7 +285228,7 @@
         "company_name": "Cadent",
         "id": "76e8f0b1-b8f5-411a-b802-2a67417f9df7",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -287369,7 +287349,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "28a5242e-0479-4fcc-b429-3cc051bb05b3",
         "title": "Technology Intern/Co-op with Drexel University",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -288770,7 +288750,7 @@
         "company_name": "AltaGas",
         "id": "1cfea14c-43a6-4fd9-86aa-28b50085d39f",
         "title": "Wgl \u2013 2026 Summer Intern: Utilities - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -290859,7 +290839,7 @@
         "company_name": "Cotiviti",
         "id": "a785abe5-ba03-4388-af75-d74873170340",
         "title": "Intern \u2013 Generative AI Research Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -290882,7 +290862,7 @@
         "company_name": "LMI ",
         "id": "88021173-25d9-47e9-aaeb-eb4c006dda89",
         "title": "AI Engineer Intern - Usps - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -292515,7 +292495,7 @@
         "company_name": "Comcast",
         "id": "ada1767b-8c4b-40ff-a0f1-3db72ad878c8",
         "title": "Data Science Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -292702,7 +292682,7 @@
         "company_name": "SCS Engineers",
         "id": "830484a2-d3e9-47f4-8a3b-5caffdf4792c",
         "title": "Science or Geology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -293147,7 +293127,7 @@
         "company_name": "Chick-fil-A",
         "id": "2a723f83-c5d9-491a-9140-0c0fe9c1a127",
         "title": "Digital Transformation and Technology Undergraduate Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Spring 2027",
@@ -296229,7 +296209,7 @@
         "company_name": "True Manufacturing",
         "id": "06f7dd0f-4af4-4089-9253-4572ce3c63b5",
         "title": "AI Analyst Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -298060,7 +298040,7 @@
         "company_name": "True Manufacturing",
         "id": "2d95a261-c854-40fc-a20d-1ac10a7558f9",
         "title": "Business Intelligence Co-op - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -298966,7 +298946,7 @@
         "company_name": "TD Bank",
         "id": "99d1385b-1d13-432a-a12b-321b953e62a3",
         "title": "Global Markets Intern/Co-op - Corporate Access - Institutional Equity",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -300210,6 +300190,29 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Persistent Systems",
+        "id": "2398f0d4-fad2-4bb8-931f-8d70d2095c3e",
+        "title": "Intern \u2013 Hardware Engineer - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768374536,
+        "date_posted": 1761825728,
+        "url": "https://careers-persistentsystems.icims.com/jobs/2135/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Persistent-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
