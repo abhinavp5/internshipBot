@@ -56623,7 +56623,7 @@
         "company_name": "Qualcomm",
         "id": "d8d24238-2393-4f86-bdae-0d4f16400dec",
         "title": "Machine Learning & Artificial Intelligence Engineering Internship - Interim Engineering Intern - SW",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -155282,7 +155282,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "e98d2ae7-4a5c-4a8d-93c0-06ab3c8d225f",
         "title": "Data Science Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -255099,7 +255099,7 @@
         "company_name": "American Enterprise Institute",
         "id": "c42590be-0c86-43ad-b225-bf67dc537fe7",
         "title": "Summer Intern: Data Analysis and Education Policy",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -290742,7 +290742,7 @@
         "company_name": "LMI ",
         "id": "88021173-25d9-47e9-aaeb-eb4c006dda89",
         "title": "AI Engineer Intern - Usps - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -300513,5 +300513,101 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fifth Third Bank",
+        "id": "4dab6973-186e-46a9-9957-942e70e027b9",
+        "title": "Software Engineer Co-op - Enterprise Finance Applications - Fall 2026",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1768408677,
+        "date_posted": 1768408677,
+        "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-op---Enterprise-Finance-Applications---Fall-2026_R63536",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fifth Third Bank",
+        "id": "3ba3cec4-9a0d-47f5-a86b-896c5abdcacc",
+        "title": "Enterprise Data Office College Co-op - Fall 2026 - Cincinnati",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1768408672,
+        "date_posted": 1768408672,
+        "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Enterprise-Data-Office-College-Co-op---Fall-2026---Cincinnati_R64382",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jones Lang LaSalle (JLL)",
+        "id": "6bb7fbbf-630f-446a-9113-f8bf33d43edb",
+        "title": "Technology Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768408591,
+        "date_posted": 1768408591,
+        "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Technology-Analyst-Summer-2026-Internship_REQ478662",
+        "locations": [
+            "Phoenix, AZ",
+            "Albany, NY",
+            "Chicago, IL",
+            "LA",
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Jones-Lang-LaSalle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mechanize",
+        "id": "a1ecbf9e-9344-4664-983e-f5e0e6edb31b",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1768383027,
+        "date_posted": 1763712709,
+        "url": "https://jobs.ashbyhq.com/mechanize/d148d54f-6db7-4c28-9699-0304596f554e/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Mechanize",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
