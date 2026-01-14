@@ -161,87 +161,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Bloom Energy",
-        "id": "58f3f1bd-0812-4b70-be51-72b9023d0c7a",
-        "title": "Advanced Process Controls Intern",
-        "active": false,
-        "terms": [
-            "Winter 2024",
-            "Summer 2026"
-        ],
-        "date_updated": 1747693329,
-        "date_posted": 1747693329,
-        "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Advanced-Process-Controls-Intern_JR-19738",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Bloom-Energy",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Lennar Corporation",
-        "id": "3682fa8a-7082-4290-9127-cfb558b0f3f7",
-        "title": "Software Engineering Internship",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1747694538,
-        "date_posted": 1747694538,
-        "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Harrisburg-PA---Virtual/Software-Engineering-Internship_R25_0000002463",
-        "locations": [
-            "Harrisburg, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lennar-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Lennar Corporation",
-        "id": "0ace7295-7e1a-49c5-810f-b62532e9133f",
-        "title": "Software Engineering Internship",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1747694534,
-        "date_posted": 1747694534,
-        "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Sacramento-CA---Virtual/Software-Engineering-Internship_R25_0000002468",
-        "locations": [
-            "Sacramento, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lennar-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Maxar Technologies",
-        "id": "25795b92-6cd0-4228-8a66-3598427e678e",
-        "title": "Intern \u2013 Software Developer - Test Focus",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1747695633,
-        "date_posted": 1747695633,
-        "url": "https://maxar.wd1.myworkdayjobs.com/maxar/job/Westminster-CO/Intern---Software-Developer--Test-Focus-_R22140",
-        "locations": [
-            "Westminster, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/MaxarTech",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Nextracker",
         "id": "44b1d424-e7f6-46e7-8efd-2d07e1791734",
@@ -155745,7 +155664,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "4e79f79a-bf73-45f0-a035-c8ed56f6cbcd",
         "title": "Software Engineering Intern - Full-Stack - Java",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -267779,7 +267698,7 @@
         "company_name": "By Light Professional IT Services",
         "id": "c3443d03-ae1b-4d4a-9885-15ba670cd9d0",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -297188,7 +297107,7 @@
         "company_name": "Westwood",
         "id": "ef4a975b-6415-4aa4-8c54-16db5ae2bdc7",
         "title": "Environmental Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
