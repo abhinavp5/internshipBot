@@ -161,52 +161,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nextracker",
-        "id": "44b1d424-e7f6-46e7-8efd-2d07e1791734",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1747698390,
-        "date_posted": 1747698390,
-        "url": "https://nextracker.wd5.myworkdayjobs.com/nextracker_careers/job/Fremont-North-Bldg-California---USA/Software-Engineer-Intern_NX-1870",
-        "locations": [
-            "Fremont, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nextracker",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Harris Computer",
-        "id": "3eaf235d-a3a9-4b53-b010-79aae08eed89",
-        "title": "Apprentice Software Support Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1747698979,
-        "date_posted": 1747698979,
-        "url": "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Virginia-United-States/Apprentice-Software-Support-Engineer_R0030096",
-        "locations": [
-            "Oregon",
-            "Texas",
-            "Nevada",
-            "Georgia",
-            "Tennessee",
-            "Virginia",
-            "Oklahoma"
-        ],
-        "company_url": "https://simplify.jobs/c/372c6250-89ed-4b8e-9000-a81fc94184d8",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "KBR",
         "id": "d53347cd-9167-4f69-8ee4-9990d6a54328",
