@@ -11362,7 +11362,7 @@
         "company_name": "N1",
         "id": "d48ec36f-aeb5-4c12-92bc-b624855ba19d",
         "title": "Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -12439,7 +12439,7 @@
         "company_name": "Gimlet Labs",
         "id": "8154f734-12f7-4652-a99d-d28d1ac14d60",
         "title": "Software Engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -22316,7 +22316,7 @@
         "company_name": "EQ Bank",
         "id": "50ec8240-90e2-456d-8f29-c04b291cf524",
         "title": "Software Engineer I - Full-Stack",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -30794,7 +30794,7 @@
         "company_name": "ChipStack",
         "id": "a45c270f-3536-467d-9855-b868ba3fb060",
         "title": "Research Intern - Ph.D",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -90891,7 +90891,7 @@
         "company_name": "Suno",
         "id": "2868d396-360e-445c-94e1-375f30047459",
         "title": "Software Engineering Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -113848,7 +113848,7 @@
         "company_name": "Ellipsis Labs",
         "id": "04f4153d-3ef4-4c63-95fc-17771cca2eec",
         "title": "Software Engineer - Intern and New Grad - Campus",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -117250,7 +117250,7 @@
         "company_name": "SIFT",
         "id": "c3ea1438-a9d5-4f30-a86d-d0bf3eff1325",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -148840,7 +148840,7 @@
         "company_name": "Patreon",
         "id": "ab32f81c-b980-4fc7-955b-402bc10d3000",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -271518,7 +271518,7 @@
         "company_name": "TWG Global",
         "id": "457c0f29-9a28-418e-8c2a-cde3ffb00be7",
         "title": "AI/ML Scientist Intern - Graphs",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -271602,7 +271602,7 @@
         "company_name": "TWG Global",
         "id": "461910a5-9f08-41c2-9fb2-163511478e33",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -271623,7 +271623,7 @@
         "company_name": "TWG Global",
         "id": "22a77349-2e88-456c-9641-9245ebb2838e",
         "title": "AI/ML Scientist Intern - Natural Language Processing",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -280686,7 +280686,7 @@
         "company_name": "Charles River Associates (CRA)",
         "id": "f00b59d2-c88c-4497-aa6d-b2681de9fb46",
         "title": "Intern \u2013 Antitrust & Competition Economics Practice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -286594,7 +286594,7 @@
         "company_name": "Ankura Consulting Group",
         "id": "a86f2f3e-230b-44b6-8275-768d31abb906",
         "title": "University Co-Op - Construction - Disputes & Advisory",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -291386,7 +291386,7 @@
         "company_name": "Global Partners",
         "id": "1e3ed0ad-c0db-463f-9730-a7cc3c8757db",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -298541,7 +298541,7 @@
         "company_name": "JP Morgan Chase",
         "id": "965ec78b-1bd6-458e-92c4-4468a2084042",
         "title": "2026 Chase Digital Development Programme \u2013 Summer Internship - London",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -304826,7 +304826,7 @@
         "company_name": "Fulton Bank",
         "id": "36ec5cc0-e3c3-47ce-84f6-88c661541599",
         "title": "IT Business Enablement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -305151,6 +305151,4158 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rocket Science Group",
+        "id": "d9563b77-6e70-4694-a83c-b496417fc526",
+        "title": "Software Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1768345938,
+        "date_posted": 1768345938,
+        "url": "https://jobs.ashbyhq.com/rocketsciencegg/d9f7b023-7775-4e39-9291-597d1f8f9047/application",
+        "locations": [
+            "Brighton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Science-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RWS",
+        "id": "ce4e6045-22a5-4992-800d-786c7415271c",
+        "title": "AI Data Specialist - Florida - US",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1768345806,
+        "date_posted": 1768345806,
+        "url": "https://jobs.lever.co/rws/191a1010-b228-4141-92e0-9349cbca3a79/apply",
+        "locations": [
+            "Florida"
+        ],
+        "company_url": "https://simplify.jobs/c/RWS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "f959de78-7365-43b4-b0b6-e32eae077a56",
+        "title": "Intern \u2013 Digital Engine Services \u2013 Ground System Engineer - Ground System Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1768346173,
+        "date_posted": 1768346173,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/LOC13052-1000-Boul-Marie-VictorinLongueuilQuebecJ4G-1A1Canada/Stage---Services-Moteurs-Numriques---Ingnieur-Systmes-Sol_01812066",
+        "locations": [
+            "Longueuil, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CAE",
+        "id": "3a39816d-0cd6-431f-ba08-94ac834b5392",
+        "title": "C++ Content Pipeline Software Developer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1768271504,
+        "date_posted": 1768271504,
+        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-167-C---Content-Pipeline-Software-Developer_119881",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CAE",
+        "id": "b63bbe7a-21e9-45ea-9ce4-377cec231b2b",
+        "title": "C-IT-122 \u2013 Full Stack Developer - Digital Services",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1768260705,
+        "date_posted": 1768260705,
+        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-IT-122--Full-Stack-Developer--Digital-Services---Training-Center-Operations-Experience-_119791",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sierra Nevada Corporation",
+        "id": "de1cb253-3956-429f-b494-e566430a0408",
+        "title": "Military Fellowship Program: Configuration Analyst",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1768260535,
+        "date_posted": 1768260535,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Military-Fellowship-Program--Configuration-Analyst_R0029011",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "UiPath",
+        "id": "6e3e8655-203d-4fa8-aa49-ac4cfcb65769",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768152446,
+        "date_posted": 1768152446,
+        "url": "https://jobs.ashbyhq.com/uipath/18034904-7114-4efc-884b-66caf1adc1f3/application",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/UiPath",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sun Life",
+        "id": "ab1d2a03-5070-4c38-b8d5-3d54390aed17",
+        "title": "Student \u2013 API Developer - Summer 2026",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1768001848,
+        "date_posted": 1768001848,
+        "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--API-Developer--Summer-2026-_JR00119087-1",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Kitchener, ON, Canada",
+            "North York, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Sun-Life",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AltaML",
+        "id": "3d34e32d-5e8c-4ba5-b6ec-b91ef8ea92f3",
+        "title": "Associate Software Developer - Brilliant Harvest - Summer 2026",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1768000792,
+        "date_posted": 1768000792,
+        "url": "https://jobs.lever.co/altaml/87c56197-036b-4bf3-bde0-17b0d243403c/apply",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/AltaML",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Core & Main",
+        "id": "5e465312-21bb-4f52-9eb3-48e6f76e1155",
+        "title": "Meter Specialist Trainee",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1768001179,
+        "date_posted": 1768001179,
+        "url": "https://coreandmain.wd1.myworkdayjobs.com/en-US/coreandmain/job/Remote---New-York/Meter-Specialist-Trainee_44433",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Core-And-Main",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Virginia",
+        "id": "070760d1-f727-4f9c-988d-3c60110cfda4",
+        "title": "Student Data Associate",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767999828,
+        "date_posted": 1767999828,
+        "url": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Student-Data-Associate--Federal-Work-Study---Student-Wage-_R0079458-1",
+        "locations": [
+            "Charlottesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Virginia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hawk-Eye Innovations",
+        "id": "bd0a426d-3793-4122-9523-1d69e8f60c6b",
+        "title": "Student Placement: Football Systems Operator",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767974859,
+        "date_posted": 1767974859,
+        "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/862cce30-78c5-47f4-9beb-0e8699cfbee2/application",
+        "locations": [
+            "Basingstoke, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hawk-Eye-Innovations",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "0229b183-a876-44d7-8a2f-fbc0e8e32dd2",
+        "title": "Research Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767974631,
+        "date_posted": 1767974631,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistants_REQ_0000074801-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penn-State",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sierra Nevada Corporation",
+        "id": "166e7ff6-369a-4f27-96f3-3d0ed0c30e40",
+        "title": "Product Support Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767915195,
+        "date_posted": 1767915195,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Military-Fellowship-Program--Product-Support-Engineer_R0029109",
+        "locations": [
+            "Southern Pines, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sun Life",
+        "id": "8977c2f2-b73b-4bcc-8e98-ef9fd2f29190",
+        "title": "Student \u2013 Jr. Analytics and Automation Developer - Summer 2026",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767915568,
+        "date_posted": 1767915568,
+        "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/North-York-Ontario/Student--Jr-Analytics-and-Automation-Developer--Summer-2026-_JR00118821",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Kitchener, ON, Canada",
+            "North York, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Sun-Life",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SDSU Research Foundation",
+        "id": "c317a3ec-6c12-477f-b7e7-e8b2c75978ea",
+        "title": "Graduate Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767914060,
+        "date_posted": 1767914060,
+        "url": "https://careers-sdsurf.icims.com/jobs/19865/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SDSU-Research-Foundation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas A&M International University",
+        "id": "d54dbcaa-c056-4b57-831e-1580f49fdea6",
+        "title": "Undergraduate Research Assistant - MSEIP-Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767913377,
+        "date_posted": 1767913377,
+        "url": "https://tamus.wd1.myworkdayjobs.com/TAMIU_Student_Employment/job/Laredo-TX/Undergraduate-Research-Assistant--MSEIP--Engineering-_R-090042",
+        "locations": [
+            "Laredo, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-International-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cenovus Energy",
+        "id": "e574b197-59a2-4fe6-b240-c171a3d6eb6b",
+        "title": "Engineering Student - Digital Transformation Developments - St. John's",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767899312,
+        "date_posted": 1767899312,
+        "url": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-NL-St-Johns/Engineering-Student--Digital-Transformation-Developments--St-John-s--May-2026-_R-409989",
+        "locations": [
+            "St. John's, NL, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cenovus-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cenovus Energy",
+        "id": "53245798-37d9-4915-8f05-80293f027302",
+        "title": "Engineering Student - Drilling - Completions and Interventions Operations",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767899306,
+        "date_posted": 1767899306,
+        "url": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-NL-St-Johns/Engineering-Student--Drilling--Completions-and-Interventions-Operations--St-John-s--May-2026-_R-409990",
+        "locations": [
+            "St. John's, NL, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cenovus-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Protech Automotive Solutions",
+        "id": "2fd214c5-9488-4d97-9a6e-75471da29e4e",
+        "title": "Automotive Advanced Driver Assistance Systems Calibration Technician",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767875557,
+        "date_posted": 1763887292,
+        "url": "https://calibercollision.wd1.myworkdayjobs.com/protech/job/Rochester-NY/Automotive-ADAS-Calibration-Technician_R0208871",
+        "locations": [
+            "Buffalo, NY",
+            "Rochester, NY",
+            "Auburn, NY",
+            "Syracuse, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Protech-Automotive-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Barclays",
+        "id": "a8fb2cf7-5308-4dfe-a0ce-007423736bcd",
+        "title": "Technology Analyst Discovery Programme 2026 Northampton",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767828565,
+        "date_posted": 1767828565,
+        "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/Technology-Analyst-Discovery-Programme-2026-Northampton_JR-0000089846",
+        "locations": [
+            "Northamptonshire, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Barclays",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Barclays",
+        "id": "61573ed8-e4fa-4abe-86d6-e3d5c3550612",
+        "title": "Technology Analyst Discovery Programme",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767828562,
+        "date_posted": 1767828562,
+        "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Technology-Analyst-Discovery-Programme-2026-Glasgow_JR-0000088287",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Barclays",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Barclays",
+        "id": "8e176407-fa40-441f-bca4-6ae410eb5003",
+        "title": "Technology Developer Discovery Programme",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767828559,
+        "date_posted": 1767828559,
+        "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Technology-Developer-Discovery-Programme-2026-Knutsford_JR-0000088260",
+        "locations": [
+            "Northwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Barclays",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Barclays",
+        "id": "0ae59787-8c62-4432-a3aa-421446384021",
+        "title": "Technology Developer Discovery Programme 2026 London",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767828555,
+        "date_posted": 1767828555,
+        "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Technology-Developer-Discovery-Programme-2026-London_JR-0000088274",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Barclays",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Barclays",
+        "id": "9cc149a5-6e4c-479d-b2cf-1cf4d70c28e8",
+        "title": "Technology Analyst Discovery Programme 2026 Knutsford",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767828556,
+        "date_posted": 1767828556,
+        "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Technology-Analyst-Discovery-Programme-2026-Knutsford_JR-0000088294",
+        "locations": [
+            "Northwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Barclays",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Deloitte",
+        "id": "5f3aeb48-1bea-4fd6-8864-ea6c2843eca6",
+        "title": "Deloitte Consulting LLP - Government & Public Services",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767828162,
+        "date_posted": 1767828162,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Consulting-LLP-Government-Public-Services-US-Delivery-Center-Solution-Analyst-Software-Engineering-Solutions/312560",
+        "locations": [
+            "Gilbert, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ohio State University",
+        "id": "02dd5560-d67e-4df7-b2ac-f173b5cae097",
+        "title": "Student Assistant Software Developer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767828001,
+        "date_posted": 1767828001,
+        "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Student-Assistant-Software-Developer_R143031-1",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Ohio-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "7da4c101-afb5-4cfc-b949-49592dafd51c",
+        "title": "Stage \u2013 \u00c9t\u00e9 2026",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767769880,
+        "date_posted": 1767769880,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/LOC13052-1000-Boul-Marie-VictorinLongueuilQuebecJ4G-1A1Canada/Stage---t-2026---Analyses-avances-du-data-pour-la-prvision-et-l-optimisation-de-la-chaine-d-approvisionnement---Internship---Summer-2026---Advanced-Data-Analytics-for-Supply-Chain-prediction-and-optimization_01811518",
+        "locations": [
+            "Longueuil, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Parsons",
+        "id": "bb818c79-5a9d-4c35-a6a7-e13cce64eb3e",
+        "title": "Engineer / PT opportunity",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767741564,
+        "date_posted": 1767741564,
+        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Engineer---PT--opportunity_R176071-1",
+        "locations": [
+            "Centreville, VA",
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Parsons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "JP Morgan Chase",
+        "id": "486f7b1a-cb12-49c0-b677-1aeb91aa4f50",
+        "title": "2026 Military & Athlete Technical Programme - Glasgow",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767868704,
+        "date_posted": 1767716409,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210697952",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Crowe",
+        "id": "77ed6589-1bae-43cb-a0cc-b61c29c041f2",
+        "title": "Data Analytics Developer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767656350,
+        "date_posted": 1767656350,
+        "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer_R-50129",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Crowe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AltaML",
+        "id": "c816fe9d-0265-4e43-9afb-3db7c868b2e0",
+        "title": "Associate Software Developer - Summer 2026",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767655055,
+        "date_posted": 1767655055,
+        "url": "https://jobs.lever.co/altaml/20762bcb-733a-44e1-8209-132795f11459/apply",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/AltaML",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Grid",
+        "id": "d6d70974-2637-4837-a807-abb24e5b885b",
+        "title": "AI Prompt Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767654967,
+        "date_posted": 1767654967,
+        "url": "https://jobs.lever.co/Grid/8a35b0c0-5c28-4f49-8d07-2c65a5ea6af3/apply",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Grid",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sherwin-Williams",
+        "id": "e14b48f3-f417-4e6d-9843-9426d2eaa12e",
+        "title": "Leadership Development Program R&D",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767655491,
+        "date_posted": 1767655491,
+        "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2600056",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sherwin-Williams",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "6e2b3fd6-5503-4ad0-8704-49d88af88a94",
+        "title": "Stage \u2013 \u00c9t\u00e9 2026",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767654941,
+        "date_posted": 1767654941,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/LOC13052-1000-Boul-Marie-VictorinLongueuilQuebecJ4G-1A1Canada/Stage---t-2026---Assistance--l-enqute-sur-les-composants-du-systme-de-contrle-et-dveloppement-d-outils-d-analyse-en-qualit---Internship---Summer-2026---Control-System-Component-Investigation-Support-and-Data-Analysis-Tool-Development_01806979",
+        "locations": [
+            "Longueuil, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Emerson Electric",
+        "id": "2ad55938-ce77-470d-9f2d-8a5a30c720c4",
+        "title": "Software Solutions Development Program - Software Development Program",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767630439,
+        "date_posted": 1767630439,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25030712",
+        "locations": [
+            "Elyria, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Emerson-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Franklin Templeton",
+        "id": "f177af55-e84e-41e5-8c9c-db4ae2fdf16b",
+        "title": "Investment Operations",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767630379,
+        "date_posted": 1767630379,
+        "url": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Ft-Lauderdale-Florida-United-States-of-America/FTT-Investment-Operations_866076",
+        "locations": [
+            "Fort Lauderdale, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Franklin-Templeton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pfizer",
+        "id": "733d1bc9-d64c-481f-996e-29e499c535b8",
+        "title": "Undergraduate - International Performance Analytics & Reporting",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767580662,
+        "date_posted": 1767580662,
+        "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-Kingdom---Walton-Oaks/Undergraduate---International-Performance-Analytics---Reporting_4949234",
+        "locations": [
+            "Dorking, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Pfizer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capital One",
+        "id": "9ad674bb-f879-49d6-b13c-ad2364947fed",
+        "title": "Manager \u2013 Data Scientist - Velocity Black - Remote-Eligible",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767424722,
+        "date_posted": 1767424722,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Scientist---Velocity-Black--Remote-Eligible-_R226868-2",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Franklin Templeton",
+        "id": "9a42fae8-99dd-44e0-ad07-7eb747c73015",
+        "title": "Investment Operations",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767396446,
+        "date_posted": 1767396446,
+        "url": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Ft-Lauderdale-Florida-United-States-of-America/FTT-Investment-Operations_866057",
+        "locations": [
+            "Fort Lauderdale, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Franklin-Templeton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Alberta Investment Management Corporation",
+        "id": "226ec71c-388e-48ea-883e-88a408903423",
+        "title": "Student Data Developer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767397050,
+        "date_posted": 1767397050,
+        "url": "https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Edmonton/Student--Data-Developer--Summer-2026-_JR100740",
+        "locations": [
+            "Edmonton, AB, Canada",
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Alberta-Investment-Management-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Royal Bank of Canada",
+        "id": "496aaefe-6bb4-41f7-ac02-88c95cfb2471",
+        "title": "Capital Markets QTS",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767347352,
+        "date_posted": 1767347352,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Capital-Markets-QTS--Software-Developer--Summer-2026--Halifax---4-Months-_R-0000152728",
+        "locations": [
+            "Halifax Regional Municipality, NS, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "c9537cb3-f4e3-41b6-871f-ca361354dd73",
+        "title": "Physics Department - Research Support - Ultrahigh Energy Neutrinos",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767251073,
+        "date_posted": 1767251073,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Department-of-Physics---Part-Time-Research-Support---Ultrahigh-Energy-Neutrinos_REQ_0000063697-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penn-State",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Franklin Templeton",
+        "id": "835fe8f5-3c80-441b-bf87-f11eb64c7c9b",
+        "title": "Fund Administration & Oversight",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767224702,
+        "date_posted": 1767224702,
+        "url": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Stamford-Connecticut-United-States-of-America/US-Fund-Admin---Oversight_866036",
+        "locations": [
+            "Rancho Cordova, CA",
+            "Stamford, CT",
+            "San Mateo, CA",
+            "San Ramon, CA",
+            "Fort Lauderdale, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Franklin-Templeton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Franklin Templeton",
+        "id": "2fdfdf6c-1007-4d3c-8bc5-1690b045052e",
+        "title": "Investment Management Data Science",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767224696,
+        "date_posted": 1767224696,
+        "url": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/USA-BAL1201-Baltimore/Investment-Management-Data-Science_866040",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Franklin-Templeton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Brookhaven Lab",
+        "id": "cf8f91d4-3ca4-4e4c-8413-7989d269561a",
+        "title": "Student Assistant - Lightshowai - Temporary/Part-time",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767136904,
+        "date_posted": 1767136904,
+        "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Student-Assistant---LightshowAI-Temporary-Part-time-_JR102215",
+        "locations": [
+            "Shirley, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Brookhaven-Lab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "39799c33-3126-43c2-a071-b8db9bf764d4",
+        "title": "Design Readiness Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1766792029,
+        "date_posted": 1766792029,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Design-Readiness-Engineer_JR81940",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Blockhouse",
+        "id": "d5c2a021-e6fb-4244-9ced-9ab46571ce43",
+        "title": "Quantitative Developer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1766531542,
+        "date_posted": 1766531542,
+        "url": "https://jobs.ashbyhq.com/blockhouse/8b05f15a-9f6d-45ed-a760-a484d35e5fcb/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Blockhouse",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Corsair",
+        "id": "848bea99-8969-4d99-b48d-49cdc5a52e6b",
+        "title": "Data Scientist - E-commerce",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1766456837,
+        "date_posted": 1766456837,
+        "url": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8654",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Corsair",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Virginia",
+        "id": "d56d3e29-c74e-4d84-bf03-2e5550280d78",
+        "title": "Research Computing Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1766274592,
+        "date_posted": 1766274592,
+        "url": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Research-Computing-Assistant--Student-Wage-_R0079054",
+        "locations": [
+            "Charlottesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Virginia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "0024c69a-2212-45ab-a749-cced4f972bbd",
+        "title": "Software Developer Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1766099774,
+        "date_posted": 1766099774,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28888",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Voya Financial",
+        "id": "cc8f00ab-8824-4447-b2a6-2222f839d416",
+        "title": "Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1766076170,
+        "date_posted": 1766076170,
+        "url": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Scottsdale-AZ/Summer-Student---Fund-Product-Development_JR0031909",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/VoyaFinancial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "EXL",
+        "id": "84199edc-f67d-4183-b3ac-1dcdf96f703f",
+        "title": "Lead Assistant Manager - Backend Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1766074714,
+        "date_posted": 1766074714,
+        "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/7454",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/EXL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Royal Bank of Canada",
+        "id": "ddccae9f-2815-4948-8c25-9fac2c92e9b9",
+        "title": "2026 Summer Student Opportunities RBC Borealis-Machine Learning Software Engineer - 4 - 8 Months",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1765930995,
+        "date_posted": 1765930995,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Summer-Student-Opportunities-RBC-Borealis--Developer--4-8-Months-_R-0000152088",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Calgary, AB, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zoox",
+        "id": "9f0e37b7-49bf-47cd-be16-f8b7f25444c5",
+        "title": "Labeling Technician",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1768296214,
+        "date_posted": 1765926979,
+        "url": "https://jobs.lever.co/zoox/453a8027-4429-4a5a-b7d8-efd984acf3da/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Thales",
+        "id": "f4093381-2837-4523-b1dc-6205c3ca83b0",
+        "title": "2026 Engineering Student Placement - Electronics",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1765834901,
+        "date_posted": 1765834901,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Belfast/XMLNAME-2026-Engineering-Student-Placement--Electronics-_R0309640",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Thales",
+        "id": "31f057e0-31a9-40ec-8092-2dace22ec47e",
+        "title": "Test Manufacturing Technician",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1766142410,
+        "date_posted": 1765670980,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Glasgow/Test-Manufacturing-Technician_R0296700",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "071b4ce7-aa43-4867-b66c-c22a4d7ab32b",
+        "title": "Graduate Research Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1765654561,
+        "date_posted": 1765654561,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Graduate-Research-Assistant-w--Dr-Rajtmajer_REQ_0000070406-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penn-State",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Thales",
+        "id": "0148433f-4bc8-4e07-8ed3-3dcfa964d37e",
+        "title": "Environmental Test and Trials Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1765653599,
+        "date_posted": 1765653599,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Belfast/Trials-and-Environmental-Test-Placement-Engineer_R0307932",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Air Liquide",
+        "id": "fe95fa5b-939c-4283-be61-127a057964b1",
+        "title": "Vie \u2013 S&OP and Sourcing Data Analyst",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1765653222,
+        "date_posted": 1765653222,
+        "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Germany-Krefeld/VIE---S-OP-and-Sourcing-Data-Analyst--M-F-D-_R10081482",
+        "locations": [
+            "Neukirchen-Vluyn, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/Air-Liquide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas - Austin",
+        "id": "13b7c776-b6dc-4c75-98d1-5e69dc3770bf",
+        "title": "Postdoctoral Fellow - Transmission Electron Microscopy",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1765651238,
+        "date_posted": 1765651238,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow---Transmission-Electron-Microscopy--Texas-Materials-Institute--Cockrell-School-of-Engineering_R_00043435",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sierra Nevada Corporation",
+        "id": "818b6742-1ac3-4971-a101-50412e68b6f8",
+        "title": "Military Fellowship Program: Software Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1765624020,
+        "date_posted": 1765624020,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Military-Fellowship-Program--Software-Engineer_R0028640",
+        "locations": [
+            "Southern Pines, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bird Construction",
+        "id": "22abcb5d-a88d-445a-bc70-0ecca49fd83d",
+        "title": "Student Data Analyst",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1765637306,
+        "date_posted": 1765637306,
+        "url": "https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Mississauga-ON/Student-Data-Analyst_JR-8078",
+        "locations": [
+            "Mississauga, ON, Canada",
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Bird-Construction",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Magna",
+        "id": "7fee2e1c-75fa-4a35-b42a-2df45b8fcfd4",
+        "title": "Student Engineering ADAS Algorithm",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1765636617,
+        "date_posted": 1765636617,
+        "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Lowell-Massachusetts-US/Student--Product-Engineering_R00221215",
+        "locations": [
+            "Lowell, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Magna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Royal Bank of Canada",
+        "id": "ec2a6a24-2869-4e32-bb5c-531b33b69e4f",
+        "title": "2026 Summer Student Opportunities RBC Borealis-Machine Learning Software Engineer - 4 Months - Montreal",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1766060715,
+        "date_posted": 1765625571,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/XMLNAME-2026-Summer-Student-Opportunities-RBC-Borealis--Machine-Learning-Software-Engineer--4-Months---Montreal_R-0000152288",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "6540c543-e3f6-4ca6-a8d1-479b6dc1b88d",
+        "title": "Post Doc Research Associate - Networking and Distributed Systems Lab",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1765506050,
+        "date_posted": 1765506050,
+        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/Post-Doc-Research-Associate--Networking-and-Distributed-Systems-Lab-_1192363-2",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Electronic Arts",
+        "id": "7a54f455-5f1f-4421-a261-ac0a7dfea6de",
+        "title": "Software Engineer AI Automation",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1766481900,
+        "date_posted": 1763773089,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-AI-Automation/211876",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Electronic-Arts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "b1f2bb0d-751f-41bf-81fb-cf2924f2bd9c",
+        "title": "Tai AI Project Research Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1765354751,
+        "date_posted": 1765354751,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Tai-AI-Project-Research-Assistant_REQ_0000074125-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penn-State",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Vernova",
+        "id": "1b0a28cb-94c4-4dd6-aed8-ff4459443438",
+        "title": "GE Vernova Safe Human Robot Interaction and Planning - Summer 2026",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1765092243,
+        "date_posted": 1765092243,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-Safe-Human-Robot-Interaction-and-Planning---Summer-2025_R5023246-1",
+        "locations": [
+            "Schenectady, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Argonne National Laboratory",
+        "id": "460c121a-307a-4178-bb4a-b91a55d959a4",
+        "title": "Graduate Research Aide - Nuclear Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1765086364,
+        "date_posted": 1765086364,
+        "url": "https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/Graduate-Research-Aide---Nuclear-Engineering_419425",
+        "locations": [
+            "Woodridge, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "b4de00ec-e764-4e1d-8bfc-3549f3771b9e",
+        "title": "Part time Research Assistant - Public Health Sciences",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1765624096,
+        "date_posted": 1765624096,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/College-of-Medicine/Part-time-Research-Assistant---Public-Health-Sciences_REQ_0000064562",
+        "locations": [
+            "Hershey, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penn-State",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Baird",
+        "id": "d22030d5-5e64-4d91-b663-f87e7db4b721",
+        "title": "Institutional Equities Sales & Trading Shadow Week - May 2026 - Milwaukee",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1765622642,
+        "date_posted": 1765622642,
+        "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Institutional-Equities-Sales---Trading-Shadow-Week--August-2026----Milwaukee_R2025951-2",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Baird",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Baird",
+        "id": "6b91c5ae-e4e1-4aa2-a12d-295dd8610ef9",
+        "title": "Institutional Equities Sales & Trading Shadow Week - May 2026",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1765622175,
+        "date_posted": 1765622175,
+        "url": "https://baird.wd1.myworkdayjobs.com/careers/job/NY-New-York/Institutional-Equities-Sales---Trading-Shadow-Week--May-2026----New-York-City_R2025950-2",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Baird",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sierra Nevada Corporation",
+        "id": "ccb1d238-a2df-4d6c-9756-199d22c2f2f8",
+        "title": "Military Fellowship Program: Structural Technician",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1765626754,
+        "date_posted": 1765626754,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Military-Fellowship-Program--Structural-Technician_R0028637",
+        "locations": [
+            "Hagerstown, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "35d3fd9b-bbce-4908-be72-7a2363871dad",
+        "title": "Part-Time Research Data Collection and Analysis",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1765625069,
+        "date_posted": 1765625069,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Data-Collection-and-Analysis_REQ_0000072267-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penn-State",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "42f4dac3-2b76-4b1d-be0c-0de07ec54c90",
+        "title": "Student Researcher",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1765623408,
+        "date_posted": 1765623408,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Student-Researcher_REQ_0000073588-2",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penn-State",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas A&M International University",
+        "id": "5853769c-b215-46e5-a3b2-d12e4db53463",
+        "title": "Graduate Research Assistant - Engineering NSF CAP",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1765623846,
+        "date_posted": 1765623846,
+        "url": "https://tamus.wd1.myworkdayjobs.com/TAMIU_Student_Employment/job/Laredo-TX/Graduate-Research-Assistant--Engineering--NSF-CAP-_R-087560-1",
+        "locations": [
+            "Laredo, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-International-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Link",
+        "id": "d921a86e-3534-4df6-8b40-d9513b5da98c",
+        "title": "Target Digital Network Analyst All Levels",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1764891799,
+        "date_posted": 1764891799,
+        "url": "https://jobs.lever.co/linkllc/467ddc15-9a21-4f92-a2fb-167f734725de/apply",
+        "locations": [
+            "Odenton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Link",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intropic",
+        "id": "47d24326-7a56-4877-89fc-1dcaf083b169",
+        "title": "Quantrepreneur 2026",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1764832457,
+        "date_posted": 1764832457,
+        "url": "https://jobs.lever.co/intropic/a4a5fb03-4a97-4f18-a680-7dd5663955a2/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Intropic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KIKOFF Leagues",
+        "id": "602c607a-9068-460f-8fd5-d49d575a59af",
+        "title": "AI Growth Marketing Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1764814449,
+        "date_posted": 1764814449,
+        "url": "https://jobs.ashbyhq.com/kikoff/f3b4ea2e-ceb9-4e2e-a35f-dba2d66bb8e2/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/KIKOFF-Leagues",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "1ea1bec1-29f7-4969-ab68-efe10eecc7c9",
+        "title": "Part Time \u2013 Student - Undergraduate",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1764803577,
+        "date_posted": 1764803577,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-Berks/Part-Time---Student--Undergraduate----OVPCC-Tract-2-REU-Research-Assistant_REQ_0000073957-1",
+        "locations": [
+            "Reading, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penn-State",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "John Deere",
+        "id": "43d82b4b-c726-487a-925b-5cad0a612fed",
+        "title": "Part-Time Student - Data Analytics",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1764717141,
+        "date_posted": 1764717141,
+        "url": "https://johndeere.eightfold.ai/careers/job/137466935301",
+        "locations": [
+            "Davenport, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/John-Deere",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "a76c278d-2b17-4996-879c-e3b0b1f9c67e",
+        "title": "Software Engineer - Cloudworks - Skillbridge",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1764497172,
+        "date_posted": 1764497172,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-New-York-Rome/Software-Engineer---CLOUDworks--SkillBridge-_R10175124",
+        "locations": [
+            "Rome, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Thinkingbox",
+        "id": "3abea176-1656-414d-8e9a-013d0758bf67",
+        "title": "Junior Front End Developer - Thinkingbox",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1764755801,
+        "date_posted": 1764496852,
+        "url": "https://jobs.lever.co/thinkingbox/c0e43e03-25cf-4b2b-8394-d37326dcf509/apply",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Thinkingbox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Morgan Stanley",
+        "id": "10a8315a-069e-4177-a5e0-e546001384bf",
+        "title": "Machine Learning Research Associate Program - PhD",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1764564624,
+        "date_posted": 1764564624,
+        "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Machine-Learning-Research-Associate-Program---PhD_JR020171",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Morgan-Stanley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Centific",
+        "id": "0d4aced9-22bc-43d7-b6c8-2a964648b80e",
+        "title": "Student Worker",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1765638616,
+        "date_posted": 1765638616,
+        "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Part-time-student-worker_JR100994",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Centific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "PennState University",
+        "id": "d02beb7c-41df-4536-9ac0-d082e2b2ff92",
+        "title": "Undergraduate Researcher",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1764486470,
+        "date_posted": 1764486470,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Undergraduate-Researcher_REQ_0000063402",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penn-State",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "a3c3cb21-a6e5-4873-9acb-8eb782662fd7",
+        "title": "Research Assistant - Chart Understanding Project",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1764486476,
+        "date_posted": 1764486476,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant-for-a-Chart-Understanding-Project_REQ_0000072333-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penn-State",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PennState University",
+        "id": "31a6db78-1795-45ff-a8cf-7fa9073f5fbf",
+        "title": "IST Graduate Assistant - Dr. Calacci",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1764486477,
+        "date_posted": 1764486477,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/IST-Graduate-Assistant---Dr-Calacci_REQ_0000072565-2",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penn-State",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "2e17e435-e594-47c6-89d4-9fd698967ff5",
+        "title": "Part time Smeal - Computer Science",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1764486456,
+        "date_posted": 1764486456,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-time---Smeal--Marketing-Dept---Research-Assistant---Computer-Science_REQ_0000065852-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penn-State",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "0f1b28fb-2b6d-41ce-9ce9-59d83cc282d2",
+        "title": "Part-Time Grad",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1764486450,
+        "date_posted": 1764486450,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Grad_REQ_0000073814-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penn-State",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "0b7bf7f5-040c-4d9b-afff-7324441aeb52",
+        "title": "Undergraduate Researcher",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1764486466,
+        "date_posted": 1764486466,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Undergraduate-Researcher--CEE_REQ_0000065530",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penn-State",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Oracle",
+        "id": "ae09b4db-4f1a-4d58-8067-d048c287b9c5",
+        "title": "Java Student Developer Advocate",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1764301812,
+        "date_posted": 1764301812,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/314239",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Stantec",
+        "id": "72638986-ee6f-4805-b9ea-a673bcb088cd",
+        "title": "Geologist in Training",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1764301051,
+        "date_posted": 1764301051,
+        "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1003228",
+        "locations": [
+            "Whitehorse, YT, Canada",
+            "Edmonton, AB, Canada",
+            "Saskatoon, SK, Canada",
+            "Vancouver, BC, Canada",
+            "Yellowknife, NT, Canada",
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Stantec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "603d9e4a-8d3d-412c-b7b7-c5bdd22b00dd",
+        "title": "Product Manager",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1764215011,
+        "date_posted": 1764215011,
+        "url": "https://lifeattiktok.com/search/7532237822393436434",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SDSU Research Foundation",
+        "id": "5b3ad9d4-7b1e-4787-992d-8e8fc387c7b7",
+        "title": "Niwc Senior",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1768234378,
+        "date_posted": 1764197925,
+        "url": "https://careers-sdsurf.icims.com/jobs/18659/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SDSU-Research-Foundation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ford Motor Company",
+        "id": "8879342f-7604-45b1-8165-dcda82a93e0d",
+        "title": "Student Worker Program - Associate Electrical Hardware Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1766570720,
+        "date_posted": 1764042209,
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/55210",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ford-Motor-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Stanley Black & Decker",
+        "id": "d4a51940-5442-40ae-a6b6-adac7867ae7b",
+        "title": "Stanley Leadership Development Program \u2013 Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1765623070,
+        "date_posted": 1765623070,
+        "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/SLP---Engineering_REQ-1000017712",
+        "locations": [
+            "Towson, MD",
+            "Kannapolis, NC",
+            "Agawam, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Voya Financial",
+        "id": "daff5849-bfca-4baa-8ff0-429234eef2c9",
+        "title": "Student - Data Analytics",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1763889186,
+        "date_posted": 1763889186,
+        "url": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Atlanta-GA/Summer-Student---Data-Analytics_JR0031913",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/VoyaFinancial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "eac8db70-c9b5-4336-aacd-473e34b2745d",
+        "title": "Research Assistant in FAIR Lab - Prof. Hadi Hosseini",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1765625612,
+        "date_posted": 1765625612,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant-in-FAIR-Lab--Prof-Hadi-Hosseini-_REQ_0000059527-2",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penn-State",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "9ae967a2-2a47-4196-914c-2b7aa739b941",
+        "title": "CSE Part-Time Researcher-Rui Zhang",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1763886221,
+        "date_posted": 1763886221,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/CSE-Part-Time-Researcher--Rui-Zhang_REQ_0000055929",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penn-State",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "b5480df7-c527-447c-9878-0e3cfb9764ce",
+        "title": "Undergraduate Research Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1763886160,
+        "date_posted": 1763886160,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Undergraduate-Research-Assistant_REQ_0000068035-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penn-State",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "93e31f52-b295-4716-b995-5a264d81eb8c",
+        "title": "Research Associate",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1765624026,
+        "date_posted": 1765624026,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Research-Associate-w--Dr-Dodge_REQ_0000067912-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penn-State",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "3603208b-f848-4599-8f67-abbe31a85cb8",
+        "title": "Part-Time Research Associate",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1763886136,
+        "date_posted": 1763886136,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Associate_REQ_0000058270-2",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penn-State",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "5353964a-acc8-4fef-ad52-0223d28c4883",
+        "title": "PT Research Assistant/Programmer - Recendes",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1763886211,
+        "date_posted": 1763886211,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/PT-Research-Assistant-Programmer---Recendes_REQ_0000062857-2",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penn-State",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas A&M International University",
+        "id": "ba858d18-c024-4623-9cec-e380f14e0d42",
+        "title": "Undergraduate Research Assistant - URDA Caprock Integrity",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1763885313,
+        "date_posted": 1763885313,
+        "url": "https://tamus.wd1.myworkdayjobs.com/TAMIU_Student_Employment/job/Laredo-TX/Undergraduate-Research-Assistant--URDA--Caprock-Integrity-_R-087931",
+        "locations": [
+            "Laredo, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-International-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Wharton School",
+        "id": "77824114-ad11-4d8e-90d9-d27975fc497b",
+        "title": "Geospatial Research Assistant - Wharton Impact",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1763885330,
+        "date_posted": 1763885330,
+        "url": "https://wd1.myworkdaysite.com/recruiting/upenn/Wharton/job/Dinan-Hall/Geospatial-Research-Assistant--Wharton-Impact-_JR00112547-1",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Wharton-School",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "9606ba12-1151-4b57-9dd0-cf480cb1ecf4",
+        "title": "Part-Time Undergraduate Researcher Narayanan Group",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1763815228,
+        "date_posted": 1763815228,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Undergraduate-Researcher-Narayanan-Group_REQ_0000056170-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penn-State",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "c53f1961-e571-4a77-a084-c5970b120724",
+        "title": "Software Engineer/Principal Software Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1763812536,
+        "date_posted": 1763812536,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME--DoD-SkillBridge--Software-Engineer-Principal-Software-Engineer_R10198108",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "2753bbb8-8695-46ca-9ab3-062953b9c0c0",
+        "title": "Part-Time Research Assistants-Statistics",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1763812052,
+        "date_posted": 1763812052,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistants-Statistics_REQ_0000055596-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penn-State",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Northwestern Mutual",
+        "id": "33863275-2a05-41ff-bedb-8b3c2e3b8867",
+        "title": "Investment Analyst - Private Debt & Equity",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1763809042,
+        "date_posted": 1763809042,
+        "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Analyst---Private-Debt---Equity_JR-40524",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Solva",
+        "id": "20e42ba9-f733-4af7-90db-2d2b6bf52da8",
+        "title": "AI Engineer Internship",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1763770892,
+        "date_posted": 1763770892,
+        "url": "https://jobs.ashbyhq.com/solva/e336c053-5f6e-4076-ad14-f941ab5096b6/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Solva",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Metalenz",
+        "id": "dc6cf885-6167-4567-8cea-797b3be80c9f",
+        "title": "Computational Imaging Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1763666158,
+        "date_posted": 1763666158,
+        "url": "https://jobs.ashbyhq.com/metalenz/2c1b45cc-1af4-4743-9e49-f00c64ef16d2/application",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Metalenz",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Primetals Technologies",
+        "id": "7323004c-e977-4acf-a73f-53360fd622f2",
+        "title": "Associate \u2013 Engineering Document Control",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1763509060,
+        "date_posted": 1763509060,
+        "url": "https://mhicareers.com/job/Lake-Mary-Associate,-Engineering-Document-Control-FL-32746/1268770801/?ats=successfactors",
+        "locations": [
+            "Lake Mary, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Primetals-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ford Motor Company",
+        "id": "7919d847-4760-481e-895d-6167221b0875",
+        "title": "Student Worker Program - Embedded Application Developer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1766574976,
+        "date_posted": 1763422592,
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/54667",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ford-Motor-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Berkshire Hathaway Energy",
+        "id": "851de246-e853-4f98-bed8-8a04a12f9677",
+        "title": "Sys & Development Analyst Senior",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767692041,
+        "date_posted": 1763421097,
+        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003914",
+        "locations": [
+            "Des Moines, IA",
+            "Davenport, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Virginia",
+        "id": "57ef4d6f-f823-4df3-8105-878f60b1d8f1",
+        "title": "CCL Digital Humanities and Engagement SRA - Student Wage",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1768305102,
+        "date_posted": 1763395665,
+        "url": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/CCL-Digital-Humanities-and-Engagement-SRA--Student-Wage-_R0078089-1",
+        "locations": [
+            "Charlottesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Virginia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Electronic Arts",
+        "id": "904092e4-9605-4713-96d1-2f623661786f",
+        "title": "Software Engineer AI Automation - AI Automation",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1766482004,
+        "date_posted": 1762821935,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-AI-Automation/210718",
+        "locations": [
+            "Vancouver, BC, Canada",
+            "Florida"
+        ],
+        "company_url": "https://simplify.jobs/c/Electronic-Arts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ExxonMobil",
+        "id": "9e870675-c6b0-4e03-9711-72ed2e609ab1",
+        "title": "Chromatography Scientist - GC & Hyphenated Techniques",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1763231764,
+        "date_posted": 1763231764,
+        "url": "https://jobs.exxonmobil.com/ExxonMobil/job/Houston-Chromatography-Scientist-(GC-&-Hyphenated-Techniques)-TX-77001/1332539100/?ats=successfactors",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/ExxonMobil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ExxonMobil",
+        "id": "a18c25c4-556c-4519-b0e8-8507746c5660",
+        "title": "Analytical Science: Optical Spectroscopist",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1763231879,
+        "date_posted": 1763231879,
+        "url": "https://jobs.exxonmobil.com/ExxonMobil/job/Houston-Analytical-Science-Optical-Spectroscopist-TX-77001/1332540700/?ats=successfactors",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/ExxonMobil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Mohawk",
+        "id": "3713af19-b810-4009-afc1-b6237f10c509",
+        "title": "Product Development Associate - Aspire Ldp",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1763231599,
+        "date_posted": 1763231599,
+        "url": "https://careers.mohawkind.com/job/Calhoun-Product-Development-Associate-ASPIRE-LDP-Geor-30701/1336052300/?ats=successfactors",
+        "locations": [
+            "Calhoun, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mohawk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Mohawk",
+        "id": "42edfae0-b798-4213-9e3b-f697888f0b0a",
+        "title": "Product Management Associate - Aspire Ldp",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1763231648,
+        "date_posted": 1763231648,
+        "url": "https://careers.mohawkind.com/job/Product-Management-Associate-ASPIRE-LDP-Geor/1326218500/?ats=successfactors",
+        "locations": [
+            "Georgia"
+        ],
+        "company_url": "https://simplify.jobs/c/Mohawk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Oracle",
+        "id": "84161766-a032-43c3-89e1-d236300fd08f",
+        "title": "Software Engineer Intern - Oracle Retail",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1763206984,
+        "date_posted": 1762992886,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/315209",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Eli Health",
+        "id": "2d31027f-e6b6-4771-84ac-f0a1403d0454",
+        "title": "Product Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1762907931,
+        "date_posted": 1762907931,
+        "url": "https://jobs.ashbyhq.com/eli/7adc7a1e-af19-434f-b4b3-1cb544d2c6ba/application",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Eli-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "e7efbdf7-1fb3-47ce-bca3-4ad42107a5a7",
+        "title": "Meritocracy Fellowship",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767695156,
+        "date_posted": 1762821010,
+        "url": "https://jobs.lever.co/palantir/7fa0ceca-c30e-48de-9b27-f98469c374f3/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Verisk",
+        "id": "c67a13f0-09f1-4760-b30a-c7e9cf8c9df2",
+        "title": "Data Science Participant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1765221188,
+        "date_posted": 1762533405,
+        "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2689",
+        "locations": [
+            "London, UK",
+            "Norwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Verisk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Berkeley National Laboratory",
+        "id": "40237785-0ffa-4e67-a50d-6dccb8c845d1",
+        "title": "Computing Sciences Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1767782426,
+        "date_posted": 1762298393,
+        "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=105449",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lawrence-Berkeley-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Oracle",
+        "id": "d960cde0-8a9d-4ede-b921-47f53a653a04",
+        "title": "Undergrad Software Engineer Intern - Global Industries",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1761916138,
+        "date_posted": 1761916138,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/306144",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "09f9c8c9-293d-495d-8598-cd65ba48c574",
+        "title": "Student Researcher - Multiple Teams",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1761915215,
+        "date_posted": 1761915215,
+        "url": "https://jobs.bytedance.com/en/position/7548881454182385938/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "0352faec-6240-43cc-b2c9-e08db3f2beba",
+        "title": "Student Researcher - Seed Vision - Multimodal Joint Modeling",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1761914414,
+        "date_posted": 1761914414,
+        "url": "https://jobs.bytedance.com/en/position/7541089305176443144/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Consolidated Edison",
+        "id": "f93adc7f-27a9-488a-9793-95cf1e83fdf1",
+        "title": "Engineering Aide Temp Coops - College Students - Engineering Majors",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1761908906,
+        "date_posted": 1761908906,
+        "url": "https://ejcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1033/job/2727",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Consolidated-Edison",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ema",
+        "id": "329f8316-4ada-42c4-9058-78e1914597cb",
+        "title": "Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1761900022,
+        "date_posted": 1761900022,
+        "url": "https://jobs.ashbyhq.com/ema/5aa53773-f1bd-4ce9-b7cc-1f7bb4fb202e/application",
+        "locations": [
+            "Bengaluru, Karnataka, India",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Ema",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Akuna Capital University",
+        "id": "5dd46c72-be03-4f40-966f-8e19c37cc26b",
+        "title": "Trading Sneak Peek Week Reaching Women",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1762924378,
+        "date_posted": 1761896531,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=7239146",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Assort Health",
+        "id": "724f5d68-f44c-4be2-b77e-f6f49f9991fe",
+        "title": "Agent Engineer \u2013 New Grad",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1768295418,
+        "date_posted": 1761609995,
+        "url": "https://jobs.ashbyhq.com/assorthealth/64876579-05a2-40b6-a772-d1ce8b0ac8c4/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Assort-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Metalenz",
+        "id": "f5c90b5f-4594-46fe-aae2-5ef27ff0c3ee",
+        "title": "Camera Software Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1761507201,
+        "date_posted": 1761507201,
+        "url": "https://jobs.ashbyhq.com/metalenz/67e2d3ed-9adc-4f35-aa81-7995b9388eff/application",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Metalenz",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "VaynerMedia",
+        "id": "e981c59b-942f-4ec5-a287-ee8c72ce71d9",
+        "title": "Resident \u2013 Data Analytics",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1761846739,
+        "date_posted": 1761507167,
+        "url": "https://vaynermedia.com/careers?gh_jid=7257265",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/VaynerMedia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zoox",
+        "id": "63b2b431-dd8a-4ed5-8d8d-ae9abcc4878a",
+        "title": "Part-Time Software Engineer - 6-month Contract",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1760695614,
+        "date_posted": 1760695614,
+        "url": "https://jobs.lever.co/zoox/5f10dfaf-5920-4506-8a09-b39b29e6f48b/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Camlin",
+        "id": "5cb07ec8-2fe3-47a3-b5d3-b720f7455fb0",
+        "title": "Applied Scientist - 12 Month Student Placement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1762908326,
+        "date_posted": 1760385633,
+        "url": "https://ats.rippling.com/camlin-careers/jobs/8acb00d6-3dbc-48a0-b287-36c15793b671",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Camlin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Electronic Arts",
+        "id": "dc6bddff-a77f-4efd-ad1f-75717089bcd8",
+        "title": "Software Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1766481959,
+        "date_posted": 1758818483,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer/211161",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Electronic-Arts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "d68e8d08-2c09-4761-bfd9-aab4c29a46fa",
+        "title": "Student Researcher - Video Compression Standard - 2026 Start",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1758261567,
+        "date_posted": 1758261567,
+        "url": "https://jobs.bytedance.com/en/position/7538674634397813010/detail",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "c00ec55d-5f57-480a-b1ff-dad5ae7a2433",
+        "title": "Student Researcher - Seed Multimodality & World Model - RL + Streaming Video Understanding",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1757996512,
+        "date_posted": 1757996512,
+        "url": "https://jobs.bytedance.com/en/position/7549329038884768007/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "06bf351e-d9fd-4300-8a92-d6f8ef8be04b",
+        "title": "Student Researcher - Seed Vision - Multimodal Video Generation",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1762939929,
+        "date_posted": 1757996509,
+        "url": "https://jobs.bytedance.com/en/position/7549296431607302418/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "67caa4bb-cdd2-4f62-a0c2-556820fed452",
+        "title": "Student Researcher - Multimedia Streaming - 2026 Start','PhD",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1762936926,
+        "date_posted": 1756958612,
+        "url": "https://jobs.bytedance.com/en/position/7538291329349699848/detail",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "4368cccc-14e3-4b8c-8edf-6beda1bf5010",
+        "title": "Student Researcher - Seed Vision",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1761868769,
+        "date_posted": 1761868769,
+        "url": "https://jobs.bytedance.com/en/position/7541107923394087176/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "0686730f-5d35-438b-9745-60e0e744adff",
+        "title": "Student Researcher",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1755865076,
+        "date_posted": 1755865076,
+        "url": "https://jobs.bytedance.com/en/position/7538943251756910856/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "b5914719-9460-4da3-bad1-dd4428625877",
+        "title": "Student Researcher - Seed LLM - Scientific Coding Agent",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1761912907,
+        "date_posted": 1761912907,
+        "url": "https://jobs.bytedance.com/en/position/7541089305306188039/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "a301ddf2-bda5-4f6e-a99b-88d4254313ef",
+        "title": "Student Researcher - Seed Vision - AI Platform",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1755826320,
+        "date_posted": 1755826320,
+        "url": "https://jobs.bytedance.com/en/position/7541091941166532872/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "da218c19-5de4-4ad0-a91d-96d2bb017c3d",
+        "title": "Student Researcher - Infrastructure - Inference",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1764234526,
+        "date_posted": 1755647945,
+        "url": "https://jobs.bytedance.com/en/position/7540125997414287623/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Goldman Sachs",
+        "id": "36cdf4e9-4f05-45ac-baef-2f787db03c4d",
+        "title": "2026 \u2013 London - Engineering - New Analyst",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1761842418,
+        "date_posted": 1755301096,
+        "url": "https://higher.gs.com/roles/150871?type=students",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Artech Information System",
+        "id": "766c0cdc-92c7-4e72-b7a4-d7aa7c932599",
+        "title": "Data Center Technician",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1762907518,
+        "date_posted": 1755303853,
+        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/113852312",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Artech-Information-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "d7e04b90-49d1-4d5c-812e-f202a359d4e0",
+        "title": "Java WAS Training and Placement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1762909602,
+        "date_posted": 1755195254,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/101894009",
+        "locations": [
+            "Chesterfield, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "c3c51bf5-ef10-49b8-8e19-744ad074dc32",
+        "title": "Java training and placemnt",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1761837896,
+        "date_posted": 1755195252,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/101597821",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "efa00ce6-88f6-498e-bd45-d23e949cefdb",
+        "title": "Java/WAS Training",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1762907371,
+        "date_posted": 1755195155,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/102091028",
+        "locations": [
+            "Chesterfield, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "4c2a06a5-34c5-42d1-8fe5-aaa3af7a86bd",
+        "title": "Java Networking Training and Placement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1762912149,
+        "date_posted": 1755195195,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/102049244",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AG Technologies",
+        "id": "74fa10b6-ccb0-4618-aae4-267efdd58bcc",
+        "title": "OBIEE/SCCM/Microstrategy training cum placement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1761826329,
+        "date_posted": 1755194898,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/108357454",
+        "locations": [
+            "Chesterfield, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "2a401ac2-04fc-4fd1-a911-6848907f1086",
+        "title": "Java/OBIEE/Salesforce training and placement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1761836672,
+        "date_posted": 1755194954,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/104283899",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "1aa9ea8e-69a0-4a1f-8218-896f37e50b3c",
+        "title": "Free training and placement on Java/OBIEE/Salesforce",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1761835272,
+        "date_posted": 1755194915,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/105608940",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "3d10bf9e-5fd4-4c7e-81ff-0b176d5d1380",
+        "title": "WebLogic Training and Placement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1762910694,
+        "date_posted": 1755194788,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/113047155",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "24cf8400-23e1-4d98-8001-043beff7a1ca",
+        "title": "Java OBIEE Training and Placement Opportunity - OBIEE - Java",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1762907987,
+        "date_posted": 1755194592,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999656325164",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kanshe Infotech",
+        "id": "f5a03c31-c505-40e3-941e-d930656ab40e",
+        "title": "Data Science Training",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1755122028,
+        "date_posted": 1755122028,
+        "url": "https://jobs.smartrecruiters.com/KansheInfotech/744000066239385",
+        "locations": [
+            "Lexington, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Kanshe-Infotech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "21bb76de-f51b-48bd-ab45-dbe9ba607cbd",
+        "title": "Training and Placement on Java/J2EE/Hadoop",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1762909289,
+        "date_posted": 1755042551,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/85457676",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kanshe Infotech",
+        "id": "282bfc90-cc00-417a-b8ba-93ce5629f51b",
+        "title": "Generative AI Training",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1755029062,
+        "date_posted": 1755029062,
+        "url": "https://jobs.smartrecruiters.com/KansheInfotech/744000072092977",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Kanshe-Infotech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "46056ee4-33eb-4bd5-94b0-9c211ad9c9fa",
+        "title": "Java Training and Placement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1762907797,
+        "date_posted": 1754995360,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/103866458",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "b5c4c3b9-e3e6-4358-8813-1f0bce543b0f",
+        "title": "Free Training and Placement Weblogic/Devops/Java",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1761832578,
+        "date_posted": 1754995225,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/113276373",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AG Technologies",
+        "id": "7c21c471-f3ad-4265-a007-8a9363b7e4ab",
+        "title": "OBIEE/Salesforce/Networking training and placement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1761829567,
+        "date_posted": 1754995199,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/112846510",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Prosidian Consulting",
+        "id": "71cf4be6-3a6e-4091-a8ba-fbf8ab118a9f",
+        "title": "GIS Specialist - Technician - Levels 1 and 2",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1754991748,
+        "date_posted": 1754991748,
+        "url": "https://jobs.smartrecruiters.com/prosidianconsulting/743999987474433",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/ProSidian-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AG Technologies",
+        "id": "a0ba6855-091a-41e3-854f-a40280d5dee7",
+        "title": "ETL Informatica/OBIEE",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1762909907,
+        "date_posted": 1754987712,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/104213106",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "b18b3506-e44a-480b-9aeb-b7a747708038",
+        "title": "Java Training and Placement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1762910378,
+        "date_posted": 1754987321,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/102308948",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "72f07201-45ea-4185-a053-da8110d93e86",
+        "title": "OBIEE/ ETL/ Java job opportunity for OPT/CPT",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1761831526,
+        "date_posted": 1754987310,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/104090307",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "dfe51c88-ebee-4cf9-8f30-b4f757a59b81",
+        "title": "Student Researcher - Multiple Teams",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1761869812,
+        "date_posted": 1761869812,
+        "url": "https://jobs.bytedance.com/en/position/7535220842087991570/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "3e9f3931-e1ff-463a-9425-8093358f7aa0",
+        "title": "Student Researcher - Multiple Teams",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1764158745,
+        "date_posted": 1754456652,
+        "url": "https://jobs.bytedance.com/en/position/7530340275005278482/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "8545b873-d0a2-4b0d-b3b9-fa67811c8f0d",
+        "title": "Student Researcher - Seed LLM Horizon - Async Agent & Proactive Agent",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1754104492,
+        "date_posted": 1754104492,
+        "url": "https://jobs.bytedance.com/en/position/7533024844121180434/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "584b2240-edff-4ba8-b1ec-df72cf9635cd",
+        "title": "Student Researcher - Seed LLM - Code Generation",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1754104489,
+        "date_posted": 1754104489,
+        "url": "https://jobs.bytedance.com/en/position/7533023925020035336/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "1c0ef532-045d-408b-8050-2c81bcbdec3f",
+        "title": "Student Researcher - Seed Vision - World Models for Video Generation",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1761908174,
+        "date_posted": 1761908174,
+        "url": "https://jobs.bytedance.com/en/position/7533025787470874888/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "14f19965-aa67-424b-92a5-f048cefb3a34",
+        "title": "Student Researcher - Seed Vision - Long-Range Video Generation",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1754104497,
+        "date_posted": 1754104497,
+        "url": "https://jobs.bytedance.com/en/position/7533027329703282951/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "d06c4b1a-d837-4488-8f49-4b31c23f52c1",
+        "title": "Student Researcher - Multiple Teams",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1753929907,
+        "date_posted": 1753929907,
+        "url": "https://jobs.bytedance.com/en/position/7533020375207479570/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "7585aef2-eec8-4fe1-9ec2-271782dbbadc",
+        "title": "Student Researcher - Seed LLM Horizon - Memory",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1753929907,
+        "date_posted": 1753929907,
+        "url": "https://jobs.bytedance.com/en/position/7533025573287954695/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "526b0c3a-77ce-4e42-b55c-0e032ee0e477",
+        "title": "Student Researcher - Seed LLM Post Training - Reward Modeling",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1753889156,
+        "date_posted": 1753889156,
+        "url": "https://jobs.bytedance.com/en/position/7532650246078892306/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "9d377784-8ac4-48d0-9e39-db00dec7d15a",
+        "title": "Student Researcher - LLM Post Training - Agent & Reinforcement Learning",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1753889159,
+        "date_posted": 1753889159,
+        "url": "https://jobs.bytedance.com/en/position/7532653875506989320/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "14c27d60-6511-4a9b-8bff-d86a575ce2bc",
+        "title": "Student Researcher - Multimodal Interaction & World Model - Unified Model",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1753497710,
+        "date_posted": 1753497710,
+        "url": "https://jobs.bytedance.com/en/position/7529663530619324679/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "836b094c-8889-4063-8bb3-2c4a5f202ee9",
+        "title": "Student Researcher - Multimodal Interaction & World Model - RL Focused",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1753498312,
+        "date_posted": 1753498312,
+        "url": "https://jobs.bytedance.com/en/position/7529661012351420690/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
