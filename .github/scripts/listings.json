@@ -118382,7 +118382,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "cd1eeddf-de6b-42cb-93a8-e468e9b5f219",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -154479,7 +154479,7 @@
         "company_name": "Mistral AI",
         "id": "f497d4b3-b7ca-4486-938d-7ecc0160f335",
         "title": "AI Scientist Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -155159,7 +155159,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "5aaea3e0-eb7b-4548-8be4-217d0156b004",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -155437,7 +155437,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "4e79f79a-bf73-45f0-a035-c8ed56f6cbcd",
         "title": "Software Engineering Intern - Full-Stack - Java",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -216686,7 +216686,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "488a7295-310f-45ad-b191-4f4822778dd4",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -216941,7 +216941,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "b2e5c9a4-0b91-4f7b-a58b-29b7500589fd",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -219084,7 +219084,7 @@
         "company_name": "Vanasse Hangen Brustlin (VHB)",
         "id": "d1d139ca-9876-4720-8580-5d9432509926",
         "title": "Highway Safety Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -239916,7 +239916,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "9446fe88-ca32-4044-9c9a-f948a1d294ba",
         "title": "Software Developer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -250282,7 +250282,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "2fbee002-5bbe-46ae-8686-b9ba9bd2b19e",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -287344,7 +287344,7 @@
         "company_name": "ASML",
         "id": "37eb6fff-f29a-4089-8cca-49008b3d485b",
         "title": "Intern - D4C Server",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -290109,7 +290109,7 @@
         "company_name": "Electronic Arts",
         "id": "c080c551-9308-4257-8318-d996028e8102",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -300070,7 +300070,7 @@
         "company_name": "Western Digital",
         "id": "4aa9ca31-f0c1-42d9-8282-50ffd3a6339b",
         "title": "Intern - Cryogenic Probe Station",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -311328,6 +311328,53 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ford Motor Company",
+        "id": "35047dbd-ad72-4418-acce-3bba8f32a32e",
+        "title": "Student Worker Program",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1766568611,
+        "date_posted": 1764153391,
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/54554",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ford-Motor-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Samsara",
+        "id": "cd004828-41dc-44c6-b081-6cc5f2dcd1bb",
+        "title": "Associate Product Manager",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1761899484,
+        "date_posted": 1761899484,
+        "url": "https://www.samsara.com/company/careers/roles/7232630?gh_jid=7232630",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsara",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
