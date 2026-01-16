@@ -142946,7 +142946,7 @@
         "company_name": "Arch Capital Group",
         "id": "f176244b-7ea1-4fc6-98ad-5325ae2dfdde",
         "title": "IT Analytics Engineer Intern - IT - Enterprise Data",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -311394,6 +311394,29 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Reacher",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Thales",
+        "id": "2f708367-3ef7-4287-8135-c4cd0d36cd3b",
+        "title": "2026 Engineering Student Placement - Digital Industry",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1768567862,
+        "date_posted": 1768567862,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Belfast/XMLNAME-2026-Engineering-Student-Placement--Digital-Industry-_R0310129",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thales",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
