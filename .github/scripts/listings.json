@@ -15015,7 +15015,7 @@
         "company_name": "Capital One",
         "id": "419d9be9-13fc-4bf5-a9e0-2ce445b05c04",
         "title": "Technology Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -73995,7 +73995,7 @@
         "company_name": "Ernst & Young",
         "id": "e8d3ab50-a6b9-45ed-a530-c5a0b281fdbf",
         "title": "Intern - Tax - Other Tax",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -76891,7 +76891,7 @@
         "company_name": "Ernst & Young",
         "id": "b445d230-c616-4a98-a355-0d44543aa10c",
         "title": "Intern - Tax - Itts - Transaction Tax Advisory - Jd LLM - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -88441,7 +88441,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3900ee26-a593-429d-aeb9-6cea38b113a8",
         "title": "Machine Learning Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -134199,7 +134199,7 @@
         "company_name": "GoFundMe",
         "id": "63348acf-ea29-493d-9618-2e97889205aa",
         "title": "Full Stack Software Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -178352,7 +178352,7 @@
         "company_name": "Thales",
         "id": "79c86157-8638-4645-a059-225f30aa30ab",
         "title": "2026 Software Engineering Apprentice - Level 6 Digital and Technology Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -217119,7 +217119,7 @@
         "company_name": "Gilead Sciences",
         "id": "6ece6ca9-436e-483b-aeae-f8171e1fe171",
         "title": "Intern \u2013 R&D - Information Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -219042,7 +219042,7 @@
         "company_name": "Vanasse Hangen Brustlin (VHB)",
         "id": "d1d139ca-9876-4720-8580-5d9432509926",
         "title": "Highway Safety Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -235618,7 +235618,7 @@
         "company_name": "Charter Manufacturing",
         "id": "26269ec3-f552-49f5-aad9-e56fb0d3c897",
         "title": "Analytics Engineer Intern - Year Round",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -239694,7 +239694,7 @@
         "company_name": "The Allen Institute for AI",
         "id": "88654d64-d8cd-4a56-b58c-f0a24cce5c62",
         "title": "Research Intern - Prior",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -250329,7 +250329,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "24f7a161-0fd6-4fd0-9a1d-613e0b3d14b2",
         "title": "Machine Learning Engineering Grad Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -288324,7 +288324,7 @@
         "company_name": "Amazon",
         "id": "c76a999e-a783-42c9-a068-451489e237b1",
         "title": "Software Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -297402,7 +297402,7 @@
         "company_name": "NVIDIA",
         "id": "f8336933-ac06-4840-8647-b51b0b112609",
         "title": "Quantum Computing Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -300266,7 +300266,7 @@
         "company_name": "Intapp",
         "id": "ee7b6b7a-9f50-43b0-912a-8b19ba2332e6",
         "title": "Data AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -303404,7 +303404,7 @@
         "company_name": "Markon",
         "id": "84eab369-8499-47d8-927b-c8836f0f0dbd",
         "title": "Reverse Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
