@@ -225352,7 +225352,7 @@
         "company_name": "Rivian",
         "id": "617a7377-78c8-4ff8-ad19-5c799425def2",
         "title": "Data Engineering Intern - AI & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -236441,7 +236441,7 @@
         "company_name": "Rivian",
         "id": "d1f5116a-8037-4671-b9d7-7f107c27c18a",
         "title": "Technical Program Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -311232,6 +311232,52 @@
             "Mississauga, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/AstraZeneca",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Prudential Financial",
+        "id": "afca5f9b-973f-4f8a-b29f-9193c572ea3d",
+        "title": "Prudential: 2026 Global Technology & Operations \u2013 Internship Program",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768548893,
+        "date_posted": 1768548893,
+        "url": "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Prudential--2026-Global-Technology---Operations--Internship-Program_R-122979",
+        "locations": [
+            "Newark, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Prudential-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Perplexity AI",
+        "id": "4eac2757-a91f-4c88-b082-a933f95c14c6",
+        "title": "Research Resident",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1764717288,
+        "date_posted": 1764717288,
+        "url": "https://jobs.ashbyhq.com/Perplexity/adf189e8-5802-4077-aa1f-3668206aacbb/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/PerplexityAI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
