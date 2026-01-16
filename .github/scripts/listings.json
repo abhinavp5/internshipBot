@@ -260407,7 +260407,7 @@
         "company_name": "Fermilab",
         "id": "209f0bf7-0fe6-4d69-adf3-3f37c202cbb1",
         "title": "URA-Fermilab: Undergraduate Research Intern - Fursi",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -284155,7 +284155,7 @@
         "company_name": "Roche",
         "id": "bcfe65d1-c81b-431e-81ea-b477fda6e632",
         "title": "Intern - Analytical Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -293298,7 +293298,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "df46eff3-3d39-4f18-b193-43b553b92b6f",
         "title": "Visualization Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -297137,7 +297137,7 @@
         "company_name": "Northrop Grumman",
         "id": "e23d4c62-0b9e-4697-ba8e-6b504e089a9f",
         "title": "Systems Engineering Intern Graduate Level",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
