@@ -261,26 +261,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Intermountain Healthcare",
-        "id": "99908662-eb93-491f-be95-ab6cf569a8c0",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1747868062,
-        "date_posted": 1747868062,
-        "url": "https://imh.wd5.myworkdayjobs.com/en-US/IntermountainCareers/job/Key-Bank-Tower/Data-Science-Intern_R132466",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/be06ebc5-6942-48ad-b691-821e84f30f2b",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Wealthsimple",
         "id": "df8c5f65-7184-4195-ad92-67435fe4269a",
@@ -73995,7 +73975,7 @@
         "company_name": "Ernst & Young",
         "id": "e8d3ab50-a6b9-45ed-a530-c5a0b281fdbf",
         "title": "Intern - Tax - Other Tax",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -112902,7 +112882,7 @@
         "company_name": "Cboe",
         "id": "188d3151-5615-47a6-acd7-151fe76624af",
         "title": "Software Engineer Intern - FX Co-Op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -237547,7 +237527,7 @@
         "company_name": "CVS Health",
         "id": "94f17201-f416-4a70-8b82-79e0266f7e80",
         "title": "Innotech AI Critical Skills Internship - Undergraduate - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -237572,7 +237552,7 @@
         "company_name": "CVS Health",
         "id": "7910a08e-f15d-46e0-99ad-b7fb95ebc73d",
         "title": "Innotech Engineering Internship - Undergraduate - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -258990,7 +258970,7 @@
         "company_name": "Zscaler",
         "id": "f6ef0152-835c-4eec-a3f3-2a0c1fdcfbc7",
         "title": "Product Manager Intern - Cybersecurity",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -264929,7 +264909,7 @@
         "company_name": "Corsair",
         "id": "eeca3934-12ee-4737-8ea4-55823869cbc5",
         "title": "Software Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -294877,7 +294857,7 @@
         "company_name": "S&P Global ",
         "id": "aad4e22f-c6ff-453d-99bf-0b39fcdd1cd9",
         "title": "Ratings-Software Engineer Intern - Early Careers",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -301315,7 +301295,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "bb38c2b4-980c-4afe-b92c-df899573cea1",
         "title": "Application Developer Levels 1 - 5 - Data and AI Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -310084,7 +310064,7 @@
         "company_name": "Space Dynamics Laboratory",
         "id": "619c1a24-8463-4cc8-a219-c5593f3e786c",
         "title": "Scientific Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
