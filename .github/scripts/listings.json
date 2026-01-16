@@ -87683,7 +87683,7 @@
         "company_name": "Shure",
         "id": "cceac49b-69c3-419f-b97d-5a1ed6b46e09",
         "title": "Cloud Applications Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -118340,7 +118340,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "cd1eeddf-de6b-42cb-93a8-e468e9b5f219",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -212185,7 +212185,7 @@
         "company_name": "Cook Group",
         "id": "129f62f7-ecdc-47b0-8945-414033024e52",
         "title": "Intern \u2013 Artificial Intelligence & Innovation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -237716,7 +237716,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "417871cd-9f57-4003-ba18-d9cab6796608",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -260735,7 +260735,7 @@
         "company_name": "Western Digital",
         "id": "105aa902-acab-430c-b860-eb1194b137b8",
         "title": "Software Engineer Intern - Software Engineering - Firmware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -286248,7 +286248,7 @@
         "company_name": "LMI ",
         "id": "b895c618-60a5-4bd2-94fa-188534201379",
         "title": "Software Engineer Intern - Usps - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -289217,7 +289217,7 @@
         "company_name": "ASML",
         "id": "d5b9aa47-55c9-4005-8d32-40028ea44225",
         "title": "Intern - Laser Computational Modeling Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -301011,7 +301011,7 @@
         "company_name": "Legrand",
         "id": "2fcdb5b2-3237-488b-b786-92839a98d798",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -301925,7 +301925,7 @@
         "company_name": "Daktronics",
         "id": "d7c428fc-147d-48ba-af55-4d1f09022d90",
         "title": "Firmware/Hardware Design Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -310246,7 +310246,7 @@
         "company_name": "Western Digital",
         "id": "3a53ac0c-77f5-41e3-8d1f-eb10bc0b8cd8",
         "title": "Software Engineer Intern - Software Engineering - Firmware",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -311830,6 +311830,29 @@
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "d1f151e0-ee6a-4b52-b2a5-bec1b4189d64",
+        "title": "Computer Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768577409,
+        "date_posted": 1768577409,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Computer-Engineer-Intern_R-00173780",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
