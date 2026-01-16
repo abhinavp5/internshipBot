@@ -77034,7 +77034,7 @@
         "company_name": "Ernst & Young",
         "id": "14757586-d77e-4438-b493-91a18760f0a1",
         "title": "JD/LLM Intern - Tax - Indirect Tax - SALT Transactions",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -86700,7 +86700,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "97094f97-0c76-42e9-bacf-3f331d041f15",
         "title": "Quantitative Systematic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -87872,7 +87872,7 @@
         "company_name": "Shure",
         "id": "4056025f-51a8-4971-8e2c-874f160c7ce0",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -89506,7 +89506,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "08b5f3e9-aa6a-4dcb-839c-f936a41196a3",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -118410,7 +118410,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "ccc105ff-5dae-4442-9318-b636784164f9",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -155117,7 +155117,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "5aaea3e0-eb7b-4548-8be4-217d0156b004",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -200816,7 +200816,7 @@
         "company_name": "Apogee Engineering",
         "id": "c0b246ac-9f50-4715-82eb-c08b2ecfc468",
         "title": "Technical Intelligence Analyst \u2013 Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -216899,7 +216899,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "b2e5c9a4-0b91-4f7b-a58b-29b7500589fd",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -266844,7 +266844,7 @@
         "company_name": "Microsoft",
         "id": "cb32b03e-266a-49cb-88f5-a914bf0c7348",
         "title": "Research Intern - Post-Training",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -276910,7 +276910,7 @@
         "company_name": "KBR",
         "id": "0587e7e0-e198-410e-9058-c5e045369159",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -290620,7 +290620,7 @@
         "company_name": "Daktronics",
         "id": "00a55596-70a3-498f-800f-e844cfe815f1",
         "title": "Firmware/Hardware Design Co-op Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -292657,7 +292657,7 @@
         "company_name": "Chick-fil-A",
         "id": "2a723f83-c5d9-491a-9140-0c0fe9c1a127",
         "title": "Digital Transformation and Technology Undergraduate Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Spring 2027",
@@ -292985,7 +292985,7 @@
         "company_name": "Persistent Systems",
         "id": "f9a06bbc-2b7e-4ed0-ad4c-4967a9af4e97",
         "title": "Intern Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -295739,7 +295739,7 @@
         "company_name": "True Manufacturing",
         "id": "06f7dd0f-4af4-4089-9253-4572ce3c63b5",
         "title": "AI Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -298196,7 +298196,7 @@
         "company_name": "IDEMIA",
         "id": "1722e33d-f6bc-457a-9351-8e1dbb9f46a2",
         "title": "Power BI Data Analyst Internship - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -300095,7 +300095,7 @@
         "company_name": "Eli Lilly and Company",
         "id": "7e13e823-f711-43e9-94d0-9b57fe7d2f8d",
         "title": "AI & Automation Solutions Intern - May 2026 - May 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Summer 2027"
@@ -309314,7 +309314,7 @@
         "company_name": "Markon",
         "id": "ba7bdd26-f0a5-4117-bdc1-712b9eeacbbe",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -311857,6 +311857,95 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "BNY",
+        "id": "6b6b9dd5-56c7-4082-a137-ddf0b3014769",
+        "title": "BNY Analyst Program - Product and Innovation",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1763663920,
+        "date_posted": 1763663920,
+        "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/72226",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/BNY",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Crest Industries",
+        "id": "80acc05b-395b-4882-b898-4b6f84b3a4ed",
+        "title": "CIS/CS Internship",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1768576491,
+        "date_posted": 1768576491,
+        "url": "https://jobs.lever.co/crestoperations/234d5be4-a214-4568-a681-d60f15624488/apply",
+        "locations": [
+            "Alexandria, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Crest-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RWS",
+        "id": "b8f208d0-ac14-4f0c-8f7f-7dc99da51af8",
+        "title": "AI Data Specialist - Pennsylvania - US",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1768576774,
+        "date_posted": 1768576774,
+        "url": "https://jobs.lever.co/rws/8c3faf84-1979-495f-839d-888abfc007ce/apply",
+        "locations": [
+            "Pennsylvania"
+        ],
+        "company_url": "https://simplify.jobs/c/RWS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AG Technologies",
+        "id": "1011d053-c9f8-4129-a340-462eef2242fa",
+        "title": "OBIEE/Salesforce/Networking training and placement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1761829719,
+        "date_posted": 1754995282,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/105683018",
+        "locations": [
+            "Chesterfield, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
