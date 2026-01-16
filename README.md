@@ -4306,7 +4306,7 @@
 <td>2026 Summer – AI Innovation Developer Intern - Grm - 8 Months</td>
 <td>Toronto, ON, Canada</td>
 <td><div align="center"><a href="https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Summer---GRM--AI-Innovation-Developer-Intern--8-Months-_R-0000150185?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/7ef11510-85e1-49d9-932b-cc5464d6afbe?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Ithaka?utm_source=GHList&utm_medium=company">Ithaka</a></strong></td>
@@ -4400,7 +4400,7 @@
 <td>16d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/DC-Water?utm_source=GHList&utm_medium=company">DC Water</a></strong></td>
+<td>↳</td>
 <td>Intern</td>
 <td>Washington, DC</td>
 <td><div align="center"><a href="https://elxb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1910?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e99a2913-01d7-40e6-b4c2-d5e4f5b84635?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
