@@ -84796,7 +84796,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "385eed62-f687-4fff-ab42-08f41edb4cb5",
         "title": "Quantitative Systematic Trading Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -118410,7 +118410,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "ccc105ff-5dae-4442-9318-b636784164f9",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -238378,7 +238378,7 @@
         "company_name": "University Corporation for Atmospheric Research",
         "id": "2cff77d9-9314-46d3-9a23-9483228795c5",
         "title": "Summer Undergraduate Program for Engineering Research \u2013 Intern - Super",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -268010,7 +268010,7 @@
         "company_name": "The Federal Reserve System",
         "id": "e74d4d77-f019-403d-8ef8-1bc76f154655",
         "title": "Summer Internship IT - AI Algorithms with Application Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -294388,7 +294388,7 @@
         "company_name": "Weston & Sampson",
         "id": "a84e9cbd-d65e-43d9-9023-083b627be9f4",
         "title": "Staff Scientist/Engineering Intern - Spring 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -304132,7 +304132,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "64ccf353-6602-409b-b9a4-b67bf5876f4a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -305989,7 +305989,7 @@
         "company_name": "Brookhaven Lab",
         "id": "cf8f91d4-3ca4-4e4c-8413-7989d269561a",
         "title": "Student Assistant - Lightshowai - Temporary/Part-time",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
