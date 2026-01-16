@@ -89548,7 +89548,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "08b5f3e9-aa6a-4dcb-839c-f936a41196a3",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -198676,7 +198676,7 @@
         "company_name": "Essen Health Care",
         "id": "5bbe5efe-14da-4829-9ba8-59f0f6de337b",
         "title": "Quality Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -297468,7 +297468,7 @@
         "company_name": "The Coca-Cola Company",
         "id": "50ee75e4-5506-4be2-9086-d9ac93e6b1a8",
         "title": "Revenue Growth Management Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -311421,6 +311421,78 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ICF International",
+        "id": "3f4e0896-7f13-4a69-926a-4455480723c1",
+        "title": "Grid Planning Intern - Grid Planning",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768565297,
+        "date_posted": 1768461956,
+        "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2026-Summer-Intern--Grid-Planning_R2600130",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/ICF-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "John Deere",
+        "id": "3694f898-b3c8-4c04-83e2-a1db63a0fa73",
+        "title": "Part-Time Student-Product Engineering-Ames IA OR Silvis - IL - Product Engineering (CA)",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1768556669,
+        "date_posted": 1768356661,
+        "url": "https://johndeere.eightfold.ai/careers/job/137478559284",
+        "locations": [
+            "Ames, IA",
+            "Davenport, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/John-Deere",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "John Deere",
+        "id": "1162ee7c-8e4b-49e5-97a6-1c4b420d7bad",
+        "title": "Part-Time Student - Advanced Engineering - Radar Systems",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1763206746,
+        "date_posted": 1761898839,
+        "url": "https://johndeere.eightfold.ai/careers/job/137465721076",
+        "locations": [
+            "Davenport, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/John-Deere",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
