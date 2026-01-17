@@ -296145,7 +296145,7 @@
         "company_name": "T-Mobile",
         "id": "4f0cb9b9-9b6c-410f-b578-f1653f42f3ff",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -313733,6 +313733,50 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Ribbon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cummins",
+        "id": "28ab4173-2010-4b7e-ab55-3300fa84f223",
+        "title": "Placement Student-Packaging and Logistics Data Analyst",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1765901717,
+        "date_posted": 1765901717,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2420416",
+        "locations": [
+            "Daventry, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dandy",
+        "id": "41b7a545-5864-404b-83c2-63d40362da0b",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1764210603,
+        "date_posted": 1764210603,
+        "url": "https://jobs.ashbyhq.com/dandy/d8491a88-fa90-4299-afb0-af3a2121663f/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Dandy",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
