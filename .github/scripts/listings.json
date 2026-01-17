@@ -209360,7 +209360,7 @@
         "company_name": "Thomson Reuters",
         "id": "b0026445-222f-4706-a2e3-e41487d4e5a2",
         "title": "Research Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -226164,7 +226164,7 @@
         "company_name": "Cintas",
         "id": "084744ec-6616-409e-aab3-ec703ef94e76",
         "title": "IT Intern \u2013 Middleware Mobility",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -288795,7 +288795,7 @@
         "company_name": "Fermilab",
         "id": "7f7804b1-6046-43f9-8b84-21e175ed6eed",
         "title": "Beam Instrumentation Software Engineering Co-op Position",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -313363,7 +313363,7 @@
         "company_name": "Comcast",
         "id": "40f7df23-c683-4e10-a048-00422ecbe429",
         "title": "Comcast Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
