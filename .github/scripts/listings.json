@@ -225794,7 +225794,7 @@
         "company_name": "Rivian",
         "id": "491941ea-37fc-499e-8ef2-afffe4d90761",
         "title": "Software Automation Engineering Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -269726,7 +269726,7 @@
         "company_name": "Microsoft",
         "id": "fd116ef1-f5c0-48b7-8b05-9960081a8fa7",
         "title": "Data Science PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -284673,7 +284673,7 @@
         "company_name": "Electronic Arts",
         "id": "0221c58e-86f6-4029-b9da-cfb675957e80",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -300690,7 +300690,7 @@
         "company_name": "Intermountain Healthcare",
         "id": "de168e8b-983b-4aea-84fc-7d4438226bb4",
         "title": "Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -304770,7 +304770,7 @@
         "company_name": "RWS",
         "id": "ce4e6045-22a5-4992-800d-786c7415271c",
         "title": "AI Data Specialist - Florida - US",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -307795,7 +307795,7 @@
         "company_name": "Assort Health",
         "id": "724f5d68-f44c-4be2-b77e-f6f49f9991fe",
         "title": "Agent Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -311045,7 +311045,7 @@
         "company_name": "RWS",
         "id": "dec99369-448d-468a-ab5a-b0b0c8c8aad5",
         "title": "AI Data Specialist - Ohio - US",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -311595,7 +311595,7 @@
         "company_name": "RWS",
         "id": "1c4d8d25-46e8-4ab2-9cf7-6dc05d6ec04a",
         "title": "AI Data Specialist - Georgia - US",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
