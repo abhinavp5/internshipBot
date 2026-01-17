@@ -162,27 +162,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "ByteDance",
-        "id": "f5bc0e9d-d051-4a2b-b4c1-3eaf9361647d",
-        "title": "Backend Software Engineer Intern - Product RD and Infrastructure-Global E-Commerce Seller Business",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1747902522,
-        "date_posted": 1747902522,
-        "url": "https://jobs.bytedance.com/en/position/7507000144987769095/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "QuinStreet",
         "id": "2116cc68-792b-4116-9fff-9dd36aca1488",
         "title": "Full Stack Engineering Intern",
