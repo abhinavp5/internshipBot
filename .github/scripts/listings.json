@@ -150421,7 +150421,7 @@
         "company_name": "Eight Sleep",
         "id": "482b4e0e-19f5-4e41-ba3d-c7429ead0dfd",
         "title": "AI/ML Research Intern - Machine Learning - Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -285076,7 +285076,7 @@
         "company_name": "Nokia",
         "id": "392fc7a9-8393-411d-8896-b0c56660635c",
         "title": "Nokia Defense Hardware Product Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -312627,7 +312627,7 @@
         "company_name": "Galileo Financial Technologies",
         "id": "390d1b7a-ab2c-4688-aabf-472b380db661",
         "title": "Intern Software Engineer - Galileo Console",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -313694,5 +313694,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tools for Humanity",
+        "id": "d5f3ea36-0bd7-45e5-b073-4bc56bf6df35",
+        "title": "Fellowship",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1768641582,
+        "date_posted": 1768518833,
+        "url": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/5e076db5-ef04-46d2-a586-dc7675485808/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Tools-For-Humanity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
