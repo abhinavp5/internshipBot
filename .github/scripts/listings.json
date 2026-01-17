@@ -161,66 +161,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CSL",
-        "id": "7608f132-34db-4719-82c5-a370e61af6b7",
-        "title": "Enterprise AI Platform Co-Op",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1747941173,
-        "date_posted": 1747941173,
-        "url": "https://csl.wd1.myworkdayjobs.com/CSL_External/job/Americas-US-PA-King-of-Prussia-CSL-Behring/Enterprise-AI-Platform-Drexel-Co-Op_R-253132",
-        "locations": [
-            "King of Prussia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/CSL",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CSL",
-        "id": "95cb2738-2425-42a4-b3ea-7eb9fda04054",
-        "title": "AI Automation Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1747941169,
-        "date_posted": 1747941169,
-        "url": "https://csl.wd1.myworkdayjobs.com/CSL_External/job/Americas-US-PA-King-of-Prussia-CSL-Behring/AI-Automation-Co-op_R-253072",
-        "locations": [
-            "King of Prussia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/CSL",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CSL",
-        "id": "1873bbe6-708f-47d5-9f6e-8ffffb46d732",
-        "title": "Data Science Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1747941156,
-        "date_posted": 1747941156,
-        "url": "https://csl.wd1.myworkdayjobs.com/CSL_External/job/Americas-US-PA-King-of-Prussia-CSL-Behring/Data-Science-Co-op_R-253222",
-        "locations": [
-            "King of Prussia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/CSL",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "OpenAI",
         "id": "c4d0439b-5712-4b5f-9b33-f7802b2f9c23",
