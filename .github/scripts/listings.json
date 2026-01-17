@@ -281,27 +281,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Fractal",
-        "id": "91faad6a-4a8d-412e-bd8f-f8d5027c5843",
-        "title": "Data & AI Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1747926513,
-        "date_posted": 1747926513,
-        "url": "https://fractal.wd1.myworkdayjobs.com/en-US/Careers/job/California/Data---AI-Intern_SR-32362",
-        "locations": [
-            "SF",
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Fractal",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "CSL",
         "id": "f61a8255-c063-44cf-b346-e13298f28bc9",
@@ -87669,7 +87648,7 @@
         "company_name": "Shure",
         "id": "4056025f-51a8-4971-8e2c-874f160c7ce0",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -155285,7 +155264,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "f9220cd0-2992-46d7-bdae-b62e7d300658",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -200613,7 +200592,7 @@
         "company_name": "Apogee Engineering",
         "id": "c0b246ac-9f50-4715-82eb-c08b2ecfc468",
         "title": "Technical Intelligence Analyst \u2013 Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -205076,7 +205055,7 @@
         "company_name": "Shure",
         "id": "f0d5af3f-ab4d-4767-9b11-843f39e6945f",
         "title": "Digital Signal Processing Intern - Digital Signal Processing - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -218839,7 +218818,7 @@
         "company_name": "Vanasse Hangen Brustlin (VHB)",
         "id": "d1d139ca-9876-4720-8580-5d9432509926",
         "title": "Highway Safety Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -227996,7 +227975,7 @@
         "company_name": "Shure",
         "id": "dbfe6459-45e8-40be-b954-8c607b54b4e8",
         "title": "Global Product Management Intern - Content Creation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -241477,7 +241456,7 @@
         "company_name": "Geosyntec Consultants",
         "id": "1c2841c8-11f7-4844-818e-839078f8228b",
         "title": "Geographic Information Systems \u2013 Intern - GIS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -248607,7 +248586,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "7b910886-f188-4065-a2f5-e7d5c708b41a",
         "title": "Intern Engineer \u2013 Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -250581,7 +250560,7 @@
         "company_name": "SRI International",
         "id": "6b469735-6228-4bfe-b2c7-01f09e764d81",
         "title": "Intern \u2013 Computational and Applied Mathematics",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -254546,7 +254525,7 @@
         "company_name": "American Enterprise Institute",
         "id": "c42590be-0c86-43ad-b225-bf67dc537fe7",
         "title": "Summer Intern: Data Analysis and Education Policy",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -263826,7 +263805,7 @@
         "company_name": "Shure",
         "id": "3c71e6a0-dd53-4d4a-b1ca-4c6f25b3a1ef",
         "title": "Global Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -264320,7 +264299,7 @@
         "company_name": "Mackenzie Investments",
         "id": "a7a65e29-5ca9-4a94-8f42-cb952651ee4e",
         "title": "Summer Intern 2026 - Investment Management - Multi-Asset Allocation",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -268886,7 +268865,7 @@
         "company_name": "Rambus",
         "id": "bf917a41-d36c-49de-8f4a-c9e30a045563",
         "title": "Analog/Digital Design Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -281119,7 +281098,7 @@
         "company_name": "Legrand",
         "id": "80a2e16d-bc7a-4e5e-b130-619172a01b7a",
         "title": "Product Marketing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -286045,7 +286024,7 @@
         "company_name": "LMI ",
         "id": "b895c618-60a5-4bd2-94fa-188534201379",
         "title": "Software Engineer Intern - Usps - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -290417,7 +290396,7 @@
         "company_name": "Daktronics",
         "id": "00a55596-70a3-498f-800f-e844cfe815f1",
         "title": "Firmware/Hardware Design Co-op Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -293292,7 +293271,7 @@
         "company_name": "Legrand",
         "id": "0b2262fc-f578-4191-ae00-4c76ad88ef0d",
         "title": "Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -297993,7 +297972,7 @@
         "company_name": "IDEMIA",
         "id": "1722e33d-f6bc-457a-9351-8e1dbb9f46a2",
         "title": "Power BI Data Analyst Internship - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -299525,7 +299504,7 @@
         "company_name": "Persistent Systems",
         "id": "2398f0d4-fad2-4bb8-931f-8d70d2095c3e",
         "title": "Intern \u2013 Hardware Engineer - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -301722,7 +301701,7 @@
         "company_name": "Daktronics",
         "id": "d7c428fc-147d-48ba-af55-4d1f09022d90",
         "title": "Firmware/Hardware Design Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -303929,7 +303908,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "64ccf353-6602-409b-b9a4-b67bf5876f4a",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
