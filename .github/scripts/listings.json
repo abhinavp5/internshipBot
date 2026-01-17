@@ -142701,7 +142701,7 @@
         "company_name": "Arch Capital Group",
         "id": "f176244b-7ea1-4fc6-98ad-5325ae2dfdde",
         "title": "IT Analytics Engineer Intern - IT - Enterprise Data",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -192794,7 +192794,7 @@
         "company_name": "GE Vernova",
         "id": "5af4887d-044c-4249-8e14-6353c4551ed4",
         "title": "Modeling and Simulation Intern - Modeling and Simulation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -205162,7 +205162,7 @@
         "company_name": "Centific",
         "id": "601ac4c7-d810-41d5-a20d-b2a3a85cc1dd",
         "title": "AI Safety Research Intern-2",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -230741,7 +230741,7 @@
         "company_name": "Motorola",
         "id": "80adef08-c3c4-45af-bd89-91974bc86dee",
         "title": "Data Analyst Intern \u2013 Summer 2026 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -275836,7 +275836,7 @@
         "company_name": "Moog ",
         "id": "902b8b1a-da34-460c-b602-70fcf572731a",
         "title": "Engineering Undergraduate Internships 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
