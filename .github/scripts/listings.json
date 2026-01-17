@@ -162,27 +162,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "OpenAI",
-        "id": "c4d0439b-5712-4b5f-9b33-f7802b2f9c23",
-        "title": "Software Engineer Internship/Co-op - Applied Engineering",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1747953532,
-        "date_posted": 1747953532,
-        "url": "https://jobs.ashbyhq.com/openai/a04c133d-f969-4ce0-9217-b639232a1f09/application",
-        "locations": [
-            "Seattle, WA",
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/OpenAI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Fortra",
         "id": "61f09a6d-081d-4f09-a3ad-32db646fbc1e",
         "title": "Software Development Intern - Python and Linux",
