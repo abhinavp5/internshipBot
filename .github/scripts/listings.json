@@ -294628,7 +294628,7 @@
         "company_name": "Definity Financial",
         "id": "82cae332-afd7-49bd-a010-167c3d6b42fd",
         "title": "Analyst \u2013 Summer 2026 Co-op - Product & Underwriting - Personal Insurance",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -295722,7 +295722,7 @@
         "company_name": "T-Mobile",
         "id": "ef0b09d3-cabf-4847-a238-4855aec99594",
         "title": "Summer 2026 Software Development Engineer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -299283,7 +299283,7 @@
         "company_name": "Northrop Grumman",
         "id": "5086a7a4-c800-4747-a5fe-80cbf2779235",
         "title": "2026 Software Engineering Intern - San Diego CA",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -300245,7 +300245,7 @@
         "company_name": "Boston Properties",
         "id": "405d9bfa-4338-4a06-b2d8-2c127265b964",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
