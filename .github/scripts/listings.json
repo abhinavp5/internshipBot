@@ -295339,7 +295339,7 @@
         "company_name": "LinkedIn",
         "id": "aafa7740-5a85-4214-bda2-806643f66707",
         "title": "Apprentice Engineer - Backend",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -298005,7 +298005,7 @@
         "company_name": "LinkedIn",
         "id": "7d816486-84b7-4bcd-bafe-f4fad798be9f",
         "title": "Apprentice Engineer - Backend",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
