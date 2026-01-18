@@ -3059,7 +3059,7 @@
 <td>Prudential: 2026 Global Technology & Operations – Internship Program</td>
 <td>Newark, NJ</td>
 <td><div align="center"><a href="https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Prudential--2026-Global-Technology---Operations--Internship-Program_R-122979?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/afca5f9b-973f-4f8a-b29f-9193c572ea3d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Genmab?utm_source=GHList&utm_medium=company">Genmab</a></strong></td>
@@ -3746,21 +3746,21 @@
 <td>Intern - Digital Workplace AI</td>
 <td>Madison, WI</td>
 <td><div align="center"><a href="https://arrowheadpharma.com/careers/?gh_jid=5021314007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ca60233b-1294-43d4-9526-1eb42bc14456?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Roche?utm_source=GHList&utm_medium=company">Roche</a></strong></td>
 <td>2026 Intern 🎓</td>
 <td>Mississauga, ON, Canada</td>
 <td><div align="center"><a href="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Mississauga/XMLNAME-2026-Intern---Data-Scientist---Machine-Learning-Engineer_202512-131886?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/29a16967-92d7-4bd1-b296-8fef9c5bd12d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Shoppers-Drug-Mart?utm_source=GHList&utm_medium=company">Shoppers Drug Mart</a></strong></td>
 <td>Business & Customer Insights Analyst - Co-op Student</td>
 <td>Toronto, ON, Canada</td>
 <td><div align="center"><a href="https://myview.wd3.myworkdayjobs.com/sdm_careers/job/243-Consumers-Road-Toronto-ON/Business---Customer-Insights-Analyst---Co-op-Student_R2000632109?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/75b77956-9911-48de-ab9c-be1fdb7b5aaf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Comcast?utm_source=GHList&utm_medium=company">Comcast</a></strong></td>
@@ -5013,7 +5013,7 @@
 <td>Data Engineer Intern - Ads Data - 2026 Summer</td>
 <td>San Jose, CA</td>
 <td><div align="center"><a href="https://lifeattiktok.com/search/7584219416980818229?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f592dcc1-000a-4086-888c-94b28891712e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>29d</td>
+<td>30d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/AECOM?utm_source=GHList&utm_medium=company">AECOM</a></strong></td>
