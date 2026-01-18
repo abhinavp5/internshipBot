@@ -37591,7 +37591,7 @@
 <td>Master's Data Science Co-op 🎓 🇺🇸</td>
 <td>Ewing, NJ</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Hewlett-Packard-Enterprise?utm_source=GHList&utm_medium=company">Hewlett Packard Enterprise</a></strong></td>
@@ -38669,7 +38669,7 @@
 <td>Geospatial Sciences Internship 🛂</td>
 <td>Remote in USA</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong>Kearney&Co</strong></td>
