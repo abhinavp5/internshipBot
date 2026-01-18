@@ -68039,7 +68039,7 @@
         "company_name": "American Express",
         "id": "34e76cd5-8495-41d5-b380-a03776944a09",
         "title": "Campus Graduate Summer Internship Program - 2026 Data Analytics - US Consumer Services",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -250856,7 +250856,7 @@
         "company_name": "ConnectPrep",
         "id": "cf671a00-7755-4386-b4d2-5c72ba86ab58",
         "title": "Data Analyst Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
