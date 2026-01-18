@@ -181,87 +181,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Skydio",
-        "id": "20c372e3-f497-4d47-ba47-ebc0c3f25753",
-        "title": "People Operations Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1748030928,
-        "date_posted": 1748030928,
-        "url": "https://www.skydio.com/jobs/6585180003?gh_jid=6585180003",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Skydio",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Bonterra",
-        "id": "2ab8fa20-aa53-4920-bd78-6993e228b29a",
-        "title": "R&D Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1748032119,
-        "date_posted": 1748032119,
-        "url": "https://bonterra.wd1.myworkdayjobs.com/bonterratech/job/Remote-United-States/R-D-Engineering-Intern_R2025-0190",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Bonterra",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ciena",
-        "id": "21a470dd-2545-4ea0-8e55-423dc488e32e",
-        "title": "Optical Modem Hardware Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1748031914,
-        "date_posted": 1748031914,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Modem-Hardware-Intern--Fall-2025-_R028097",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ciena",
-        "id": "88d5c83b-74b9-4e65-8636-5d7c79d49f94",
-        "title": "Hardware \u2013 Design and Verification Co-op - Pcba",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1748031894,
-        "date_posted": 1748031894,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Co-op--Fall-2025-_R028061",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Ciena",
         "id": "b1140d8b-0911-465c-9c7b-3764112d51ee",
@@ -313766,6 +313685,27 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Prime-Intellect",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Allium",
+        "id": "a4a1f687-162c-47a2-b71c-4367dba91425",
+        "title": "Engineering Intern - General / AI",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1765117085,
+        "date_posted": 1761873934,
+        "url": "https://jobs.ashbyhq.com/allium/5d697ce5-b820-45c0-a101-86a05e1fb15e/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Allium",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
