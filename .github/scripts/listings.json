@@ -11810,7 +11810,7 @@
         "company_name": "Gimlet Labs",
         "id": "d0c01d7e-2014-48ec-acdf-a55a31a1fce8",
         "title": "AI Researcher \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -117984,7 +117984,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "ccc105ff-5dae-4442-9318-b636784164f9",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
