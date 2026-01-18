@@ -303843,7 +303843,7 @@
         "company_name": "Daktronics",
         "id": "2cf214fd-022e-4cad-91dd-f044c5da7271",
         "title": "Software Design Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
