@@ -88985,7 +88985,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ad8b1567-30c9-4093-b10b-395eb58e0e33",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -148788,7 +148788,7 @@
         "company_name": "Cohere",
         "id": "0b25fd12-7da8-498d-8e2c-1ef6c060ee27",
         "title": "Research Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
