@@ -161,27 +161,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "386ccda1-8096-48c7-ab2d-dfd047b935cc",
-        "title": "Data Scientist Intern - Tiktok Ads",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1747984989,
-        "date_posted": 1747984989,
-        "url": "https://jobs.bytedance.com/en/position/7507366175711348999/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "ByteDance",
         "id": "f2800390-ace4-4621-8f74-37d6e4672a2c",
@@ -86295,7 +86274,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "97094f97-0c76-42e9-bacf-3f331d041f15",
         "title": "Quantitative Systematic Trading Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -89006,7 +88985,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ad8b1567-30c9-4093-b10b-395eb58e0e33",
         "title": "Quantitative Research Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -110551,7 +110530,7 @@
         "company_name": "Shure",
         "id": "34053954-ba41-4968-9bc9-770b754f1e15",
         "title": "Audio Applied Research Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -117935,7 +117914,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "cd1eeddf-de6b-42cb-93a8-e468e9b5f219",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -118005,7 +117984,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "ccc105ff-5dae-4442-9318-b636784164f9",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -154689,7 +154668,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "427c46da-aae1-45df-b8af-36a388b72682",
         "title": "AI Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -200411,7 +200390,7 @@
         "company_name": "Apogee Engineering",
         "id": "c0b246ac-9f50-4715-82eb-c08b2ecfc468",
         "title": "Technical Intelligence Analyst \u2013 Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -206881,7 +206860,7 @@
         "company_name": "LinkedIn",
         "id": "4145fa34-a3e7-4c03-94ca-76d6d02e4386",
         "title": "AI/ML Engineer Intern - Master's - Summer 2026 - Mountain View - CA",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -230995,7 +230974,7 @@
         "company_name": "LinkedIn",
         "id": "fa7e7c93-38f2-4017-b3c5-f46831cd229b",
         "title": "AI/ML Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -239469,7 +239448,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "9446fe88-ca32-4044-9c9a-f948a1d294ba",
         "title": "Software Developer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -249835,7 +249814,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "2fbee002-5bbe-46ae-8686-b9ba9bd2b19e",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -252931,7 +252910,7 @@
         "company_name": "Mackenzie Investments",
         "id": "efbfa21f-4fbe-43bc-b3ea-879aca0563d3",
         "title": "Intern - Data Scientist",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -262248,7 +262227,7 @@
         "company_name": "Veolia",
         "id": "6381be46-7764-462c-8899-78f420be6b7c",
         "title": "Summer Intern - Procurement",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -267024,7 +267003,7 @@
         "company_name": "By Light Professional IT Services",
         "id": "c3443d03-ae1b-4d4a-9885-15ba670cd9d0",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -269737,7 +269716,7 @@
         "company_name": "Mercury Insurance",
         "id": "4684f8dd-02a0-46ca-b39b-bf13932c803a",
         "title": "Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -285843,7 +285822,7 @@
         "company_name": "LMI ",
         "id": "b895c618-60a5-4bd2-94fa-188534201379",
         "title": "Software Engineer Intern - Usps - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -286519,7 +286498,7 @@
         "company_name": "Veolia",
         "id": "08121802-cc19-46e6-a4ea-695a94c2cee7",
         "title": "Procurement Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -295360,7 +295339,7 @@
         "company_name": "LinkedIn",
         "id": "aafa7740-5a85-4214-bda2-806643f66707",
         "title": "Apprentice Engineer - Backend",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -298026,7 +298005,7 @@
         "company_name": "LinkedIn",
         "id": "7d816486-84b7-4bcd-bafe-f4fad798be9f",
         "title": "Apprentice Engineer - Backend",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -299323,7 +299302,7 @@
         "company_name": "Persistent Systems",
         "id": "2398f0d4-fad2-4bb8-931f-8d70d2095c3e",
         "title": "Intern \u2013 Hardware Engineer - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -300606,7 +300585,7 @@
         "company_name": "Legrand",
         "id": "2fcdb5b2-3237-488b-b786-92839a98d798",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -303727,7 +303706,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "64ccf353-6602-409b-b9a4-b67bf5876f4a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -303864,7 +303843,7 @@
         "company_name": "Daktronics",
         "id": "2cf214fd-022e-4cad-91dd-f044c5da7271",
         "title": "Software Design Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
