@@ -313748,5 +313748,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Prime Intellect",
+        "id": "902601f2-1bdb-4415-ba8f-5f932c389ce0",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1762921632,
+        "date_posted": 1754074437,
+        "url": "https://jobs.ashbyhq.com/PrimeIntellect/486b3511-7128-46f9-93a5-fc1d748d8852/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Prime-Intellect",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
