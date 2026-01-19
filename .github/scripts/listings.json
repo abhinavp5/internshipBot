@@ -310673,7 +310673,7 @@
         "company_name": "Reacher",
         "id": "f05d5456-5ee1-424c-8192-8cc2f8953f16",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
