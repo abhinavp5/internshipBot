@@ -87398,7 +87398,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "a96a49ff-46aa-428c-9cee-97688c662d28",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -296149,7 +296149,7 @@
         "company_name": "Toll Brothers",
         "id": "e7951ee5-93f5-4f94-8f1c-dab5650a252a",
         "title": "Web Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -305227,7 +305227,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "496aaefe-6bb4-41f7-ac02-88c95cfb2471",
         "title": "Capital Markets QTS",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
