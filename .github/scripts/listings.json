@@ -41203,7 +41203,7 @@
         "company_name": "Analog Devices",
         "id": "b6b364c9-a0c5-4bbe-9438-54d3ffe18da3",
         "title": "Algorithm Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -269092,7 +269092,7 @@
         "company_name": "Varian",
         "id": "7a3c5fac-dc09-4570-bf95-c4527715f5c7",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025",
@@ -296666,7 +296666,7 @@
         "company_name": "Jones Lang LaSalle (JLL)",
         "id": "1a18a75a-cbee-474d-81db-6bc5ed998efb",
         "title": "Business Intelligence Intern - Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
