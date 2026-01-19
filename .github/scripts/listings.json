@@ -80,26 +80,6 @@
         "category": "Software Engineering"
     },
     {
-        "source": "Simplify",
-        "company_name": "Point72",
-        "id": "0a61c01c-d6c3-41b7-8e79-ecde5bae7780",
-        "title": "Summer 2025 Quantitative Developer Internship",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1748109783,
-        "date_posted": 1748109783,
-        "url": "https://job-boards.greenhouse.io/point72/jobs/7297613002",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Point72",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "category": "Quantitative Finance"
-    },
-    {
         "date_updated": 1751932740,
         "url": "https://grnh.se/9a5dd53e1us",
         "company_name": "Stevens Capital Management",
@@ -51884,7 +51864,7 @@
     {
         "date_updated": 1756801538,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -88743,7 +88723,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ad8b1567-30c9-4093-b10b-395eb58e0e33",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -154820,7 +154800,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "f9220cd0-2992-46d7-bdae-b62e7d300658",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -191375,7 +191355,7 @@
         "company_name": "Ciena",
         "id": "f302bc67-c684-49a9-a490-4526d62f5f54",
         "title": "Waveserver Software Developer Co-op - Winter 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -197683,7 +197663,7 @@
         "company_name": "Micron Technology",
         "id": "e9b46f70-f66f-4653-8a9a-a841d47b8b8f",
         "title": "Process Control Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -205489,7 +205469,7 @@
         "company_name": "Bartlett & West",
         "id": "878534f2-b978-4d1e-ade6-a97e9dc0acee",
         "title": "GIS Intern - Water Resources Focus",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -227023,7 +227003,7 @@
         "company_name": "Generac",
         "id": "45bfac6e-d88b-43e1-bd0a-85ae73f4f1d1",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -234254,7 +234234,7 @@
         "company_name": "Tenstorrent",
         "id": "dc9d3972-492c-4687-9035-2eba2ff6f968",
         "title": "Intern \u2013 Scaleout Software - Distributed Systems & Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -258859,7 +258839,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "dafd130f-cee9-4f04-b1aa-f378511a9839",
         "title": "Intern Engineer \u2013 Co-Op - May 2026 Start",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -274275,7 +274255,7 @@
         "company_name": "Barry-Wehmiller",
         "id": "30946f8d-64f8-4672-9cf9-4a4bd9e73c23",
         "title": "Business Insights Developer & Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -278696,7 +278676,7 @@
         "company_name": "Teledyne",
         "id": "d796fecb-eb7a-486c-9daf-7d8192a0e6ff",
         "title": "New Product Development Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -282168,7 +282148,7 @@
         "company_name": "Tenstorrent",
         "id": "2ba85e44-f244-46c1-82f3-807dcba26083",
         "title": "Intern \u2013 Scaleout Software - Distributed Systems & Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -283128,7 +283108,7 @@
         "company_name": "General Dynamics UK",
         "id": "8d7b83c4-ab84-4cee-b690-ff5a477c6d0c",
         "title": "Co-op - Coalition and Joint Interoperability - 8-Month",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -285256,7 +285236,7 @@
         "company_name": "Teledyne",
         "id": "b2274ac6-a674-45b4-b7cd-4b7986778cc6",
         "title": "Product Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -295657,7 +295637,7 @@
         "company_name": "CACI",
         "id": "8746ced1-3901-40a9-854a-b99cb374f589",
         "title": "Hardware Reverse Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -296902,7 +296882,7 @@
         "company_name": "True Manufacturing",
         "id": "2d95a261-c854-40fc-a20d-1ac10a7558f9",
         "title": "Business Intelligence Co-op - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -297763,7 +297743,7 @@
         "company_name": "LinkedIn",
         "id": "7d816486-84b7-4bcd-bafe-f4fad798be9f",
         "title": "Apprentice Engineer - Backend",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -298343,7 +298323,7 @@
         "company_name": "Genentech",
         "id": "899f28fc-a5ce-443a-8775-05f7606e6357",
         "title": "Intern - Applied AI Engineer - Agents & Evaluation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -312770,7 +312750,7 @@
         "company_name": "Generac",
         "id": "eecc0132-15e3-4920-bacf-bfb90f4b5068",
         "title": "Intern Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
