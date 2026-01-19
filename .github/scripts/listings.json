@@ -188692,7 +188692,7 @@
         "company_name": "RESPEC",
         "id": "5e802a26-92cb-4ff0-9c59-4d2d2bddccf2",
         "title": "Student Engineering Intern-Geology - Hydrogeology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -280739,7 +280739,7 @@
         "company_name": "IMEG",
         "id": "55d36051-c53b-4eab-8d74-c936872533f2",
         "title": "Sustainability & Innovation Intern - Naperville - IL",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -284211,7 +284211,7 @@
         "company_name": "KLA",
         "id": "a0f76685-1aa1-4b00-8aad-789ef26ce43f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -290469,7 +290469,7 @@
         "company_name": "Genentech",
         "id": "ed061332-e99e-4bdd-bf44-7fbce786c30d",
         "title": "Intern - AI for Drug Discovery",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -296785,7 +296785,7 @@
         "company_name": "Genentech",
         "id": "68215c3c-d059-41df-aab4-f786b7f63681",
         "title": "Intern - DDC",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -299407,7 +299407,7 @@
         "company_name": "Eli Lilly and Company",
         "id": "7e13e823-f711-43e9-94d0-9b57fe7d2f8d",
         "title": "AI & Automation Solutions Intern - May 2026 - May 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Summer 2027"
