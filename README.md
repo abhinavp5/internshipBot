@@ -3935,7 +3935,7 @@
 <td>Data and Analytics Intern</td>
 <td>Dallas, TX</td>
 <td><div align="center"><a href="https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Data-and-Analytics-Summer-2026-Internships_R-2025-61963?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/85ee92c8-a197-47e5-9b44-96cdae11d3f3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/APEX-Analytix?utm_source=GHList&utm_medium=company">APEX Analytix</a></strong></td>
