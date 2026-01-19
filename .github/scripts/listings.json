@@ -68056,7 +68056,7 @@
         "company_name": "Solidigm",
         "id": "7e37923b-7955-4fe4-91f6-d5a8b32eca2d",
         "title": "2026 Undergrad Engineering Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -142144,7 +142144,7 @@
         "company_name": "NBCUniversal",
         "id": "8e938ff5-4c1a-4275-a5f7-ed821aef6b64",
         "title": "Product Intern - Hayu",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -165839,7 +165839,7 @@
         "company_name": "Solidigm",
         "id": "107bfc32-911d-4af7-864d-280513dbd04d",
         "title": "Undergraduate Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -197421,7 +197421,7 @@
         "company_name": "NBCUniversal",
         "id": "782b2a56-be2a-4f95-8633-a6b810fb3e6f",
         "title": "Business Data \u2013 Intern - Film IT",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -197448,7 +197448,7 @@
         "company_name": "NBCUniversal",
         "id": "1a83070c-f8f0-46fc-8625-576812b55dc6",
         "title": "Media Product Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Summer 2027"
@@ -227639,7 +227639,7 @@
         "company_name": "AbbVie",
         "id": "42abcc91-b338-4b13-9ab2-00c4df3422e0",
         "title": "2026 Graph Machine Learning Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -253052,7 +253052,7 @@
         "company_name": "CME Group",
         "id": "ba689326-1b4e-44e3-a596-fe99b6a33d47",
         "title": "Data Science Intern - Summer 2026 - Fall 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -260067,7 +260067,7 @@
         "company_name": "Western Digital",
         "id": "105aa902-acab-430c-b860-eb1194b137b8",
         "title": "Software Engineer Intern - Software Engineering - Firmware",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -263985,7 +263985,7 @@
         "company_name": "Thales",
         "id": "2bfbbf5b-d2d8-43e0-a3c5-cfc71fa4887d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -267954,7 +267954,7 @@
         "company_name": "Veolia",
         "id": "e068ba59-c4ca-4259-9157-bf4d3be40aab",
         "title": "Capitol Project's Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -269156,7 +269156,7 @@
         "company_name": "Veolia",
         "id": "f57499f3-362e-4918-aa8b-a0a1a0f5fa4f",
         "title": "Capital Project's Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -273573,7 +273573,7 @@
         "company_name": "AbbVie",
         "id": "6afd2903-384a-4283-b15a-896f6b3c1cb1",
         "title": "2026 Graph Machine Learning Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -273615,7 +273615,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "34070e76-bc27-46a4-bc37-5aae60674289",
         "title": "Multi-Modal Cyber-physical sensing Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -278521,7 +278521,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "0436f6da-716a-4ecf-b66c-ce1476b1f498",
         "title": "Multi-Modal Cyber-Physical Sensing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -285304,7 +285304,7 @@
         "company_name": "Ramboll",
         "id": "a61eadcb-8a6c-4550-be6e-9afa675d815f",
         "title": "Intern \u2013 Air Quality",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -286464,7 +286464,7 @@
         "company_name": "NBCUniversal",
         "id": "d66efef0-dec2-491c-aa90-1dede4d34b1b",
         "title": "Business Data Intern - Film IT",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -286520,7 +286520,7 @@
         "company_name": "NBCUniversal",
         "id": "895fe316-91aa-4c13-b0e9-a718f0ec087a",
         "title": "Media Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Summer 2027"
@@ -286542,7 +286542,7 @@
         "company_name": "NBCUniversal",
         "id": "5bf38345-9411-40bc-bd32-5abfa5282c5c",
         "title": "Product Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -289164,7 +289164,7 @@
         "company_name": "Ramboll",
         "id": "06e1419b-286d-41fd-9a3b-709dfd6d414e",
         "title": "Intern \u2013 Air Quality",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -290297,7 +290297,7 @@
         "company_name": "Experian",
         "id": "021cc33d-b9cd-4e2e-a6d7-95034ec977e7",
         "title": "Software Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -291876,7 +291876,7 @@
         "company_name": "Experian",
         "id": "72287c2e-cc32-497e-ace7-d9e7ac556b51",
         "title": "Software Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -294652,7 +294652,7 @@
         "company_name": "Nasdaq",
         "id": "30e7fbec-34f6-4eeb-a46a-fd93233b6ca6",
         "title": "Data Science Intern - London Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -299360,7 +299360,7 @@
         "company_name": "Western Digital",
         "id": "4aa9ca31-f0c1-42d9-8282-50ffd3a6339b",
         "title": "Intern - Cryogenic Probe Station",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -309578,7 +309578,7 @@
         "company_name": "Western Digital",
         "id": "3a53ac0c-77f5-41e3-8d1f-eb10bc0b8cd8",
         "title": "Software Engineer Intern - Software Engineering - Firmware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -309789,7 +309789,7 @@
         "company_name": "Western Digital",
         "id": "07f4f08c-b3d2-4fa6-98bd-86b7243a4394",
         "title": "Intern - Cryogenic Probe Station",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
