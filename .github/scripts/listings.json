@@ -286441,7 +286441,7 @@
         "company_name": "The Walt Disney Company",
         "id": "76d6d640-29c1-4589-905f-238075f92a54",
         "title": "Disney Theatrical Merchandise Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -292014,7 +292014,7 @@
         "company_name": "Carpenter Technology",
         "id": "6a93962b-599e-41cf-b0f8-270eb40e13a3",
         "title": "Digital Technologies Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -297187,7 +297187,7 @@
         "company_name": "The Walt Disney Company",
         "id": "c14bc108-3251-4c4c-8316-8b3ddc76926e",
         "title": "Software Engineering Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -305203,7 +305203,7 @@
         "company_name": "Alberta Investment Management Corporation",
         "id": "226ec71c-388e-48ea-883e-88a408903423",
         "title": "Student Data Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
