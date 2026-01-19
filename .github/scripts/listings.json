@@ -162,47 +162,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "LiveRamp",
-        "id": "8c19aaed-2fe5-4561-95d0-e1c86fc18eae",
-        "title": "Co-Op \u2013 Software Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1748045820,
-        "date_posted": 1748045820,
-        "url": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Co-Op--Software-Engineering_JR011629",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/LiveRamp",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "7952406e-45a4-432f-9c2c-23a9534bc53d",
-        "title": "Software Developer Internship - Services Moteurs Num\u00e9riques - Digital Engines Services - Ground Software Developer",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1748047318,
-        "date_posted": 1748047318,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/LOC13052-1000-Boul-Marie-VictorinLongueuilQuebecJ4G-1A1Canada/Stage--t---Services-Moteurs-Numriques---Dveloppeur-de-logiciels-au-sol---Internship---Summer---Digital-Engines-Services---Ground-Software-Developer_01770171",
-        "locations": [
-            "Longueuil, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "NVIDIA",
         "id": "b1f8c941-1cfb-4ca2-97b8-caa8d2d4fbe5",
         "title": "Backend Compiler Engineer Intern",
@@ -305147,7 +305106,7 @@
         "company_name": "Emerson Electric",
         "id": "2ad55938-ce77-470d-9f2d-8a5a30c720c4",
         "title": "Software Solutions Development Program - Software Development Program",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
