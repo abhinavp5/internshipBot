@@ -108933,7 +108933,7 @@
         "company_name": "Brevan Howard",
         "id": "ec2908ee-e3b2-486e-8a96-185e90a7ad60",
         "title": "2026 Summer Internship Programme - Macro Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -121947,7 +121947,7 @@
         "company_name": "Lyft",
         "id": "1a77de56-d169-4ab5-9f99-b5a862a6a262",
         "title": "Software Engineer Intern - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -190502,7 +190502,7 @@
         "company_name": "Bloom Energy",
         "id": "b469c9c9-5f6f-4f35-8cb1-514e24486dda",
         "title": "Software Engineering Intern - Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -236658,7 +236658,7 @@
         "company_name": "Brevan Howard",
         "id": "67226d80-6ff8-4b21-8799-65a113593c4a",
         "title": "Intern - Credit Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -253052,7 +253052,7 @@
         "company_name": "CME Group",
         "id": "ba689326-1b4e-44e3-a596-fe99b6a33d47",
         "title": "Data Science Intern - Summer 2026 - Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -265539,7 +265539,7 @@
         "company_name": "Genentech",
         "id": "321cf98c-e696-4c07-b22b-6bbca2e8dc78",
         "title": "Intern - Translational Pharmacokinetics/Pharmacodynamics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
