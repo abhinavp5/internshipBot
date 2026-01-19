@@ -62216,7 +62216,7 @@
         "company_name": "Pulse",
         "id": "b22dc02a-4fa1-4467-beeb-25e0aeb45218",
         "title": "Machine Learning Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -111310,7 +111310,7 @@
         "company_name": "Keysight Technologies",
         "id": "4231c6a9-0b25-44f8-a2de-f35102a2be1f",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -154402,7 +154402,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "32530b9f-31b7-4efc-887c-48ec4bd8da7a",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -283874,7 +283874,7 @@
         "company_name": "TD Bank",
         "id": "a6413a83-e35f-4643-b7ca-831fdceb3942",
         "title": "Business Insights & Analytics Intern/Co-op - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
