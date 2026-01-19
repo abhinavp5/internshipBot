@@ -162,26 +162,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "NVIDIA",
-        "id": "b1f8c941-1cfb-4ca2-97b8-caa8d2d4fbe5",
-        "title": "Backend Compiler Engineer Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1748050624,
-        "date_posted": 1748050624,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer-Intern---Fall-2025_JR1997903",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "ByteDance",
         "id": "5465bad1-1227-4018-a11d-1ea0735cec19",
         "title": "Software Development Engineer Intern in Test",
@@ -117692,7 +117672,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "cd1eeddf-de6b-42cb-93a8-e468e9b5f219",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -154469,7 +154449,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "5aaea3e0-eb7b-4548-8be4-217d0156b004",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -204631,7 +204611,7 @@
         "company_name": "Shure",
         "id": "f0d5af3f-ab4d-4767-9b11-843f39e6945f",
         "title": "Digital Signal Processing Intern - Digital Signal Processing - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -250136,7 +250116,7 @@
         "company_name": "SRI International",
         "id": "6b469735-6228-4bfe-b2c7-01f09e764d81",
         "title": "Intern \u2013 Computational and Applied Mathematics",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -284110,7 +284090,7 @@
         "company_name": "Cadent",
         "id": "76e8f0b1-b8f5-411a-b802-2a67417f9df7",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -297571,7 +297551,7 @@
         "company_name": "Kinaxis",
         "id": "3507ebc1-455c-4472-b39f-c1dc6ec0cced",
         "title": "Intern/Co-op Software Developer - Core Algorithms",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -299403,7 +299383,7 @@
         "company_name": "Scientific Research Corporation",
         "id": "942b9ccf-ddc6-4e02-99b5-baffe83e3571",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -313690,5 +313670,26 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SF Giants",
+        "id": "ffe2b29d-b26f-4f1d-aa5b-f3e026056b73",
+        "title": "Player Development Associate - San Jose",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1768789160,
+        "date_posted": 1768789160,
+        "url": "https://jobs.lever.co/sfgiants/96e7533d-c1be-4f87-8bf3-ed35e99ddeb6/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SF-Giants",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
