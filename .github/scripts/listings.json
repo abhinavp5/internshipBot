@@ -88838,7 +88838,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "08b5f3e9-aa6a-4dcb-839c-f936a41196a3",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -117672,7 +117672,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "cd1eeddf-de6b-42cb-93a8-e468e9b5f219",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -154449,7 +154449,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "5aaea3e0-eb7b-4548-8be4-217d0156b004",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -216493,7 +216493,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "7615cfa2-56ef-49e0-8817-60db45705e9f",
         "title": "Engineering Intern - Software and Systems Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -218374,7 +218374,7 @@
         "company_name": "Vanasse Hangen Brustlin (VHB)",
         "id": "d1d139ca-9876-4720-8580-5d9432509926",
         "title": "Highway Safety Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -237048,7 +237048,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "417871cd-9f57-4003-ba18-d9cab6796608",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -241012,7 +241012,7 @@
         "company_name": "Geosyntec Consultants",
         "id": "1c2841c8-11f7-4844-818e-839078f8228b",
         "title": "Geographic Information Systems \u2013 Intern - GIS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -249400,7 +249400,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "37bb1efc-3cf5-4f3e-b99c-cd99abea4fa7",
         "title": "Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -250116,7 +250116,7 @@
         "company_name": "SRI International",
         "id": "6b469735-6228-4bfe-b2c7-01f09e764d81",
         "title": "Intern \u2013 Computational and Applied Mathematics",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -266761,7 +266761,7 @@
         "company_name": "By Light Professional IT Services",
         "id": "c3443d03-ae1b-4d4a-9885-15ba670cd9d0",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -267954,7 +267954,7 @@
         "company_name": "Veolia",
         "id": "e068ba59-c4ca-4259-9157-bf4d3be40aab",
         "title": "Capitol Project's Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -269156,7 +269156,7 @@
         "company_name": "Veolia",
         "id": "f57499f3-362e-4918-aa8b-a0a1a0f5fa4f",
         "title": "Capital Project's Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -284090,7 +284090,7 @@
         "company_name": "Cadent",
         "id": "76e8f0b1-b8f5-411a-b802-2a67417f9df7",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -284726,7 +284726,7 @@
         "company_name": "K-Love",
         "id": "1b1f24b7-9d62-48c5-a19f-6d747473b679",
         "title": "Mobile/TV Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -290297,7 +290297,7 @@
         "company_name": "Experian",
         "id": "021cc33d-b9cd-4e2e-a6d7-95034ec977e7",
         "title": "Software Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -291876,7 +291876,7 @@
         "company_name": "Experian",
         "id": "72287c2e-cc32-497e-ace7-d9e7ac556b51",
         "title": "Software Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -292340,7 +292340,7 @@
         "company_name": "W.R. Berkley",
         "id": "fa20012f-0ecb-4281-b0aa-2644b3997b78",
         "title": "Data Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -295071,7 +295071,7 @@
         "company_name": "True Manufacturing",
         "id": "06f7dd0f-4af4-4089-9253-4572ce3c63b5",
         "title": "AI Analyst Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -296149,7 +296149,7 @@
         "company_name": "Toll Brothers",
         "id": "e7951ee5-93f5-4f94-8f1c-dab5650a252a",
         "title": "Web Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -310204,7 +310204,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "ef8f5bde-ff3f-459e-a5bf-5bdc98d382b1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -311798,7 +311798,7 @@
         "company_name": "Kinaxis",
         "id": "46ba106a-bb85-4ade-b27e-9e270a845cde",
         "title": "Intern/Co-op Escalations Business Intelligence and Knowledge",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -313852,6 +313852,52 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics UK",
+        "id": "f2830949-d3f4-46e1-a40b-b21191c4d239",
+        "title": "Co-op - Manufacturing Test Operator",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768836410,
+        "date_posted": 1768836410,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000104272295",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Scottish Water",
+        "id": "ef512049-d6cd-4549-b35e-eac0ca3a525b",
+        "title": "Intern Programme - Net Zero Data Science",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1768836304,
+        "date_posted": 1768836304,
+        "url": "https://scottishwater.wd3.myworkdayjobs.com/External_Careers/job/Fairmilehead-Office/Summer-Internship-Programme-2026---Net-Zero-Data-Science_R11430",
+        "locations": [
+            "Edinburgh, UK",
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Scottish-Water",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
