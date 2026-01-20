@@ -233718,7 +233718,7 @@
         "company_name": "Barr",
         "id": "e3ad6d33-aa9d-4c4e-ba2b-19a5482515dd",
         "title": "GIS Intern - GIS Specialist",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -280593,7 +280593,7 @@
         "company_name": "WSP",
         "id": "d878deff-8003-4a88-847b-2af2a621c613",
         "title": "Transportation Planning Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -284098,7 +284098,7 @@
         "company_name": "Deloitte",
         "id": "dc2afe6e-aea5-481c-a4c0-3aecc409437c",
         "title": "Audit & Assurance Intern - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
