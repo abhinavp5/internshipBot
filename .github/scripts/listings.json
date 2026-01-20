@@ -314556,5 +314556,28 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Main Line Health",
+        "id": "7c376d32-719f-447c-845c-b1ec694e3a0d",
+        "title": "Intern IT Business Solutions",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768900801,
+        "date_posted": 1768605319,
+        "url": "https://mainline.taleo.net/careersection/2/jobdetail.ftl?job=79532",
+        "locations": [
+            "Villanova, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Main-Line-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
