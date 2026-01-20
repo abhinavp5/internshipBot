@@ -39497,7 +39497,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3801beb2-e473-44e1-8a9b-a3c4776098f6",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -51447,7 +51447,7 @@
         "company_name": "The Travelers Companies",
         "id": "9d701039-dfd2-49e0-8201-a48f25db68ee",
         "title": "Engineering Development Program \u2013 Intern - Edp",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -87164,7 +87164,7 @@
         "company_name": "Shure",
         "id": "4056025f-51a8-4971-8e2c-874f160c7ce0",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -154548,7 +154548,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "2135c037-9723-4474-b040-a13457a2bbcb",
         "title": "C++ Developer Intern - Curve Engine",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -154733,7 +154733,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "bc4eaca1-d7bb-46f8-a195-59f2f4955803",
         "title": "Weather Data Analyst Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -197926,7 +197926,7 @@
         "company_name": "Essen Health Care",
         "id": "5bbe5efe-14da-4829-9ba8-59f0f6de337b",
         "title": "Quality Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -200108,7 +200108,7 @@
         "company_name": "Apogee Engineering",
         "id": "c0b246ac-9f50-4715-82eb-c08b2ecfc468",
         "title": "Technical Intelligence Analyst \u2013 Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -216191,7 +216191,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "b2e5c9a4-0b91-4f7b-a58b-29b7500589fd",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -216453,7 +216453,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "7615cfa2-56ef-49e0-8817-60db45705e9f",
         "title": "Engineering Intern - Software and Systems Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -225596,7 +225596,7 @@
         "company_name": "Cintas",
         "id": "084744ec-6616-409e-aab3-ec703ef94e76",
         "title": "IT Intern \u2013 Middleware Mobility",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -229241,7 +229241,7 @@
         "company_name": "Endeavor Air",
         "id": "654728d9-52c4-43e0-8e14-3b84252b80d6",
         "title": "Operational Analytics and Performance Intern - Operational Analytics and Performance",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -249532,7 +249532,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "2fbee002-5bbe-46ae-8686-b9ba9bd2b19e",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -258819,7 +258819,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "dafd130f-cee9-4f04-b1aa-f378511a9839",
         "title": "Intern Engineer \u2013 Co-Op - May 2026 Start",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -266721,7 +266721,7 @@
         "company_name": "By Light Professional IT Services",
         "id": "c3443d03-ae1b-4d4a-9885-15ba670cd9d0",
         "title": "AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -269626,7 +269626,7 @@
         "company_name": "Mercury Insurance",
         "id": "cc595046-fa62-465f-a125-c8ef38c4c969",
         "title": "Marketing Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -280614,7 +280614,7 @@
         "company_name": "Legrand",
         "id": "80a2e16d-bc7a-4e5e-b130-619172a01b7a",
         "title": "Product Marketing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -281183,7 +281183,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "AECOM",
-        "id": "4104f226-fd2a-4b26-8f7d-13ff1d5ded6f",
+        "id": "8efb9804-78a6-4456-83f4-b45431dd56fc",
         "title": "Geoscientist Apprentice - Nottingham - Summer 2026",
         "active": true,
         "terms": [
@@ -290257,7 +290257,7 @@
         "company_name": "Experian",
         "id": "021cc33d-b9cd-4e2e-a6d7-95034ec977e7",
         "title": "Software Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -291836,7 +291836,7 @@
         "company_name": "Experian",
         "id": "72287c2e-cc32-497e-ace7-d9e7ac556b51",
         "title": "Software Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -292300,7 +292300,7 @@
         "company_name": "W.R. Berkley",
         "id": "fa20012f-0ecb-4281-b0aa-2644b3997b78",
         "title": "Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -295031,7 +295031,7 @@
         "company_name": "True Manufacturing",
         "id": "06f7dd0f-4af4-4089-9253-4572ce3c63b5",
         "title": "AI Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -296862,7 +296862,7 @@
         "company_name": "True Manufacturing",
         "id": "2d95a261-c854-40fc-a20d-1ac10a7558f9",
         "title": "Business Intelligence Co-op - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -299928,7 +299928,7 @@
         "company_name": "Leidos",
         "id": "ef21e791-cc62-4544-b752-e58f2f761552",
         "title": "Systems \u2013 Integration and Software Engineer Intern - Hardware",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -300303,7 +300303,7 @@
         "company_name": "Legrand",
         "id": "2fcdb5b2-3237-488b-b786-92839a98d798",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -303424,7 +303424,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "64ccf353-6602-409b-b9a4-b67bf5876f4a",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -303561,7 +303561,7 @@
         "company_name": "Daktronics",
         "id": "2cf214fd-022e-4cad-91dd-f044c5da7271",
         "title": "Software Design Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -310164,7 +310164,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "ef8f5bde-ff3f-459e-a5bf-5bdc98d382b1",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -314774,5 +314774,243 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jabil",
+        "id": "bd13f860-c424-46f6-9e46-2ac23b70c8bf",
+        "title": "Finance Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768922970,
+        "date_posted": 1768922970,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Finance-Data-Engineering-Intern_J2437300",
+        "locations": [
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PricewaterhouseCoopers (PwC)",
+        "id": "a6737634-5148-4319-afbd-2d01142375ed",
+        "title": "Assurance Artificial Intelligence Technology Associate",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1768923615,
+        "date_posted": 1768923615,
+        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Assurance-Artificial-Intelligence-Technology---Associate---Summer-Fall-2026_683746WD-2",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Houston, TX",
+            "Washington, DC",
+            "SF",
+            "LA",
+            "Dallas, TX",
+            "Philadelphia, PA",
+            "Chicago, IL",
+            "Norridge, IL",
+            "NYC",
+            "Minneapolis, MN",
+            "Mountain View, CA",
+            "Portland, OR",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/PwC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Lloyds Bank",
+        "id": "fea47136-4cfc-4632-8cf7-9b1b003789a7",
+        "title": "Digital Product Manager Apprentice - Edinburgh",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1768923543,
+        "date_posted": 1768923543,
+        "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Digital-Product-Manager-Apprentice--Edinburgh-_150287",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Lloyds-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Lloyds Bank",
+        "id": "a732c138-a34d-492f-9389-9207a1ea880a",
+        "title": "Digital Product Manager Apprentice - Leeds",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1768923545,
+        "date_posted": 1768923545,
+        "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Digital-Product-Manager-Apprentice--Leeds-_150209-2",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Lloyds-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Manulife Financial",
+        "id": "4dd8a7a9-8b92-4dd4-b2a0-39fb60f7484d",
+        "title": "Intern - Asset Management AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768923815,
+        "date_posted": 1768923815,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2026---Asset-Management-AI_JR25120642",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Manulife-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Instacart",
+        "id": "48ff7eb4-8a0f-4256-862e-23765f3e29b2",
+        "title": "Machine Learning Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1768923087,
+        "date_posted": 1768923087,
+        "url": "https://instacart.careers/job/?gh_jid=5917202",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Instacart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Lloyds Bank",
+        "id": "e1f6da9c-0ee6-492c-99b3-b4abfeaf0798",
+        "title": "Digital Product Manager Apprentice - Manchester",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1768923535,
+        "date_posted": 1768923535,
+        "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Manchester/Digital-Product-Manager-Apprentice--Manchester-_150267",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Lloyds-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Carpenter Technology",
+        "id": "a648cf7e-767b-44bf-8a07-a4e9af666fbb",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768923678,
+        "date_posted": 1768923678,
+        "url": "https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/Software-Engineering-Intern_26070",
+        "locations": [
+            "Reading, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Carpenter-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "iHeartMedia",
+        "id": "8d73c8b6-544d-47a9-8631-721500fe96b6",
+        "title": "Digital Product Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768922682,
+        "date_posted": 1768922682,
+        "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/New-York-NY-55th-St/Digital-Product-Intern_Req37620-2",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/IHeartMedia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lloyds Bank",
+        "id": "9f8d80a7-ee86-4703-afdf-2bc056befbf7",
+        "title": "Data and AI Apprentice",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1768923555,
+        "date_posted": 1768923555,
+        "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Bristol/Data---AI-Apprentice--Bristol-_150359-2",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Lloyds-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
