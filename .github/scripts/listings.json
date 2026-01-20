@@ -158400,7 +158400,7 @@
         "company_name": "Cirrus Logic",
         "id": "4c60c0b7-719b-4c60-aba9-b7a8db672003",
         "title": "Summer Intern - Validation Software Engineer - Silicon Validation Infrastructure & Data Tools",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -160849,7 +160849,7 @@
         "company_name": "Marvell",
         "id": "b3b767ee-f01c-4a7b-a187-5abcb85eacd6",
         "title": "Design Verification Intern - Bachelor's Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -168046,7 +168046,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "8b9a4b38-3ec4-4ae3-99ce-3174b63234bd",
         "title": "Hardware Design Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -214152,7 +214152,7 @@
         "company_name": "Bandwidth",
         "id": "a5b90a84-c9eb-4b41-85ea-681fee3be61f",
         "title": "Software Development Intern - Voice - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -239575,7 +239575,7 @@
         "company_name": "GM financial",
         "id": "a45700d8-5b2b-4262-9171-ecd191f00b7f",
         "title": "Intern Oracle Application Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -240997,7 +240997,7 @@
         "company_name": "USAFacts",
         "id": "bee1ea61-7428-46de-af57-0ddcb0b477cf",
         "title": "Data & AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -244626,7 +244626,7 @@
         "company_name": "GM financial",
         "id": "12a65cd4-9e6b-48a0-abe6-e736cbac4207",
         "title": "Intern \u2013 IT Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -245386,7 +245386,7 @@
         "company_name": "Cadence Design Systems",
         "id": "e711d59e-ae19-48d5-9148-5e7038a60393",
         "title": "Software Engineering Intern - Circuit Simulation infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -284985,7 +284985,7 @@
         "company_name": "Markel Group, Inc.",
         "id": "92f42cb3-68f9-4f94-bb92-5b1d84dfc054",
         "title": "MPL Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -289960,7 +289960,7 @@
         "company_name": "A Thinking Ape",
         "id": "ae679862-5a2f-47ae-80d4-6c2e722d931c",
         "title": "Software Engineer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -295951,7 +295951,7 @@
         "company_name": "Al Warren Oil Company",
         "id": "376882f7-5469-4b75-ad99-f03088e4f51a",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -295995,7 +295995,7 @@
         "company_name": "Altom Transport",
         "id": "89ea9ab9-2c2c-4ecc-abb8-2bbaad9064c3",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -302435,7 +302435,7 @@
         "company_name": "AltaML",
         "id": "c8c216e0-6474-44c5-911e-0a121a7dc178",
         "title": "Associate Machine Learning Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -309655,7 +309655,7 @@
         "company_name": "Atomic Semi",
         "id": "7566ee3d-af59-4a28-8d7c-fd90eb226e83",
         "title": "Fab Software Engineering Intern - Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -315042,7 +315042,7 @@
         "company_name": "Vertiv",
         "id": "0c3cd346-1df4-4da8-bc49-c590213bed5f",
         "title": "Sales Data Science Internship - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
