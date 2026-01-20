@@ -270091,7 +270091,7 @@
         "company_name": "Mercury Insurance",
         "id": "3c225f10-10d3-47db-9095-5cb536061840",
         "title": "Sales Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -285540,7 +285540,7 @@
         "company_name": "LMI ",
         "id": "b895c618-60a5-4bd2-94fa-188534201379",
         "title": "Software Engineer Intern - Usps - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -289661,7 +289661,7 @@
         "company_name": "Cotiviti",
         "id": "a785abe5-ba03-4388-af75-d74873170340",
         "title": "Intern \u2013 Generative AI Research Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
