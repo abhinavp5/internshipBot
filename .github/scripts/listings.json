@@ -145262,7 +145262,7 @@
         "company_name": "Electronic Arts",
         "id": "2a38c80c-02d7-417a-9549-09f8f030f70d",
         "title": "PhD Software Engineer Intern - Frostbite - Character Physics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -206578,7 +206578,7 @@
         "company_name": "LinkedIn",
         "id": "4145fa34-a3e7-4c03-94ca-76d6d02e4386",
         "title": "AI/ML Engineer Intern - Master's - Summer 2026 - Mountain View - CA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -230692,7 +230692,7 @@
         "company_name": "LinkedIn",
         "id": "fa7e7c93-38f2-4017-b3c5-f46831cd229b",
         "title": "AI/ML Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -286331,7 +286331,7 @@
         "company_name": "Genentech",
         "id": "97619c38-15f8-400f-a75c-36cbdccee7a4",
         "title": "2026 Summer Intern - Gcs Aidd",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -295709,7 +295709,7 @@
         "company_name": "Microsoft",
         "id": "791c0910-91a3-4d23-a3eb-98603c065583",
         "title": "Software Engineer: Internship Opportunities - Vancouver - Bc",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -304634,7 +304634,7 @@
         "company_name": "Cenovus Energy",
         "id": "e574b197-59a2-4fe6-b240-c171a3d6eb6b",
         "title": "Engineering Student - Digital Transformation Developments - St. John's",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -304658,7 +304658,7 @@
         "company_name": "Cenovus Energy",
         "id": "53245798-37d9-4915-8f05-80293f027302",
         "title": "Engineering Student - Drilling - Completions and Interventions Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -314208,7 +314208,7 @@
         "company_name": "RWS",
         "id": "3a50e189-8141-4113-8009-aaeec1c61911",
         "title": "AI Data Specialist",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -314579,5 +314579,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RWS",
+        "id": "541197e0-f803-4beb-82ce-1b7603da2e34",
+        "title": "AI Data Specialist - US",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1768902880,
+        "date_posted": 1768576737,
+        "url": "https://jobs.lever.co/rws/b94322e4-11a0-4515-9c2c-461ee66d0d47/apply",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/RWS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
