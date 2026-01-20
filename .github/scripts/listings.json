@@ -92157,7 +92157,7 @@
         "company_name": "Hitachi",
         "id": "5e47a8d7-c8f4-44b7-881c-bd53ee41afe5",
         "title": "Software Analyst \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -98888,7 +98888,7 @@
         "company_name": "Point72",
         "id": "eddddcff-c9bd-4e39-9c2d-f75eb6ebbda1",
         "title": "2026 Summer Internship - AI Innovation - Investment Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -114963,7 +114963,7 @@
         "company_name": "Tenstorrent",
         "id": "b27efd91-15f1-43dc-b773-61d3e422e8db",
         "title": "SoC Digital Design Engineer Intern - Pey",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -124033,7 +124033,7 @@
         "company_name": "Adobe",
         "id": "4e10af7c-c752-4dc9-8fe9-8eb17f45f0a1",
         "title": "Machine Learning Engineer Intern - AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -133537,7 +133537,7 @@
         "company_name": "GoFundMe",
         "id": "1e116d0c-866e-49c7-ae0f-652801b38697",
         "title": "Artificial Intelligence Intern - Data & AI Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -141675,7 +141675,7 @@
         "company_name": "Waymo",
         "id": "19853dc1-b0a9-42ad-80c7-204215b81d89",
         "title": "Intern - Research - Multimodal Large Language Models",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -142434,7 +142434,7 @@
         "company_name": "AccuWeather",
         "id": "1e8184ec-2c29-43e1-8ebf-3f2f0456a532",
         "title": "Data Analyst - Forecast Performance & Competitive Insights",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -143514,7 +143514,7 @@
         "company_name": "Exact Sciences",
         "id": "f59ba4ac-2c4f-43c1-aa3f-67ef87f04d03",
         "title": "AI Engineer Intern - Machine Learning Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -205963,7 +205963,7 @@
         "company_name": "Lennox International",
         "id": "590fee5e-0e83-41b2-8f8d-216a33ef51df",
         "title": "Engineering Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -206992,7 +206992,7 @@
         "company_name": "Five Rings Capital",
         "id": "42525913-7fba-4e84-a679-b7fc98d387ab",
         "title": "Winter Intern 2026 - Quantitative Researcher",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -240608,7 +240608,7 @@
         "company_name": "Leidos",
         "id": "3c96a5cd-c775-40fc-8159-03653299ccc3",
         "title": "Engineering Intern - Software/App Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -263184,7 +263184,7 @@
         "company_name": "Evolve Technology",
         "id": "7c9a0d8e-6e6e-49d1-8b3a-a229ba8425e1",
         "title": "Expedite C++ Software Engineering Intern - Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -265091,7 +265091,7 @@
         "company_name": "Roku",
         "id": "5798e99d-ed79-44ea-b86a-b94443f659f9",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -265541,7 +265541,7 @@
         "company_name": "Roku",
         "id": "f7b3ab3a-383c-4960-92ac-796337572235",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -265629,7 +265629,7 @@
         "company_name": "Roku",
         "id": "bb037923-bceb-47b8-9076-75963506b7b9",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -265863,7 +265863,7 @@
         "company_name": "Roku",
         "id": "e5a24f6e-f873-4e2e-b9c4-7c2509d69d71",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -267368,7 +267368,7 @@
         "company_name": "Velera",
         "id": "c6fc3b71-69b6-4746-a2d5-034707efe1b9",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -292833,7 +292833,7 @@
         "company_name": "Apera AI",
         "id": "0c72a24f-4d9f-4d9f-a248-aa4d48c1c82d",
         "title": "Software Developer \u2013 Co-op - C++",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -293501,7 +293501,7 @@
         "company_name": "Apera AI",
         "id": "24b30d83-3268-47cc-abc2-d77d08ffb682",
         "title": "Software Developer \u2013 Co-op - Full Stack",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -293612,7 +293612,7 @@
         "company_name": "Pathos",
         "id": "543fb296-e6fa-4897-ac70-7ccbfce098bf",
         "title": "ML Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -295241,7 +295241,7 @@
         "company_name": "Howard Hughes Medical Institute (HHMI)",
         "id": "4e23a0c7-dfef-456f-aded-6683555ec51c",
         "title": "Science Strategy & Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -297056,7 +297056,7 @@
         "company_name": "Commvault",
         "id": "c6de2776-dffd-48d6-a05e-3e84d0e0bbad",
         "title": "Technical Enablement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -298505,7 +298505,7 @@
         "company_name": "Donaldson Company",
         "id": "a1219049-e873-430a-98ba-55b10d323a90",
         "title": "AI & Data Science Intern - Innovative Business Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -301660,7 +301660,7 @@
         "company_name": "Celonis",
         "id": "af869820-99bd-4d91-bc70-5747b1dd64ae",
         "title": "Associate Value Engineer - Management Consulting for AI Implementation - Orbit Program",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -301683,7 +301683,7 @@
         "company_name": "Celonis",
         "id": "677b5a1f-cac6-4de4-8d8d-b7e56611d25e",
         "title": "Associate Value Engineer - AI-Driven Data Science & Analytics - Orbit Program",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -310025,7 +310025,7 @@
         "company_name": "Clorox",
         "id": "9fa5a71c-320e-4939-9afd-e0dab753b8a6",
         "title": "Data Analytics Intern - Part-time days",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -310997,7 +310997,7 @@
         "company_name": "Camlin",
         "id": "1e0a1dca-758c-4417-b780-d83ff29dfa5b",
         "title": "Data Analyst - 12 Month Student Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -312005,7 +312005,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "55afe575-6792-4be9-8d1f-0e9c7bd31104",
         "title": "SW Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -312627,7 +312627,7 @@
         "company_name": "Intact",
         "id": "6d14cc75-a575-4643-99e4-fc18e64833fe",
         "title": "Mobile Application Developer \u2013 Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -314140,7 +314140,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "9ca3cf6b-ca92-4ccb-8bb4-f7ffb00609bf",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
