@@ -121,27 +121,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "5465bad1-1227-4018-a11d-1ea0735cec19",
-        "title": "Software Development Engineer Intern in Test",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1748248231,
-        "date_posted": 1748248231,
-        "url": "https://jobs.bytedance.com/en/position/7507866337907263752/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "RTX",
         "id": "a90c0d85-e73a-4496-9f7c-f86eac919441",
@@ -194663,7 +194642,7 @@
         "company_name": "Epic Games",
         "id": "09958648-821f-497e-b74c-b73f2da8c2c0",
         "title": "Engine Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
