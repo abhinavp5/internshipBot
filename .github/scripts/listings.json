@@ -21404,7 +21404,7 @@
         "company_name": "EQ Bank",
         "id": "50ec8240-90e2-456d-8f29-c04b291cf524",
         "title": "Software Engineer I - Full-Stack",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -55902,7 +55902,7 @@
         "company_name": "Cardinal Health",
         "id": "177a3fa7-6058-4cf8-9fd1-723e7b71521e",
         "title": "Data and Analytics Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -68383,7 +68383,7 @@
         "company_name": "Cox",
         "id": "2b38161c-e996-4fd0-bccf-af58234217da",
         "title": "Data Analytics Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -149059,7 +149059,7 @@
         "company_name": "Altice USA",
         "id": "1dd6dad8-d394-4659-b774-8c46dfb35ac3",
         "title": "Intern - Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -188672,7 +188672,7 @@
         "company_name": "Toyota Research Institute",
         "id": "ea49555b-f3f0-4abb-bfbf-bc75361d8186",
         "title": "Human Interactive Driving Intern - Localization and Mapping",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -203869,7 +203869,7 @@
         "company_name": "University Corporation for Atmospheric Research",
         "id": "800ea2eb-e591-4e1d-81a9-e145d7ff80f7",
         "title": "2026 Siparcs Graduate Student Internships",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -204658,7 +204658,7 @@
         "company_name": "University Corporation for Atmospheric Research",
         "id": "4ed5bc65-c4aa-4ebb-b324-16784a34fe8b",
         "title": "SIParCS Undergraduate Student Internship - CISL - High Performance Computing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -214817,7 +214817,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "a1defd92-1587-4779-bb2d-a6c1d5fbdd30",
         "title": "Research Associate Intern - Networking and Distributed Systems Lab",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -272482,7 +272482,7 @@
         "company_name": "Armanino",
         "id": "b75a9cc9-eda3-4feb-8f48-af0d40d2d38e",
         "title": "Summer 2026 \u2013 AI Intern - Century City",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -277378,7 +277378,7 @@
         "company_name": "TD Bank",
         "id": "5d9d7a27-887b-410a-97a3-bbc737bc9039",
         "title": "Software Engineer Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -284339,7 +284339,7 @@
         "company_name": "Geotab",
         "id": "aae35540-9014-44d4-a5b8-3d57cb67128b",
         "title": "Mscac Data Scientist Interns",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -286926,7 +286926,7 @@
         "company_name": "Plug Power",
         "id": "cf840d4f-ed25-47fe-a92b-2849e43c40eb",
         "title": "Stacktest & Tear Down Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -288229,7 +288229,7 @@
         "company_name": "Investment Management Corporation of Ontario",
         "id": "9eb88375-1d28-4125-b0b8-5606f95ea3b2",
         "title": "Intern Data Enablement",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -293779,7 +293779,7 @@
         "company_name": "Manulife Financial",
         "id": "f9dd691a-c995-4631-8b49-b61df5e59808",
         "title": "Intern/Co-op - Agentic AI Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -294148,7 +294148,7 @@
         "company_name": "S&P Global ",
         "id": "aad4e22f-c6ff-453d-99bf-0b39fcdd1cd9",
         "title": "Ratings-Software Engineer Intern - Early Careers",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -294433,7 +294433,7 @@
         "company_name": "Sun Life",
         "id": "98645f57-3766-4f30-ad51-1e25431b225f",
         "title": "Student \u2013 Associate Business Systems Analyst - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -304126,7 +304126,7 @@
         "company_name": "Lowe's ",
         "id": "4783f3e8-87f8-4ef4-92f7-4d5eb32b2ad3",
         "title": "Associate Data Engineering - Launchpad",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -304151,7 +304151,7 @@
         "company_name": "Lowe's ",
         "id": "cf52508b-7554-42f9-9c8c-1f62a3469f9a",
         "title": "Associate Product Manager - Launchpad",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -306623,7 +306623,7 @@
         "company_name": "Texas A&M International University",
         "id": "ba858d18-c024-4623-9cec-e380f14e0d42",
         "title": "Undergraduate Research Assistant - URDA Caprock Integrity",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -312399,7 +312399,7 @@
         "company_name": "Cadence Design Systems",
         "id": "2b9da1df-393c-4c77-a9d8-0e114f908a23",
         "title": "Intern \u2013 Scientific Developer Target Exploration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -315355,6 +315355,99 @@
             "Berkeley Heights, NJ"
         ],
         "company_url": "https://simplify.jobs/c/Fiserv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Stanley Black & Decker",
+        "id": "e7faf5e4-0ba0-407a-bc1d-5202d95fbce1",
+        "title": "Engineering Intern - Digital & Connected - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769030808,
+        "date_posted": 1769030808,
+        "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/New-Britain-CT-United-States/Engineering-Intern--Digital---Connected---Summer-2026_REQ-1000044134",
+        "locations": [
+            "New Britain, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Shoppers Drug Mart",
+        "id": "b9bd8e8f-a2bf-440f-b6db-606bfb94b4cf",
+        "title": "Quo Beauty Product Development Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1769031059,
+        "date_posted": 1769031059,
+        "url": "https://myview.wd3.myworkdayjobs.com/sdm_careers/job/243-Consumers-Road-Toronto-ON/Quo-Beauty-Product-Development-Summer-Student_R2000636213",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Shoppers-Drug-Mart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jones Lang LaSalle (JLL)",
+        "id": "39d64268-cb9c-4b35-aba2-42d8104fac6b",
+        "title": "AI Development Intern 2026 - Chicago",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769030740,
+        "date_posted": 1769030740,
+        "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/AI-Development-Intern-2026---Chicago_REQ475898",
+        "locations": [
+            "Dallas, TX",
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jones-Lang-LaSalle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jones Lang LaSalle (JLL)",
+        "id": "0576f937-d9b3-4163-a163-add3377e8736",
+        "title": "Business Intelligence Summer 2026 Internship - Atlanta - GA",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769030724,
+        "date_posted": 1769030724,
+        "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Atlanta-GA/Business-Intelligence-Summer-2026-Internship---Atlanta--GA_REQ479720",
+        "locations": [
+            "Atlanta, GA",
+            "North Charleston, SC",
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Jones-Lang-LaSalle",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
