@@ -86465,7 +86465,7 @@
         "company_name": "Ava Labs",
         "id": "7b7ee475-53db-43cb-9d35-daffc4042421",
         "title": "Summer 2026 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -142416,7 +142416,7 @@
         "company_name": "HP IQ",
         "id": "219cc89a-c013-4d4c-a011-6eb31dce28fc",
         "title": "Hardware Engineering - Radio Frequency Intern - Wireless Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -161190,7 +161190,7 @@
         "company_name": "Delta Dental",
         "id": "b994b970-0a2c-4f59-9da1-196d70487c17",
         "title": "Application Development Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -191076,7 +191076,7 @@
         "company_name": "Geotab",
         "id": "1b02b9ee-40e0-41a4-b477-31fafff72674",
         "title": "Data Platform Developer Intern - Data Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -206905,7 +206905,7 @@
         "company_name": "Adobe",
         "id": "51561d32-a2b4-4f87-b84d-77219edd63b8",
         "title": "2026 AI/ML Intern - Machine Learning Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -209616,7 +209616,7 @@
         "company_name": "Allegion",
         "id": "5eec9341-7ee5-43b8-83f5-57dd5c8e81de",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -222205,7 +222205,7 @@
         "company_name": "Great American Insurance Company",
         "id": "80762e32-08ea-4d8e-b3ee-54dfcbb71a11",
         "title": "Extreme Programming Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -225164,7 +225164,7 @@
         "company_name": "Exact Sciences",
         "id": "a934eb31-8220-4a78-98ad-9400e276039b",
         "title": "AI Engineer Intern - GenAI - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -243151,7 +243151,7 @@
         "company_name": "Astera Labs",
         "id": "5c6215a1-af94-4ddf-87d7-46031c7d56b0",
         "title": "Product Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -292328,7 +292328,7 @@
         "company_name": "Sun Life",
         "id": "326789dd-505e-430c-a587-f15d9b5e32f6",
         "title": "Student \u2013 Business Systems Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -299346,7 +299346,7 @@
         "company_name": "Eli Lilly and Company",
         "id": "7e13e823-f711-43e9-94d0-9b57fe7d2f8d",
         "title": "AI & Automation Solutions Intern - May 2026 - May 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Summer 2027"
@@ -304358,7 +304358,7 @@
         "company_name": "Sun Life",
         "id": "ab1d2a03-5070-4c38-b8d5-3d54390aed17",
         "title": "Student \u2013 API Developer - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -306056,7 +306056,7 @@
         "company_name": "John Deere",
         "id": "43d82b4b-c726-487a-925b-5cad0a612fed",
         "title": "Part-Time Student - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -308795,7 +308795,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Cadence Design Systems",
-        "id": "b6721096-2939-4225-85ff-d480cab1c981",
+        "id": "87b80f5d-0d60-4152-a777-7d4fe3e07a75",
         "title": "Software Intern",
         "active": true,
         "terms": [
@@ -311318,7 +311318,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "86c9f725-5934-405c-890b-02362859fa55",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -316617,6 +316617,379 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cadence Design Systems",
+        "id": "91c0873c-728c-4585-9b82-4d3dd3dd4253",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769030548,
+        "date_posted": 1769030548,
+        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/PITTSBURGH-03/Software-Engineering-Intern_R52334",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Paccar",
+        "id": "6a462b2e-8b0c-4fac-8c6c-b4142c059b45",
+        "title": "Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1769028034,
+        "date_posted": 1769028034,
+        "url": "https://jobs.paccar.com/job/Columbus-Data-Engineering-Intern-Fall-2026-MS-39701/1285882001/?ats=successfactors",
+        "locations": [
+            "Columbus, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Paccar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tri-State Generation and Transmission Association",
+        "id": "2bfecab6-bb9f-415a-85aa-72904c5af9a0",
+        "title": "IT Integration and Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769028004,
+        "date_posted": 1769028004,
+        "url": "https://fa-exbd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/548",
+        "locations": [
+            "Westminster, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Tri-State-Generation-And-Transmission-Association",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Adobe",
+        "id": "24e4fe7a-c158-4858-8d85-2260621e15ac",
+        "title": "Intern - PhD Architecture",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769037571,
+        "date_posted": 1769037571,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---PhD-Architecture_R161662",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SharkNinja",
+        "id": "bde2dfd3-2959-4bd6-bf8a-a97e9019564c",
+        "title": "Fall 2026: Product Test Engineering Co-op - Ninja - July to December",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1769029531,
+        "date_posted": 1769029530,
+        "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646481006",
+        "locations": [
+            "Needham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/SharkNinja",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dark Wolf Solutions",
+        "id": "a40a332e-b0ca-4cfd-8f7c-387f85d457d5",
+        "title": "UF College Fair \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769029747,
+        "date_posted": 1769029747,
+        "url": "https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7597991003",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Dark-Wolf-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AstraZeneca",
+        "id": "f3901cb0-d725-4e7a-8a88-4e1e3d469b1b",
+        "title": "Laboratory Automation Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769029712,
+        "date_posted": 1769029712,
+        "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Laboratory-Automation-Data-Engineer-Intern_R-244101",
+        "locations": [
+            "Gaithersburg, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/AstraZeneca",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "True Anomaly",
+        "id": "bf59bc03-1aa5-4893-8e78-1b208a007841",
+        "title": "Technician Apprentice",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769029394,
+        "date_posted": 1769029394,
+        "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5024108007",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/TrueAnomaly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "8bb56a14-f4e0-457e-a0c4-9ef90b1b6846",
+        "title": "Intern Engineer - Software Engineering",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769027885,
+        "date_posted": 1769027885,
+        "url": "https://careers-gdms.icims.com/jobs/69847/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Autodesk",
+        "id": "8a9c732f-992c-4b46-b41b-1c57d8013be9",
+        "title": "Machine Learning Developer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769029918,
+        "date_posted": 1769029918,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---Canada---Quebec---Montreal---10-Rue-Duke/Intern--Machine-Learning-Developer_25WD92312",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Roku",
+        "id": "5c533ef9-ba4d-4a07-b57c-fa07cdf47450",
+        "title": "Software Engineer Intern - User Interface",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769029525,
+        "date_posted": 1769029525,
+        "url": "https://www.weareroku.com/jobs/7533354?gh_jid=7533354",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Roku",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sigma Computing",
+        "id": "f7bc6f9f-d0ff-43c7-ac76-30efdc6b7e7b",
+        "title": "Software Engineering Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769029357,
+        "date_posted": 1769029357,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7598782003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Sigma-Computing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Astranis",
+        "id": "cdd44603-95d0-439f-93c1-dd0a7b7e9845",
+        "title": "Harness Manufacturing Intern - Spring 2026",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769029840,
+        "date_posted": 1769029840,
+        "url": "https://job-boards.greenhouse.io/astranis/jobs/4644678006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Expedition Technology",
+        "id": "9c67044c-63c9-40ce-b223-3e8e8221d374",
+        "title": "Intern in Machine Learning and Digital Signal Processing",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769030018,
+        "date_posted": 1769030018,
+        "url": "https://www.exptechinc.com/careers/?gh_jid=5029551007",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/ExpeditionTech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Associated Bank",
+        "id": "3a63205e-c4e1-4f3c-9fea-21f13fa297ca",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769030293,
+        "date_posted": 1769030293,
+        "url": "https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/Milwaukee-111-Kilbourn/Product-Management-Intern_JR104308",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Associated-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "b6721096-2939-4225-85ff-d480cab1c981",
+        "title": "Software Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1768520256,
+        "date_posted": 1768520256,
+        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Intern_R52814",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
