@@ -205449,7 +205449,7 @@
         "company_name": "Bartlett & West",
         "id": "878534f2-b978-4d1e-ade6-a97e9dc0acee",
         "title": "GIS Intern - Water Resources Focus",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -269116,7 +269116,7 @@
         "company_name": "Veolia",
         "id": "f57499f3-362e-4918-aa8b-a0a1a0f5fa4f",
         "title": "Capital Project's Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -296130,7 +296130,7 @@
         "company_name": "Westwood",
         "id": "ef4a975b-6415-4aa4-8c54-16db5ae2bdc7",
         "title": "Environmental Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -309701,7 +309701,7 @@
         "company_name": "Nutanix",
         "id": "451806bd-0b20-4b04-bd6f-644112ef1a48",
         "title": "Digital Transformation Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -313217,7 +313217,7 @@
         "company_name": "Ribbon",
         "id": "f6ab4f5f-0cdc-4212-b79d-e37f4697ad94",
         "title": "Junior Backend Developer - Ribbon Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
