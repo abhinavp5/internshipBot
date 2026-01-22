@@ -171457,7 +171457,7 @@
         "company_name": "CACI",
         "id": "beb09636-0435-435d-8e69-99d5e1b02a7d",
         "title": "Data Analyst Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -190506,7 +190506,7 @@
         "company_name": "Waymo",
         "id": "6a52b046-8cb6-43e2-9aea-9729e220ab3e",
         "title": "2026 Summer Intern - MS/PhD - Compute - Compiler",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -290036,7 +290036,7 @@
         "company_name": "Southwest Airlines",
         "id": "85ee92c8-a197-47e5-9b44-96cdae11d3f3",
         "title": "Data and Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -290311,7 +290311,7 @@
         "company_name": "Southwest Airlines",
         "id": "97e1640a-b7a2-46a0-919c-4a06a25e6892",
         "title": "Operations Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -291069,7 +291069,7 @@
         "company_name": "S&P Global ",
         "id": "2eedf267-4499-4f6a-899f-d5bf78316c2e",
         "title": "Fixed Income Pricing \u2013 Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -312474,7 +312474,7 @@
         "company_name": "Radiance Technologies",
         "id": "08f7e517-4104-4156-a827-d49661d9fe01",
         "title": "Reverse Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
