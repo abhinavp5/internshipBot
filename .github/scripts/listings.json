@@ -81803,7 +81803,7 @@
         "company_name": "U.S. Venture",
         "id": "b8b75e7c-f950-49bc-96f3-760267936c9f",
         "title": "Software Engineer Intern - Igen",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -268541,7 +268541,7 @@
         "company_name": "Arcadis",
         "id": "c1a758be-80a3-4a51-9e58-3c9b713f2a3f",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
