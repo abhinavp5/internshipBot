@@ -117639,9 +117639,9 @@
         "source": "Simplify",
         "category": "Product",
         "company_name": "Blackhawk Network Holdings",
-        "id": "ccc105ff-5dae-4442-9318-b636784164f9",
+        "id": "bdad4597-8b3f-43b6-82ea-e550056a071d",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -177246,7 +177246,7 @@
         "company_name": "Ever.Ag",
         "id": "a9c1c1bc-ef78-42e4-904a-32efd240b67d",
         "title": "Data Science Intern - Data Science Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -218273,7 +218273,7 @@
         "company_name": "Vanasse Hangen Brustlin (VHB)",
         "id": "d1d139ca-9876-4720-8580-5d9432509926",
         "title": "Highway Safety Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -269836,9 +269836,9 @@
         "source": "Simplify",
         "category": "Product",
         "company_name": "Mercury Insurance",
-        "id": "2e984909-c24c-42bc-abf5-09cb5bac6673",
+        "id": "2e796736-3b67-42b0-a1b0-e3204b3a2b21",
         "title": "Personal Lines Product Intern Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -269901,9 +269901,9 @@
         "source": "Simplify",
         "category": "Product",
         "company_name": "Mercury Insurance",
-        "id": "7db44460-602a-41e0-9ac5-bf0380fe322a",
+        "id": "32e2e1ce-694a-424f-9740-be697cd81c51",
         "title": "Personal Lines Product Intern National",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -280462,7 +280462,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Marvell",
-        "id": "6831d1e8-ab0d-4b48-b538-12d8658a1fbe",
+        "id": "dbad81b0-1aaf-4d32-8213-f645ba8f1ced",
         "title": "Design DSP Verification Intern - Bachelor's Degree",
         "active": true,
         "terms": [
@@ -285477,9 +285477,9 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "LMI ",
-        "id": "b895c618-60a5-4bd2-94fa-188534201379",
+        "id": "17824f2d-8033-40c9-83e9-9a4d92cf228a",
         "title": "Software Engineer Intern - Usps - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -292700,7 +292700,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "KLA",
-        "id": "68a5c4c4-0281-4735-9b76-9aa50bcaed3a",
+        "id": "6d5dd94f-5ebb-43bd-b9ee-ded0ecd21256",
         "title": "Product Development Engineering Intern",
         "active": true,
         "terms": [
@@ -296948,7 +296948,7 @@
         "company_name": "Sigma Computing",
         "id": "334fbd19-26cd-4df2-9c4c-767bf9514348",
         "title": "Software Engineering Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -318515,6 +318515,314 @@
             "Winter Garden, FL"
         ],
         "company_url": "https://simplify.jobs/c/Westgate-Resorts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "674f23ff-fd7a-4367-8c53-4aa15c434466",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769028338,
+        "date_posted": 1769028338,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000104706990",
+        "locations": [
+            "Southfield, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AECOM",
+        "id": "cf1447dc-43c9-42b6-927a-fc52644f5b19",
+        "title": "Geospatial Data Scientist Intern - Networking Event with AECOM - Raleigh",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768956377,
+        "date_posted": 1768956377,
+        "url": "https://jobs.smartrecruiters.com/AECOM2/744000104511145",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/AECOM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rockwell Automation",
+        "id": "cb76dc33-81c5-42ab-862d-bf889c747d93",
+        "title": "Intern AI for Control",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1768955703,
+        "date_posted": 1768955703,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Austin-Texas-United-States/Intern--AI-for-Control_R25-10485-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Elf Beauty",
+        "id": "bf4e8539-91bd-42b9-94c3-d9972460a48f",
+        "title": "Intern - Product Marketing Innovation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768956007,
+        "date_posted": 1768956007,
+        "url": "https://jobs.lever.co/elfbeauty/ce60c5fb-8557-4ec8-91c3-8bcb1e2e62a3/apply",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Elf-Beauty",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KLA",
+        "id": "827935cb-a84f-423e-a6c9-8e9954afd08d",
+        "title": "Product Development Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1768956418,
+        "date_posted": 1768956418,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Product-Development-Engineering-Intern_2633673",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "W.R. Berkley",
+        "id": "7f705856-16df-4e96-a02c-9b1f80b3940e",
+        "title": "Genesys Product/Support Co-Op",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1768955845,
+        "date_posted": 1768955845,
+        "url": "https://careers-berkley.icims.com/jobs/13314/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Grimes, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/WR-Berkley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fulton Bank",
+        "id": "7aba0b1c-07ec-4bdb-9a3a-1aa42b847d7a",
+        "title": "Intern-IT Enterprise Data Strategy",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768955166,
+        "date_posted": 1768955166,
+        "url": "https://careers-fult.icims.com/jobs/22902/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Lancaster, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fulton-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tencent",
+        "id": "1e1a965e-238d-4281-abe5-a5d64b3feb37",
+        "title": "Research Internship-Multimodal LLM - Speech/Music/Audio/Vision/Language",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1768956087,
+        "date_posted": 1768956087,
+        "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-Washington-Bellevue/Research-Internship--Multimodal-LLM--Speech-Music-Audio-Vision-Language-_R106665",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Carnegie Mellon University",
+        "id": "e083e0d3-06c0-4847-af5f-535d06782f0d",
+        "title": "Research Engineer - Spud Lab - School of Computer Science",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1768957134,
+        "date_posted": 1768957134,
+        "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Engineer-Intern---SPUD-Lab---School-of-Computer-Science_2024064",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CoStar Group",
+        "id": "dbd61c97-6b9b-4d3f-a0ff-18ba76aedc9b",
+        "title": "ML Technology Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1768956665,
+        "date_posted": 1768956665,
+        "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Arlington/ML-Technology-Intern--Graduate-Students_R37735",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CoStar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tencent",
+        "id": "03a29e26-03f1-43a7-a9e5-5dc7aa72e3e0",
+        "title": "Game Research & Development Intern - Engine Research",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1768956398,
+        "date_posted": 1768956398,
+        "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Los-Angeles/Game-Research---Development-Intern--Engine-Research_R105963-1",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA",
+        "id": "68a5c4c4-0281-4735-9b76-9aa50bcaed3a",
+        "title": "Product Development Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1767974971,
+        "date_posted": 1767974971,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Totowa-NJ/Product-Development-Engineering-Intern_2533189-1",
+        "locations": [
+            "Paterson, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "6831d1e8-ab0d-4b48-b538-12d8658a1fbe",
+        "title": "Design DSP Verification Intern - Bachelor's Degree",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1766024265,
+        "date_posted": 1766024265,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-DSP-Verification-Intern---Bachelor-s-Degree_2503928-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
