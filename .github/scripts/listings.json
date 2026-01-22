@@ -121,26 +121,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "ATPCO",
-        "id": "035a57c0-ccc8-4b71-b1df-c5dfe92e8882",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1748385055,
-        "date_posted": 1748385055,
-        "url": "https://jobs.smartrecruiters.com/ATPCO1/744000061710798",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Capital Power",
         "id": "54ac6b70-6266-44dc-ac8c-756e3243f584",
@@ -35054,7 +35034,7 @@
         "company_name": "Metronome",
         "id": "df52550c-c15f-467f-9d29-9d1d82890d3d",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -53290,7 +53270,7 @@
         "company_name": "Booz Allen",
         "id": "c2ba2107-2d09-404a-9224-1c037494804f",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -159151,7 +159131,7 @@
         "company_name": "Centific",
         "id": "48cae196-1e50-435b-b4e1-065a79658677",
         "title": "Research Interns-2",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -187386,7 +187366,7 @@
         "company_name": "Tencent",
         "id": "553c3141-cedc-4ce8-ae4d-c4dbfd12ce83",
         "title": "Research Internship-Multimodal LLM - Speech/Music/Audio/Vision/Language",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -193199,7 +193179,7 @@
         "company_name": "Epic Games",
         "id": "9f37b605-48a1-46d8-81a9-75a033eb4826",
         "title": "Tech Designer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -199102,7 +199082,7 @@
         "company_name": "Centific",
         "id": "04278278-6a17-441e-8648-b15ddf5857ff",
         "title": "Data Analyst Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -204453,7 +204433,7 @@
         "company_name": "Centific",
         "id": "601ac4c7-d810-41d5-a20d-b2a3a85cc1dd",
         "title": "AI Safety Research Intern-2",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -209645,7 +209625,7 @@
         "company_name": "Adobe",
         "id": "88592736-40ee-46f9-ae69-abef9e3f1ce8",
         "title": "AI/ML Engineer Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -246852,7 +246832,7 @@
         "company_name": "Carnegie Mellon University",
         "id": "2e1430bf-d08a-471b-9323-8391468915cf",
         "title": "Undergraduate Investment Analyst Intern - Investment Office",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -247087,7 +247067,7 @@
         "company_name": "Adobe",
         "id": "0b791aea-83e2-45e1-8816-12ef84c88842",
         "title": "Intern - AEM Customer Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -261610,7 +261590,7 @@
         "company_name": "Microsoft",
         "id": "e0f4dbb5-630e-4132-8b4b-759b603722dc",
         "title": "Research Intern - Bio Large Language Models",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -269653,7 +269633,7 @@
         "company_name": "Keysight Technologies",
         "id": "b10bb5b5-f249-461d-b224-8ac66fecdf0d",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -270486,7 +270466,7 @@
         "company_name": "TWG Global",
         "id": "6511c004-16a4-456e-bab8-5c68672ba79a",
         "title": "AI/ML Scientist Intern - Simulation Optimization and Reinforcement Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -271065,7 +271045,7 @@
         "company_name": "Geotab",
         "id": "86d2f317-f47d-463b-843f-281b915f4160",
         "title": "Software Developer Intern - Goat - Summer/May2026 8 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -282566,7 +282546,7 @@
         "company_name": "BMO ",
         "id": "bd2a868d-7127-4125-b10e-22e6b1278e81",
         "title": "Junior Software Developer \u2013 Co-op/Internship - Summer 2026 - 4 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -282629,7 +282609,7 @@
         "company_name": "BMO ",
         "id": "9cc9702e-0510-40d0-a76d-9b624d5d7a8a",
         "title": "Software Developer \u2013 Co-op/Intern - Summer 2026 - 8 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -286461,7 +286441,7 @@
         "company_name": "BMO ",
         "id": "fe5a1440-4b68-4c90-9a18-128d6a493dd2",
         "title": "Junior Software Developer - Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -292860,7 +292840,7 @@
         "company_name": "Nordstrom",
         "id": "fcd5436d-d290-4e22-ab0c-57fae97336a8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -292929,7 +292909,7 @@
         "company_name": "Manulife Financial",
         "id": "b85c2bfa-5dce-401a-bb9f-70f19b4ba14e",
         "title": "Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -296017,7 +295997,7 @@
         "company_name": "CAE",
         "id": "a1f266fd-b94c-48e0-82f2-369e4b6331cd",
         "title": "Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -299724,7 +299704,7 @@
         "company_name": "Leidos",
         "id": "ef21e791-cc62-4544-b752-e58f2f761552",
         "title": "Systems \u2013 Integration and Software Engineer Intern - Hardware",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -300698,7 +300678,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "0481028e-5f77-4cdd-b5be-cdc1022d6a4a",
         "title": "Enterprise Strategy - Technology & Engineering Fellow",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -304819,7 +304799,7 @@
         "company_name": "RTX",
         "id": "6e2b3fd6-5503-4ad0-8704-49d88af88a94",
         "title": "Stage \u2013 \u00c9t\u00e9 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -305988,7 +305968,7 @@
         "company_name": "Centific",
         "id": "0d4aced9-22bc-43d7-b6c8-2a964648b80e",
         "title": "Student Worker",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -311086,7 +311066,7 @@
         "company_name": "Fiserv",
         "id": "e8766d84-5123-448b-a663-b060c2bae1cd",
         "title": "MBA Summer Internship Program - New York City",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -311346,7 +311326,7 @@
         "company_name": "BMO ",
         "id": "0c9e1387-98f2-4988-94d1-9d6ac35faeb1",
         "title": "AI Developer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -311706,7 +311686,7 @@
         "company_name": "Hitachi",
         "id": "7f813eb4-09e4-4313-a2d2-380bc30d0842",
         "title": "Software Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026",
@@ -315088,7 +315068,7 @@
         "company_name": "BMO ",
         "id": "1bff635e-eb8e-459b-8da1-5046d66890ce",
         "title": "Software Developer \u2013 Co-op/Internship - Summer 2026 - 4 months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -315184,7 +315164,7 @@
         "company_name": "Stanley Black & Decker",
         "id": "e7faf5e4-0ba0-407a-bc1d-5202d95fbce1",
         "title": "Engineering Intern - Digital & Connected - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -315821,7 +315801,7 @@
         "company_name": "SSOE Group",
         "id": "be1a196c-a70a-4a25-ab69-fd216deececb",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -316182,7 +316162,7 @@
         "company_name": "BMO ",
         "id": "8f3fd792-10fe-4607-95aa-97a769e6c770",
         "title": "Agile Center of Excellence \u2013 Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -316228,7 +316208,7 @@
         "company_name": "BMO ",
         "id": "3f0ebeef-0753-4e8a-909f-ad960499461e",
         "title": "Digital Product Manager - Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -320532,7 +320512,7 @@
         "company_name": "BMO ",
         "id": "a9893973-b6f1-4318-ace7-d131d5808b41",
         "title": "Junior Software Developer \u2013 Co-op/Internship - Summer 2026 - 4 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -320577,7 +320557,7 @@
         "company_name": "BMO ",
         "id": "5f85227f-753e-4b99-b6ae-9e95eae9e61a",
         "title": "Software Developer \u2013 Co-op/Internship - Summer 2026 - 4 months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -320622,7 +320602,7 @@
         "company_name": "BMO ",
         "id": "480f6bd0-318b-4f3c-ad95-ad449e371a77",
         "title": "Junior Software Developer - Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -321086,7 +321066,7 @@
         "company_name": "BMO ",
         "id": "48b429f4-1f1d-4d0e-877e-dca531f6c814",
         "title": "Software Developer \u2013 Co-op/Intern - Summer 2026 - 8 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -321178,7 +321158,7 @@
         "company_name": "Generac",
         "id": "89ad29aa-e07c-4d6e-bf41-a7d20c694414",
         "title": "Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
