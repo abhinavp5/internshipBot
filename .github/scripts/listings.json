@@ -277338,7 +277338,7 @@
         "company_name": "TD Bank",
         "id": "5d9d7a27-887b-410a-97a3-bbc737bc9039",
         "title": "Software Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -286956,7 +286956,7 @@
         "company_name": "ASML",
         "id": "6c27e1c5-70ca-4673-8cc4-4e0414cba7d6",
         "title": "Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
