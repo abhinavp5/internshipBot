@@ -267286,7 +267286,7 @@
         "company_name": "Booz Allen",
         "id": "da740ddb-f554-4058-9ca5-91de7d8ce105",
         "title": "Technologist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2028"
         ],
@@ -267916,7 +267916,7 @@
         "company_name": "Booz Allen",
         "id": "0710e08c-5418-4011-9619-2dae0802bcdf",
         "title": "Technologist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2028"
         ],
@@ -272722,7 +272722,7 @@
         "company_name": "ASML",
         "id": "74993e48-907f-4450-a397-d5c37ffdb46b",
         "title": "Internship - Frontend Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -279882,7 +279882,7 @@
         "company_name": "Zurich Insurance",
         "id": "a6ace6b4-e6b4-49e7-8966-5989c14cf7d9",
         "title": "ZRS Intern - Quality and Compliance",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -284968,7 +284968,7 @@
         "company_name": "Kaiser Permanente",
         "id": "aff54360-938a-43e1-92c1-89fd656a0652",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -286509,7 +286509,7 @@
         "company_name": "Kaiser Permanente",
         "id": "aff0e742-7ac9-45e0-ba04-394dbb0c561b",
         "title": "Reporting and Data Analytics Master%27s Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -286580,7 +286580,7 @@
         "company_name": "Zscaler",
         "id": "6dc5309f-2a0d-408f-8af3-ddd945abc9b9",
         "title": "Marketing Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -287236,7 +287236,7 @@
         "company_name": "Kaiser Permanente",
         "id": "03bd47ac-ddda-4997-b1be-268f3036af4c",
         "title": "Analytics Bachelor Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -292464,7 +292464,7 @@
         "company_name": "D2L",
         "id": "4b508944-41e3-4a3e-ab39-e8f91767595c",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -293024,7 +293024,7 @@
         "company_name": "Manulife Financial",
         "id": "df4f721e-8cb3-44cb-81c1-90ad0854e2c9",
         "title": "Intern/Co-op - Full Stack Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -305922,7 +305922,7 @@
         "company_name": "Texas A&M International University",
         "id": "5853769c-b215-46e5-a3b2-d12e4db53463",
         "title": "Graduate Research Assistant - Engineering NSF CAP",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -312758,7 +312758,7 @@
         "company_name": "Donaldson Company",
         "id": "2650767d-48e4-436a-8dd9-1060d2243b1e",
         "title": "Intern Modeling & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
