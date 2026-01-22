@@ -121,26 +121,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cubic",
-        "id": "4d76bbca-fcb4-4808-9995-ab12f14a5853",
-        "title": "Innovation Intern AI",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1748378091,
-        "date_posted": 1748378091,
-        "url": "https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/Salfords-Surrey/Innovation-Intern-AI_REQ_44533",
-        "locations": [
-            "Crawley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Cubic",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Unlikely AI",
         "id": "3750fba1-bb69-4778-8c91-4b85e31c8263",
@@ -31049,29 +31029,6 @@
         "degrees": [
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Copart",
-        "id": "bfc7551f-36a8-4e18-8c84-cd29ed4949a8",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1749786463,
-        "date_posted": 1748378533,
-        "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineer-Intern_JR103138",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Copart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
         ]
     },
     {
@@ -320500,12 +320457,12 @@
         "category": "Software",
         "company_name": "American Express",
         "id": "0019aa00-913b-4393-8edd-61e92809a205",
-        "title": "American Express Canada \u2013 Campus Undergraduate Technology Software Engineer Internship - Hiring For Future Opportunities",
+        "title": "Software Engineer Internship",
         "active": true,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1769078091,
+        "date_updated": 1769115848,
         "date_posted": 1769078091,
         "url": "https://aexp.eightfold.ai/careers/job/39688514",
         "locations": [
