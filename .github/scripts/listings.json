@@ -121,46 +121,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "BorgWarner",
-        "id": "1286701b-d5af-4b30-af3b-78892c8bed04",
-        "title": "Application Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1748374739,
-        "date_posted": 1748374739,
-        "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Application-Engineering-Intern_R2025-2117",
-        "locations": [
-            "Auburn Hills, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/BorgWarner",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Autodesk",
-        "id": "89f4e327-ca74-43cb-8e77-eba47f545b6b",
-        "title": "Software Developer Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1748375886,
-        "date_posted": 1748375886,
-        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-dveloppement-de-logiciels--Software-Developer-Intern_25WD89017-1",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Autodesk",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Cubic",
         "id": "4d76bbca-fcb4-4808-9995-ab12f14a5853",
