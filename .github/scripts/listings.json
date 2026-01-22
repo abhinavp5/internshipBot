@@ -122,46 +122,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Unlikely AI",
-        "id": "3750fba1-bb69-4778-8c91-4b85e31c8263",
-        "title": "Software Engineering Internship",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1748384142,
-        "date_posted": 1748384142,
-        "url": "https://jobs.lever.co/unlikely/3572f2af-d7de-466a-bcb6-bbbac92860ec/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/UnlikelyAI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Unlikely AI",
-        "id": "71c144c6-0f8c-40e2-b084-0e34fb72bb12",
-        "title": "Machine Learning Engineering Internship",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1748384139,
-        "date_posted": 1748384139,
-        "url": "https://jobs.lever.co/unlikely/24deb831-4b0a-4245-8fcf-bd1d6ab04f4c/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/UnlikelyAI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "ATPCO",
         "id": "035a57c0-ccc8-4b71-b1df-c5dfe92e8882",
         "title": "Software Engineer Intern",
@@ -72290,7 +72250,7 @@
         "company_name": "Symbotic",
         "id": "f38deb9a-f4dd-44d2-86cb-8db65d0a9916",
         "title": "Intern-Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Spring 2025",
@@ -109519,7 +109479,7 @@
         "company_name": "Auto-Owners Insurance",
         "id": "e2054c44-ddf4-4898-8cc4-dd2b9acc48be",
         "title": "Intelligent Automation Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -262122,7 +262082,7 @@
         "company_name": "Capella Space",
         "id": "7c7006c5-c65c-4b0e-8da9-6488827fe143",
         "title": "Development Verification Test Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -268585,7 +268545,7 @@
         "company_name": "Realtor.com",
         "id": "bc43a8f3-9ece-4593-8cb0-7df3083419e2",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -272791,7 +272751,7 @@
         "company_name": "Realtor.com",
         "id": "0a28e78b-0456-4fde-838f-59fb32418927",
         "title": "Intern Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -276538,7 +276498,7 @@
         "company_name": "BMO ",
         "id": "f51d9057-e3dd-4346-9d9a-2982fa3d5c38",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -298545,7 +298505,7 @@
         "company_name": "Nokia",
         "id": "30e27187-4b02-474e-99df-b1c407cb8f10",
         "title": "Hardware Development Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -310165,7 +310125,7 @@
         "company_name": "Stanley Black & Decker",
         "id": "8a6a0937-143d-454c-8ec9-dfb8723e05c4",
         "title": "Intern \u2013 Data Analyst & BI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -311409,7 +311369,7 @@
         "company_name": "General Dynamics UK",
         "id": "0007e335-9fb4-417d-a093-a2e8968e92a2",
         "title": "Co-op May 2026 - Advanced Vetronics Software Development - M1A1 Battle Tank",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -311982,7 +311942,7 @@
         "company_name": "Main Line Health",
         "id": "8bfb546f-35ec-4fc3-bb3a-a50dcf2ec638",
         "title": "IT Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -318818,7 +318778,7 @@
         "company_name": "BMO ",
         "id": "50839d0a-db55-4d91-8300-64c2489ab40f",
         "title": "Software Developer \u2013 Internship - Summer 2026 - Weeks",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -319683,7 +319643,7 @@
         "company_name": "BMO ",
         "id": "250fd2df-6725-4710-8f0d-2c6d136b220a",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
