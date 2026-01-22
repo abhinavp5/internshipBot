@@ -69784,7 +69784,7 @@
         "company_name": "United Launch Alliance",
         "id": "3a00ea8d-fd3f-44c9-b521-1f5be2f63828",
         "title": "Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -154717,9 +154717,9 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Intercontinental Exchange",
-        "id": "f9220cd0-2992-46d7-bdae-b62e7d300658",
+        "id": "1deb6408-f812-4ce4-96c1-bafa1a70334a",
         "title": "Quantitative Research Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -210896,7 +210896,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "KLA",
-        "id": "02da1088-fe29-4dfd-94ae-0e350b08c20e",
+        "id": "73de94f3-453f-4151-9213-8b748edbbd61",
         "title": "Product Development Engineer Intern",
         "active": true,
         "terms": [
@@ -222502,7 +222502,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Marvell",
-        "id": "2c2642fe-5f2c-46b2-9740-00e15c6bf4a2",
+        "id": "84001cc0-6b50-4f0d-bb02-285f2aeb345b",
         "title": "Firmware Engineer - Bachelor's Degree",
         "active": true,
         "terms": [
@@ -235525,7 +235525,7 @@
         "company_name": "Seagate Technology ",
         "id": "b78c36bf-8ce0-42c7-8ac3-cf5fe8788c90",
         "title": "Intern \u2013 Advanced Signal Processing and Embedded Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -281122,9 +281122,9 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "AECOM",
-        "id": "8efb9804-78a6-4456-83f4-b45431dd56fc",
+        "id": "4104f226-fd2a-4b26-8f7d-13ff1d5ded6f",
         "title": "Geoscientist Apprentice - Nottingham - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -284084,7 +284084,7 @@
         "company_name": "Electronic Arts",
         "id": "b9090db3-b785-4ece-a0c6-8374c96a4299",
         "title": "Cross Sports Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -302467,7 +302467,7 @@
         "company_name": "ION Group",
         "id": "7710d917-a6a9-41b1-84b6-c3c59c92b5c2",
         "title": "Rotational Analyst - 2026 Leadership Development Program - Toronto",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -308941,7 +308941,7 @@
         "company_name": "Electronic Arts",
         "id": "e99ef696-c9cd-4169-b008-5a63bacb61cc",
         "title": "Game Creation SW Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -309453,7 +309453,7 @@
         "company_name": "Corning",
         "id": "5037d0eb-9324-4e65-94a3-451a8b3d6044",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -313576,7 +313576,7 @@
         "company_name": "SF Giants",
         "id": "ffe2b29d-b26f-4f1d-aa5b-f3e026056b73",
         "title": "Player Development Associate - San Jose",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -313733,7 +313733,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Tencent",
-        "id": "bdc2d554-4887-4da6-97e5-f379e292b6a8",
+        "id": "99e99058-6697-4526-a081-398624f49749",
         "title": "NLP Research Intern",
         "active": true,
         "terms": [
@@ -319622,6 +319622,438 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/SP-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA",
+        "id": "b008dfce-a0f3-4d3c-b658-1f2c378e30ba",
+        "title": "Product Development Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1768956418,
+        "date_posted": 1768956418,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Product-Development-Engineer-Intern_2533185",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KLA",
+        "id": "9cb8cf2f-70d6-45ba-9122-7f3cf2073ca0",
+        "title": "Application Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1768956411,
+        "date_posted": 1768956411,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Application-Engineer-Intern_2532180",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KLA Corporation",
+        "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
+        "title": "Advanced Algorithm Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768956558,
+        "date_posted": 1768956558,
+        "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Advanced-Algorithm-Intern_2532229",
+        "locations": [
+            "Boston, MA",
+            "Fremont, CA",
+            "Milpitas, CA",
+            "San Jose, CA",
+            "Santa Clara, CA",
+            "Ann Arbor, MI",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KLA",
+        "id": "87a9a681-3f10-4286-adea-87711c73410f",
+        "title": "AI Scientist Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1768956445,
+        "date_posted": 1768956445,
+        "url": "https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/AI-Scientist-Intern_2532581-1",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SK hynix",
+        "id": "82f71bb3-473e-4eb4-9430-0f651d80b16f",
+        "title": "Intern \u2013 Emerging Memory - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768957383,
+        "date_posted": 1768957383,
+        "url": "https://job-boards.greenhouse.io/skhynixamerica/jobs/5078272008",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SK-Hynix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KLA",
+        "id": "729e6ebe-e3b1-4580-a85d-fb0ba7a78eae",
+        "title": "Software Engineer \u2013 Intern - AI/ML",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768956416,
+        "date_posted": 1768956416,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/KLAS-Summer-Intern_2532577",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BMO ",
+        "id": "250fd2df-6725-4710-8f0d-2c6d136b220a",
+        "title": "Data Analyst",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1768956397,
+        "date_posted": 1768956397,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Data-Analyst-Summer-2026--Co-op-Internship----4-Months_R250032683-2",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Paccar",
+        "id": "9c317ed4-6532-4327-98f9-7e9e643d6b2f",
+        "title": "Software Engineer Intern - Mainframe",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768955392,
+        "date_posted": 1768955392,
+        "url": "https://jobs.paccar.com/job/Renton-Software-Engineer-Intern-Mainframe-WA-98057/1285423101/?ats=successfactors",
+        "locations": [
+            "Tukwila, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Paccar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tencent",
+        "id": "3c5a3f32-6d8c-47e2-9d14-d0c553a95115",
+        "title": "Research Internship - Agent",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1768956083,
+        "date_posted": 1768956083,
+        "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-Washington-Bellevue/Research-Internship---Agent_R106336",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nissan",
+        "id": "339ec990-443d-4705-8c82-c5d078d538b7",
+        "title": "Machine Learning Research Intern - Santa Clara - CA",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768956194,
+        "date_posted": 1768956194,
+        "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Machine-Learning-Research-Intern---Santa-Clara--CA---Summer-2026_R00201318",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nissan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Honeywell",
+        "id": "020aba3c-2e58-4d18-b1ab-de40bc56b9c6",
+        "title": "Apprentice - Electromechanical Engineer - Lss",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768955718,
+        "date_posted": 1768955718,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/135342",
+        "locations": [
+            "Yeovil, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Altom Transport",
+        "id": "e3a86439-6ee3-4f36-845a-5fe77250bd78",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768955604,
+        "date_posted": 1768955604,
+        "url": "https://apply.workable.com/altom-transport/j/0D87C19BEC/apply",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Altom-Transport",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "05610eab-2f8c-463d-baf6-1f698641b1e1",
+        "title": "Silicon Photonics Design & Test Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768956045,
+        "date_posted": 1768956045,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28823",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Paccar",
+        "id": "2cc82ce1-cef4-4874-82e6-5d54a2b4a732",
+        "title": "IT Summer 2026 Interns \u2013 AI/ML Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768955330,
+        "date_posted": 1768955330,
+        "url": "https://jobs.paccar.com/job/Renton-IT-Summer-2026-Interns-AIML-Product-Manager-Intern-WA-98057/1285477101/?ats=successfactors",
+        "locations": [
+            "Tukwila, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Paccar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Marvell",
+        "id": "16211ddc-bd3e-4fc9-9e98-b7a32d14d9d8",
+        "title": "Product Engineer Intern - Master's Degree",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1768956465,
+        "date_posted": 1768956465,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Product-Engineer-Intern---Master-s-Degree_2502284",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tencent",
+        "id": "bdc2d554-4887-4da6-97e5-f379e292b6a8",
+        "title": "NLP Research Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1768835116,
+        "date_posted": 1768835116,
+        "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/NLP-Research-Intern_R106758",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KLA",
+        "id": "02da1088-fe29-4dfd-94ae-0e350b08c20e",
+        "title": "Product Development Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1765623253,
+        "date_posted": 1765623253,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Engineer-Intern_2532231-1",
+        "locations": [
+            "Milpitas, CA",
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "2c2642fe-5f2c-46b2-9740-00e15c6bf4a2",
+        "title": "Firmware Engineer - Bachelor's Degree",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1763893634,
+        "date_posted": 1763893634,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern---Bachelor-s-Degree_2503452-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
