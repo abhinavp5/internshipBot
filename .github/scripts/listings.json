@@ -32959,7 +32959,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "229cf625-4db7-450e-8d2f-ce97ca2b8605",
         "title": "AI Customer Engagement Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -183713,7 +183713,7 @@
         "company_name": "Epic Games",
         "id": "ee85ca25-9af3-4125-9902-f29e32ac04db",
         "title": "Engine Programmer Intern - Developer Experience and Efficiency - Engine Programming",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -238967,7 +238967,7 @@
         "company_name": "Blue Shield of California",
         "id": "3639699b-0502-487c-b705-9c6ff24bfa1c",
         "title": "2026 Summer Platforms Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -286956,7 +286956,7 @@
         "company_name": "ASML",
         "id": "6c27e1c5-70ca-4673-8cc4-4e0414cba7d6",
         "title": "Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -300476,7 +300476,7 @@
         "company_name": "The Walt Disney Company",
         "id": "5101a028-82a5-4b5c-b257-f9ec215dc99d",
         "title": "Data Science Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -306308,7 +306308,7 @@
         "company_name": "Stantec",
         "id": "72638986-ee6f-4805-b9ea-a673bcb088cd",
         "title": "Geologist in Training",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -307273,7 +307273,7 @@
         "company_name": "VaynerMedia",
         "id": "e981c59b-942f-4ec5-a287-ee8c72ce71d9",
         "title": "Resident \u2013 Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -318443,6 +318443,78 @@
             "Oakland, CA"
         ],
         "company_url": "https://simplify.jobs/c/Kaiser-Permanente",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Citadel",
+        "id": "9a900104-2a94-4f83-8db2-d908f008ed99",
+        "title": "Machine Learning Researcher \u2013 PhD Intern - US",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769066239,
+        "date_posted": 1769066239,
+        "url": "https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-us/",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Analytical Mechanics Associates",
+        "id": "c31505d8-c315-4479-87da-fe6ca40bdc95",
+        "title": "AI/ML Research Associate",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1769066114,
+        "date_posted": 1769066114,
+        "url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/AI-ML-Research-Associate_R-100457",
+        "locations": [
+            "Remote in USA",
+            "Hampton, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Analytical-Mechanics-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Westgate Resorts",
+        "id": "7e52c5f8-c50f-4bc3-9561-7da851eda20e",
+        "title": "Mortgage Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769065663,
+        "date_posted": 1769065663,
+        "url": "https://jobs.smartrecruiters.com/WestgateResorts/744000104839895",
+        "locations": [
+            "Winter Garden, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Westgate-Resorts",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
