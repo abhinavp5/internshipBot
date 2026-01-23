@@ -214263,7 +214263,7 @@
         "company_name": "Root Insurance",
         "id": "052213fc-a299-4297-8d52-650fdcb79ca2",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -325104,6 +325104,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SRI International",
+        "id": "e7f7d326-1656-4c3f-ae8d-8bdcfd2739e6",
+        "title": "Research Intern - Computational Design",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769181068,
+        "date_posted": 1769181068,
+        "url": "https://careers-sri.icims.com/jobs/6316/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SRI-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
