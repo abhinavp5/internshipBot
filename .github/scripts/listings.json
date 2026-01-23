@@ -49226,7 +49226,7 @@
         "company_name": "Stryker",
         "id": "a7d290b8-3b15-4d09-b5c8-c75b56647d65",
         "title": "2026 Summer Intern - Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -210140,7 +210140,7 @@
         "company_name": "Comcast",
         "id": "1d168d73-c1a1-46fc-a647-6a1ad352ea4c",
         "title": "Comcast Data Scientist Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -210399,7 +210399,7 @@
         "company_name": "Comcast",
         "id": "2fef703c-56cb-4012-9f19-7110f1623523",
         "title": "Comcast Machine Learning Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -291006,7 +291006,7 @@
         "company_name": "Comcast",
         "id": "d7b0b50c-bda6-464d-96d0-5cd3ae00bcb7",
         "title": "Embedded System Software Developer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -296220,7 +296220,7 @@
         "company_name": "Jones Lang LaSalle (JLL)",
         "id": "1a18a75a-cbee-474d-81db-6bc5ed998efb",
         "title": "Business Intelligence Intern - Chicago",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -298823,7 +298823,7 @@
         "company_name": "Geotab",
         "id": "87f9be9a-5e5d-431e-8108-49174ec58a0e",
         "title": "Data Platform Developer Intern - Orchestration",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -325128,6 +325128,175 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Graphcore",
+        "id": "c98343bc-6999-4e4b-aebd-f2e8eccc5a7f",
+        "title": "Intern \u2013 Systems Engineering - Compute AI Hardware Platforms",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1769183161,
+        "date_posted": 1769183161,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8386064002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "a61a12d0-6a2d-4d37-b8af-cf3e49ed5ee4",
+        "title": "AI/ML Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769183158,
+        "date_posted": 1769183158,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-ML-Intern_R-00174260",
+        "locations": [
+            "Remote in USA",
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Autodesk",
+        "id": "58dbe482-1363-47e3-a383-d91d547700b6",
+        "title": "Intern Full Stack Developer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769182935,
+        "date_posted": 1769182935,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---Canada---Ontario---OffsiteHome/Intern--Full-Stack-Developer_25WD92516-1",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "66b496d1-46f6-4e98-85ae-a9d51d0e5e90",
+        "title": "Software Programmer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769182632,
+        "date_posted": 1769182632,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Tullahoma/Software-Programmer-Intern_R0152408-1",
+        "locations": [
+            "Tullahoma, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Autodesk",
+        "id": "3c72bcab-2a9f-4f27-ac99-7c57f60d086b",
+        "title": "Intern Full Stack Developer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769182673,
+        "date_posted": 1769182673,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/AMER---Canada---Ontario---OffsiteHome/Intern--Full-Stack-Developer_25WD92516",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Appliances",
+        "id": "025cdbd3-053c-4ae7-a9b6-7b812684f7ce",
+        "title": "Software Engineering Co-op Spring 2027",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1769182182,
+        "date_posted": 1769182182,
+        "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Appliances",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Varian",
+        "id": "05d7f20e-3a3b-4ef2-9b00-b9b76b83c6f1",
+        "title": "Product Engineering Assistant \u2013 Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769181742,
+        "date_posted": 1769181742,
+        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Product-Engineering-Assistant--Co-op-_R-25864",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/670da3c5-bce0-4621-b519-da7ce7d528e6",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
