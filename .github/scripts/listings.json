@@ -186426,7 +186426,7 @@
         "company_name": "GitHub",
         "id": "0e3e4578-d48f-41d2-afc0-6fa0270f6f89",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -200424,7 +200424,7 @@
         "company_name": "Allegion",
         "id": "eceae38e-5346-4977-a2bf-b8e1fc21eb7e",
         "title": "Summer Intern - Product Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -269584,7 +269584,7 @@
         "company_name": "NVIDIA",
         "id": "3a2313ad-6424-488e-8f65-bf1c5f97cbf8",
         "title": "Performance Engineering Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -291446,7 +291446,7 @@
         "company_name": "Carpenter Technology",
         "id": "6a93962b-599e-41cf-b0f8-270eb40e13a3",
         "title": "Digital Technologies Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -294529,7 +294529,7 @@
         "company_name": "LinkedIn",
         "id": "aafa7740-5a85-4214-bda2-806643f66707",
         "title": "Apprentice Engineer - Backend",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -297195,7 +297195,7 @@
         "company_name": "LinkedIn",
         "id": "7d816486-84b7-4bcd-bafe-f4fad798be9f",
         "title": "Apprentice Engineer - Backend",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -320021,7 +320021,7 @@
         "company_name": "Tencent",
         "id": "7d1baa71-b0b6-4e4f-b1ee-19978dd659fa",
         "title": "Research Internship-Multimodal LLM - Speech/Music/Audio/Vision/Language",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -320161,7 +320161,7 @@
         "company_name": "Crane Co.",
         "id": "e1a136c3-4711-4a47-95f3-8ecca8e01f58",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -325197,6 +325197,195 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CIBC",
+        "id": "d97fb5a6-70bd-4d91-8b41-634213e86e3a",
+        "title": "Production Support Intern/Co-op - Enterprise Technology & Business Management",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1769210081,
+        "date_posted": 1769210081,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Production-Support-Co-op---Enterprise-Technology---Business-Management_2602032-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CIBC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sherwin-Williams",
+        "id": "bc9b0fc2-a643-4f69-8e79-275c1b9145e2",
+        "title": "Data Engineering & Business Intelligence Co-Op",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769210278,
+        "date_posted": 1769210278,
+        "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2602009",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Sherwin-Williams",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Paccar",
+        "id": "6121270b-c666-41cd-ad38-f677b76258fb",
+        "title": "IT Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769209983,
+        "date_posted": 1769209983,
+        "url": "https://jobs.paccar.com/job/Renton-IT-Summer-2026-Interns-IT-Product-Manager-Intern-WA-98057/1286889801/?ats=successfactors",
+        "locations": [
+            "Tukwila, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Paccar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Point72",
+        "id": "2feb0baf-d212-4827-9c88-22d0b99dd528",
+        "title": "Fund Flow Quantitative Researcher",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1769209922,
+        "date_posted": 1769209922,
+        "url": "https://boards.greenhouse.io/point72/jobs/8389431002",
+        "locations": [
+            "Stamford, CT",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Point72",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hitachi",
+        "id": "08442b10-00d2-4b33-8d8a-e852811fdb76",
+        "title": "Software Analyst Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769210032,
+        "date_posted": 1769210032,
+        "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern--Summer-2026-_R1011505",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hitachi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Keysight Technologies",
+        "id": "742814f7-7641-41b4-b24c-7fb313b16f19",
+        "title": "R&D Software/Firmware Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1769209826,
+        "date_posted": 1769209826,
+        "url": "https://jobs.keysight.com/jobs/51416?lang=en-us&icims=1",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JMP Statistical Discovery",
+        "id": "2944b180-bab0-4f9c-ac82-37ba8a01b6f0",
+        "title": "2026 JMP Summer Intern; Advanced Analytics Testing",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769209860,
+        "date_posted": 1769209860,
+        "url": "https://jmp-sas.icims.com/jobs/41235/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/JMP-Statistical-Discovery",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Bureau of Shipping",
+        "id": "ae302d8d-f526-441a-b2bf-00218b9f8efa",
+        "title": "Digital Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769209535,
+        "date_posted": 1769209535,
+        "url": "https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3990",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Bureau-Of-Shipping",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
