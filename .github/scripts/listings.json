@@ -296462,7 +296462,7 @@
         "company_name": "CAE",
         "id": "e41c6963-3461-46e0-b78e-2af0f6520b3e",
         "title": "Software Developer Intern - Immersive Environment",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -303881,7 +303881,7 @@
         "company_name": "CAE",
         "id": "3a39816d-0cd6-431f-ba08-94ac834b5392",
         "title": "C++ Content Pipeline Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -304138,7 +304138,7 @@
         "company_name": "Sun Life",
         "id": "8977c2f2-b73b-4bcc-8e98-ef9fd2f29190",
         "title": "Student \u2013 Jr. Analytics and Automation Developer - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -308091,7 +308091,7 @@
         "company_name": "Highmark Health",
         "id": "2234e237-f1dc-4151-809a-588a88936b89",
         "title": "ETDP Intern - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
