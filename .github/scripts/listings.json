@@ -126367,7 +126367,7 @@
         "company_name": "Compassion International",
         "id": "4cad432e-56cc-4915-9946-5e7cf1ae625a",
         "title": "Internship - IT and Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -152147,7 +152147,7 @@
         "company_name": "Electronic Arts",
         "id": "77a6911a-2c0b-4a1c-a7e4-0e040b087fa0",
         "title": "Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -179381,7 +179381,7 @@
         "company_name": "Paccar",
         "id": "82877554-5b71-4827-bdca-4f616af91e61",
         "title": "Summer 2026 Intern - Product Planning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -209707,7 +209707,7 @@
         "company_name": "Equitable Holdings",
         "id": "46d519b9-caca-43a1-a9c4-becef208af8a",
         "title": "2026 Summer Intern - Workplace Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -245986,7 +245986,7 @@
         "company_name": "Paccar",
         "id": "da3fc77f-077c-4d93-b5a8-b824d55cf02d",
         "title": "Materials Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -283696,7 +283696,7 @@
         "company_name": "Electronic Arts",
         "id": "db7dc7cf-8989-4dba-91cc-24c0499d89ca",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -312437,7 +312437,7 @@
         "company_name": "Genentech",
         "id": "2a77b838-71fb-4a62-8887-2ec3fe27d3ac",
         "title": "2026 Summer Intern - Data Analyst - Learning & Skill Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -312533,7 +312533,7 @@
         "company_name": "Genentech",
         "id": "e5d7e7c6-712d-4f52-9ed1-533c5462c1cb",
         "title": "Intern - Data Analyst - Learning & Skill Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -318139,7 +318139,7 @@
         "company_name": "Westgate Resorts",
         "id": "7e52c5f8-c50f-4bc3-9561-7da851eda20e",
         "title": "Mortgage Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -325038,5 +325038,26 @@
             "Associate's",
             "Certificate"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Reflect Orbital",
+        "id": "0eed90fc-c40c-4569-90f3-6b18251c4e8c",
+        "title": "Electrical Test Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769160773,
+        "date_posted": 1768547669,
+        "url": "https://jobs.ashbyhq.com/reflect-orbital/2579731f-d075-44a9-b102-7fb4939140f4/application",
+        "locations": [
+            "West Athens, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Reflect-Orbital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
