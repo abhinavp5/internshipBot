@@ -324642,13 +324642,13 @@
         "category": "Software",
         "company_name": "BP",
         "id": "b5cdd247-dd04-4fa6-8824-04b9d42577bc",
-        "title": "Summer Internship - Digital - Digital Engineering",
+        "title": "Digital Engineering Internship",
         "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
         ],
-        "date_updated": 1769153433,
+        "date_updated": 1769208115,
         "date_posted": 1769153433,
         "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-Kingdom---Sunbury/Summer-Internship---Digital---Digital-Engineering---UK_RQ101238",
         "locations": [
@@ -324657,7 +324657,9 @@
         "company_url": "https://simplify.jobs/c/BP",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": []
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
