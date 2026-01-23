@@ -282302,7 +282302,7 @@
         "company_name": "Barclays",
         "id": "a320e62e-b484-4b05-8a89-dca0bcefd2bd",
         "title": "Global Transaction Banking Degree Apprenticeship Programme",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -293516,7 +293516,7 @@
         "company_name": "Mastercard",
         "id": "bc091523-9f27-4577-bd61-2e1f91b5a452",
         "title": "Technical Program Management \u2013 Intern - Tpm - Summer 2026','Vancouver','Canada",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
