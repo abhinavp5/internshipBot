@@ -122,86 +122,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "HARMAN International",
-        "id": "e664d999-4516-4f78-8340-09d6d733a438",
-        "title": "Summer Intern - AI/ML Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1748394267,
-        "date_posted": 1748394267,
-        "url": "https://harman.wd3.myworkdayjobs.com/HARMAN/job/Bellevue---Washington-USA/Summer-Intern---AI-ML-Engineer_R-44864-2025",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/HARMAN-International",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Motive",
-        "id": "0ac6040d-cca1-48d6-9aee-5f1c50a04d8d",
-        "title": "Embedded Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1748394610,
-        "date_posted": 1748394610,
-        "url": "https://job-boards.greenhouse.io/gomotive/jobs/7994952002",
-        "locations": [
-            "Buffalo, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Motive",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RTX",
-        "id": "499782f3-7d5e-40ab-9990-8ab75f5be7df",
-        "title": "Services de pi\u00e8ces de rechange / Internship - Analyste de donn\u00e9es - Data Analyst - Spare Parts Services",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1748396218,
-        "date_posted": 1748396218,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/LOC13052-1000-Boul-Marie-VictorinLongueuilQuebecJ4G-1A1Canada/Stage-Automne-2025---Analyste-de-donnes--Services-de-pices-de-rechange---Internship-Fall-2025---Data-Analyst--Spare-Parts-Services_01768843",
-        "locations": [
-            "Longueuil, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SprintRay",
-        "id": "7e10f3a8-b6b7-4617-bd1f-e92b8e81f9a1",
-        "title": "Software Development Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1748397705,
-        "date_posted": 1748397705,
-        "url": "https://job-boards.greenhouse.io/sprintray/jobs/4553553006",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/193f6761-cde2-449c-982a-25101abe1d9f",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Samsung",
         "id": "f265daa1-f51c-4ceb-ac9a-64f4ab2bab20",
         "title": "Intern \u2013 Data Engineer",
@@ -27069,7 +26989,7 @@
         "company_name": "TikTok",
         "id": "92c99343-d3c6-4c90-91e7-fc37dd3f027c",
         "title": "Product Manager Intern - Tiktok-Product-Search Growth - 2026 Summer - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -28268,7 +28188,7 @@
         "company_name": "TikTok",
         "id": "34917420-7a17-4552-bb5e-ddca41e6df52",
         "title": "Product Manager Intern - Tiktok-Product Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -54603,7 +54523,7 @@
         "company_name": "TruStage",
         "id": "05356c42-b341-46de-b20a-3096f0a8b0f4",
         "title": "IT Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -64683,7 +64603,7 @@
         "company_name": "Terex",
         "id": "9e2e45af-38ad-4717-80d6-3cfc3036d5c4",
         "title": "Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -191164,7 +191084,7 @@
         "company_name": "Expedia Group",
         "id": "6e32054b-2f2a-453e-a598-76fb891e8035",
         "title": "Machine Learning Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -197448,7 +197368,7 @@
         "company_name": "Epic Games",
         "id": "65e900bf-755a-4667-a0f1-c30133c871a4",
         "title": "Gameplay Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -249857,7 +249777,7 @@
         "company_name": "Intuitive Surgical",
         "id": "8115eff0-f296-4ad9-98ae-c0003df21639",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -249879,7 +249799,7 @@
         "company_name": "Intuitive Surgical",
         "id": "7d99d7a3-3663-418c-add6-114e4cdd4447",
         "title": "AI/ML Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -251957,7 +251877,7 @@
         "company_name": "Camping World",
         "id": "c7caa7a9-5521-4152-882d-9e3329fa7157",
         "title": "Analytics & Insights Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -264723,7 +264643,7 @@
         "company_name": "Ripple",
         "id": "a92aaeba-5c6b-4bbf-b624-eeb7e0d164d0",
         "title": "Software Engineer Intern - Ripplex Quality Enforcers - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -265194,7 +265114,7 @@
         "company_name": "Ripple",
         "id": "318678ca-b1ec-406a-a2c5-fc610babfc55",
         "title": "Software Engineer Intern - Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -265348,7 +265268,7 @@
         "company_name": "Ripple",
         "id": "83b256ff-47f6-4305-a4d5-398993ec5732",
         "title": "Software Engineer Intern - Ripplex Quality Enforcers",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -265369,7 +265289,7 @@
         "company_name": "Ripple",
         "id": "4a98d779-a314-48b3-893c-caf2761dbbe9",
         "title": "Software Engineer Intern - Ripplex Platform - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -265453,7 +265373,7 @@
         "company_name": "Ripple",
         "id": "f4ee72d3-0da0-485f-bb42-bf407d48cc30",
         "title": "Software Engineer Intern - Ripplex Programmability - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -265621,7 +265541,7 @@
         "company_name": "Ripple",
         "id": "71d03395-fe4d-4910-a6b7-450d8ff55a52",
         "title": "Software Engineer Intern - Ripplex Platform - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -286900,7 +286820,7 @@
         "company_name": "T-Mobile",
         "id": "a8e0a784-a4ba-404e-b681-a54dd7fdf019",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -290381,7 +290301,7 @@
         "company_name": "T-Mobile",
         "id": "2d99af56-d0dc-4ea8-ba5a-4c6aa4052e63",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -296487,7 +296407,7 @@
         "company_name": "RTX",
         "id": "ddeec651-b4fe-4d1c-8e51-2f0766079091",
         "title": "2026 Intern - Data Management Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -296585,7 +296505,7 @@
         "company_name": "T-Mobile",
         "id": "65f6901a-b4a0-475a-9f7e-ca4c0978cf9e",
         "title": "Summer 2026 Software Engineering Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -296635,7 +296555,7 @@
         "company_name": "T-Mobile",
         "id": "d7347550-5463-4d23-a4da-97472cb64bec",
         "title": "Summer 2026 Software Engineering Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -309815,7 +309735,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "72f26484-2191-4e90-a8a9-988d25a5c6b7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -311889,7 +311809,7 @@
         "company_name": "Clearway Energy",
         "id": "23852298-318d-4368-b445-2034daa4426f",
         "title": "GIS Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -316977,7 +316897,7 @@
         "company_name": "Delta Dental",
         "id": "db13ad71-6d85-471a-ae19-62ea4a72bdda",
         "title": "Intern-Application Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -319423,7 +319343,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -324263,7 +324183,7 @@
         "company_name": "SharkNinja",
         "id": "2bdfdaeb-ab24-4a6c-946c-76ab55f3cdfd",
         "title": "Cost Engineering Co-op - Shark - July to December",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -324576,6 +324496,145 @@
             "Overland Park, KS"
         ],
         "company_url": "https://simplify.jobs/c/T-Mobile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Genentech",
+        "id": "94096452-6666-4eb5-af4b-8bfa02ac18e5",
+        "title": "Intern - Product Development Data Sciences",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769134524,
+        "date_posted": 1769134524,
+        "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Product-Development-Data-Sciences_202601-101259",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Genentech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Flock Safety",
+        "id": "55a7c2ce-9c4a-475c-b6c0-cc0452b2ded4",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769134676,
+        "date_posted": 1769134676,
+        "url": "https://jobs.ashbyhq.com/Flock%20Safety/28210ab6-8de5-43ff-880f-0aaa61bfa455/application",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/FlockSafety",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Westgate Resorts",
+        "id": "701e8177-9557-44c2-a882-1a39d0b2a4a7",
+        "title": "Mortgage Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769134408,
+        "date_posted": 1769134408,
+        "url": "https://jobs.smartrecruiters.com/WestgateResorts/744000105034865",
+        "locations": [
+            "Winter Garden, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Westgate-Resorts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Keysight Technologies",
+        "id": "155463e0-8b92-4fd4-99a8-0bd5317e46cd",
+        "title": "3D Print Technician",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1769134256,
+        "date_posted": 1769134256,
+        "url": "https://jobs.keysight.com/jobs/51376?lang=en-us&icims=1",
+        "locations": [
+            "Calabasas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sigma Computing",
+        "id": "b42690af-0c20-4ed6-89ef-d4164c869872",
+        "title": "Data Platform Graduate Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769135699,
+        "date_posted": 1769135699,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7598406003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Sigma-Computing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Copeland",
+        "id": "251c604e-fe2f-4b14-9dbd-7f40f2b5b8d0",
+        "title": "Product Management / Controls & Smart Home Technologies Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769135364,
+        "date_posted": 1769135364,
+        "url": "https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/St-Louis-MO-USA/XMLNAME-2026---Product-Management---Controls---Smart-Home-Technologies-Intern_JR113036",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Copeland",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
