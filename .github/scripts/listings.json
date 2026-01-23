@@ -120,48 +120,6 @@
         "category": "Software Engineering"
     },
     {
-        "date_updated": 1748455696,
-        "url": "https://jobs.ashbyhq.com/cluely/89809243-a79a-4a8f-a394-8e8b12743108",
-        "company_name": "Cluely",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "San Francisco, CA",
-            "In-person"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "ibttf",
-        "id": "79eb1afe-a512-4460-b39d-e47ff49d4245",
-        "date_posted": 1748455696,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Software Engineering"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Comcast",
-        "id": "79a8b736-bd3f-473c-9fe9-99ca3a8b680c",
-        "title": "Comcast Data Scientist Co-op",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Spring 2026"
-        ],
-        "date_updated": 1748456019,
-        "date_posted": 1748456019,
-        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Data-Scientist-Co-op_R413263",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Comcast",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Cibc",
