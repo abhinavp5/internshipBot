@@ -319323,7 +319323,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -322630,7 +322630,7 @@
         "company_name": "PennState University",
         "id": "a0ac07b2-42d3-4e54-9325-aaa9caf4438a",
         "title": "Undergraduate Cartographer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -325081,6 +325081,29 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Vernova",
+        "id": "1e422945-c4ed-47f7-8b77-f706d6578f73",
+        "title": "Data Analyst Intern - Competency Management",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769171544,
+        "date_posted": 1769171544,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Stafford/Data-Analyst-Intern---Competency-Management_R5029366-1",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
