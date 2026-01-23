@@ -206952,7 +206952,7 @@
         "company_name": "Vanguard",
         "id": "5b334b82-4782-46ed-8836-6a81873e19b2",
         "title": "Application Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -308157,7 +308157,7 @@
         "company_name": "Highmark Health",
         "id": "1238515d-0da0-4986-a22a-992b578619dd",
         "title": "ETDP Associate - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -316877,7 +316877,7 @@
         "company_name": "Delta Dental",
         "id": "db13ad71-6d85-471a-ae19-62ea4a72bdda",
         "title": "Intern-Application Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -319323,7 +319323,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
