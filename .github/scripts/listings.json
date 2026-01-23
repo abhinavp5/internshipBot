@@ -121,26 +121,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Samsung",
-        "id": "f265daa1-f51c-4ceb-ac9a-64f4ab2bab20",
-        "title": "Intern \u2013 Data Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1748403916,
-        "date_posted": 1748403916,
-        "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6590420003",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Samsung",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "BorgWarner",
         "id": "5504b001-fdc3-4611-87a1-61cba90f26f2",
@@ -21223,7 +21203,7 @@
         "company_name": "ByteDance",
         "id": "66d624a4-bf98-4f02-b127-38342b345cff",
         "title": "Software Engineer Intern - Multi-Cloud CDN Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -120741,7 +120721,7 @@
         "company_name": "Boston Scientific",
         "id": "969ac7ff-5e0f-4070-a813-ca6b3793f6b5",
         "title": "Software Engineer Intern - Data Analytics & Web Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -121951,7 +121931,7 @@
         "company_name": "ByteDance",
         "id": "01aa6b57-b8c9-4c8c-a3d0-11d8e1b43b23",
         "title": "Software Engineer Intern - CDN Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -204273,7 +204253,7 @@
         "company_name": "University Corporation for Atmospheric Research",
         "id": "4ed5bc65-c4aa-4ebb-b324-16784a34fe8b",
         "title": "SIParCS Undergraduate Student Internship - CISL - High Performance Computing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -272850,7 +272830,7 @@
         "company_name": "Nokia",
         "id": "2e035957-8158-4707-83f0-840d3950abf1",
         "title": "Full-stack & AI/Automation Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -293370,7 +293350,7 @@
         "company_name": "NVIDIA",
         "id": "4b68494d-c386-4ad6-a4c3-d1fc3fbc78d0",
         "title": "Systems Software Engineering Intern - Winter 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
