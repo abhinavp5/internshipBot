@@ -210487,7 +210487,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "KLA",
-        "id": "a8743ac5-a6a8-4ed3-94e5-b377893b2291",
+        "id": "6c852574-de52-4d2b-bb2e-34c823825d59",
         "title": "Systems Engineering Intern",
         "active": true,
         "terms": [
@@ -322408,7 +322408,7 @@
         "company_name": "Zebra Technologies",
         "id": "19b38bbb-93c9-4806-8697-0e16e9a67084",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -323906,7 +323906,7 @@
         "company_name": "Rubrik",
         "id": "1d24276b-eae1-46b1-861a-9fcc7ee8d576",
         "title": "Frontend Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -325059,5 +325059,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KLA",
+        "id": "a8743ac5-a6a8-4ed3-94e5-b377893b2291",
+        "title": "Algorithms/Machine Learning Engineering Intern - Multi-Modalities",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769123647,
+        "date_posted": 1764487053,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Systems-Engineering-Intern_2532243",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
