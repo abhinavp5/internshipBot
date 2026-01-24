@@ -1159,7 +1159,7 @@
 <td>Software Engineering Intern - Summer</td>
 <td>Denver, CO</td>
 <td><div align="center"><a href="https://autostore.wd3.myworkdayjobs.com/autostore/job/Denver-USA/Software-Engineering-Intern_JR102345?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0f9af6c7-8c91-4741-a9ed-0089831e661f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>17d</td>
+<td>18d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
