@@ -44004,7 +44004,7 @@
 <td>2026 Intern – Software Engineer Intern - AZ</td>
 <td>Tucson, AZ</td>
 <td>🔒</td>
-<td>17d</td>
+<td>18d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
