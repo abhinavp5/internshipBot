@@ -36365,7 +36365,7 @@
         "company_name": "Arrowstreet Capital",
         "id": "a2c236a0-e8fa-4b7c-9b43-f10356184549",
         "title": "Quantitative Researcher Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -161865,7 +161865,7 @@
         "company_name": "Tencent",
         "id": "8fcf267d-a585-4d0a-aac1-89b0866ac412",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -164190,7 +164190,7 @@
         "company_name": "Autodesk",
         "id": "f7c0f49f-5d3d-48f5-866f-32c82f54a90e",
         "title": "Doctor of Philosophy Intern - Autodesk Research - Model Alignment",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -186960,7 +186960,7 @@
         "company_name": "Tencent",
         "id": "46f04fe5-da07-475d-9153-2936754b1315",
         "title": "Research Internship - Agent",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -230363,7 +230363,7 @@
         "company_name": "Analog Devices",
         "id": "6175c865-e733-47e6-b021-62eba6fa1391",
         "title": "Digital Design Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -231208,7 +231208,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "a9de3a0f-ef87-4438-9084-e0b8fac52c69",
         "title": "Sensor Performance and Data Processing Grad Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -249919,7 +249919,7 @@
         "company_name": "American Fidelity",
         "id": "7c000eb2-9e6f-4136-a756-712079083406",
         "title": "Agentic AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -252876,7 +252876,7 @@
         "company_name": "NVIDIA",
         "id": "23d82f28-fda2-4580-9d90-afbb45d611df",
         "title": "Software Engineer - Robot Learning Platform",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -272193,7 +272193,7 @@
         "company_name": "ASML",
         "id": "3548c44c-24e4-49bf-a4d2-4192fabbb524",
         "title": "Intern - Field Service Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -278044,7 +278044,7 @@
         "company_name": "Apollo Global",
         "id": "da45775b-94ac-4780-b55e-6b440c98e494",
         "title": "2026 Summer Associate \u2013 Investment Portfolio Management & Analytics Intern - Apollo Aligned Alternatives Fund - Aaa",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -278107,7 +278107,7 @@
         "company_name": "Plug Power",
         "id": "52137002-3ecc-492c-9e15-eaad7728fa95",
         "title": "Embedded Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -286146,7 +286146,7 @@
         "company_name": "Great American Insurance Company",
         "id": "2416250f-acdc-4969-b0d0-a77c866630d9",
         "title": "Paired Programming Developer - Claims Lab Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -298757,7 +298757,7 @@
         "company_name": "Autodesk",
         "id": "030b5630-aec5-4865-a5f3-282b61a0a822",
         "title": "Intern AI Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -303793,7 +303793,7 @@
         "company_name": "Core & Main",
         "id": "5e465312-21bb-4f52-9eb3-48e6f76e1155",
         "title": "Meter Specialist Trainee",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -308184,7 +308184,7 @@
         "company_name": "Cadence Design Systems",
         "id": "87b80f5d-0d60-4152-a777-7d4fe3e07a75",
         "title": "Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -319687,7 +319687,7 @@
         "company_name": "KLA",
         "id": "5b065fcf-ab6e-4f40-a0a1-f35a7f46e81c",
         "title": "Supply Chain Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -320266,7 +320266,7 @@
         "company_name": "Autodesk",
         "id": "244b5d51-7fee-44da-9192-dd642b0387f9",
         "title": "PhD Intern - AI Researcher for CAD - B-Rep",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -322564,7 +322564,7 @@
         "company_name": "Motorola",
         "id": "d57bcd14-cbd5-4d53-9c98-8a5526c57a43",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -326294,7 +326294,7 @@
         "company_name": "Stryker",
         "id": "43e7d428-aea9-40cb-984f-04a8549599c6",
         "title": "3D Computer Graphics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
