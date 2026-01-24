@@ -136053,7 +136053,7 @@
         "company_name": "Deloitte",
         "id": "334ae27d-eb8f-486e-8f77-ac66729b6516",
         "title": "Summer Scholar - Government & Public Services - Tech Packages",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -289624,7 +289624,7 @@
         "company_name": "The Federal Reserve System",
         "id": "0bc98a83-87f0-43b6-aaf1-c2ec0a8826f2",
         "title": "Research Department \u2013 Business Outlook Survey Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -301686,7 +301686,7 @@
         "company_name": "Deloitte",
         "id": "08f29ba5-ddd5-4034-ad62-0487e2886aca",
         "title": "Deloitte Consulting LLP - Government & Public Services - Analyst,AI & Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -311743,7 +311743,7 @@
         "company_name": "The Boeing Company",
         "id": "3a833e73-f9c6-485f-bfd0-a1470bd1bc6f",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -326461,7 +326461,7 @@
         "company_name": "Adtran",
         "id": "729062c8-9fac-457d-bc9f-faceece1272f",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
