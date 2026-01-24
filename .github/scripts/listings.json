@@ -142,47 +142,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "LiveRamp",
-        "id": "07331610-c980-4c31-b0d7-38ebf7c15cb7",
-        "title": "Software Engineer \u2013 Co-op - Clean Rooms",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1748539805,
-        "date_posted": 1748539805,
-        "url": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Software-Engineer--Co-op---Clean-Rooms_JR011637",
-        "locations": [
-            "SF",
-            "Little Rock, AR"
-        ],
-        "company_url": "https://simplify.jobs/c/LiveRamp",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "IKO",
-        "id": "34b638ec-fbe9-4373-873b-21a3fd0027fa",
-        "title": "BI Developer Co-Op",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1748539463,
-        "date_posted": 1748539463,
-        "url": "https://iko.wd3.myworkdayjobs.com/IKO_Careers/job/Mississauga-ON/BI-Developer-Co-Op_REQ-10856",
-        "locations": [
-            "Mississauga, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/IKO",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Sysco",
         "id": "093a212b-1407-40e0-a2b2-cab1355d864a",
@@ -73557,7 +73516,7 @@
         "company_name": "AeroVironment",
         "id": "7ebf973b-bf80-4b92-8b1d-cc3e12675197",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -115621,7 +115580,7 @@
         "company_name": "Jade Global",
         "id": "e90ddb6c-173a-4eb0-8dd0-675d14c5f873",
         "title": "Data/Ai Engineer Intern - Data & AI Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -190067,7 +190026,7 @@
         "company_name": "GE Vernova",
         "id": "aaf9224e-d8cf-4599-874a-15d2b37b3f58",
         "title": "GE Vernova Prompt Engineering Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -208111,7 +208070,7 @@
         "company_name": "Solar Turbines",
         "id": "5766a4a6-136e-441e-97c7-1c312095ee12",
         "title": "2026 Internship - Data Steward",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Winter 2025",
@@ -260257,7 +260216,7 @@
         "company_name": "University Corporation for Atmospheric Research",
         "id": "ade09ed0-b0ce-4c6a-bcc5-6c18a70fa1e3",
         "title": "Unidata Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -272485,7 +272444,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "f5df3c99-c3af-4651-96b9-286e971a6753",
         "title": "Hpe Labs \u2013 Intern - AI Research Lab Research Associate",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -281872,7 +281831,7 @@
         "company_name": "GE Aerospace",
         "id": "f625201c-4feb-49e4-8f28-41527ed27d3e",
         "title": "Engineering Engines Co-op - Computer or Software Engineering - US (Location) Fall 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -282456,7 +282415,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "835d6175-3718-48e2-8c5b-76b2363a0f21",
         "title": "Intern \u2013 Investments - Total Fund Management - Global Trading",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -286439,7 +286398,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "4f70e52a-2b3f-4ba9-a59b-9fb9d235b760",
         "title": "Research Intern - Audio and Acoustics",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -313840,7 +313799,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "2d9968f5-f492-4230-8c30-14ab19d36e67",
         "title": "Assurance Artificial Intelligence Technology \u2013 Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -316042,7 +316001,7 @@
         "company_name": "Autodesk",
         "id": "8a9c732f-992c-4b46-b41b-1c57d8013be9",
         "title": "Machine Learning Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -317965,7 +317924,7 @@
         "company_name": "CoStar Group",
         "id": "dbd61c97-6b9b-4d3f-a0ff-18ba76aedc9b",
         "title": "ML Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2027",
@@ -318610,7 +318569,7 @@
         "company_name": "Bank of Montreal",
         "id": "d0e24301-2a11-4800-828b-8e69de9c105c",
         "title": "Software Developer e2 Co-op/Internship - Summer 2026 - Months",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -322850,7 +322809,7 @@
         "company_name": "Rocket Companies",
         "id": "5a1768e9-2a3e-4d9f-a7be-a87d458d41be",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -326935,5 +326894,30 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Franklin Templeton",
+        "id": "b3948082-9dab-476a-919f-677e76d981e8",
+        "title": "Technology Order Management Execution & Compliance",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1769259279,
+        "date_posted": 1769259279,
+        "url": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Mateo-California-United-States-of-America/Technology-Order-Management-Execution---Compliance_866311",
+        "locations": [
+            "Stamford, CT",
+            "San Mateo, CA",
+            "San Ramon, CA",
+            "Fort Lauderdale, FL",
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Franklin-Templeton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
