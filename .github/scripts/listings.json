@@ -46199,7 +46199,7 @@
         "company_name": "Micron Technology",
         "id": "02450600-6905-445e-bcb9-7d14abd4f753",
         "title": "Intern \u2013 Product Yield Analysis and Analytics - Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -51904,7 +51904,7 @@
         "company_name": "NVIDIA",
         "id": "fa62e711-af00-4269-b218-1f6d7b45bc95",
         "title": "NVIDIA 2026 Internships: PhD Generative AI Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -68378,7 +68378,7 @@
         "company_name": "Genuine Parts Company",
         "id": "85af988d-2c72-41e0-9cc0-837d6252313a",
         "title": "Mobile Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -146084,7 +146084,7 @@
         "company_name": "Q2",
         "id": "4ace8d90-16b6-4d9a-ac3e-c8d09dcc4818",
         "title": "Product Management Intern - Product Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -154412,7 +154412,7 @@
         "company_name": "Micron Technology",
         "id": "921b2bdf-1754-4b42-80a3-08694ebe586f",
         "title": "Intern - Product Engineering - Hbm",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -226945,7 +226945,7 @@
         "company_name": "AbbVie",
         "id": "42abcc91-b338-4b13-9ab2-00c4df3422e0",
         "title": "2026 Graph Machine Learning Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -250405,7 +250405,7 @@
         "company_name": "Dexcom",
         "id": "e23a372d-844f-40cb-ad50-852378c3a0c4",
         "title": "Intern 1 \u2013 IT Data Analytics Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -250426,7 +250426,7 @@
         "company_name": "Dexcom",
         "id": "df50a2eb-ac7d-4010-bb7e-8c55cdafb26b",
         "title": "Intern 1 - Data and Manufacturing Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -271375,7 +271375,7 @@
         "company_name": "GlobalFoundries",
         "id": "ba450db5-3196-4470-b902-15d948e50c75",
         "title": "Photonic Test and Measurement Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -272879,7 +272879,7 @@
         "company_name": "AbbVie",
         "id": "6afd2903-384a-4283-b15a-896f6b3c1cb1",
         "title": "2026 Graph Machine Learning Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -280276,7 +280276,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "AbbVie",
-        "id": "a5cda7bd-0d20-423e-961b-e5c7a69d1584",
+        "id": "7245fe53-8d24-4e7d-bf1e-e31625792cf0",
         "title": "Statistics Intern",
         "active": true,
         "terms": [
@@ -292799,7 +292799,7 @@
         "company_name": "Barry-Wehmiller",
         "id": "509b2354-8171-4a11-84ea-a39c20f6242a",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -305607,7 +305607,7 @@
         "company_name": "PennState University",
         "id": "31a6db78-1795-45ff-a8cf-7fa9073f5fbf",
         "title": "IST Graduate Assistant - Dr. Calacci",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -309281,7 +309281,7 @@
         "company_name": "doTERRA",
         "id": "c2b88db1-8007-4398-b27f-522d6a31d348",
         "title": ",",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -310025,7 +310025,7 @@
         "company_name": "ICF International",
         "id": "3f4e0896-7f13-4a69-926a-4455480723c1",
         "title": "Grid Planning Intern - Grid Planning",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -313073,7 +313073,7 @@
         "company_name": "The Walt Disney Company",
         "id": "2136d7bd-4bc9-426d-b9a8-295e7f37dd46",
         "title": "Disneyland Costuming Project Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -313187,7 +313187,7 @@
         "company_name": "Scottish Water",
         "id": "ef512049-d6cd-4549-b35e-eac0ca3a525b",
         "title": "Intern Programme - Net Zero Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -315616,7 +315616,7 @@
         "company_name": "Jabil",
         "id": "77949b54-b484-4e6e-a37a-201da2e81ca9",
         "title": "Data Science Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -319095,7 +319095,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -324376,7 +324376,7 @@
         "company_name": "Copeland",
         "id": "251c604e-fe2f-4b14-9dbd-7f40f2b5b8d0",
         "title": "Product Management / Controls & Smart Home Technologies Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -324984,7 +324984,7 @@
         "company_name": "Amentum",
         "id": "66b496d1-46f6-4e98-85ae-a9d51d0e5e90",
         "title": "Software Programmer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -326438,7 +326438,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "86714f3d-ceae-4a2a-8e81-6d6183fb9e00",
         "title": "Software Designer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -327018,6 +327018,78 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "EVgo",
+        "id": "d5522ab9-796e-420b-93ad-c03292ff43ee",
+        "title": "Intern Data Analyst",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1769267788,
+        "date_posted": 1769267788,
+        "url": "https://jobs.jobvite.com/evgo/job/opLmzfwP?nl=1&nl=1&fr=false",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/EVgo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Boston Consulting Group",
+        "id": "aba3cf97-4ffd-4dce-876d-ab3305231512",
+        "title": "AI Engineer Intern - BCG X",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769267948,
+        "date_posted": 1769267948,
+        "url": "https://careers.bcg.com/global/en/job/56635",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Boston Consulting Group",
+        "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769267948,
+        "date_posted": 1769267948,
+        "url": "https://careers.bcg.com/global/en/job/56634",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
