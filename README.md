@@ -4606,7 +4606,7 @@
 <td>Staff Scientist/Engineering Intern - Summer 2026</td>
 <td>Boston, MA<br>Lowell, MA<br>Wakefield, MA</td>
 <td><div align="center"><a href="https://careers-wseinc.icims.com/jobs/3311/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b59408f2-51dc-4bc5-8de5-49563abe2f4b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company">TD Bank</a></strong></td>
