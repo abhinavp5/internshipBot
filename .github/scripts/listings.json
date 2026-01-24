@@ -137861,7 +137861,7 @@
         "company_name": "Deloitte",
         "id": "40ad34b7-6193-4f1a-8e39-d8e37af81ef9",
         "title": "Audit & Assurance Intern - Risk Technology & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -226945,7 +226945,7 @@
         "company_name": "AbbVie",
         "id": "42abcc91-b338-4b13-9ab2-00c4df3422e0",
         "title": "2026 Graph Machine Learning Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -250193,7 +250193,7 @@
         "company_name": "Rivian",
         "id": "4a3e6e43-b9ab-417f-af73-86b1fa368e47",
         "title": "Research Intern - Low Voltage Electronics",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Fall 2026"
@@ -272879,7 +272879,7 @@
         "company_name": "AbbVie",
         "id": "6afd2903-384a-4283-b15a-896f6b3c1cb1",
         "title": "2026 Graph Machine Learning Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -283420,7 +283420,7 @@
         "company_name": "Electronic Arts",
         "id": "de7967f6-3cbd-449a-9544-ff65c5f7a600",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -325611,7 +325611,7 @@
         "company_name": "AbbVie",
         "id": "f0ef331e-d3d9-444f-921b-e40ea7998780",
         "title": "Business Technology Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
