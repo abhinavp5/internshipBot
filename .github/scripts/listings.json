@@ -120,26 +120,6 @@
         "category": "Software Engineering"
     },
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Bombora",
-        "id": "18be1d80-6f2c-4cc3-846b-223ba1e2b889",
-        "title": "Business Intelligence Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1748492171,
-        "date_posted": 1748492171,
-        "url": "https://bombora.com/about/bombora-careers?gh_jid=8015606002",
-        "locations": [
-            "Reno, NV"
-        ],
-        "company_url": "https://simplify.jobs/c/Bombora",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1752132765,
         "url": "https://job-boards.greenhouse.io/wurljobs/jobs/4454109006?gh_src=5874d0446us",
         "company_name": "Wurl",
@@ -297428,7 +297408,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "8b262b6e-9a7e-4972-aab3-2556bc8710dd",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -299431,7 +299411,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "97f1c586-8bc3-4cd3-9b04-3ba353821b95",
         "title": "Firmware Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
