@@ -122,27 +122,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Cibc",
-        "id": "f8b6942d-6c5d-4c5d-bc7f-95bab1a35b8c",
-        "title": "Technical Systems Analyst Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1748550772,
-        "date_posted": 1748550772,
-        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Technical-Systems-Analyst-Co-op---8-Months_2512745-1",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Cibc",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Sysco",
         "id": "093a212b-1407-40e0-a2b2-cab1355d864a",
         "title": "Functional Analyst Intern",
