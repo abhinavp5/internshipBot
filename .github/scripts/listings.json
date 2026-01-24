@@ -177053,7 +177053,7 @@
         "company_name": "Thales",
         "id": "3687b34d-56ce-47ef-9829-c96fcd62633e",
         "title": "2026 Software Engineering Apprentice \u2013 Level 6 Digital and Technology Solutions Degree Apprenticesh\u2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -223752,7 +223752,7 @@
         "company_name": "AbbVie",
         "id": "b6887522-61f3-46ae-bb60-80b649182891",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -272900,7 +272900,7 @@
         "company_name": "AbbVie",
         "id": "870275a4-82c3-4c7f-9408-9ae5ff501343",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -280276,7 +280276,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "AbbVie",
-        "id": "7245fe53-8d24-4e7d-bf1e-e31625792cf0",
+        "id": "a5cda7bd-0d20-423e-961b-e5c7a69d1584",
         "title": "Statistics Intern",
         "active": true,
         "terms": [
@@ -314522,7 +314522,7 @@
         "company_name": "Waters Corporation",
         "id": "5ffb5e80-5455-4d53-a9e9-7c94b9a8343c",
         "title": "Intern \u2013 Software Development - Engineering Tools",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -326973,5 +326973,26 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Oracle",
+        "id": "9365c88f-0e14-4ef1-9b85-02f866792573",
+        "title": "Data Center Oracle Pathways Trainee",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1769249062,
+        "date_posted": 1767913843,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/321900",
+        "locations": [
+            "Stamford, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
