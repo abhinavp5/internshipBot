@@ -120,26 +120,6 @@
         "category": "Software Engineering"
     },
     {
-        "date_updated": 1752132765,
-        "url": "https://job-boards.greenhouse.io/wurljobs/jobs/4454109006?gh_src=5874d0446us",
-        "company_name": "Wurl",
-        "title": "Full Stack Software Engineer Intern",
-        "locations": [
-            "Remote in United States"
-        ],
-        "terms": [
-            "Fall 2025"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "GaryZhous",
-        "id": "a6816326-091b-4e8c-a9e6-2d6a7ebe31d9",
-        "date_posted": 1748494960,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Software Engineering"
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Cibc",
@@ -210191,7 +210171,7 @@
         "company_name": "Comcast",
         "id": "2fef703c-56cb-4012-9f19-7110f1623523",
         "title": "Comcast Machine Learning Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -286847,7 +286827,7 @@
         "company_name": "Sun Life",
         "id": "f90d5a20-45d1-4d9b-8b31-db4f64081257",
         "title": "PFI Investment Analyst Intern - SLC Management - Waterloo Summer Opportunity",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -287705,7 +287685,7 @@
         "company_name": "Sun Life",
         "id": "aac9e165-a3c8-48ed-9b96-b197bf95b6d7",
         "title": "PFI Investment Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -288161,7 +288141,7 @@
         "company_name": "Snorkel AI",
         "id": "58923daa-dead-4a92-b585-f98c73743f42",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -290798,7 +290778,7 @@
         "company_name": "Comcast",
         "id": "d7b0b50c-bda6-464d-96d0-5cd3ae00bcb7",
         "title": "Embedded System Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -294492,7 +294472,7 @@
         "company_name": "The Coca-Cola Company",
         "id": "c95c8427-35ad-4b09-aba3-0a60536004f7",
         "title": "Product Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -294630,7 +294610,7 @@
         "company_name": "The Coca-Cola Company",
         "id": "f93d84cd-6e22-4285-bf79-6d404985ff1b",
         "title": "Information / Operational Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -294842,7 +294822,7 @@
         "company_name": "The Coca-Cola Company",
         "id": "5c56a944-0cca-4893-9f36-55979bfb9cb7",
         "title": "IT Operations & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -296466,7 +296446,7 @@
         "company_name": "The Coca-Cola Company",
         "id": "f3676de1-577e-475f-8b78-e6854cbdab2a",
         "title": "Marketing Technology Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -297736,7 +297716,7 @@
         "company_name": "The Coca-Cola Company",
         "id": "04f05efd-3815-4000-bceb-640726ab3ce0",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -324210,7 +324190,7 @@
         "company_name": "Assurant",
         "id": "bd185c5c-29b4-4caf-9a54-18c1ed890e76",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
