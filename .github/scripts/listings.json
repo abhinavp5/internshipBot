@@ -120,108 +120,6 @@
         "category": "Software Engineering"
     },
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sysco",
-        "id": "093a212b-1407-40e0-a2b2-cab1355d864a",
-        "title": "Functional Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1748568291,
-        "date_posted": 1748568291,
-        "url": "https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Sysco-Corporate/Functional-Analyst-Intern_R202044",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Sysco",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "St. Jude Children's Research Hospital",
-        "id": "166bd487-a42e-466b-a608-4beb446ff4da",
-        "title": "Intern \u2013 Data Science",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1748570099,
-        "date_posted": 1748570099,
-        "url": "https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Intern---Data-Science---Memphis--TN-or-Remote-_R0009812",
-        "locations": [
-            "Remote in USA",
-            "Memphis, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/St-Jude-Childrens-Research-Hospital",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Bank of Montreal",
-        "id": "ade73e38-88e9-4fee-9ca2-aed463b668b7",
-        "title": "Data Analytics and Reporting \u2013 Co-op/Internship",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1748572045,
-        "date_posted": 1748572045,
-        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Analytics-and-Reporting---Fall-2025--Co-op-Internship----4-Months_R250014092",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/BMO",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Comscore",
-        "id": "697a53d6-e1da-4715-a6f4-2e5410905615",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1748571831,
-        "date_posted": 1748571831,
-        "url": "https://comscore.wd5.myworkdayjobs.com/en-US/External/job/VA---Reston/Software-Engineer-Intern_REQ1461",
-        "locations": [
-            "Remote in USA",
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/35c46844-c46b-40a6-9ed6-25a554223d8b",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "0c6dfff3-0234-4e98-a564-54d2ace49051",
-        "title": "Networking Software Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1748573304,
-        "date_posted": 1748573304,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Networking-Software-Intern--Fall--2025_JR1998188",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1749266440,
         "url": "https://recruiting.ultipro.ca/INF5000IFTC/JobBoard/2526a5be-e33e-4de9-90ae-3b23d42b9441/OpportunityDetail?opportunityId=d11cb2fc-e1e3-4809-bd02-5dcdc9db7bb1",
         "company_name": "Info-Tech Research Group",
@@ -141445,7 +141343,7 @@
         "company_name": "Qualcomm",
         "id": "0e93ad44-c9c2-40bc-bdc8-ca32abac4ad0",
         "title": "Intern - Systems Software Internship - Software Enablement - CPU Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -226703,7 +226601,7 @@
         "company_name": "AbbVie",
         "id": "42abcc91-b338-4b13-9ab2-00c4df3422e0",
         "title": "2026 Graph Machine Learning Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -272637,7 +272535,7 @@
         "company_name": "AbbVie",
         "id": "6afd2903-384a-4283-b15a-896f6b3c1cb1",
         "title": "2026 Graph Machine Learning Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -318853,7 +318751,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -326963,5 +326861,51 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HNTB",
+        "id": "74d885bb-888e-4360-8534-623426b9820f",
+        "title": "Artificial Intelligence Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769308285,
+        "date_posted": 1769308285,
+        "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Arlington-VA-Alexandria/Artificial-Intelligence-Intern---Summer-2026_R-28877",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/HNTB",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HNTB",
+        "id": "d51c1c86-0bad-4398-8d67-eec37914ba4d",
+        "title": "Artificial Intelligence Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769308164,
+        "date_posted": 1769308164,
+        "url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Arlington-VA-Alexandria/Artificial-Intelligence-Intern---Summer-2026_R-28877-2",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/HNTB",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
