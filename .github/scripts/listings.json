@@ -241064,7 +241064,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "13b7c241-9713-48a9-9956-7b0189c0e26b",
         "title": "ATS Technology Intern Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -320455,7 +320455,7 @@
         "company_name": "T-Mobile",
         "id": "fc23ea2c-ba46-41a4-b9d1-0c61e64e84f6",
         "title": "Summer 2026 Software Development Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -326887,5 +326887,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tri-State Generation and Transmission Association",
+        "id": "cd97c67f-1fff-40c7-9c91-60656fea9e35",
+        "title": "Energy Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769028004,
+        "date_posted": 1769028004,
+        "url": "https://fa-exbd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/556",
+        "locations": [
+            "Westminster, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Tri-State-Generation-And-Transmission-Association",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
