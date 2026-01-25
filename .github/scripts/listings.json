@@ -122,29 +122,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Amazon",
-        "id": "fb514be0-d8f4-42b6-9782-4cd8ccb0a51f",
-        "title": "SDE Intern - Summer",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1748635168,
-        "date_posted": 1748635168,
-        "url": "https://amazon.jobs/en/jobs/2996393/sde-intern-summer",
-        "locations": [
-            "Palo Alto, CA",
-            "Seattle, WA",
-            "Redmond, WA",
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "NVIDIA",
         "id": "382debb4-35a8-43e7-ba07-b0a0c3a570eb",
         "title": "Software Engineering Intern - AI Tools Analysis",
@@ -310943,7 +310920,7 @@
         "company_name": "T-Mobile",
         "id": "cc74055f-7be7-44d0-927b-a9c027856e25",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
