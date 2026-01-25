@@ -281278,7 +281278,7 @@
         "company_name": "GE Healthcare",
         "id": "f329220d-18be-4497-9c99-cf9b3e0dc9d5",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -308868,7 +308868,7 @@
         "company_name": "CAE",
         "id": "3c3bbeaa-b838-446d-9d3d-2758fe1eb7d4",
         "title": "C-GE-416 \u2013 C++ CGF Unreal Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
