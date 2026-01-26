@@ -121,106 +121,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Scout AI",
-        "id": "acd41f3e-a666-4733-81a8-71fc1edc9611",
-        "title": "AI Engineer Intern - Fury Team",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1748654250,
-        "date_posted": 1748654250,
-        "url": "https://job-boards.greenhouse.io/scoutai/jobs/4742787008",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Scout-AI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Scout AI",
-        "id": "6effc68e-ae06-46c8-8639-03a124d2dcf6",
-        "title": "AI Engineer Intern - Fury Team",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1748654249,
-        "date_posted": 1748654249,
-        "url": "https://job-boards.greenhouse.io/scoutai/jobs/4742812008",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Scout-AI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Bank of Montreal",
-        "id": "19e5699f-d559-4b58-b6f0-543d940d5bda",
-        "title": "Data Analytics & Reporting Analyst \u2013 Co-op/Internship",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1748660458,
-        "date_posted": 1748660458,
-        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Analytics---Reporting-Analyst---Fall-2025--Co-op-Internship----8-Months_R250014159",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/BMO",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "General Motors",
-        "id": "4f5e5e01-df2c-4d4c-8c30-200109a90442",
-        "title": "2025 Summer Intern - ADAS Insights",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1748660039,
-        "date_posted": 1748660039,
-        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2025-Summer-Intern---ADAS-Insights_JR-202509506",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Motors",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "HeyGen",
-        "id": "c1b50b62-a034-444a-8294-d02e8b74ebce",
-        "title": "Growth Automation Intern - Community",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1748659196,
-        "date_posted": 1748659196,
-        "url": "https://job-boards.greenhouse.io/heygen/jobs/4748402007",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/HeyGen",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Point72",
         "id": "40191c78-13b8-4a10-a98b-9e59b67b2d9d",
@@ -223264,7 +223164,7 @@
         "company_name": "AbbVie",
         "id": "b6887522-61f3-46ae-bb60-80b649182891",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -272412,7 +272312,7 @@
         "company_name": "AbbVie",
         "id": "870275a4-82c3-4c7f-9408-9ae5ff501343",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -326899,6 +326799,53 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ASSA ABLOY",
+        "id": "3924f93e-81f6-4cf4-b4c9-f160bdb0181b",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769393828,
+        "date_posted": 1769393828,
+        "url": "https://assaabloy.jobs2web.com/job/Salem-Software-Engineering-Intern-VA-24153/1286979601/?ats=successfactors",
+        "locations": [
+            "Roanoke, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/ASSA-ABLOY",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "9279e06a-0698-4b37-be5c-8dd180a7fa4f",
+        "title": "Early Career Talent - Software Engineering - Apps",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1769393102,
+        "date_posted": 1769393102,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000105481465",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
