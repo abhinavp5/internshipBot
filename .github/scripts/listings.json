@@ -56570,7 +56570,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "61db80c7-2690-4ac8-a916-c4b1ff679672",
         "title": "2026 Summer Corporate Intern - Digital and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -185689,7 +185689,7 @@
         "company_name": "GitHub",
         "id": "0e3e4578-d48f-41d2-afc0-6fa0270f6f89",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -198062,7 +198062,7 @@
         "company_name": "SharkNinja",
         "id": "5b31df35-ddfa-4922-accc-be4ee9f1d7b2",
         "title": "Summer 2026: Ecommerce Intern - Amazon - May to August",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -234216,7 +234216,7 @@
         "company_name": "Trimble",
         "id": "aaaa3fc4-0b0a-499f-8b3f-84bc71097953",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -294501,7 +294501,7 @@
         "company_name": "KLA Corporation",
         "id": "91fc5f4b-f326-4f21-983b-28ce1867efb0",
         "title": "HPC Hardware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -295408,7 +295408,7 @@
         "company_name": "NVIDIA",
         "id": "f8336933-ac06-4840-8647-b51b0b112609",
         "title": "Quantum Computing Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -317302,7 +317302,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "674f23ff-fd7a-4367-8c53-4aa15c434466",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -320994,7 +320994,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "377cde1b-3654-44ad-8167-02d579b614f7",
         "title": "Calibration Process Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -321042,7 +321042,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "09a62f80-1a57-409b-bcbe-ea8930e81871",
         "title": "Calibration Process Optimization Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -326107,7 +326107,7 @@
         "company_name": "Genentech",
         "id": "3e8e37a4-100a-4757-b7ac-aa7eba52fbe3",
         "title": "Intern - Data Science Acceleration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
