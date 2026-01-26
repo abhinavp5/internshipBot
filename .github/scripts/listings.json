@@ -7086,7 +7086,7 @@
         "company_name": "DRW",
         "id": "c7343fde-2dbc-478d-a4b2-9a1ab06f3b52",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2027",
@@ -282591,7 +282591,7 @@
         "company_name": "Hive Financial Systems",
         "id": "2a0144a0-128e-42bc-b236-20379722b596",
         "title": "Analytics Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -293025,7 +293025,7 @@
         "company_name": "S&P Global ",
         "id": "1a52d215-e608-4fff-a76f-d4c6aabd319e",
         "title": "Software Engineer Intern - Early Careers",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -302432,7 +302432,7 @@
         "company_name": "Optiver",
         "id": "bdb9ce4b-3164-4fb4-ad2b-bbd8ce03dc44",
         "title": "Futurefocus Tech 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -314882,7 +314882,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "c1d62f5a-cea2-4042-b87f-41459057be27",
         "title": "Engineer - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -322614,7 +322614,7 @@
         "company_name": "RTX",
         "id": "57f68e40-9bc1-43ff-a928-cc5db809cc74",
         "title": "Software Engineering Co-Op - Summer/Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -324325,7 +324325,7 @@
         "company_name": "Leidos",
         "id": "a61a12d0-6a2d-4d37-b8af-cf3e49ed5ee4",
         "title": "AI/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
