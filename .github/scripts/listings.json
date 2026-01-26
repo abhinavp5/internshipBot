@@ -209300,7 +209300,7 @@
         "company_name": "Comcast",
         "id": "1d168d73-c1a1-46fc-a647-6a1ad352ea4c",
         "title": "Comcast Data Scientist Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -249075,7 +249075,7 @@
         "company_name": "Northrop Grumman",
         "id": "74170680-f4ab-4855-a7c4-5e54e25b0d12",
         "title": "Cyber Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262549,7 +262549,7 @@
         "company_name": "Mackenzie Investments",
         "id": "f7c1547f-f31f-4d66-9110-df0b49e4054e",
         "title": "Summer Intern 2026 - Investment Management - Multi-Asset Allocation",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -268740,7 +268740,7 @@
         "company_name": "ASML",
         "id": "06424295-34ca-4f7a-88b7-0bb5ad17827a",
         "title": "Intern - Platform Software Engineer In Test",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -273184,7 +273184,7 @@
         "company_name": "DotDash Meredith",
         "id": "42294ea5-eb49-4d6f-8dd1-cc4ab2d5191d",
         "title": "Intern - Product - D/Cipher",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -273226,7 +273226,7 @@
         "company_name": "DotDash Meredith",
         "id": "2bf88e83-a22f-43dd-9e83-98e685b73066",
         "title": "Intern - Backend Brand Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -301852,7 +301852,7 @@
         "company_name": "TD Bank",
         "id": "39824900-1529-4a10-a808-fdf82a9550bd",
         "title": "Chief Operating Officer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -302932,7 +302932,7 @@
         "company_name": "The Boeing Company",
         "id": "042e85d4-d693-4d65-bcfa-4550a3c6baee",
         "title": "Boeing Pre-Employment Training - Bpet - Students",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -314663,7 +314663,7 @@
         "company_name": "Inspire Medical Systems",
         "id": "765b3a08-ce91-454a-971f-dad040429f07",
         "title": "Algorithm Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -316997,7 +316997,7 @@
         "company_name": "AGCO",
         "id": "7617fe72-2bd7-4e55-8cdc-37d051d1f73f",
         "title": "Graduate Intern - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -317919,7 +317919,7 @@
         "company_name": "Bank of Montreal",
         "id": "b0982b72-c692-41ef-9952-a4783c1dd0d0",
         "title": "Junior Software Developer \u2013 Co-op/Internship - Summer 2026 - 4 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -318384,7 +318384,7 @@
         "company_name": "Bank of Montreal",
         "id": "684d748c-56c9-4710-b424-76c9e03f42db",
         "title": "Junior Software Developer - Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -320234,7 +320234,7 @@
         "company_name": "Bank of Montreal",
         "id": "c83ae4a7-9b8f-4dc7-8b97-ab806be092cd",
         "title": "Software Developer \u2013 Co-op/Intern - Summer 2026 - 8 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -324835,7 +324835,7 @@
         "company_name": "The Boeing Company",
         "id": "7848bf7b-3394-4d37-ab38-8466cb514464",
         "title": "Boeing Pre-Employment Training - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
