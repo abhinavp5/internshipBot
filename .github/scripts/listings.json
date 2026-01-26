@@ -293279,7 +293279,7 @@
         "company_name": "Northumbria University",
         "id": "deb85c2c-cf26-443d-9af6-616e84fc9004",
         "title": "Apprentice IT Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
