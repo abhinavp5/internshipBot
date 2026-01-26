@@ -29951,30 +29951,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Samsung",
-        "id": "d96182df-43bd-4f78-b27e-f5525b42d95f",
-        "title": "2025 Fall Intern - Computer Vision",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1748980113,
-        "date_posted": 1748668897,
-        "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8017563002",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Samsung",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
         "date_updated": 1755638663,
         "url": "https://job-boards.greenhouse.io/figma/jobs/5602159004?gh_jid=5602159004",
         "company_name": "Figma",
@@ -318202,7 +318178,7 @@
         "company_name": "Bank of Montreal",
         "id": "d0e24301-2a11-4800-828b-8e69de9c105c",
         "title": "Software Developer e2 Co-op/Internship - Summer 2026 - Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
