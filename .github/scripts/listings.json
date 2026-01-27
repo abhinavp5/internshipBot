@@ -51512,7 +51512,7 @@
         "company_name": "NVIDIA",
         "id": "56775c6d-267a-43cc-a982-6db9bad7e907",
         "title": "PhD Computer Vision and Deep Learning Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -205292,7 +205292,7 @@
         "company_name": "LinkedIn",
         "id": "4145fa34-a3e7-4c03-94ca-76d6d02e4386",
         "title": "AI/ML Engineer Intern - Master's - Summer 2026 - Mountain View - CA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -208111,7 +208111,7 @@
         "company_name": "Ocean Optics",
         "id": "744971bf-0694-405c-af2a-4a715ca0a6f1",
         "title": "Manufacturing Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -223120,7 +223120,7 @@
         "company_name": "AbbVie",
         "id": "b6887522-61f3-46ae-bb60-80b649182891",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -229406,7 +229406,7 @@
         "company_name": "LinkedIn",
         "id": "fa7e7c93-38f2-4017-b3c5-f46831cd229b",
         "title": "AI/ML Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -236773,7 +236773,7 @@
         "company_name": "The Toro Company",
         "id": "bfb50dfc-e802-46d3-90c7-aacca72db54e",
         "title": "Global Trade & Data Analysis Intern - The Toro Company",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -265005,7 +265005,7 @@
         "company_name": "AVEVA",
         "id": "a552fb41-f9e8-4533-9812-0e118068e79c",
         "title": "Artificial Intelligence and Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -272268,7 +272268,7 @@
         "company_name": "AbbVie",
         "id": "870275a4-82c3-4c7f-9408-9ae5ff501343",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -309915,7 +309915,7 @@
         "company_name": "RWS",
         "id": "b8f208d0-ac14-4f0c-8f7f-7dc99da51af8",
         "title": "AI Data Specialist - Pennsylvania - US",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -313229,7 +313229,7 @@
         "company_name": "Relativity",
         "id": "6bf5b70a-4444-495f-83ee-f7f6a52e9f89",
         "title": "Applied Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -330170,5 +330170,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "fd933873-8392-416f-a6a9-238f9f387cdc",
+        "title": "Operations Technology Analyst Graduate - London",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1769508328,
+        "date_posted": 1768435549,
+        "url": "https://careers-sig.icims.com/jobs/10419/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
