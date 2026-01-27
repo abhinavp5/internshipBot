@@ -120,28 +120,6 @@
         "category": "Software Engineering"
     },
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Blue Origin",
-        "id": "545c1ba4-aad0-4d0a-8062-462629f0715e",
-        "title": "Avionics Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1753108129,
-        "date_posted": 1748795783,
-        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Spring-2026-Avionics-Software-Engineering-Intern---Undergraduate_R52403",
-        "locations": [
-            "Seattle, WA",
-            "Denver, CO",
-            "Los Angeles, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Blue-Origin",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required"
-    },
-    {
         "date_updated": 1749268060,
         "url": "https://jobs.ericsson.com/careers/job/563121764413390?domain=ericsson.com",
         "company_name": "Ericsson",
@@ -330554,6 +330532,29 @@
             "MBA",
             "PhD",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Royal Bank of Canada",
+        "id": "a9643f01-a737-4f12-aeec-66b8551ce2a5",
+        "title": "Product Management Intern - Rbcx - 4 months",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769529653,
+        "date_posted": 1769529653,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Summer---RBCx--Product-Management-Intern--4-months-_R-0000157024",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "MBA"
         ]
     }
 ]
