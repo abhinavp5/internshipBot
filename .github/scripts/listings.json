@@ -250355,7 +250355,7 @@
         "company_name": "Simons Foundation",
         "id": "fb844deb-54bc-49de-931f-9e8293cf95af",
         "title": "Scientific Visual Exploration Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -325989,7 +325989,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "7d118feb-98be-43a2-b9d3-d1dd06c6ab1c",
         "title": "Flight Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
