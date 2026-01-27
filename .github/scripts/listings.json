@@ -24500,7 +24500,7 @@
         "company_name": "W.W. Grainger",
         "id": "1682fbfc-b5b6-4a5d-a5ec-f0138208298d",
         "title": "GTG Intern - Applied Machine Learning",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -205292,7 +205292,7 @@
         "company_name": "LinkedIn",
         "id": "4145fa34-a3e7-4c03-94ca-76d6d02e4386",
         "title": "AI/ML Engineer Intern - Master's - Summer 2026 - Mountain View - CA",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -229406,7 +229406,7 @@
         "company_name": "LinkedIn",
         "id": "fa7e7c93-38f2-4017-b3c5-f46831cd229b",
         "title": "AI/ML Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -235827,7 +235827,7 @@
         "company_name": "OpenSesame",
         "id": "a6975e7a-8629-4cc8-a145-953e145b3f6a",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262891,7 +262891,7 @@
         "company_name": "Electronic Arts",
         "id": "4038b04b-33db-4753-97d3-b772722b8e25",
         "title": "Software Engineer Intern AI ML QVS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -294237,7 +294237,7 @@
         "company_name": "Genentech",
         "id": "db5f1e5c-b99c-4d98-8e82-33ffdae24c64",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -294423,7 +294423,7 @@
         "company_name": "Microsoft",
         "id": "791c0910-91a3-4d23-a3eb-98603c065583",
         "title": "Software Engineer: Internship Opportunities - Vancouver - Bc",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -309231,7 +309231,7 @@
         "company_name": "Perplexity AI",
         "id": "4eac2757-a91f-4c88-b082-a933f95c14c6",
         "title": "Research Resident",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -316110,7 +316110,7 @@
         "company_name": "NRG Energy",
         "id": "d0a0fcf3-c70f-46da-a9e7-60c39d332fa0",
         "title": "Salesforce Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
