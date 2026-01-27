@@ -249456,7 +249456,7 @@
         "company_name": "ArteraAI",
         "id": "92c65473-8766-45ed-9c88-c17cba11b5ec",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -293630,7 +293630,7 @@
         "company_name": "GlobalFoundries",
         "id": "72d1da6b-1dbe-41b4-861c-f859e371d194",
         "title": "Software Engineering Intern - Cloud Platform",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -313086,7 +313086,7 @@
         "company_name": "Relativity",
         "id": "ecc979da-f04b-47ee-bf11-684668502b8e",
         "title": "Software Engineering Intern - Ingestion",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -328739,7 +328739,7 @@
         "company_name": "Sentry Insurance",
         "id": "4aa85503-28a3-4de7-89cf-b4b17f4afc37",
         "title": "Business Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -330477,6 +330477,83 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "IQVIA",
+        "id": "b40d41ce-5c3b-4c58-92a2-99ace68fd7ca",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769528466,
+        "date_posted": 1769528466,
+        "url": "https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Stafford-United-Kingdom/Intern_R1521191",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/IQVIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MEMIC",
+        "id": "cf39135f-e33e-4357-84e2-a25e12886d5f",
+        "title": "Business Intelligence Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769527759,
+        "date_posted": 1769527759,
+        "url": "https://job-boards.greenhouse.io/memic/jobs/7601219003",
+        "locations": [
+            "Portland, ME"
+        ],
+        "company_url": "https://simplify.jobs/c/MEMIC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MEMIC",
+        "id": "5b49b9a4-ab9d-4e55-b3be-f8cd5178f560",
+        "title": "IT Architecture & Innovation Internship",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769527766,
+        "date_posted": 1769527766,
+        "url": "https://job-boards.greenhouse.io/memic/jobs/7601233003",
+        "locations": [
+            "Portland, ME"
+        ],
+        "company_url": "https://simplify.jobs/c/MEMIC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD",
+            "Associate's"
         ]
     }
 ]
