@@ -23242,7 +23242,7 @@
         "company_name": "TikTok",
         "id": "f1f94ccd-22cb-496d-907f-ec288a912e53",
         "title": "Product Manager \u2013 Ads Attribution and Measurement Intern - Measurement Signal and Privacy Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -27329,7 +27329,7 @@
         "company_name": "TikTok",
         "id": "65616f0a-ec94-4af7-b43b-0aa3d3adafef",
         "title": "Product Manager Intern \u2013 Content and Service Lead Ads",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -223120,7 +223120,7 @@
         "company_name": "AbbVie",
         "id": "b6887522-61f3-46ae-bb60-80b649182891",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -254548,7 +254548,7 @@
         "company_name": "Microsoft",
         "id": "cb843c79-c283-448f-a789-5f88b5ef2dac",
         "title": "Software Engineer: AI/ML Intern Opportunities - MAI for University Students",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -255429,7 +255429,7 @@
         "company_name": "Genentech",
         "id": "ddd6f51e-594f-400b-be9f-7702baec7c03",
         "title": "Machine Learning Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -272268,7 +272268,7 @@
         "company_name": "AbbVie",
         "id": "870275a4-82c3-4c7f-9408-9ae5ff501343",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -310695,7 +310695,7 @@
         "company_name": "T-Mobile",
         "id": "cc74055f-7be7-44d0-927b-a9c027856e25",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -318463,7 +318463,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -321674,7 +321674,7 @@
         "company_name": "Snap",
         "id": "ad05afbe-d3c2-4dac-968e-d59f98e280bf",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -329403,6 +329403,52 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "db1d3d76-2d7c-4013-b8e2-439354d371b7",
+        "title": "Research Intern - AI Systems and Tools",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769480263,
+        "date_posted": 1769480263,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556748177",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cartesia",
+        "id": "c40254aa-d26a-4c8e-bcb9-e123195b1101",
+        "title": "Product Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769480100,
+        "date_posted": 1769480100,
+        "url": "https://jobs.ashbyhq.com/cartesia/ebae3ceb-a6a7-4af0-ae3e-c197af14a67a/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Cartesia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
