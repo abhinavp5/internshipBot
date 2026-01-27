@@ -240818,7 +240818,7 @@
         "company_name": "Chevron Corporation",
         "id": "badac9c9-d8fd-4b6e-94f5-b3d30a2c0dd7",
         "title": "Earth Science Intern \u2013 Previous Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -282004,7 +282004,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "835d6175-3718-48e2-8c5b-76b2363a0f21",
         "title": "Intern \u2013 Investments - Total Fund Management - Global Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -282025,7 +282025,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "ff7618c4-09e1-49b6-ae69-cc8b287ede30",
         "title": "Intern \u2013 Product & Data Engineering - May 2026 - Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -319775,7 +319775,7 @@
         "company_name": "Crane Co.",
         "id": "e92d6a5c-4ef9-47f8-ad7e-6668f91c656f",
         "title": "Hardware Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
