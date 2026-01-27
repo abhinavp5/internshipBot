@@ -232669,7 +232669,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "c75ce643-3c69-4428-b2e5-33b4437f433c",
         "title": "Engineering Technician Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -310288,7 +310288,7 @@
         "company_name": "Epiroc",
         "id": "f437018a-7f4e-4185-afeb-1141524b8914",
         "title": "Intern \u2013 Product Application & Marketing Engineer - Mining Engineers",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
