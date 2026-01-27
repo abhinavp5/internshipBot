@@ -248420,7 +248420,7 @@
         "company_name": "Delta Dental",
         "id": "e7c684c3-a3bf-434b-9c76-f9e3ebc46c17",
         "title": "Intern - Application Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -248620,7 +248620,7 @@
         "company_name": "ABB",
         "id": "9bdcfb77-ab62-434a-bf30-915eb9d0ca4f",
         "title": "IS Salesforce.com Agile Delivery Intern-Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -313229,7 +313229,7 @@
         "company_name": "Relativity",
         "id": "6bf5b70a-4444-495f-83ee-f7f6a52e9f89",
         "title": "Applied Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -314073,7 +314073,7 @@
         "company_name": "Fiserv",
         "id": "60afcc6b-8fa5-4bfe-8310-51c5cb70bb58",
         "title": "Corporate Internship Program - Product Management - Berkeley Heights NJ",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2027",
@@ -318463,7 +318463,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -321770,7 +321770,7 @@
         "company_name": "PennState University",
         "id": "a0ac07b2-42d3-4e54-9325-aaa9caf4438a",
         "title": "Undergraduate Cartographer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -325966,7 +325966,7 @@
         "company_name": "Thomson Reuters",
         "id": "95565135-ee9e-4478-9a78-b95cdda1a329",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
