@@ -68026,7 +68026,7 @@
         "company_name": "Genuine Parts Company",
         "id": "fc0b8987-4819-4829-ac0a-1dbcf5b5f451",
         "title": "Customer Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -247180,7 +247180,7 @@
         "company_name": "TransUnion",
         "id": "bc7762e5-8638-466a-b9ba-0625be71aaaf",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -265005,7 +265005,7 @@
         "company_name": "AVEVA",
         "id": "a552fb41-f9e8-4533-9812-0e118068e79c",
         "title": "Artificial Intelligence and Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -319611,7 +319611,7 @@
         "company_name": "The Federal Reserve System",
         "id": "89c0ca26-ee39-44db-ab36-f239d02ca511",
         "title": "Internship - Research Facilitator - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
