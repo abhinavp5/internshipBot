@@ -247180,7 +247180,7 @@
         "company_name": "TransUnion",
         "id": "bc7762e5-8638-466a-b9ba-0625be71aaaf",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -248620,7 +248620,7 @@
         "company_name": "ABB",
         "id": "9bdcfb77-ab62-434a-bf30-915eb9d0ca4f",
         "title": "IS Salesforce.com Agile Delivery Intern-Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -313086,7 +313086,7 @@
         "company_name": "Relativity",
         "id": "ecc979da-f04b-47ee-bf11-684668502b8e",
         "title": "Software Engineering Intern - Ingestion",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -314073,7 +314073,7 @@
         "company_name": "Fiserv",
         "id": "60afcc6b-8fa5-4bfe-8310-51c5cb70bb58",
         "title": "Corporate Internship Program - Product Management - Berkeley Heights NJ",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2027",
@@ -319611,7 +319611,7 @@
         "company_name": "The Federal Reserve System",
         "id": "89c0ca26-ee39-44db-ab36-f239d02ca511",
         "title": "Internship - Research Facilitator - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -325966,7 +325966,7 @@
         "company_name": "Thomson Reuters",
         "id": "95565135-ee9e-4478-9a78-b95cdda1a329",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -326925,7 +326925,7 @@
         "company_name": "Insulet Corporation",
         "id": "6e7e7af3-ade4-43c0-84fb-28d24df52972",
         "title": "Co-op Embedded Software Test Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -327088,7 +327088,7 @@
         "company_name": "United Parcel Service (UPS)",
         "id": "5efc6313-e171-4649-a024-543d427d61d0",
         "title": "Research Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -330191,5 +330191,34 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dell Technologies",
+        "id": "f8ed5c93-29c7-469a-86d1-3c3789f63519",
+        "title": "Undergraduate Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1769515099,
+        "date_posted": 1768955999,
+        "url": "https://dell.wd1.myworkdayjobs.com/External/job/Ottawa-Ontario-Canada/Undergraduate-Intern_R272953",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Dell-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
