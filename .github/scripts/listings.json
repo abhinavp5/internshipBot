@@ -4182,7 +4182,7 @@
         "company_name": "Midmark ",
         "id": "e45b7992-b7ef-4846-b4ff-ecf6b47e5de3",
         "title": "Firmware Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -323982,7 +323982,7 @@
         "company_name": "BP",
         "id": "73ed2999-6853-45d5-9170-c99e5b0f8af1",
         "title": "Intern - Subsurface - Geology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
