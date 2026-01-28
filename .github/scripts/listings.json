@@ -196074,7 +196074,7 @@
         "company_name": "NBCUniversal",
         "id": "782b2a56-be2a-4f95-8633-a6b810fb3e6f",
         "title": "Business Data \u2013 Intern - Film IT",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -219291,7 +219291,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Visa",
-        "id": "a010f1f2-6a04-4d2b-8281-df27a33235b0",
+        "id": "0ed6cb36-9c49-457e-987a-0bd0bf11e256",
         "title": "Software Engineer Intern",
         "active": true,
         "terms": [
@@ -247246,7 +247246,7 @@
         "company_name": "Cadence Design Systems",
         "id": "55fea033-155f-464c-8e3e-7fe2154c89b8",
         "title": "Intern \u2013 Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -258699,7 +258699,7 @@
         "company_name": "Western Digital",
         "id": "105aa902-acab-430c-b860-eb1194b137b8",
         "title": "Software Engineer Intern - Software Engineering - Firmware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -272247,7 +272247,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "34070e76-bc27-46a4-bc37-5aae60674289",
         "title": "Multi-Modal Cyber-physical sensing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -274469,7 +274469,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Robert Bosch Venture Capital",
-        "id": "a3e064cb-e293-4915-86b3-dbca1858d0c4",
+        "id": "9f0f67e3-fa5c-4310-9862-3510999ec378",
         "title": "Security Research Intern",
         "active": true,
         "terms": [
@@ -277153,7 +277153,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "0436f6da-716a-4ecf-b66c-ce1476b1f498",
         "title": "Multi-Modal Cyber-Physical Sensing Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -285096,7 +285096,7 @@
         "company_name": "NBCUniversal",
         "id": "d66efef0-dec2-491c-aa90-1dede4d34b1b",
         "title": "Business Data Intern - Film IT",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -308210,7 +308210,7 @@
         "company_name": "Western Digital",
         "id": "3a53ac0c-77f5-41e3-8d1f-eb10bc0b8cd8",
         "title": "Software Engineer Intern - Software Engineering - Firmware",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -313302,7 +313302,7 @@
         "company_name": "The Walt Disney Company",
         "id": "ef9b2908-8889-4c88-823a-c45b30690371",
         "title": "WDI Show Control Hardware Intern - Glendale - Summer/Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -316674,7 +316674,7 @@
         "company_name": "T-Mobile",
         "id": "0707088d-5739-43a2-9d1b-430c675c3bd7",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -330749,7 +330749,7 @@
         "company_name": "Genentech",
         "id": "07cd5ebf-b750-47d7-8173-a0d881d6ba85",
         "title": "Intern - Clinical Pharmacology - Real-World Treatment Trajectory Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -333188,5 +333188,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Skyways",
+        "id": "4220ef1e-37ac-40b2-b417-469e758fbd51",
+        "title": "Skyways Intern - 2026 and Beyond",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769594380,
+        "date_posted": 1756171896,
+        "url": "https://jobs.lever.co/skyways/56169800-f7a4-47de-9f72-c865c74a6e45/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Skyways",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
