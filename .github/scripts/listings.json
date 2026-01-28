@@ -28017,7 +28017,7 @@
         "company_name": "GenBio AI",
         "id": "00a9d5f7-009d-4c5b-b9b0-b3fca7800635",
         "title": "Research Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -135870,7 +135870,7 @@
         "company_name": "Electronic Arts",
         "id": "327eee4b-3168-4e5c-9f13-0153ce7baeca",
         "title": "C++ Software Engineer Intern/Co-op - UI Tech Stack",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -152422,7 +152422,7 @@
         "company_name": "Mistral AI",
         "id": "f497d4b3-b7ca-4486-938d-7ecc0160f335",
         "title": "AI Scientist Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -318681,7 +318681,7 @@
         "company_name": "Paccar",
         "id": "2cc82ce1-cef4-4874-82e6-5d54a2b4a732",
         "title": "IT Summer 2026 Interns \u2013 AI/ML Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -319037,7 +319037,7 @@
         "company_name": "Paccar",
         "id": "2ec5840d-165b-4228-b265-663075c901d3",
         "title": "IT Intern - Software Engineering-GCS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -328220,7 +328220,7 @@
         "company_name": "Paccar",
         "id": "089734ea-7295-432d-9315-a685d96dcb41",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
