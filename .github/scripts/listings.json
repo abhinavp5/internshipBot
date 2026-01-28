@@ -206978,7 +206978,7 @@
         "company_name": "Electronic Arts",
         "id": "f22f4aef-6545-42c8-9b88-9ede6a95ec66",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262849,7 +262849,7 @@
         "company_name": "Electronic Arts",
         "id": "4038b04b-33db-4753-97d3-b772722b8e25",
         "title": "Software Engineer Intern AI ML QVS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -300919,7 +300919,7 @@
         "company_name": "Electronic Arts",
         "id": "38d0e1aa-bf3a-4212-9e6e-251d1115782a",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -318542,7 +318542,7 @@
         "company_name": "Paccar",
         "id": "9c317ed4-6532-4327-98f9-7e9e643d6b2f",
         "title": "Software Engineer Intern - Mainframe",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -329864,7 +329864,7 @@
         "company_name": "The Walt Disney Company",
         "id": "e80118e4-2b1f-45ce-8006-2a89259bdfef",
         "title": "Data Science Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
