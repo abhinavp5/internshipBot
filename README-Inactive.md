@@ -8261,7 +8261,7 @@
 <td>Software Engineer Intern - HighVIEW Product Development</td>
 <td>Hanover, MD</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Steel-Dynamics?utm_source=GHList&utm_medium=company">Steel Dynamics</a></strong></td>
@@ -41052,7 +41052,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/WW-Grainger?utm_source=GHList&utm_medium=company">W.W. Grainger</a></strong></td>
+<td>↳</td>
 <td>Data Science Intern</td>
 <td>Highland Park, IL</td>
 <td>🔒</td>
@@ -42235,7 +42235,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Midpoint-Markets?utm_source=GHList&utm_medium=company">Midpoint Markets</a></strong></td>
+<td>↳</td>
 <td>Quantitative Researcher – Summer Intern 2026</td>
 <td>SF</td>
 <td>🔒</td>
@@ -47275,7 +47275,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Hermeus?utm_source=GHList&utm_medium=company">Hermeus</a></strong></td>
 <td>Test Engineering Intern</td>
 <td>Atlanta, GA</td>
 <td>🔒</td>
