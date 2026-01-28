@@ -282458,7 +282458,7 @@
         "company_name": "Carpenter Technology",
         "id": "c67e987c-4c2e-4674-8e8f-ece05ba7e90a",
         "title": "Business Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -293330,7 +293330,7 @@
         "company_name": "The Coca-Cola Company",
         "id": "6ee5fab6-8005-4c23-a178-884eb57cb70e",
         "title": "CPS Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -293377,7 +293377,7 @@
         "company_name": "The Coca-Cola Company",
         "id": "4a0b141e-700f-4faa-9ce8-e2e8d3aa7d84",
         "title": "Data Analyst \u2013 Emerging Category Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -293515,7 +293515,7 @@
         "company_name": "The Coca-Cola Company",
         "id": "d5b3e2d4-05b1-4c59-b795-6a76108438ad",
         "title": "Data Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -293866,7 +293866,7 @@
         "company_name": "The Coca-Cola Company",
         "id": "0033d9d4-c591-4106-a891-775f703bcf05",
         "title": "Global Marketing Generative AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -293960,7 +293960,7 @@
         "company_name": "The Coca-Cola Company",
         "id": "e36f0768-5498-4db1-9ace-b7972377f33d",
         "title": "Global Development & Innovation \u2013 Digital Capability Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -295390,7 +295390,7 @@
         "company_name": "The Coca-Cola Company",
         "id": "50ee75e4-5506-4be2-9086-d9ac93e6b1a8",
         "title": "Revenue Growth Management Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -300542,7 +300542,7 @@
         "company_name": "Johnson Controls",
         "id": "972c34ef-236d-484c-82f7-52b512949fae",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -304039,7 +304039,7 @@
         "company_name": "University of Virginia",
         "id": "d56d3e29-c74e-4d84-bf03-2e5550280d78",
         "title": "Research Computing Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -328697,7 +328697,7 @@
         "company_name": "Sentry Insurance",
         "id": "4aa85503-28a3-4de7-89cf-b4b17f4afc37",
         "title": "Business Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333385,6 +333385,123 @@
             "Morrisville, NC"
         ],
         "company_url": "https://simplify.jobs/c/SAS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "8be884a5-0b4e-4535-b754-158649a19e31",
+        "title": "Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1769615481,
+        "date_posted": 1769615481,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Software-Engineer-Co-op_R421854",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Manulife Financial",
+        "id": "62ddf41b-fb28-48c0-a0d4-ef12d453eb0b",
+        "title": "Product Documentation Specialist \u2013 Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769615435,
+        "date_posted": 1769615433,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Product-Documentation-Specialist---Co-op_JR26010907-1",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Manulife-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ginkgo Bioworks",
+        "id": "f19fc366-1b13-4cf5-a10f-75ccd232212d",
+        "title": "Software Intern - Autonomous Lab",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1769614520,
+        "date_posted": 1769614520,
+        "url": "https://job-boards.greenhouse.io/ginkgobioworks/jobs/5033167007",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ginkgo-Bioworks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ginkgo Bioworks",
+        "id": "a34fd6fd-c9fc-43d2-bff0-d75f752bbed7",
+        "title": "Software Graduate Intern - Autonomous Lab",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769614521,
+        "date_posted": 1769614521,
+        "url": "https://job-boards.greenhouse.io/ginkgobioworks/jobs/5033171007",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ginkgo-Bioworks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "EverCommerce",
+        "id": "87d52ae5-6541-4808-850f-f372c052d638",
+        "title": "Everpro \u2013 Growth and Markets Internship - US",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769614494,
+        "date_posted": 1769614494,
+        "url": "https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote--US/EverPro---Growth-and-Markets-Internship--Remote--US-_R-105892",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/a1a5e91c-79e8-44ef-a474-3b5b939c9c5c",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
