@@ -278551,7 +278551,7 @@
         "company_name": "Charter Manufacturing",
         "id": "94f867a0-4dd9-42dd-bdf5-19c5fcc11d6c",
         "title": "Digital Industry Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -321728,7 +321728,7 @@
         "company_name": "PennState University",
         "id": "a0ac07b2-42d3-4e54-9325-aaa9caf4438a",
         "title": "Undergraduate Cartographer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
