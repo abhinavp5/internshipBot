@@ -120,26 +120,6 @@
         "category": "Software Engineering"
     },
     {
-        "date_updated": 1749268060,
-        "url": "https://jobs.ericsson.com/careers/job/563121764413390?domain=ericsson.com",
-        "company_name": "Ericsson",
-        "title": "WebDeveloper Intern",
-        "locations": [
-            "Montreal,Quebec,Canada"
-        ],
-        "terms": [
-            "Fall 2025"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "GaryZhous",
-        "id": "6be9981a-007e-46f6-a3e2-7daecd6621f4",
-        "date_posted": 1748841670,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Software Engineering"
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "LiveRamp",
@@ -279455,7 +279435,7 @@
         "company_name": "Harbinger Motors",
         "id": "ae3beb1f-96d2-4696-b005-4523812eaf5f",
         "title": "Intern \u2013 Product Marketing",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -316532,7 +316512,7 @@
         "company_name": "The Coca-Cola Company",
         "id": "77b040e6-137c-41ef-a420-58fa3d426ec9",
         "title": "Product Development & Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
