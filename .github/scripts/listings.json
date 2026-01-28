@@ -122,26 +122,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "LiveRamp",
-        "id": "b7d2e5a0-5c5d-4ca7-b2db-59d9366661d1",
-        "title": "Co-Op \u2013 Software Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1748888421,
-        "date_posted": 1748888421,
-        "url": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Co-Op--Software-Engineering_JR011627",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/LiveRamp",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Rockwell Automation",
         "id": "a2c75ed4-c93b-4293-a5b3-471049fe24ab",
         "title": "Software Test & Developer Experience Co-op",
@@ -283494,7 +283474,7 @@
         "company_name": "Plug Power",
         "id": "48fdd862-9f0c-4935-8690-a3de3bd65667",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -297972,7 +297952,7 @@
         "company_name": "Western Digital",
         "id": "4aa9ca31-f0c1-42d9-8282-50ffd3a6339b",
         "title": "Intern - Cryogenic Probe Station",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -310431,7 +310411,7 @@
         "company_name": "Viavi Solutions",
         "id": "14ecf1c0-b19b-4ed5-b507-90c70848ad10",
         "title": "Instrumentation Software Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -324527,7 +324507,7 @@
         "company_name": "JMP Statistical Discovery",
         "id": "2944b180-bab0-4f9c-ac82-37ba8a01b6f0",
         "title": "2026 JMP Summer Intern; Advanced Analytics Testing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -325030,7 +325010,7 @@
         "company_name": "NOV",
         "id": "58c687a2-a609-47ba-b8ab-cfa15f9715a1",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -327682,7 +327662,7 @@
         "company_name": "Genentech",
         "id": "3a636c5a-3c8d-471c-9df3-3120e2d98105",
         "title": "Intern - Product Development Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -328906,7 +328886,7 @@
         "company_name": "Santander",
         "id": "b9a48aca-f392-4e3e-b413-0bd563f73348",
         "title": "Payments Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -330188,7 +330168,7 @@
         "company_name": "Veolia",
         "id": "2e2eb840-0888-4725-803f-cbff5f214fec",
         "title": "Intern Manufacturing Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
