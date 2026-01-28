@@ -122,26 +122,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Rockwell Automation",
-        "id": "a2c75ed4-c93b-4293-a5b3-471049fe24ab",
-        "title": "Software Test & Developer Experience Co-op",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1748891436,
-        "date_posted": 1748891436,
-        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Kitchener-Ontario-Canada/Software-Test---Developer-Experience-Co-op_R25-4345",
-        "locations": [
-            "Kitchener, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Splunk",
         "id": "02a12f0e-4200-428b-ad15-035565fad706",
         "title": "Software Engineer Co-Op - Backend/Full-stack",
@@ -63662,7 +63642,7 @@
         "company_name": "Terex",
         "id": "9e2e45af-38ad-4717-80d6-3cfc3036d5c4",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -86981,7 +86961,7 @@
         "company_name": "Oshkosh",
         "id": "07042aba-131b-41c3-bda1-679d2a183170",
         "title": "Data Scientist Intern - Digital Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -107403,7 +107383,7 @@
         "company_name": "Stryker",
         "id": "8c0576c5-a3c1-431c-a152-3dd639724aac",
         "title": "Product Management Co-Op and Marketing Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -163497,7 +163477,7 @@
         "company_name": "Autodesk",
         "id": "f7c0f49f-5d3d-48f5-866f-32c82f54a90e",
         "title": "Doctor of Philosophy Intern - Autodesk Research - Model Alignment",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -242937,7 +242917,7 @@
         "company_name": "Seagate Technology ",
         "id": "0fb6bc77-4d1a-4e06-b32f-8d82ae4a2bc5",
         "title": "Software Development Intern - AFM Probe Monitoring",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -245772,7 +245752,7 @@
         "company_name": "Motorola",
         "id": "c3778776-8ed1-4ec8-8781-ce5569be1206",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -260598,7 +260578,7 @@
         "company_name": "Shawmut Design and Construction",
         "id": "0ba318e4-aef2-4c5d-a7b8-0cab2672d6e4",
         "title": "Intern/Coop-Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -264923,7 +264903,7 @@
         "company_name": "AVEVA",
         "id": "a552fb41-f9e8-4533-9812-0e118068e79c",
         "title": "Artificial Intelligence and Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -265530,7 +265510,7 @@
         "company_name": "AVEVA",
         "id": "3f93f894-ad0f-4ac5-8af7-86dd2d97b899",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -266084,7 +266064,7 @@
         "company_name": "Motorola",
         "id": "c20c7421-e858-4637-bc44-0f03a225934d",
         "title": "Machine Learning/AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -275713,7 +275693,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "86e2f6bc-9700-4f76-9b02-9c0f4dc8e9c8",
         "title": "Data Analyst \u2013 Emerging Talent Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -301661,7 +301641,7 @@
         "company_name": "Zurn Elkay Water Solutions",
         "id": "aab8689a-a04b-4dbb-88a3-94575f49bdce",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -312610,7 +312590,7 @@
         "company_name": "Nokia",
         "id": "f81036ae-442c-4064-983b-e4c8d2e89295",
         "title": "Software Designer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -315841,7 +315821,7 @@
         "company_name": "Slate Auto",
         "id": "da794d79-5fba-4455-b867-025129091d08",
         "title": "Intern \u2013 Vehicle Integration Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -318028,7 +318008,7 @@
         "company_name": "Autodesk",
         "id": "1388cfa0-91ce-4fa4-9eae-6a7514d4c9ce",
         "title": "PhD Intern - Research - Model Alignment",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -328540,7 +328520,7 @@
         "company_name": "Motorola",
         "id": "137004cc-dcdb-494e-8ee9-4a68f5adaaf9",
         "title": "Software Developer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -331444,7 +331424,7 @@
         "company_name": "Alation",
         "id": "8fa42828-b09c-4d2c-a4e8-3c3d732f6772",
         "title": "Alation Data & AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -331750,7 +331730,7 @@
         "company_name": "GoTo Group",
         "id": "1a9d8730-c708-4ff9-83fe-6cc27c7db1ef",
         "title": "Stagiaire d\u00e9veloppeur logiciel /Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
