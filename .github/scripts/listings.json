@@ -179732,7 +179732,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "1536da7c-4e58-40e2-81f3-af9b78d3a795",
         "title": "Tax & Assurance - Technology & Innovation Associate - Summer/Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -181974,7 +181974,7 @@
         "company_name": "Apple",
         "id": "08314139-479a-4f59-84a3-c9dbde2ace17",
         "title": "GPU Internships - RTL Design - RTL Power Optimisation & Physical Design",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2026",
@@ -183092,7 +183092,7 @@
         "company_name": "Cognex",
         "id": "9dcf1f74-1625-4add-8408-78dffced3d47",
         "title": "Core Vision Intern - Vision Algorithms",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -196074,7 +196074,7 @@
         "company_name": "NBCUniversal",
         "id": "782b2a56-be2a-4f95-8633-a6b810fb3e6f",
         "title": "Business Data \u2013 Intern - Film IT",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -219291,7 +219291,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Visa",
-        "id": "0ed6cb36-9c49-457e-987a-0bd0bf11e256",
+        "id": "a010f1f2-6a04-4d2b-8281-df27a33235b0",
         "title": "Software Engineer Intern",
         "active": true,
         "terms": [
@@ -228234,7 +228234,7 @@
         "company_name": "CoStar Group",
         "id": "0ed295d1-6815-4c9c-b70e-fc4825dcc850",
         "title": "ML Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2027",
@@ -246157,7 +246157,7 @@
         "company_name": "Standard Aero",
         "id": "f170b851-5b39-4722-98b2-46a29ef0d856",
         "title": "ERP Software Development - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -272247,7 +272247,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "34070e76-bc27-46a4-bc37-5aae60674289",
         "title": "Multi-Modal Cyber-physical sensing Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -274469,7 +274469,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Robert Bosch Venture Capital",
-        "id": "9f0f67e3-fa5c-4310-9862-3510999ec378",
+        "id": "a3e064cb-e293-4915-86b3-dbca1858d0c4",
         "title": "Security Research Intern",
         "active": true,
         "terms": [
@@ -277153,7 +277153,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "0436f6da-716a-4ecf-b66c-ce1476b1f498",
         "title": "Multi-Modal Cyber-Physical Sensing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -285096,7 +285096,7 @@
         "company_name": "NBCUniversal",
         "id": "d66efef0-dec2-491c-aa90-1dede4d34b1b",
         "title": "Business Data Intern - Film IT",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -285381,7 +285381,7 @@
         "company_name": "Standard Aero",
         "id": "9ea2f158-e4bf-4054-84a3-93f7f7ee7385",
         "title": "Software Development Intern/Co-op - Oracle APEX",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -288747,7 +288747,7 @@
         "company_name": "Walmart",
         "id": "45e0013a-4f8d-4b18-b811-5071555f5f7b",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -313476,7 +313476,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "a6737634-5148-4319-afbd-2d01142375ed",
         "title": "Assurance Artificial Intelligence Technology Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -317471,7 +317471,7 @@
         "company_name": "CoStar Group",
         "id": "dbd61c97-6b9b-4d3f-a0ff-18ba76aedc9b",
         "title": "ML Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2027",
@@ -318421,7 +318421,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333230,5 +333230,165 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Metropolitan Transportation Authority",
+        "id": "ccd71198-61f7-4cdd-9be6-a0bfda36060b",
+        "title": "Product Development - Tech & Engineering Fellow",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1769613600,
+        "date_posted": 1769613600,
+        "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oyvozfwK?nl=1&nl=1&fr=false",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Metropolitan-Transportation-Authority",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fiserv",
+        "id": "868e02e4-42c4-4b33-ac1b-9570679b6494",
+        "title": "Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769613692,
+        "date_posted": 1769613692,
+        "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Hagerstown-Maryland/Technology---Summer-Intern_R-10385804",
+        "locations": [
+            "Hagerstown, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Fiserv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nokia",
+        "id": "71f428b3-2ce6-407a-8540-4e867b13dc6c",
+        "title": "Data Intelligence Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769613559,
+        "date_posted": 1769613559,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/30507",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Rocket Companies",
+        "id": "3e9b649c-56d2-4ee6-87a5-5e91fff90254",
+        "title": "Product Development Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769613636,
+        "date_posted": 1769613636,
+        "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Product-Development-Intern---Summer-2026_R-081447-1",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LMI ",
+        "id": "6733555f-9ee9-4e61-98d6-6430f675caff",
+        "title": "Data Science-Intern - FIU Students",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769613056,
+        "date_posted": 1769613056,
+        "url": "https://careers-lmi.icims.com/jobs/13576/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA",
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/LMI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LMI ",
+        "id": "4ed23878-86a7-4eb7-87ca-eb9b001024b6",
+        "title": "Software Development - FIU Students",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769612955,
+        "date_posted": 1769612955,
+        "url": "https://careers-lmi.icims.com/jobs/13575/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA",
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/LMI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SAS",
+        "id": "274cd31a-3f8f-446f-b512-2b0e32fd6959",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769613003,
+        "date_posted": 1769613003,
+        "url": "https://careers-sas.icims.com/jobs/40723/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/SAS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
