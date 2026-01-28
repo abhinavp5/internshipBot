@@ -318421,7 +318421,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -333206,6 +333206,27 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Skyways",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Capital Automotive Group",
+        "id": "41512a85-88d1-49f4-b7da-0cf50c070761",
+        "title": "Accessories Installation Technician",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1769519347,
+        "date_posted": 1769210252,
+        "url": "https://capitalauto.wd3.myworkdayjobs.com/capitalautogroupcareers/job/Calgary-AB/Accessories-Installation-Technician----3nd---4th-Year--Apprentice-Technician---Renfrew_R2527-1",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-Automotive-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
