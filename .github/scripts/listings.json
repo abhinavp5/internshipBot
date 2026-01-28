@@ -121,26 +121,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "ATPCO",
-        "id": "3695f8c6-8da9-4d71-9510-17358b34ca59",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1748903148,
-        "date_posted": 1748903148,
-        "url": "https://jobs.smartrecruiters.com/ATPCO1/744000062894966",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Altera Corporation",
         "id": "7a46a8b1-0a80-49c6-b7d0-34326997c375",
@@ -30293,7 +30273,7 @@
         "company_name": "Integra FEC",
         "id": "7a995379-3bba-4bca-ad03-0ea5adaf5f38",
         "title": "Spring \u2013 Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -31228,7 +31208,7 @@
         "company_name": "Integra FEC",
         "id": "2ef07195-8a9a-4ef6-b472-cce8b7b52e20",
         "title": "Spring \u2013 Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -66462,7 +66442,7 @@
         "company_name": "DriveTime",
         "id": "c8c3ac2f-c17a-4dfd-aa19-68808f54489c",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -185141,7 +185121,7 @@
         "company_name": "Cloudflare",
         "id": "3f624977-695f-478b-bed6-c3c8e583292a",
         "title": "Product Manager Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -187516,7 +187496,7 @@
         "company_name": "Cloudflare",
         "id": "e26184dc-aeb5-41b2-9011-d5a963e5522d",
         "title": "Product Manager Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -203354,7 +203334,7 @@
         "company_name": "BorgWarner",
         "id": "8f9916ab-6e5c-4871-9970-e0272cc8aa3f",
         "title": "Artificial Intelligence Intern - PDS Engineering - AI Tools",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -214202,7 +214182,7 @@
         "company_name": "Tokyo Electron",
         "id": "dbbc6514-327c-4692-8e7c-1cad9704cfe0",
         "title": "ATG SPS Simulation Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262301,7 +262281,7 @@
         "company_name": "Microsoft",
         "id": "b807a658-19b9-436b-a6ac-ecee9852a938",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -267383,7 +267363,7 @@
         "company_name": "Method",
         "id": "d00fad58-6666-4c20-81ed-911b3ac86884",
         "title": "Residency Program - USA",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -281188,7 +281168,7 @@
         "company_name": "Tokyo Electron",
         "id": "0248af8a-217c-43b7-bfd2-db26a2af017b",
         "title": "ATG 3DI Simulation Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -284718,7 +284698,7 @@
         "company_name": "Avery Dennison",
         "id": "5891fda0-058d-4702-8adc-8c9241be4ba9",
         "title": "RFID Applications Engineer Co-op - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -293001,7 +292981,7 @@
         "company_name": "Cadence Design Systems",
         "id": "3d07d571-eb55-4696-9ca1-3f7044d57792",
         "title": "LLM/ML PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -307922,7 +307902,7 @@
         "company_name": "AngloGold Ashanti",
         "id": "9995805f-533b-4e6d-b486-60dfb7dec274",
         "title": "Intern \u2013 Operational Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -322047,7 +322027,7 @@
         "company_name": "Draper",
         "id": "f543c663-7a3b-4c6c-9079-34049b1209e8",
         "title": "Embedded Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -323916,7 +323896,7 @@
         "company_name": "BP",
         "id": "394d3734-c601-43cd-8e8d-298d098c6ac6",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -324185,7 +324165,7 @@
         "company_name": "Autodesk",
         "id": "58dbe482-1363-47e3-a383-d91d547700b6",
         "title": "Intern Full Stack Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -324231,7 +324211,7 @@
         "company_name": "Autodesk",
         "id": "3c72bcab-2a9f-4f27-ac99-7c57f60d086b",
         "title": "Intern Full Stack Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332667,7 +332647,7 @@
         "company_name": "DraftKings",
         "id": "40ff8bd0-cf66-4727-a834-b196f4cdfb7c",
         "title": "Software Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -333320,7 +333300,7 @@
         "company_name": "Manulife Financial",
         "id": "62ddf41b-fb28-48c0-a0d4-ef12d453eb0b",
         "title": "Product Documentation Specialist \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
