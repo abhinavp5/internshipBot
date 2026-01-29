@@ -201922,27 +201922,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Baker Hughes",
-        "id": "04d0d2ee-6e0e-4d9a-a5fa-8bfab828e87f",
-        "title": "Early Career: Summer Engineering & Technology University Internships - Skaneateles - NY - 2025",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1761842309,
-        "date_posted": 1748928112,
-        "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NY-SKANEATELES-721-VISIONS-DRIVE/Early-Career--Summer-Engineering---Technology-University-Internships--Skaneateles--NY--2025--Evergreen---Open-_R126863",
-        "locations": [
-            "Auburn, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Baker-Hughes",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "6b627660-4b30-4447-a7f9-07b356553845",
@@ -205803,7 +205782,7 @@
         "company_name": "Vanguard",
         "id": "5b334b82-4782-46ed-8836-6a81873e19b2",
         "title": "Application Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -307169,7 +307148,7 @@
         "company_name": "Roche",
         "id": "3250a831-6d07-40f7-8289-d81cab9cacc2",
         "title": "2026 Summer Intern - Near Patient Care Product Marketing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
