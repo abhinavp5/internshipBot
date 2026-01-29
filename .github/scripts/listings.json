@@ -283181,7 +283181,7 @@
         "company_name": "CSAA Insurance Group",
         "id": "2d8e2870-24a4-4c95-b2c6-fe8b5f45b9bb",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -283346,7 +283346,7 @@
         "company_name": "CSAA Insurance Group",
         "id": "395f92f5-819a-4046-9638-3d78e8c23f98",
         "title": "Software Engineer Intern - Data Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -304553,7 +304553,7 @@
         "company_name": "Morgan Stanley",
         "id": "10a8315a-069e-4177-a5e0-e546001384bf",
         "title": "Machine Learning Research Associate Program - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -320212,7 +320212,7 @@
         "company_name": "MRI Software",
         "id": "b6bbc215-6c9b-4a9e-adba-8ef749880003",
         "title": "Spring Intern - Accounting Data Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -324438,7 +324438,7 @@
         "company_name": "Okta",
         "id": "ff7847ee-e8b6-4e19-8e44-abb50d8b54bf",
         "title": "Software Engineer Business Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -325288,7 +325288,7 @@
         "company_name": "Zoom",
         "id": "9204370c-bbcf-4471-a87b-d830e79e1dd8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -335317,7 +335317,7 @@
         "company_name": "Sun Life",
         "id": "a53b94fc-27b6-4744-819b-ef48bf608dd9",
         "title": "Student - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
