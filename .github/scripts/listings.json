@@ -185781,7 +185781,7 @@
         "company_name": "Electronic Arts",
         "id": "a8f3bd05-3e4b-46a4-b675-55525f7385ea",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -271979,7 +271979,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "34070e76-bc27-46a4-bc37-5aae60674289",
         "title": "Multi-Modal Cyber-physical sensing Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -276885,7 +276885,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "0436f6da-716a-4ecf-b66c-ce1476b1f498",
         "title": "Multi-Modal Cyber-Physical Sensing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -296956,7 +296956,7 @@
         "company_name": "Electronic Arts",
         "id": "9f6f99c0-bfff-46b8-9b1b-6790f3f6ec22",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -300445,7 +300445,7 @@
         "company_name": "Genentech",
         "id": "51bfa2b4-7642-45c7-85ba-8dd41edb6db7",
         "title": "Intern - Translational Safety - Computational Toxicology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -315140,7 +315140,7 @@
         "company_name": "Adobe",
         "id": "24e4fe7a-c158-4858-8d85-2260621e15ac",
         "title": "Intern - PhD Architecture",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -315660,7 +315660,7 @@
         "company_name": "Adobe",
         "id": "86e9e208-1a9b-472b-956e-406fbea88697",
         "title": "Intern - PhD Architecture",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -322064,7 +322064,7 @@
         "company_name": "The Walt Disney Company",
         "id": "71bef6c2-71f5-4795-8a69-390b0a087fc1",
         "title": "WDI Menu Planning Intern - Glendale - Summer/Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -329797,7 +329797,7 @@
         "company_name": "The Walt Disney Company",
         "id": "1125db48-d111-4051-a147-1798d619e4d1",
         "title": "WDI Menu Planning Intern - Glendale - Summer/Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -335148,7 +335148,7 @@
         "company_name": "DigitalOcean",
         "id": "90fade66-1be6-4d25-9072-dfede34d38d0",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -335171,7 +335171,7 @@
         "company_name": "DigitalOcean",
         "id": "8d306c69-e7af-4f59-aa59-c283ab399f8b",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -335194,7 +335194,7 @@
         "company_name": "DigitalOcean",
         "id": "695a0127-c9ef-402c-b86b-a810a1e8465f",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
