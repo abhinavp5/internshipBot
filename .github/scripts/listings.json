@@ -14088,7 +14088,7 @@
         "company_name": "TikTok",
         "id": "841e759c-87fe-4c36-97bd-6940efcf988a",
         "title": "Frontend Engineer Intern - Trust and Safety-Engineering-Data Product & General Service",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -218049,7 +218049,7 @@
         "company_name": "Nokia",
         "id": "499e780b-5da3-43e1-935c-b73d4d5588e4",
         "title": "Regression Lab Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -247894,7 +247894,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "a188f11f-2d43-4393-b93a-9b6599217778",
         "title": "SW Engineering Intern - CWL Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -271979,7 +271979,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "34070e76-bc27-46a4-bc37-5aae60674289",
         "title": "Multi-Modal Cyber-physical sensing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -276885,7 +276885,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "0436f6da-716a-4ecf-b66c-ce1476b1f498",
         "title": "Multi-Modal Cyber-Physical Sensing Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -309494,7 +309494,7 @@
         "company_name": "RWS",
         "id": "1c4d8d25-46e8-4ab2-9cf7-6dc05d6ec04a",
         "title": "AI Data Specialist - Georgia - US",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -309605,7 +309605,7 @@
         "company_name": "RWS",
         "id": "b8f208d0-ac14-4f0c-8f7f-7dc99da51af8",
         "title": "AI Data Specialist - Pennsylvania - US",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -330058,7 +330058,7 @@
         "company_name": "Citizens Financial Group",
         "id": "6a72ddd5-9465-4e7e-a040-43cdf143c05c",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -331262,7 +331262,7 @@
         "company_name": "The Walt Disney Company",
         "id": "2c682bba-3749-41db-84e4-3097716b59f8",
         "title": "Industrial Light & Magic \u2013 Graduate Advanced Development Group Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -334188,7 +334188,7 @@
         "company_name": "onsemi",
         "id": "3824f36e-55e4-48b3-90e4-d2ebcfcaa995",
         "title": "Summer 2026 \u2013 Device Characterization Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -336146,6 +336146,121 @@
         "sponsorship": "Other",
         "degrees": [
             "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "ce908ac5-9d9d-46ba-8bec-b53f8f0e01f9",
+        "title": "Undergraduate Placement Year Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769681482,
+        "date_posted": 1769681482,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000106251380",
+        "locations": [
+            "Stratford-upon-Avon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RWS",
+        "id": "7a3377ca-626a-4cad-b254-aa29218eeac8",
+        "title": "AI Data Specialist - North Carolina - US",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1769681025,
+        "date_posted": 1768345755,
+        "url": "https://jobs.lever.co/rws/b181fd3b-a1e6-4c95-a2d9-4ec756ccd948/apply",
+        "locations": [
+            "North Carolina"
+        ],
+        "company_url": "https://simplify.jobs/c/RWS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vivenu",
+        "id": "292a7c90-d3ac-48e1-bc8b-15055b917d43",
+        "title": "Working Student Web Development - d/f/m",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1769683150,
+        "date_posted": 1769683150,
+        "url": "https://jobs.lever.co/vivenu/55c891f2-7f8f-4352-9b2a-1537b36e1865/apply",
+        "locations": [
+            "Neukirchen-Vluyn, Germany",
+            "Frankfurt, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/Vivenu",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Genentech",
+        "id": "dfcc1ec1-d6ce-4f3d-8424-74ecfc5b702f",
+        "title": "2026 Summer Intern - Product Development Data Sciences",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769683913,
+        "date_posted": 1769653256,
+        "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Product-Development-Data-Sciences--Digital-Endpoints-and-Patient-Centered-Solutions_202601-101745",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Genentech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "IMC Trading",
+        "id": "b4eee98c-fb0c-44ed-9570-5313060b2e19",
+        "title": "IMC PhD Fellowship",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1769683690,
+        "date_posted": 1764026797,
+        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4710203101",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/IMC-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
