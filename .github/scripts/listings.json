@@ -122435,7 +122435,7 @@
         "company_name": "Veritiv Corporation",
         "id": "f74a3346-7390-48ea-9ba1-e3cc34d8ed74",
         "title": "Business Analytics Intern - Advanced Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -157565,7 +157565,7 @@
         "company_name": "Adobe",
         "id": "12541d33-0758-4ae0-b538-afd805e154dc",
         "title": "2026 Intern - Data Scientist - Predictive Finance",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -230693,7 +230693,7 @@
         "company_name": "KLA",
         "id": "53a4a3b4-826b-4dc2-9acd-5b0d72011aa8",
         "title": "KLAS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -231027,7 +231027,7 @@
         "company_name": "Alliance Laundry Systems",
         "id": "dda0a2ba-b6fc-4b39-8ba3-32ed779c5321",
         "title": "Product Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -231349,7 +231349,7 @@
         "company_name": "Trimble",
         "id": "047eb651-23cc-443c-be36-6ee14089715f",
         "title": "Agriculture Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -239335,7 +239335,7 @@
         "company_name": "GitHub",
         "id": "063dac2d-2288-4183-a9ba-49e49887ab0e",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -240843,7 +240843,7 @@
         "company_name": "Daikin Applied",
         "id": "86eb31c4-6e6c-4647-80e3-ecbd835252c8",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -268453,7 +268453,7 @@
         "company_name": "Samsung Research America",
         "id": "acf9910e-191b-4a1d-b33b-acf03a22163f",
         "title": "2026 Intern - AI Algorithm NPU Simulation - Spring/Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -276372,7 +276372,7 @@
         "company_name": "Micron Technology",
         "id": "7fa78086-3a51-4439-aad7-7f8ab20c3721",
         "title": "Intern \u2013 SIG Software Design",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -280170,7 +280170,7 @@
         "company_name": "ENOVIS",
         "id": "812f8024-227e-4cee-b12f-4a2b9862e1c7",
         "title": "Co-Op / Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -283995,7 +283995,7 @@
         "company_name": "Saab",
         "id": "71a83748-0ed8-4acf-9f8f-02682747d55c",
         "title": "Co-Op \u2013 Systems Engineering Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -310873,7 +310873,7 @@
         "company_name": "Micron Technology",
         "id": "9a790087-d2f6-46b5-b18a-fd5977b6f134",
         "title": "Intern \u2013 SIG Software Design",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -311622,7 +311622,7 @@
         "company_name": "Cummins",
         "id": "28ab4173-2010-4b7e-ab55-3300fa84f223",
         "title": "Placement Student-Packaging and Logistics Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -312204,7 +312204,7 @@
         "company_name": "General Dynamics UK",
         "id": "f2830949-d3f4-46e1-a40b-b21191c4d239",
         "title": "Co-op - Manufacturing Test Operator",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -313888,7 +313888,7 @@
         "company_name": "Johnson Controls",
         "id": "6954418c-e57d-4cec-945c-c277adcd73e2",
         "title": "Software Tools Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -316410,7 +316410,7 @@
         "company_name": "Okta",
         "id": "efa35b39-9f7c-4a9a-b2bc-7e43a2a6b92a",
         "title": "Software Engineer AI Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -316577,7 +316577,7 @@
         "company_name": "Okta",
         "id": "9b712c9a-a869-4df5-b830-14893ecf9364",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -318210,7 +318210,7 @@
         "company_name": "KLA",
         "id": "729e6ebe-e3b1-4580-a85d-fb0ba7a78eae",
         "title": "Software Engineer \u2013 Intern - AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -318586,7 +318586,7 @@
         "company_name": "KLA",
         "id": "4098188d-9f23-411a-98e1-15d00dd4a339",
         "title": "Software Engineer \u2013 Intern - AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -321145,7 +321145,7 @@
         "company_name": "Genentech",
         "id": "3211b3ab-096b-4448-9368-2867bc0d9978",
         "title": "2026 Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -327531,7 +327531,7 @@
         "company_name": "Fortinet",
         "id": "8b1fd0aa-01b3-46c6-b417-bbb9eea67622",
         "title": "Software Development Intern - GenAI",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -331991,7 +331991,7 @@
         "company_name": "Roche",
         "id": "3bda317b-c922-4845-af78-e074db4090ab",
         "title": "Instrument Control Software Intern - Instrument Control Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332970,7 +332970,7 @@
         "company_name": "Fiserv",
         "id": "868e02e4-42c4-4b33-ac1b-9570679b6494",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -336640,7 +336640,7 @@
         "company_name": "Manulife Financial",
         "id": "6024b08a-cd3b-4a3b-bf93-549286ee14b3",
         "title": "Intern - Asset Management AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
