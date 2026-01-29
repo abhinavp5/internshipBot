@@ -313908,7 +313908,7 @@
         "company_name": "Johnson Controls",
         "id": "6954418c-e57d-4cec-945c-c277adcd73e2",
         "title": "Software Tools Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -336285,6 +336285,30 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "FHLBank Atlanta",
+        "id": "2ad495e9-5fb4-4c81-83eb-f842ee410664",
+        "title": "Statistical and Quantitative Analytics Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769687562,
+        "date_posted": 1766013529,
+        "url": "https://fhlbatl.wd1.myworkdayjobs.com/fhlbatl/job/Atlanta-Georgia/Credit---Collateral-Analytics---Valuation-Intern_JR267",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/FHLBank-Atlanta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
