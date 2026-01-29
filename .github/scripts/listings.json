@@ -121,28 +121,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "KION",
-        "id": "f8cc8580-bb12-475a-940c-1fb79a41a605",
-        "title": "Software Consultant Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1748984834,
-        "date_posted": 1748984834,
-        "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Consultant-Intern-Co-op_JR-0076003",
-        "locations": [
-            "Grand Rapids, MI",
-            "Dallas, TX",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/e7d8f975-ac2f-4a71-9604-f1ec300eb8e5",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Blue Yonder",
         "id": "59190d35-f279-4c6a-8145-a299f858e36b",
@@ -210331,7 +210309,7 @@
         "company_name": "SharkNinja",
         "id": "9271135c-11f9-4b62-bf0e-31980aa5be8b",
         "title": "Spring 2026: Product Test Engineering Co-op - Shark - January through June",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
