@@ -153582,7 +153582,7 @@
         "company_name": "Nuro",
         "id": "83889439-020f-4e15-a292-988bced65515",
         "title": "Machine Learning Intern - Behavior Planning",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -182504,7 +182504,7 @@
         "company_name": "Oshkosh",
         "id": "a1170046-c2c3-488f-8d40-7af852884933",
         "title": "Telematics Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -316874,7 +316874,7 @@
         "company_name": "General Motors",
         "id": "cfad7e51-cf8d-467e-9e25-ec082f2e56e2",
         "title": "2026 Summer Intern - Machine Learning Engineer - AI Kernels",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -331028,7 +331028,7 @@
         "company_name": "RTX",
         "id": "6f0a97cc-b7a3-4327-8d17-8fa561f6b1e8",
         "title": "Software Engineering Co-Op - Summer/Fall 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -336053,6 +336053,99 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cox",
+        "id": "2e151594-0e1b-4706-88fd-01e8916d43b0",
+        "title": "Business Strategy/Analytics Intern - Vauto",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769672340,
+        "date_posted": 1769672340,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Georgia/Business-Strategy-Analytics-Intern---vAuto---Remote--Summer-2026_R202672230",
+        "locations": [
+            "Georgia"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Expedia Group",
+        "id": "c5c4e1be-1c78-4379-bb7b-e9efb3dc5b8d",
+        "title": "Career Exploration Program - 2026 - Seattle",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1769671910,
+        "date_posted": 1769671910,
+        "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Career-Exploration-Program---2026---Seattle_R-99747",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Expedia Group",
+        "id": "b398176e-abc3-4de5-a9d7-94ad6bf0cf3e",
+        "title": "Software Development Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769671903,
+        "date_posted": 1769671903,
+        "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Software-Development-Engineering-Intern---2026---Austin--San-Jose--Seattle_R-98557",
+        "locations": [
+            "Seattle, WA",
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Expedia Group",
+        "id": "75df6948-cba0-4e04-b5e4-8419586f740b",
+        "title": "Product Management MBA Intern - 2026 - Seattle",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769671880,
+        "date_posted": 1769671880,
+        "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Product-Management-MBA-Intern---2026---Seattle_R-101205",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "MBA"
         ]
     }
 ]
