@@ -65848,7 +65848,7 @@
         "company_name": "Squarepoint Capital",
         "id": "17f0421d-363e-4dcd-aa7f-0aa75fb79290",
         "title": "Intern Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -237848,7 +237848,7 @@
         "company_name": "Seagate Technology ",
         "id": "2167182e-6e6a-470d-aee3-8551a3af967d",
         "title": "Intern Ferroelectric Data Storage Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -263262,7 +263262,7 @@
         "company_name": "Keysight Technologies",
         "id": "2b124830-a256-4d1a-b8c2-252206ef7541",
         "title": "Intern \u2013 Machine Learning Security - Applied ML & Fault Injection",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -277166,7 +277166,7 @@
         "company_name": "GlobalFoundries",
         "id": "e2fa5f1b-1ec4-4ed3-ae7f-8b4657dbe333",
         "title": "Field Application Engineering Intern - Austin - TX",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -323115,7 +323115,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "72ba7747-3f28-4da3-8ab7-879d5e40057f",
         "title": "Acquisition and Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332792,7 +332792,7 @@
         "company_name": "Yes Energy",
         "id": "da1c45d2-89c1-4ec1-aa35-be75fcbf0325",
         "title": "Data Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -335472,7 +335472,7 @@
         "company_name": "Sun Life",
         "id": "523f33b3-f771-4b60-98bd-e8470a568dc3",
         "title": "Student Front End Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
