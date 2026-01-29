@@ -119002,7 +119002,7 @@
         "company_name": "Brown & Brown Insurance",
         "id": "cd1f6f9b-1513-40c6-bc1b-eb3bef96f7b6",
         "title": "Technology Solutions Intern - Technology Solutions",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -154562,7 +154562,7 @@
         "company_name": "Trane Technologies",
         "id": "c852cc52-a4b3-4aca-8d99-86d3547d6e18",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2026",
@@ -157063,7 +157063,7 @@
         "company_name": "Ciena",
         "id": "8dc1d7ce-7579-4ed8-b479-b4f2ac2e5e10",
         "title": "Waveserver Software Developer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -271979,7 +271979,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "34070e76-bc27-46a4-bc37-5aae60674289",
         "title": "Multi-Modal Cyber-physical sensing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -276885,7 +276885,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "0436f6da-716a-4ecf-b66c-ce1476b1f498",
         "title": "Multi-Modal Cyber-Physical Sensing Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -318153,7 +318153,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -330010,7 +330010,7 @@
         "company_name": "Amazon",
         "id": "cc1ccd3e-e492-4ada-89db-d3adc8b8ce3a",
         "title": "Technical Program Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -335659,7 +335659,7 @@
         "company_name": "Samsung",
         "id": "9c916af0-01bf-4c02-ac7b-a33ea671c76f",
         "title": "Intern \u2013 SSD Firmware Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -335886,6 +335886,173 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "fba62581-6225-4fa9-ac5a-16693d636d67",
+        "title": "Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769670807,
+        "date_posted": 1769670807,
+        "url": "https://lifeattiktok.com/search/7599841401208031541",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "cbbf47ef-6a62-4ee5-a7f8-501a96cd3916",
+        "title": "Product Manager Intern - Signal and Identity Product - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769670809,
+        "date_posted": 1769670809,
+        "url": "https://lifeattiktok.com/search/7600552989839018245",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "7139ea0b-2aa5-4846-9eae-f63857d3b093",
+        "title": "Product Manager Intern - Commerce Ads - 2026 Summer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769670800,
+        "date_posted": 1769670800,
+        "url": "https://lifeattiktok.com/search/7600558968608573749",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "6d135998-ad0c-432c-99e6-df5df406588c",
+        "title": "Product Manager Intern - Content and Service Ads - 2026 Summer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769670806,
+        "date_posted": 1769670806,
+        "url": "https://lifeattiktok.com/search/7600558971164870917",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "692d16e6-c0c5-4e83-aa1a-65c68743e284",
+        "title": "Platform-Product Solutions and Operations Intern - Ads Interface and Platform - 2026 Summer BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769670815,
+        "date_posted": 1769670815,
+        "url": "https://lifeattiktok.com/search/7600292878967785781",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "038c6d46-a2c1-4f12-914a-fc557f8ca47f",
+        "title": "Product Manager Intern - Ads Core Product - 2026 Summer BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769670811,
+        "date_posted": 1769670811,
+        "url": "https://lifeattiktok.com/search/7600566306989738245",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Faith Technologies",
+        "id": "402f7836-cf2e-4a1d-be74-172f88fd27b4",
+        "title": "Electrical Product Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769670686,
+        "date_posted": 1769670686,
+        "url": "https://faithtechnologies.wd1.myworkdayjobs.com/FTI_Engineering/job/WI---Appleton/Electrical-Product-Engineer---Intern_R8611-1",
+        "locations": [
+            "Appleton, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Faith-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
