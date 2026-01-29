@@ -122,26 +122,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "ATPCO",
-        "id": "76a231af-3c07-4dcb-bfe8-f308a7ebde0a",
-        "title": "Software Engineer Internship",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1748964399,
-        "date_posted": 1748964399,
-        "url": "https://jobs.smartrecruiters.com/ATPCO1/744000063086968",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "KION",
         "id": "f8cc8580-bb12-475a-940c-1fb79a41a605",
         "title": "Software Consultant Intern/Co-op",
@@ -13021,7 +13001,7 @@
         "company_name": "Palantir",
         "id": "bd5985bd-7c09-4dfe-b27f-46d6f0d3418a",
         "title": "Forward Deployed Software Engineer \u2013 Internship - Commercial",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -115678,7 +115658,7 @@
         "company_name": "Exegy",
         "id": "7f757e5c-1190-41d0-bb9d-a9103f9f3b83",
         "title": "Software Engineer Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -124397,7 +124377,7 @@
         "company_name": "Veritiv Corporation",
         "id": "d65b5c27-569e-4e46-8bb6-28dacedfb08d",
         "title": "Data Science Intern - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -271979,7 +271959,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "34070e76-bc27-46a4-bc37-5aae60674289",
         "title": "Multi-Modal Cyber-physical sensing Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -276885,7 +276865,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "0436f6da-716a-4ecf-b66c-ce1476b1f498",
         "title": "Multi-Modal Cyber-Physical Sensing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -279334,7 +279314,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "AbbVie",
-        "id": "7245fe53-8d24-4e7d-bf1e-e31625792cf0",
+        "id": "a5cda7bd-0d20-423e-961b-e5c7a69d1584",
         "title": "Statistics Intern",
         "active": true,
         "terms": [
@@ -313908,7 +313888,7 @@
         "company_name": "Johnson Controls",
         "id": "6954418c-e57d-4cec-945c-c277adcd73e2",
         "title": "Software Tools Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -314476,7 +314456,7 @@
         "company_name": "Koddi",
         "id": "9d4021b5-c1a0-421f-8126-cb7cf3fcd84f",
         "title": "Associate Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -318153,7 +318133,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -336304,6 +336284,349 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/FHLBank-Atlanta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Moog ",
+        "id": "9346fc4c-d258-4b9b-9ada-b89a5ede6400",
+        "title": "Intern Product Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769700193,
+        "date_posted": 1769700193,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Product-Engineering_R-25-15187",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Moog",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intapp",
+        "id": "7a195683-2530-44ef-a0ed-7ce997944bdd",
+        "title": "Implementation Services Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769700300,
+        "date_posted": 1769700300,
+        "url": "https://intapp.wd1.myworkdayjobs.com/Intapp/job/London-UK/Implementation-Services-Intern_R2024540-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Intapp",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Chipotle Mexican Grill",
+        "id": "fcdf039a-c1c8-4bb8-8f22-0aa0a5ed5549",
+        "title": "Observability & Monitoring \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769700040,
+        "date_posted": 1769700040,
+        "url": "https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/8890---500-Neil-Ave/Observability---Monitoring---Internship_JR-2026-00864456",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Chipotle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "National Information Solutions Cooperative (NISC)",
+        "id": "fb67548d-da3b-417a-9fe9-e8db9973f72b",
+        "title": "Intern Software Developer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769700159,
+        "date_posted": 1769700159,
+        "url": "https://job-boards.greenhouse.io/nisc/jobs/7574562",
+        "locations": [
+            "Bismarck, ND",
+            "Lake St Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-NISC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Chipotle Mexican Grill",
+        "id": "c11dec51-d013-4084-ab18-6021f734db78",
+        "title": "BI Engineering  Internship",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769700039,
+        "date_posted": 1769700039,
+        "url": "https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/9998---610-Newport-Office/BI-Engineering---Internship_JR-2026-00864372-1",
+        "locations": [
+            "Ainsworth, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Chipotle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chipotle Mexican Grill",
+        "id": "849e938e-ec4b-4197-aac7-783ada246b73",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769700035,
+        "date_posted": 1769700035,
+        "url": "https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/9998---610-Newport-Office/Software-Development---Internship_JR-2026-00864821",
+        "locations": [
+            "Newport, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/Chipotle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Fiserv",
+        "id": "7e54b766-69a1-42bd-befe-86cb710f3e19",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769700046,
+        "date_posted": 1769700046,
+        "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/King-of-Prussia-Pennsylvania/Summer-Intern_R-10375519",
+        "locations": [
+            "King of Prussia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fiserv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Chipotle Mexican Grill",
+        "id": "7921c995-8f34-478e-aada-21a9aeecfbd7",
+        "title": "Marketing Analytics \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769700047,
+        "date_posted": 1769700047,
+        "url": "https://chipotle.wd5.myworkdayjobs.com/ChipotleCareers/job/9998---610-Newport-Office/Marketing-Analytics---Internship_JR-2026-00864725",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Chipotle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nokia",
+        "id": "b1f3711a-0d3d-4f9c-8e2f-34bfd3c11ea7",
+        "title": "Next-Gen AI Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769699763,
+        "date_posted": 1769699763,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31279",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nokia",
+        "id": "7308da73-289c-4d5f-932c-fd1ab07f38ac",
+        "title": "5G Architecture Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769699776,
+        "date_posted": 1769699776,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/30024",
+        "locations": [
+            "Naperville, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nokia",
+        "id": "bf7512d9-a4e9-46a7-81bb-09ffecb1eaba",
+        "title": "Next-Gen AI Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769699282,
+        "date_posted": 1769699282,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31278",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nokia",
+        "id": "85494a34-4fde-43d3-a06e-522a6deed01d",
+        "title": "Analytics Next-Gen AI Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769699276,
+        "date_posted": 1769699276,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31271",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nokia",
+        "id": "7e791926-f892-4225-8377-273c897fe273",
+        "title": "Analytics Next-Gen AI Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769699268,
+        "date_posted": 1769699268,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31272",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nokia",
+        "id": "3b98e4cc-b2b6-4b9d-971a-b0ce1c97c753",
+        "title": "Next-Gen AI Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769699294,
+        "date_posted": 1769699294,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31275",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nokia",
+        "id": "3185e978-0b88-491a-a24d-db92ee2a0fd4",
+        "title": "Next-Gen AI Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769699279,
+        "date_posted": 1769699279,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31277",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
