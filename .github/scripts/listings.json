@@ -22228,7 +22228,7 @@
         "company_name": "Figma",
         "id": "87c3225e-4d3b-4a14-b653-79e64a41ba75",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -108674,7 +108674,7 @@
         "company_name": "Shure",
         "id": "34053954-ba41-4968-9bc9-770b754f1e15",
         "title": "Audio Applied Research Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -273759,7 +273759,7 @@
         "company_name": "National Information Solutions Cooperative (NISC)",
         "id": "1e9a976a-0c17-4577-b784-558dd7bb726d",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
