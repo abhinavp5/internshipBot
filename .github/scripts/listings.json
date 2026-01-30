@@ -121,46 +121,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Trimble",
-        "id": "a0e20265-4388-4929-9b6c-38858e0554b7",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1749004218,
-        "date_posted": 1749004218,
-        "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OR-Lake-Oswego/Software-Engineering-Intern_R49686",
-        "locations": [
-            "Portland, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Trimble",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Kabam",
-        "id": "12aad2ba-176f-4115-8e62-1ad5f89c9b91",
-        "title": "Backend Software Engineer Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1749005027,
-        "date_posted": 1749005027,
-        "url": "https://jobs.lever.co/kabam/221155bc-928a-42e1-be9e-0b32d3137fbf/apply",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Kabam",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "TransMarket Group",
         "id": "cf412da4-1f1d-43aa-8f7d-135ac859dfdf",
@@ -62474,7 +62434,7 @@
         "company_name": "Seagate Technology ",
         "id": "0173597f-5cd7-4718-8091-1446a8d54808",
         "title": "Data Analyst Intern - Global Revenue Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -135752,7 +135712,7 @@
         "company_name": "Atomic Semi",
         "id": "ab56d435-ad3a-42ea-a615-17abf29dd893",
         "title": "Packaging Engineering Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -155353,7 +155313,7 @@
         "company_name": "Lenovo",
         "id": "5bb0a0b2-239c-49ea-9e3e-f6f70617e620",
         "title": "Product Management Intern - 4P",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -190377,7 +190337,7 @@
         "company_name": "Quora",
         "id": "f7151fdb-176f-4a80-9029-07328d12f586",
         "title": "Software Engineer Intern - IOS - Poe - Remote",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -225899,7 +225859,7 @@
         "company_name": "AbbVie",
         "id": "42abcc91-b338-4b13-9ab2-00c4df3422e0",
         "title": "2026 Graph Machine Learning Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -271833,7 +271793,7 @@
         "company_name": "AbbVie",
         "id": "6afd2903-384a-4283-b15a-896f6b3c1cb1",
         "title": "2026 Graph Machine Learning Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -280981,7 +280941,7 @@
         "company_name": "Thermo Fisher Scientific",
         "id": "1ae291a9-944a-405f-a261-e4e85c4da6d0",
         "title": "Field Service Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -284210,7 +284170,7 @@
         "company_name": "Nokia",
         "id": "22c47f0e-e85e-4dfb-9efd-e9b03207ffdf",
         "title": "Database Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -314158,7 +314118,7 @@
         "company_name": "Astranis",
         "id": "30a0e2b5-19af-4104-ad29-ba71953f2cb6",
         "title": "Harness Manufacturing Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -318049,7 +318009,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -321377,7 +321337,7 @@
         "company_name": "NVIDIA",
         "id": "fc0f7141-2438-456e-8059-518d22152fa0",
         "title": "System Software Engineering Intern - Video - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -328418,7 +328378,7 @@
         "company_name": "ASML",
         "id": "bc163357-b6b3-4262-afba-463cca65589d",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -332800,7 +332760,7 @@
         "company_name": "Yes Energy",
         "id": "05133d7a-f0a6-442c-a281-7ea6b861cb54",
         "title": "Energy Market Analytics Intern - Encompass",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -336812,7 +336772,7 @@
         "company_name": "Intuit",
         "id": "17016a7e-3932-4e2f-9431-d4330225a28b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -338710,6 +338670,260 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Idaho National Laboratory",
+        "id": "fac163f7-7192-4515-b949-e4ee50109d06",
+        "title": "DOE-EM University Programs Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769739075,
+        "date_posted": 1769739075,
+        "url": "https://inl.taleo.net/careersection/inl_intern/jobdetail.ftl?job=23660",
+        "locations": [
+            "Idaho Falls, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Idaho-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nokia",
+        "id": "4ce32a99-a08d-48fc-8293-bca01ac1db1e",
+        "title": "AI R&D Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769738825,
+        "date_posted": 1769738825,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31308",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nokia",
+        "id": "48770761-3f0f-4f55-811a-edfc83d2d564",
+        "title": "AI R&D Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769738854,
+        "date_posted": 1769738854,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31309",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Genentech",
+        "id": "d1eb10c3-1441-4c3b-8ec2-f0ab15c7dd87",
+        "title": "Intern - Data & Digital Catalysts",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769740988,
+        "date_posted": 1769740988,
+        "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Data---Digital-Catalysts_202601-102115",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Genentech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Astranis",
+        "id": "be13d84d-5972-4164-acac-f89164f8eb93",
+        "title": "Software Defined Radio Hardware Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769740801,
+        "date_posted": 1769740801,
+        "url": "https://job-boards.greenhouse.io/astranis/jobs/4646558006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Astranis",
+        "id": "f261c77c-0715-41ae-b517-3e4e0158793a",
+        "title": "Software Developer - Network Software Associate",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1769740805,
+        "date_posted": 1766014536,
+        "url": "https://job-boards.greenhouse.io/astranis/jobs/4621916006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Flexera",
+        "id": "f58f5aee-3b14-4e79-85d6-ae23856dc501",
+        "title": "Product Manager Intern - Agentic AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769742446,
+        "date_posted": 1769742446,
+        "url": "https://flexerasoftware.wd1.myworkdayjobs.com/FlexeraSoftware/job/Home-United-States/Product-Manager-Intern---Agentic-AI_16910",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Flexera",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Flexera",
+        "id": "27dc1ee8-d52e-440e-9aa3-53dd2751b3be",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769742436,
+        "date_posted": 1769742436,
+        "url": "https://flexerasoftware.wd1.myworkdayjobs.com/FlexeraSoftware/job/Home-United-States/Data-Analytics_16909",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Flexera",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Flexera",
+        "id": "23df1b1e-8dbd-491b-9cf2-6070295153e2",
+        "title": "AI Operations Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769742455,
+        "date_posted": 1769742455,
+        "url": "https://flexerasoftware.wd1.myworkdayjobs.com/FlexeraSoftware/job/Home-United-States/AI-Operations-Intern_16874",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Flexera",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Flextronics International",
+        "id": "ffaf9ccc-a7ec-419a-92c7-350fb85d96f4",
+        "title": "Test Engineering Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769742330,
+        "date_posted": 1769742330,
+        "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Test-Engineering-Intern---Summer-2026_WD213035",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Flextronics-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Flextronics International",
+        "id": "9dc7e916-4b4c-4a90-b9fc-89ac54036885",
+        "title": "Test Development Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769742267,
+        "date_posted": 1769742267,
+        "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Test-Development-Engineering-Intern---Summer-2026_WD214176",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Flextronics-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
