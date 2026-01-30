@@ -330574,7 +330574,7 @@
         "company_name": "Sandisk",
         "id": "a17112cf-d4d0-48a6-8dcf-811a35a8e5e3",
         "title": "PhD Intern - Advanced Memory Technology - AI/ML Focus",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -333150,7 +333150,7 @@
         "company_name": "Fiserv",
         "id": "3a2a0638-042d-4529-9c01-d75c3751d4ef",
         "title": "Application Development \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -333664,7 +333664,7 @@
         "company_name": "Sandisk",
         "id": "e5134075-1379-47f6-9977-846cfae23ba9",
         "title": "PhD Intern - Advanced Memory Technology - AI/ML Focus",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -334113,7 +334113,7 @@
         "company_name": "Gannet Fleming",
         "id": "52d594bb-36c5-4d43-85f9-ef8357963a47",
         "title": "Intern Geographic Information Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -336935,7 +336935,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "AbbVie",
-        "id": "b268e282-d4a6-464f-b15d-53bd9ca3132a",
+        "id": "fe3dece1-314a-4e71-b16e-552c58c4356d",
         "title": "Statistics Intern - PhD",
         "active": true,
         "terms": [
@@ -337697,7 +337697,7 @@
         "company_name": "Fiserv",
         "id": "121eb2e5-0c4d-49a2-999d-1de0a80ba1f6",
         "title": "Technology \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -338342,7 +338342,7 @@
         "company_name": "Roche",
         "id": "8e853a30-7282-45b8-8b0e-a487c01679e1",
         "title": "Intern - Computational Science - Sci",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -339516,5 +339516,138 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Anduril",
+        "id": "7b18d769-83e7-4fac-b679-0c87898f9145",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769786637,
+        "date_posted": 1769786637,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5038508007",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University Health Network",
+        "id": "732eb41e-6f38-461e-ad70-891160ee752f",
+        "title": "Research Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1769786454,
+        "date_posted": 1769786454,
+        "url": "https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000106530475",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Health-Network",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Strathcona County",
+        "id": "540a7267-411d-4d56-92f2-8c75cbe4bf62",
+        "title": "GIS Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1769786191,
+        "date_posted": 1769786191,
+        "url": "https://fa-erjf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/12461",
+        "locations": [
+            "Edmonton, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Strathcona-County",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Radius Limited",
+        "id": "21db6f78-d37a-4cd6-b38b-6b440fb2a995",
+        "title": "Trainee Telematics & CCTV Installation Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1769785869,
+        "date_posted": 1769785869,
+        "url": "https://jobs.smartrecruiters.com/RadiusLimited/744000106508785",
+        "locations": [
+            "Gloucester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Radius-Limited",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "6f9ad2c5-dc56-4c6d-b2bd-2368ada59144",
+        "title": "Administrative Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769785693,
+        "date_posted": 1769785693,
+        "url": "https://careers-gdms.icims.com/jobs/70489/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Dedham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Amazon",
+        "id": "b2359b95-1834-4ff2-ae84-357a78e6a6a9",
+        "title": "Digital Product Manager Apprentice - Months Fixed Term Contract",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1769785623,
+        "date_posted": 1769785623,
+        "url": "https://amazon.jobs/en/jobs/3170409/digital-product-manager-apprentice-24-months-fixed-term-contract",
+        "locations": [
+            "Swansea, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
