@@ -191063,7 +191063,7 @@
         "company_name": "Sanofi",
         "id": "1438ef26-b1f9-43ca-b09e-327b4c31ae10",
         "title": "Summer 2026 Intern - Agentic AI for CMC Digitalization",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -262292,7 +262292,7 @@
         "company_name": "Thales",
         "id": "0e3399e6-9a3f-4334-a1d8-6d1eca38f74b",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -266756,7 +266756,7 @@
         "company_name": "TripAdvisor",
         "id": "1dfa8f95-361c-4ac9-acc0-b5f85a3c8e4d",
         "title": "Oxford Software Engineering Internship 2026 - Viator",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -294866,7 +294866,7 @@
         "company_name": "Jones Lang LaSalle (JLL)",
         "id": "1a18a75a-cbee-474d-81db-6bc5ed998efb",
         "title": "Business Intelligence Intern - Chicago",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -307149,7 +307149,7 @@
         "company_name": "Biogen",
         "id": "c67978ec-ccad-4b6f-aa13-40814ac5a2cd",
         "title": "Co-op 2\n02\n02\n02\n02\n02\n02\n02\n0",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -317969,7 +317969,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -323737,7 +323737,7 @@
         "company_name": "GE Vernova",
         "id": "1e422945-c4ed-47f7-8b77-f706d6578f73",
         "title": "Data Analyst Intern - Competency Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -324692,7 +324692,7 @@
         "company_name": "Wex",
         "id": "7abfc37a-5abb-4568-b5f1-1a0cefcc1b19",
         "title": "Intern \u2013 Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -333127,7 +333127,7 @@
         "company_name": "Fiserv",
         "id": "4ae70130-4afe-4a2d-b7c4-ad1e0bf6ac02",
         "title": "Application Development Intern \u2013 Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -335129,7 +335129,7 @@
         "company_name": "GE Healthcare",
         "id": "f968e03f-64de-48e4-9a0a-8b182d07f1bb",
         "title": "Field Service Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -335264,7 +335264,7 @@
         "company_name": "Fiserv",
         "id": "6c6314c5-137d-44a9-8a68-f6813aba6fda",
         "title": "Application Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -336269,7 +336269,7 @@
         "company_name": "Fiserv",
         "id": "7e54b766-69a1-42bd-befe-86cb710f3e19",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -339646,6 +339646,162 @@
             "Swansea, UK"
         ],
         "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Parexel",
+        "id": "7dd7d16e-d74f-492a-8788-e677ccdd8c5c",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769787647,
+        "date_posted": 1769787647,
+        "url": "https://wd1.myworkdaysite.com/en-US/recruiting/parexel/Parexel_External_Careers/job/United-States---Raleigh---North-Carolina/Data-Engineer-Intern_R0000037539-1",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Parexel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "First Canadian Title",
+        "id": "2497f5fa-ec27-4a8b-9304-0f027e85f262",
+        "title": "Summer Student - IT RPA",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1769787671,
+        "date_posted": 1769787671,
+        "url": "https://firstam.wd1.myworkdayjobs.com/fctcareers/job/CAN-Ontario-Oakville/Summer-Student---IT-RPA_R054226-1",
+        "locations": [
+            "Oakville, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/First-Canadian-Title",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "0317a0c5-1ffb-4bbe-bc96-b9c6e1c3242f",
+        "title": "AI Prompt Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769787609,
+        "date_posted": 1769787609,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Ashburn/AI-Prompt-Engineer-Intern_321469",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fiserv",
+        "id": "c503b4a0-11a3-4b94-a58d-d8449172452b",
+        "title": "Application Development Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769787306,
+        "date_posted": 1769787306,
+        "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Fishers-Indiana/Application-Development-Intern_R-10387046",
+        "locations": [
+            "Fishers, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Fiserv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "afde11c1-97f0-4edc-a8eb-8550d2832ddd",
+        "title": "US Electronics Rebuild Technician Intern - New York - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769787155,
+        "date_posted": 1769787155,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/US--New-York--Electronics-Rebuild-Technician-Intern--Summer-2026-_JR-2600573",
+        "locations": [
+            "Malta, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Apex Fintech Solutions",
+        "id": "aa445a1c-4eab-4412-945f-c59ffe61f0c6",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1769787156,
+        "date_posted": 1769787156,
+        "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/New-York-City-NY/Product-Management-Intern_JR104255",
+        "locations": [
+            "Austin, TX",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Apex-Fintech-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Markel Group, Inc.",
+        "id": "a131ddf9-2292-4359-be37-aee89da57d35",
+        "title": "Career Returner - Cat Risk Researcher",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1769786864,
+        "date_posted": 1769786864,
+        "url": "https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/London---UK/Career-Returner---Cat-Risk-Researcher_R0022483-2",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Markel-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
