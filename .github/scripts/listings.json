@@ -244418,7 +244418,7 @@
         "company_name": "Virtu Financial",
         "id": "d6b7624f-ae2d-437a-b921-08a0a1e5d2f9",
         "title": "Intern - Low Latency Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -268035,7 +268035,7 @@
         "company_name": "Mercury Insurance",
         "id": "c41c909f-c7c0-45f5-b91a-37bf890a9e14",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -271476,7 +271476,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "f5df3c99-c3af-4651-96b9-286e971a6753",
         "title": "Hpe Labs \u2013 Intern - AI Research Lab Research Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -275427,7 +275427,7 @@
         "company_name": "Intelcom | Dragonfly",
         "id": "19fbb746-bbc7-4c37-8152-3ca5d7bb0c66",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -279553,7 +279553,7 @@
         "company_name": "Intelcom | Dragonfly",
         "id": "87ffce1b-535e-412b-abd7-3e349eeab2c1",
         "title": "Process Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -289522,7 +289522,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "8dadac9d-d649-4c92-9614-10edf2fde03f",
         "title": "Electronic Components Lab Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -299615,7 +299615,7 @@
         "company_name": "Jane Street",
         "id": "416ff952-5880-4c3f-ae72-00ebda5cbc8b",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -309065,7 +309065,7 @@
         "company_name": "Perplexity AI",
         "id": "667a14b7-c214-403c-b1c1-adcde95fec1a",
         "title": "Intern Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -310372,7 +310372,7 @@
         "company_name": "Clearway Energy",
         "id": "23852298-318d-4368-b445-2034daa4426f",
         "title": "GIS Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -317506,7 +317506,7 @@
         "company_name": "Clearway Energy",
         "id": "37eda061-6987-473b-aab4-a6702314df07",
         "title": "Intern \u2013 Market Fundamentals",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -327591,7 +327591,7 @@
         "company_name": "Clearway Energy",
         "id": "956a8f40-2976-4c1a-b220-4242370099ad",
         "title": "Intern Forecasting and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -329574,7 +329574,7 @@
         "company_name": "Autodesk",
         "id": "a6f96e29-36fa-4762-b516-8990ecdab8d1",
         "title": "Intern Software Developer - Stagiaire en d\u00e9veloppement logiciel",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332859,7 +332859,7 @@
         "company_name": "SAS",
         "id": "274cd31a-3f8f-446f-b512-2b0e32fd6959",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -337611,7 +337611,7 @@
         "company_name": "Pagaya Investments",
         "id": "53436cfe-344d-44b4-9f43-f1674149208d",
         "title": "Product Manager \u2013 MBA Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
