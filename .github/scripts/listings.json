@@ -207165,7 +207165,7 @@
         "company_name": "Solar Turbines",
         "id": "5766a4a6-136e-441e-97c7-1c312095ee12",
         "title": "2026 Internship - Data Steward",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025",
@@ -208764,7 +208764,7 @@
         "company_name": "Adobe",
         "id": "271e8ac4-5918-43dd-84e7-581a5950e52e",
         "title": "2026 AI/ML Intern - Applied Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -315452,7 +315452,7 @@
         "company_name": "Roche",
         "id": "c5ab9139-3ea9-42d6-a030-d1ee545bcbc1",
         "title": "Intern - RDS Sequencing Network - Sequencing Software Chapter",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -327490,7 +327490,7 @@
         "company_name": "Brigham Young University - Provo",
         "id": "37a0f910-9956-42b1-87c6-0e29cebe22c5",
         "title": "Economics Research Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -329499,7 +329499,7 @@
         "company_name": "The Walt Disney Company",
         "id": "9a6209cf-930d-474c-97b0-ee4048f7c689",
         "title": "Graduate Production Engineer Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -336038,7 +336038,7 @@
         "company_name": "Genentech",
         "id": "dfcc1ec1-d6ce-4f3d-8424-74ecfc5b702f",
         "title": "2026 Summer Intern - Product Development Data Sciences",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
