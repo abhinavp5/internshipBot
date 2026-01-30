@@ -66690,7 +66690,7 @@
         "company_name": "Cox",
         "id": "0e498d95-72d6-4ddc-82c2-6284cf1c7e7d",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -297728,7 +297728,7 @@
         "company_name": "Jones Lang LaSalle (JLL)",
         "id": "456dddaf-3532-4b0a-83f8-9a86d9fdc284",
         "title": "Technology Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -308667,7 +308667,7 @@
         "company_name": "Prudential Financial",
         "id": "81cc3587-f271-40e6-908a-ba39add02156",
         "title": "Public Fixed Income Investment Analyst Intern - Portfolio Analysis Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -308971,7 +308971,7 @@
         "company_name": "AstraZeneca",
         "id": "e22728fc-cf86-48fd-a3df-0c68037b4cdb",
         "title": "Clinical Information Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -320094,7 +320094,7 @@
         "company_name": "The Walt Disney Company",
         "id": "2efba780-c3a5-4e67-a047-13e297522b19",
         "title": "WDI Project Controls Estimating Intern - FL - Summer/Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -323616,7 +323616,7 @@
         "company_name": "The Boeing Company",
         "id": "e669e7f0-c322-496d-968d-89882e7802f9",
         "title": "Drexel Internship 2026 - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2026",
@@ -331171,7 +331171,7 @@
         "company_name": "The Walt Disney Company",
         "id": "76bdb398-dcfc-47f3-b5b5-38c017be2d4d",
         "title": "WDI Project Controls Estimating Intern - FL - Summer/Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -334788,7 +334788,7 @@
         "company_name": "Blackberry",
         "id": "9752d330-5e67-49ab-a5bd-b14cf6bf44b7",
         "title": "Qnx \u2013 Embedded Software Development Student - Sensor Framework",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
