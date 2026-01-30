@@ -53853,7 +53853,7 @@
         "company_name": "Qualcomm",
         "id": "a5667671-ed9d-4aa4-b069-c42cb07131c1",
         "title": "Qualcomm Government Technologies \u2013 Engineering Internship - Interim Engineering Intern - SW",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -244907,7 +244907,7 @@
         "company_name": "Rheem",
         "id": "1aee86a9-abac-4c51-be00-3d6cb590e5cb",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -326385,7 +326385,7 @@
         "company_name": "Crowdstrike",
         "id": "8106c5a5-4d05-4de8-b462-ed9732be89f0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -328732,7 +328732,7 @@
         "company_name": "RTX",
         "id": "f43f12d3-669b-41b4-80ba-aa1eb178e9c9",
         "title": "2026 Intern \u2013 Software Engineer Intern - CO",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -329456,7 +329456,7 @@
         "company_name": "The Walt Disney Company",
         "id": "abd34d75-2a18-4b8b-97f2-c5f201f8e7c9",
         "title": "Studio Talent Group Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -330297,7 +330297,7 @@
         "company_name": "Genentech",
         "id": "07cd5ebf-b750-47d7-8173-a0d881d6ba85",
         "title": "Intern - Clinical Pharmacology - Real-World Treatment Trajectory Modeling",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -339342,6 +339342,110 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "7d2f4d2a-095a-4783-82f1-cb02fa15969c",
+        "title": "Software Engineer: Co-Op Intern Opportunities",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769769188,
+        "date_posted": 1769769188,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556746673",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Anywhere",
+        "id": "63f3cb92-828b-4fad-b9fe-bdf3bc3cc824",
+        "title": "Application Developer Intern - Client Innovation Center",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1769769126,
+        "date_posted": 1769769126,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87264",
+        "locations": [
+            "East Lansing, MI",
+            "Monroe, LA",
+            "Baton Rouge, LA",
+            "Buffalo, NY",
+            "NYC",
+            "Louisiana",
+            "Michigan",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Anywhere-Real-Estatea",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Anywhere",
+        "id": "2dc41450-a0f3-4764-9d93-ff95749a4797",
+        "title": "AI Foundations \u2013 Research Internship: 2026 - Research Scientist",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1769769125,
+        "date_posted": 1769769125,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58805",
+        "locations": [
+            "Cambridge, MA",
+            "San Jose, CA",
+            "New York",
+            "Albany, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Anywhere-Real-Estatea",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Genentech",
+        "id": "838ee252-daeb-4f44-9a48-66fb5c9d070a",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769338361,
+        "date_posted": 1769037517,
+        "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Patient-Centered-Outcomes-Research-in-Data-Sciences-and-Analytics_202601-101257",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Genentech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
