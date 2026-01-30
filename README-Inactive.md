@@ -21848,7 +21848,7 @@
 <td>Assurance Artificial Intelligence Technology – Intern - Summer 2026</td>
 <td><details><summary><strong>15 locations</strong></summary>Boston, MA<br>Seattle, WA<br>Houston, TX<br>California<br>Washington, DC<br>SF<br>LA<br>Dallas, TX<br>Philadelphia, PA<br>Chicago, IL<br>Norridge, IL<br>NYC<br>Minneapolis, MN<br>Portland, OR<br>Atlanta, GA</details></td>
 <td>🔒</td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
