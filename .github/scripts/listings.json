@@ -252415,7 +252415,7 @@
         "company_name": "Microsoft",
         "id": "2e350d27-cce6-45f2-aecd-45ed31f5f06f",
         "title": "Research Intern - Multimodal Deep Learning for Healthcare",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -271196,7 +271196,7 @@
         "company_name": "Virtu Financial",
         "id": "efc1de62-7798-4a50-847e-7d3c591fd2e9",
         "title": "Intern - Trading Operations Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -303791,7 +303791,7 @@
         "company_name": "Thales",
         "id": "0148433f-4bc8-4e07-8ed3-3dcfa964d37e",
         "title": "Environmental Test and Trials Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -310109,7 +310109,7 @@
         "company_name": "Ciena",
         "id": "8797f83d-acf0-4ffb-93d1-d18e5824aef1",
         "title": "Hardware Design Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332853,7 +332853,7 @@
         "company_name": "Rocket Companies",
         "id": "3e9b649c-56d2-4ee6-87a5-5e91fff90254",
         "title": "Product Development Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -335197,7 +335197,7 @@
         "company_name": "Fiserv",
         "id": "92c925bb-24a7-4b68-b51d-d900b9f91269",
         "title": "Application Development \u2013 Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -339488,6 +339488,29 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Fidelity-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citi",
+        "id": "ca36fb75-847e-444e-a42d-144a26d6101b",
+        "title": "Technology Apprentice",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769783525,
+        "date_posted": 1769783525,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Technology-Apprentice_26935330",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Citigroup",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
