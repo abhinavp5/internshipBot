@@ -142,26 +142,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "ASML",
-        "id": "cbdf0a7e-972e-4770-a990-a667d32260c0",
-        "title": "Co-op \u2013 Internship - Feature Detection and Data Science",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1749067511,
-        "date_posted": 1749067511,
-        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Fall-2025-Co-op---Feature-Detection-and-Data-Science--Internship--_J-00321843",
-        "locations": [
-            "Wilton, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/ASML",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Allstate Insurance Company",
         "id": "8e9ef1ff-d870-476f-a728-393baf90a0d7",
         "title": "Data Governance Co-op",
@@ -128641,7 +128621,7 @@
         "company_name": "Copart",
         "id": "7c7f85c6-3ab8-487b-9d04-9ff8f5c1d7b3",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -256735,7 +256715,7 @@
         "company_name": "Vera Institute of Justice",
         "id": "658bd1bd-b3ba-4414-adb3-3b0a53d93ae6",
         "title": "Data Engineering Intern - Research Central",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -263613,7 +263593,7 @@
         "company_name": "Dropbox",
         "id": "09217d4b-5a71-493a-a526-1fbc81e8c481",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
