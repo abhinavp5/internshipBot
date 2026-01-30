@@ -225819,7 +225819,7 @@
         "company_name": "AbbVie",
         "id": "42abcc91-b338-4b13-9ab2-00c4df3422e0",
         "title": "2026 Graph Machine Learning Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -271753,7 +271753,7 @@
         "company_name": "AbbVie",
         "id": "6afd2903-384a-4283-b15a-896f6b3c1cb1",
         "title": "2026 Graph Machine Learning Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -317969,7 +317969,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -338957,6 +338957,80 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AT&T",
+        "id": "2c5931a1-57ff-4da6-bb97-271e3d86f6c4",
+        "title": "AT&T Summer Internship - Technology",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769757826,
+        "date_posted": 1769757826,
+        "url": "https://att.wd1.myworkdayjobs.com/attcollege/job/Dallas-Texas/AT-T-Summer-Internship---Technology_R-98647",
+        "locations": [
+            "Washington, DC",
+            "Bothell, WA",
+            "Dallas, TX",
+            "Bedminster, NJ",
+            "Middletown Township, NJ",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/ATT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dordt University",
+        "id": "684c172f-c63c-4664-966f-e1349577d347",
+        "title": "AI and Mobile Application Developer Intern iOS/Android",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769756585,
+        "date_posted": 1769756585,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=86158",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Dordt-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dordt University",
+        "id": "64cca623-b86e-4957-9f5b-d1c7c83c3e88",
+        "title": "AI/ML Engineering internship: SVL",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1769756602,
+        "date_posted": 1769756602,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=84961",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dordt-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
