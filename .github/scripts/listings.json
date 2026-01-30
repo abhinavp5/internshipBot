@@ -326431,7 +326431,7 @@
         "company_name": "Insulet Corporation",
         "id": "6e7e7af3-ade4-43c0-84fb-28d24df52972",
         "title": "Co-op Embedded Software Test Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -330530,7 +330530,7 @@
         "company_name": "Kymera Therapeutics",
         "id": "e872c8d3-f962-402e-9ffc-8ddeea9b200a",
         "title": "Informatics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -339465,6 +339465,29 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fidelity Investments",
+        "id": "9af2b479-ce6b-4409-a89d-701644cff541",
+        "title": "Intern Data Science and Optimization",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769782509,
+        "date_posted": 1769782509,
+        "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Intern--Data-Science-and-Optimization_2018173",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-Investments",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
