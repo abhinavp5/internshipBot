@@ -121,26 +121,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "TransMarket Group",
-        "id": "cf412da4-1f1d-43aa-8f7d-135ac859dfdf",
-        "title": "Algorithmic Trader Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754509121,
-        "date_posted": 1749008803,
-        "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/4749906007?gh_jid=4749906007",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/TransMarket-Group",
-        "is_visible": true,
-        "sponsorship": "Offers Sponsorship"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Envista",
         "id": "5056b313-06b8-4dbd-845f-a7d6333b24c1",
@@ -126986,7 +126966,7 @@
         "company_name": "World Kinect",
         "id": "a55eefb6-8f37-4199-84c2-2749dd663aa3",
         "title": "Technology Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -212949,7 +212929,7 @@
         "company_name": "Root Insurance",
         "id": "052213fc-a299-4297-8d52-650fdcb79ca2",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -296096,7 +296076,7 @@
         "company_name": "Walmart",
         "id": "0d6d73ee-d16c-443f-b664-71a5a072a70d",
         "title": "Apd \u2013 Product Management Corporate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -338924,6 +338904,79 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Air Liquide",
+        "id": "fae7d517-265e-418f-a031-17eeabca49a0",
+        "title": "AI and Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769744087,
+        "date_posted": 1769744087,
+        "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Newark-DE-ICD/AI-and-Machine-Learning-Intern_R10083794",
+        "locations": [
+            "Newark, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/Air-Liquide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Air Liquide",
+        "id": "eab11445-8ecf-43a1-aaea-3bd6a779a644",
+        "title": "HSE Data & Automation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1769744090,
+        "date_posted": 1769744090,
+        "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Newark-DE-ICD/HSE-Data---Automation-Intern_R10083535",
+        "locations": [
+            "Newark, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/Air-Liquide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "TransMarket Group",
+        "id": "cf412da4-1f1d-43aa-8f7d-135ac859dfdf",
+        "title": "Algorithmic Trader",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2026",
+            "Spring 2027"
+        ],
+        "date_updated": 1762906337,
+        "date_posted": 1753721607,
+        "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/4749906007?gh_jid=4749906007",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/TransMarket-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
