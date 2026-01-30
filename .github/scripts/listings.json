@@ -29395,29 +29395,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Arctic Wolf",
-        "id": "ebaaa4c7-c721-4e38-ad14-5d5a39b5a017",
-        "title": "Triage Security Analyst \u2013 Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1749074960,
-        "date_posted": 1749074960,
-        "url": "https://arcticwolf.wd1.myworkdayjobs.com/en-US/External/job/Waterloo-ON-CAN/Triage-Security-Analyst---Intern_R23_483",
-        "locations": [
-            "Kitchener, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Arctic-Wolf",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1755638663,
         "url": "https://job-boards.greenhouse.io/figma/jobs/5602159004?gh_jid=5602159004",
         "company_name": "Figma",
@@ -84534,7 +84511,7 @@
         "company_name": "Atlassian",
         "id": "407f62ec-20c4-42c5-86b4-1a79b9463f6a",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -287768,7 +287745,7 @@
         "company_name": "General Dynamics UK",
         "id": "a05e8f3e-8323-48df-8bf8-2f962d53c3cc",
         "title": "Co-op May 2026 - Meshnet Hardware Engineering - 16-Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -300638,7 +300615,7 @@
         "company_name": "John Deere",
         "id": "b1741d69-5ace-4963-a1cd-b267f3f4b160",
         "title": "Part Time Student - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
