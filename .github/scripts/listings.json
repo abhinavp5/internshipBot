@@ -141,26 +141,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Bank of Montreal",
-        "id": "01a5cd25-7d67-4b65-b1db-7e14805710fe",
-        "title": "Junior Engineer \u2013 Co-op/Internship - Electronic Trading Infrastructure",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1749127643,
-        "date_posted": 1749127643,
-        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/REMOTETELETRAVAIL-ON-CAN/Junior-Engineer--Electronic-Trading-Infrastructure--Fall-2025--Co-op-Internship----8-months_R250014438",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/BMO",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "NVIDIA",
         "id": "e85206d2-b510-41d1-9b0a-0638d73d1d93",
