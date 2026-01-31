@@ -177656,7 +177656,7 @@
         "company_name": "Sonepar",
         "id": "454bb785-da96-4123-a3f2-289ed0c30cb2",
         "title": "Supply Chain Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -232964,7 +232964,7 @@
         "company_name": "Intuitive Surgical",
         "id": "549d8449-d93d-4fd5-b514-2a6d6805ec6e",
         "title": "AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -233990,7 +233990,7 @@
         "company_name": "Intuitive Surgical",
         "id": "e0d9fd04-ca06-4136-9e90-c39d4b80f9d7",
         "title": "AI Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -325428,7 +325428,7 @@
         "company_name": "Paccar",
         "id": "14be7a83-a3bc-4942-ac3a-9e0a58f5ed5c",
         "title": "IT Summer 2026 Interns \u2013 Salesforce Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
