@@ -162,46 +162,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Howard University",
-        "id": "eb0799f5-4758-4bc2-96b1-d3c5cd5c314e",
-        "title": "DDOT Intern-10",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1749154361,
-        "date_posted": 1749154361,
-        "url": "https://howard.wd1.myworkdayjobs.com/HU/job/Downing-Hall-College-of-Engineering/DDOT-Intern-10_JR107087-1",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Howard-University",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Howard University",
-        "id": "5829f295-f5d5-4ff9-b196-f05f1f93521d",
-        "title": "DDOT Intern-2",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1749154295,
-        "date_posted": 1749154295,
-        "url": "https://howard.wd1.myworkdayjobs.com/HU/job/Downing-Hall-College-of-Engineering/DDOT-Intern-2_JR107086-1",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Howard-University",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "NVIDIA",
         "id": "27f8639f-8212-4706-8a00-2bc51f8fb75a",
         "title": "Data Science and Insights Intern - Omniverse",
