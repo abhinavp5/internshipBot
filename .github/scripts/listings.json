@@ -262300,7 +262300,7 @@
         "company_name": "Corsair",
         "id": "8c6ab5d5-5643-404e-a5d1-242bc9037e27",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -293403,7 +293403,7 @@
         "company_name": "T-Mobile",
         "id": "7d94c07b-d358-4120-a3f9-f2c91e91099f",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
