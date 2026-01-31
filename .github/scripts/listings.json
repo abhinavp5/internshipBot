@@ -268127,7 +268127,7 @@
         "company_name": "Atos",
         "id": "7dc534cf-9069-492d-a481-f5aec67c8483",
         "title": "Digital & AI Apprenticeship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -295419,7 +295419,7 @@
         "company_name": "IDEMIA",
         "id": "47d57198-546d-4818-912c-7dede5983011",
         "title": "Power BI Data Analyst Internship - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
