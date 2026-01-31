@@ -9358,7 +9358,7 @@
         "company_name": "Castleton Commodities International",
         "id": "95f8fa32-d4e4-4fb1-8e84-8ce6f9db2f21",
         "title": "GenAI Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -47420,7 +47420,7 @@
         "company_name": "Xcel Energy",
         "id": "c50f9cb2-3cab-4ee4-bb36-e6b54accd768",
         "title": "Commercial Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -67414,7 +67414,7 @@
         "company_name": "Genuine Parts Company",
         "id": "852b6d08-c1da-444f-a6e5-af330805070f",
         "title": "Business Intelligence Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -79255,7 +79255,7 @@
         "company_name": "Adobe",
         "id": "70ec63b5-3c18-4978-a5e0-da9b73617746",
         "title": "Intern - Associate Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -97400,7 +97400,7 @@
         "company_name": "Barclays",
         "id": "801887a8-982d-4aa9-9579-d53222bc96b7",
         "title": "Technology Developer Summer Internship Programme 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -192885,7 +192885,7 @@
         "company_name": "PennState University",
         "id": "3bf33138-afbc-44cb-bca9-b2c0ad54283a",
         "title": "Research and Development Engineer Intern - Applied Signals & System Integration Department",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Spring 2026",
@@ -200197,7 +200197,7 @@
         "company_name": "PennState University",
         "id": "b10bea87-baae-4286-b70b-a3e88c2a822c",
         "title": "Science and Technology Applied to Navigation Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -224194,7 +224194,7 @@
         "company_name": "AtkinsR\u00e9alis",
         "id": "d5a7f37b-f9ed-4f2a-bda5-413d0cf7b5c6",
         "title": "Engineering Traffic Analyst Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -251045,7 +251045,7 @@
         "company_name": "Analog Devices",
         "id": "7cc66d08-5bae-45dd-a9ff-9d0f71976eea",
         "title": "Digital Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -266498,7 +266498,7 @@
     {
         "date_updated": 1765988862,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -280692,7 +280692,7 @@
         "company_name": "Thermo Fisher Scientific",
         "id": "1ae291a9-944a-405f-a261-e4e85c4da6d0",
         "title": "Field Service Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -294468,7 +294468,7 @@
         "company_name": "USAA",
         "id": "e2f22266-599a-4c30-9f00-43ffd7bbd422",
         "title": "Data & Analytics Intern - Future Leaders Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -298291,7 +298291,7 @@
         "company_name": "AIG",
         "id": "4789ad3e-3e48-47a9-a80a-d4229e6ba377",
         "title": "Early Career - Gen AI - Data Engineering Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -310594,7 +310594,7 @@
         "company_name": "Foley Hoag",
         "id": "c001ec53-cf74-428a-a2d6-21e91463157a",
         "title": "Data Strategy and Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -315197,7 +315197,7 @@
         "company_name": "GE Healthcare",
         "id": "e9d1d08e-6411-4ae6-826b-7693f3c0eed3",
         "title": "Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -319768,7 +319768,7 @@
         "company_name": "KLA",
         "id": "e03d015a-e25e-436c-9e08-90912e097c1a",
         "title": "Applications Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -324599,7 +324599,7 @@
         "company_name": "Santander",
         "id": "2a9bba4d-4a5c-492b-bbae-1395acc41792",
         "title": "Risk Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -325195,7 +325195,7 @@
         "company_name": "KBR",
         "id": "733ced75-20fb-4ce2-af1e-29cd6edf1d96",
         "title": "Graduate Student Intern - Data Science & Remote Sensing",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -325787,7 +325787,7 @@
         "company_name": "Franklin Templeton",
         "id": "b3948082-9dab-476a-919f-677e76d981e8",
         "title": "Technology Order Management Execution & Compliance",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -328311,7 +328311,7 @@
         "company_name": "S&P Global ",
         "id": "4549f868-697a-4b15-a117-f8242279c730",
         "title": "APMO Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -331290,7 +331290,7 @@
         "company_name": "T-Mobile",
         "id": "2aa4889b-7199-42cf-b5c8-ff4d903edfda",
         "title": "Summer 2026 Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -331595,7 +331595,7 @@
         "company_name": "Philips",
         "id": "5457f81a-77e8-4ed8-90fc-6eea4bd774a1",
         "title": "Intern-Embedded Software Engineering-Murrysville - PA-Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -338156,7 +338156,7 @@
         "company_name": "S&P Global ",
         "id": "46757f36-a235-4f97-adf5-4692b2864e01",
         "title": "Intern - Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -341020,7 +341020,7 @@
         "company_name": "S&P Global ",
         "id": "b24f648d-efa8-4716-b949-7aafc8b67715",
         "title": "Intern - Empowering Tomorrow's Tech Leaders",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
