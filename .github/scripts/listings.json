@@ -50252,7 +50252,7 @@
         "company_name": "Nationwide",
         "id": "5f287cc8-ebea-4754-9eee-837012cdeeae",
         "title": "Summer 2026 Technology Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -237454,7 +237454,7 @@
         "company_name": "Seagate Technology ",
         "id": "28c9ab4c-4bd4-4fd6-bf45-f456a0c246da",
         "title": "Firmware/Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -241890,7 +241890,7 @@
         "company_name": "Seagate Technology ",
         "id": "d6564d9b-6e7b-4af3-98b4-4c6fdb9957d1",
         "title": "Intern AI Design Discovery",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -326871,7 +326871,7 @@
         "company_name": "Dell Technologies",
         "id": "fee12677-0e80-4063-99e6-6ed896075cc2",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
