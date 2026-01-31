@@ -66069,7 +66069,7 @@
         "company_name": "Solidigm",
         "id": "7e37923b-7955-4fe4-91f6-d5a8b32eca2d",
         "title": "2026 Undergrad Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -163852,7 +163852,7 @@
         "company_name": "Solidigm",
         "id": "107bfc32-911d-4af7-864d-280513dbd04d",
         "title": "Undergraduate Engineering Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -195461,7 +195461,7 @@
         "company_name": "NBCUniversal",
         "id": "1a83070c-f8f0-46fc-8625-576812b55dc6",
         "title": "Media Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Summer 2027"
@@ -218630,7 +218630,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Visa",
-        "id": "a010f1f2-6a04-4d2b-8281-df27a33235b0",
+        "id": "0ed6cb36-9c49-457e-987a-0bd0bf11e256",
         "title": "Software Engineer Intern",
         "active": true,
         "terms": [
@@ -222417,7 +222417,7 @@
         "company_name": "AbbVie",
         "id": "b6887522-61f3-46ae-bb60-80b649182891",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -232964,7 +232964,7 @@
         "company_name": "Intuitive Surgical",
         "id": "549d8449-d93d-4fd5-b514-2a6d6805ec6e",
         "title": "AI Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -233990,7 +233990,7 @@
         "company_name": "Intuitive Surgical",
         "id": "e0d9fd04-ca06-4136-9e90-c39d4b80f9d7",
         "title": "AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -236783,7 +236783,7 @@
         "company_name": "Bloom Energy",
         "id": "17619f1a-f940-401d-914a-d7e7f0ad82f5",
         "title": "Equipment Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -242211,7 +242211,7 @@
         "company_name": "NBCUniversal",
         "id": "20d5cfa5-f533-4fe0-bc51-d80119d453c7",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -271565,7 +271565,7 @@
         "company_name": "AbbVie",
         "id": "870275a4-82c3-4c7f-9408-9ae5ff501343",
         "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -278922,7 +278922,7 @@
         "company_name": "AbbVie",
         "id": "d043fb48-1906-4d28-b1e4-b9ba4ef5d0df",
         "title": "Statistics Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -284491,7 +284491,7 @@
         "company_name": "NBCUniversal",
         "id": "895fe316-91aa-4c13-b0e9-a718f0ec087a",
         "title": "Media Product Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Summer 2027"
@@ -285515,7 +285515,7 @@
         "company_name": "NBCUniversal",
         "id": "d1a525ff-8abf-481f-9e8d-292e3c9c2345",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -301244,7 +301244,7 @@
         "company_name": "FocusKPI",
         "id": "be6828a5-5e40-4957-aa64-9b1131cdaf5b",
         "title": "AI Engineer Trainee",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -336728,7 +336728,7 @@
         "company_name": "AbbVie",
         "id": "fe3dece1-314a-4e71-b16e-552c58c4356d",
         "title": "Statistics Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -336982,7 +336982,7 @@
         "company_name": "University Health Network",
         "id": "0195c812-69bc-4b7b-8853-016becee21c3",
         "title": "Research Summer Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -339338,7 +339338,7 @@
         "company_name": "University Health Network",
         "id": "732eb41e-6f38-461e-ad70-891160ee752f",
         "title": "Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -341912,6 +341912,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ION Group",
+        "id": "553f373e-6fa1-429a-9f62-100f5f614f2c",
+        "title": "Software Developer - Leadership Development Program - Uniondale",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1769855990,
+        "date_posted": 1764630711,
+        "url": "https://jobs.lever.co/ion/2b8f5185-70e2-4c73-8c85-3a961af411fd/apply",
+        "locations": [
+            "Uniondale, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/ION-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
