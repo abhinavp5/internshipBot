@@ -253607,7 +253607,7 @@
         "company_name": "Microsoft",
         "id": "67f089ca-725e-443c-a7af-49c331ecb7be",
         "title": "Research Intern - AI Agents & Reasoning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -323788,7 +323788,7 @@
         "company_name": "Paccar",
         "id": "6121270b-c666-41cd-ad38-f677b76258fb",
         "title": "IT Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -324707,7 +324707,7 @@
         "company_name": "The Walt Disney Company",
         "id": "067a2f23-bcf9-438d-b574-0cf2ff87abe0",
         "title": "Disney Live Entertainment Technical Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -329139,7 +329139,7 @@
         "company_name": "The Walt Disney Company",
         "id": "ee6a9979-9b63-441c-9c4c-70afb90d826f",
         "title": "Disney Live Entertainment Technical Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -336547,7 +336547,7 @@
         "company_name": "University Health Network",
         "id": "14b34fe7-d0c9-41df-95d4-e84504c7d6d4",
         "title": "Research Summer Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -339338,7 +339338,7 @@
         "company_name": "University Health Network",
         "id": "732eb41e-6f38-461e-ad70-891160ee752f",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
