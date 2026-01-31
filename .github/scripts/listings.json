@@ -141,26 +141,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "eee355b4-e14b-4d4d-b563-c5ad23611e2c",
-        "title": "Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1749098885,
-        "date_posted": 1749098885,
-        "url": "https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External/job/CA---San-Jose---3870-N-First-St/Intern_R562-25-1",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Bank of Montreal",
         "id": "01a5cd25-7d67-4b65-b1db-7e14805710fe",
@@ -42599,7 +42579,7 @@
         "company_name": "Micron Technology",
         "id": "a83dde6b-9206-4ae7-8f59-5e267689f60c",
         "title": "Intern \u2013 TPG Global IE",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -262718,7 +262698,7 @@
         "company_name": "Micron Technology",
         "id": "ed4897af-eaea-42c2-97fe-563e4a91be21",
         "title": "Intern \u2013 AI/ML Algorithms - Silicon Systems AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -303333,7 +303313,7 @@
         "company_name": "Micron Technology",
         "id": "39799c33-3126-43c2-a071-b8db9bf764d4",
         "title": "Design Readiness Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
