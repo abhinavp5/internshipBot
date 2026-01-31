@@ -236825,7 +236825,7 @@
         "company_name": "Bloom Energy",
         "id": "c7cacc14-2601-4345-97ac-5afa0a561c6b",
         "title": "Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -278254,7 +278254,7 @@
         "company_name": "Rocket Mortgage",
         "id": "62096cac-dd8e-4009-ac5e-e8f5d842e7fd",
         "title": "Audio Visual Integration Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -330088,7 +330088,7 @@
         "company_name": "Genentech",
         "id": "07cd5ebf-b750-47d7-8173-a0d881d6ba85",
         "title": "Intern - Clinical Pharmacology - Real-World Treatment Trajectory Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -335829,7 +335829,7 @@
         "company_name": "Genentech",
         "id": "dfcc1ec1-d6ce-4f3d-8424-74ecfc5b702f",
         "title": "2026 Summer Intern - Product Development Data Sciences",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -342007,5 +342007,26 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Virtua Health",
+        "id": "5ee2a623-56ae-4f2b-816e-375a1dbd874e",
+        "title": "IT Informatics Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1769860843,
+        "date_posted": 1769613827,
+        "url": "https://virtua.wd1.myworkdayjobs.com/Virtua_Health_External_Career_Site/job/Lippincott---301-Lippincott-Drive/IT-Informatics-Intern_R1059084",
+        "locations": [
+            "Mt Laurel Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Virtua-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
