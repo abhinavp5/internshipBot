@@ -324800,7 +324800,7 @@
         "company_name": "The Walt Disney Company",
         "id": "763b36d8-fc02-4970-871c-ae20ab42f507",
         "title": "Commercial Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -325103,7 +325103,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "86714f3d-ceae-4a2a-8e81-6d6183fb9e00",
         "title": "Software Designer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -325551,7 +325551,7 @@
         "company_name": "Dell Technologies",
         "id": "76258ca7-fe18-4fec-8404-e2d153f80f11",
         "title": "5G AI Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -329358,7 +329358,7 @@
         "company_name": "The Walt Disney Company",
         "id": "59378e8a-d84d-407e-88c3-b01941ce3cc9",
         "title": "Commercial Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -329524,7 +329524,7 @@
         "company_name": "Dell Technologies",
         "id": "a2f960f4-1f62-427b-a66a-97293b0be9e1",
         "title": "Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -330612,7 +330612,7 @@
         "company_name": "RTX",
         "id": "ae9931e9-9673-436c-b474-c3e9eefbddba",
         "title": "Intern - Control/Diagnostic Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
