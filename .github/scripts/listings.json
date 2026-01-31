@@ -144959,7 +144959,7 @@
         "company_name": "Adobe",
         "id": "70e4b4d1-1d74-47e9-b48d-30e808bcebbd",
         "title": "Intern - Research Scientist",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -232944,7 +232944,7 @@
         "company_name": "Intuitive Surgical",
         "id": "549d8449-d93d-4fd5-b514-2a6d6805ec6e",
         "title": "AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -233970,7 +233970,7 @@
         "company_name": "Intuitive Surgical",
         "id": "e0d9fd04-ca06-4136-9e90-c39d4b80f9d7",
         "title": "AI Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -238367,7 +238367,7 @@
         "company_name": "KLA",
         "id": "accd02c7-d7e2-46bd-aafc-3b720a079e6b",
         "title": "Supply Chain Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -270020,7 +270020,7 @@
         "company_name": "GlobalFoundries",
         "id": "ba450db5-3196-4470-b902-15d948e50c75",
         "title": "Photonic Test and Measurement Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -275706,7 +275706,7 @@
         "company_name": "Intelcom | Dragonfly",
         "id": "f922bcfd-c7ee-4c23-91a5-ae5391767cd0",
         "title": "Data Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -294613,7 +294613,7 @@
         "company_name": "Tencent",
         "id": "0c3d9982-bb65-4c90-bb51-e8ea6cb1a742",
         "title": "AI Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -299956,7 +299956,7 @@
         "company_name": "GE Healthcare",
         "id": "48fb6529-2d5c-4b8f-9281-6374ee5db69b",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -317740,7 +317740,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -326735,7 +326735,7 @@
         "company_name": "Expeditors",
         "id": "e13872c0-0cd4-4970-94d2-328f2d7a655f",
         "title": "Intern \u2013 Developer - Master Data Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -327094,7 +327094,7 @@
         "company_name": "KLA",
         "id": "04cfb6e9-3788-4bdb-bc22-0d468f72771b",
         "title": "AI Intern for Corporate Sustainability",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -336731,7 +336731,7 @@
         "company_name": "Expeditors",
         "id": "a5dfac1e-a9b8-42ed-a46e-5c068ad5fd6a",
         "title": "Intern Developer - Master Data Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
