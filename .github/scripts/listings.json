@@ -121,67 +121,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "4569e658-7b05-4a2f-b1f3-836f396982de",
-        "title": "Software Engineering Intern - LLM NIM Engineering",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1749185759,
-        "date_posted": 1749185759,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--LLM-NIM-Engineering---Fall-2025_JR1990733",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Rockwell Automation",
-        "id": "afb55896-cc00-43a3-bf36-52a3c08493a4",
-        "title": "Perception Developer Coop - Slam",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1749186606,
-        "date_posted": 1749186606,
-        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Kitchener-Ontario-Canada/Perception-Developer-Coop--SLAM-_R25-4384",
-        "locations": [
-            "Kitchener, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Bank of Montreal",
-        "id": "816c5f54-a0d1-4843-bc9d-7392250f4e42",
-        "title": "Junior Software Developer \u2013 Internship",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1749186443,
-        "date_posted": 1749186443,
-        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/New-York-NY-USA/Junior-Software-Developer--Fall-2025--Internship----4-months_R250013865",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/BMO",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Marvell",
         "id": "d6ba9f48-5f34-4788-9098-3427d9339420",
@@ -263007,7 +262946,7 @@
         "company_name": "Vera Institute of Justice",
         "id": "34b88952-5a22-4cd3-8bb4-af2b57894cc6",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -275586,7 +275525,7 @@
         "company_name": "Intelcom | Dragonfly",
         "id": "f922bcfd-c7ee-4c23-91a5-ae5391767cd0",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -276506,7 +276445,7 @@
         "company_name": "Intelcom | Dragonfly",
         "id": "f7c273cb-7d49-46eb-a142-3028b2982aa2",
         "title": "R&D Solution Builder Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -292529,7 +292468,7 @@
         "company_name": "The Coca-Cola Company",
         "id": "6ee5fab6-8005-4c23-a178-884eb57cb70e",
         "title": "CPS Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -293135,7 +293074,7 @@
         "company_name": "The Coca-Cola Company",
         "id": "f93d84cd-6e22-4285-bf79-6d404985ff1b",
         "title": "Information / Operational Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -293347,7 +293286,7 @@
         "company_name": "The Coca-Cola Company",
         "id": "5c56a944-0cca-4893-9f36-55979bfb9cb7",
         "title": "IT Operations & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -296241,7 +296180,7 @@
         "company_name": "The Coca-Cola Company",
         "id": "04f05efd-3815-4000-bceb-640726ab3ce0",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -314442,7 +314381,7 @@
         "company_name": "CIBC",
         "id": "ed677912-5b4f-4783-9bdf-ff94edaf4587",
         "title": "Data Analyst Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
