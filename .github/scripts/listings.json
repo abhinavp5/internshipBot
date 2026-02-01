@@ -326554,7 +326554,7 @@
         "company_name": "Expeditors",
         "id": "e13872c0-0cd4-4970-94d2-328f2d7a655f",
         "title": "Intern \u2013 Developer - Master Data Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -336550,7 +336550,7 @@
         "company_name": "Expeditors",
         "id": "a5dfac1e-a9b8-42ed-a46e-5c068ad5fd6a",
         "title": "Intern Developer - Master Data Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
