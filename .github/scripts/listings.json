@@ -233291,7 +233291,7 @@
         "company_name": "Seagate Technology ",
         "id": "0b98ca26-9901-41a4-93b9-3a381e23779b",
         "title": "Advanced Data Storage Material Discovery",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -256437,7 +256437,7 @@
         "company_name": "Commonwealth of Massachusetts",
         "id": "eb123a13-2920-4f75-918b-1a4df075fd8e",
         "title": "Geospatial AI Data Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -266085,7 +266085,7 @@
         "company_name": "FOX",
         "id": "484343f4-80b8-4b1e-b63b-4746d55c15bc",
         "title": "FOX Technology Intern Program - Live Sports Virtual Enhancement Operator",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -275017,7 +275017,7 @@
         "company_name": "Intelcom | Dragonfly",
         "id": "7c57c0a8-a2d0-4713-92b5-07904743f6f3",
         "title": "Software Development Intern - Last Mile",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -275038,7 +275038,7 @@
         "company_name": "Intelcom | Dragonfly",
         "id": "565990cf-cf79-448a-bcf7-96b792bb9bad",
         "title": "Embedded Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -275059,7 +275059,7 @@
         "company_name": "Intelcom | Dragonfly",
         "id": "2316c175-4dc3-4222-aa19-89fc8378f361",
         "title": "Data Analyst Intern - Returns",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -275103,7 +275103,7 @@
         "company_name": "Intelcom | Dragonfly",
         "id": "0891b0cf-096f-4ac8-8903-8dee06006b05",
         "title": "Business Intelligence Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -275546,7 +275546,7 @@
         "company_name": "Intelcom | Dragonfly",
         "id": "f5bb2066-5119-4ca2-ad58-703e8342b1d4",
         "title": "Software Development Intern - Client and Partner Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -275567,7 +275567,7 @@
         "company_name": "Intelcom | Dragonfly",
         "id": "f1293bfc-2d07-4c82-aced-cad83f3e290e",
         "title": "Software Development Intern - Route Optimization",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -275609,7 +275609,7 @@
         "company_name": "Intelcom | Dragonfly",
         "id": "b4a66f5b-f370-464f-9f90-f7fcf374b139",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -275630,7 +275630,7 @@
         "company_name": "Intelcom | Dragonfly",
         "id": "aee4c418-6abf-4e3c-935a-3a3a3f5749e8",
         "title": "Software Development Intern - Business Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -275651,7 +275651,7 @@
         "company_name": "Intelcom | Dragonfly",
         "id": "99b0b401-bec6-41b0-aed4-3ceecfaa2544",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -275672,7 +275672,7 @@
         "company_name": "Intelcom | Dragonfly",
         "id": "da14345a-8f19-47d1-9ad1-dfc170c35c20",
         "title": "Software Development Intern - Mobile Application",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -275971,7 +275971,7 @@
         "company_name": "Intelcom | Dragonfly",
         "id": "d31f689b-45f5-4846-bf67-2293fb803fe4",
         "title": "HR Data Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -276354,7 +276354,7 @@
         "company_name": "Intelcom | Dragonfly",
         "id": "3c1987ef-54e8-42a8-9799-0c42120007b6",
         "title": "AI Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -276825,7 +276825,7 @@
         "company_name": "DC Water",
         "id": "2b267b37-2861-403c-95d4-1798907981a7",
         "title": "Intern ERP Systems and Controls - ERP Systems and Controls",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -276846,7 +276846,7 @@
         "company_name": "DC Water",
         "id": "f9cef133-08a3-4fe1-acbd-3d931884784a",
         "title": "016:Summer Intern - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -276888,7 +276888,7 @@
         "company_name": "DC Water",
         "id": "aa278359-3eea-49a1-9e87-aba98cc912aa",
         "title": "082:Summer Intern - IT-Data and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -279185,7 +279185,7 @@
         "company_name": "Intelcom | Dragonfly",
         "id": "a85686e5-c756-4661-96c1-7fba2a7e917b",
         "title": "Performance and Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -292006,7 +292006,7 @@
         "company_name": "Shoppers Drug Mart",
         "id": "75b77956-9911-48de-ab9c-be1fdb7b5aaf",
         "title": "Business & Customer Insights Analyst - Co-op Student",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -292515,7 +292515,7 @@
         "company_name": "The Coca-Cola Company",
         "id": "4a0b141e-700f-4faa-9ce8-e2e8d3aa7d84",
         "title": "Data Analyst \u2013 Emerging Category Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -292653,7 +292653,7 @@
         "company_name": "The Coca-Cola Company",
         "id": "d5b3e2d4-05b1-4c59-b795-6a76108438ad",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -292703,7 +292703,7 @@
         "company_name": "The Coca-Cola Company",
         "id": "8452448a-9d4c-4391-9c02-2c3f818743e9",
         "title": "Consumer Engagement & Adtech Platforms Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -292913,7 +292913,7 @@
         "company_name": "The Coca-Cola Company",
         "id": "1e46a352-92a2-4b67-8ad4-d7654add9a64",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -293004,7 +293004,7 @@
         "company_name": "The Coca-Cola Company",
         "id": "0033d9d4-c591-4106-a891-775f703bcf05",
         "title": "Global Marketing Generative AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -294528,7 +294528,7 @@
         "company_name": "The Coca-Cola Company",
         "id": "50ee75e4-5506-4be2-9086-d9ac93e6b1a8",
         "title": "Revenue Growth Management Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -294910,7 +294910,7 @@
         "company_name": "The Coca-Cola Company",
         "id": "f3676de1-577e-475f-8b78-e6854cbdab2a",
         "title": "Marketing Technology Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -310416,7 +310416,7 @@
         "company_name": "The Coca-Cola Company",
         "id": "88386852-47d0-4117-841b-f336d64f0755",
         "title": "Packaging Research & Engineering Intern - Design & Digital",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -311882,7 +311882,7 @@
         "company_name": "CIBC",
         "id": "4542962c-69de-4242-8932-5c5f5f064044",
         "title": "Application Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -313221,7 +313221,7 @@
         "company_name": "Shoppers Drug Mart",
         "id": "b9bd8e8f-a2bf-440f-b6db-606bfb94b4cf",
         "title": "Quo Beauty Product Development Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -314874,7 +314874,7 @@
         "company_name": "The Coca-Cola Company",
         "id": "0f4ffc0c-7146-4fe9-8be3-9a8bdf54c7b0",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -317559,7 +317559,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -326554,7 +326554,7 @@
         "company_name": "Expeditors",
         "id": "e13872c0-0cd4-4970-94d2-328f2d7a655f",
         "title": "Intern \u2013 Developer - Master Data Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -328577,7 +328577,7 @@
         "company_name": "T-Mobile",
         "id": "8a44fab1-c690-4869-8f88-218cebca8dba",
         "title": "Product Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332954,7 +332954,7 @@
         "company_name": "Trane Technologies",
         "id": "7384e00c-d91a-46de-a35a-170927154fa8",
         "title": "Controls Hardware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -336550,7 +336550,7 @@
         "company_name": "Expeditors",
         "id": "a5dfac1e-a9b8-42ed-a46e-5c068ad5fd6a",
         "title": "Intern Developer - Master Data Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
