@@ -250831,7 +250831,7 @@
         "company_name": "Marsh",
         "id": "3cbf1732-775a-4cd5-96b6-034512191cb8",
         "title": "Oliver Wyman-Vector-Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -272809,7 +272809,7 @@
         "company_name": "Westlake",
         "id": "88ebb3a1-b0bc-4c9a-9272-8930f9576112",
         "title": "Software Engineer/Computer Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -275977,7 +275977,7 @@
         "company_name": "State Street",
         "id": "4ddea740-fb9a-4266-827f-dbdd84bb101c",
         "title": "State Street Investment Management \u2013 Summer Internship 2026 - Data Scientist",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -317374,7 +317374,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -322747,7 +322747,7 @@
         "company_name": "BP",
         "id": "bb249542-4d80-44cc-9c5e-bf1c922af892",
         "title": "Intern - Subsurface - Geology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -334193,7 +334193,7 @@
         "company_name": "Blackberry",
         "id": "9752d330-5e67-49ab-a5bd-b14cf6bf44b7",
         "title": "Qnx \u2013 Embedded Software Development Student - Sensor Framework",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -337770,7 +337770,7 @@
         "company_name": "S&P Global ",
         "id": "46757f36-a235-4f97-adf5-4692b2864e01",
         "title": "Intern - Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343212,6 +343212,167 @@
             "Farmington, CT"
         ],
         "company_url": "https://simplify.jobs/c/WR-Berkley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Regal Rexnord",
+        "id": "f167d7f6-f21b-4812-ab7c-f17397856f8b",
+        "title": "Engineering Technology Co-op - Summer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770047336,
+        "date_posted": 1770047336,
+        "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Engineering-Technology-Co-op--Summer-_R26_00461-1",
+        "locations": [
+            "Vandalia, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/37e0cd83-539e-4474-a63a-abc8ce7b4694",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Regal Rexnord",
+        "id": "d2d69eaf-763e-47f9-aebd-e6c4469d7a55",
+        "title": "Application Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770047329,
+        "date_posted": 1770047329,
+        "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Application-Engineer-Co-op--Summer-_R26_00431-1",
+        "locations": [
+            "Vandalia, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/37e0cd83-539e-4474-a63a-abc8ce7b4694",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AtkinsR\u00e9alis",
+        "id": "f4c892b6-2245-434d-934a-c22e6af17920",
+        "title": "Nuclear Engineering Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770047191,
+        "date_posted": 1770047191,
+        "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USTNOak-Ridge545-Oak-Ridge-Turnpike/Nuclear-Engineering-Intern---Summer-2026_R-147583-1",
+        "locations": [
+            "Oak Ridge, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/AtkinsRealis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Gametime",
+        "id": "e12a36f1-d4f2-48aa-b1af-f70d7c44a06c",
+        "title": "Full Stack Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770047136,
+        "date_posted": 1770047136,
+        "url": "https://job-boards.greenhouse.io/gametimeunited/jobs/5104951008",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gametime",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Autodesk",
+        "id": "f3321c03-395c-4f6c-8bf9-6ffaf1730365",
+        "title": "PhD Intern - Physics-Informed Machine Learning",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1770046013,
+        "date_posted": 1770046013,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/San-Francisco-CA-USA/PhD-Intern--Physics-Informed-Machine-Learning_26WD94899",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sarepta",
+        "id": "d3a9eee5-b79b-4afb-9eb6-5e26551d96fa",
+        "title": "Machine Learning Scientist \u2013 Oligo Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770045994,
+        "date_posted": 1770045994,
+        "url": "https://sarepta.wd5.myworkdayjobs.com/en-US/sarepta_external/job/Bedford-MA/Machine-Learning-Scientist--Oligo-Research-Intern_R-03118",
+        "locations": [
+            "Bedford, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/01cc059f-be6a-46bf-bf96-9f4a53df2e8d",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sarepta",
+        "id": "173ab1e5-615a-4dd8-b141-7599eb3d9dce",
+        "title": "Data Science & Biometrics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770045986,
+        "date_posted": 1770045986,
+        "url": "https://sarepta.wd5.myworkdayjobs.com/en-US/sarepta_external/job/Cambridge-MA/Data-Science---Biometrics-Intern_R-03127",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/01cc059f-be6a-46bf-bf96-9f4a53df2e8d",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
