@@ -73850,7 +73850,7 @@
         "company_name": "Ernst & Young",
         "id": "b445d230-c616-4a98-a355-0d44543aa10c",
         "title": "Intern - Tax - Itts - Transaction Tax Advisory - Jd LLM - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -73993,7 +73993,7 @@
         "company_name": "Ernst & Young",
         "id": "14757586-d77e-4438-b493-91a18760f0a1",
         "title": "JD/LLM Intern - Tax - Indirect Tax - SALT Transactions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -107373,7 +107373,7 @@
         "company_name": "Brevan Howard",
         "id": "6eba9337-c06e-4d91-8e8a-00ee119be233",
         "title": "2026 Summer Internship Programme - Artificial Intelligence & Quant",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -110554,7 +110554,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "73bff190-2d57-49ee-8319-49396d7c41fa",
         "title": "National Tax Services \u2013 M&A Tax LLM Senior Associate - Mergers and Acquisition Tax",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -309031,7 +309031,7 @@
         "company_name": "Ernst & Young",
         "id": "3a12cfc6-c410-4f67-984a-584fbdda5616",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -313318,7 +313318,7 @@
         "company_name": "Mastercard",
         "id": "e907004f-e0d7-442e-8432-130f82097ae2",
         "title": "Product Management & Customer Solutions Center Intern - Summer 2026 - London, UK",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -343100,5 +343100,122 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Spotify",
+        "id": "b5032316-6b10-497b-a388-011f6e6601cc",
+        "title": "Intern - Business Strategy and Product Management - MBA",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770045785,
+        "date_posted": 1770045785,
+        "url": "https://jobs.lever.co/spotify/35136842-6945-4571-b6a7-ff01b95be628/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Spotify",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "John Deere",
+        "id": "7228a173-2db5-4bb3-9677-47438ffd70b1",
+        "title": "Part-Time Student - Engine Application Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1770045174,
+        "date_posted": 1770045174,
+        "url": "https://johndeere.eightfold.ai/careers/job/137478709908",
+        "locations": [
+            "Waterloo, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/John-Deere",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Travelers Companies",
+        "id": "7537007e-434a-49ed-9fd0-0d01da9cdd7e",
+        "title": "Engineering Development Program",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770045100,
+        "date_posted": 1770045100,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Engineering-Development-Program--EDP--Co-op-Intern_R-49023",
+        "locations": [
+            "Boston, MA",
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SAS",
+        "id": "4f74c60e-435e-4b05-8d70-0a176e1da442",
+        "title": "AI & Society Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770044974,
+        "date_posted": 1770044974,
+        "url": "https://careers-sas.icims.com/jobs/40482/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/SAS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "W.R. Berkley",
+        "id": "0df4093f-ef9b-4ac3-a0aa-1d74ee3664ce",
+        "title": "Business and Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770044987,
+        "date_posted": 1770044987,
+        "url": "https://careers-berkley.icims.com/jobs/13507/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Farmington, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/WR-Berkley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
