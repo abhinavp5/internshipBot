@@ -7749,7 +7749,7 @@
         "company_name": "The Trade Desk",
         "id": "04aad1de-def9-41e3-9baa-8215982fe10d",
         "title": "2026 Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -25274,7 +25274,7 @@
         "company_name": "Hudson River Trading",
         "id": "0cd300f3-f862-42e3-8a3f-269dff1846e7",
         "title": "Algorithm Development \u2013 PhD Internship - Quant Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -57106,7 +57106,7 @@
         "company_name": "Glean",
         "id": "94015ee8-32d2-4ad0-8394-3cb30e464aaa",
         "title": "Software Engineer \u2013 Intern - Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -114899,7 +114899,7 @@
         "company_name": "Exegy",
         "id": "7f757e5c-1190-41d0-bb9d-a9103f9f3b83",
         "title": "Software Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -152006,7 +152006,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "315215f2-cf98-4b01-85eb-14f7837c9dcd",
         "title": "Mobile Application Development Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -188871,7 +188871,7 @@
         "company_name": "Toyota Research Institute",
         "id": "8c974756-afd6-4aed-b96d-a576414bd842",
         "title": "Human Interactive Driving Intern - Human-Machine Interaction Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -247157,7 +247157,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "d8b1c841-f923-49e5-881d-2bf453996c27",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -268143,7 +268143,7 @@
         "company_name": "The Andersons",
         "id": "86a76e13-1ed1-4cbf-a2d6-328caaac65f0",
         "title": "SAP Intern - March 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -273679,7 +273679,7 @@
         "company_name": "Neurocrine Biosciences",
         "id": "3a43edc7-2bad-44e8-a327-5b441007864d",
         "title": "Supply Chain Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -278494,7 +278494,7 @@
         "company_name": "Wing",
         "id": "db9dcad3-9de1-4888-8884-16ac33ab1234",
         "title": "Manufacturing Software Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -304332,7 +304332,7 @@
         "company_name": "Northrop Grumman",
         "id": "c53f1961-e571-4a77-a084-c5970b120724",
         "title": "Software Engineer/Principal Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -312278,7 +312278,7 @@
         "company_name": "CIBC",
         "id": "a9a5549c-fe4a-44f2-bda8-56613a9b8f96",
         "title": "Software/Application Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -336276,7 +336276,7 @@
         "company_name": "Voldex",
         "id": "611da2ce-0f6e-46a2-88fe-3ef690755b52",
         "title": "Game Developer Intern - Voldex Games",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344124,7 +344124,7 @@
         "company_name": "Washpost",
         "id": "122231f6-fb4b-4ba4-b79a-c8bf0e2a305b",
         "title": "Summer Intern - Software Engineering Identity",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -345901,7 +345901,7 @@
         "company_name": "Intel",
         "id": "7c5206fc-67bf-482a-a04d-56573e797719",
         "title": "Mecop Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
