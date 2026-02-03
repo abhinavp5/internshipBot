@@ -157706,7 +157706,7 @@
         "company_name": "Uncountable",
         "id": "36d41c74-1e77-485c-87a4-cc7f0bd7e880",
         "title": "Full-Stack Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -251393,7 +251393,7 @@
         "company_name": "Base Power",
         "id": "55f6de1b-c6ba-4ae1-a357-c089a2c549ac",
         "title": "Firmware Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -275109,7 +275109,7 @@
         "company_name": "TD Bank",
         "id": "e5f9dbe7-fa5b-4dbf-8075-d092e8409c0b",
         "title": "Risk Management \u2013 Model Validation Intern/Co-op - Applied Machine Learning Scientist - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -315842,7 +315842,7 @@
         "company_name": "Okta",
         "id": "75e6d1b6-0d21-44cc-8b5a-f6fad0826dd0",
         "title": "Product Analyst Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -337361,7 +337361,7 @@
         "company_name": "The Walt Disney Company",
         "id": "8bc6bd9c-8d4d-4f85-aef5-6fa43300e9e0",
         "title": "WDI Software Developer Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
