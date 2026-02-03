@@ -14960,7 +14960,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Stoke-on-Trent, UK</td>
 <td>Spring 2026</td>
 <td>🔒</td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/BP?utm_source=GHList&utm_medium=company">BP</a></strong></td>
@@ -30969,7 +30969,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/AsteraLabs?utm_source=GHList&utm_medium=company">Astera Labs</a></strong></td>
 <td>Design Verification Engineer Intern</td>
 <td>San Jose, CA</td>
 <td>Winter 2025</td>
