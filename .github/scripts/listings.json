@@ -53232,7 +53232,7 @@
         "company_name": "Qualcomm",
         "id": "d8d24238-2393-4f86-bdae-0d4f16400dec",
         "title": "Machine Learning & Artificial Intelligence Engineering Internship - Interim Engineering Intern - SW",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -54865,7 +54865,7 @@
         "company_name": "Qualcomm",
         "id": "edec5f96-0a62-4833-9ed3-7753cf61bf78",
         "title": "Product Management Internship - Interim Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -267186,7 +267186,7 @@
         "company_name": "Leidos",
         "id": "ba238e5e-0d7f-4ab0-8497-58ce80b64109",
         "title": "FPGA Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -311973,7 +311973,7 @@
         "company_name": "Relativity",
         "id": "4dee7ea9-90ac-4b51-b7fa-98f8cb2911f6",
         "title": "Software Engineering Intern - Data Breach Response",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -311997,7 +311997,7 @@
         "company_name": "Relativity",
         "id": "ecc979da-f04b-47ee-bf11-684668502b8e",
         "title": "Software Engineering Intern - Ingestion",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -312021,7 +312021,7 @@
         "company_name": "Relativity",
         "id": "465d7e1f-b162-4b6b-9f35-db9a0f11baaa",
         "title": "Software Engineer Intern - Automation Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -312045,7 +312045,7 @@
         "company_name": "Relativity",
         "id": "3e231f5e-ebf3-4950-b120-a42eaac73231",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -312069,7 +312069,7 @@
         "company_name": "Relativity",
         "id": "0603bfb5-47d9-490d-8fe0-f30da3a5ebd0",
         "title": "Software Engineering Intern - Matter Admin",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -312093,7 +312093,7 @@
         "company_name": "Relativity",
         "id": "278ff050-1758-46ce-9361-0d7e6f707e02",
         "title": "Security Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -312140,7 +312140,7 @@
         "company_name": "Relativity",
         "id": "6bf5b70a-4444-495f-83ee-f7f6a52e9f89",
         "title": "Applied Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -317374,7 +317374,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -329654,7 +329654,7 @@
         "company_name": "Dell Technologies",
         "id": "4214ec1c-46ac-4e91-a8f1-85baab22b9e4",
         "title": "Dell AI Software Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -332790,7 +332790,7 @@
         "company_name": "Trane Technologies",
         "id": "51fba098-4cad-4537-b837-3e10b0f500de",
         "title": "Software and Computer Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -337908,7 +337908,7 @@
         "company_name": "Northrop Grumman",
         "id": "5e9b411a-f0ed-4cbe-8f05-8f86a7dc867d",
         "title": "2026 Systems Engineer Intern - Houston TX",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -345986,6 +345986,53 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "15030291-be0e-4446-ae72-3831791abae0",
+        "title": "Human-Centered AI Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770103361,
+        "date_posted": 1770103361,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Human-Centered-AI-Intern_R-00174724",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cresta",
+        "id": "7ba71986-7f36-4096-9d70-31f988a5cd08",
+        "title": "Forward Deployed Engineering Intern - AI Agent",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770103151,
+        "date_posted": 1770103151,
+        "url": "https://job-boards.greenhouse.io/cresta/jobs/5106468008",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cresta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
