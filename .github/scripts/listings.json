@@ -97014,7 +97014,7 @@
         "company_name": "Barclays",
         "id": "801887a8-982d-4aa9-9579-d53222bc96b7",
         "title": "Technology Developer Summer Internship Programme 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -335490,7 +335490,7 @@
         "company_name": "Genentech",
         "id": "70f2d42a-ad41-46df-9e9c-b928a5e22061",
         "title": "Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
