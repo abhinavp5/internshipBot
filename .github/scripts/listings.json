@@ -270818,7 +270818,7 @@
         "company_name": "Velera",
         "id": "6a8570ce-4d1b-488c-b13c-463f0313d038",
         "title": "Intern \u2013 .NET Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -299761,7 +299761,7 @@
         "company_name": "ICF International",
         "id": "149d40d2-a33e-4e0a-a825-2f40afcb4ce2",
         "title": "2026 Summer Intern - Grid Modeling & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -322025,7 +322025,7 @@
         "company_name": "Jabil",
         "id": "f79501b8-d07c-4d06-a24e-cb3f5a7ec164",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -328090,7 +328090,7 @@
         "company_name": "Genentech",
         "id": "e153219d-abb8-4944-955a-a42042cd6c62",
         "title": "2026 Summer Intern - Product Development Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -334808,7 +334808,7 @@
         "company_name": "Marsh",
         "id": "bc7ccf45-d3ac-4f4d-aac5-7471e6e269f6",
         "title": "Industrial Placement - Investment Quant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -340264,7 +340264,7 @@
         "company_name": "Intel",
         "id": "734048b4-257f-4ad3-a32c-bde707f39378",
         "title": "Data Platform Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -342760,7 +342760,7 @@
         "company_name": "City of Austin",
         "id": "73e35e78-0b99-4f25-a948-171e61e4adbe",
         "title": "Intern - Systems Planning for Water/Wastewater/Reclaimed Water",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -344937,7 +344937,7 @@
         "company_name": "Sun Life",
         "id": "e3743482-dec9-4bea-ae1a-15637e54e051",
         "title": "Junior Security Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -345600,7 +345600,7 @@
         "company_name": "RTX",
         "id": "a4ff0712-dba5-43be-b1a3-311d1c2adaad",
         "title": "Stage \u00c9t\u00e9 2026 \u2013 Support aux Programmes R\u00e9gionaux / Internship Summer 2026 - Regional Programs Support",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
