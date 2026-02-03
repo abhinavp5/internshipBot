@@ -311927,7 +311927,7 @@
         "company_name": "Relativity",
         "id": "add5eb92-f1a1-4d9e-a801-a68de0c7a329",
         "title": "Product Intern - Data Processing",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -311950,7 +311950,7 @@
         "company_name": "Relativity",
         "id": "7fe58b75-3d8f-46d0-9e6c-0e301c884b19",
         "title": "Product Intern - Transform Review",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -312116,7 +312116,7 @@
         "company_name": "Relativity",
         "id": "d5917fd6-461b-443a-ad37-4f08b224c8b9",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
