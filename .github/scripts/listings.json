@@ -74768,7 +74768,7 @@
         "company_name": "RESPEC",
         "id": "67697e1a-0800-4b63-894c-a9f03c6054b8",
         "title": "Student Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -117265,7 +117265,7 @@
         "company_name": "RESPEC",
         "id": "cb5e43ba-13a7-4377-b35e-62bfb1dc2d76",
         "title": "Student Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -134797,7 +134797,7 @@
         "company_name": "Electronic Arts",
         "id": "bed1d764-b91a-405a-af14-93d21892258e",
         "title": "AI Engineer Intern - AI Platform",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -141395,7 +141395,7 @@
         "company_name": "Electronic Arts",
         "id": "2e4f87a1-6285-452a-bba8-94e93cbee652",
         "title": "Software Engineer Intern/Co-op - UFC Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -242463,7 +242463,7 @@
         "company_name": "Anti Capital",
         "id": "f05ad18f-bd72-4d7d-84a9-d03a2647e24e",
         "title": "Trading Strategy Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -283514,7 +283514,7 @@
         "company_name": "Genentech",
         "id": "41e72175-cbc1-49f0-831f-b1027e8a7515",
         "title": "Intern - CMG DDA - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -300858,7 +300858,7 @@
         "company_name": "FocusKPI",
         "id": "be6828a5-5e40-4957-aa64-9b1131cdaf5b",
         "title": "AI Engineer Trainee",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -304915,7 +304915,7 @@
         "company_name": "Assort Health",
         "id": "724f5d68-f44c-4be2-b77e-f6f49f9991fe",
         "title": "Agent Engineer \u2013 New Grad",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -312164,7 +312164,7 @@
         "company_name": "Genentech",
         "id": "c74a8f80-2723-468d-a391-9e956e2beaa4",
         "title": "Intern - Translational Safety - Computational Toxicology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346380,5 +346380,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wade Trim",
+        "id": "6c6eddc1-5247-453f-9f85-271c485be664",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770111565,
+        "date_posted": 1767827221,
+        "url": "https://jobs.lever.co/wadetrim/6d95727d-2eb6-4df3-942a-4211be12681b/apply",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Wade-Trim",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
