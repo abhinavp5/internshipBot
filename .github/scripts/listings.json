@@ -340448,7 +340448,7 @@
         "company_name": "Ovintiv",
         "id": "6b3a7610-2e14-4db0-aa98-26c35dac1750",
         "title": "Student Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -346398,6 +346398,29 @@
             "Detroit, MI"
         ],
         "company_url": "https://simplify.jobs/c/Wade-Trim",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Guidewire",
+        "id": "76b43bbd-bef8-4897-98ed-bb5abe47e51f",
+        "title": "Business Intelligence Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770121573,
+        "date_posted": 1770121573,
+        "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---San-Mateo-CA/Business-Intelligence-Analytics-Intern_JR_14305",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Guidewire",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
