@@ -53232,7 +53232,7 @@
         "company_name": "Qualcomm",
         "id": "d8d24238-2393-4f86-bdae-0d4f16400dec",
         "title": "Machine Learning & Artificial Intelligence Engineering Internship - Interim Engineering Intern - SW",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -54865,7 +54865,7 @@
         "company_name": "Qualcomm",
         "id": "edec5f96-0a62-4833-9ed3-7753cf61bf78",
         "title": "Product Management Internship - Interim Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -57106,7 +57106,7 @@
         "company_name": "Glean",
         "id": "94015ee8-32d2-4ad0-8394-3cb30e464aaa",
         "title": "Software Engineer \u2013 Intern - Summer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -144290,7 +144290,7 @@
         "company_name": "Barclays",
         "id": "22667ddc-4015-42a7-b2a4-19275eb9bb16",
         "title": "Sales - Trading and Structuring Summer Internship Programme 2026 - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -205003,7 +205003,7 @@
         "company_name": "Vanguard",
         "id": "5b334b82-4782-46ed-8836-6a81873e19b2",
         "title": "Application Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -218271,7 +218271,7 @@
         "company_name": "Teledyne",
         "id": "689d2320-97b9-49eb-910e-901bc1a4fb98",
         "title": "Computer Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -250936,7 +250936,7 @@
     {
         "date_updated": 1765287964,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -271094,7 +271094,7 @@
         "company_name": "Motorola",
         "id": "2682d4f1-2fb9-495a-bed3-46d5d16125fd",
         "title": "Summer 2026 Internship: Hardware Engineer Intern - Electrical or Mechanical",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -281961,7 +281961,7 @@
         "company_name": "RTX",
         "id": "b43e9956-8700-44f6-8eef-c9fdc0d273a6",
         "title": "Data Science and Advanced Analytics Intern - Data Science and Advanced Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -288473,7 +288473,7 @@
         "company_name": "Draper",
         "id": "fba1c6c7-3000-4ce8-8fbc-3f18641ab782",
         "title": "Autonomy and Real-Time Planning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -303770,7 +303770,7 @@
         "company_name": "Thinkingbox",
         "id": "3abea176-1656-414d-8e9a-013d0758bf67",
         "title": "Junior Front End Developer - Thinkingbox",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -315583,7 +315583,7 @@
         "company_name": "Okta",
         "id": "50be6212-87ca-4634-84f7-72245d9feae6",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -317374,7 +317374,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -332578,7 +332578,7 @@
         "company_name": "Genentech",
         "id": "31c5732e-c4c5-4b3c-a47b-155925fb894a",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -338114,7 +338114,7 @@
         "company_name": "Genentech",
         "id": "d1eb10c3-1441-4c3b-8ec2-f0ab15c7dd87",
         "title": "Intern - Data & Digital Catalysts",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -345588,6 +345588,400 @@
             "Troy, MI"
         ],
         "company_url": "https://simplify.jobs/c/Slate-Auto",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "a4ff0712-dba5-43be-b1a3-311d1c2adaad",
+        "title": "Stage \u00c9t\u00e9 2026 \u2013 Support aux Programmes R\u00e9gionaux / Internship Summer 2026 - Regional Programs Support",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770085588,
+        "date_posted": 1770085588,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-t-2026---Support-aux-Programmes-Rgionaux---Internship-Summer-2026---Regional-Programs-Support_01806949-1",
+        "locations": [
+            "Longueuil, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TKO Group Holdings, Inc",
+        "id": "b56cb9c9-c127-4f92-9b1d-42f4b9b33fb2",
+        "title": "Intern Product Management - Data Operations",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770085374,
+        "date_posted": 1770085374,
+        "url": "https://wwecorp.wd5.myworkdayjobs.com/tko/job/Remote---New-York/Intern---Product-Management--Data-Operations---On-Location_R0007395-2",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/TKO-Group-Holdings-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TKO Group Holdings, Inc",
+        "id": "3801663c-8a43-421d-a54a-f840f9c77f55",
+        "title": "Intern - Product Management",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770085372,
+        "date_posted": 1770085372,
+        "url": "https://wwecorp.wd5.myworkdayjobs.com/tko/job/Remote---Texas/Intern--Product-Management--On-Location_R0007394-2",
+        "locations": [
+            "Texas",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/TKO-Group-Holdings-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Trimble",
+        "id": "1458f120-61f6-4a1c-a349-608ce5f7b4c4",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770085359,
+        "date_posted": 1770085359,
+        "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R52612",
+        "locations": [
+            "Vaughan, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Trimble",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Zoox",
+        "id": "9bb2c51f-fbf7-47fd-9363-58f547a93203",
+        "title": "Technical Product Management Intern - Operational Tools",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770085074,
+        "date_posted": 1770085074,
+        "url": "https://jobs.lever.co/zoox/d6c86c35-b706-4046-9bfe-396114ebddf1/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kaiser Permanente",
+        "id": "9533f9a7-b328-4555-8db0-38bcb6e38a67",
+        "title": "Data Analytics Bachelor Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770084858,
+        "date_posted": 1770084858,
+        "url": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1405951",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kaiser-Permanente",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "c937ba27-f2c5-4066-b6f9-0fbc0fac742e",
+        "title": "Research Intern - AI for Nursing",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770084770,
+        "date_posted": 1770084770,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556750525",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "b9ac7d46-55c1-43e2-bf7a-da0b1caf36da",
+        "title": "Research Intern - Agentic Programming",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770084759,
+        "date_posted": 1770084759,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556750506",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Reli",
+        "id": "8e252a36-7035-4d4a-b584-184216edd7a9",
+        "title": "Data & Automation - Associate Development Program",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1770084350,
+        "date_posted": 1770084350,
+        "url": "https://jobs.lever.co/shopreli/5cd120ea-16d0-42f3-beb5-51d07a083b31/apply",
+        "locations": [
+            "Norwalk, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Reli",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Toyota Research Institute",
+        "id": "594845d0-0152-4a71-a894-f7a6bd556ad9",
+        "title": "Energy & Materials Intern - Generative Models and Reinforcement Learning",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770084339,
+        "date_posted": 1770084339,
+        "url": "https://jobs.lever.co/tri/839dce5a-db02-4e44-b016-0080c4292855/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intel",
+        "id": "dabc5b1d-640e-46f2-898a-a475be79e20a",
+        "title": "Mecop Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770086246,
+        "date_posted": 1770086246,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/MECOP-Intern_JR0279544",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intel",
+        "id": "cc9f202b-2022-4708-b20b-7e09776a0cba",
+        "title": "Mecop Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770086248,
+        "date_posted": 1770086248,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/MECOP-Intern_JR0279588",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intel",
+        "id": "8e5e9825-4472-4bbe-98dd-6c2ae127c0f8",
+        "title": "Mecop Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770086250,
+        "date_posted": 1770086250,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/MECOP-Intern_JR0279540",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intel",
+        "id": "7c5206fc-67bf-482a-a04d-56573e797719",
+        "title": "Mecop Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770086246,
+        "date_posted": 1770086246,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/MECOP-Intern_JR0279585",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intel",
+        "id": "680cbab1-a503-42b1-9e6f-39b1eb0001b3",
+        "title": "Mecop Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770086248,
+        "date_posted": 1770086248,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/MECOP-Intern_JR0279541",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intel",
+        "id": "0470c5a2-d61a-4fbc-a8b8-96802b837201",
+        "title": "Mecop Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770086248,
+        "date_posted": 1770086248,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/MECOP-Intern_JR0280373",
+        "locations": [
+            "Hillsboro, OR",
+            "Folsom, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Draper",
+        "id": "d0134d6d-3332-4be5-905e-419b31ffd2df",
+        "title": "Resilience and Fault Tolerance Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770086034,
+        "date_posted": 1770086034,
+        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Embedded-Software-Engineering-Intern_JR002183",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Draper",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
