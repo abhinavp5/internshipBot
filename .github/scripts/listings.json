@@ -206509,7 +206509,7 @@
         "company_name": "Detroit Lions",
         "id": "a80e4bc9-3de5-467d-9d9e-3bd0d656bd52",
         "title": "2026 Football Information Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -206897,7 +206897,7 @@
         "company_name": "Legrand NA",
         "id": "458d3f94-3485-481b-9c89-637846a1a233",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -228835,7 +228835,7 @@
         "company_name": "Trimble",
         "id": "664ddc45-7ed8-4506-8c43-4168fbab96c5",
         "title": "Geomatics Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -260816,7 +260816,7 @@
         "company_name": "Zipline",
         "id": "dcec3172-fe62-4f9a-8090-07c794eb0324",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -266423,7 +266423,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "bfc672f0-921f-4497-a6cd-32f5529629e4",
         "title": "Data Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -281800,7 +281800,7 @@
         "company_name": "Sandisk",
         "id": "91cd4a62-3385-451a-9e9a-8b15ad6bffa5",
         "title": "Intern - SSD Hardware Design Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -284087,7 +284087,7 @@
         "company_name": "NBCUniversal",
         "id": "5bf38345-9411-40bc-bd32-5abfa5282c5c",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -288080,7 +288080,7 @@
         "company_name": "Global Partners",
         "id": "1e3ed0ad-c0db-463f-9730-a7cc3c8757db",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -293155,7 +293155,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "b9a9514a-60b9-4717-8f31-8526e2d4db27",
         "title": "Sales Team Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -302355,7 +302355,7 @@
         "company_name": "Barclays",
         "id": "0ae59787-8c62-4432-a3aa-421446384021",
         "title": "Technology Developer Discovery Programme 2026 London",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -305218,7 +305218,7 @@
         "company_name": "Goldman Sachs",
         "id": "36cdf4e9-4f05-45ac-baef-2f787db03c4d",
         "title": "2026 \u2013 London - Engineering - New Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -314180,7 +314180,7 @@
         "company_name": "Expedition Technology",
         "id": "11d9bc74-43c5-4145-8301-575b835be79f",
         "title": "Summer 2026 Internship in Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -314554,7 +314554,7 @@
         "company_name": "Expedition Technology",
         "id": "9c67044c-63c9-40ce-b223-3e8e8221d374",
         "title": "Intern in Machine Learning and Digital Signal Processing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -320595,7 +320595,7 @@
         "company_name": "Kearny Bank",
         "id": "5f5a82fc-3a12-4ff3-ad7d-87fa5fc12848",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -323149,7 +323149,7 @@
         "company_name": "Graphcore",
         "id": "c98343bc-6999-4e4b-aebd-f2e8eccc5a7f",
         "title": "Intern \u2013 Systems Engineering - Compute AI Hardware Platforms",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -329687,7 +329687,7 @@
         "company_name": "Field AI",
         "id": "fe560f73-4d17-4eff-a310-d529c7a77eb6",
         "title": "Research Scientist Intern - Embodied AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -343510,7 +343510,7 @@
         "company_name": "Motorola",
         "id": "80164e04-3d90-42ab-ba58-99b7d4c58097",
         "title": "Design Validation \u2013 Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343720,7 +343720,7 @@
         "company_name": "onsemi",
         "id": "3c8f320c-0da0-48d0-887b-47c16c6b3b49",
         "title": "Summer 2026 \u2013 AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344518,7 +344518,7 @@
         "company_name": "Medline",
         "id": "5b8476ce-074a-47c3-8f3d-a0d28202d1b8",
         "title": "Associate Product Manager - Summer 2026 Start Date",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -347460,7 +347460,7 @@
         "company_name": "Veolia",
         "id": "70b1ae0f-242e-44ec-bce9-cf589cb6ca23",
         "title": "Intern Manufacturing Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -350007,7 +350007,7 @@
         "company_name": "RR Donnelley",
         "id": "2874ce93-c611-4fe7-b03a-55e52f38fcba",
         "title": "Unix/Linux Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
