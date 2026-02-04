@@ -74748,7 +74748,7 @@
         "company_name": "RESPEC",
         "id": "67697e1a-0800-4b63-894c-a9f03c6054b8",
         "title": "Student Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -105812,7 +105812,7 @@
         "company_name": "RESPEC",
         "id": "22e490ad-56fe-4b56-af8d-5848ada5b644",
         "title": "Student Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -266141,7 +266141,7 @@
         "company_name": "TripAdvisor",
         "id": "1dfa8f95-361c-4ac9-acc0-b5f85a3c8e4d",
         "title": "Oxford Software Engineering Internship 2026 - Viator",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -339570,7 +339570,7 @@
         "company_name": "Paccar",
         "id": "47a2ac2c-935c-4b19-8092-1ae8b73525aa",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
