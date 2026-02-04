@@ -173916,7 +173916,7 @@
         "company_name": "Western Alliance",
         "id": "3db9c594-78ce-47dd-8bfb-f0527457821d",
         "title": "Summer 2026 Internship - Computer Science Majors - Phoenix - AZ",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -283844,7 +283844,7 @@
         "company_name": "American Electric Power",
         "id": "955bd19b-f828-4691-be72-646ef4ac1e6a",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -299762,7 +299762,7 @@
         "company_name": "Rocket Science Group",
         "id": "52a34fc3-e296-4fcf-81b7-636c5e1616ef",
         "title": "Software Engineer - Year in Industry - Cardiff",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
