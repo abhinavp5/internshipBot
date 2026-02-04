@@ -47299,7 +47299,7 @@
         "company_name": "Stryker",
         "id": "a7d290b8-3b15-4d09-b5c8-c75b56647d65",
         "title": "2026 Summer Intern - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -74748,7 +74748,7 @@
         "company_name": "RESPEC",
         "id": "67697e1a-0800-4b63-894c-a9f03c6054b8",
         "title": "Student Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -105812,7 +105812,7 @@
         "company_name": "RESPEC",
         "id": "22e490ad-56fe-4b56-af8d-5848ada5b644",
         "title": "Student Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -214297,7 +214297,7 @@
         "company_name": "Leidos",
         "id": "56cf7ad2-73ae-47b1-8c2e-07ebf1ad2c2f",
         "title": "Human Factors Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -214319,7 +214319,7 @@
         "company_name": "Leidos",
         "id": "50dd957c-b262-4c35-970f-bbfa0995aa34",
         "title": "AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -279988,7 +279988,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "9d3cb2eb-eeb5-4cde-ba5c-89d85bd39e6c",
         "title": "Networking R&D Hardware Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -298600,7 +298600,7 @@
         "company_name": "Detroit Lions",
         "id": "f3c80214-a969-4242-bcba-1b24ee3e2aa3",
         "title": "Football Information Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -308005,7 +308005,7 @@
         "company_name": "Genmab",
         "id": "3189ff40-123b-4cd0-aff2-989d5bc00a49",
         "title": "Business Operations and Analytics Intern - US Market Commercial",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -326098,7 +326098,7 @@
         "company_name": "Bread Financial",
         "id": "e099cd24-0d58-40dd-93f8-f4d8b390755d",
         "title": "Intern \u2013 Intelligent Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -331817,7 +331817,7 @@
         "company_name": "Elevance Health",
         "id": "96bb26b6-890c-4904-8694-cc7407470ea4",
         "title": "Graduate Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -334628,7 +334628,7 @@
         "company_name": "Ohio State University",
         "id": "8875b13f-75ac-49de-a11d-88319c59f94c",
         "title": "Student Assistant VR Development",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -345858,7 +345858,7 @@
         "company_name": "Intel",
         "id": "8e5e9825-4472-4bbe-98dd-6c2ae127c0f8",
         "title": "Mecop Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346974,7 +346974,7 @@
         "company_name": "Bank of Montreal",
         "id": "e4b30ce6-67d1-449d-a900-c1c44e498c58",
         "title": "Junior Analyst - National Accounts Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -348554,7 +348554,7 @@
         "company_name": "Intel",
         "id": "7fcbcb66-1252-4633-85e8-064bac5af0a7",
         "title": "Mecop Intern - Wet Etch - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -349356,7 +349356,7 @@
         "company_name": "Leidos",
         "id": "52577f9a-5b52-450b-8293-d2690bd24ba6",
         "title": "Performance Management AI/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -350900,6 +350900,262 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Autodesk",
+        "id": "df90709b-eb17-4825-b884-edbb1bae0c51",
+        "title": "Intern Machine Learning Developer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770218599,
+        "date_posted": 1770218599,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Machine-Learning-Developer_25WD92316-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Autodesk",
+        "id": "5a018aa7-4a87-4012-8ee1-eeaca6f65ad0",
+        "title": "Intern Machine Learning Developer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770218505,
+        "date_posted": 1770218505,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Intern--Machine-Learning-Developer_25WD92316",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "onsemi",
+        "id": "f4f9b321-66e8-47d3-9230-5ed6a4ed7de9",
+        "title": "Summer 2026 \u2013 Quality and Reliability Intern SAN JOSE",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770218274,
+        "date_posted": 1770218274,
+        "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2503672",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Onsemi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "onsemi",
+        "id": "d97c64d0-6e04-4b0b-955f-3408ff00476e",
+        "title": "Quality and Reliability Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770218261,
+        "date_posted": 1770218261,
+        "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2503669",
+        "locations": [
+            "Allen, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Onsemi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Boston Consulting Group",
+        "id": "cc4f8c20-6792-4f61-8c45-7656f7193148",
+        "title": "Product Delivery Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770218175,
+        "date_posted": 1770218175,
+        "url": "https://careers.bcg.com/global/en/job/56773",
+        "locations": [
+            "Neukirchen-Vluyn, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Oracle",
+        "id": "969f2baa-fe51-4bb4-8d14-50acf042c86b",
+        "title": "Software Development Intern - Global Licensing and Advisory Services",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770218274,
+        "date_posted": 1770218274,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/325487",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "onsemi",
+        "id": "24dbcbe0-d481-45c9-b53d-1484768ec672",
+        "title": "LLM Research Intern: Physics-AI-Powered Analysis of Atomistic Systems",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770218284,
+        "date_posted": 1770218284,
+        "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2503970",
+        "locations": [
+            "Fairview, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Onsemi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "onsemi",
+        "id": "f7d2f59b-9167-4a08-8401-f28add6a65c7",
+        "title": "Imaging Test Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770217910,
+        "date_posted": 1770217910,
+        "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2503627",
+        "locations": [
+            "Nampa, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Onsemi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Savannah River National Laboratory",
+        "id": "271fce11-7061-4f94-9477-906824fd810c",
+        "title": "LSE Technical Undergraduate Nuclear Dose Modeling Intern - Nuclear Materials",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770217834,
+        "date_posted": 1770217834,
+        "url": "https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1934",
+        "locations": [
+            "North Augusta, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Savannah-River-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "UiPath",
+        "id": "0a67768f-cf27-4349-8ee4-9119b8221cda",
+        "title": "Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770217929,
+        "date_posted": 1770217929,
+        "url": "https://jobs.ashbyhq.com/uipath/4b0362de-5f8b-44b0-802d-4de38377fa3e/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/UiPath",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "5c81c172-021f-48ca-a6ad-5c20783b2c3c",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770217783,
+        "date_posted": 1770217783,
+        "url": "https://careers-gdms.icims.com/jobs/70444/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Dedham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
