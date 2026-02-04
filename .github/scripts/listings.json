@@ -27857,7 +27857,7 @@
         "company_name": "Tenstorrent",
         "id": "6f9321d4-c651-4adf-bed1-1ff6ee4fbbe9",
         "title": "AI Hardware Architecture Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -98304,7 +98304,7 @@
         "company_name": "Xcel Energy",
         "id": "9a9ed6a7-3377-4057-866b-77b97ef9c2b0",
         "title": "Enterprise Data & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -103926,7 +103926,7 @@
         "company_name": "Sierra Nevada Coporation",
         "id": "8a9dab53-e3a5-4447-b3e5-4f38f5f6c1e1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -160522,7 +160522,7 @@
         "company_name": "Valmont",
         "id": "4929acca-0ac4-46f7-a066-0d15970edf05",
         "title": "Software Engineering Web Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -163330,7 +163330,7 @@
         "company_name": "DatologyAI",
         "id": "537c5b49-5525-49e5-92f7-22b3e72cf73d",
         "title": "Software Engineer Intern - Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -163354,7 +163354,7 @@
         "company_name": "DatologyAI",
         "id": "1a99bdc9-b4cf-4235-b67a-79e66e3c380b",
         "title": "Software Engineer Intern - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -176907,7 +176907,7 @@
         "company_name": "Tria Federal",
         "id": "f2c7bd62-5f5e-4376-8410-e4f70c648241",
         "title": "Salesforce Developer \u2013 Summer Apprenticeship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -181939,7 +181939,7 @@
         "company_name": "Rivian",
         "id": "c6abf99f-9fad-42a6-ac72-75e640c81588",
         "title": "Software Engineering Internship - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -200332,7 +200332,7 @@
         "company_name": "Goldman Sachs",
         "id": "1ffb9638-b229-4d2c-a32a-39c593335475",
         "title": "2026 \u2013 Summer Analyst - London - FICC and Equities - Sales and Trading - Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -212635,7 +212635,7 @@
         "company_name": "Great American Insurance Company",
         "id": "0dcfae79-7f4c-4a67-b5df-eda7b82c78bc",
         "title": "AI Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -237875,7 +237875,7 @@
         "company_name": "US Conec",
         "id": "aaf899f4-2bb1-4489-91b5-5bb3217d4a8d",
         "title": "Intern \u2013 Metrology Data Science - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -238557,7 +238557,7 @@
         "company_name": "Geosyntec Consultants",
         "id": "1c2841c8-11f7-4844-818e-839078f8228b",
         "title": "Geographic Information Systems \u2013 Intern - GIS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -246051,7 +246051,7 @@
         "company_name": "TransUnion",
         "id": "bc7762e5-8638-466a-b9ba-0625be71aaaf",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -306564,7 +306564,7 @@
         "company_name": "XPO",
         "id": "665f1778-8b10-4893-b0c1-5b8d4cba024a",
         "title": "Tech Program Intern 3 - Full Stack Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -308742,7 +308742,7 @@
         "company_name": "BNY",
         "id": "6b6b9dd5-56c7-4082-a137-ddf0b3014769",
         "title": "BNY Analyst Program - Product and Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -314110,7 +314110,7 @@
         "company_name": "Expedition Technology",
         "id": "5a610802-8d4f-4efe-9213-84cf65e73578",
         "title": "Deep Learning and Computer Vision Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -321269,7 +321269,7 @@
         "company_name": "Rocket Companies",
         "id": "5a1768e9-2a3e-4d9f-a7be-a87d458d41be",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -327794,7 +327794,7 @@
         "company_name": "Gusto",
         "id": "12bfaf51-8750-483f-bfed-56a0e64fc75c",
         "title": "Software Engineering Apprenticeship - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333616,7 +333616,7 @@
         "company_name": "Cox",
         "id": "cde4b3b4-e053-4584-8013-41de22e332b3",
         "title": "Intelligent Automation Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -336506,7 +336506,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "7f83a8e0-5ff9-47fd-bd91-e3e6fa0912ff",
         "title": "Application Developer Levels 1 - 5",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -339021,7 +339021,7 @@
         "company_name": "Parexel",
         "id": "7dd7d16e-d74f-492a-8788-e677ccdd8c5c",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -346667,7 +346667,7 @@
         "company_name": "RTX",
         "id": "a27350ce-ed33-4e4b-9f35-fe93a0f480df",
         "title": "2026 Returning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
