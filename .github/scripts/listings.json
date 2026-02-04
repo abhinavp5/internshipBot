@@ -164323,7 +164323,7 @@
         "company_name": "Altera Corporation",
         "id": "2882a9a0-b1c1-488a-b75c-a5e7bcb5a6ef",
         "title": "Internship - FPGA Hardware Design Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -210169,7 +210169,7 @@
         "company_name": "Altera Corporation",
         "id": "e3f49006-c224-4fbe-9b91-a64692dd22be",
         "title": "Internship - FPGA Software Design Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -273982,7 +273982,7 @@
         "company_name": "Electronic Arts",
         "id": "eb860fb2-1bee-4972-9eed-7be7cf73d87e",
         "title": "Global Audit Technology Risk Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -306790,7 +306790,7 @@
         "company_name": "Waabi",
         "id": "562cfa3f-acbe-49bd-a289-b593ba5297c0",
         "title": "Safety Methodologies Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -321816,7 +321816,7 @@
         "company_name": "Genentech",
         "id": "a5e74bd2-4c83-4490-a54b-e0eccfad5383",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -334836,7 +334836,7 @@
         "company_name": "Empower",
         "id": "4490128c-605d-46fb-a1b1-cbf5ef2df62d",
         "title": "Intern-Software Engineer-Technology Modernization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -337999,7 +337999,7 @@
         "company_name": "T-Mobile",
         "id": "0bff47d3-36a6-4b7f-ab66-9942d639e7ff",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -350672,5 +350672,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Werfen",
+        "id": "367a1f2c-af31-4718-9f1e-66d16944f6fa",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770160392,
+        "date_posted": 1770160392,
+        "url": "https://careers-werfen.icims.com/jobs/9896/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Bedford, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Werfen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
