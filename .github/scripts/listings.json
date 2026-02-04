@@ -204983,7 +204983,7 @@
         "company_name": "Vanguard",
         "id": "5b334b82-4782-46ed-8836-6a81873e19b2",
         "title": "Application Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -314414,7 +314414,7 @@
         "company_name": "AstraZeneca",
         "id": "f3901cb0-d725-4e7a-8a88-4e1e3d469b1b",
         "title": "Laboratory Automation Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -327654,7 +327654,7 @@
         "company_name": "CIBC",
         "id": "0cdabebf-a2d0-482e-8ff5-c463a7484dcc",
         "title": "Investor's Edge Analyst \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333190,7 +333190,7 @@
         "company_name": "SAS",
         "id": "949db35c-c52c-4b73-9048-8e0e3b91fda2",
         "title": "Learning Data Science Master's Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333236,7 +333236,7 @@
         "company_name": "SAS",
         "id": "5df2ee30-d23e-4767-93d4-79c8f6f86696",
         "title": "Full Stack Software Developer Intern - Health and Life Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -338666,7 +338666,7 @@
         "company_name": "T-Mobile",
         "id": "181def6f-4e15-4a64-968e-143ac80efcf9",
         "title": "Machine Learning Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
