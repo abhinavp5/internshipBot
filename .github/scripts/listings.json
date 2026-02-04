@@ -242570,7 +242570,7 @@
         "company_name": "Barclays",
         "id": "b1b1a068-364f-43f1-bd43-7ac2e340b17c",
         "title": "Sales Trading and Structuring Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -287588,7 +287588,7 @@
         "company_name": "Unity",
         "id": "8386a979-b004-4216-98e2-c7dfe93b8a00",
         "title": "Software Engineer - Engine Support",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -335026,7 +335026,7 @@
         "company_name": "Insulet Corporation",
         "id": "2ae2b3ec-60cd-4eed-9d08-cd9a3b6e2cd0",
         "title": "Intern/Co-op Systems Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346413,7 +346413,7 @@
         "company_name": "Finastra",
         "id": "efe15899-5107-46c6-acf2-7a777c89d92c",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -350763,5 +350763,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KLA",
+        "id": "26805e68-c29a-4153-b49a-b4a17e9ce780",
+        "title": "AI Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770207996,
+        "date_posted": 1764522538,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Mechanical-Engineering-Internship_2532346",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
