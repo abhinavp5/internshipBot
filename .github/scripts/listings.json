@@ -38329,7 +38329,7 @@
         "company_name": "AbbVie",
         "id": "14aa40b6-8174-4dcd-b20d-9f417ef55e0f",
         "title": "Computational Data Scientist Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -194929,7 +194929,7 @@
         "company_name": "NBCUniversal",
         "id": "1a83070c-f8f0-46fc-8625-576812b55dc6",
         "title": "Media Product Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Summer 2027"
@@ -229252,7 +229252,7 @@
         "company_name": "Cisco",
         "id": "1cde2689-d3c8-4c81-bfd1-624897f66d01",
         "title": "AI Machine Learning Engineer 1 - Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -229273,7 +229273,7 @@
         "company_name": "Cisco",
         "id": "52ef204d-8424-4808-9bef-f5125171c544",
         "title": "Hardware Engineer PhD \u2013 Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -229871,7 +229871,7 @@
         "company_name": "Cisco",
         "id": "754ac4dc-d1a1-41f6-89cd-3a8ae221cb82",
         "title": "Hardware Engineer 2",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -230752,7 +230752,7 @@
         "company_name": "Cisco",
         "id": "d2da749a-84bb-4e0f-a8bd-b7dfebc60ba7",
         "title": "Hardware Engineer 2",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -232476,7 +232476,7 @@
         "company_name": "Cisco",
         "id": "eab10ff3-e9aa-4052-a4ed-a7ad28f5000e",
         "title": "AI Product Management Engineer 2 - Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -232834,7 +232834,7 @@
         "company_name": "Cisco",
         "id": "6a91c760-f98f-4dc4-b54f-6990f529b91d",
         "title": "Software Consulting Engineer 1 - Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -243022,7 +243022,7 @@
         "company_name": "Cisco",
         "id": "63762f49-2a9d-4e37-ab44-6148be49061c",
         "title": "Software Engineer 2",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -271012,7 +271012,7 @@
         "company_name": "AbbVie",
         "id": "6afd2903-384a-4283-b15a-896f6b3c1cb1",
         "title": "2026 Graph Machine Learning Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -271054,7 +271054,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "34070e76-bc27-46a4-bc37-5aae60674289",
         "title": "Multi-Modal Cyber-physical sensing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -275960,7 +275960,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "0436f6da-716a-4ecf-b66c-ce1476b1f498",
         "title": "Multi-Modal Cyber-Physical Sensing Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -283959,7 +283959,7 @@
         "company_name": "NBCUniversal",
         "id": "895fe316-91aa-4c13-b0e9-a718f0ec087a",
         "title": "Media Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Summer 2027"
@@ -306575,7 +306575,7 @@
         "company_name": "Cisco",
         "id": "49f2467b-9b11-49aa-b26a-9bf14c53669e",
         "title": "Software Developer 2",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -310570,7 +310570,7 @@
         "company_name": "Cisco",
         "id": "69c79c24-a44d-41c2-a33d-9252a9150ed9",
         "title": "Software Engineer Full Stack & Application Development 2 \u2013 Intern - United States",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -336450,7 +336450,7 @@
         "company_name": "University Health Network",
         "id": "0195c812-69bc-4b7b-8853-016becee21c3",
         "title": "Research Summer Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -337648,7 +337648,7 @@
         "company_name": "RTX",
         "id": "97991d0f-14a5-4c20-a56b-8de73657b0b2",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -338495,7 +338495,7 @@
         "company_name": "T-Mobile",
         "id": "d4f7190c-14df-4dd8-9b0f-be579747260f",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -338806,7 +338806,7 @@
         "company_name": "University Health Network",
         "id": "732eb41e-6f38-461e-ad70-891160ee752f",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -339003,7 +339003,7 @@
         "company_name": "GlobalFoundries",
         "id": "afde11c1-97f0-4edc-a8eb-8550d2832ddd",
         "title": "US Electronics Rebuild Technician Intern - New York - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -342151,7 +342151,7 @@
         "company_name": "RTX",
         "id": "f1aa57ff-e315-4c40-995f-3ccb0323c121",
         "title": "Stage \u2013 Science des donn\u00e9es et Analytique d\u2019affaires / Internship - \u00c9t\u00e9 2026 - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -349544,7 +349544,7 @@
         "company_name": "Genentech",
         "id": "82f97eee-2b40-4ac0-b22a-e8775467a37d",
         "title": "2026 Summer Intern - Clinical Insights and Automation - Early Clinical Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -351292,7 +351292,7 @@
         "company_name": "AbbVie",
         "id": "e0c51296-b4d9-4f64-9385-e25e3dde3d50",
         "title": "2026 Graph Machine Learning Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -351570,7 +351570,7 @@
         "company_name": "AbbVie",
         "id": "a29610ca-dbbb-4e14-a5f2-4a8999971f62",
         "title": "Computational Data Scientist",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -353544,5 +353544,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Stantec",
+        "id": "82155bdc-6115-4f9e-8007-b55bb43ffcbc",
+        "title": "Environmental Services Intern - Remediation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770218267,
+        "date_posted": 1770218267,
+        "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1004055",
+        "locations": [
+            "Anchorage, AK"
+        ],
+        "company_url": "https://simplify.jobs/c/Stantec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
