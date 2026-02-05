@@ -302409,7 +302409,7 @@
         "company_name": "Crowe",
         "id": "77ed6589-1bae-43cb-a0cc-b61c29c041f2",
         "title": "Data Analytics Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -323580,7 +323580,7 @@
         "company_name": "The Boeing Company",
         "id": "7848bf7b-3394-4d37-ab38-8466cb514464",
         "title": "Boeing Pre-Employment Training - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -345454,7 +345454,7 @@
         "company_name": "RTX",
         "id": "a4ff0712-dba5-43be-b1a3-311d1c2adaad",
         "title": "Stage \u00c9t\u00e9 2026 \u2013 Support aux Programmes R\u00e9gionaux / Internship Summer 2026 - Regional Programs Support",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -345686,7 +345686,7 @@
         "company_name": "Intel",
         "id": "dabc5b1d-640e-46f2-898a-a475be79e20a",
         "title": "Mecop Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -345709,7 +345709,7 @@
         "company_name": "Intel",
         "id": "cc9f202b-2022-4708-b20b-7e09776a0cba",
         "title": "Mecop Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
