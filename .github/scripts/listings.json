@@ -331182,7 +331182,7 @@
         "company_name": "Comcast",
         "id": "4df9895c-24da-45fd-9929-aaf077b308d8",
         "title": "Data Analyst Intern - Comcast Spectacor Gaming - Spring 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -335344,7 +335344,7 @@
         "company_name": "Genentech",
         "id": "70f2d42a-ad41-46df-9e9c-b928a5e22061",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -342637,7 +342637,7 @@
         "company_name": "Genentech",
         "id": "65addb32-2ae3-449c-835f-dadf03851817",
         "title": "2026 Summer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -343169,7 +343169,7 @@
         "company_name": "Autodesk",
         "id": "f3321c03-395c-4f6c-8bf9-6ffaf1730365",
         "title": "PhD Intern - Physics-Informed Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -353562,6 +353562,29 @@
             "Anchorage, AK"
         ],
         "company_url": "https://simplify.jobs/c/Stantec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "75461f0b-eba9-4ec1-acc4-3c384005b67f",
+        "title": "Coop \u2013 / Coop",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770289438,
+        "date_posted": 1770086286,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/COOP---t-2026---Stagiaire-en-analyse-en-Gestion-du-Savoir--Ingnierie----COOP---Summer-2026---Analyst-in-the-Engineering-Knowledge-Management-Department_01813789",
+        "locations": [
+            "Longueuil, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
