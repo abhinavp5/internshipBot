@@ -141,26 +141,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Booz Allen",
-        "id": "79cc3d09-db6b-4700-b963-0ec6ff0cd863",
-        "title": "University \u2013 Systems Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1749596051,
-        "date_posted": 1749596051,
-        "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/University--Systems-Engineer-Intern_R0220867",
-        "locations": [
-            "Lexington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Booz-Allen",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "The Standard",
         "id": "60f8fadd-db14-47a0-856d-52b2cd2c0291",
@@ -133877,7 +133857,7 @@
         "company_name": "Waymo",
         "id": "4338b509-8f2f-42b5-b24c-f8e54ac2f918",
         "title": "Intern - Research - 3D/4D Scene Reconstruction and Understanding",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -226379,7 +226359,7 @@
         "company_name": "KLA",
         "id": "922b9121-73f8-4515-a83d-86227025f7dd",
         "title": "AI & Workflow Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -229148,7 +229128,7 @@
         "company_name": "IXL Learning",
         "id": "364aebbb-9018-40dd-9592-7917b201b662",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -233066,7 +233046,7 @@
         "company_name": "Fortive",
         "id": "4d5406f1-d2a6-4874-b5ec-f30a38338c36",
         "title": "Software Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -246928,7 +246908,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "ea5ef721-be72-4fa5-8146-70bce7581cac",
         "title": "SW Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -251311,7 +251291,7 @@
         "company_name": "Keysight Technologies",
         "id": "7bf652ce-5ff7-4a7b-a24b-d52cd35bb137",
         "title": "Applications Engineer - Masters or PhD Level",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -258379,7 +258359,7 @@
         "company_name": "RaceTrac",
         "id": "0e8dd05e-5f94-4ea8-b4af-6c77dce86dd6",
         "title": "Digital Integrations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -259532,7 +259512,7 @@
         "company_name": "Rolls Royce",
         "id": "cf0eb42d-d253-4fe3-b838-22a1c313fdbe",
         "title": "Innovation and Digitalization Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -268065,7 +268045,7 @@
         "company_name": "McKesson",
         "id": "01c28777-bdfd-4ef5-afbe-d658d274e27c",
         "title": "Impact Strategy & Analytics Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -272123,7 +272103,7 @@
         "company_name": "McKesson",
         "id": "3c846126-bcc8-4ec3-be85-3ccde9511bcf",
         "title": "Compliance Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -284709,7 +284689,7 @@
         "company_name": "Dairyland Power Cooperative",
         "id": "57db4117-672d-4bf9-a34e-940ba4e3ba1e",
         "title": "Intern \u2013 GIS - La Crosse - WI",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -289849,7 +289829,7 @@
         "company_name": "Auctane",
         "id": "215acd32-1b4b-48c6-a96b-1f4a2b838e5c",
         "title": "Ecommerce Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -294272,7 +294252,7 @@
         "company_name": "RTX",
         "id": "ddeec651-b4fe-4d1c-8e51-2f0766079091",
         "title": "2026 Intern - Data Management Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -303881,7 +303861,7 @@
         "company_name": "SDSU Research Foundation",
         "id": "5b3ad9d4-7b1e-4787-992d-8e8fc387c7b7",
         "title": "Niwc Senior",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -307716,7 +307696,7 @@
         "company_name": "Verkada",
         "id": "269e38c9-c69c-4e41-9c91-b4076fa7b35d",
         "title": "Security Embedded Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -314244,7 +314224,7 @@
         "company_name": "Dark Wolf Solutions",
         "id": "a40a332e-b0ca-4cfd-8f7c-387f85d457d5",
         "title": "UF College Fair \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -317869,7 +317849,7 @@
         "company_name": "KLA",
         "id": "149d53ea-af33-49ab-98b9-e3ae79245a77",
         "title": "AI & Workflow Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -342152,7 +342132,7 @@
         "company_name": "Gordon Food Service",
         "id": "63392cfe-74fd-4ed8-8fd7-b50f98716cc6",
         "title": "Marketing Strategy and Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343172,7 +343152,7 @@
         "company_name": "Sarepta",
         "id": "d3a9eee5-b79b-4afb-9eb6-5e26551d96fa",
         "title": "Machine Learning Scientist \u2013 Oligo Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344964,7 +344944,7 @@
         "company_name": "C.H. Guenther",
         "id": "117ed90a-4d33-40b7-a5e8-c76386e4fab1",
         "title": "AI Agents & Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346895,7 +346875,7 @@
         "company_name": "Berkshire Grey",
         "id": "c6ce8d03-c886-4cbb-ab10-2f6ee85cd9b3",
         "title": "Robot Learning R&D Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -349346,7 +349326,7 @@
         "company_name": "Dollar Tree",
         "id": "10002eaf-392f-4648-a976-f999b710dfe4",
         "title": "E-Commerce Marketing Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -352126,7 +352106,7 @@
         "company_name": "Carnegie Mellon University",
         "id": "64f5f4f9-0bb1-4b99-9bfc-2816a5e6a7c7",
         "title": "PDE Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
