@@ -100959,7 +100959,7 @@
         "company_name": "RESPEC",
         "id": "eeb11883-a57a-42a2-bd99-bf0a7a685d50",
         "title": "Student Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -105686,7 +105686,7 @@
         "company_name": "RESPEC",
         "id": "22e490ad-56fe-4b56-af8d-5848ada5b644",
         "title": "Student Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -205785,7 +205785,7 @@
         "company_name": "Electronic Arts",
         "id": "f22f4aef-6545-42c8-9b88-9ede6a95ec66",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -248284,7 +248284,7 @@
         "company_name": "Cisco",
         "id": "7462efbc-f039-4632-a600-7230c301607d",
         "title": "Software Engineer Full Stack & Application Development 1 \u2013 Intern - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -306481,7 +306481,7 @@
         "company_name": "Electronic Arts",
         "id": "e99ef696-c9cd-4169-b008-5a63bacb61cc",
         "title": "Game Creation SW Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -319831,7 +319831,7 @@
         "company_name": "Genentech",
         "id": "39ea6465-59aa-474e-9ce8-b3be35b2ffd9",
         "title": "Intern - AIBT/Trail",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -339537,7 +339537,7 @@
         "company_name": "Paccar",
         "id": "2b65617e-14e1-45c5-b7e5-0806c8477291",
         "title": "Diagnostic Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343820,7 +343820,7 @@
         "company_name": "Rheem",
         "id": "e08c4713-8baf-4630-90ca-a58ede919793",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343843,7 +343843,7 @@
         "company_name": "Rheem",
         "id": "b20a762c-b1f2-4c71-bed6-73f9c5553392",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -351292,7 +351292,7 @@
         "company_name": "AbbVie",
         "id": "e0c51296-b4d9-4f64-9385-e25e3dde3d50",
         "title": "2026 Graph Machine Learning Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -351570,7 +351570,7 @@
         "company_name": "AbbVie",
         "id": "a29610ca-dbbb-4e14-a5f2-4a8999971f62",
         "title": "Computational Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -353520,6 +353520,27 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/VSP-Vision",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Exploration Company",
+        "id": "49d448e1-2291-4630-88c7-5a25d0dc4763",
+        "title": "Crew Systems Engineering Intern-Software",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1770284020,
+        "date_posted": 1765988562,
+        "url": "https://jobs.ashbyhq.com/the-exploration-company/da63221d-dd60-41fe-8dd5-bb1a565a7824/application",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Exploration-Company",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
