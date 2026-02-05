@@ -301131,7 +301131,7 @@
         "company_name": "Booz Allen",
         "id": "ebbeb942-0cc3-4261-8d36-4a223feebad5",
         "title": "University Data Scientist - Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -334590,7 +334590,7 @@
         "company_name": "Sun Life",
         "id": "5ff3b785-9019-48c9-a9f4-03a4bcbc8411",
         "title": "Student \u2013 Associate Data Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -337487,7 +337487,7 @@
         "company_name": "CIBC",
         "id": "aa464af3-c009-455a-80f0-c51d0c27774e",
         "title": "Technical Systems Analyst Co-op - 8 months",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -338491,7 +338491,7 @@
         "company_name": "T-Mobile",
         "id": "f7e16d13-98e7-40eb-b429-092cc1b259c5",
         "title": "Product Owner Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -340043,7 +340043,7 @@
         "company_name": "T-Mobile",
         "id": "ddc4d457-5317-4d2f-839d-f20568dde3d6",
         "title": "Product Owner Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -340766,7 +340766,7 @@
         "company_name": "Bank of Montreal",
         "id": "33d02daf-35ab-443c-960a-a72a59882679",
         "title": "AI Developer \u2013 Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344339,7 +344339,7 @@
         "company_name": "LabCorp",
         "id": "ba1dbc6b-180b-41d1-93ac-0b963a6342a2",
         "title": "Software Engineer Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
