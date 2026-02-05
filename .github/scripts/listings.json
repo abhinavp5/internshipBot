@@ -162,27 +162,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Cibc",
-        "id": "7da7fb12-a0da-422e-8ef0-50a5727ba6c1",
-        "title": "Quantitative Analyst - Pension Investment Management",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1749526571,
-        "date_posted": 1749526571,
-        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Quantitative-Analyst--Pension-Investment-Management--Fall-2025-Co-Op-_2513753",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Cibc",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "ATPCO",
         "id": "6be97c1c-8cee-4d2e-abcb-fc7c8d56fdc7",
@@ -74687,7 +74666,7 @@
         "company_name": "RESPEC",
         "id": "67697e1a-0800-4b63-894c-a9f03c6054b8",
         "title": "Student Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -105751,7 +105730,7 @@
         "company_name": "RESPEC",
         "id": "22e490ad-56fe-4b56-af8d-5848ada5b644",
         "title": "Student Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -191160,7 +191139,7 @@
         "company_name": "Astranis",
         "id": "b31c7f67-31a2-456b-993d-578ac833e6f1",
         "title": "FPGA Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -230383,7 +230362,7 @@
         "company_name": "Fortive",
         "id": "4770d870-85ad-43e5-841d-8d9f99eafe77",
         "title": "Embedded Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -260865,7 +260844,7 @@
         "company_name": "Shure",
         "id": "3293b6ae-997e-470f-a96a-5912db9583aa",
         "title": "Global Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -317293,7 +317272,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -326199,7 +326178,7 @@
         "company_name": "Focus Financial Partners",
         "id": "a5003f23-f7bc-4361-aaf4-0ae04bd634da",
         "title": "Wealth Technology Salesforce Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -345258,7 +345237,7 @@
         "company_name": "Camping World",
         "id": "ee9606ee-3262-4e74-8038-c9519e7c9488",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -349150,7 +349129,7 @@
         "company_name": "NVIDIA",
         "id": "c281a6cd-cb56-42be-8e96-13b2871b667e",
         "title": "Technical Product Management Intern - Cuda",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -352996,6 +352975,367 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Gen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Itron",
+        "id": "e6c356a0-3d62-4de3-9c32-73c04769c84e",
+        "title": "Intern Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770258132,
+        "date_posted": 1770258132,
+        "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-California-San-Jose/Intern---Software-Engineer--Summer-2026-_JR102098",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Itron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Itron",
+        "id": "7131f74b-fd56-4b8d-8fea-e7c6dc1eb22d",
+        "title": "Intern Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770258134,
+        "date_posted": 1770258134,
+        "url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-California-San-Jose/Intern---Software-Engineer--Summer-2026-_JR102098-1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Itron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RR Donnelley",
+        "id": "52c3dcc9-a0e9-46ff-aa46-eb6f6dc273b4",
+        "title": "NET Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770258078,
+        "date_posted": 1770258078,
+        "url": "https://jobs.smartrecruiters.com/RRDonnelley/744000107406515",
+        "locations": [
+            "Warrenville, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/RR-Donnelley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "7df99658-a371-4758-9b2d-6113e808cb95",
+        "title": "Product Manager Intern - Measurement Product",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770257838,
+        "date_posted": 1770257838,
+        "url": "https://lifeattiktok.com/search/7601200924459403573",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "13305063-ba06-41ef-8e1b-110f963db5ca",
+        "title": "Product Manager Intern - Ads Attribution and Measurement Product",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770257834,
+        "date_posted": 1770257834,
+        "url": "https://lifeattiktok.com/search/7601196045978388741",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Paccar",
+        "id": "cb725b48-7a2f-43b6-aeec-fa2cd46489f7",
+        "title": "Software Engineering Intern - Powertrain Development",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770257693,
+        "date_posted": 1770257693,
+        "url": "https://jobs.paccar.com/job/Mount-Vernon-Software-Engineering-Intern-Powertrain-Development-WA-98273-9671/1290590101/?ats=successfactors",
+        "locations": [
+            "Burlington, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Paccar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RR Donnelley",
+        "id": "d07fc0a2-a518-47ef-834d-8ea0418aa693",
+        "title": "Tools Team Software Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770257426,
+        "date_posted": 1770257426,
+        "url": "https://jobs.smartrecruiters.com/RRDonnelley/744000107406775",
+        "locations": [
+            "Warrenville, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/RR-Donnelley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD",
+            "JD",
+            "MD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RR Donnelley",
+        "id": "5b50a21c-147e-4831-8d66-4e16853b37ea",
+        "title": "Database Developer Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770257454,
+        "date_posted": 1770257454,
+        "url": "https://jobs.smartrecruiters.com/RRDonnelley/744000107407281",
+        "locations": [
+            "Warrenville, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/RR-Donnelley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "13315c7e-4bad-41ff-b68b-3882d6cb7904",
+        "title": "Research Intern - Natural Language Processing for Healthcare",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770257267,
+        "date_posted": 1770257267,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556751897",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intel",
+        "id": "956fd9a3-8b39-4103-b8b9-299b11b5a695",
+        "title": "Mecop Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770259939,
+        "date_posted": 1770259939,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/MECOP-Intern_JR0280601",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "HARMAN International",
+        "id": "8ad647b1-407e-488b-adf4-818a8eb8b9a1",
+        "title": "Summer Intern - Software Developer - Digital",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770260122,
+        "date_posted": 1770260122,
+        "url": "https://harman.wd3.myworkdayjobs.com/HARMAN/job/Novi---Michigan-USA---Cabot-Drive/Summer-Intern---Software-Developer---DigITal_R-51464-2026",
+        "locations": [
+            "Novi, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/HARMAN-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "e295046d-008f-4d60-9d5d-5359f5197087",
+        "title": "Technology & Innovation Organization Hardware Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770261018,
+        "date_posted": 1770261018,
+        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Corvallis-Oregon-United-States-of-America/Personal-Technology---Innovation-Organization-Hardware-Engineering-Internship_3154457",
+        "locations": [
+            "Corvallis, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Materials",
+        "id": "8a490f98-fa95-4a3d-acd4-438e32918a4d",
+        "title": "AI/Machine Learning Automation Intern - BS/MS - Santa Clara",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770260743,
+        "date_posted": 1770260743,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-AI-Machine-Learning-Automation-Intern---BS-MS--Santa-Clara--CA-_R2611962",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "9d6664b9-9537-4185-af4a-6cc98bd0ba4a",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770260699,
+        "date_posted": 1770260699,
+        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Software-Developer-Internship_3153304",
+        "locations": [
+            "Spring, TX",
+            "Corvallis, OR",
+            "Vancouver, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AutoNation",
+        "id": "09907129-b816-4e7e-b26e-3d5171e2f932",
+        "title": "Java Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770260669,
+        "date_posted": 1770260669,
+        "url": "https://autonation.wd5.myworkdayjobs.com/Careers/job/AutoNation-Headquarters/Java-Development-Intern_JR2026135675",
+        "locations": [
+            "Fort Lauderdale, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/AutoNation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
