@@ -101003,7 +101003,7 @@
         "company_name": "RESPEC",
         "id": "eeb11883-a57a-42a2-bd99-bf0a7a685d50",
         "title": "Student Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -105730,7 +105730,7 @@
         "company_name": "RESPEC",
         "id": "22e490ad-56fe-4b56-af8d-5848ada5b644",
         "title": "Student Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -163622,7 +163622,7 @@
         "company_name": "Stifel",
         "id": "bc0da96a-b66f-4ce4-939f-4b5c48194a97",
         "title": "Technology Product Development Developer Intern-Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -229296,7 +229296,7 @@
         "company_name": "Cisco",
         "id": "1cde2689-d3c8-4c81-bfd1-624897f66d01",
         "title": "AI Machine Learning Engineer 1 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -229317,7 +229317,7 @@
         "company_name": "Cisco",
         "id": "52ef204d-8424-4808-9bef-f5125171c544",
         "title": "Hardware Engineer PhD \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -229915,7 +229915,7 @@
         "company_name": "Cisco",
         "id": "754ac4dc-d1a1-41f6-89cd-3a8ae221cb82",
         "title": "Hardware Engineer 2",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -230796,7 +230796,7 @@
         "company_name": "Cisco",
         "id": "d2da749a-84bb-4e0f-a8bd-b7dfebc60ba7",
         "title": "Hardware Engineer 2",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -232520,7 +232520,7 @@
         "company_name": "Cisco",
         "id": "eab10ff3-e9aa-4052-a4ed-a7ad28f5000e",
         "title": "AI Product Management Engineer 2 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -232878,7 +232878,7 @@
         "company_name": "Cisco",
         "id": "6a91c760-f98f-4dc4-b54f-6990f529b91d",
         "title": "Software Consulting Engineer 1 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -239835,7 +239835,7 @@
         "company_name": "Cisco",
         "id": "1fe23b3f-d551-48d8-a658-c632402065dd",
         "title": "Software Engineer Intern - Placement Year (UK)",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -243066,7 +243066,7 @@
         "company_name": "Cisco",
         "id": "63762f49-2a9d-4e37-ab44-6148be49061c",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -306619,7 +306619,7 @@
         "company_name": "Cisco",
         "id": "49f2467b-9b11-49aa-b26a-9bf14c53669e",
         "title": "Software Developer 2",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -307295,7 +307295,7 @@
         "company_name": "Ciena",
         "id": "129fbe4c-77a9-493b-b735-99f6a9b10fb7",
         "title": "AI Agent Development Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -310614,7 +310614,7 @@
         "company_name": "Cisco",
         "id": "69c79c24-a44d-41c2-a33d-9252a9150ed9",
         "title": "Software Engineer Full Stack & Application Development 2 \u2013 Intern - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -338515,7 +338515,7 @@
         "company_name": "T-Mobile",
         "id": "ddd049b5-195d-4b0e-a617-a03aec9be50f",
         "title": "AI Engineering Intern - AI Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -338560,7 +338560,7 @@
         "company_name": "T-Mobile",
         "id": "62d17d76-28ff-4c0d-a7f5-298855a13995",
         "title": "Product Owner - AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -345869,7 +345869,7 @@
         "company_name": "Draper",
         "id": "d0134d6d-3332-4be5-905e-419b31ffd2df",
         "title": "Resilience and Fault Tolerance Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -353342,5 +353342,116 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dryft",
+        "id": "bc6607ea-5320-4f25-8647-3ba280377230",
+        "title": "Full-Stack Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770275809,
+        "date_posted": 1770275809,
+        "url": "https://jobs.ashbyhq.com/dryft/3f1c261d-9b65-412b-9f17-34b8968bdd78/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Dryft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apex",
+        "id": "5c60229c-b27a-41cf-8c82-dc17392dd3f8",
+        "title": "Software Engineer Internship - Spring 2026",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1770275816,
+        "date_posted": 1770275816,
+        "url": "https://jobs.ashbyhq.com/apex-technology-inc/2da33053-0f08-48cf-9d4f-f2d418fa8c5d/application",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pure Storage",
+        "id": "4df4a04c-18ee-440d-bcfc-d1c3cb5601c1",
+        "title": "Business Intelligence and Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770275795,
+        "date_posted": 1770275795,
+        "url": "https://boards.greenhouse.io/purestorage/jobs/7569351",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pure-Storage",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apex",
+        "id": "1f58d478-aa2b-4e9e-97ea-6c540d8b783b",
+        "title": "Software Engineering Intern - Integrated Solutions",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770275826,
+        "date_posted": 1770275826,
+        "url": "https://jobs.ashbyhq.com/apex-technology-inc/2f1ef6de-1a26-4fa2-a9e5-f660796983ad/application",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Auctor",
+        "id": "5a48777f-0af6-4e37-b9d2-1766b5c02ea2",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770275588,
+        "date_posted": 1770275588,
+        "url": "https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Auctor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
