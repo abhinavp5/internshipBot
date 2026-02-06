@@ -154735,7 +154735,7 @@
         "company_name": "Quantbot Technologies",
         "id": "012e4ad0-afc3-442e-b6ac-ab1179fc13c1",
         "title": "Quantitative Researcher Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -225068,7 +225068,7 @@
         "company_name": "Zoox",
         "id": "b4cb5320-0e4d-4ab5-9460-d690353d1292",
         "title": "System Safety Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -259952,7 +259952,7 @@
         "company_name": "General Motors",
         "id": "3d85b4c1-0132-4544-b720-4a4e9e707c9e",
         "title": "Intern - Autonomous Driving",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -292842,7 +292842,7 @@
         "company_name": "Genentech",
         "id": "db5f1e5c-b99c-4d98-8e82-33ffdae24c64",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -308846,7 +308846,7 @@
         "company_name": "Paccar",
         "id": "0e2fb412-99d6-4b2b-bfda-21526d8a16f3",
         "title": "Summer Internship 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -317446,7 +317446,7 @@
         "company_name": "Cisco",
         "id": "fb6e7049-d886-485c-b71d-25d7dad828e2",
         "title": "Software Engineer Data/AI/Intelligent Systems 2 \u2013 Intern - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -327507,7 +327507,7 @@
         "company_name": "MSG Entertainment",
         "id": "313186b5-a1bb-4b54-9d07-a01eeb2941bf",
         "title": "Sphere Technical Production Summer 2026 Student Associate Program - Las Vegas",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -338114,7 +338114,7 @@
         "company_name": "Dordt University",
         "id": "64cca623-b86e-4957-9f5b-d1c7c83c3e88",
         "title": "AI/ML Engineering internship: SVL",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -339308,7 +339308,7 @@
         "company_name": "Paccar",
         "id": "999ea9d1-b721-4503-9a47-c7badb746d7d",
         "title": "Global Product Planning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -341389,7 +341389,7 @@
         "company_name": "Empower",
         "id": "b6f276b1-e348-4c1e-a17d-6c451056fecc",
         "title": "Summer 2026 Intern-Software Engineer; API Strategy",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343952,7 +343952,7 @@
         "company_name": "Crowdstrike",
         "id": "9775599d-d8b7-4472-956e-a9b65c9ca2f3",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -352901,7 +352901,7 @@
         "company_name": "Paccar",
         "id": "cb725b48-7a2f-43b6-aeec-fa2cd46489f7",
         "title": "Software Engineering Intern - Powertrain Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -353256,7 +353256,7 @@
         "company_name": "RTX",
         "id": "e70f6f19-e6ca-4532-a7d3-f1b1a6019d42",
         "title": "2026 Intern - Software Engineer-Test Equipment",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -353549,7 +353549,7 @@
         "company_name": "University Health Network",
         "id": "3ccae801-b54f-4bc0-9d06-483b1401bff1",
         "title": "Research Summer Student 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -354451,7 +354451,7 @@
         "company_name": "University Health Network",
         "id": "ef4443a9-7970-4665-beef-dce9fa6c933c",
         "title": "Research Summer Student 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -356373,6 +356373,51 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Peraton",
+        "id": "ec7fe2e9-c4d2-4e39-9305-0fd8b0989857",
+        "title": "Postal Central Repair Facility Pipeline Openings",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1770369679,
+        "date_posted": 1758139499,
+        "url": "https://careers-peraton.icims.com/jobs/159828/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Topeka, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Zoox",
+        "id": "14b8f581-d0bc-44b7-8383-b748b014b990",
+        "title": "System Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770370293,
+        "date_posted": 1766110636,
+        "url": "https://jobs.lever.co/zoox/eb2f10b7-300a-46f1-bd35-41167c9f7c63/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
