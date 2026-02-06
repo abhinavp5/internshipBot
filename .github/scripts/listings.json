@@ -242284,7 +242284,7 @@
         "company_name": "Barclays",
         "id": "b1b1a068-364f-43f1-bd43-7ac2e340b17c",
         "title": "Sales Trading and Structuring Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -290311,7 +290311,7 @@
         "company_name": "National Renewable Energy Laboratory",
         "id": "f8ba2287-fece-454b-bdf8-ec4843d948ab",
         "title": "Graduate Intern - 3",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -302249,7 +302249,7 @@
         "company_name": "Crowe",
         "id": "77ed6589-1bae-43cb-a0cc-b61c29c041f2",
         "title": "Data Analytics Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -317068,7 +317068,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -322349,7 +322349,7 @@
         "company_name": "Copeland",
         "id": "251c604e-fe2f-4b14-9dbd-7f40f2b5b8d0",
         "title": "Product Management / Controls & Smart Home Technologies Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -356114,7 +356114,7 @@
         "company_name": "The Walt Disney Company",
         "id": "a24a843e-4325-4ef5-b65c-9197ca9238ed",
         "title": "Pricing & Product Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -356441,6 +356441,53 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Regal Rexnord",
+        "id": "0ecfcf90-e463-426e-8f3b-87962cb1461d",
+        "title": "Application Team Co-Op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770311010,
+        "date_posted": 1770311010,
+        "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Application-Team-Co-Op--Summer-_R26_00462",
+        "locations": [
+            "Vandalia, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/37e0cd83-539e-4474-a63a-abc8ce7b4694",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Autodesk",
+        "id": "394bda73-c496-43a9-835d-63def409a009",
+        "title": "Intern Software Engineer - C++/.Net - Months",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770380007,
+        "date_posted": 1770380007,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Sheffield-GBP/Intern--Software-Engineer--C---NET----12-months_26WD95016-1",
+        "locations": [
+            "Sheffield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
