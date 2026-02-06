@@ -140,26 +140,6 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1754478546,
-        "url": "https://jobs.bombardier.com/job/Dorval-Intern%2C-Programmer-%28Fall-2025%29-Qu%C3%A9b-H4S-1Y9/1212251301",
-        "company_name": "Bombardier",
-        "title": "Intern, Programmer",
-        "locations": [
-            "Dorval, Qu\u00e9bec, Canada"
-        ],
-        "terms": [
-            "Fall 2025"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "GaryZhous",
-        "id": "b50f4695-ca31-4a4b-b26b-6710666f8da4",
-        "date_posted": 1749614655,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Software Engineering"
-    },
-    {
         "source": "Simplify",
         "category": "Quant",
         "company_name": "TD Bank",
@@ -210522,7 +210502,7 @@
         "company_name": "Qualcomm",
         "id": "f08383bc-32a4-45a0-9150-06e0b9eb239d",
         "title": "FY26 Intern \u2013 Deep Learning Research Internship - Canada - 4 months - Interim Engineering Intern - SW - 12738 AI Research - Canada",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -286044,7 +286024,7 @@
         "company_name": "Draper",
         "id": "f431dcde-9814-4a81-ab21-dce67b491d21",
         "title": "Aiding Technologies Integration & Test Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -299751,7 +299731,7 @@
         "company_name": "John Deere",
         "id": "f0d0eda5-3f93-4874-80dc-ca0a69d4bd61",
         "title": "Part Time Student - Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -309299,7 +309279,7 @@
         "company_name": "City of Charlotte",
         "id": "1e1a2782-28e2-43ee-9473-c1b99b311130",
         "title": "Storm Water Surface Water Quality and Environmental Permitting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -326748,7 +326728,7 @@
         "company_name": "CIBC",
         "id": "a77df382-06a7-4760-8204-02d378a82027",
         "title": "Product Manager \u2013 Operational Excellence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343149,7 +343129,7 @@
         "company_name": "Bank of Montreal",
         "id": "c5bd5ed0-912c-430f-a3d1-e3bae68546ce",
         "title": "Developer \u2013 Co-op/Internship - Summer 2026 - 4 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343218,7 +343198,7 @@
         "company_name": "Bank of Montreal",
         "id": "921821f8-29bf-48e1-a09a-7a56265ceb25",
         "title": "Junior Software Developer \u2013 Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343241,7 +343221,7 @@
         "company_name": "Bank of Montreal",
         "id": "904e4d00-0ea0-435c-9245-4928171bff29",
         "title": "Junior Software Developer \u2013 Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343288,7 +343268,7 @@
         "company_name": "Bank of Montreal",
         "id": "49c1dc05-7962-4048-9edc-f9fae5d047de",
         "title": "Junior Software Developer \u2013 Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343542,7 +343522,7 @@
         "company_name": "Bank of Montreal",
         "id": "7efd9adb-9f03-429d-9493-6bfc09f089dc",
         "title": "Developer \u2013 Co-op/Internship - Summer 2026 - 4 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343588,7 +343568,7 @@
         "company_name": "Bank of Montreal",
         "id": "6948b27a-2755-4b8e-b0c6-db412c722dcd",
         "title": "Developer \u2013 Co-op/Internship - Summer 2026 - 4 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -352176,7 +352156,7 @@
         "company_name": "The Walt Disney Company",
         "id": "6ea719df-4889-460d-821e-b130ccac134b",
         "title": "Graduate Associate - Decision Science",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
