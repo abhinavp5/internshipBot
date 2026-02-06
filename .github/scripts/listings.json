@@ -257647,7 +257647,7 @@
         "company_name": "General Motors",
         "id": "b114d58c-4f4f-45b6-af8e-c4715d5f4e13",
         "title": "Intern - Autonomous Vehicle Systems and Integration - Bachelors Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -317068,7 +317068,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -320375,7 +320375,7 @@
         "company_name": "PennState University",
         "id": "a0ac07b2-42d3-4e54-9325-aaa9caf4438a",
         "title": "Undergraduate Cartographer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -323420,7 +323420,7 @@
         "company_name": "The Boeing Company",
         "id": "7848bf7b-3394-4d37-ab38-8466cb514464",
         "title": "Boeing Pre-Employment Training - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -337581,7 +337581,7 @@
         "company_name": "ACCIONA",
         "id": "38514cd1-5b43-4709-8d17-b210bafd31ad",
         "title": "Digital Delivery Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -355948,7 +355948,7 @@
         "company_name": "General Motors",
         "id": "4d280f1f-2d8b-4b11-9e3e-5e477696ce7d",
         "title": "2026 Summer Intern - Autonomous Vehicle Systems and Integration - Bachelors Degree",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -356186,7 +356186,7 @@
         "company_name": "T. Rowe Price",
         "id": "c9ba5d8f-bc7f-46ce-ab31-fd4c2e8806cf",
         "title": "2026 Business Enablement Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -356220,7 +356220,7 @@
         "company_name": "T. Rowe Price",
         "id": "6cf67c2a-a470-4f29-bb4c-fc6580d2f80d",
         "title": "Global Product Intern Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -356489,5 +356489,94 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Autodesk",
+        "id": "1a72c242-9713-48b5-81a2-76aaa92548f1",
+        "title": "Intern Software Engineer - C++/.Net - Months",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770381935,
+        "date_posted": 1770381935,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Sheffield-GBP/Intern--Software-Engineer--C---NET----12-months_26WD95016-2",
+        "locations": [
+            "Sheffield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Allegion",
+        "id": "540f9ea8-85fb-4068-950f-763a9787cc14",
+        "title": "Industrial Design Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770382555,
+        "date_posted": 1770333694,
+        "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Industrial-Design-Co-op_JR35080-1",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Allegion",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zoom",
+        "id": "d53b99d8-7f5b-4191-bd98-116f4802074b",
+        "title": "AI Engineer Intern - Zoom Agentic Workflow Automation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770383815,
+        "date_posted": 1770383815,
+        "url": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/AI-Engineer-Intern---Zoom-Agentic-Workflow-Automation_R18428-1",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoom",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zoom",
+        "id": "523b7e79-7b57-4216-9784-c2f246c4137e",
+        "title": "AI Engineer Intern - Zoom Agentic Workflow Automation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770383815,
+        "date_posted": 1770383815,
+        "url": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/AI-Engineer-Intern---Zoom-Agentic-Workflow-Automation_R18427-1",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoom",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
