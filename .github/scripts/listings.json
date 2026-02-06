@@ -224428,7 +224428,7 @@
         "company_name": "Octaura",
         "id": "3ea65aaa-0297-4b8f-9378-51e35478fb95",
         "title": "Intern Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -237002,7 +237002,7 @@
         "company_name": "Ciena",
         "id": "ba6fe976-8e68-443d-ad75-018e90d4d237",
         "title": "Software Engineering Intern or Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -257647,7 +257647,7 @@
         "company_name": "General Motors",
         "id": "b114d58c-4f4f-45b6-af8e-c4715d5f4e13",
         "title": "Intern - Autonomous Vehicle Systems and Integration - Bachelors Degree",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -277760,7 +277760,7 @@
         "company_name": "Marmon Holdings",
         "id": "f3df3b30-863e-4a3d-9232-9c9ebbdbe858",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -284844,7 +284844,7 @@
         "company_name": "Peraton",
         "id": "61954b29-df36-44e6-b95c-da21e6779a5f",
         "title": "Summer 2026 Software Engineer Intern - Santa Clara - CA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -292560,7 +292560,7 @@
         "company_name": "Howard Hughes Medical Institute (HHMI)",
         "id": "4e23a0c7-dfef-456f-aded-6683555ec51c",
         "title": "Science Strategy & Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -305788,7 +305788,7 @@
         "company_name": "Geotab",
         "id": "aa189ec4-6b0e-44d7-a2ad-8ff65ee4da63",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -317068,7 +317068,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -343152,7 +343152,7 @@
         "company_name": "Breeze Airways",
         "id": "c40fc449-e97e-4235-89a0-7bd239188ad2",
         "title": "Data Analyst Intern - Revenue Optimization - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344114,7 +344114,7 @@
         "company_name": "LabCorp",
         "id": "c8bc1314-f704-4a89-be55-0e45d62100d0",
         "title": "Student Worker - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -346377,7 +346377,7 @@
         "company_name": "Galaxy",
         "id": "830d835a-8694-4aeb-90cb-0bb4925f522e",
         "title": "2026 Trading Internship - London",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -353614,7 +353614,7 @@
         "company_name": "RTX",
         "id": "5bacc780-6178-49f5-b6ff-e2ab40d1033b",
         "title": "Intern - Proactive Engine Health Monitoring - Engine Performance Monitoring",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -355948,7 +355948,7 @@
         "company_name": "General Motors",
         "id": "4d280f1f-2d8b-4b11-9e3e-5e477696ce7d",
         "title": "2026 Summer Intern - Autonomous Vehicle Systems and Integration - Bachelors Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -356596,6 +356596,168 @@
             "Hillsboro, OR"
         ],
         "company_url": "https://simplify.jobs/c/ASML",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "def110c0-8492-4fc3-b8bb-bd3df5e74890",
+        "title": "HPC and AI Software Architecture Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770391142,
+        "date_posted": 1770391142,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/HPC-and-AI-Software-Architecture-Intern_JR2012436",
+        "locations": [
+            "Germany",
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Calix",
+        "id": "0f585097-d53e-4fcd-b3f5-75ffb764a219",
+        "title": "Hardware Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770391067,
+        "date_posted": 1770391067,
+        "url": "https://calix.wd1.myworkdayjobs.com/External/job/Petaluma/Hardware-Engineering-Intern_R-11410",
+        "locations": [
+            "Petaluma, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Calix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sereact",
+        "id": "eae123ec-e9a7-42f4-8d57-a69ef6c8fdac",
+        "title": "Intern Teleoperation & Data Labeling - US",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770390948,
+        "date_posted": 1770390948,
+        "url": "https://jobs.ashbyhq.com/sereact/461de943-619c-44d3-8d45-252152de0c9a/application",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Sereact",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Montenson",
+        "id": "d80a02b0-daf0-42cd-b9e7-7be8690735cf",
+        "title": "AI Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770390507,
+        "date_posted": 1770390507,
+        "url": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21111",
+        "locations": [
+            "Minnesota"
+        ],
+        "company_url": "https://simplify.jobs/c/Montenson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Experian",
+        "id": "aa69574c-6dff-4cd9-a644-b66d397bc017",
+        "title": "Software Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770390444,
+        "date_posted": 1770390444,
+        "url": "https://jobs.smartrecruiters.com/Experian/744000107713011",
+        "locations": [
+            "Nottingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Experian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "37652651-2ad4-4677-8808-52476788015b",
+        "title": "Software / System Engineer for Progeny Business Area - AI/ML",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1770390528,
+        "date_posted": 1770390528,
+        "url": "https://careers-gdms.icims.com/jobs/70433/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kimley-Horn",
+        "id": "37352168-3277-4418-a59e-acd263343eb8",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770390445,
+        "date_posted": 1770390445,
+        "url": "https://careers-kimley-horn.icims.com/jobs/22314/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Kimley-Horn",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
