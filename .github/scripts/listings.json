@@ -239381,7 +239381,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "13b7c241-9713-48a9-9956-7b0189c0e26b",
         "title": "ATS Technology Intern Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -295554,7 +295554,7 @@
         "company_name": "Stantec",
         "id": "9c25246a-a573-4949-9edb-84fde7d94bc1",
         "title": "Hydrogeology Intern - Environmental Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -339014,7 +339014,7 @@
         "company_name": "SoFi",
         "id": "117a0176-846d-4ff1-9779-0d2c0979c266",
         "title": "Intern Data Scientist - Money Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -354543,7 +354543,7 @@
         "company_name": "Iron Mountain",
         "id": "b00c0ce0-cab8-40c8-9603-eeb0ce245b87",
         "title": "Commercial Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
