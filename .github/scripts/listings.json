@@ -279681,7 +279681,7 @@
         "company_name": "Marmon Holdings",
         "id": "0cf46ddc-b2a7-4568-9ab6-378e069d5334",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -327596,7 +327596,7 @@
         "company_name": "NVIDIA",
         "id": "d46c66be-947f-480c-9755-e5f35c3340ac",
         "title": "Research Scientist \u2013 New College Grad 2026 - AI Accelerator SW HW Co-Design",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -356136,7 +356136,7 @@
         "company_name": "The Walt Disney Company",
         "id": "3d464dde-49a6-4b58-87f2-9bc1766ebfc4",
         "title": "Disney Signature Experiences Pricing & Revenue Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -356578,5 +356578,29 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ASML",
+        "id": "bcb31036-f4d9-4a1e-a0f9-b1d7a12f6a11",
+        "title": "Intern - CS EUV Operations",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770388093,
+        "date_posted": 1770305495,
+        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hillsboro-OR-USA/Internship--CS-EUV-Operations_J-00333510",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/ASML",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
