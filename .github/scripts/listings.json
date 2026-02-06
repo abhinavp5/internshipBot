@@ -182038,7 +182038,7 @@
         "company_name": "RTX",
         "id": "9ec71ba1-c547-400c-9b87-51b26f834abd",
         "title": "Summer 2026: Network Research Intern - Onsite",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -210502,7 +210502,7 @@
         "company_name": "Qualcomm",
         "id": "f08383bc-32a4-45a0-9150-06e0b9eb239d",
         "title": "FY26 Intern \u2013 Deep Learning Research Internship - Canada - 4 months - Interim Engineering Intern - SW - 12738 AI Research - Canada",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -257647,7 +257647,7 @@
         "company_name": "General Motors",
         "id": "b114d58c-4f4f-45b6-af8e-c4715d5f4e13",
         "title": "Intern - Autonomous Vehicle Systems and Integration - Bachelors Degree",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -288589,7 +288589,7 @@
         "company_name": "Cinemark Theatres",
         "id": "7236fc3b-4de5-48ac-9c1b-9b21e7305273",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -292560,7 +292560,7 @@
         "company_name": "Howard Hughes Medical Institute (HHMI)",
         "id": "4e23a0c7-dfef-456f-aded-6683555ec51c",
         "title": "Science Strategy & Data Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -299731,7 +299731,7 @@
         "company_name": "John Deere",
         "id": "f0d0eda5-3f93-4874-80dc-ca0a69d4bd61",
         "title": "Part Time Student - Data & Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -302228,7 +302228,7 @@
         "company_name": "JP Morgan Chase",
         "id": "486f7b1a-cb12-49c0-b677-1aeb91aa4f50",
         "title": "2026 Military & Athlete Technical Programme - Glasgow",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -312678,7 +312678,7 @@
         "company_name": "Fiserv",
         "id": "60afcc6b-8fa5-4bfe-8310-51c5cb70bb58",
         "title": "Corporate Internship Program - Product Management - Berkeley Heights NJ",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2027",
@@ -317068,7 +317068,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -323814,7 +323814,7 @@
         "company_name": "CIBC",
         "id": "51ffae78-47f9-4140-b175-3825ad68dcbb",
         "title": "Product Consultant \u2013 Summer 2026 co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -328490,7 +328490,7 @@
         "company_name": "The Walt Disney Company",
         "id": "e9a987cb-3676-46d7-929e-ff8246e05951",
         "title": "WDW Analytical & Strategic Planning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -328576,7 +328576,7 @@
         "company_name": "The Walt Disney Company",
         "id": "a190220f-d6db-42e7-8c10-f4afa1319408",
         "title": "WDW Computer Science / Computer Engineering Interns - Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -330294,7 +330294,7 @@
         "company_name": "CIBC",
         "id": "54efad1a-a90c-43ee-847d-4895aa53fc18",
         "title": "Product Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -335645,7 +335645,7 @@
         "company_name": "CIBC",
         "id": "0b87557c-c015-4471-8a51-e9bc79850b9e",
         "title": "Data Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -339795,7 +339795,7 @@
         "company_name": "CIBC",
         "id": "d4446372-f6f8-4b04-a963-e163e468518d",
         "title": "Data Analytics Co-op - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -340494,7 +340494,7 @@
         "company_name": "Wex",
         "id": "dce6f43d-94a1-4ed9-9db1-458f003a92e6",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -348902,7 +348902,7 @@
         "company_name": "Northrop Grumman",
         "id": "d3fdaebb-aa54-424c-9aae-adecb17b09ee",
         "title": "2026 Engineering Intern - Lake Charles - LA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -348996,7 +348996,7 @@
         "company_name": "Northrop Grumman",
         "id": "a992853a-92ca-4350-8a54-032596e31695",
         "title": "2026 Returning Hardware Internship - Rolling Meadows IL",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -355948,7 +355948,7 @@
         "company_name": "General Motors",
         "id": "4d280f1f-2d8b-4b11-9e3e-5e477696ce7d",
         "title": "2026 Summer Intern - Autonomous Vehicle Systems and Integration - Bachelors Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -356106,6 +356106,273 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Walt Disney Company",
+        "id": "a24a843e-4325-4ef5-b65c-9197ca9238ed",
+        "title": "Pricing & Product Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1770362605,
+        "date_posted": 1770362605,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Pricing---Product-Development-Intern--Summer-Fall-2026_10141998-2",
+        "locations": [
+            "Celebration, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Walt Disney Company",
+        "id": "3d464dde-49a6-4b58-87f2-9bc1766ebfc4",
+        "title": "Disney Signature Experiences Pricing & Revenue Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770362612,
+        "date_posted": 1770362612,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Disney-Signature-Experiences-Pricing---Revenue-Management-Intern--Summer-Fall-2026_10142103",
+        "locations": [
+            "Celebration, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Guardian Life",
+        "id": "86a02306-9372-4840-a44a-7eee82de88e8",
+        "title": "Early Career Program - Technology Associate - Digital & Technology Rotational Program",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1770362511,
+        "date_posted": 1770362511,
+        "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Bethlehem/XMLNAME-2026-Early-Career-Program---Technology-Associate--Digital---Technology-Rotational-Program_R000107513",
+        "locations": [
+            "Holmdel, NJ",
+            "NYC",
+            "Bethlehem, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Guardian-Life",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Bootcamp"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "T. Rowe Price",
+        "id": "c9ba5d8f-bc7f-46ce-ab31-fd4c2e8806cf",
+        "title": "2026 Business Enablement Internship Program",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027",
+            "Fall 2027",
+            "Winter 2028",
+            "Spring 2028",
+            "Summer 2028"
+        ],
+        "date_updated": 1770362340,
+        "date_posted": 1770362340,
+        "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/XMLNAME-2026-Business-Enablement-Internship-Program_79953",
+        "locations": [
+            "Owings Mills, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/t-rowe-price",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "T. Rowe Price",
+        "id": "6cf67c2a-a470-4f29-bb4c-fc6580d2f80d",
+        "title": "Global Product Intern Program",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027",
+            "Fall 2027",
+            "Winter 2028",
+            "Spring 2028",
+            "Summer 2028"
+        ],
+        "date_updated": 1770362335,
+        "date_posted": 1770362335,
+        "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2026-Global-Product-Internship-Program_79952",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/t-rowe-price",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "T. Rowe Price",
+        "id": "2041fbb3-a975-4949-a56e-332b858847e2",
+        "title": "HR People Analytics Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027",
+            "Fall 2027",
+            "Winter 2028",
+            "Spring 2028",
+            "Summer 2028"
+        ],
+        "date_updated": 1770362336,
+        "date_posted": 1770362336,
+        "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2026-HR-People-Analytics-Internship_80096",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/t-rowe-price",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Turion Space",
+        "id": "fca0ca94-a10b-48c7-91eb-ec73da3fe475",
+        "title": "Hardware Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770362053,
+        "date_posted": 1770362053,
+        "url": "https://jobs.ashbyhq.com/turion-space/650d46de-3bec-45b9-b062-6a9154064277/application",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Turion-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Turion Space",
+        "id": "5ccc3e5e-1b00-4b72-9f04-d84f47eb139a",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1770362052,
+        "date_posted": 1770362052,
+        "url": "https://jobs.ashbyhq.com/turion-space/a0fc3dae-26f0-44f4-a255-1a15e3b9f307/application",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Turion-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Oracle",
+        "id": "1ce9a7d2-eb6b-47ee-b656-db85deacf2df",
+        "title": "PhD Software Engineer Intern - Database Technologies",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1770361696,
+        "date_posted": 1770361696,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/325817",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kinaxis",
+        "id": "3d5fe3f3-5cf8-4285-8137-fa4e38207a89",
+        "title": "Co-Op/Intern Software Engineer - AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770361682,
+        "date_posted": 1770361682,
+        "url": "https://careers-kinaxis.icims.com/jobs/34300/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
