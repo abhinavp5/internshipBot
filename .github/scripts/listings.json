@@ -258431,7 +258431,7 @@
         "company_name": "General Motors",
         "id": "060ad206-693f-4c5a-9ce4-d0bcac210f5d",
         "title": "2026 Summer Intern - Machine Learning Systems Engineer - Autonomous Driving",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -259837,7 +259837,7 @@
         "company_name": "General Motors",
         "id": "74f3b2b9-fcc2-4d35-8e59-7440198f72b8",
         "title": "2026 Summer Intern - Software Engineer - Autonomous Driving\",\"Master's Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -270894,7 +270894,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "34070e76-bc27-46a4-bc37-5aae60674289",
         "title": "Multi-Modal Cyber-physical sensing Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -275800,7 +275800,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "0436f6da-716a-4ecf-b66c-ce1476b1f498",
         "title": "Multi-Modal Cyber-Physical Sensing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -290311,7 +290311,7 @@
         "company_name": "National Renewable Energy Laboratory",
         "id": "f8ba2287-fece-454b-bdf8-ec4843d948ab",
         "title": "Graduate Intern - 3",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -306504,7 +306504,7 @@
         "company_name": "Waabi",
         "id": "562cfa3f-acbe-49bd-a289-b593ba5297c0",
         "title": "Safety Methodologies Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -327060,7 +327060,7 @@
         "company_name": "Sphere Entertainment Co.",
         "id": "95c5ecb4-7a42-46d4-83b0-e70ac8602c3c",
         "title": "Sphere Technical Production Summer 2026 Student Associate Program - Las Vegas",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -329396,7 +329396,7 @@
         "company_name": "Genentech",
         "id": "07cd5ebf-b750-47d7-8173-a0d881d6ba85",
         "title": "Intern - Clinical Pharmacology - Real-World Treatment Trajectory Modeling",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -337581,7 +337581,7 @@
         "company_name": "ACCIONA",
         "id": "38514cd1-5b43-4709-8d17-b210bafd31ad",
         "title": "Digital Delivery Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -340755,7 +340755,7 @@
         "company_name": "1Password",
         "id": "116f32d1-96b8-4682-a338-4a7566a7821b",
         "title": "Developer Intern - Trust Platforms",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -342477,7 +342477,7 @@
         "company_name": "Genentech",
         "id": "65addb32-2ae3-449c-835f-dadf03851817",
         "title": "2026 Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343291,7 +343291,7 @@
         "company_name": "1Password",
         "id": "2902c267-08c0-4187-bf75-5733a2f949e9",
         "title": "Data Intern - Enterprise Analytics - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344560,7 +344560,7 @@
         "company_name": "RTX",
         "id": "93c1c501-d19a-4c40-ad9a-6fd06fab5f34",
         "title": "2026 Intern \u2013 Software Engineer Intern - CO",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -348504,7 +348504,7 @@
         "company_name": "AspenTech",
         "id": "6a8df5a7-33c8-43f7-963d-58b6a3254d58",
         "title": "Software Developer Intern - Digital Grid Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -349384,7 +349384,7 @@
         "company_name": "Genentech",
         "id": "82f97eee-2b40-4ac0-b22a-e8775467a37d",
         "title": "2026 Summer Intern - Clinical Insights and Automation - Early Clinical Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -351549,7 +351549,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "88a5868e-e142-40fa-869b-7be18c7c744d",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
