@@ -288026,7 +288026,7 @@
         "company_name": "T-Mobile",
         "id": "2d99af56-d0dc-4ea8-ba5a-4c6aa4052e63",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -310070,7 +310070,7 @@
         "company_name": "Johnson & Johnson",
         "id": "c6f12358-bb82-4024-8cf2-ed4a9ed0d0f7",
         "title": "Data Science Co-Op - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333655,7 +333655,7 @@
         "company_name": "Autodesk",
         "id": "3a8f42d1-1756-4401-a399-19252be0aef6",
         "title": "Intern \u2013 Agentic AI Workflows - AEC Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -337031,7 +337031,7 @@
         "company_name": "The Walt Disney Company",
         "id": "bc899d12-9a5d-4cfe-94a4-140540d67f0f",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -342384,7 +342384,7 @@
         "company_name": "MFS",
         "id": "2a39cb4d-ec2e-4051-91df-a0a5ca3fdf00",
         "title": "Data Science Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
