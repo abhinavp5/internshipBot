@@ -257360,7 +257360,7 @@
         "company_name": "General Motors",
         "id": "b114d58c-4f4f-45b6-af8e-c4715d5f4e13",
         "title": "Intern - Autonomous Vehicle Systems and Integration - Bachelors Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -342167,7 +342167,7 @@
         "company_name": "City of Austin",
         "id": "73e35e78-0b99-4f25-a948-171e61e4adbe",
         "title": "Intern - Systems Planning for Water/Wastewater/Reclaimed Water",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -353127,7 +353127,7 @@
         "company_name": "RTX",
         "id": "75461f0b-eba9-4ec1-acc4-3c384005b67f",
         "title": "Coop \u2013 / Coop",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -355661,7 +355661,7 @@
         "company_name": "General Motors",
         "id": "4d280f1f-2d8b-4b11-9e3e-5e477696ce7d",
         "title": "2026 Summer Intern - Autonomous Vehicle Systems and Integration - Bachelors Degree",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
