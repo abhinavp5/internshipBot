@@ -180036,7 +180036,7 @@
         "company_name": "Vertiv",
         "id": "129c6831-824d-4271-b86c-7c7ac07e5d2b",
         "title": "Design Engineer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -288868,7 +288868,7 @@
         "company_name": "Experian",
         "id": "72287c2e-cc32-497e-ace7-d9e7ac556b51",
         "title": "Software Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -337827,7 +337827,7 @@
         "company_name": "Dordt University",
         "id": "64cca623-b86e-4957-9f5b-d1c7c83c3e88",
         "title": "AI/ML Engineering internship: SVL",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -341286,7 +341286,7 @@
         "company_name": "InterSystems",
         "id": "07df9103-e761-40a3-972a-97306359ef68",
         "title": "Core Development Program",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
