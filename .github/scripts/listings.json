@@ -258123,7 +258123,7 @@
         "company_name": "University Corporation for Atmospheric Research",
         "id": "ade09ed0-b0ce-4c6a-bcc5-6c18a70fa1e3",
         "title": "Unidata Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -289580,7 +289580,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "df46eff3-3d39-4f18-b193-43b553b92b6f",
         "title": "Visualization Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333300,7 +333300,7 @@
         "company_name": "Protech Automotive Solutions",
         "id": "e1cc9fe4-acab-4ad6-a6d7-33284f26499a",
         "title": "Automotive ADAS Calibration Technician Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -348476,7 +348476,7 @@
         "company_name": "Empower",
         "id": "ba8141ee-4f4a-48fd-99cb-14af219f290b",
         "title": "Intern Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
