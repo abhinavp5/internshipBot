@@ -257360,7 +257360,7 @@
         "company_name": "General Motors",
         "id": "b114d58c-4f4f-45b6-af8e-c4715d5f4e13",
         "title": "Intern - Autonomous Vehicle Systems and Integration - Bachelors Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -258611,7 +258611,7 @@
         "company_name": "Veolia",
         "id": "e1fe41cc-603f-4c20-80f4-4610a15f4f2b",
         "title": "Intern - General",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -264505,7 +264505,7 @@
         "company_name": "Veolia",
         "id": "bda2a9c7-30bd-49f4-970c-9c7f4e9898e3",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -316781,7 +316781,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -346536,7 +346536,7 @@
         "company_name": "Kaiser Permanente",
         "id": "74898e32-8129-465d-93cc-5cf1e2cbcd3f",
         "title": "Data Analytics Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -355661,7 +355661,7 @@
         "company_name": "General Motors",
         "id": "4d280f1f-2d8b-4b11-9e3e-5e477696ce7d",
         "title": "2026 Summer Intern - Autonomous Vehicle Systems and Integration - Bachelors Degree",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
