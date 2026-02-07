@@ -10049,7 +10049,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Pinterest?utm_source=GHList&utm_medium=company">Pinterest</a></strong></td>
+<td>↳</td>
 <td>Software Engineer Intern 🛂</td>
 <td>Seattle, WA</td>
 <td>🔒</td>
@@ -22877,7 +22877,7 @@
 <td>AI Engineer Intern</td>
 <td>Atlanta, GA</td>
 <td>🔒</td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
@@ -42572,7 +42572,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Inventing-For-Life?utm_source=GHList&utm_medium=company">Inventing for Life</a></strong></td>
+<td>↳</td>
 <td>Future Talent Program – Intern - Regulatory Data Science</td>
 <td>North Wales, PA<br>Linden, NJ</td>
 <td>🔒</td>
@@ -48267,7 +48267,7 @@
 <td>Software Engineering Intern</td>
 <td>Glasgow, UK</td>
 <td>🔒</td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
