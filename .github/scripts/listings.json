@@ -207576,7 +207576,7 @@
         "company_name": "Adobe",
         "id": "271e8ac4-5918-43dd-84e7-581a5950e52e",
         "title": "2026 AI/ML Intern - Applied Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -323133,7 +323133,7 @@
         "company_name": "The Boeing Company",
         "id": "7848bf7b-3394-4d37-ab38-8466cb514464",
         "title": "Boeing Pre-Employment Training - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -359151,5 +359151,52 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Iberdrola Group",
+        "id": "05d79878-11e1-4937-945b-771a46bd6b9e",
+        "title": "IT & Computer Science Summer Placement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1770462616,
+        "date_posted": 1770335055,
+        "url": "https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-Kingdom-Glasgow/IT---Computer-Science-Summer-Placement_R-26544",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Iberdrola-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Caterpillar Inc.",
+        "id": "17b0c8a1-5765-4cde-b123-faf5e5f37a92",
+        "title": "STEM Student Trainee",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1770462094,
+        "date_posted": 1765625522,
+        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2026-STEM-Student-Trainee_R0000337459",
+        "locations": [
+            "Clayton, NC",
+            "Alpharetta, GA",
+            "Flanagan, IL",
+            "Illinois",
+            "Peoria, IL",
+            "Sanford, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
