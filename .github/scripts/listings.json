@@ -258611,7 +258611,7 @@
         "company_name": "Veolia",
         "id": "e1fe41cc-603f-4c20-80f4-4610a15f4f2b",
         "title": "Intern - General",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -264505,7 +264505,7 @@
         "company_name": "Veolia",
         "id": "bda2a9c7-30bd-49f4-970c-9c7f4e9898e3",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -277922,7 +277922,7 @@
         "company_name": "AbbVie",
         "id": "e2367c3d-4be5-4b5d-aff3-039fec081dac",
         "title": "Statistics Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -288726,7 +288726,7 @@
         "company_name": "Etched.ai",
         "id": "6d720695-b1a1-4efc-929e-9c6024f34ff0",
         "title": "ASIC Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -315928,7 +315928,7 @@
         "company_name": "First West Credit Union",
         "id": "cfb7a4a1-7b95-4c07-9010-2f85b5d56c75",
         "title": "Student Product",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -332734,7 +332734,7 @@
         "company_name": "L3Harris Technologies",
         "id": "e7a63d56-1bd7-44ed-93b1-d6f0a9f5cabd",
         "title": "Software Engineering Intern - Rockwall - TX",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -333713,7 +333713,7 @@
         "company_name": "Tarsus Pharamceuticals",
         "id": "0fe435da-b8f0-460d-8aa5-0bd80bd4527c",
         "title": "Intern \u2013 IT",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -335841,7 +335841,7 @@
         "company_name": "AbbVie",
         "id": "7fec43ed-10c3-491c-aebc-6951783bab2c",
         "title": "Statistics Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -357374,7 +357374,7 @@
         "company_name": "Western Digital",
         "id": "3c2ba95f-a1f0-40b3-8e98-9f1387a4e0bc",
         "title": "Summer 2026 Intern - Advanced System Development Engineering - Hardware/Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
