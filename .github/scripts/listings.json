@@ -141,107 +141,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Activision-Blizzard",
-        "id": "1aed8473-cf4e-4d3e-9775-d42f0c190434",
-        "title": "Software Development Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1749693512,
-        "date_posted": 1749693512,
-        "url": "https://activision.wd1.myworkdayjobs.com/External/job/Vancouver---Activision---Demonware/Software-Development-Co-op_R025483",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Activision-Blizzard",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Root",
-        "id": "2b8464e3-94f3-47ff-8980-fe23b610544d",
-        "title": "Data Mining and Research Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1749694035,
-        "date_posted": 1749694035,
-        "url": "https://joinroot.wd1.myworkdayjobs.com/joinroot/job/HQ---US---Columbus/Data-Mining-and-Research-Intern_JR101899",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Root",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "db09e4bf-e5b7-40fa-999a-4173f1f27773",
-        "title": "Co-Op: Computer Science Project",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1749695250,
-        "date_posted": 1749695250,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PW108-Springdale-AR-275-E-Robinson-Avenue-Springdale-AR-72764-USA/Co-Op--Computer-Science-Project--Onsite-_01771588",
-        "locations": [
-            "Springdale, AR"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Signify",
-        "id": "e171bec3-c3a6-4130-871b-aa6532fc5f69",
-        "title": "Firmware Development Engineering Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1749695198,
-        "date_posted": 1749695198,
-        "url": "https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Atlanta/Firmware-Development-Engineering-Intern---Fall-2025_359265",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Signify",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nokia",
-        "id": "4c42a6cc-7ab2-4c36-ad18-20884856da75",
-        "title": "Embedded C/C++ Software Dev Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1749697210,
-        "date_posted": 1749697210,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21612",
-        "locations": [
-            "Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "General Motors",
         "id": "8c55acbe-eee0-4416-b8bf-0e3a71289490",
@@ -358,26 +257,6 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/GE-Aerospace",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Activision-Blizzard",
-        "id": "dc450ad1-3e69-4a11-9ef8-dd0c7b363a69",
-        "title": "Software Development Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1749693512,
-        "date_posted": 1749693512,
-        "url": "https://activision.wd1.myworkdayjobs.com/External/job/Vancouver/Software-Development-Co-op_R025492",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Activision-Blizzard",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -109839,31 +109718,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SingleStore",
-        "id": "573cd0e4-9d92-4879-badd-b57ad4e7796b",
-        "title": "Software Engineer \u2013 Intern & New Grad",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1758295797,
-        "date_posted": 1749692088,
-        "url": "https://job-boards.greenhouse.io/singlestore/jobs/6237482",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/SingleStore",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -257627,7 +257481,7 @@
         "company_name": "General Motors",
         "id": "b114d58c-4f4f-45b6-af8e-c4715d5f4e13",
         "title": "Intern - Autonomous Vehicle Systems and Integration - Bachelors Degree",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -258878,7 +258732,7 @@
         "company_name": "Veolia",
         "id": "e1fe41cc-603f-4c20-80f4-4610a15f4f2b",
         "title": "Intern - General",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -264772,7 +264626,7 @@
         "company_name": "Veolia",
         "id": "bda2a9c7-30bd-49f4-970c-9c7f4e9898e3",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -278189,7 +278043,7 @@
         "company_name": "AbbVie",
         "id": "e2367c3d-4be5-4b5d-aff3-039fec081dac",
         "title": "Statistics Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -278210,7 +278064,7 @@
         "company_name": "AbbVie",
         "id": "d043fb48-1906-4d28-b1e4-b9ba4ef5d0df",
         "title": "Statistics Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -317048,7 +316902,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -326941,7 +326795,7 @@
         "company_name": "BambooHR",
         "id": "d2f36c7d-ba7e-4f42-9a17-fc6500f7c030",
         "title": "Software Engineer  Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -336016,7 +335870,7 @@
         "company_name": "AbbVie",
         "id": "fe3dece1-314a-4e71-b16e-552c58c4356d",
         "title": "Statistics Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -336108,7 +335962,7 @@
         "company_name": "AbbVie",
         "id": "7fec43ed-10c3-491c-aebc-6951783bab2c",
         "title": "Statistics Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -355928,7 +355782,7 @@
         "company_name": "General Motors",
         "id": "4d280f1f-2d8b-4b11-9e3e-5e477696ce7d",
         "title": "2026 Summer Intern - Autonomous Vehicle Systems and Integration - Bachelors Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -359035,5 +358889,388 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "e7edc8a3-8756-4127-82d1-45ef3ff3cee4",
+        "title": "Security Software Engineer Project Intern - Product Security - 2026 Start",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770430378,
+        "date_posted": 1770430378,
+        "url": "https://lifeattiktok.com/search/7600536394771564853",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Etched.ai",
+        "id": "dde46a10-b1d7-43b9-bdee-f6a980d3c435",
+        "title": "Platform Intern - ME",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770430146,
+        "date_posted": 1770430146,
+        "url": "https://jobs.ashbyhq.com/Etched/f05e3218-5ec7-41d1-bc99-bb7014422229/application",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Etched-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "d682d247-adfc-4dad-8a92-2194c9d88119",
+        "title": "Software Engineer Project Intern - Security Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770430243,
+        "date_posted": 1770430243,
+        "url": "https://jobs.bytedance.com/en/position/7600176309125466373/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intuit",
+        "id": "b914b93e-02dd-4173-8a82-a82c972e3a9a",
+        "title": "Software Developer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770430347,
+        "date_posted": 1770430347,
+        "url": "https://jobs.intuit.com/job/toronto/ur-event-canada-software-developer-co-op/27595/91459669120",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Etched.ai",
+        "id": "b6a3ef51-360d-4fca-b9ce-d3956052fbb0",
+        "title": "Firmware Intern - Firmware",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770430143,
+        "date_posted": 1770430143,
+        "url": "https://jobs.ashbyhq.com/Etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc/application",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Etched-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Etched.ai",
+        "id": "92d6996f-07c3-4808-bd14-f290ddd71004",
+        "title": "DV Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770430146,
+        "date_posted": 1770430146,
+        "url": "https://jobs.ashbyhq.com/Etched/dacedaca-c4ca-4964-85a7-8df1738005bb/application",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Etched-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Etched.ai",
+        "id": "58247209-b842-4aea-b9f1-349aab63a67b",
+        "title": "Core Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770430153,
+        "date_posted": 1770430153,
+        "url": "https://jobs.ashbyhq.com/Etched/47e6dec8-2ca6-4359-8cff-0b91bcbf48ea/application",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Etched-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Etched.ai",
+        "id": "48efeec3-63c0-4918-a7aa-8b590aa52939",
+        "title": "Supercomputing Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770430154,
+        "date_posted": 1770430154,
+        "url": "https://jobs.ashbyhq.com/Etched/982a8ee4-5e1e-43c7-a918-6dac285cdddd/application",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Etched-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Etched.ai",
+        "id": "1677419e-8d02-4e05-b049-cd051f2b1b28",
+        "title": "Chipsim Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770430153,
+        "date_posted": 1770430153,
+        "url": "https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8/application",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Etched-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "e596b55c-4770-4ed0-ac0c-f21b90655d83",
+        "title": "Co-Op - Hardware Validation - Electronics Design Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770429974,
+        "date_posted": 1770429974,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000107869494",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Voyager Technologies",
+        "id": "e4795c63-e970-44d8-b3c6-5f9331b4e4ed",
+        "title": "2026 Voyager Summer Internship - Computer Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770429748,
+        "date_posted": 1770429748,
+        "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4117034009",
+        "locations": [
+            "Folsom, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Voyager-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Voyager Technologies",
+        "id": "8f14e133-c38b-482c-9154-6e8c3fc88d0e",
+        "title": "Voyager Intern - Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770429748,
+        "date_posted": 1770429748,
+        "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4117433009",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Voyager-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Voyager Technologies",
+        "id": "75f61cb5-c0eb-4b1a-8a35-6077d373af98",
+        "title": "2026 Voyager Summer Internship - Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770429768,
+        "date_posted": 1770429768,
+        "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4115509009",
+        "locations": [
+            "Webster, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Voyager-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Voyager Technologies",
+        "id": "41a0aa6f-c2bb-417a-9339-1bd98509f740",
+        "title": "Voyager Intern - Advanced Technology & Development",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770429735,
+        "date_posted": 1770429735,
+        "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4116305009",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Voyager-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bloom Energy",
+        "id": "780ccd63-96c5-4102-81e3-db6e07d5c2a7",
+        "title": "Machine Learning / Data Science Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1770431262,
+        "date_posted": 1770431262,
+        "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Machine-Learning---Data-Science-Intern_JR-21570",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bloom-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Resmed",
+        "id": "111227cc-4a41-4f41-ab54-96b2d0a6c569",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770431181,
+        "date_posted": 1770431181,
+        "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Halifax-Canada/Software-Engineer-Intern_JR_047978",
+        "locations": [
+            "Halifax Regional Municipality, NS, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Resmed",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
