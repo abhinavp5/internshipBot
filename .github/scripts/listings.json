@@ -46775,7 +46775,7 @@
         "company_name": "Stryker",
         "id": "5f782988-9a17-4e95-9e28-4ab53efa3eff",
         "title": "2026 Summer Intern - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -258611,7 +258611,7 @@
         "company_name": "Veolia",
         "id": "e1fe41cc-603f-4c20-80f4-4610a15f4f2b",
         "title": "Intern - General",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -264505,7 +264505,7 @@
         "company_name": "Veolia",
         "id": "bda2a9c7-30bd-49f4-970c-9c7f4e9898e3",
         "title": "Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -300084,7 +300084,7 @@
         "company_name": "Irving Oil",
         "id": "27c86043-051f-4975-bc49-3cff02d52809",
         "title": "Continuous Improvement - Asset Integrity Summer Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -301053,7 +301053,7 @@
         "company_name": "Irving Oil",
         "id": "cc1bc12c-e1cb-4fa1-849d-0ea3eba32808",
         "title": "Engineering Services Project Controls-Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -329037,7 +329037,7 @@
         "company_name": "Dell Technologies",
         "id": "5e5592c1-3183-45ad-8533-6929144c79aa",
         "title": "Software Engineer Graduate Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -333485,7 +333485,7 @@
         "company_name": "Tarsus Pharamceuticals",
         "id": "b21aeebc-e01b-46af-ac13-9214f53400d7",
         "title": "Intern Clinical Data Analyst - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333577,7 +333577,7 @@
         "company_name": "Tarsus Pharamceuticals",
         "id": "98c7a594-5904-4057-85c4-7995a2e04d2e",
         "title": "Intern \u2013 Clinical Data Management and Biostatistics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -334897,7 +334897,7 @@
         "company_name": "Genentech",
         "id": "70f2d42a-ad41-46df-9e9c-b928a5e22061",
         "title": "Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -346536,7 +346536,7 @@
         "company_name": "Kaiser Permanente",
         "id": "74898e32-8129-465d-93cc-5cf1e2cbcd3f",
         "title": "Data Analytics Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -347934,7 +347934,7 @@
         "company_name": "RTX",
         "id": "b9403c02-8cdc-42ef-a188-617674963441",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -348098,7 +348098,7 @@
         "company_name": "RTX",
         "id": "03fd0772-59cf-4b67-b9c7-f8a2bdbe97bb",
         "title": "Systems Integration & Test Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -358847,7 +358847,7 @@
         "company_name": "Intuit",
         "id": "b914b93e-02dd-4173-8a82-a82c972e3a9a",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
