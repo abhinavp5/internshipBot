@@ -294708,7 +294708,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "742d05cb-8468-4b67-8424-db93f998cc96",
         "title": "Battery Test Lab Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -316574,7 +316574,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -322926,7 +322926,7 @@
         "company_name": "The Boeing Company",
         "id": "7848bf7b-3394-4d37-ab38-8466cb514464",
         "title": "Boeing Pre-Employment Training - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -348890,7 +348890,7 @@
         "company_name": "Genentech",
         "id": "82f97eee-2b40-4ac0-b22a-e8775467a37d",
         "title": "2026 Summer Intern - Clinical Insights and Automation - Early Clinical Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
