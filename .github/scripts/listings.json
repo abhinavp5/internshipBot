@@ -123,26 +123,6 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "ATPCO",
-        "id": "6be97c1c-8cee-4d2e-abcb-fc7c8d56fdc7",
-        "title": "Platform Capability Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1749840383,
-        "date_posted": 1749840383,
-        "url": "https://jobs.smartrecruiters.com/ATPCO1/744000064390815",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ATPCO",
         "id": "d13103aa-3597-4a98-8c36-81e1c36c7495",
         "title": "Platform Capability Engineering Intern",
         "active": false,
@@ -258404,7 +258384,7 @@
         "company_name": "Veolia",
         "id": "e1fe41cc-603f-4c20-80f4-4610a15f4f2b",
         "title": "Intern - General",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344089,7 +344069,7 @@
         "company_name": "International Monetary Fund",
         "id": "262ceed0-1b29-42a3-a3a2-f909394478cf",
         "title": "Fund Internship Program \u2013 Change Management and Data Management Internship - Fip - Corporate Services and Facilities Department",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
