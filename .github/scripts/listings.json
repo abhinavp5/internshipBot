@@ -327930,7 +327930,7 @@
         "company_name": "The Walt Disney Company",
         "id": "fd1078f0-5a98-411a-be35-8a33e0be92f9",
         "title": "Production Engineering Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -341960,7 +341960,7 @@
         "company_name": "City of Austin",
         "id": "73e35e78-0b99-4f25-a948-171e61e4adbe",
         "title": "Intern - Systems Planning for Water/Wastewater/Reclaimed Water",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
