@@ -257153,7 +257153,7 @@
         "company_name": "General Motors",
         "id": "b114d58c-4f4f-45b6-af8e-c4715d5f4e13",
         "title": "Intern - Autonomous Vehicle Systems and Integration - Bachelors Degree",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -258404,7 +258404,7 @@
         "company_name": "Veolia",
         "id": "e1fe41cc-603f-4c20-80f4-4610a15f4f2b",
         "title": "Intern - General",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -264298,7 +264298,7 @@
         "company_name": "Veolia",
         "id": "bda2a9c7-30bd-49f4-970c-9c7f4e9898e3",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -336859,7 +336859,7 @@
         "company_name": "OLG",
         "id": "d7b3418e-65ab-44cf-824b-b3c7ba6a0173",
         "title": "Data Scientist Co-op - 8 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -336903,7 +336903,7 @@
         "company_name": "OLG",
         "id": "a43d5cd7-0506-400f-b09b-43af806b0d77",
         "title": "Data Scientist Co-op - 4 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -355454,7 +355454,7 @@
         "company_name": "General Motors",
         "id": "4d280f1f-2d8b-4b11-9e3e-5e477696ce7d",
         "title": "2026 Summer Intern - Autonomous Vehicle Systems and Integration - Bachelors Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
