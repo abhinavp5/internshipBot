@@ -316574,7 +316574,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -359009,6 +359009,29 @@
             "Burbank, CA"
         ],
         "company_url": "https://simplify.jobs/c/Warner-Bros",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "The Walt Disney Company",
+        "id": "87d159ea-cf67-4caf-a122-7c0291ae5c1a",
+        "title": "Disney Consumer Products Retail Strategy and Integration Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770535833,
+        "date_posted": 1770535833,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Kissimmee-FL-USA/Disney-Consumer-Products-Retail-Strategy-and-Integration-Intern--Summer-Fall-2026_10141874-1",
+        "locations": [
+            "Kissimmee, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
