@@ -257113,7 +257113,7 @@
         "company_name": "General Motors",
         "id": "b114d58c-4f4f-45b6-af8e-c4715d5f4e13",
         "title": "Intern - Autonomous Vehicle Systems and Integration - Bachelors Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -358992,6 +358992,29 @@
             "Kissimmee, FL"
         ],
         "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Voyager Technologies",
+        "id": "44fbef42-c81c-4902-be0e-fc96876fffc2",
+        "title": "Voyager Internship - Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770591742,
+        "date_posted": 1770591742,
+        "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4117421009",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Voyager-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
