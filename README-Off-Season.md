@@ -6586,7 +6586,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Georgia</td>
 <td>Spring 2026</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company">Apple</a></strong></td>
@@ -17387,7 +17387,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Danaher-Corporation?utm_source=GHList&utm_medium=company">Danaher Corporation</a></strong></td>
+<td>↳</td>
 <td>Data Analytics Intern</td>
 <td>Logan, UT</td>
 <td>Winter 2025</td>
@@ -18659,7 +18659,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/FlagshipPioneering?utm_source=GHList&utm_medium=company">Flagship Pioneering</a></strong></td>
+<td>↳</td>
 <td>Data Scientist Co-op</td>
 <td>Cambridge, MA</td>
 <td>Winter 2025</td>
@@ -21864,7 +21864,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Longueuil, QC, Canada</td>
 <td>Winter 2026, Spring 2026</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company">Ciena</a></strong></td>
@@ -24547,7 +24547,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>5mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company">ByteDance</a></strong></td>
+<td>↳</td>
 <td>Machine Learning Engineer Intern - E-commerce Governance Algorithms 🎓</td>
 <td>Seattle, WA</td>
 <td>Fall 2025</td>
@@ -25483,7 +25483,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>6mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
+<td>↳</td>
 <td>Machine Learning Engineer Intern - Tiktok-Recommendation-E-commerce - Master 🎓</td>
 <td>Seattle, WA</td>
 <td>Fall 2025</td>
@@ -31833,7 +31833,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Ciena?utm_source=GHList&utm_medium=company">Ciena</a></strong></td>
+<td>↳</td>
 <td>Photonics Topology Software Developer Intern/Co-op - Multiple Teams</td>
 <td>Ottawa, ON, Canada</td>
 <td>Winter 2026</td>
@@ -32246,7 +32246,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Carlsbad, CA</td>
 <td>Winter 2025</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Wind-River?utm_source=GHList&utm_medium=company">Wind River</a></strong></td>
