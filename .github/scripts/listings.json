@@ -222,46 +222,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Echo Global Logistics",
-        "id": "1ffeb575-58e8-4b2d-a3e3-23f8d34ae8d6",
-        "title": "RPA Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1749782531,
-        "date_posted": 1749782531,
-        "url": "https://echo.wd1.myworkdayjobs.com/en-US/Echo_Logistics/job/Chicago-IL/Intern_R3533",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/02d318d6-1b68-4674-a557-5095f957451e",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Blockhouse",
-        "id": "e5faa8c6-2682-4449-8981-18a5f12176f6",
-        "title": "Quantitative Developer Internship",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1749777033,
-        "date_posted": 1749777033,
-        "url": "https://jobs.ashbyhq.com/blockhouse/472d641d-36a5-4631-b251-1999e89fc83f/application",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Blockhouse",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "ATPCO",
         "id": "d13103aa-3597-4a98-8c36-81e1c36c7495",
         "title": "Platform Capability Engineering Intern",
@@ -257297,7 +257257,7 @@
         "company_name": "General Motors",
         "id": "b114d58c-4f4f-45b6-af8e-c4715d5f4e13",
         "title": "Intern - Autonomous Vehicle Systems and Integration - Bachelors Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -316718,7 +316678,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -355598,7 +355558,7 @@
         "company_name": "General Motors",
         "id": "4d280f1f-2d8b-4b11-9e3e-5e477696ce7d",
         "title": "2026 Summer Intern - Autonomous Vehicle Systems and Integration - Bachelors Degree",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -358221,7 +358181,7 @@
         "company_name": "Nokia",
         "id": "d9931cbf-9881-4c0a-b1fe-226f3815c3cd",
         "title": "Data fabric and network automation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
