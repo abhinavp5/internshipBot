@@ -142,46 +142,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "American Red Cross",
-        "id": "d35e3d6e-81eb-4ff0-af8d-573e6f205728",
-        "title": "Intern \u2013 Innovation - IT",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1749784280,
-        "date_posted": 1749784280,
-        "url": "https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Statewide-VA/Intern---Innovation--IT-_RC81766",
-        "locations": [
-            "Virginia"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Red-Cross",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "JPI",
-        "id": "9cda8fa4-46fb-4f87-8397-3e9f5d9f85d0",
-        "title": "Digital Workflows Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1749785578,
-        "date_posted": 1749785578,
-        "url": "https://jpi.wd1.myworkdayjobs.com/jpicareers/job/Dallas-Office/Digital-Workflows-Intern_JR100993",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/JPI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "The Walt Disney Company",
         "id": "731a7712-6c7a-400d-8931-435678ff09b8",
         "title": "Computer Graphics Technology Intern - Data Science",
@@ -196,26 +156,6 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ciena",
-        "id": "86a281b9-be8d-4f04-b246-faa021f43e63",
-        "title": "Product Verification Automation Co-op",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1749785384,
-        "date_posted": 1749785384,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Product-Verification-Automation-Co-op--Fall-2025-_R026258",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
         "is_visible": true,
         "sponsorship": "Other"
     },
