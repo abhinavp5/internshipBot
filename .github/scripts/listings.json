@@ -141,26 +141,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Walt Disney Company",
-        "id": "731a7712-6c7a-400d-8931-435678ff09b8",
-        "title": "Computer Graphics Technology Intern - Data Science",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1749796196,
-        "date_posted": 1749796196,
-        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Vancouver-BC-Canada/Computer-Graphics-Technology-Intern---Data-Science--Fall-2025-_10124359",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "ATPCO",
         "id": "d13103aa-3597-4a98-8c36-81e1c36c7495",
@@ -94711,7 +94691,7 @@
         "company_name": "FactSet",
         "id": "f7fb62aa-9e06-4d09-b9dd-28db68bfe8bb",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -320600,7 +320580,7 @@
         "company_name": "Bank of Montreal",
         "id": "f6c5a924-011c-4836-b347-28feb24934e6",
         "title": "Mainframe System Programmer \u2013 Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -337151,7 +337131,7 @@
         "company_name": "CAE",
         "id": "cb990e4f-feeb-433f-b833-d49923a4384e",
         "title": "C++ Full-Stack Display Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
