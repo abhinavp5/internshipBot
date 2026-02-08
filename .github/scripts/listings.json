@@ -28108,30 +28108,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Toyota Research Institute",
-        "id": "1d7490f2-96b0-4b8b-893a-89adbb2e32d0",
-        "title": "Future Product Innovation Research Intern - HCI Creativity",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1753174764,
-        "date_posted": 1749793542,
-        "url": "https://jobs.lever.co/tri/32f6a4d8-7b0b-4461-a5da-7e2097e24539/apply",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
         "date_updated": 1755638663,
         "url": "https://job-boards.greenhouse.io/figma/jobs/5602159004?gh_jid=5602159004",
         "company_name": "Figma",
@@ -310964,7 +310940,7 @@
         "company_name": "General Motors",
         "id": "a20423a8-ee0b-41a7-89b9-a250aceda370",
         "title": "2026 Summer \u2013 AI/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -321339,7 +321315,7 @@
         "company_name": "General Motors",
         "id": "a14ca53a-f3f5-4775-a5a6-493701fb58b4",
         "title": "Intern/Co-op Software Integration Engineering-SDV",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -335149,7 +335125,7 @@
         "company_name": "CAE",
         "id": "f352d60b-9357-43df-9277-90783c36222d",
         "title": "C-GE-925 \u2013 C++ Backend Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -346261,7 +346237,7 @@
         "company_name": "Bank of Montreal",
         "id": "de2a8206-9636-436f-8e0f-a53cbde43920",
         "title": "Software Developer Summer 2026 \u2013 Co-op/Internship - 4 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
