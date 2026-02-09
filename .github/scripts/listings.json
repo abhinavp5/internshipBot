@@ -264137,7 +264137,7 @@
         "company_name": "Veolia",
         "id": "bda2a9c7-30bd-49f4-970c-9c7f4e9898e3",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -270197,7 +270197,7 @@
         "company_name": "AbbVie",
         "id": "6afd2903-384a-4283-b15a-896f6b3c1cb1",
         "title": "2026 Graph Machine Learning Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -285742,7 +285742,7 @@
         "company_name": "ATPCO",
         "id": "f331956e-bb45-4cec-8445-1fbc84f633a1",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -310598,7 +310598,7 @@
         "company_name": "CSC",
         "id": "e112116a-6a9f-49bd-a2bf-62e6681f1693",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -335799,7 +335799,7 @@
         "company_name": "Trend Micro",
         "id": "ac6115a4-3d86-4ac6-a58e-51d5767de06b",
         "title": "Software Developer Co-Op - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -347895,7 +347895,7 @@
         "company_name": "Greystar Worldwide",
         "id": "3f2dca37-7578-4b5b-b78e-19365e6dbc40",
         "title": "Data Engineering Intern - Master's Level",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -351805,7 +351805,7 @@
         "company_name": "Genentech",
         "id": "24b5512b-00b8-4aaf-a639-d7a8ee5e81ea",
         "title": "Intern - LLM-based Agents",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
