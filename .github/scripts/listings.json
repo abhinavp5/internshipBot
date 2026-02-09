@@ -47815,7 +47815,7 @@
         "company_name": "Donaldson Company",
         "id": "603e29c7-03be-4427-876a-2cfd26aedd8a",
         "title": "Connected Solutions IoT Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -321694,7 +321694,7 @@
         "company_name": "Copeland",
         "id": "251c604e-fe2f-4b14-9dbd-7f40f2b5b8d0",
         "title": "Product Management / Controls & Smart Home Technologies Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -341962,7 +341962,7 @@
         "company_name": "The Walt Disney Company",
         "id": "86b8e203-c2bb-496c-a03c-2fe5ed183b75",
         "title": "WDI Figure Programming Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -342012,7 +342012,7 @@
         "company_name": "The Walt Disney Company",
         "id": "792865b6-209f-47fb-8365-c7d0b67d247a",
         "title": "WDI Illusion Maker \u2013 Surface Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344331,7 +344331,7 @@
         "company_name": "Wex",
         "id": "24533dc8-d3ab-4ea7-bd04-378167d9b0f6",
         "title": "Intern \u2013 Fraud Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -358860,7 +358860,7 @@
         "company_name": "The Walt Disney Company",
         "id": "87d159ea-cf67-4caf-a122-7c0291ae5c1a",
         "title": "Disney Consumer Products Retail Strategy and Integration Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -358929,7 +358929,7 @@
         "company_name": "Johnson Controls",
         "id": "aa9f8702-1cf0-4c15-9121-11e4a898e084",
         "title": "Apprentice Installation Engineer - Fire",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
