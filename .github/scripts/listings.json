@@ -53846,7 +53846,7 @@
         "company_name": "SpaceX",
         "id": "49f4c9d1-a6ed-4726-85d9-b92f42755556",
         "title": "Software Engineering Internship/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -66915,7 +66915,7 @@
         "company_name": "Cox",
         "id": "ec5c2b61-13e0-425a-9b81-79bf4065f6c6",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -80565,7 +80565,7 @@
         "company_name": "Sierra Nevada Coporation",
         "id": "ae2e45c6-bdd9-4d95-ac10-d842e22b4913",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -137212,7 +137212,7 @@
         "company_name": "State of Wisconsin Investment Board",
         "id": "5d163e58-1ef5-4620-b2db-0cd22b36ab34",
         "title": "Data Science Intern - Data Strategy & Information Delivery Division",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -138977,7 +138977,7 @@
         "company_name": "DESRI",
         "id": "9b7a8949-d7e5-49ae-a8a1-c551808a1be6",
         "title": "Intern, Artificial Intelligence (Summer 2026 or Off-Cycle)",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -184083,7 +184083,7 @@
         "company_name": "Prologis",
         "id": "f58b8ae7-1041-422f-99b8-6432ac1c7b04",
         "title": "Intern \u2013 ESG",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -184231,7 +184231,7 @@
         "company_name": "Prologis",
         "id": "f09c651e-71a3-415b-9933-564c4a4a6f33",
         "title": "Intern \u2013 IT",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -186746,7 +186746,7 @@
         "company_name": "Cadence Design Systems",
         "id": "c23cdd65-1592-4be0-84b9-c8530d96bfed",
         "title": "Product Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -200722,7 +200722,7 @@
         "company_name": "Trimble",
         "id": "922d8dbc-6ea6-417d-8015-b7169fe97f6d",
         "title": "Civil Systems Hardware Testing Intern - Field Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -214506,7 +214506,7 @@
         "company_name": "Samsung Research America",
         "id": "1fa2d4f1-cf05-4726-b9ce-01a99378294c",
         "title": "Intern - AI Computational Imaging and Video",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -243519,7 +243519,7 @@
         "company_name": "Found Energy",
         "id": "62f50214-a277-4ad0-8710-d7c4a46fde67",
         "title": "Data Engineer Spring Co-op Spring",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -244065,7 +244065,7 @@
         "company_name": "ALSO",
         "id": "12982849-c8cd-45b0-9bd7-7e6fb4732b47",
         "title": "Hardware Engineering Intern - Mechanical Design",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -251952,7 +251952,7 @@
         "company_name": "Microsoft",
         "id": "e5725238-a36a-4f7e-b8ac-c66111d66c95",
         "title": "Research Intern - Applied Sciences Group - Audio/Vision/NLP/Multimodal",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -253547,7 +253547,7 @@
         "company_name": "Marvell",
         "id": "cb0736da-c84a-4686-84d3-3fd801b1e81f",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2026",
@@ -259322,7 +259322,7 @@
         "company_name": "General Motors",
         "id": "e3deb107-ddf9-4af0-a4fd-caa803f240ca",
         "title": "2026 Summer Intern - Backend Software Engineer - Fleet Tooling",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -311375,7 +311375,7 @@
         "company_name": "Nokia",
         "id": "3fb5dc29-7fcd-4daa-8dab-fd6d369c5429",
         "title": "Web Portal Developer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -314736,7 +314736,7 @@
         "company_name": "Cadence Design Systems",
         "id": "d83a6452-602f-437b-bd53-f9e7b112fb0a",
         "title": "Product Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -319651,7 +319651,7 @@
         "company_name": "Nokia",
         "id": "8774e75b-d8f5-455e-a952-a7760fe1e702",
         "title": "Software Designer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -327407,7 +327407,7 @@
         "company_name": "Cloudflare",
         "id": "e2e498ed-131b-421b-b507-cec71e15097e",
         "title": "Talent Analytics Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -342055,7 +342055,7 @@
         "company_name": "Warner Bros.",
         "id": "36d34687-7112-4320-82fa-fc3baf8d78c2",
         "title": "WB Games Production/Product MBA Internships: LA - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -345842,7 +345842,7 @@
         "company_name": "The Trade Desk",
         "id": "d97c724c-1ebd-4008-8f32-ab7faa1cae56",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
