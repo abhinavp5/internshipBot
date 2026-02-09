@@ -277554,7 +277554,7 @@
         "company_name": "AbbVie",
         "id": "e2367c3d-4be5-4b5d-aff3-039fec081dac",
         "title": "Statistics Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -335473,7 +335473,7 @@
         "company_name": "AbbVie",
         "id": "7fec43ed-10c3-491c-aebc-6951783bab2c",
         "title": "Statistics Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
