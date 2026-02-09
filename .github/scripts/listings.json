@@ -179386,7 +179386,7 @@
         "company_name": "GE Vernova",
         "id": "0b5cc1f6-d429-4d98-a2fb-65c7f30a5d4a",
         "title": "GE Vernova AI Research Intern for Time-series Modeling - Time-series Modeling",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -325111,7 +325111,7 @@
         "company_name": "Anglian Water",
         "id": "54d60bbb-723b-4c94-99e8-5bfaa217ec5e",
         "title": "Trainee Modeller",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -341871,7 +341871,7 @@
         "company_name": "The Walt Disney Company",
         "id": "cf11cd8f-dc7a-455f-a905-4da8c2819193",
         "title": "Content & Brand Insights Social Media Analytics Intern - Summer/Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -342078,7 +342078,7 @@
         "company_name": "The Walt Disney Company",
         "id": "f115a0e4-4a88-4f36-8954-b29886a10776",
         "title": "Content & Brand Insights Social Media Analytics Intern - Summer/Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -342101,7 +342101,7 @@
         "company_name": "The Walt Disney Company",
         "id": "781da000-7c6f-492f-b970-21b736443520",
         "title": "WDI Show Control Hardware Intern - Glendale - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -342124,7 +342124,7 @@
         "company_name": "The Walt Disney Company",
         "id": "28fb6186-7ed5-4c62-99de-2a200a406816",
         "title": "Content Research Insights & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -343928,7 +343928,7 @@
         "company_name": "International Monetary Fund",
         "id": "262ceed0-1b29-42a3-a3a2-f909394478cf",
         "title": "Fund Internship Program \u2013 Change Management and Data Management Internship - Fip - Corporate Services and Facilities Department",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -349221,7 +349221,7 @@
         "company_name": "T-Mobile",
         "id": "aa43ed05-ca57-492c-ba55-e75b882df8dd",
         "title": "Software Engineering \u2013 Agentic AI Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -350431,7 +350431,7 @@
         "company_name": "Bank of Montreal",
         "id": "15174d57-3e98-42c1-b8a8-838ca6ca8526",
         "title": "Junior Development Co-op/Intern - Summer 2026 - 4 months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
