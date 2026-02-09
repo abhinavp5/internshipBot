@@ -121,87 +121,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "4126330c-823d-4312-856e-55a2b0e44924",
-        "title": "Strategic Analysis Intern - AI Innovation Business - BS/MS",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1749867147,
-        "date_posted": 1749867147,
-        "url": "https://jobs.bytedance.com/en/position/7514899101986539783/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Global Relay",
-        "id": "f9077fea-b77f-4035-bae6-59f001e468f2",
-        "title": "Co-op Software Development Engineer in Test - Sdet",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1749868249,
-        "date_posted": 1749868249,
-        "url": "https://www.globalrelay.com/careers/jobs?gh_jid=5565471004",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Global-Relay",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Global Relay",
-        "id": "cc3ff7b0-3d41-494b-ab75-fdcf9f14f9c3",
-        "title": "Java Developer Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1749870277,
-        "date_posted": 1749870277,
-        "url": "https://www.globalrelay.com/careers/jobs?gh_jid=4552324004",
-        "locations": [
-            "Kelowna, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Global-Relay",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Hootsuite",
-        "id": "5c1956c7-7c56-4d30-9881-59df7ae1c592",
-        "title": "Co-op/Intern - Data Engineering",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1749875442,
-        "date_posted": 1749875442,
-        "url": "https://careers.hootsuite.com/job/?gh_jid=6983217",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Hootsuite",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Global Relay",
         "id": "d9c18efc-327b-4b42-b326-af44cae5ba7d",
@@ -252619,7 +252538,7 @@
         "company_name": "Microsoft",
         "id": "cb843c79-c283-448f-a789-5f88b5ef2dac",
         "title": "Software Engineer: AI/ML Intern Opportunities - MAI for University Students",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -272053,7 +271972,7 @@
         "company_name": "Entegris",
         "id": "0ea3ff29-dd31-4034-8794-959d0a992cf8",
         "title": "Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -310626,7 +310545,7 @@
         "company_name": "Scottish Water",
         "id": "ef512049-d6cd-4549-b35e-eac0ca3a525b",
         "title": "Intern Programme - Net Zero Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -316534,7 +316453,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -328679,7 +328598,7 @@
         "company_name": "KLA",
         "id": "d56a26a8-0995-4d18-a766-a72b6e4598b5",
         "title": "Full Stack Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -334650,7 +334569,7 @@
         "company_name": "Genentech",
         "id": "70f2d42a-ad41-46df-9e9c-b928a5e22061",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -340995,7 +340914,7 @@
         "company_name": "RTX",
         "id": "c6c0d77d-778d-426f-8d67-87b9011a5a0d",
         "title": "2026 Software Engineering Intern - Gen4 Radar - Onsite/CA",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -359020,5 +358939,49 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "f36fed31-7e79-42bf-b531-6503de152383",
+        "title": "Healthcare Sensing and Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770603265,
+        "date_posted": 1770603265,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000108018725",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Johnson Controls",
+        "id": "aa9f8702-1cf0-4c15-9121-11e4a898e084",
+        "title": "Apprentice Installation Engineer - Fire",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770603885,
+        "date_posted": 1770603885,
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Rochester-Kent-United-Kingdom/Apprentice-Installation-Engineer---Fire_EB00075064",
+        "locations": [
+            "Maidstone, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Controls",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
