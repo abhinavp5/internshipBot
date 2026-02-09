@@ -11288,7 +11288,7 @@
         "company_name": "Talos Trading",
         "id": "fab5ee9d-4888-4646-bf42-3b3c990a10db",
         "title": "Software Engineer Intern - Front-End",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -197502,7 +197502,7 @@
         "company_name": "Wintermute",
         "id": "4bbf31c8-a743-434e-9db8-943d19433beb",
         "title": "Algorithmic Trading Internship - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -211460,7 +211460,7 @@
         "company_name": "Great American Insurance Company",
         "id": "333fbdbe-97c6-4f4e-8d02-5a560566fa9c",
         "title": "Content Publishing Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -249698,7 +249698,7 @@
         "company_name": "Analog Devices",
         "id": "7cc66d08-5bae-45dd-a9ff-9d0f71976eea",
         "title": "Digital Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -277554,7 +277554,7 @@
         "company_name": "AbbVie",
         "id": "e2367c3d-4be5-4b5d-aff3-039fec081dac",
         "title": "Statistics Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -305133,7 +305133,7 @@
         "company_name": "Geotab",
         "id": "aa189ec4-6b0e-44d7-a2ad-8ff65ee4da63",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -314230,7 +314230,7 @@
         "company_name": "ZOLL Medical Corporation",
         "id": "a5e6223f-b81a-4f52-bd57-134772432102",
         "title": "IT Application Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -316413,7 +316413,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -335473,7 +335473,7 @@
         "company_name": "AbbVie",
         "id": "7fec43ed-10c3-491c-aebc-6951783bab2c",
         "title": "Statistics Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346606,7 +346606,7 @@
         "company_name": "Vanderlande Industries",
         "id": "46100963-055b-464a-86fa-ce259cccec47",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -353796,7 +353796,7 @@
         "company_name": "University Health Network",
         "id": "ef4443a9-7970-4665-beef-dce9fa6c933c",
         "title": "Research Summer Student 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -354233,7 +354233,7 @@
         "company_name": "RTX",
         "id": "780dbfe6-2e35-4ae3-869e-796b1812c17c",
         "title": "Intern - Digital Project Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -355053,7 +355053,7 @@
         "company_name": "Biogen",
         "id": "7ce4184a-9e11-4d5f-8844-0aff62983eb8",
         "title": "Intern Data Visualization and Application Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -356092,7 +356092,7 @@
         "company_name": "Kimley-Horn",
         "id": "37352168-3277-4418-a59e-acd263343eb8",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -356438,7 +356438,7 @@
         "company_name": "Nokia",
         "id": "838eb43a-86c2-402b-ba35-e72d53325a9c",
         "title": "Data fabric and network automation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -356554,7 +356554,7 @@
         "company_name": "Nokia",
         "id": "82c19f78-f8f7-4cf9-8e9d-eef1d530dff5",
         "title": "Data fabric and network automation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -356746,7 +356746,7 @@
         "company_name": "Nokia",
         "id": "003731d0-79f1-481a-9585-d88b0fdf4c9e",
         "title": "Data fabric and network automation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -356770,7 +356770,7 @@
         "company_name": "Nokia",
         "id": "e317824f-460a-485b-9b1a-aa6726fd7ca0",
         "title": "Data fabric and network automation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -356794,7 +356794,7 @@
         "company_name": "Nokia",
         "id": "bf979802-97cb-4e70-b1ec-001a5b1b84da",
         "title": "Data Fabric and Network Automation Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -356841,7 +356841,7 @@
         "company_name": "Nokia",
         "id": "8e20e9fa-28b3-431d-b272-04b5ddd82460",
         "title": "Data fabric and network automation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -356865,7 +356865,7 @@
         "company_name": "Nokia",
         "id": "5ab10c23-085a-4a53-ada1-ddf3458d7891",
         "title": "Data fabric and network automation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -356889,7 +356889,7 @@
         "company_name": "Bluestaq",
         "id": "40166133-c3fc-4459-a74f-ff745bb9523c",
         "title": "2026 Bluestaq Software Development Summer Internship Cohort",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -356958,7 +356958,7 @@
         "company_name": "Nokia",
         "id": "c535f953-e4e3-4b79-9a07-e958a34f78df",
         "title": "Data fabric and network automation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -356982,7 +356982,7 @@
         "company_name": "Nokia",
         "id": "55265726-5255-4f53-9842-6cca725739a1",
         "title": "Data fabric and network automation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -357122,7 +357122,7 @@
         "company_name": "Nokia",
         "id": "046e2c0c-1cbb-4ce6-af48-0556e908567a",
         "title": "Data fabric and network automation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -358988,6 +358988,101 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mikata Health",
+        "id": "0ebcd2b4-be09-42d6-8809-53d04d09dc5e",
+        "title": "Healthcare Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770650331,
+        "date_posted": 1770650331,
+        "url": "https://ats.rippling.com/mikata/jobs/b27c6e6a-0bdd-4452-b5dc-c0514dcd7441",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mikata-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "John Deere",
+        "id": "7ad11c2d-98c6-4f9b-b7b5-80fd612ae084",
+        "title": "Part-Time Student - Engine Performance Analyst - Product Engineering (CA)",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1770650051,
+        "date_posted": 1770650051,
+        "url": "https://johndeere.eightfold.ai/careers/job/137478895192",
+        "locations": [
+            "Waterloo, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/John-Deere",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "John Deere",
+        "id": "ef1f3a44-77c2-4d49-9805-7bc0aa9c6e79",
+        "title": "Part-Time Student - Continuous Improvement - Waterloo IA Product Engineering (CA)",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1770650037,
+        "date_posted": 1770650037,
+        "url": "https://johndeere.eightfold.ai/careers/job/137478896949",
+        "locations": [
+            "Waterloo, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/John-Deere",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SRI International",
+        "id": "2668af86-ff6f-421a-b673-6e6194c9b840",
+        "title": "Data Science/Computer Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770649966,
+        "date_posted": 1770649966,
+        "url": "https://careers-sri.icims.com/jobs/6330/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/SRI-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
