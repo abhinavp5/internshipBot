@@ -277554,7 +277554,7 @@
         "company_name": "AbbVie",
         "id": "e2367c3d-4be5-4b5d-aff3-039fec081dac",
         "title": "Statistics Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -300158,7 +300158,7 @@
         "company_name": "Thorlabs",
         "id": "5d3a791d-070a-4b4b-b504-bde8367b6bb0",
         "title": "Graduate Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -335473,7 +335473,7 @@
         "company_name": "AbbVie",
         "id": "7fec43ed-10c3-491c-aebc-6951783bab2c",
         "title": "Statistics Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -341938,7 +341938,7 @@
         "company_name": "The Walt Disney Company",
         "id": "8af26b2e-4d4f-4200-814c-198afb5fbf1d",
         "title": "ABC Research Insights & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -341988,7 +341988,7 @@
         "company_name": "The Walt Disney Company",
         "id": "95f8cd5e-c0db-404c-b608-47a7ad317782",
         "title": "ABC Research Insights & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -342033,7 +342033,7 @@
         "company_name": "The Walt Disney Company",
         "id": "01b6fc49-f409-4d25-847e-2806010ca14c",
         "title": "Content Research Insights & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -343810,7 +343810,7 @@
         "company_name": "T-Mobile",
         "id": "ffbde2c2-78c3-434a-a4fe-c51c4e078fa0",
         "title": "Context Engineer \u2013 AI Chatbot Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346585,7 +346585,7 @@
         "company_name": "Zoom",
         "id": "51c5cf03-066a-4282-b921-4ecb1bd67605",
         "title": "AI Infrastructure Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -348729,7 +348729,7 @@
         "company_name": "Genentech",
         "id": "82f97eee-2b40-4ac0-b22a-e8775467a37d",
         "title": "2026 Summer Intern - Clinical Insights and Automation - Early Clinical Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -351215,7 +351215,7 @@
         "company_name": "RTX",
         "id": "4bfd77f3-1fc9-4c32-a0d7-144f2536f763",
         "title": "2026 Software Engineering Intern - Part Time",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
