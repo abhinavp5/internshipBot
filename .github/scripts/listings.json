@@ -302193,7 +302193,7 @@
         "company_name": "Thales",
         "id": "31f057e0-31a9-40ec-8092-2dace22ec47e",
         "title": "Test Manufacturing Technician",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -331208,7 +331208,7 @@
         "company_name": "Capital Automotive Group",
         "id": "41512a85-88d1-49f4-b7da-0cf50c070761",
         "title": "Accessories Installation Technician",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -338954,7 +338954,7 @@
         "company_name": "Magna",
         "id": "384cc20a-31b0-4317-8017-e5433acf9c72",
         "title": "Co-op Student - Engineering - 4 months contract",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -356624,7 +356624,7 @@
         "company_name": "Impinj",
         "id": "0cb2d73d-a00e-408b-940d-0931783455ef",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -361415,7 +361415,7 @@
         "company_name": "Marigold",
         "id": "8c4ea71e-661c-4d83-b56e-304262883c12",
         "title": "Product Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -361931,6 +361931,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Vernova",
+        "id": "07e46998-8894-4a27-8ef0-f09a14ae6e09",
+        "title": "Robotics \u2013 Inspection Intern - Computer Vision",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770732361,
+        "date_posted": 1765625523,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Robot-Planning---Control-with-uncertain-world-models---Summer-2026_R5023155-1",
+        "locations": [
+            "Schenectady, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
