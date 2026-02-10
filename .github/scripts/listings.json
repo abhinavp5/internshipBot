@@ -73832,7 +73832,7 @@
         "company_name": "RESPEC",
         "id": "67697e1a-0800-4b63-894c-a9f03c6054b8",
         "title": "Student Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -104896,7 +104896,7 @@
         "company_name": "RESPEC",
         "id": "22e490ad-56fe-4b56-af8d-5848ada5b644",
         "title": "Student Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -182810,7 +182810,7 @@
         "company_name": "MongoDB",
         "id": "ffec94cd-2df5-4c3b-9c16-d745bb3a74e6",
         "title": "2026 \u2013 Product and Technology Analytics Intern - NYC",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -208141,7 +208141,7 @@
         "company_name": "Cook Group",
         "id": "129f62f7-ecdc-47b0-8945-414033024e52",
         "title": "Intern \u2013 Artificial Intelligence & Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -216605,7 +216605,7 @@
         "company_name": "Qorvo",
         "id": "fe5cebff-59b2-444d-b1ec-946624b0513f",
         "title": "Test & Characterization Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -226942,7 +226942,7 @@
         "company_name": "CAE",
         "id": "f4788b18-20eb-45c2-a50a-7eed4f3bd850",
         "title": "R&D Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -256691,7 +256691,7 @@
         "company_name": "Western Digital",
         "id": "105aa902-acab-430c-b860-eb1194b137b8",
         "title": "Software Engineer Intern - Software Engineering - Firmware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -271572,7 +271572,7 @@
         "company_name": "Velera",
         "id": "807d849b-a908-4f64-a549-22689d22825f",
         "title": "Intern Software Engineer - .Net",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -272461,7 +272461,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Robert Bosch Venture Capital",
-        "id": "9f0f67e3-fa5c-4310-9862-3510999ec378",
+        "id": "a3e064cb-e293-4915-86b3-dbca1858d0c4",
         "title": "Security Research Intern",
         "active": true,
         "terms": [
@@ -277596,7 +277596,7 @@
         "company_name": "AbbVie",
         "id": "a5cda7bd-0d20-423e-961b-e5c7a69d1584",
         "title": "Statistics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -278492,7 +278492,7 @@
         "company_name": "Analog Devices",
         "id": "31dd37b4-ad50-418b-8b67-dd1469da4b90",
         "title": "Equipment Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -306202,7 +306202,7 @@
         "company_name": "Western Digital",
         "id": "3a53ac0c-77f5-41e3-8d1f-eb10bc0b8cd8",
         "title": "Software Engineer Intern - Software Engineering - Firmware",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -318707,7 +318707,7 @@
         "company_name": "Greenwood Village South",
         "id": "681f6cbd-a8be-4299-a6a4-9b6bf7114251",
         "title": "Market Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -322834,7 +322834,7 @@
         "company_name": "Ciena",
         "id": "970ab7fb-7af6-419b-8ac2-aea2922343c1",
         "title": "Backend Development Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -329018,7 +329018,7 @@
         "company_name": "Sandisk",
         "id": "a17112cf-d4d0-48a6-8dcf-811a35a8e5e3",
         "title": "PhD Intern - Advanced Memory Technology - AI/ML Focus",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -332108,7 +332108,7 @@
         "company_name": "Sandisk",
         "id": "e5134075-1379-47f6-9977-846cfae23ba9",
         "title": "PhD Intern - Advanced Memory Technology - AI/ML Focus",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -334321,7 +334321,7 @@
         "company_name": "Cox",
         "id": "2e151594-0e1b-4706-88fd-01e8916d43b0",
         "title": "Business Strategy/Analytics Intern - Vauto",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -335450,7 +335450,7 @@
         "company_name": "AbbVie",
         "id": "803b7730-8149-4839-a5a6-8ed417565ae3",
         "title": "Statistics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -337991,7 +337991,7 @@
         "company_name": "University Health Network",
         "id": "732eb41e-6f38-461e-ad70-891160ee752f",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -342450,7 +342450,7 @@
         "company_name": "Strategic Education",
         "id": "f18d7872-7514-4f8c-b487-cfddbb0f32bf",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346927,7 +346927,7 @@
         "company_name": "Werfen",
         "id": "591fcb56-dab8-488f-9b5c-440ca2ccb5e4",
         "title": "R&D Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -353796,7 +353796,7 @@
         "company_name": "University Health Network",
         "id": "ef4443a9-7970-4665-beef-dce9fa6c933c",
         "title": "Research Summer Student 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -357753,7 +357753,7 @@
         "company_name": "BJ's Wholesale Club",
         "id": "2f8abff7-9aba-46bd-8358-7305363edbd4",
         "title": "Data AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -361955,6 +361955,306 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Federal Home Loan Bank of New York",
+        "id": "be9f9c32-046d-4328-8435-3b0837099996",
+        "title": "Intern Financial Risk Management",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770736811,
+        "date_posted": 1770736811,
+        "url": "https://fhlbny.wd1.myworkdayjobs.com/FHLBNY/job/New-York/Intern---Financial-Risk-Management_R677",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Federal-Home-Loan-Bank-Of-New-York",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Samsung",
+        "id": "0f38aeb7-e4c4-4265-9612-11f188cdc8a5",
+        "title": "Data Analytics Intern - Retail Performance",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770736754,
+        "date_posted": 1770736754,
+        "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Data-Analytics-Internship--Retail-Performance-_R114119",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Veolia",
+        "id": "34601653-4ffe-439e-8f13-df6b64bd349d",
+        "title": "Apprentice Service Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770736376,
+        "date_posted": 1770736376,
+        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000108452814",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Veolia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Phillips 66",
+        "id": "08025017-780b-4768-a886-278c2ec8eef9",
+        "title": "University Placement Programme 2026",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1770736059,
+        "date_posted": 1770736059,
+        "url": "https://careers.phillips66.com/job/London-University-Placement-Programme-2026/1363459300/?ats=successfactors",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Phillips-66",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Waters Corporation",
+        "id": "837dbf78-42b4-4316-b11c-33bee224f2ac",
+        "title": "IT Intern \u2013 Data Engineer - Data Platforms & Analytics",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1770736026,
+        "date_posted": 1770736026,
+        "url": "https://uscareers-waters.icims.com/jobs/25413/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Franklin, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Waters-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Atrium Health",
+        "id": "a29d94f1-b4b1-4ed2-9c30-44563c9ffee2",
+        "title": "Student Intern-Data Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770738971,
+        "date_posted": 1770738971,
+        "url": "https://aah.wd5.myworkdayjobs.com/External/job/Charlotte-NC---1237-Harding-Pl/Student-Intern--Data-Analytics_R214483",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Atrium-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sanofi",
+        "id": "ad34a0cb-2a6b-406a-80d5-3ab2b6f6970f",
+        "title": "Machine Learning for Quantitative Pharmacology \u2013 Large Molecules Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1770738139,
+        "date_posted": 1770738139,
+        "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Machine-Learning-for-Quantitative-Pharmacology---Large-Molecules-Summer-Fall-2026-Co-op_R2841320",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sanofi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Prolaio",
+        "id": "a808ac3b-472d-4394-92f3-279556d2a218",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770738128,
+        "date_posted": 1770738128,
+        "url": "https://job-boards.greenhouse.io/prolaio/jobs/5115101008",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Prolaio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Prolaio",
+        "id": "0d47434c-eb91-4572-8f01-bd1fd48cc09b",
+        "title": "Mobile Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1770738119,
+        "date_posted": 1770738119,
+        "url": "https://job-boards.greenhouse.io/prolaio/jobs/5115040008",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Prolaio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "278c5d4c-a585-4c3c-8cd9-e6541f09ff74",
+        "title": "Intern - SQL Database & Back-End Developer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770737639,
+        "date_posted": 1770737639,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-CTC--400-Main-St--BLDG-CTC/Intern--Summer-2026---SQL-Database---Back-End-Developer--Onsite-_01821780",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Gordon Food Service",
+        "id": "fca1a679-37e4-4039-b97f-e490a1e1e1a9",
+        "title": "Marketing Strategy and Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770737369,
+        "date_posted": 1770737369,
+        "url": "https://gfs.wd5.myworkdayjobs.com/usprivate-gfs/job/Wyoming-Michigan/Marketing-Strategy-and-Analytics-Intern_R-43553-2",
+        "locations": [
+            "Michigan",
+            "Wyoming"
+        ],
+        "company_url": "https://simplify.jobs/c/Gordon-Food-Service",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Walt Disney Company",
+        "id": "ec5fc6ff-e99c-4df2-94ed-fc9e7d4bd5be",
+        "title": "Ad Sales Sports Revenue and Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770737480,
+        "date_posted": 1770737480,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/New-York-NY-USA/Ad-Sales-Sports-Revenue-and-Analytics-Intern--Summer-2026_10136123",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CAE",
+        "id": "b6c62bdf-3469-496b-8899-af474b0d43de",
+        "title": "Infrastructure Computer Systems Tools Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770737295,
+        "date_posted": 1770737295,
+        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Tampa/Infrastructure-Computer-Systems-Tools-CO-OP_120473",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
