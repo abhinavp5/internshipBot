@@ -48979,7 +48979,7 @@
         "company_name": "Salesforce",
         "id": "40e34901-0127-44d1-90fb-a4b6b9948046",
         "title": "Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -73832,7 +73832,7 @@
         "company_name": "RESPEC",
         "id": "67697e1a-0800-4b63-894c-a9f03c6054b8",
         "title": "Student Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -104896,7 +104896,7 @@
         "company_name": "RESPEC",
         "id": "22e490ad-56fe-4b56-af8d-5848ada5b644",
         "title": "Student Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -194114,7 +194114,7 @@
         "company_name": "NBCUniversal",
         "id": "1a83070c-f8f0-46fc-8625-576812b55dc6",
         "title": "Media Product Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Summer 2027"
@@ -242314,7 +242314,7 @@
         "company_name": "Plexus",
         "id": "d4b10bec-2fcd-42f4-8194-b1568d20ef2d",
         "title": "Summer Internship 2026 - Engineering Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -250325,7 +250325,7 @@
         "company_name": "Electronic Arts",
         "id": "60ca6f38-4c69-4def-9ca2-b9b2683f38a4",
         "title": "Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -256691,7 +256691,7 @@
         "company_name": "Western Digital",
         "id": "105aa902-acab-430c-b860-eb1194b137b8",
         "title": "Software Engineer Intern - Software Engineering - Firmware",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -272461,7 +272461,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Robert Bosch Venture Capital",
-        "id": "a3e064cb-e293-4915-86b3-dbca1858d0c4",
+        "id": "9f0f67e3-fa5c-4310-9862-3510999ec378",
         "title": "Security Research Intern",
         "active": true,
         "terms": [
@@ -277596,7 +277596,7 @@
         "company_name": "AbbVie",
         "id": "a5cda7bd-0d20-423e-961b-e5c7a69d1584",
         "title": "Statistics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -283144,7 +283144,7 @@
         "company_name": "NBCUniversal",
         "id": "895fe316-91aa-4c13-b0e9-a718f0ec087a",
         "title": "Media Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Summer 2027"
@@ -306202,7 +306202,7 @@
         "company_name": "Western Digital",
         "id": "3a53ac0c-77f5-41e3-8d1f-eb10bc0b8cd8",
         "title": "Software Engineer Intern - Software Engineering - Firmware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -325061,7 +325061,7 @@
         "company_name": "Anglian Water",
         "id": "a2178bea-cbbd-4999-86b7-ff7da371512b",
         "title": "Trainee Modeller",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -329018,7 +329018,7 @@
         "company_name": "Sandisk",
         "id": "a17112cf-d4d0-48a6-8dcf-811a35a8e5e3",
         "title": "PhD Intern - Advanced Memory Technology - AI/ML Focus",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332108,7 +332108,7 @@
         "company_name": "Sandisk",
         "id": "e5134075-1379-47f6-9977-846cfae23ba9",
         "title": "PhD Intern - Advanced Memory Technology - AI/ML Focus",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -335450,7 +335450,7 @@
         "company_name": "AbbVie",
         "id": "803b7730-8149-4839-a5a6-8ed417565ae3",
         "title": "Statistics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -337991,7 +337991,7 @@
         "company_name": "University Health Network",
         "id": "732eb41e-6f38-461e-ad70-891160ee752f",
         "title": "Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -346376,7 +346376,7 @@
         "company_name": "Zoom",
         "id": "cf32ea45-799a-4673-93b8-d52b2eabe844",
         "title": "Research Intern - Quality & Safety - AI Safety",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346399,7 +346399,7 @@
         "company_name": "Zoom",
         "id": "be7b0980-dce6-4db3-ac24-14edcbe95d71",
         "title": "AI/ML Intern - Agentic Retrieval & Enterprise RAG",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346514,7 +346514,7 @@
         "company_name": "Zoom",
         "id": "73316946-4194-4aab-8e5e-06f0a47c2e46",
         "title": "Enterprise Graph Retrieval Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346652,7 +346652,7 @@
         "company_name": "Zoom",
         "id": "28e51d08-336a-41d8-83e7-45102fc897eb",
         "title": "AI Engineering Intern - AI Agent",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -352129,7 +352129,7 @@
         "company_name": "Itron",
         "id": "e6c356a0-3d62-4de3-9c32-73c04769c84e",
         "title": "Intern Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -352152,7 +352152,7 @@
         "company_name": "Itron",
         "id": "7131f74b-fd56-4b8d-8fea-e7c6dc1eb22d",
         "title": "Intern Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -353796,7 +353796,7 @@
         "company_name": "University Health Network",
         "id": "ef4443a9-7970-4665-beef-dce9fa6c933c",
         "title": "Research Summer Student 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -360725,7 +360725,7 @@
         "company_name": "Blackberry",
         "id": "d7486c2e-b742-4242-8ff9-f3a3d50c490e",
         "title": "QNX Software Developer Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -361774,5 +361774,116 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Faculty AI",
+        "id": "af167c7b-5780-4a52-ad60-7f665cece17b",
+        "title": "Faculty Fellowship Programme - Data Science",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1770718074,
+        "date_posted": 1770707613,
+        "url": "https://jobs.ashbyhq.com/faculty/766f9d2a-d40e-4ba3-a407-5157eda242c1/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Faculty-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "b307e36b-de36-4832-bafb-30d48dfbb6c4",
+        "title": "Photonic Circuit Test Development Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1770718911,
+        "date_posted": 1766507157,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29176",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Force Factor",
+        "id": "494d9f2b-b612-4418-8f59-53c75ce9ab30",
+        "title": "Product Commercialization Intern - Winter/Spring - Part-Time or Full-Time",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1770718801,
+        "date_posted": 1761900799,
+        "url": "https://forcefactor.com/pages/job-openings?gh_jid=5657567004",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Force-Factor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Orbital Materials",
+        "id": "ebfeefc1-80dd-4e14-8bb3-50e5abce9b43",
+        "title": "AI Residency Program",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770719414,
+        "date_posted": 1770719414,
+        "url": "https://jobs.ashbyhq.com/orbitalmaterials/fe532ab4-ed9b-4019-afa9-b31e7d7cebc5/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Orbital-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Clipboard Health",
+        "id": "20f9ab1f-808e-44ab-8f35-832aa4e4ff0e",
+        "title": "Engineering Intern 2026",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1770719479,
+        "date_posted": 1770719479,
+        "url": "https://jobs.ashbyhq.com/clipboard/5e36b646-38dc-4d52-a146-2891bad1ba3c/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Clipboard-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
