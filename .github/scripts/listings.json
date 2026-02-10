@@ -70464,7 +70464,7 @@
         "company_name": "Zebra Technologies",
         "id": "c0d40d67-9a4e-4577-97ce-e57d4e7d8e7e",
         "title": "Software Intern - AI/ML - Corporate and Business Services - CEO",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -164304,7 +164304,7 @@
         "company_name": "Lyft",
         "id": "b7d8fe27-c6d8-492d-8b8e-0cd5cb7944f6",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -203742,7 +203742,7 @@
         "company_name": "Pinterest",
         "id": "bf33c6ba-e5fb-485d-a151-27eb8199ed84",
         "title": "UX Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -229741,7 +229741,7 @@
         "company_name": "Cisco",
         "id": "e0ae2e2d-f58f-4959-aedd-99834d332128",
         "title": "Software Engineer Embedded/Network Systems 1 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -265694,7 +265694,7 @@
         "company_name": "Astranis",
         "id": "5f0e404d-5fde-482a-aee6-8b80ba36ce3d",
         "title": "Software Developer \u2013 Network Software Intern - Spring 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -309576,7 +309576,7 @@
         "company_name": "Boomi",
         "id": "c6662ecf-d1c5-4f3c-a54f-a9815623535a",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -316413,7 +316413,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -337200,7 +337200,7 @@
         "company_name": "Astranis",
         "id": "f261c77c-0715-41ae-b517-3e4e0158793a",
         "title": "Software Developer - Network Software Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -343389,7 +343389,7 @@
         "company_name": "Globus Medical",
         "id": "2fb3e6f4-7152-45fd-ac95-38275a56b01b",
         "title": "Software Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -357262,7 +357262,7 @@
         "company_name": "CAE",
         "id": "41d889f3-216f-41ad-99d1-d99ba9804cb8",
         "title": "Software Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -358221,7 +358221,7 @@
         "company_name": "CAE",
         "id": "8181e2ca-5d3f-46cf-97b7-147629ced7a7",
         "title": "Radar Software Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -359468,7 +359468,7 @@
         "company_name": "Intrinsic",
         "id": "5a90e1a4-2098-4862-9383-25dd3d803ed6",
         "title": "Intern Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -360078,7 +360078,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Planet",
-        "id": "0ab35dfb-b8fc-424e-9591-4efb67f44475",
+        "id": "9f963b78-84f7-4869-9c75-04d10bdfdd65",
         "title": "Associate Space Operations",
         "active": true,
         "terms": [
@@ -361473,5 +361473,120 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ditto AI",
+        "id": "6b7a7b8a-2dcb-4ce0-a92e-453c6975bca0",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770690003,
+        "date_posted": 1770690003,
+        "url": "https://jobs.ashbyhq.com/dittoai/f4cbce81-94bf-44cb-a2fc-4dcd001175e1/application",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ditto-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Zebra Technologies",
+        "id": "0ab019bd-24ee-41d5-a279-dd582d1363f7",
+        "title": "Intern - MV Systems Engineering - Corporate and Business Services",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770690005,
+        "date_posted": 1770690005,
+        "url": "https://zebra.eightfold.ai/careers/job/343636255380",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Zebra-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Arcadis",
+        "id": "d959730d-bb9c-44f1-930d-8bdf1d5d2241",
+        "title": "Transportation Planning Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770689613,
+        "date_posted": 1770689613,
+        "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/37926",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Arcadis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "True Anomaly",
+        "id": "8ee4b8fb-48ab-4eba-82eb-c1660590bd82",
+        "title": "Software Engineering Intern - Elixir",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770691246,
+        "date_posted": 1770691246,
+        "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5047241007",
+        "locations": [
+            "Long Beach, CA",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/TrueAnomaly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "HeartFlow",
+        "id": "09c17ac3-4f05-4694-bc88-1b4ee5c0b54b",
+        "title": "Software Engineer Intern - ML Ops / Compute Migration",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770690829,
+        "date_posted": 1770690829,
+        "url": "https://job-boards.greenhouse.io/heartflowinc/jobs/5798443004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/HeartFlow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
