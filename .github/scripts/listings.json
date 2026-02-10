@@ -229741,7 +229741,7 @@
         "company_name": "Cisco",
         "id": "e0ae2e2d-f58f-4959-aedd-99834d332128",
         "title": "Software Engineer Embedded/Network Systems 1 - Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -334321,7 +334321,7 @@
         "company_name": "Cox",
         "id": "2e151594-0e1b-4706-88fd-01e8916d43b0",
         "title": "Business Strategy/Analytics Intern - Vauto",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -348061,7 +348061,7 @@
         "company_name": "Wex",
         "id": "20b80a34-494c-4994-87aa-0c1a09038c90",
         "title": "Intern \u2013 Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -353212,7 +353212,7 @@
         "company_name": "Polaris",
         "id": "786a857e-daac-4920-8570-ca7342a7c987",
         "title": "High School Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -354729,7 +354729,7 @@
         "company_name": "Cintas",
         "id": "c01a2f83-cc50-42c1-b691-08705ff33305",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -357892,7 +357892,7 @@
         "company_name": "RTX",
         "id": "0787dbc0-a77e-45aa-9b91-c41551ca039f",
         "title": "Software Engineering Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -361587,6 +361587,119 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Exa Labs",
+        "id": "35fa2d9c-f299-480e-9fe2-b35b1808c7aa",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770707738,
+        "date_posted": 1770707738,
+        "url": "https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Exa-Labs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Faculty AI",
+        "id": "f5e510ee-4c7f-4a0b-b009-217ae6e5b564",
+        "title": "UK Defence Veterans - Civilian Work Attachment",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1770707632,
+        "date_posted": 1770707632,
+        "url": "https://jobs.ashbyhq.com/faculty/b0001741-61ad-49c6-b3e1-91922f7d4026/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Faculty-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Eigen Labs",
+        "id": "d0072c92-4c06-4ef3-9d33-0752703993be",
+        "title": "Fellowship",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1770707620,
+        "date_posted": 1770707620,
+        "url": "https://jobs.ashbyhq.com/eigen-labs/8b57e1ee-734d-46e1-930f-a8f323f164f8/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Eigen-Labs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Eloquent AI",
+        "id": "c843521d-9903-4718-9d3c-c53a782cf67e",
+        "title": "Eloquent AI Fellowship Program",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1770707527,
+        "date_posted": 1770707527,
+        "url": "https://jobs.ashbyhq.com/eloquentai/6da20f29-5de4-4c58-9057-05d2937faca7/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Eloquent-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intuitive Surgical",
+        "id": "2fdd59ec-ea53-44e9-b5f2-442d4f6c0181",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770707172,
+        "date_posted": 1770707172,
+        "url": "https://jobs.smartrecruiters.com/Intuitive/744000108384376",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
