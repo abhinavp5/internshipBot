@@ -302468,7 +302468,7 @@
         "company_name": "GE Vernova",
         "id": "1b0a28cb-94c4-4dd6-aed8-ff4459443438",
         "title": "GE Vernova Safe Human Robot Interaction and Planning - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -349806,7 +349806,7 @@
         "company_name": "City of Austin",
         "id": "ab201529-a94b-4b56-a06e-3172bd78b542",
         "title": "Internship \u2013 Graduate - Systems Planning for Water/Wastewater/Reclaimed Water - Austin Water",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -361885,5 +361885,29 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Vernova",
+        "id": "3a1d87a2-8fe7-49a1-974a-4073fa0de999",
+        "title": "GE Vernova Robotics \u2013 Computer Vision-Perception Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770721348,
+        "date_posted": 1765644685,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-Robotics--Perception--World-Modeling-Intern---Summer-2026_R5023154-1",
+        "locations": [
+            "Schenectady, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
     }
 ]
