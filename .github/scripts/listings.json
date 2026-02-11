@@ -183702,7 +183702,7 @@
         "company_name": "The Walt Disney Company",
         "id": "a4fe83c2-86e8-47b1-85cd-7f9b1a17f421",
         "title": "Disney Entertainment Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -242493,7 +242493,7 @@
         "company_name": "Nokia",
         "id": "fb402575-1cb4-4606-8b8b-e0c1c25e88ba",
         "title": "Wireless/Digital Twin Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -294708,7 +294708,7 @@
         "company_name": "Parsons",
         "id": "6fa082ec-eda1-4bf9-ab28-82cd83bfcce0",
         "title": "Computer Vision / Robotics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -298658,7 +298658,7 @@
         "company_name": "GE Healthcare",
         "id": "ac6495c8-5ebe-4d9e-9b9a-637db0dc89f8",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -343907,7 +343907,7 @@
         "company_name": "International Monetary Fund",
         "id": "262ceed0-1b29-42a3-a3a2-f909394478cf",
         "title": "Fund Internship Program \u2013 Change Management and Data Management Internship - Fip - Corporate Services and Facilities Department",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -363696,5 +363696,29 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Roche",
+        "id": "dff6a96b-bd2c-4162-8e2d-ba6bfefe2675",
+        "title": "Intern - Computational Science and Informatics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770814300,
+        "date_posted": 1770814300,
+        "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Santa-Clara/XMLNAME-2026-Summer-Intern---Computational-Science-and-Informatics_202601-102578",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Roche",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
     }
 ]
