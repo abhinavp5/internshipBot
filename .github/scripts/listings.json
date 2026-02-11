@@ -286002,7 +286002,7 @@
         "company_name": "Electronic Arts",
         "id": "c080c551-9308-4257-8318-d996028e8102",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -345563,7 +345563,7 @@
         "company_name": "The Walt Disney Company",
         "id": "2b3e07d6-72c1-4b54-aea7-905233f8090c",
         "title": "Content & Brand Insights Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
