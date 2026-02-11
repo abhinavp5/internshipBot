@@ -339441,7 +339441,7 @@
         "company_name": "HCSC",
         "id": "97db784b-4f19-495f-8459-01d026f93028",
         "title": "Data Science Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -361032,7 +361032,7 @@
         "company_name": "TD Bank",
         "id": "adb851d1-44f5-4a92-84cf-e77c95f3438f",
         "title": "Intern/Co-op - TD Scholarships for Community Leadership",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -363647,5 +363647,29 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorola",
+        "id": "ffc4d025-24c3-47a1-985d-4ffe1eba7f48",
+        "title": "Software Developer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770795275,
+        "date_posted": 1770795275,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Software-Developer-Co-Op_R62032",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
