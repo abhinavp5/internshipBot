@@ -308909,7 +308909,7 @@
         "company_name": "IKO",
         "id": "ff6929b4-c248-40fd-a295-c87d07002e82",
         "title": "BI Developer Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -347878,7 +347878,7 @@
         "company_name": "Relay",
         "id": "dfa3e5fe-adb9-431e-b313-9fa3323e9fdb",
         "title": "Generative AI Creative Intern - R&D",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -351058,7 +351058,7 @@
         "company_name": "Jabil",
         "id": "bca9cfb6-d0b4-48a9-a72e-c1c914dd4a67",
         "title": "L&E Compliance Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364179,6 +364179,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Savannah River National Laboratory",
+        "id": "16874a81-71ed-42cc-a4b7-d088120c8549",
+        "title": "Advanced Manufacturing & Design ASPIRE Post Graduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770804865,
+        "date_posted": 1770679099,
+        "url": "https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1931",
+        "locations": [
+            "North Augusta, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Savannah-River-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
