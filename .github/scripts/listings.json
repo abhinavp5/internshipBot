@@ -260545,7 +260545,7 @@
         "company_name": "GE Vernova",
         "id": "89ebb34c-402f-4e54-985f-452cea5f7bf7",
         "title": "Controls Product Management Cost Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -363082,7 +363082,7 @@
         "company_name": "Intel",
         "id": "ca438f51-3668-41de-9ee3-b468c1edbbe3",
         "title": "Design Methodology Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -363719,6 +363719,66 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Proofpoint",
+        "id": "8c074d2a-e450-4f41-9f67-019e5b51efa1",
+        "title": "AI Integration Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770816736,
+        "date_posted": 1770816736,
+        "url": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Austin-TX/AI-Integration-Intern_R13669",
+        "locations": [
+            "California",
+            "Detroit, MI",
+            "Texas",
+            "Ohio",
+            "Boston, MA",
+            "Florida",
+            "Austin, TX",
+            "Massachusetts",
+            "Arizona",
+            "West Virginia",
+            "Sunnyvale, CA",
+            "Arkansas",
+            "Illinois",
+            "Draper, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Proofpoint",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lonza",
+        "id": "b63fe744-5235-4bd8-b8ff-bc2182dc1ae4",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770819360,
+        "date_posted": 1770819360,
+        "url": "https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/US---Vacaville-CA/Data-Science-Intern_R73540",
+        "locations": [
+            "Vacaville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lonza",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
