@@ -330059,7 +330059,7 @@
         "company_name": "Hilb Group",
         "id": "419c4ba0-d545-4767-9e03-1d1fce2cbe0e",
         "title": "Benefits Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344266,7 +344266,7 @@
         "company_name": "MKS Instruments",
         "id": "52e73ab6-c111-4856-b7e4-6b3d75ac83c9",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
