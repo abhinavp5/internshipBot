@@ -18054,7 +18054,7 @@
 <td>Software Engineer Intern</td>
 <td>New York, NY</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/ABB?utm_source=GHList&utm_medium=company">ABB</a></strong></td>
@@ -20203,7 +20203,7 @@
 <td>Graduate Leadership Intern - Digital</td>
 <td><details><summary><strong>5 locations</strong></summary>Boston, MA<br>Philadelphia, PA<br>Mt Laurel Township, NJ<br>NYC<br>Wilmington, DE</details></td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
@@ -23874,7 +23874,7 @@
 <td>9d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
+<td>↳</td>
 <td>Content & Brand Insights Social Media Analytics Intern - Summer/Fall 2026</td>
 <td>Burbank, CA</td>
 <td>🔒</td>
@@ -38813,7 +38813,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Fox?utm_source=GHList&utm_medium=company">FOX</a></strong></td>
 <td>Business Operations Intern/Co-op - Multiple Teams</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -53891,7 +53891,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Hermeus?utm_source=GHList&utm_medium=company">Hermeus</a></strong></td>
+<td>↳</td>
 <td>Test Engineering Intern</td>
 <td>Atlanta, GA</td>
 <td>🔒</td>
