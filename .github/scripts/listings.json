@@ -309559,7 +309559,7 @@
         "company_name": "10x Genomics",
         "id": "ba3e7d87-3a4d-4a5f-bd4c-441131259650",
         "title": "Intern \u2013 Instrument Hardware Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -351602,7 +351602,7 @@
         "company_name": "Dell Technologies",
         "id": "05bffae0-28b7-4186-befc-4b9aa4ee21b8",
         "title": "Research Co-Op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
