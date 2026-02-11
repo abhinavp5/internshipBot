@@ -121,26 +121,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Baxter International",
-        "id": "e414f853-38cb-49d2-b667-6a8426642fcb",
-        "title": "Associate Software Engineer \u2013 Co-Op",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1750102449,
-        "date_posted": 1750102449,
-        "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Skaneateles-NY/Associate-Software-Engineer---Co-Op-_JR-174570",
-        "locations": [
-            "Auburn, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Baxter-International",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Faraday Future",
         "id": "62341841-58c7-428c-9f92-9e820568ed9f",
