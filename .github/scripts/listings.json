@@ -64046,7 +64046,7 @@
         "company_name": "Dell Technologies",
         "id": "f5b64d66-e20a-4776-ab31-9bd082c6bab8",
         "title": "Analytics Undergrad Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -277514,7 +277514,7 @@
         "company_name": "AbbVie",
         "id": "d043fb48-1906-4d28-b1e4-b9ba4ef5d0df",
         "title": "Statistics Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -289457,7 +289457,7 @@
         "company_name": "Leidos",
         "id": "8513f224-5f35-4418-b750-be8c1877bd05",
         "title": "Computer Engineering Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -292291,7 +292291,7 @@
         "company_name": "Arcadis",
         "id": "a1c252fc-391e-40eb-b5fe-67889e8b377d",
         "title": "Systems Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -299836,7 +299836,7 @@
         "company_name": "FocusKPI",
         "id": "be6828a5-5e40-4957-aa64-9b1131cdaf5b",
         "title": "AI Engineer Trainee",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -330909,7 +330909,7 @@
         "company_name": "Energy Northwest",
         "id": "21203b1e-c6a4-4dac-bad5-cd1bec9c236b",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -332047,7 +332047,7 @@
         "company_name": "Sandisk",
         "id": "e5134075-1379-47f6-9977-846cfae23ba9",
         "title": "PhD Intern - Advanced Memory Technology - AI/ML Focus",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -335320,7 +335320,7 @@
         "company_name": "AbbVie",
         "id": "b268e282-d4a6-464f-b15d-53bd9ca3132a",
         "title": "Statistics Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -348444,7 +348444,7 @@
         "company_name": "Zoom",
         "id": "aad76c7c-e9a6-4679-9c29-1cc3e60aa249",
         "title": "Speech Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -351697,7 +351697,7 @@
         "company_name": "Dell Technologies",
         "id": "91893d09-1216-410d-8632-d2ea9b67e887",
         "title": "AI Agent Benchmarking Co-Op intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -353360,7 +353360,7 @@
         "company_name": "Paccar",
         "id": "a32d171a-be3b-437d-b7c1-73ba2d4f83f0",
         "title": "Engine Systems Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -359076,7 +359076,7 @@
         "company_name": "LabCorp",
         "id": "0c64cf87-a73c-4f16-8d22-9ff76c801f12",
         "title": "MSc Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -366713,5 +366713,211 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Giga AI",
+        "id": "baef5cab-070e-4247-9f7c-b1219ee3cf70",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770793805,
+        "date_posted": 1770793805,
+        "url": "https://jobs.ashbyhq.com/gigaml/aa903645-854f-4404-9d49-8a96f0dcc2cc/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Giga-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Applied Materials",
+        "id": "d8d315c5-b34e-4647-b756-691e8b925226",
+        "title": "Radio Frequency Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1770778129,
+        "date_posted": 1770778129,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Radio-Frequency-Engineer--Master-s--Santa-Clara--CA-_R2612746",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "QuinStreet",
+        "id": "aa35a7a8-19f5-4183-9fcf-feaea5431942",
+        "title": "Engineering Intern/Co-op",
+        "active": false,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770777440,
+        "date_posted": 1770777440,
+        "url": "https://www.quinstreet.com/careers/?gh_jid=7605753",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/QuinStreet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Aptiv",
+        "id": "5c5eae8c-609c-41ef-a1df-ebf6f1f59adf",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770777217,
+        "date_posted": 1770777217,
+        "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000693269",
+        "locations": [
+            "Ontario, Canada",
+            "Kanata, Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Aptiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "GE Healthcare",
+        "id": "fa66d570-2fe6-4db7-9981-3709f765e872",
+        "title": "Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770776532,
+        "date_posted": 1770776532,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bellevue/Product-Manager-Intern_R4035767-2",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CAE",
+        "id": "d80e4d54-714e-4dcb-96d7-3ad4b5c4eecf",
+        "title": "Computer Science / Computer Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770776711,
+        "date_posted": 1770776711,
+        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Tampa/Computer-Science---Computer-Engineering-Co-op_120362",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CAE",
+        "id": "3656600f-d6fa-4d94-b14c-b7c1ab1a4f1c",
+        "title": "Software Engineer Co-op - Flight Controls & Motion",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770776715,
+        "date_posted": 1770776715,
+        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Tampa/Software-Engineer-Co-op---Flight-Controls---Motion_120325",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "True Anomaly",
+        "id": "240f4e7f-5efb-476c-bf0b-c2aa43e4c988",
+        "title": "Flight Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770777410,
+        "date_posted": 1770777410,
+        "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5047530007",
+        "locations": [
+            "Long Beach, CA",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/TrueAnomaly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Grayce",
+        "id": "99c2bac2-68f0-42f8-909b-3555c998a37c",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1770891656,
+        "date_posted": 1768320870,
+        "url": "https://apply.workable.com/grayce/j/6F03729A98/apply",
+        "locations": [
+            "Cardiff, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ece08408-be43-4331-9af6-746c6e9977ec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
