@@ -120,27 +120,6 @@
         "category": "Software Engineering"
     },
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Western Digital",
-        "id": "b14b632a-0bdd-4b18-92ba-ff887c70021b",
-        "title": "Software Engineering Co-Op",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1750199288,
-        "date_posted": 1750199288,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000065804310",
-        "locations": [
-            "Rochester, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1750204444,
         "url": "https://jobs.ashbyhq.com/n1/8db1135d-40bc-4e6c-ac64-a5e11fc8d1a4",
         "company_name": "N1",
@@ -277,26 +256,6 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Daniel-J-Edelman-Holdings",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Motorola",
-        "id": "b17e9db7-e022-4727-9b49-b51a53f768b8",
-        "title": "Localization Software Developer \u2013 Co-Op",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1750199022,
-        "date_posted": 1750199022,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Localization-Software-Developer--Co-Op_R55773",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -238665,7 +238624,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "13b7c241-9713-48a9-9956-7b0189c0e26b",
         "title": "ATS Technology Intern Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -340446,7 +340405,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "8b25ed99-e5b4-4a73-8252-20f4c438da72",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -354580,7 +354539,7 @@
         "company_name": "ICF International",
         "id": "eb866cf4-dd30-425c-be37-e89810adc044",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -354761,7 +354720,7 @@
         "company_name": "Genentech",
         "id": "235e41da-3b97-4438-bf15-a08f50bcdb4f",
         "title": "Intern - Statistician and Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -365801,7 +365760,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "6b487821-7d20-4f2b-bbaf-c1af974b023b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
