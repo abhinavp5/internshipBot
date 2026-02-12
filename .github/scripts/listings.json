@@ -48918,7 +48918,7 @@
         "company_name": "Salesforce",
         "id": "40e34901-0127-44d1-90fb-a4b6b9948046",
         "title": "Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -246944,7 +246944,7 @@
         "company_name": "Northrop Grumman",
         "id": "74170680-f4ab-4855-a7c4-5e54e25b0d12",
         "title": "Cyber Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -247556,7 +247556,7 @@
         "company_name": "Zoox",
         "id": "3da72f0b-a175-4962-a2b7-f3840db9c8ba",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -277514,7 +277514,7 @@
         "company_name": "AbbVie",
         "id": "d043fb48-1906-4d28-b1e4-b9ba4ef5d0df",
         "title": "Statistics Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -277786,7 +277786,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "AECOM",
-        "id": "8efb9804-78a6-4456-83f4-b45431dd56fc",
+        "id": "4104f226-fd2a-4b26-8f7d-13ff1d5ded6f",
         "title": "Geoscientist Apprentice - Nottingham - Summer 2026",
         "active": true,
         "terms": [
@@ -278923,7 +278923,7 @@
         "company_name": "Becton Dickinson",
         "id": "84f0355e-8588-4def-9574-eddf4756065d",
         "title": "Co-op Global Marketing - Rxauto",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -285493,7 +285493,7 @@
         "company_name": "SoFi",
         "id": "2e211f9a-df6c-471c-85ea-72823fcdc9bd",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -305699,7 +305699,7 @@
         "company_name": "Cisco",
         "id": "49f2467b-9b11-49aa-b26a-9bf14c53669e",
         "title": "Software Developer 2",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -316352,7 +316352,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -328351,7 +328351,7 @@
         "company_name": "Grant Thornton",
         "id": "83a7fcb1-3ae8-477d-9436-ca85d640ec62",
         "title": "Tax Technology Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -328957,7 +328957,7 @@
         "company_name": "Sandisk",
         "id": "a17112cf-d4d0-48a6-8dcf-811a35a8e5e3",
         "title": "PhD Intern - Advanced Memory Technology - AI/ML Focus",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333237,7 +333237,7 @@
         "company_name": "Tempus",
         "id": "12365b1a-c075-4fce-a332-c15048bf0732",
         "title": "Applied AI & Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -335320,7 +335320,7 @@
         "company_name": "AbbVie",
         "id": "b268e282-d4a6-464f-b15d-53bd9ca3132a",
         "title": "Statistics Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -351223,7 +351223,7 @@
         "company_name": "T-Mobile",
         "id": "b80b30c4-f0fb-4256-a29c-541102289ad1",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -361238,7 +361238,7 @@
         "company_name": "Amentum",
         "id": "d197675c-5270-45f0-848d-ae7149b8557e",
         "title": "Hardware/Software Systems Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -366563,5 +366563,82 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Denver",
+        "id": "9da9813e-e90c-4272-a62d-70d7fbf432f3",
+        "title": "Airport GIS + Planning Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770880720,
+        "date_posted": 1770880720,
+        "url": "https://denver.wd1.myworkdayjobs.com/CCD-denver-denvergov-CSC_Jobs-Civil_service_jobs-Police_Jobs-Fire_Jobs/job/Denver-International-Airport/Airport-GIS---Planning-COLLEGE-Intern---DEN-Planning---Design---One-Year-_R0078603-1",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Denver",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Denver",
+        "id": "29be9deb-c9c5-436a-83aa-09d0fd1c6937",
+        "title": "Data Analytics and Innovation College Internship - Analytics and Innovation - Denver International Airport",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770880714,
+        "date_posted": 1770880714,
+        "url": "https://denver.wd1.myworkdayjobs.com/CCD-denver-denvergov-CSC_Jobs-Civil_service_jobs-Police_Jobs-Fire_Jobs/job/Denver-International-Airport/Data-Analytics-and-Innovation-College-Internship---Analytics-and-Innovation---Denver-International-Airport--6-months-_R0078701-1",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Denver",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "IA Collaborative",
+        "id": "329ac12a-7c7a-4b00-8ee0-1c3c94f85ab3",
+        "title": "GenAI Solutions Strategist \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770880481,
+        "date_posted": 1770880481,
+        "url": "https://jobs.ashbyhq.com/iacollaborative/0e3f36d1-18ea-4a18-a538-93fd085e4555/application",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/IA-Collaborative",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
