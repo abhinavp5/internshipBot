@@ -45682,7 +45682,7 @@
         "company_name": "Stryker",
         "id": "07a6ba14-b0f8-498d-8e24-c8d5fd0d4be6",
         "title": "2026 Summer Intern - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -268937,7 +268937,7 @@
         "company_name": "Motorola",
         "id": "fc947856-96ff-400c-97d6-1717913bed88",
         "title": "Full Stack Software Engineer Intern \u2013 Summer 2026 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -326437,7 +326437,7 @@
         "company_name": "Amentum",
         "id": "71536b17-4ebd-4ad6-8bce-883cd5fc8936",
         "title": "Release Train Engineer Internship IRES - Ssfb",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -341483,7 +341483,7 @@
         "company_name": "RTX",
         "id": "aa2b2287-2ed0-4401-aefe-086797c1ed71",
         "title": "Projet d\u2019\u00e9volution de l\u2019IA - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -363687,7 +363687,7 @@
         "company_name": "Proofpoint",
         "id": "8c074d2a-e450-4f41-9f67-019e5b51efa1",
         "title": "AI Integration Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -366960,6 +366960,29 @@
             "Needham, MA"
         ],
         "company_url": "https://simplify.jobs/c/SharkNinja",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Allstate Insurance Company",
+        "id": "2307e80e-03cb-4807-9bdb-7d9cfaafd9ae",
+        "title": "Allstate NI Insights Programme",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1770896607,
+        "date_posted": 1770645493,
+        "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Belfast-10-Mays-Meadow/Allstate-NI-Insights-Programme-2026_R26278",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Allstate-Insurance-Company",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
