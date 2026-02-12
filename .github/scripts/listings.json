@@ -184044,7 +184044,7 @@
         "company_name": "Samsara",
         "id": "8aca6156-5951-4b1c-a485-68104fc5720c",
         "title": "Software Engineering Intern - London",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -321798,7 +321798,7 @@
         "company_name": "BP",
         "id": "abc78282-a8a5-40e1-832e-03546295430a",
         "title": "Intern - Subsurface - Petrophysics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343867,7 +343867,7 @@
         "company_name": "International Monetary Fund",
         "id": "262ceed0-1b29-42a3-a3a2-f909394478cf",
         "title": "Fund Internship Program \u2013 Change Management and Data Management Internship - Fip - Corporate Services and Facilities Department",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -346591,7 +346591,7 @@
         "company_name": "Zoom",
         "id": "28e51d08-336a-41d8-83e7-45102fc897eb",
         "title": "AI Engineering Intern - AI Agent",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -367058,5 +367058,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "a589c0d1-e4b3-497d-88f1-3987b7fc72e0",
+        "title": "Intern for Computational Structure Analysis Using MD - AI/ML with HDX-MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770903685,
+        "date_posted": 1770422290,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Computational-Protein-Structures-using-MD--AI-ML-with-HDX-MS-Intern_R-055682-1",
+        "locations": [
+            "Ambler, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
