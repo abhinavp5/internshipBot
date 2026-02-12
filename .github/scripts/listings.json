@@ -238274,7 +238274,7 @@
         "company_name": "Blackstone",
         "id": "dfaea426-f78c-458e-aade-1995d4610727",
         "title": "Blackstone Credit and Insurance \u2013 Quant and Portfolio Analytics Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -313740,7 +313740,7 @@
         "company_name": "SharkNinja",
         "id": "10f17b4e-15bb-4e55-ae76-ba36809f95c4",
         "title": "Fall 2026: Ninja Test Kitchen Co-op - July to December",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -313764,7 +313764,7 @@
         "company_name": "SharkNinja",
         "id": "0a799818-6d3c-403b-b98c-7bc7d67f694d",
         "title": "Geo Expansion Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -351246,7 +351246,7 @@
         "company_name": "Roche",
         "id": "73aa1bad-3650-4e9f-ad4b-28ac75b72596",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -363617,7 +363617,7 @@
         "company_name": "HubSpot",
         "id": "76683b81-5fbd-480b-9373-93c41652901b",
         "title": "HubSpot Software Engineer Intern - Co-op Placement & Industrial Placement Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -366919,5 +366919,51 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "b003c864-59dc-43d8-8014-f9eb9c051501",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770892088,
+        "date_posted": 1770892088,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556752823",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "SharkNinja",
+        "id": "56099177-dc49-464e-9daa-4b282d5d0f24",
+        "title": "Fall 2026: NPD Commercial Readiness Co-op - July to December",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1770893609,
+        "date_posted": 1769029537,
+        "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646005006",
+        "locations": [
+            "Needham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/SharkNinja",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
