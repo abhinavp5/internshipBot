@@ -158499,7 +158499,7 @@
         "company_name": "ShyftLabs",
         "id": "1b5d5275-b487-434f-aa41-d47aeb546aab",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2026",
@@ -299015,7 +299015,7 @@
         "company_name": "John Deere",
         "id": "f0d0eda5-3f93-4874-80dc-ca0a69d4bd61",
         "title": "Part Time Student - Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -310188,7 +310188,7 @@
         "company_name": "Farmers Insurance",
         "id": "8bdaa052-1ea6-49ea-bf5c-5125859418d6",
         "title": "Data Scientist Summer Internship: Woodland Hills - CA/ Hartford - CT/ Caledonia",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -326319,7 +326319,7 @@
         "company_name": " CCC Intelligent Solutions",
         "id": "a92c7202-2d63-4207-b5ee-b08d5b1c4e90",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333237,7 +333237,7 @@
         "company_name": "Tempus",
         "id": "12365b1a-c075-4fce-a332-c15048bf0732",
         "title": "Applied AI & Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -341483,7 +341483,7 @@
         "company_name": "RTX",
         "id": "aa2b2287-2ed0-4401-aefe-086797c1ed71",
         "title": "Projet d\u2019\u00e9volution de l\u2019IA - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -342085,7 +342085,7 @@
         "company_name": "Spotify",
         "id": "b5032316-6b10-497b-a388-011f6e6601cc",
         "title": "Intern - Business Strategy and Product Management - MBA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -366639,6 +366639,79 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ovintiv",
+        "id": "b7463e26-51f5-4eaf-a592-43b7274eb6a9",
+        "title": "Digital Systems Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770881435,
+        "date_posted": 1770881435,
+        "url": "https://ovintiv.wd3.myworkdayjobs.com/ovintivcareers/job/Denver-CO-US/Intern-Digital-Systems_R2513",
+        "locations": [
+            "Denver, CO",
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ovintiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ovintiv",
+        "id": "849cc024-9c73-4c63-b4bb-177cbdd5aef6",
+        "title": "Student Digital Systems",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1770881439,
+        "date_posted": 1770881439,
+        "url": "https://ovintiv.wd3.myworkdayjobs.com/ovintivcareers/job/Calgary-AB-CA/Student-Digital-Systems_R2512",
+        "locations": [
+            "Calgary, AB, Canada",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Ovintiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Upstart",
+        "id": "6edf4aa8-95f4-4ac4-a442-5b1593f7823d",
+        "title": "Research Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770881293,
+        "date_posted": 1770881293,
+        "url": "https://careers.upstart.com/jobs?gh_jid=7448874",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Upstart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
