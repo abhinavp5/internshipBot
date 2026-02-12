@@ -157207,7 +157207,7 @@
         "company_name": "Schroders",
         "id": "aa1aa903-d322-4dae-901f-08f375ae10cd",
         "title": "2026 Investment Public Markets \u2013 Internship Programme - Quant Focused",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -307213,7 +307213,7 @@
         "company_name": "Samsara",
         "id": "cd004828-41dc-44c6-b081-6cc5f2dcd1bb",
         "title": "Associate Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -333738,7 +333738,7 @@
         "company_name": "Crowe",
         "id": "1ef28d8a-a73a-41fd-8964-ee163d80745b",
         "title": "Tax Artificial Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -344650,7 +344650,7 @@
         "company_name": "Trimble",
         "id": "1458f120-61f6-4a1c-a349-608ce5f7b4c4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -362155,7 +362155,7 @@
         "company_name": "The Walt Disney Company",
         "id": "ec5fc6ff-e99c-4df2-94ed-fc9e7d4bd5be",
         "title": "Ad Sales Sports Revenue and Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -366155,7 +366155,7 @@
         "company_name": "NXP Semiconductors",
         "id": "af0a4813-8adb-47ee-a71c-8737415e36da",
         "title": "Electronic Repair Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -367263,6 +367263,54 @@
             "Missouri"
         ],
         "company_url": "https://simplify.jobs/c/Blue-Cross-And-Blue-Shield-Of-Kansas",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CIBC",
+        "id": "22a99db9-e141-4410-ba05-548829c5a3ee",
+        "title": "Data Analyst Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770911134,
+        "date_posted": 1770911134,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Analyst--Summer-2026-Co-op_2604152",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CIBC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CAE",
+        "id": "613bf296-fe5a-4284-88a8-5e062bce2535",
+        "title": "Infrastructure/Computer Systems/Tools Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770910521,
+        "date_posted": 1770910521,
+        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Tampa/Infrastrucuture-Computer-Systems-Tools-Co-op_120463",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
