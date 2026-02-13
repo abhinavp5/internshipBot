@@ -250529,7 +250529,7 @@
         "company_name": "Realtor.com",
         "id": "c6c86aa7-29e4-497c-a843-74d2b6a8bd4f",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -334059,7 +334059,7 @@
         "company_name": "Cox",
         "id": "2e151594-0e1b-4706-88fd-01e8916d43b0",
         "title": "Business Strategy/Analytics Intern - Vauto",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -357170,7 +357170,7 @@
         "company_name": "CIBC",
         "id": "188e0a98-58ff-4bfa-9802-0e104605c644",
         "title": "Digital Product Specialist Co-op - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -370130,6 +370130,73 @@
             "Minneapolis, MN"
         ],
         "company_url": "https://simplify.jobs/c/Waters-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Proofpoint",
+        "id": "fb3e2a27-2394-47f8-a034-36bfad753d92",
+        "title": "Application Developer/Programmer Co-op Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770997808,
+        "date_posted": 1770997808,
+        "url": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Toronto-Canada/Application-Developer-Programmer-Co-op-Intern_R13688",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Proofpoint",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amentum",
+        "id": "ec9b06c7-5375-4036-8cf3-8e659bf5e3f3",
+        "title": "Electrical Integration Technician Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1770997753,
+        "date_posted": 1770997753,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Electrical-Integration-Technician-Intern_R0153577",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lumentum",
+        "id": "b18dad89-4fad-4ae2-a25e-c7ad1e5319e3",
+        "title": "Embedded Software Developer Co-op - Optical Circuit Switch",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770997462,
+        "date_posted": 1770997462,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Developer-Co-op--Optical-Circuit-Switch-_202668",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Lumentum",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
