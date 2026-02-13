@@ -319458,7 +319458,7 @@
         "company_name": "PennState University",
         "id": "a0ac07b2-42d3-4e54-9325-aaa9caf4438a",
         "title": "Undergraduate Cartographer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -347180,7 +347180,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "d8dc5c28-c65b-4b8b-a6f1-27e0c10b6a26",
         "title": "Data Platforms Engineering Grad Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -355626,7 +355626,7 @@
         "company_name": "Zoom",
         "id": "d53b99d8-7f5b-4191-bd98-116f4802074b",
         "title": "AI Engineer Intern - Zoom Agentic Workflow Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -363001,7 +363001,7 @@
         "company_name": "Northrop Grumman",
         "id": "010d839b-049d-498b-a477-d082253bba5e",
         "title": "2026 AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -367524,7 +367524,7 @@
         "company_name": "Genentech",
         "id": "33d43da0-04ba-4794-acc3-1734824015b9",
         "title": "2026 Summer Intern - Product Development Global Clinical Operations - Analytics & Portfolio Optimization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
