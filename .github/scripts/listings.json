@@ -324636,7 +324636,7 @@
         "company_name": "LabCorp",
         "id": "82620b43-1609-4bf7-8f95-b172054c6cdd",
         "title": "Intern Data Science and Artificial Intelligence",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -330946,7 +330946,7 @@
         "company_name": "Capital Automotive Group",
         "id": "41512a85-88d1-49f4-b7da-0cf50c070761",
         "title": "Accessories Installation Technician",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -341537,7 +341537,7 @@
         "company_name": "City of Austin",
         "id": "73e35e78-0b99-4f25-a948-171e61e4adbe",
         "title": "Intern - Systems Planning for Water/Wastewater/Reclaimed Water",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
