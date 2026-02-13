@@ -122,66 +122,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Harbinger Motors",
-        "id": "cb963914-a193-401f-810d-68081ab37382",
-        "title": "Intern \u2013 Production Data Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1750215830,
-        "date_posted": 1750215830,
-        "url": "https://job-boards.greenhouse.io/harbingermotors/jobs/4767345007",
-        "locations": [
-            "Westminster, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Harbinger-Motors",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ciena",
-        "id": "f3206df2-d0ca-4efd-b210-3e7a89f02cb4",
-        "title": "Photonics Software Engineer \u2013 Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1750217327,
-        "date_posted": 1750217327,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Photonics-Software-Engineer---Co-op_R028199",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TD Bank",
-        "id": "93cf4cea-dfd7-4430-9a33-d3d4f7a3e36f",
-        "title": "Business Insights & Analytics Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1750217926,
-        "date_posted": 1750217926,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/TD-Centre---TD-Tower---66-Wellington-Street-West-Toronto-Ontario/Business-Insights---Analytics-Intern-Co-op--FALL-2025-_R_1421211",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Daniel J Edelman Holdings",
         "id": "ddbce5cc-de00-4585-8df6-af4ce30d979c",
         "title": "Data Administration Intern",
@@ -223231,7 +223171,7 @@
         "company_name": "Great American Insurance Company",
         "id": "71251817-fcc7-4ad5-aefa-07fc09682727",
         "title": "Associate Technical Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2028"
         ],
@@ -227884,7 +227824,7 @@
         "company_name": "Autodesk",
         "id": "8e887887-a400-490a-b3a6-33857a8c0833",
         "title": "Intern \u2013 Tool-Augmented LLMs for CAD/BREP 3D Object Generation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262901,7 +262841,7 @@
         "company_name": "Nokia",
         "id": "3f88657e-ac73-4c3c-adde-e920466479dd",
         "title": "Lab Support Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -316231,7 +316171,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -316705,7 +316645,7 @@
         "company_name": "Autodesk",
         "id": "138a4687-f7df-452e-b20b-78c567ce9db9",
         "title": "Intern \u2013 Tool-Augmented LLMs for CAD/BREP 3D Object Generation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -348526,7 +348466,7 @@
         "company_name": "Galileo Financial Technologies",
         "id": "9117093a-b754-42db-bae9-721389c90997",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -359106,7 +359046,7 @@
         "company_name": "CAE",
         "id": "7316d00f-02d6-4e01-bbb0-084d6f5b9aa1",
         "title": "Software Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -362357,7 +362297,7 @@
         "company_name": "John Deere",
         "id": "a1e44252-3bf0-45df-8ab0-c334f73f3a90",
         "title": "Part-Time Student - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -365467,7 +365407,7 @@
         "company_name": "Motorola",
         "id": "2dadb0f9-6fb9-4dfa-86eb-4724f5382e01",
         "title": "Systems Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -365940,7 +365880,7 @@
         "company_name": "Sherwin-Williams",
         "id": "fdd34dff-df74-4200-9e65-4a22e4408ef1",
         "title": "Marketing Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -369110,5 +369050,213 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WhatNot",
+        "id": "6368081c-8bd1-4c5d-b812-6fb4103036df",
+        "title": "Data Science Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770949033,
+        "date_posted": 1770949033,
+        "url": "https://jobs.ashbyhq.com/whatnot/1928d988-efe2-4868-89b8-4c3f3e26dc44/application",
+        "locations": [
+            "NYC",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/WhatNot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sigma Computing",
+        "id": "ec8e25f8-7763-4195-b723-ed2677c68f74",
+        "title": "AI/ML PhD Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770949730,
+        "date_posted": 1770949730,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7630636003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Sigma-Computing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "NVIDIA",
+        "id": "caaef2b0-7636-429e-a9d6-36a933c6c766",
+        "title": "Product Management Intern - Accelerated Computing GPU",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770949148,
+        "date_posted": 1770949148,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Accelerated-Computing-GPU---Summer-2026_JR2013189",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kaiser Permanente",
+        "id": "60ff3d29-4d4e-4f4d-afc1-b33ef7bc2051",
+        "title": "Applications BachelorIntern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770949106,
+        "date_posted": 1770949106,
+        "url": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1408200",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kaiser-Permanente",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Chubb",
+        "id": "5551ef23-a8af-4b9d-a834-82aa5571f12a",
+        "title": "AI Research Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770948569,
+        "date_posted": 1770948569,
+        "url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/30503",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Chubb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Sigma Computing",
+        "id": "74ebe935-f863-43d6-94a3-51ce8d28fa3c",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770949732,
+        "date_posted": 1770949732,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7630664003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Sigma-Computing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sigma Computing",
+        "id": "64348a71-33c9-47f0-a1c9-af608c7c2787",
+        "title": "Software Engineer \u2013 New Grad Program",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1770949740,
+        "date_posted": 1770949740,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7630712003",
+        "locations": [
+            "NYC",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Sigma-Computing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sigma Computing",
+        "id": "5117afc4-9888-41d9-8c99-ee9da42a5efa",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770949736,
+        "date_posted": 1770949736,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7630711003",
+        "locations": [
+            "NYC",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Sigma-Computing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sigma Computing",
+        "id": "3f457664-d8e7-4d37-86c5-0c70bce4f6ca",
+        "title": "Data Platform Graduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770949730,
+        "date_posted": 1770949730,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7630642003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Sigma-Computing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
