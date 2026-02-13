@@ -259035,7 +259035,7 @@
         "company_name": "General Motors",
         "id": "3d85b4c1-0132-4544-b720-4a4e9e707c9e",
         "title": "Intern - Autonomous Driving",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -277566,7 +277566,7 @@
         "company_name": "Paccar",
         "id": "c095003f-99e5-4245-a46a-9f37aa4233a8",
         "title": "Warranty Audit Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -280547,7 +280547,7 @@
         "company_name": "Electronic Arts",
         "id": "b9090db3-b785-4ece-a0c6-8374c96a4299",
         "title": "Cross Sports Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -305427,7 +305427,7 @@
         "company_name": "ExxonMobil",
         "id": "cd4a9782-2396-4903-8b14-2068e071233d",
         "title": "Data Scientist \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -309458,7 +309458,7 @@
         "company_name": "Cisco",
         "id": "fb349a4a-326d-4c1b-a0c7-bea097af0523",
         "title": "Software Engineer Backend/Platform Systems 2 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -328756,7 +328756,7 @@
         "company_name": "Sandisk",
         "id": "a17112cf-d4d0-48a6-8dcf-811a35a8e5e3",
         "title": "PhD Intern - Advanced Memory Technology - AI/ML Focus",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -331846,7 +331846,7 @@
         "company_name": "Sandisk",
         "id": "e5134075-1379-47f6-9977-846cfae23ba9",
         "title": "PhD Intern - Advanced Memory Technology - AI/ML Focus",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -335344,7 +335344,7 @@
         "company_name": "Cisco",
         "id": "3d12f7b6-409a-4f38-85dd-82aa1128133c",
         "title": "Product Management Engineer 2  Intern - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -346204,7 +346204,7 @@
         "company_name": "Zoom",
         "id": "8f661516-9eeb-4f91-978b-a02f88980b01",
         "title": "Gen AI Research Intern - Zoom GenAI R&D Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346844,7 +346844,7 @@
         "company_name": "Gulfstream",
         "id": "d68fe1f6-46b6-4f87-bdb7-8e42664bc9dd",
         "title": "Collegiate Associate Intern - IT",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -362184,7 +362184,7 @@
         "company_name": "RTX",
         "id": "277a1ab6-9315-43d5-ad80-dc9462d1778e",
         "title": "Software Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
