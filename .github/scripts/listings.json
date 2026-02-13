@@ -203348,7 +203348,7 @@
         "company_name": "Adobe",
         "id": "51561d32-a2b4-4f87-b84d-77219edd63b8",
         "title": "2026 AI/ML Intern - Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -263258,7 +263258,7 @@
         "company_name": "AVEVA",
         "id": "b890a05f-50d3-4c12-94cb-477e83f52f29",
         "title": "Software Developer Intern - Derry",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -338994,7 +338994,7 @@
         "company_name": "Intel",
         "id": "bd4e4f84-ff9c-4dd7-bc2d-f5ae89a0cda5",
         "title": "DARC Data and Reporting Student/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -369850,6 +369850,56 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "af470cb2-7419-41a6-8896-8df9ad78a8e6",
+        "title": "Stagiaire en Essais Non-Destructifs \u2013 \u00c9t\u00e9 2026 / Non-Destructive Testing Group Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770982773,
+        "date_posted": 1770218995,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stagiaire-en-Essais-Non-Destructifs---t-2026---Non-Destructive-Testing-Group-Intern---Summer-2026_01810703-1",
+        "locations": [
+            "Longueuil, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Denver",
+        "id": "817cea52-3ef2-41ab-97b7-d8fe7ccfeed9",
+        "title": "Innovation Project Associate Intern - Analytics and Innovation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770982918,
+        "date_posted": 1770938650,
+        "url": "https://denver.wd1.myworkdayjobs.com/CCD-denver-denvergov-CSC_Jobs-Civil_service_jobs-Police_Jobs-Fire_Jobs/job/Denver-International-Airport/Innovation-Project-Associate-College-Internship---Analytics-and-Innovation---Denver-International-Airport--1-year-_R0078703-1",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Denver",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Associate's",
+            "Certificate"
         ]
     }
 ]
