@@ -32048,35 +32048,35 @@
 <td>Campus Undergraduate Intern Program - Technology</td>
 <td>Phoenix, AZ</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Campus Undergraduate Intern Program - Data Management - Technology</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Campus Graduate Intern Program - Data Management - Technology</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Campus Graduate Intern Program - Data Engineer</td>
 <td>Plantation, FL</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Campus Undergraduate Intern Program - Management Information Systems & Analytics - Technology</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/DTCC?utm_source=GHList&utm_medium=company">DTCC</a></strong></td>
@@ -56600,7 +56600,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Aptiv?utm_source=GHList&utm_medium=company">Aptiv</a></strong></td>
 <td>SW Intern</td>
 <td>Troy, MI</td>
 <td>🔒</td>
