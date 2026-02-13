@@ -64485,7 +64485,7 @@
         "company_name": "Solidigm",
         "id": "7e37923b-7955-4fe4-91f6-d5a8b32eca2d",
         "title": "2026 Undergrad Engineering Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -73570,7 +73570,7 @@
         "company_name": "RESPEC",
         "id": "67697e1a-0800-4b63-894c-a9f03c6054b8",
         "title": "Student Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -104634,7 +104634,7 @@
         "company_name": "RESPEC",
         "id": "22e490ad-56fe-4b56-af8d-5848ada5b644",
         "title": "Student Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -162243,7 +162243,7 @@
         "company_name": "Solidigm",
         "id": "107bfc32-911d-4af7-864d-280513dbd04d",
         "title": "Undergraduate Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -231355,7 +231355,7 @@
         "company_name": "Intuitive Surgical",
         "id": "549d8449-d93d-4fd5-b514-2a6d6805ec6e",
         "title": "AI Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -232381,7 +232381,7 @@
         "company_name": "Intuitive Surgical",
         "id": "e0d9fd04-ca06-4136-9e90-c39d4b80f9d7",
         "title": "AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -269977,7 +269977,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "34070e76-bc27-46a4-bc37-5aae60674289",
         "title": "Multi-Modal Cyber-physical sensing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -274883,7 +274883,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "0436f6da-716a-4ecf-b66c-ce1476b1f498",
         "title": "Multi-Modal Cyber-Physical Sensing Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -277313,7 +277313,7 @@
         "company_name": "AbbVie",
         "id": "d043fb48-1906-4d28-b1e4-b9ba4ef5d0df",
         "title": "Statistics Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -309493,7 +309493,7 @@
         "company_name": "Cisco",
         "id": "69c79c24-a44d-41c2-a33d-9252a9150ed9",
         "title": "Software Engineer Full Stack & Application Development 2 \u2013 Intern - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -310586,7 +310586,7 @@
         "company_name": "Hitachi",
         "id": "e3d2586b-44a3-4396-b64c-c88a86d29e87",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -314967,7 +314967,7 @@
         "company_name": "Westgate Resorts",
         "id": "7e52c5f8-c50f-4bc3-9561-7da851eda20e",
         "title": "Mortgage Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -321364,7 +321364,7 @@
         "company_name": "Westgate Resorts",
         "id": "701e8177-9557-44c2-a882-1a39d0b2a4a7",
         "title": "Mortgage Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -324472,7 +324472,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Western Digital",
-        "id": "36a76455-2cdf-483d-822b-c7929c72c68d",
+        "id": "9279e06a-0698-4b37-be5c-8dd180a7fa4f",
         "title": "Early Career Talent - Software Engineering - Apps",
         "active": true,
         "terms": [
@@ -328756,7 +328756,7 @@
         "company_name": "Sandisk",
         "id": "a17112cf-d4d0-48a6-8dcf-811a35a8e5e3",
         "title": "PhD Intern - Advanced Memory Technology - AI/ML Focus",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -331846,7 +331846,7 @@
         "company_name": "Sandisk",
         "id": "e5134075-1379-47f6-9977-846cfae23ba9",
         "title": "PhD Intern - Advanced Memory Technology - AI/ML Focus",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -335119,7 +335119,7 @@
         "company_name": "AbbVie",
         "id": "b268e282-d4a6-464f-b15d-53bd9ca3132a",
         "title": "Statistics Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -348008,7 +348008,7 @@
         "company_name": "NVIDIA",
         "id": "c281a6cd-cb56-42be-8e96-13b2871b667e",
         "title": "Technical Product Management Intern - Cuda",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -363439,7 +363439,7 @@
         "company_name": "HubSpot",
         "id": "068eb6a4-ee2f-4970-9ed2-2dab86516f6e",
         "title": "HubSpot Software Engineer Intern - Co-op Placement & Industrial Placement Program - UK",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -365364,7 +365364,7 @@
         "company_name": "Housecall Pro",
         "id": "76933348-3f88-4cd5-876c-34d5bfbaafe8",
         "title": "AI-First Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -366115,7 +366115,7 @@
         "company_name": "Super Micro Computer",
         "id": "cf1ae825-3ab7-4158-a2e4-d3e85f86cbc9",
         "title": "Generative AI Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -366704,7 +366704,7 @@
         "company_name": "Grayce",
         "id": "99c2bac2-68f0-42f8-909b-3555c998a37c",
         "title": "Graduate Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -368041,7 +368041,7 @@
         "company_name": "Kaiser Permanente",
         "id": "aa2a08f2-8d59-4e78-9da9-f354254bb60d",
         "title": "Data Analytics Master Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -369777,6 +369777,79 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GenBio AI",
+        "id": "d1ad6578-aacd-4f48-8fe6-764ea9841a0c",
+        "title": "Research Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770976739,
+        "date_posted": 1753702777,
+        "url": "https://jobs.lever.co/genbio/7037a809-2f60-4e2a-b329-37cd922a8da7/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/GenBio-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "9b2c8392-e286-400e-95e9-809d118e367e",
+        "title": "Benefits Operation Data Analyst Project Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770979133,
+        "date_posted": 1770979133,
+        "url": "https://jobs.bytedance.com/en/position/7605524889478842677/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Okta",
+        "id": "fcf94456-dba6-4465-a121-aba1448c32b4",
+        "title": "Digital Solutions Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1770948397,
+        "date_posted": 1770948397,
+        "url": "https://www.okta.com/company/careers/opportunity/7551302?gh_jid=7551302",
+        "locations": [
+            "Bellevue, WA",
+            "Chicago, IL",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Okta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
