@@ -150022,30 +150022,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Mistral AI",
-        "id": "f497d4b3-b7ca-4486-938d-7ecc0160f335",
-        "title": "AI Scientist Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760348632,
-        "date_posted": 1750375729,
-        "url": "https://jobs.lever.co/mistral/292397f0-4ac7-4309-a0e8-63c97761a2cb/apply",
-        "locations": [
-            "Palo Alto, CA",
-            "Paris, France"
-        ],
-        "company_url": "https://simplify.jobs/c/Mistral-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Electronic Arts",
         "id": "31decf67-552b-4ec1-953e-d9755c8ca73d",
         "title": "Research Scientist Intern - SEED - Machine Learning",
