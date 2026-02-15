@@ -359288,7 +359288,7 @@
         "company_name": "T-Mobile",
         "id": "e8625165-2b4f-4849-ad88-4c173dff5eb6",
         "title": "Associate Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -362550,7 +362550,7 @@
         "company_name": "RTX",
         "id": "8e10546f-2812-4ce9-a79b-123ccaa55c90",
         "title": "Intern - Digital Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -363769,7 +363769,7 @@
         "company_name": "Microchip Technology",
         "id": "ac10fab9-ee1a-4dc5-9a5c-e7f54bc60b16",
         "title": "Intern-Engineering - Software AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
