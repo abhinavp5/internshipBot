@@ -122,26 +122,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Jabil",
-        "id": "cd56994e-5bb4-495d-b73a-e412b65f3c93",
-        "title": "Data Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1750438260,
-        "date_posted": 1750438260,
-        "url": "https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/Lexington-KY/Data-Analytics-Intern_J2419123",
-        "locations": [
-            "Lexington, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/051f591a-22c2-4254-aec5-c3ee7c82b288",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Amentum",
         "id": "4cdbe908-45c5-4224-9880-5e7cf77956c9",
         "title": "Intern",
@@ -237037,7 +237017,7 @@
         "company_name": "Carrier Global",
         "id": "4fef136c-e38a-4af9-828b-ad878286a080",
         "title": "Digital Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -362006,7 +361986,7 @@
         "company_name": "Genentech",
         "id": "963bcd98-dc12-404f-a312-9c6c8968551b",
         "title": "2026 Summer Intern - Translational Pharmacokinetics/Pharmacodynamics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364634,7 +364614,7 @@
         "company_name": "Amentum",
         "id": "122181ab-e7f4-42dd-9e05-d2eed2f32e7a",
         "title": "Guidance \u2013 And Control Intern - Navigation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -369752,7 +369732,7 @@
         "company_name": "PA Consulting",
         "id": "867a10c2-b56f-4ac7-8fe6-80c2b0b698a4",
         "title": "Intern - Digital - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -371524,5 +371504,29 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Motorola",
+        "id": "dbfaed4a-bba8-46c1-a2c3-ac20d5a282f1",
+        "title": "R&D Intern - Machine Learning Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771171099,
+        "date_posted": 1771171099,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/R-D-Intern---Machine-Learning-Engineer----2026_R62195",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
