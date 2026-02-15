@@ -358235,7 +358235,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "17b0c8a1-5765-4cde-b123-faf5e5f37a92",
         "title": "STEM Student Trainee",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
