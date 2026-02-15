@@ -160562,7 +160562,7 @@
         "company_name": "The Toro Company",
         "id": "c2d35d79-425d-4184-90ee-270187371951",
         "title": "IBP Data Management Intern - The Toro Company",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -320323,7 +320323,7 @@
         "company_name": "Legend Biotech",
         "id": "ca707cd4-9ec0-463a-981f-a19ba14f7e33",
         "title": "Manufacturing Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -352683,7 +352683,7 @@
         "company_name": "Legend Biotech",
         "id": "4de3f72e-3d6e-45e3-8ea6-4d3ef3a95f47",
         "title": "Pipeline and Corporate IT Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -361593,7 +361593,7 @@
         "company_name": "RTX",
         "id": "278c5d4c-a585-4c3c-8cd9-e6541f09ff74",
         "title": "Intern - SQL Database & Back-End Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -369711,7 +369711,7 @@
         "company_name": "PA Consulting",
         "id": "87e6fabb-1a80-4c44-bddf-558c777c2bd0",
         "title": "Apprentice - Digital - Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
