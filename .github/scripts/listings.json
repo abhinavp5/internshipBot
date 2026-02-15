@@ -122,27 +122,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Weber Shandwick",
-        "id": "986a9beb-fbed-4491-930b-2d13ec403e4e",
-        "title": "AI & Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1750432715,
-        "date_posted": 1750432715,
-        "url": "https://www.webershandwick.com/work-at-weber/careers/?gh_jid=8040062002",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Weber-Shandwick",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "IPG DXTRA",
         "id": "b7892ba6-6fe2-49a3-b781-0a46d8c18c8a",
         "title": "AI & Analytics Intern",
@@ -371492,6 +371471,96 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Manulife-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Interac",
+        "id": "eaca6b18-c757-41b6-9e7a-cb9110485af5",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771168631,
+        "date_posted": 1771168631,
+        "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Management-Intern_REQ-2099",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Interac",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Interac",
+        "id": "89aa0f34-dbf5-4dfc-975c-5264389437af",
+        "title": "Product Intern - Money Movement",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771168627,
+        "date_posted": 1771168627,
+        "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Intern--Money-Movement_REQ-2098",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Interac",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Interac",
+        "id": "1046a06a-6268-47ba-a846-e4c561080028",
+        "title": "Product Management Intern - Verified",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771168636,
+        "date_posted": 1771168636,
+        "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Management-Intern--Verified-_REQ-2101",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Interac",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Interac",
+        "id": "f88628db-f483-4aa2-be2a-e3b5b7a44541",
+        "title": "AI Product Delivery Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771167412,
+        "date_posted": 1771167412,
+        "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/AI-Product-Delivery-Intern_REQ-2116",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Interac",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
