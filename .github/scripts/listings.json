@@ -121,47 +121,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "25ac8474-8598-4f9f-9ee3-3c643ce77d70",
-        "title": "Co-op: Fall 2025 - F135 Program Digital Solutions",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1750387448,
-        "date_posted": 1750387448,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PW100-East-Hartford-400-Main-Street-East-Hartford-CT-06118-USA/Co-op--Fall-2025---F135-Program-Digital-Solutions--Onsite-_01774935",
-        "locations": [
-            "Hartford, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "BILL",
-        "id": "ed648721-937b-4198-b5b8-6ae1ce1cc9ce",
-        "title": "Risk Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1750390088,
-        "date_posted": 1750390088,
-        "url": "https://www.bill.com/job?5342213004&gh_jid=5342213004",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Bill-Dot-Com",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Weber Shandwick",
         "id": "986a9beb-fbed-4491-930b-2d13ec403e4e",
