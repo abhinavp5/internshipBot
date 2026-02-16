@@ -193539,7 +193539,7 @@
         "company_name": "Goldman Sachs",
         "id": "dd4eae08-07ff-4fb2-b173-07aef17c5f81",
         "title": "2026 \u2013 Apprentice Programme - Birmingham - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -253642,7 +253642,7 @@
         "company_name": "Westinghouse Electric Company",
         "id": "90eac154-cf62-449d-9954-dc1c158c3894",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -312485,7 +312485,7 @@
         "company_name": "O'Reilly Auto Parts",
         "id": "77b7262e-552c-4264-b295-f6d701f9a2fa",
         "title": "Intern \u2013 Pricing Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -337090,7 +337090,7 @@
         "company_name": "United Wholesale Mortgage",
         "id": "c4e192a1-1beb-4dfb-804c-9b79af44e129",
         "title": "Client Experience Intern Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344654,7 +344654,7 @@
         "company_name": "The Home Depot",
         "id": "169ec988-748e-47a5-a2c4-98fd539ac9d3",
         "title": "Intern \u2013 Asset Protection Data Insights",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -354974,7 +354974,7 @@
         "company_name": "Turion Space",
         "id": "5ccc3e5e-1b00-4b72-9f04-d84f47eb139a",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -355184,7 +355184,7 @@
         "company_name": "Allegion",
         "id": "540f9ea8-85fb-4068-950f-763a9787cc14",
         "title": "Industrial Design Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
