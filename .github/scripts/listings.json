@@ -299216,7 +299216,7 @@
         "company_name": "FocusKPI",
         "id": "be6828a5-5e40-4957-aa64-9b1131cdaf5b",
         "title": "AI Engineer Trainee",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -343031,7 +343031,7 @@
         "company_name": "National Renewable Energy Laboratory",
         "id": "37e1f6f6-198f-4beb-a0e3-69747aefbd49",
         "title": "Undergraduate/Graduate \u2013 Intern - Year-Round - Transportation Research Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -352669,7 +352669,7 @@
         "company_name": "Allegion",
         "id": "d378ab06-96e1-4f5d-9e7e-f567decc690e",
         "title": "Industrial Design Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -361075,7 +361075,7 @@
         "company_name": "CAE",
         "id": "a357640a-b402-413c-a760-fa433665c5d8",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
