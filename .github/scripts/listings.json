@@ -237242,7 +237242,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "8db96167-1218-4668-a3b3-f05bd712c27d",
         "title": "Product Marketing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -284370,7 +284370,7 @@
         "company_name": "Microsoft",
         "id": "7468ecd6-7cd4-40e7-9ccd-21d25a284f07",
         "title": "Software Engineer Applied AI/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2026",
@@ -338528,7 +338528,7 @@
         "company_name": "Genmab",
         "id": "d15150d9-3e3b-4091-ba3a-950255de497a",
         "title": "Programming Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -369723,7 +369723,7 @@
         "company_name": "Proofpoint",
         "id": "fb3e2a27-2394-47f8-a034-36bfad753d92",
         "title": "Application Developer/Programmer Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371631,6 +371631,29 @@
             "Orlando, FL"
         ],
         "company_url": "https://simplify.jobs/c/Ensora-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Waters Corporation",
+        "id": "c2ed2d9f-86fe-4bd0-a632-01cf69b67b92",
+        "title": "Intern Software Developer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771237464,
+        "date_posted": 1771237464,
+        "url": "https://uscareers-waters.icims.com/jobs/25456/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Franklin, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Waters-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
