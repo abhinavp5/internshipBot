@@ -193560,7 +193560,7 @@
         "company_name": "Goldman Sachs",
         "id": "d729c02a-9a64-46fa-b1f1-bf3a91d332c9",
         "title": "2026 \u2013 Apprentice Programme - London - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -315732,7 +315732,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344539,7 +344539,7 @@
         "company_name": "The Home Depot",
         "id": "a07ad71b-415b-479e-80c7-4c18071cb7a9",
         "title": "Intern \u2013 Hardware Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344562,7 +344562,7 @@
         "company_name": "The Home Depot",
         "id": "7ed37c89-a546-4e66-8b7b-a592cf9490c7",
         "title": "Intern Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344608,7 +344608,7 @@
         "company_name": "The Home Depot",
         "id": "5df5b89d-90b3-42c7-a5a9-d6519ca29eaf",
         "title": "Intern \u2013 Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344677,7 +344677,7 @@
         "company_name": "The Home Depot",
         "id": "150f550d-b46f-4629-9f16-ce1cfa0eb88e",
         "title": "Intern \u2013 Contact Centre Product Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -365950,7 +365950,7 @@
         "company_name": "Denver",
         "id": "9da9813e-e90c-4272-a62d-70d7fbf432f3",
         "title": "Airport GIS + Planning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -368868,7 +368868,7 @@
         "company_name": "RTX",
         "id": "62e8c1a3-1dc0-408d-bb56-52b491aea0e4",
         "title": "Software Engineering Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368891,7 +368891,7 @@
         "company_name": "RTX",
         "id": "27f4b0b8-6cf6-4c8d-a0a0-47b9797bf2d5",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368917,7 +368917,7 @@
         "company_name": "RTX",
         "id": "27dbe419-494f-4005-a56b-f8a34f2480fd",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -369274,7 +369274,7 @@
         "company_name": "RTX",
         "id": "f2f74a4b-97b1-4427-b51c-7d28801f010d",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -369298,7 +369298,7 @@
         "company_name": "RTX",
         "id": "b8d5ea79-21bb-4e7e-84b3-6158aff8e65f",
         "title": "SW Engineering Intern Summer 2026 - Datalink",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -369319,7 +369319,7 @@
         "company_name": "RTX",
         "id": "9bea9bde-f947-4bdb-92c6-36b4b3bf2efe",
         "title": "Datalink Software Engineering Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
