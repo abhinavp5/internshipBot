@@ -325769,7 +325769,7 @@
         "company_name": "Dow Chemical Company",
         "id": "42b1620b-824f-4278-b9f4-66bdd7ec1491",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -359207,7 +359207,7 @@
         "company_name": "T-Mobile",
         "id": "e4f6e268-8abc-4b3c-b9ad-a75e4f78d1b4",
         "title": "Support Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364719,7 +364719,7 @@
         "company_name": "Northrop Grumman",
         "id": "d09d5731-d79d-4556-8c25-63a8451f1257",
         "title": "2026 Engineering Intern - Air Dominance",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368570,7 +368570,7 @@
         "company_name": "Snap",
         "id": "1329e9b4-11e8-48ba-b655-846dea88a32d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
