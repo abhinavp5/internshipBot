@@ -3893,7 +3893,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Cisco?utm_source=GHList&utm_medium=company">Cisco</a></strong></td>
+<td>↳</td>
 <td>Splunk Intern - Backend/Fullstack - Software Engineer I</td>
 <td>Research Triangle, Durham, NC</td>
 <td>Winter 2025</td>
@@ -29601,7 +29601,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Cisco?utm_source=GHList&utm_medium=company">Cisco</a></strong></td>
+<td>↳</td>
 <td>ASIC Design Verification Engineer</td>
 <td>Acton, MA</td>
 <td>Winter 2025</td>
