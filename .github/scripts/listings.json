@@ -315732,7 +315732,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -342047,7 +342047,7 @@
         "company_name": "Genentech",
         "id": "cec1cf6d-076c-42fe-9918-c43571bbee5f",
         "title": "2026 Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -359158,7 +359158,7 @@
         "company_name": "T-Mobile",
         "id": "fccd0251-1591-46d9-a850-c659061fd86f",
         "title": "Summer 2026 Analytics Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364071,7 +364071,7 @@
         "company_name": "Paccar",
         "id": "382d0c97-035f-4b4b-9b42-bc2bf14e8cce",
         "title": "2026 Summer Internship: Advanced Mobility Tech Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -367105,7 +367105,7 @@
         "company_name": "Genentech",
         "id": "33d43da0-04ba-4794-acc3-1734824015b9",
         "title": "2026 Summer Intern - Product Development Global Clinical Operations - Analytics & Portfolio Optimization",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -371468,5 +371468,173 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Walt Disney Company",
+        "id": "7f67f9d3-45fb-4c43-864e-4df9f6642fad",
+        "title": "ABC News Insights and Analytics Intern - Summer/Fall 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2027"
+        ],
+        "date_updated": 1771232870,
+        "date_posted": 1771232870,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/New-York-NY-USA/ABC-News-Insights-and-Analytics-Intern--Summer-Fall-2026_10138489-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ensora Health",
+        "id": "cfdd055e-2af7-458d-a8e8-7c70cf907ec6",
+        "title": "AI/ML Intern - Generative AI & Intelligent Systems",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771232571,
+        "date_posted": 1771232571,
+        "url": "https://therapybrands.wd1.myworkdayjobs.com/EnsoraHealth/job/Remote---Florida/AI-ML-Intern---Generative-AI---Intelligent-Systems_R439",
+        "locations": [
+            "Florida"
+        ],
+        "company_url": "https://simplify.jobs/c/Ensora-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ensora Health",
+        "id": "573b6042-43ba-4d24-a71b-18458b21defd",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771232579,
+        "date_posted": 1771232579,
+        "url": "https://therapybrands.wd1.myworkdayjobs.com/EnsoraHealth/job/Remote---Florida/Software-Engineer-Intern_R449",
+        "locations": [
+            "Concord, NH",
+            "Mississippi",
+            "Texas",
+            "Tennessee",
+            "Indiana",
+            "Alabama",
+            "NYC",
+            "South Dakota",
+            "Florida",
+            "South Carolina",
+            "Kentucky",
+            "Maryland",
+            "North Dakota",
+            "Rhode Island",
+            "New Mexico",
+            "Waterbury, CT",
+            "Ohio",
+            "Louisiana",
+            "Minnesota",
+            "Wisconsin",
+            "Missouri",
+            "Kansas",
+            "Michigan",
+            "Jackson Township, NJ",
+            "Illinois",
+            "Pennsylvania",
+            "Delaware",
+            "Virginia",
+            "Massachusetts",
+            "Georgia",
+            "Iowa",
+            "Maine",
+            "North Carolina"
+        ],
+        "company_url": "https://simplify.jobs/c/Ensora-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ensora Health",
+        "id": "56e7fbc3-a9c8-486e-b4e2-f60e30436141",
+        "title": "AI/ML Intern - Generative AI & Intelligent Systems",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771232582,
+        "date_posted": 1771232582,
+        "url": "https://therapybrands.wd1.myworkdayjobs.com/EnsoraHealth/job/Remote---Florida/AI-ML-Intern---Generative-AI---Intelligent-Systems_R448",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Ensora-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ensora Health",
+        "id": "4c148a14-350a-403d-98fe-4263ef0a24ee",
+        "title": "AI/ML Intern - Generative AI & Intelligent Systems",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771232572,
+        "date_posted": 1771232572,
+        "url": "https://therapybrands.wd1.myworkdayjobs.com/EnsoraHealth/job/Remote---Florida/AI-ML-Intern---Generative-AI---Intelligent-Systems_R447",
+        "locations": [
+            "Florida"
+        ],
+        "company_url": "https://simplify.jobs/c/Ensora-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ensora Health",
+        "id": "4b315744-0223-49f8-821c-b3b7cb584fb5",
+        "title": "AI/ML Intern - Generative AI & Intelligent Systems",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771232575,
+        "date_posted": 1771232575,
+        "url": "https://therapybrands.wd1.myworkdayjobs.com/EnsoraHealth/job/Remote---Florida/AI-ML-Intern---Generative-AI---Intelligent-Systems_R446",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Ensora-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
