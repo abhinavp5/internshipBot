@@ -227756,7 +227756,7 @@
         "company_name": "Cisco",
         "id": "1cde2689-d3c8-4c81-bfd1-624897f66d01",
         "title": "AI Machine Learning Engineer 1 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -322658,7 +322658,7 @@
         "company_name": "Arcadis",
         "id": "41e7219a-ed99-46b0-ac97-71e674838314",
         "title": "Climate Adaptation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -358811,7 +358811,7 @@
         "company_name": "Weyerhaeuser",
         "id": "3d55d222-b06e-438e-ba9a-40c3d80366d0",
         "title": "Industrial AI Intern - Lumber Manufacturing",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -365581,7 +365581,7 @@
         "company_name": "Abbott",
         "id": "fecce448-da6e-41ce-9a61-f19ef7fe6764",
         "title": "Software Engineering Internship - Year in Industry placement - Start summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -367105,7 +367105,7 @@
         "company_name": "Genentech",
         "id": "33d43da0-04ba-4794-acc3-1734824015b9",
         "title": "2026 Summer Intern - Product Development Global Clinical Operations - Analytics & Portfolio Optimization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371654,6 +371654,77 @@
             "Franklin, MA"
         ],
         "company_url": "https://simplify.jobs/c/Waters-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Keyrock",
+        "id": "291ca6c8-0508-434e-a334-6246e8738ffd",
+        "title": "Quantitative Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771237589,
+        "date_posted": 1771237589,
+        "url": "https://jobs.ashbyhq.com/keyrock/aa611b0b-983b-4e4c-a7c7-eb1d5e98f316/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Keyrock",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "da25c969-4c7b-4270-aebe-aef363fd5b40",
+        "title": "Stage \u2013 Gestion des programmes / Internship - \u00c9t\u00e9 2026 - Summer 2026/Operations Program Management",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771220799,
+        "date_posted": 1770910281,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-d-t-2026-Gestion-des-programmes---Internship-Summer-2026-Operations-Program-Management_01809937",
+        "locations": [
+            "Longueuil, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Walt Disney Company",
+        "id": "cd487e2e-f235-4059-8750-6496848370da",
+        "title": "ABC News Insights and Analytics Intern - Summer/Fall 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2027"
+        ],
+        "date_updated": 1771239842,
+        "date_posted": 1771239842,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/ABC-News-Insights-and-Analytics-Intern--Summer-Fall-2026_10138489",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
