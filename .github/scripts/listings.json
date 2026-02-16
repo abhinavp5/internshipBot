@@ -48609,7 +48609,7 @@
         "company_name": "Sysco",
         "id": "4105463a-bb58-443b-88a1-a67027c7664e",
         "title": "Software Dev Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -277316,7 +277316,7 @@
         "company_name": "Qorvo",
         "id": "3904f1f8-4be1-4246-b7e6-7186beaca6cb",
         "title": "Digital Strategy Marketing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -279181,7 +279181,7 @@
         "company_name": "Voltus",
         "id": "0b7d9c7a-6864-4792-846e-e52cf3087746",
         "title": "Energy Markets Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -290526,7 +290526,7 @@
         "company_name": "Group 1001",
         "id": "e5bef42d-b5ee-41bb-9e3d-f7034a9dccaf",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -324217,7 +324217,7 @@
         "company_name": "LabCorp",
         "id": "82620b43-1609-4bf7-8f95-b172054c6cdd",
         "title": "Intern Data Science and Artificial Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -328177,7 +328177,7 @@
         "company_name": "XPO",
         "id": "76c3ae77-453b-4836-8261-c2b3749d612c",
         "title": "Tech Program Intern 3 - Full Stack Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -352971,7 +352971,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "ed3e4196-4b37-42ac-bc0a-ed112e48c068",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
