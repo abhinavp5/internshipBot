@@ -359906,7 +359906,7 @@
         "company_name": "Bank of Montreal",
         "id": "7a71f8a9-05a2-473d-aadc-63fe073565f4",
         "title": "AI Developer Intern - Weeks",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364303,7 +364303,7 @@
         "company_name": "Citi",
         "id": "e01c5611-8e53-41e1-a20f-f590acffdf55",
         "title": "Early ID Program - Application Development - Technology Spring 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -371447,5 +371447,26 @@
             "Bachelor's",
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Obvious",
+        "id": "4cdc1258-1102-47d1-b864-edbb99c89a1a",
+        "title": "AI GTM Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1771226133,
+        "date_posted": 1771226133,
+        "url": "https://jobs.ashbyhq.com/obvious/32e103bf-5782-4b27-922a-eb964672dc70/application",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Obvious",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
