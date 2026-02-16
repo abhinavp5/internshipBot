@@ -208124,7 +208124,7 @@
         "company_name": "Takeda",
         "id": "60ea604a-a88d-47e5-861f-57d293824cf1",
         "title": "2026 Summer Internship Program: Data Scientist for R&D Quality Intern - ",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -349869,7 +349869,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "b257dc0b-f552-4db0-b476-b047860d0216",
         "title": "SW Engineering Intern - CWL Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -361258,7 +361258,7 @@
         "company_name": "GE Vernova",
         "id": "07e46998-8894-4a27-8ef0-f09a14ae6e09",
         "title": "Robotics \u2013 Inspection Intern - Computer Vision",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371730,5 +371730,54 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ensora Health",
+        "id": "a255c5ea-d28a-4192-851d-77153d224683",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771246130,
+        "date_posted": 1771246130,
+        "url": "https://therapybrands.wd1.myworkdayjobs.com/EnsoraHealth/job/Remote---California/Software-Engineer-Intern_R450",
+        "locations": [
+            "California",
+            "New Mexico",
+            "Texas",
+            "Montana",
+            "Utah",
+            "Washington"
+        ],
+        "company_url": "https://simplify.jobs/c/Ensora-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Walt Disney Company",
+        "id": "3270150d-98fb-47ff-bb3f-e3796cc64641",
+        "title": "ABC Owned TV Stations Data Analytics Intern - Summer/Fall 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771247180,
+        "date_posted": 1771247180,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/ABC-Owned-TV-Stations-Data-Analytics-Intern--Summer-Fall-2026_10140060-1",
+        "locations": [
+            "Glendale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
