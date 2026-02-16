@@ -208124,7 +208124,7 @@
         "company_name": "Takeda",
         "id": "60ea604a-a88d-47e5-861f-57d293824cf1",
         "title": "2026 Summer Internship Program: Data Scientist for R&D Quality Intern - ",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -269785,9 +269785,9 @@
         "degrees": []
     },
     {
-        "date_updated": 1766398336,
+        "date_updated": 1771250196,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -269808,9 +269808,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1766398382,
+        "date_updated": 1771250196,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -269831,9 +269831,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1766398428,
+        "date_updated": 1771250196,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -269949,9 +269949,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1766410055,
+        "date_updated": 1771250196,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -269975,9 +269975,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1766410158,
+        "date_updated": 1771250196,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -272968,9 +272968,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1766764544,
+        "date_updated": 1771250294,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -277168,7 +277168,7 @@
         "company_name": "AECOM",
         "id": "8efb9804-78a6-4456-83f4-b45431dd56fc",
         "title": "Geoscientist Apprentice - Nottingham - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -293215,9 +293215,9 @@
         ]
     },
     {
-        "date_updated": 1768312722,
+        "date_updated": 1771250196,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -333777,7 +333777,7 @@
         "company_name": "Vivenu",
         "id": "292a7c90-d3ac-48e1-bc8b-15055b917d43",
         "title": "Working Student Web Development - d/f/m",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -369462,7 +369462,7 @@
         "company_name": "Denver",
         "id": "817cea52-3ef2-41ab-97b7-d8fe7ccfeed9",
         "title": "Innovation Project Associate Intern - Analytics and Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371430,7 +371430,7 @@
         "company_name": "Philips",
         "id": "4f2b020a-4a8a-4c9b-abda-a6552daaedea",
         "title": "Full Time \u2013 Field Engineer Program - Field Service Engineer - St. Louis','Missouri-July 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -371772,6 +371772,27 @@
         "date_updated": 1771247180,
         "date_posted": 1771247180,
         "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/ABC-Owned-TV-Stations-Data-Analytics-Intern--Summer-Fall-2026_10140060-1",
+        "locations": [
+            "Glendale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Walt Disney Company",
+        "id": "4bd7a558-22ed-40ad-8a92-482097089b3a",
+        "title": "ABC Owned TV Stations Data Analytics Intern - Summer/Fall 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771250846,
+        "date_posted": 1771250846,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/ABC-Owned-TV-Stations-Data-Analytics-Intern--Summer-Fall-2026_10140060",
         "locations": [
             "Glendale, CA"
         ],
