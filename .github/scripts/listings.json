@@ -297763,7 +297763,7 @@
         "company_name": "Group 1001",
         "id": "80bcb364-82b3-4cd2-9f26-703d6fd14ed8",
         "title": "Machine Learning Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -345378,7 +345378,7 @@
         "company_name": "KLA",
         "id": "db2c2366-282d-4faf-af46-5bf8b9283e0f",
         "title": "AI Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -352604,7 +352604,7 @@
         "company_name": "AECOM",
         "id": "f86dd74a-8cbd-4c04-8b64-df6f74519c74",
         "title": "Engineering/Data Science Intern - Networking Event with AECOM - Atlanta, GA",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -370237,7 +370237,7 @@
         "company_name": "The Walt Disney Company",
         "id": "19d333fd-7d36-4eec-85b6-ce611ab0cba6",
         "title": "Data Science Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
