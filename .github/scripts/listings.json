@@ -193518,7 +193518,7 @@
         "company_name": "Goldman Sachs",
         "id": "f726127e-ddbe-4344-b2e9-5a39e67001b0",
         "title": "2026 \u2013 Apprentice Programme - London - FICC & Equities - Sales & Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -227845,7 +227845,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "a9de3a0f-ef87-4438-9084-e0b8fac52c69",
         "title": "Sensor Performance and Data Processing Grad Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -330527,7 +330527,7 @@
         "company_name": "Capital Automotive Group",
         "id": "41512a85-88d1-49f4-b7da-0cf50c070761",
         "title": "Accessories Installation Technician",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -364303,7 +364303,7 @@
         "company_name": "Citi",
         "id": "e01c5611-8e53-41e1-a20f-f590acffdf55",
         "title": "Early ID Program - Application Development - Technology Spring 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
