@@ -327423,7 +327423,7 @@
         "company_name": "Autodesk",
         "id": "7393bd77-9cf0-4728-8fa4-68010be9ac30",
         "title": "Intern Software Developer - Stagiaire en D\u00e9veloppement Logiciel",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332892,7 +332892,7 @@
         "company_name": "GE Healthcare",
         "id": "f968e03f-64de-48e4-9a0a-8b182d07f1bb",
         "title": "Field Service Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -362380,7 +362380,7 @@
         "company_name": "CoorsTek",
         "id": "fadd996d-c540-4e77-a916-c03573b45525",
         "title": "Data and Analytics Intern 2",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364992,7 +364992,7 @@
         "company_name": "Vixxo",
         "id": "2bdaab8f-3608-4425-8cba-33be0b5e528e",
         "title": "Service Provider Analytics Intern \u2013 2026 Summer Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
