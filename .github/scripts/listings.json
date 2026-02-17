@@ -279821,7 +279821,7 @@
         "company_name": "Leidos",
         "id": "c1338f74-0702-4fbe-bdb4-9b70461b6662",
         "title": "Technical Graduate Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -299151,7 +299151,7 @@
         "company_name": "FocusKPI",
         "id": "be6828a5-5e40-4957-aa64-9b1131cdaf5b",
         "title": "AI Engineer Trainee",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -303321,7 +303321,7 @@
         "company_name": "Electronic Arts",
         "id": "dc6bddff-a77f-4efd-ad1f-75717089bcd8",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -306757,7 +306757,7 @@
         "company_name": "Leggett & Platt",
         "id": "6df90fe0-0a56-42ee-a66e-f1859ede5389",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -337048,7 +337048,7 @@
         "company_name": "Microsoft",
         "id": "7d2f4d2a-095a-4783-82f1-cb02fa15969c",
         "title": "Software Engineer: Co-Op Intern Opportunities",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -372953,6 +372953,30 @@
             "El Segundo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Skyryse",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Stoke Space",
+        "id": "62ea003a-c4c9-4452-8e1d-3de5fc406dd2",
+        "title": "Intern - Software",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1771321281,
+        "date_posted": 1770075392,
+        "url": "https://stokespace.com/careers/current-openings?gh_jid=5789407004",
+        "locations": [
+            "Kent, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Stoke-Space",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
