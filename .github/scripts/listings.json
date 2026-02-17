@@ -27205,30 +27205,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Leidos",
-        "id": "8a2ba987-83df-4d80-875e-60e75af69b30",
-        "title": "Apprentice Geolocation Operator - Active",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1750575893,
-        "date_posted": 1750575893,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Augusta-GA/Apprentice-Geolocation-Operator---Active_R-00153826",
-        "locations": [
-            "Augusta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1755638663,
         "url": "https://job-boards.greenhouse.io/figma/jobs/5602159004?gh_jid=5602159004",
         "company_name": "Figma",
@@ -315691,7 +315667,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333599,7 +333575,7 @@
         "company_name": "Cox",
         "id": "2e151594-0e1b-4706-88fd-01e8916d43b0",
         "title": "Business Strategy/Analytics Intern - Vauto",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -341447,7 +341423,7 @@
         "company_name": "John Deere",
         "id": "7228a173-2db5-4bb3-9677-47438ffd70b1",
         "title": "Part-Time Student - Engine Application Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -347942,7 +347918,7 @@
         "company_name": "Johnson & Johnson",
         "id": "b4114a5c-e0b8-4382-93c2-89339c32d4b4",
         "title": "Intern \u2013 Neuroscience & Digital Health",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -348711,7 +348687,7 @@
         "company_name": "Roche",
         "id": "32a4d298-4084-46d7-8d99-70cd9e323d96",
         "title": "2026 Summer Intern - Finance Insights and Data Analyst - Tucson",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368410,7 +368386,7 @@
         "company_name": "T-Mobile",
         "id": "df16e80a-7b9d-4472-a342-0f4a927be800",
         "title": "Associate Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368482,7 +368458,7 @@
         "company_name": "Amentum",
         "id": "1369258d-fa59-431d-b62e-55b703646ee2",
         "title": "SLS Mission Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -372911,6 +372887,53 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "493d964a-18ee-4627-ba96-37586487b635",
+        "title": "Intern - AN/TPY-2 Program Protection Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771313093,
+        "date_posted": 1771313093,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/XMLNAME-2026-Intern---AN-TPY-2-Program-Protection-Engineer_01824566",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "7515f211-86ad-415e-90a4-f2cc753674ab",
+        "title": "Applied Deep Learning Scientist Intern - Bio Foundation Model Research - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771312757,
+        "date_posted": 1771312757,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-Scientist-Intern--Bio-Foundation-Model-Research---Summer-2026_JR2007611",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
