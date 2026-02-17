@@ -361377,7 +361377,7 @@
         "company_name": "Prolaio",
         "id": "a808ac3b-472d-4394-92f3-279556d2a218",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -372934,6 +372934,30 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Skyryse",
+        "id": "cd0877a7-f9d8-4356-a559-8c7fba0abba4",
+        "title": "Flight Performance Engineering Intern - AI - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771313573,
+        "date_posted": 1771313573,
+        "url": "https://job-boards.greenhouse.io/skyryse/jobs/7342085",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Skyryse",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
