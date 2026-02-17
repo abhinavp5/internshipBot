@@ -157551,7 +157551,7 @@
         "company_name": "Northrop Grumman",
         "id": "41b65097-1460-48a4-8caa-cc7497b70e1f",
         "title": "2026 Software Intern-Colorado Springs CO",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -205896,7 +205896,7 @@
         "company_name": "Amazon",
         "id": "af9f102f-1e2d-49b2-a716-c5208e9be9b3",
         "title": "Member of Technical Staff Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -206964,7 +206964,7 @@
         "company_name": "IDeaS",
         "id": "d149d6a9-f6ff-4075-a7c0-cbd1b4464478",
         "title": "Data Scientist Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -227586,7 +227586,7 @@
         "company_name": "IXL Learning",
         "id": "9444b0da-c696-47b4-8878-1ba70fc46bd1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -239236,7 +239236,7 @@
         "company_name": "General Motors",
         "id": "7e86a379-e215-4667-bcfd-52debfedde32",
         "title": "Intern - Machine Learning Validation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -252759,7 +252759,7 @@
         "company_name": "Marvell",
         "id": "16d959d6-bb5f-4f6d-89df-813c4dd682d2",
         "title": "RTL Design Intern - Bachelor's Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -269387,7 +269387,7 @@
         "company_name": "Motorola",
         "id": "2682d4f1-2fb9-495a-bed3-46d5d16125fd",
         "title": "Summer 2026 Internship: Hardware Engineer Intern - Electrical or Mechanical",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -278343,7 +278343,7 @@
         "company_name": "Micron Technology",
         "id": "f3c11d3e-418c-462f-a6d4-f9bd42cb42e1",
         "title": "Intern Layout AI-Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -281018,7 +281018,7 @@
         "company_name": "Intapp",
         "id": "9b2ce76c-1738-4005-a95b-5da5ee4a2164",
         "title": "Associate Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -295426,7 +295426,7 @@
         "company_name": "Jones Lang LaSalle (JLL)",
         "id": "456dddaf-3532-4b0a-83f8-9a86d9fdc284",
         "title": "Technology Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -308568,7 +308568,7 @@
         "company_name": "National Renewable Energy Laboratory",
         "id": "5394334f-227c-45dd-8da5-96a27d425f3e",
         "title": "Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -318951,7 +318951,7 @@
         "company_name": "Nokia",
         "id": "5d4b69e6-999f-4dd1-863e-80c3299a8ccb",
         "title": "Automation \u2013 AI/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -337375,7 +337375,7 @@
         "company_name": "First Canadian Title",
         "id": "2497f5fa-ec27-4a8b-9304-0f027e85f262",
         "title": "Summer Student - IT RPA",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -339897,7 +339897,7 @@
         "company_name": "Advanced Energy",
         "id": "130594fc-6223-4f0a-bc47-69042e358577",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -348966,7 +348966,7 @@
         "company_name": "S&P Global ",
         "id": "1ce9b9a6-3491-45d7-919c-2e6c9540df85",
         "title": "Data Engineer Intern \u2013 Early Career",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -353417,7 +353417,7 @@
         "company_name": "Ciena",
         "id": "22c2332a-40e4-4fba-8264-fb5f942be1af",
         "title": "Waveserver Platform Software Developer Co-op - Summer - 8 months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -355763,7 +355763,7 @@
         "company_name": "Impinj",
         "id": "e1b56b5c-47b4-4356-a22b-d404e0f777b1",
         "title": "Data Science Intern - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -356400,7 +356400,7 @@
         "company_name": "Intuitive Surgical",
         "id": "00ab4fd7-88d2-4e68-8b37-4d2c09a1cc81",
         "title": "FPGA Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -358890,7 +358890,7 @@
         "company_name": "Centric Brands",
         "id": "a1ef6ee5-cbed-4d33-8aea-d9177a9074c0",
         "title": "Data Science & AI Intern \u2013 Summer 2026 Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -365065,7 +365065,7 @@
         "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
         "id": "9efb3575-6357-45a0-8956-94c688ac9259",
         "title": "Student 2 - Business Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -365539,7 +365539,7 @@
         "company_name": "Applied Materials",
         "id": "6ba686be-f3fa-4e87-a0ca-1e41dd48105b",
         "title": "Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
