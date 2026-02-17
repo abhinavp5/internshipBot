@@ -119599,7 +119599,7 @@
         "company_name": "GE Vernova",
         "id": "57598d70-58ae-4268-b4b7-71fa6e5842dd",
         "title": "GE Vernova Competitiveness Intern - Heavy Duty Gas Turbine Product Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -127586,7 +127586,7 @@
         "company_name": "Marvell",
         "id": "1b08f0d9-d86e-4f45-8f7b-ff5e8da246fd",
         "title": "Solutions Architecture Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -289325,7 +289325,7 @@
         "company_name": "Barry-Wehmiller",
         "id": "ccac83bf-c1e7-4d42-8332-a63902990789",
         "title": "Assembly Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -315013,7 +315013,7 @@
         "company_name": "Marvell",
         "id": "e3ebf9cd-e099-4be3-8f8d-146c2e4567f8",
         "title": "Solutions Architecture Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -340798,7 +340798,7 @@
         "company_name": "RTX",
         "id": "aa2b2287-2ed0-4401-aefe-086797c1ed71",
         "title": "Projet d\u2019\u00e9volution de l\u2019IA - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -361193,7 +361193,7 @@
         "company_name": "GE Vernova",
         "id": "07e46998-8894-4a27-8ef0-f09a14ae6e09",
         "title": "Robotics \u2013 Inspection Intern - Computer Vision",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -369449,7 +369449,7 @@
         "company_name": "Citi",
         "id": "df274575-8f6f-408f-8a36-21805ec29517",
         "title": "Early ID Program - Markets - Quantitative Analysis",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -373054,5 +373054,29 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "GE Vernova",
+        "id": "7646cd7b-86dd-449f-a291-76bf6dab8f64",
+        "title": "GE Vernova Competitiveness Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771334603,
+        "date_posted": 1771334603,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Atlanta/GE-Vernova-Competitiveness-Intern--Heavy-Duty-Gas-Turbine-Product-Management---Summer-2026_R5018855-1",
+        "locations": [
+            "Greenville, SC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
