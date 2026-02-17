@@ -18982,7 +18982,7 @@
         "company_name": "GE Appliances",
         "id": "fa45eba0-70e6-416e-a50a-4e6d7846bd7d",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -98532,7 +98532,7 @@
         "company_name": "SharkNinja",
         "id": "c08418ad-8c9c-462e-be48-cb07e4dd7068",
         "title": "Product Development Intern - Ninja",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -105526,7 +105526,7 @@
         "company_name": "CACI",
         "id": "ee8f2d6f-55aa-42bc-a91f-33d360864792",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -108156,7 +108156,7 @@
         "company_name": "Brevan Howard",
         "id": "f4001e18-f0bf-4dbe-b785-39ae3a7ff58d",
         "title": "2026 Summer Internship Programme - Macro Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -211833,7 +211833,7 @@
         "company_name": "Tenstorrent",
         "id": "48df2d21-e585-4dce-9ba8-060ff9e96bce",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -307008,7 +307008,7 @@
         "company_name": "RWS",
         "id": "1c4d8d25-46e8-4ab2-9cf7-6dc05d6ec04a",
         "title": "AI Data Specialist - Georgia - US",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -320903,7 +320903,7 @@
         "company_name": "Keysight Technologies",
         "id": "155463e0-8b92-4fd4-99a8-0bd5317e46cd",
         "title": "3D Print Technician",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -320971,7 +320971,7 @@
         "company_name": "National Renewable Energy Laboratory",
         "id": "7a5ca637-f7bb-446f-a991-09783f15e090",
         "title": "Undergraduate/Graduate \u2013 Intern - Summer - Cyber Mission Assurance",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -326083,7 +326083,7 @@
         "company_name": "ASML",
         "id": "33b72fed-a4b8-4ed7-82ab-2b20e0852d4c",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -333691,7 +333691,7 @@
         "company_name": "RWS",
         "id": "7a3377ca-626a-4cad-b254-aa29218eeac8",
         "title": "AI Data Specialist - North Carolina - US",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -335926,7 +335926,7 @@
         "company_name": "GE Appliances",
         "id": "f75f4a77-7c64-48b9-bfb5-c96cf96a0f5c",
         "title": "Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -347267,7 +347267,7 @@
         "company_name": "Autodesk",
         "id": "2a7c5f63-82a7-4bcc-b7e2-723c71e2fd8c",
         "title": "Intern Product Manager - Data Visualization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -362175,7 +362175,7 @@
         "company_name": "Kroll Bond Rating Agency",
         "id": "5a0920e4-5f49-45e3-a74a-00343ba60d6c",
         "title": "Intern - Quantitative Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370762,7 +370762,7 @@
         "company_name": "Gametime",
         "id": "ed28b331-9967-4cf8-8e74-198b25100944",
         "title": "Data Science Intern - Pricing Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -372825,7 +372825,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "29e8de0e-1422-4100-b885-56b6b63fe04a",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
