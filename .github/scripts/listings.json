@@ -120,27 +120,6 @@
         "category": "Software Engineering"
     },
     {
-        "date_updated": 1754478440,
-        "url": "https://nakisa.com/career-opportunities/?gh_jid=4590663101",
-        "company_name": "Nakisa",
-        "title": "Software Developer Intern",
-        "locations": [
-            "Montreal",
-            "Quebec, Canada"
-        ],
-        "terms": [
-            "Fall 2025"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "GaryZhous",
-        "id": "59029780-d67d-4195-97b4-87c8323d4df6",
-        "date_posted": 1750558409,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Software Engineering"
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Equinox",
@@ -277190,7 +277169,7 @@
         "company_name": "SCS Engineers",
         "id": "6077c43d-0355-4c9b-a06d-342504a7f653",
         "title": "Environmental Sustainability Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -302311,7 +302290,7 @@
         "company_name": "Oracle",
         "id": "ae09b4db-4f1a-4d58-8067-d048c287b9c5",
         "title": "Java Student Developer Advocate",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -303023,7 +303002,7 @@
         "company_name": "Eli Health",
         "id": "2d31027f-e6b6-4771-84ac-f0a1403d0454",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -315712,7 +315691,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -331199,7 +331178,7 @@
         "company_name": "Zebra Technologies",
         "id": "a69b7abb-0fc4-4dcc-90ca-80a05800daea",
         "title": "2026 \u2013 Internship - 16-Month - Canada",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -341468,7 +341447,7 @@
         "company_name": "John Deere",
         "id": "7228a173-2db5-4bb3-9677-47438ffd70b1",
         "title": "Part-Time Student - Engine Application Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -362953,7 +362932,7 @@
         "company_name": "Motorola",
         "id": "ffc4d025-24c3-47a1-985d-4ffe1eba7f48",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -372862,6 +372841,76 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Schweitzer Engineering Laboratories",
+        "id": "29e8de0e-1422-4100-b885-56b6b63fe04a",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771296524,
+        "date_posted": 1771296524,
+        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Data-Analyst-Intern_2026-19668",
+        "locations": [
+            "Moscow, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/SEL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "869c6124-e2d3-40d4-8c64-ad392dda3d10",
+        "title": "Internship - Month PEY - Tech. Support','Atts",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1771296144,
+        "date_posted": 1771296144,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship---16-month--PEY---Tech-Support--ATTS-_01823159",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "da9a617c-9e5b-4f9d-aaec-fc87d0cc1fc2",
+        "title": "Data Engineer Project Intern - Data Governance Data Cycling Center - 2026 Start','BS/MS",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1771295301,
+        "date_posted": 1771295301,
+        "url": "https://lifeattiktok.com/search/7607589832285899061",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
