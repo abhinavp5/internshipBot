@@ -235126,7 +235126,7 @@
         "company_name": "Microchip Technology",
         "id": "9cdb0c27-0676-4ab8-9018-1ba02684ee68",
         "title": "Intern-Engineering - Test",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -289461,7 +289461,7 @@
         "company_name": "Genentech",
         "id": "7a78f29c-64c3-46fa-a4b4-b64331bf648b",
         "title": "Research Intern - Braid",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -294400,7 +294400,7 @@
         "company_name": "Paccar",
         "id": "e4cc4cfa-c297-45c8-bb19-c264e0494145",
         "title": "Intern - Advanced Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -324877,7 +324877,7 @@
         "company_name": "BC Pensions",
         "id": "b384a0b0-dae6-4327-9095-badfd0de9178",
         "title": "Application Developer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -337268,7 +337268,7 @@
         "company_name": "Strathcona County",
         "id": "540a7267-411d-4d56-92f2-8c75cbe4bf62",
         "title": "GIS Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -345630,7 +345630,7 @@
         "company_name": "Zoom",
         "id": "cf32ea45-799a-4673-93b8-d52b2eabe844",
         "title": "Research Intern - Quality & Safety - AI Safety",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -365160,7 +365160,7 @@
         "company_name": "RTX",
         "id": "57a4ffdb-284b-47f3-b24f-da154dc8de44",
         "title": "2026 Intern \u2013 Software Engineer Intern - CO",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -367040,7 +367040,7 @@
         "company_name": "Genentech",
         "id": "33d43da0-04ba-4794-acc3-1734824015b9",
         "title": "2026 Summer Intern - Product Development Global Clinical Operations - Analytics & Portfolio Optimization",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -367208,7 +367208,7 @@
         "company_name": "Kodak",
         "id": "35728921-ce10-48e9-94b5-a4dca3bbf76b",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -370263,7 +370263,7 @@
         "company_name": "RTX",
         "id": "28c53cda-e988-46b4-8309-4f7648ece0dd",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371624,7 +371624,7 @@
         "company_name": "RTX",
         "id": "da25c969-4c7b-4270-aebe-aef363fd5b40",
         "title": "Stage \u2013 Gestion des programmes / Internship - \u00c9t\u00e9 2026 - Summer 2026/Operations Program Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -372983,5 +372983,76 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NV5 Global",
+        "id": "cfa86f44-fcdf-4b4f-ae59-00f390260154",
+        "title": "Geospatial Technician \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771322394,
+        "date_posted": 1768956244,
+        "url": "https://careers-nv5.icims.com/jobs/11662/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/NV5-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boston Consulting Group",
+        "id": "4da69189-8815-49b8-bdb2-3f7d951cb756",
+        "title": "Female Talent Intern - BCG Platinion - All genders",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1771323288,
+        "date_posted": 1764301258,
+        "url": "https://careers.bcg.com/global/en/job/726",
+        "locations": [
+            "Stuttgart, Germany",
+            "Munich, Germany",
+            "Berlin, Germany",
+            "Neukirchen-Vluyn, Germany",
+            "Wenden, Germany",
+            "Frankfurt, Germany",
+            "Hamburg, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Heron Data",
+        "id": "789ab671-36e8-4c05-b6ce-b3f306715830",
+        "title": "Forward Deployed Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1770765264,
+        "date_posted": 1770765264,
+        "url": "https://jobs.ashbyhq.com/herondata/48021746-0107-4f6f-8923-afa4ca21a23c/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Heron-Data",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
