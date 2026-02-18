@@ -121,26 +121,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Target",
-        "id": "d97b9f55-f5e7-4a36-8ae7-dace031003de",
-        "title": "Technology Leadership Program",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1750695532,
-        "date_posted": 1750695532,
-        "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Current-Interns-Only--Technology-Leadership-Program-Summer-2025-Intern-Posting_R0000395491",
-        "locations": [
-            "Brooklyn Park, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Target",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Sensata",
         "id": "2d55b0c5-b733-42e8-a3b0-12bcdfd6fe55",
@@ -315583,7 +315563,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -356807,7 +356787,7 @@
         "company_name": "Sun Life",
         "id": "b32fda88-f02f-4b91-ab07-6efbe4ca8a71",
         "title": "Student Gen AI Engineer - SLC Management",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -366089,7 +366069,7 @@
         "company_name": "CAE",
         "id": "3656600f-d6fa-4d94-b14c-b7c1ab1a4f1c",
         "title": "Software Engineer Co-op - Flight Controls & Motion",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376377,6 +376357,228 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Proofpoint",
+        "id": "2e5a9cb7-d81a-469e-a08e-03130727fd7c",
+        "title": "Software Engineering Intern - Summer - Weeks",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771430059,
+        "date_posted": 1771430059,
+        "url": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Toronto-Canada/Software-Engineering-Intern--Summer--10-weeks-_R13716",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Proofpoint",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Abbott",
+        "id": "905e2d1e-6c1b-49a4-bc94-7172e663a877",
+        "title": "Co-op Student - Diabetes Care",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771429654,
+        "date_posted": 1771429654,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Canada---Ontario---Mississauga/Coop-Student---Diabetes-Care--Mississauga--Ontario-_31142300",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "The Walt Disney Company",
+        "id": "e0f1ed00-77ba-4af8-9be5-12ce54f0fb28",
+        "title": "Product Manager Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771429604,
+        "date_posted": 1771429604,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Product-Manager-Intern--Summer-2026_10139796-1",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "The Walt Disney Company",
+        "id": "269c90b0-04b4-45fe-902c-b15f8eedf040",
+        "title": "Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771429605,
+        "date_posted": 1771429605,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Orlando-FL-USA/Product-Manager-Intern--Summer-2026_10139796-2",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lumentum",
+        "id": "c2b1dad5-eae1-44ff-9f5e-aa421a5e1aa4",
+        "title": "Liquid Crystal on Silicon Research Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771428943,
+        "date_posted": 1771428943,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Liquid-Crystal-on-Silicon-Research-Co-op-Intern_2026116",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Lumentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sensata",
+        "id": "27f52c46-e7b3-440c-89cb-c8696f64f974",
+        "title": "Apprentice MMT",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771428926,
+        "date_posted": 1771428926,
+        "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Antrim-United-Kingdom/Apprentice-MMT_IRC96827",
+        "locations": [
+            "Northern Ireland, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/sensata-tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CFD Research Corporation",
+        "id": "06cd2188-16b2-420c-98ec-f7208a46b75e",
+        "title": "Intern \u2013 Machine Learning for Computer Vision",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771428934,
+        "date_posted": 1771428934,
+        "url": "https://www.cfd-research.com/jobs?gh_jid=4135875009",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/CFD-Research-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "United Therapeutics Corporation",
+        "id": "3751a5e1-e41e-4b6d-af27-aa0146c7014d",
+        "title": "Intern \u2013 Engineering Programs",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771428783,
+        "date_posted": 1771428783,
+        "url": "https://vhr-unither.wd5.myworkdayjobs.com/External/job/Bromont-QC/Intern---Engineering-Programs-UTODS_R04687",
+        "locations": [
+            "Sherbrooke, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Therapeutics-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ivalua",
+        "id": "e142108a-f7cd-48a8-9390-79b3b05b999d",
+        "title": "Customer Application Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771428692,
+        "date_posted": 1771428692,
+        "url": "https://boards.greenhouse.io/ivalua/jobs/7614940",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/ad048830-3daa-4873-8fb3-0dc7481a85eb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Garda Capital Partners",
+        "id": "d5751d94-803e-44a8-9693-90bc73ab8725",
+        "title": "Markets Analyst - Cross Asset",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771429150,
+        "date_posted": 1771371754,
+        "url": "https://job-boards.greenhouse.io/gardacp/jobs/4933962004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Garda-Capital-Partners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
