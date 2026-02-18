@@ -122,26 +122,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Equinox",
-        "id": "2c60ebc9-a273-4171-8cad-a6b408fab229",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1750670212,
-        "date_posted": 1750670212,
-        "url": "https://jobs.smartrecruiters.com/Equinox/744000064738437",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Equinox",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Celonis",
         "id": "e143d061-c6d8-4d79-8e8d-89128632ae0b",
         "title": "Intern Software Engineer",
@@ -199412,30 +199392,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Olive",
-        "id": "ecb63ad6-257b-46d5-bf65-5734f389ce92",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Fall 2025",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1761933826,
-        "date_posted": 1750670016,
-        "url": "https://jobs.ashbyhq.com/olive/113c9846-0310-44f1-bf10-4a8fed8c53be/application",
-        "locations": [
-            "SF",
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Olive",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "6b627660-4b30-4447-a7f9-07b356553845",
@@ -347983,7 +347939,7 @@
         "company_name": "Genentech",
         "id": "82f97eee-2b40-4ac0-b22a-e8775467a37d",
         "title": "2026 Summer Intern - Clinical Insights and Automation - Early Clinical Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -350921,7 +350877,7 @@
         "company_name": "Genentech",
         "id": "fbb0b10d-8f67-4195-a6d8-a64821e88d05",
         "title": "2026 Summer Intern - Itot",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
