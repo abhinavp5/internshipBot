@@ -47396,7 +47396,7 @@
         "company_name": "The Travelers Companies",
         "id": "9d701039-dfd2-49e0-8201-a48f25db68ee",
         "title": "Engineering Development Program \u2013 Intern - Edp",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -216453,7 +216453,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Visa",
-        "id": "0ed6cb36-9c49-457e-987a-0bd0bf11e256",
+        "id": "a010f1f2-6a04-4d2b-8281-df27a33235b0",
         "title": "Software Engineer Intern",
         "active": true,
         "terms": [
@@ -245518,7 +245518,7 @@
         "company_name": "MongoDB",
         "id": "11ba0a85-1952-404c-a943-7c066930047d",
         "title": "2026 \u2013 Product Management Intern - US",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -269754,9 +269754,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1766409866,
+        "date_updated": 1771427587,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -275522,7 +275522,7 @@
         "company_name": "Nokia",
         "id": "0ef79c75-29ca-4ef2-a54f-39e442684037",
         "title": "Physical AI Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -330378,7 +330378,7 @@
         "company_name": "Capital Automotive Group",
         "id": "41512a85-88d1-49f4-b7da-0cf50c070761",
         "title": "Accessories Installation Technician",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -332492,7 +332492,7 @@
         "company_name": "Franklin Templeton",
         "id": "11c66074-0321-4aad-91ad-d94170510a88",
         "title": "Product Management and Investor Relations Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -356602,7 +356602,7 @@
         "company_name": "CIBC",
         "id": "188e0a98-58ff-4bfa-9802-0e104605c644",
         "title": "Digital Product Specialist Co-op - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -367979,7 +367979,7 @@
         "company_name": "Abacus Insights",
         "id": "ff59d88c-1b09-4813-88cf-1a6462e8277f",
         "title": "Data Engineer Intern \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368938,7 +368938,7 @@
         "company_name": "Guggenheim",
         "id": "c228d673-30bd-41eb-bfc7-6da22d9a40bf",
         "title": "Quantitative Investment Analyst - Total Return Team",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -373562,7 +373562,7 @@
         "company_name": "Vermeer",
         "id": "75ec7775-797d-46c0-9add-b444d8e239c2",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376140,6 +376140,243 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "ea2c4a43-bf51-46d5-a871-6ae1445ce9b7",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771425306,
+        "date_posted": 1771425306,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Zug-Switzerland/Data-science-intern_R-058777",
+        "locations": [
+            "New Hope, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Proofpoint",
+        "id": "0f8ff6f7-a204-427a-bb97-2d46968edcfa",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771425319,
+        "date_posted": 1771425319,
+        "url": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Toronto-Canada/Software-Engineering-Intern--Summer--10-weeks-_R13717",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Proofpoint",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "date_updated": 1771427429,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://wavetronix.breezy.hr/p/b89da1eae7f3-computer-science-internship-summer-2026",
+        "company_name": "Wavetronix",
+        "title": "Computer Science Internship",
+        "locations": [
+            "Springville, UT"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "Saugatsaugat",
+        "id": "a430687a-9bfd-47b1-b481-8713f4e857b3",
+        "date_posted": 1771427429,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Manulife Financial",
+        "id": "d78af535-e89a-4b29-aac8-81b8a1ab7281",
+        "title": "Intern/Co-op - Full Stack Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771428275,
+        "date_posted": 1771428275,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Summer-Intern-Co-op-2026---Full-Stack-Software-Engineer_JR26021041",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Manulife-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "af9e6893-7082-4d03-aa4c-14b6ec6841fb",
+        "title": "Data Architecture & Governance Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771428146,
+        "date_posted": 1771428146,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Data-Architecture---Governance-Intern_R-00176162",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "549324d4-0eba-4d5f-bbfe-0a5cda1a8788",
+        "title": "PhD Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771428037,
+        "date_posted": 1771428037,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation-2026_JR2006536",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Hartford ",
+        "id": "f5181074-384d-44ec-a2d5-2693b318b854",
+        "title": "Data and Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771427873,
+        "date_posted": 1771427873,
+        "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-and-Analytics-Intern_R2624155",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Hartford-Financial-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Franklin Templeton",
+        "id": "8cbd8cc3-868f-4b3f-a83c-3d2ef1c39fb7",
+        "title": "Analytics Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1771427798,
+        "date_posted": 1771427798,
+        "url": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Baltimore-Maryland-United-States-of-America/Analytics-Engineering_866756",
+        "locations": [
+            "Baltimore, MD",
+            "Fort Lauderdale, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Franklin-Templeton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Thomson Reuters",
+        "id": "8f637d0b-eb09-4bfb-8875-fa6166bb6de2",
+        "title": "Research Scientist Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1771427403,
+        "date_posted": 1771427403,
+        "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom-London/Research-Scientist-Intern_JREQ198484",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thomson-Reuters",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "2c78d5df-2090-4cba-974c-dbfd42aea222",
+        "title": "Data Engineer Internship - UK - Amazon University Talent Acquisition','Auta",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1771427339,
+        "date_posted": 1771427339,
+        "url": "https://amazon.jobs/en/jobs/3183839/data-engineer-internship-uk-amazon-university-talent-acquisition-auta",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
