@@ -121,26 +121,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Sensata",
-        "id": "2d55b0c5-b733-42e8-a3b0-12bcdfd6fe55",
-        "title": "Intern MSD Placement",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1750719219,
-        "date_posted": 1750719219,
-        "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Newtownabbey-United-Kingdom/Intern-MSD-Placement_IRC95486",
-        "locations": [
-            "Belfast, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/sensata-tech",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "KBR",
         "id": "6dbfd0c3-ef9b-4461-8b00-609576f7af35",
@@ -93963,7 +93943,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "9fb84a09-0850-4c8c-b93e-be00a1c7799a",
         "title": "Wireless Driver Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -161276,7 +161256,7 @@
         "company_name": "Kodiak Robotics",
         "id": "40166905-577d-4e40-abd5-a128a223a8a5",
         "title": "Summer 2026 Intern - Simulation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -183300,7 +183280,7 @@
         "company_name": "Prologis",
         "id": "4c9fee9f-8e85-45ce-837a-39accd4588c4",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -228330,7 +228310,7 @@
         "company_name": "Waymo",
         "id": "077d6a87-731c-4926-9d4c-f88a4570f78a",
         "title": "Intern - ML Training Infra and Efficiency",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -281985,7 +281965,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "28a5242e-0479-4fcc-b429-3cc051bb05b3",
         "title": "Technology Intern/Co-op with Drexel University",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -290222,7 +290202,7 @@
         "company_name": "Auto Club Group ",
         "id": "07d4fae0-e086-4052-900c-10a126ef3c7d",
         "title": "Data Strategy Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -317903,7 +317883,7 @@
         "company_name": "Nokia",
         "id": "04ce327e-d5c2-461d-b3a4-8b8ee681afcd",
         "title": "Hardware Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -331799,7 +331779,7 @@
         "company_name": "Amentum",
         "id": "35386484-f327-43d0-913f-0821555f6968",
         "title": "Software Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -332747,7 +332727,7 @@
         "company_name": "Sun Life",
         "id": "a53b94fc-27b6-4744-819b-ef48bf608dd9",
         "title": "Student - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -351978,7 +351958,7 @@
         "company_name": "Hitachi",
         "id": "691e23da-8f92-4db3-9ada-4a9937deff7c",
         "title": "Site Deployment \u2013 Intern - 4 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -358417,7 +358397,7 @@
         "company_name": "CAE",
         "id": "9b456530-f878-4d77-9469-e18d9dcd1313",
         "title": "Software Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -359581,7 +359561,7 @@
         "company_name": "Prolaio",
         "id": "fa92a9c8-b99c-4f62-a51a-22c5467c3f32",
         "title": "Analytics Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -360426,7 +360406,7 @@
         "company_name": "Applied Materials",
         "id": "442a8c25-7503-4bb3-a085-203cfe6a10bf",
         "title": "Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -362597,7 +362577,7 @@
         "company_name": "Applied Materials",
         "id": "2742490c-4396-4276-9105-d85871a2270c",
         "title": "2026 Summer Reverse Value Chain Operations Inter-Bachelor's - Austin - TX",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -368258,7 +368238,7 @@
         "company_name": "Cadence Design Systems",
         "id": "0ddad684-f445-4ca4-93c4-4c41aca21221",
         "title": "Graduate Student Intern - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368330,7 +368310,7 @@
         "company_name": "Cadence Design Systems",
         "id": "2fcc45e3-4ff7-4b2a-853a-fe848038dbe1",
         "title": "Graduate Student Intern - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -369807,7 +369787,7 @@
         "company_name": "Rivian",
         "id": "3b531f10-36b9-43dc-bd6a-cf961f290f0a",
         "title": "Software Engineering Intern - Autonomy Controls",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370801,7 +370781,7 @@
         "company_name": "Analog Devices",
         "id": "247e2565-ec2c-4cbe-a227-4a99e7005dff",
         "title": "Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -374219,7 +374199,7 @@
         "company_name": "Cotiviti",
         "id": "d6f0a7e2-2a57-476e-a749-f6faa7275cb1",
         "title": "Intern System Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
