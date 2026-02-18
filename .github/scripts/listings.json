@@ -122,46 +122,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Celonis",
-        "id": "e143d061-c6d8-4d79-8e8d-89128632ae0b",
-        "title": "Intern Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1750675289,
-        "date_posted": 1750675289,
-        "url": "https://job-boards.greenhouse.io/celonis/jobs/6611889003?gh_jid=6611889003",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Celonis",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sentry",
-        "id": "c413b274-a237-452e-9b03-30437c15c996",
-        "title": "Software Engineer \u2013 Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1750675082,
-        "date_posted": 1750675082,
-        "url": "https://jobs.ashbyhq.com/sentry/199f9e4a-9e24-4880-aa12-5c3040bcfd5b/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Sentry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Target",
         "id": "d97b9f55-f5e7-4a36-8ae7-dace031003de",
         "title": "Technology Leadership Program",
@@ -73090,7 +73050,7 @@
         "company_name": "RESPEC",
         "id": "67697e1a-0800-4b63-894c-a9f03c6054b8",
         "title": "Student Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -115562,7 +115522,7 @@
         "company_name": "RESPEC",
         "id": "cb5e43ba-13a7-4377-b35e-62bfb1dc2d76",
         "title": "Student Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -230586,7 +230546,7 @@
         "company_name": "Redis",
         "id": "54f9bb37-4627-4cab-9741-a135d985bc32",
         "title": "AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -280042,7 +280002,7 @@
         "company_name": "Electronic Arts",
         "id": "0221c58e-86f6-4029-b9da-cfb675957e80",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -310058,7 +310018,7 @@
         "company_name": "Hitachi",
         "id": "e3d2586b-44a3-4396-b64c-c88a86d29e87",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -331528,7 +331488,7 @@
         "company_name": "Cotiviti",
         "id": "35fd9942-c677-4567-9952-955b63e1f1b9",
         "title": "Intern \u2013 Technology Solutions Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -337201,7 +337161,7 @@
         "company_name": "University Health Network",
         "id": "732eb41e-6f38-461e-ad70-891160ee752f",
         "title": "Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -350375,7 +350335,7 @@
         "company_name": "Tenstorrent",
         "id": "83324e0a-110c-4657-980d-06e0e52be366",
         "title": "IP Design Verification - Pey",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -353006,7 +352966,7 @@
         "company_name": "University Health Network",
         "id": "ef4443a9-7970-4665-beef-dce9fa6c933c",
         "title": "Research Summer Student 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -358984,7 +358944,7 @@
         "company_name": "Keysight Technologies",
         "id": "e92a0960-8b8d-4b54-b8a0-1e1f284a382b",
         "title": "Intern Tech 1",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -360828,7 +360788,7 @@
         "company_name": "Faculty AI",
         "id": "f5e510ee-4c7f-4a0b-b009-217ae6e5b564",
         "title": "UK Defence Veterans - Civilian Work Attachment",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -365309,7 +365269,7 @@
         "company_name": "Uber",
         "id": "03fa4121-7ead-480f-b51c-6327e49b457e",
         "title": "PhD Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -369846,7 +369806,7 @@
         "company_name": "Parallel Wireless",
         "id": "55f88795-0964-4913-ad5d-d30146bee4af",
         "title": "PHY SW Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370052,7 +370012,7 @@
         "company_name": "SAS",
         "id": "1880b0fd-952d-40ef-aaa6-44a926fe9592",
         "title": "Advance Analytics Curriculum Development Masters Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376066,6 +376026,73 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Deloitte",
+        "id": "83d433ea-9f42-430e-ace7-8fda96b64395",
+        "title": "Hiring Our Heroes 12-Week Fellowship - AI & Engineering - Government Public Services",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1771411906,
+        "date_posted": 1771411906,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Hiring-our-Heroes-12-week-Fellowship-AI-Engineering-Government-Public-Services/324492",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "103e964c-f863-44c2-b559-b90efef2fc87",
+        "title": "Software Development Engineer Apprentice - Month Fixed Term Contract",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771411137,
+        "date_posted": 1771411137,
+        "url": "https://amazon.jobs/en/jobs/3174943/software-development-engineer-apprentice-42-month-fixed-term-contract",
+        "locations": [
+            "Swansea, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Keysight Technologies",
+        "id": "63d02fbc-a3f0-4da7-948f-7b9c97209712",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771410853,
+        "date_posted": 1771410853,
+        "url": "https://jobs.keysight.com/jobs/51347?lang=en-us&icims=1",
+        "locations": [
+            "Fleet, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
