@@ -176515,7 +176515,7 @@
         "company_name": "Electronic Arts",
         "id": "c3cbf146-3965-4cfb-bf5c-8916be1c1a24",
         "title": "Software Engineering Co Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -325422,7 +325422,7 @@
         "company_name": "Paccar",
         "id": "089734ea-7295-432d-9315-a685d96dcb41",
         "title": "Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -363181,7 +363181,7 @@
         "company_name": "Keysight Technologies",
         "id": "a7182129-c916-40e4-b71a-2d598d7ba681",
         "title": "Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364353,7 +364353,7 @@
         "company_name": "PG&E",
         "id": "9deeb8c3-2241-497f-ba26-2ad9816cbf17",
         "title": "Data Scientist Intern - Grid Reliability & Predictive Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -366197,7 +366197,7 @@
         "company_name": "Microsoft",
         "id": "b003c864-59dc-43d8-8014-f9eb9c051501",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370956,7 +370956,7 @@
         "company_name": "Genentech",
         "id": "728bfe56-8d4e-438a-9320-ffc8e2abf8a0",
         "title": "MECOP 2026 Spring/Summer Intern - Automation Systems & Digital Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -376040,6 +376040,32 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Stoke Space",
+        "id": "e13f727c-d75a-4a9a-a83d-f55cb0f9b841",
+        "title": "Intern - Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1771407916,
+        "date_posted": 1770075396,
+        "url": "https://stokespace.com/careers/current-openings?gh_jid=5750263004",
+        "locations": [
+            "Kent, WA",
+            "Quincy, WA",
+            "Cape Canaveral, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Stoke-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
