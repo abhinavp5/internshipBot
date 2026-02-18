@@ -193288,7 +193288,7 @@
         "company_name": "NBCUniversal",
         "id": "1a83070c-f8f0-46fc-8625-576812b55dc6",
         "title": "Media Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Summer 2027"
@@ -211312,7 +211312,7 @@
         "company_name": "Parsons",
         "id": "7a601736-aae7-45d5-8feb-95a89d2035a3",
         "title": "Identity Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -231548,7 +231548,7 @@
         "company_name": "Rivian",
         "id": "fead194f-1bea-4ba5-82f5-0b8ae3c41df1",
         "title": "Technical Product Management \u2013 MBA Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -257544,7 +257544,7 @@
         "company_name": "Intuitive Surgical",
         "id": "137ccb0c-9c5a-4586-a6f2-6442b0a54354",
         "title": "IT Business Applications Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -260226,7 +260226,7 @@
         "company_name": "Nokia",
         "id": "7afa12b7-ae28-459e-999a-edce9ba2de91",
         "title": "Bell Labs AI-RAN Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -366672,7 +366672,7 @@
         "company_name": "AECOM",
         "id": "0921a0b1-47ca-47b0-a2c6-64f890bab77a",
         "title": "GIS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
