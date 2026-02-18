@@ -318890,7 +318890,7 @@
         "company_name": "PennState University",
         "id": "a0ac07b2-42d3-4e54-9325-aaa9caf4438a",
         "title": "Undergraduate Cartographer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -363024,7 +363024,7 @@
         "company_name": "UiPath",
         "id": "b8ec3397-bda7-480f-96ff-ac2fc9861c11",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -373980,7 +373980,7 @@
         "company_name": "Amgen",
         "id": "cc0eddf7-88e0-428f-8b94-8d9da060dfca",
         "title": "Grad Intern - CD&a Data Science Program - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -375312,7 +375312,7 @@
         "company_name": "Royal Caribbean Group",
         "id": "051760ad-4f30-4fcb-b160-bf0e3aa8f9d5",
         "title": "SACC Intern  Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
