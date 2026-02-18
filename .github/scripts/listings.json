@@ -53207,7 +53207,7 @@
         "company_name": "Qualcomm",
         "id": "edec5f96-0a62-4833-9ed3-7753cf61bf78",
         "title": "Product Management Internship - Interim Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -306644,7 +306644,7 @@
         "company_name": "John Deere",
         "id": "1162ee7c-8e4b-49e5-97a6-1c4b420d7bad",
         "title": "Part-Time Student - Advanced Engineering - Radar Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -315667,7 +315667,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -349083,7 +349083,7 @@
         "company_name": "KLA",
         "id": "26805e68-c29a-4153-b49a-b4a17e9ce780",
         "title": "AI Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -349525,7 +349525,7 @@
         "company_name": "Johnson & Johnson",
         "id": "317f491d-616b-42fd-ac38-18f0ea21b2bd",
         "title": "Supply Chain and Data Management Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -360962,7 +360962,7 @@
         "company_name": "The Walt Disney Company",
         "id": "7931efd9-0492-4347-a9d2-5f97ac60b255",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -360986,7 +360986,7 @@
         "company_name": "The Walt Disney Company",
         "id": "367d929f-790a-4d3c-a997-79afefb969dc",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -365020,7 +365020,7 @@
         "company_name": "RTX",
         "id": "b25284fc-00a0-4e15-8fc3-3395a763afd7",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -375944,6 +375944,122 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Orthofix",
+        "id": "a435c1dc-db16-46d9-8e32-9a23d2735ed5",
+        "title": "Intern \u2013 Product Manager - Thoracolumbar-Fixation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771398963,
+        "date_posted": 1771398963,
+        "url": "https://orthofix.wd1.myworkdayjobs.com/external_careers/job/Carlsbad/Intern---Product-Manager--Thoracolumbar-Fixation-_OFX26094",
+        "locations": [
+            "Carlsbad, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Orthofix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "3S Business Corporation",
+        "id": "f6cba027-4f6a-4213-adf2-a739bf808dde",
+        "title": "Free training on SP - Sap Abap - MM','SD','Java','Dot Net','Oracel','Business Anolyisit",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1771398456,
+        "date_posted": 1771398456,
+        "url": "https://jobs.smartrecruiters.com/3SBusinessCorporationInc1/81011575",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/3S-Business-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "3S Business Corporation",
+        "id": "963e9570-553a-495b-86bd-f38700c97580",
+        "title": "ABAP Training and Placement - Multiple Teams",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1771398457,
+        "date_posted": 1771398457,
+        "url": "https://jobs.smartrecruiters.com/3SBusinessCorporationInc1/81201508",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/3S-Business-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "3S Business Corporation",
+        "id": "6fefbc10-1d16-4a4a-ba97-4beb6effc11c",
+        "title": "iOS Training and Placement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1771398466,
+        "date_posted": 1771398466,
+        "url": "https://jobs.smartrecruiters.com/3SBusinessCorporationInc1/84341200",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/3S-Business-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "3S Business Corporation",
+        "id": "3ecfbad3-fa97-43e0-b3ef-81467ecd2985",
+        "title": "Graduate Training and Placement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1771398482,
+        "date_posted": 1771398482,
+        "url": "https://jobs.smartrecruiters.com/3SBusinessCorporationInc1/81265072",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/3S-Business-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
