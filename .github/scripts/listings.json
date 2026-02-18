@@ -136776,7 +136776,7 @@
         "company_name": "BNY",
         "id": "8ae9566a-bcb3-4475-960b-77fc905022aa",
         "title": "Business Operations Intern/Co-op - Product and Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -315583,7 +315583,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -340506,7 +340506,7 @@
         "company_name": "RTX",
         "id": "f1aa57ff-e315-4c40-995f-3ccb0323c121",
         "title": "Stage \u2013 Science des donn\u00e9es et Analytique d\u2019affaires / Internship - \u00c9t\u00e9 2026 - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -362160,7 +362160,7 @@
         "company_name": "AAA Club Alliance",
         "id": "aca1bf96-0570-4154-8a0f-16627f2d6adf",
         "title": "IT Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -369313,7 +369313,7 @@
         "company_name": "Denver",
         "id": "817cea52-3ef2-41ab-97b7-d8fe7ccfeed9",
         "title": "Innovation Project Associate Intern - Analytics and Innovation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -370555,7 +370555,7 @@
         "company_name": "GE Vernova",
         "id": "fd614b40-3a6a-4c73-84cb-ff9848e548f4",
         "title": "GE Vernova Grid Solutions \u2013 Hardware Engineering Intern - Critical Infrastructure Communications",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -370629,7 +370629,7 @@
         "company_name": "GE Vernova",
         "id": "0ec6d69f-f4c5-4984-ab6e-6f970b02a043",
         "title": "GE Vernova Grid Solutions \u2013 Hardware Engineering Intern - Critical Infrastructure Communications",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -376117,6 +376117,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zoom",
+        "id": "ebc13604-3a1d-4ff4-b4f9-6419beb75f20",
+        "title": "Research Intern - AI Incubation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771418212,
+        "date_posted": 1771418212,
+        "url": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Research-Intern---AI-Incubation_R18549-1",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoom",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
