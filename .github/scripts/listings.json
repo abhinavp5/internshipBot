@@ -19600,7 +19600,7 @@
         "company_name": "American Express",
         "id": "1a638e09-e313-47e4-90bf-92b6362c5111",
         "title": "Campus Undergraduate Summer Internship Program - 2026 Software Engineer - Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -19623,7 +19623,7 @@
         "company_name": "American Express",
         "id": "006bf013-2ac3-4cf1-8f83-99ac30b9fc89",
         "title": "Campus Undergraduate Summer Internship Program - 2026 Software Engineer - Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -338548,7 +338548,7 @@
         "company_name": "HCSC",
         "id": "97db784b-4f19-495f-8459-01d026f93028",
         "title": "Data Science Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -343107,7 +343107,7 @@
         "company_name": "AVEVA",
         "id": "849bc295-38bd-484a-bd36-b88e6674c363",
         "title": "Services Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -353363,7 +353363,7 @@
         "company_name": "CIBC",
         "id": "25b6fc9a-a5e0-4dc7-ab7b-dd7657aa10e5",
         "title": "Data Analyst \u2013 Summer 2026 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364160,7 +364160,7 @@
         "company_name": "Jones Lang LaSalle (JLL)",
         "id": "7469bc58-10f4-4160-bc41-3b49d0085d4b",
         "title": "Capital Markets Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -372278,7 +372278,7 @@
         "company_name": "QTS",
         "id": "aca4eff1-c735-4711-aa06-d4b8f8a9e59e",
         "title": "Software Enhancements and Automation Intern - Software Development and DevOps",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -372587,7 +372587,7 @@
         "company_name": "RTX",
         "id": "86cdaf7a-25f1-4e2d-8079-dd4adf398dec",
         "title": "Intern - Systems Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -373339,7 +373339,7 @@
         "company_name": "RTX",
         "id": "98167333-72e5-4535-9786-0f5c514a1d3e",
         "title": "Crypto Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -374730,7 +374730,7 @@
         "company_name": "RTX",
         "id": "cf9b2b34-77f0-4e38-82ed-fa9dd4fc5ffb",
         "title": "Software Engineering Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -378412,7 +378412,7 @@
         "company_name": "Centene",
         "id": "5a015e40-1b24-432e-9ca8-adc77b123500",
         "title": "Application Development Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -378902,6 +378902,96 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LMI ",
+        "id": "cfdd4f67-6196-4bfe-8f9b-4f26e3ccb206",
+        "title": "Data Science Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771484730,
+        "date_posted": 1771484730,
+        "url": "https://careers-lmi.icims.com/jobs/13682/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/LMI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BlinqLABS",
+        "id": "8adf8a0f-8e62-4272-a4ac-197b91e8bb67",
+        "title": "Java Web Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771484864,
+        "date_posted": 1771484864,
+        "url": "https://jobs.smartrecruiters.com/Blinqlabs/743999734120603",
+        "locations": [
+            "Southfield, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/BlinqLABS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BCforward",
+        "id": "46a77194-f12c-4547-8132-1cdef59fbcb7",
+        "title": "VNF Systems Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1771484660,
+        "date_posted": 1771484660,
+        "url": "https://jobs.smartrecruiters.com/BCforward3/94082803",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/BCforward",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Barkback",
+        "id": "343fcb3c-e4be-4f12-841e-664571827fa6",
+        "title": "Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771484925,
+        "date_posted": 1771484925,
+        "url": "https://jobs.smartrecruiters.com/barkbackLlc/90864007",
+        "locations": [
+            "Santa Barbara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Barkback",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
