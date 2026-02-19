@@ -281,29 +281,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "LiveRamp",
-        "id": "89b8ffb6-8d7c-4900-8706-96cfae17748d",
-        "title": "Co-op \u2013 Data Science",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1750780356,
-        "date_posted": 1750780356,
-        "url": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Co-op--Data-Science_JR011667",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "Little Rock, AR",
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/LiveRamp",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Intel",
         "id": "c952ebdc-f100-4c84-ab5d-d92d5d2a15e1",
@@ -120066,7 +120043,7 @@
         "company_name": "Sony",
         "id": "c028e3f3-97c3-4afe-8b37-2585ee015c99",
         "title": "Research Intern - Multimodal Foundation Model for Vision",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -217480,7 +217457,7 @@
         "company_name": "Goodnotes",
         "id": "44c85850-08ce-48d2-b763-f68423094bee",
         "title": "Data Analyst Internship - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -218125,7 +218102,7 @@
         "company_name": "Goodnotes",
         "id": "3596b3b6-07cc-4361-92eb-5828736cb33c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -222839,7 +222816,7 @@
         "company_name": "Octaura",
         "id": "3ea65aaa-0297-4b8f-9378-51e35478fb95",
         "title": "Intern Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -270436,7 +270413,7 @@
         "company_name": "Acuity",
         "id": "8b6afd8a-8a5f-4454-9775-132a997e21e7",
         "title": "Intern \u2013 Product Management Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -315479,7 +315456,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -336148,7 +336125,7 @@
         "company_name": "Idaho National Laboratory",
         "id": "fac163f7-7192-4515-b949-e4ee50109d06",
         "title": "DOE-EM University Programs Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364668,7 +364645,7 @@
         "company_name": "Motorola",
         "id": "7bbd8e62-011c-44ee-9430-bbe91c7f350f",
         "title": "Learning Technology Internship - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368687,7 +368664,7 @@
         "company_name": "Mentis AI",
         "id": "d52779dc-76ce-476e-a43a-042683687ee6",
         "title": "Excel Data Visualization Project - Freelance Role - UK",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -379228,6 +379205,29 @@
             "Grove City, PA"
         ],
         "company_url": "https://simplify.jobs/c/HF-Sinclair",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sony",
+        "id": "690e5960-bb4c-4b04-b450-cda3594db89e",
+        "title": "Intern - A&R Research",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771515170,
+        "date_posted": 1771515170,
+        "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Intern--A-R-Research_JR-118793",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
