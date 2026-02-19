@@ -300822,7 +300822,7 @@
         "company_name": "Franklin Templeton",
         "id": "f177af55-e84e-41e5-8c9c-db4ae2fdf16b",
         "title": "Investment Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -361533,7 +361533,7 @@
         "company_name": "RTX",
         "id": "277a1ab6-9315-43d5-ad80-dc9462d1778e",
         "title": "Software Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376018,7 +376018,7 @@
         "company_name": "Genentech",
         "id": "40889cad-859b-4d4a-b4d7-827ee83328c7",
         "title": "2026 Summer Intern - Portfolio Strategy & Delivery - Strategic Insights & Business Optimization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379134,6 +379134,29 @@
             "Neukirchen-Vluyn, Germany"
         ],
         "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Fresenius Kabi",
+        "id": "acfb0e9b-b599-4e51-a95e-25a05e2307f7",
+        "title": "Intern \u2013 Research & Development",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771501948,
+        "date_posted": 1771285167,
+        "url": "https://freseniusglobal.wd3.myworkdayjobs.com/FK_Careers/job/Lake-Zurich-IL/Intern---R---D_R-10210290",
+        "locations": [
+            "Lake Zurich, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Fresenius-Kabi",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
