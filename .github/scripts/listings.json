@@ -309955,7 +309955,7 @@
         "company_name": "Hitachi",
         "id": "e3d2586b-44a3-4396-b64c-c88a86d29e87",
         "title": "Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -345759,7 +345759,7 @@
         "company_name": "Zoom",
         "id": "28e51d08-336a-41d8-83e7-45102fc897eb",
         "title": "AI Engineering Intern - AI Agent",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -357680,7 +357680,7 @@
         "company_name": "Etched.ai",
         "id": "48efeec3-63c0-4918-a7aa-8b590aa52939",
         "title": "Supercomputing Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -366893,7 +366893,7 @@
         "company_name": "Genentech",
         "id": "33d43da0-04ba-4794-acc3-1734824015b9",
         "title": "2026 Summer Intern - Product Development Global Clinical Operations - Analytics & Portfolio Optimization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
