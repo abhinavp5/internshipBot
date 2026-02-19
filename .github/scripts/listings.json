@@ -121,26 +121,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Neuberger Berman",
-        "id": "69ee3238-eb2a-4a7c-a29b-3ec0ff70dee2",
-        "title": "Intern \u2013 Technology",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1750759290,
-        "date_posted": 1750759290,
-        "url": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/London/Intern_R0010928",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/97147200-3153-41b3-bbb0-5de4d7b4a48f",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "NVIDIA",
         "id": "fc3232b0-3afe-4958-ad5b-88b32fb7ed0f",
@@ -349002,7 +348982,7 @@
         "company_name": "Johnson & Johnson",
         "id": "affaf0b1-b73a-481b-bc78-c115f4b5823a",
         "title": "AI/ML Summer Intern - Statistics & Decision Sciences - Sds",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370446,7 +370426,7 @@
         "company_name": "RTX",
         "id": "70d00837-e2bf-4711-a8ff-4cd83972322a",
         "title": "Intern \u2013 Digital Product Configuration Management Engineer Intern - CO",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -374349,7 +374329,7 @@
         "company_name": "RTX",
         "id": "f3fd0b47-5541-4d0e-a5c5-2d60ee3b9598",
         "title": "2026 Intern \u2013 Software Engineer Intern - AZ",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376827,7 +376807,7 @@
         "company_name": "Western Digital",
         "id": "fadeae76-fe57-4a1c-be21-b1253ea5dfb2",
         "title": "Summer 2026 Co-Op - Read/Write Channel Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379135,6 +379115,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Honeywell",
+        "id": "2954a3bc-b6dd-4b05-a105-6a85f9f59ba3",
+        "title": "Product Management Intern Engineer - m/w/d",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771497166,
+        "date_posted": 1771497166,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/140089",
+        "locations": [
+            "Neukirchen-Vluyn, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
