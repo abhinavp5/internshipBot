@@ -310262,7 +310262,7 @@
         "company_name": "Relativity",
         "id": "d5917fd6-461b-443a-ad37-4f08b224c8b9",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -357680,7 +357680,7 @@
         "company_name": "Etched.ai",
         "id": "48efeec3-63c0-4918-a7aa-8b590aa52939",
         "title": "Supercomputing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371194,7 +371194,7 @@
         "company_name": "Motorola",
         "id": "dbfaed4a-bba8-46c1-a2c3-ac20d5a282f1",
         "title": "R&D Intern - Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
