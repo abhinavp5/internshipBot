@@ -304,27 +304,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lake Michigan Credit Union",
-        "id": "075a3256-c169-4ec2-8cf6-5ae0dd39129f",
-        "title": "Retail Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1750779040,
-        "date_posted": 1750779040,
-        "url": "https://lmcu.wd5.myworkdayjobs.com/lmcucareersite/job/Tampa-FL/Retail-Intern---Central-FL_REQ-2025-5800",
-        "locations": [
-            "Tampa, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Lake-Michigan-Credit-Union",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Intel",
         "id": "c952ebdc-f100-4c84-ab5d-d92d5d2a15e1",
@@ -216630,7 +216609,7 @@
         "company_name": "Goodnotes",
         "id": "e3cf191d-2947-4fd2-9d1a-1f8a31251f98",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -278327,7 +278306,7 @@
         "company_name": "Oshkosh",
         "id": "35158bee-e683-42c5-9d25-4a1b0c25b881",
         "title": "Youth Apprentice - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -279282,7 +279261,7 @@
         "company_name": "Velera",
         "id": "b4e37980-b0ef-4636-8aa6-ee704afcb8d4",
         "title": "Delinquency Management Reporting and Data Analysis Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -319796,7 +319775,7 @@
         "company_name": "Cisco",
         "id": "3de06565-f7a3-414f-88fb-8883ab1c50a8",
         "title": "Software Engineer Security & Automation 1 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -344713,7 +344692,7 @@
         "company_name": "ABB",
         "id": "6a1303cf-3bda-441c-9509-fb4c4a49728e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376302,7 +376281,7 @@
         "company_name": "Proofpoint",
         "id": "2e5a9cb7-d81a-469e-a08e-03130727fd7c",
         "title": "Software Engineering Intern - Summer - Weeks",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376807,7 +376786,7 @@
         "company_name": "Western Digital",
         "id": "fadeae76-fe57-4a1c-be21-b1253ea5dfb2",
         "title": "Summer 2026 Co-Op - Read/Write Channel Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -377453,7 +377432,7 @@
         "company_name": "The Walt Disney Company",
         "id": "60bac211-9271-40ee-b4e3-c35102051597",
         "title": "WDI Ride Control Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -378676,7 +378655,7 @@
         "company_name": "Fidelity Investments",
         "id": "92b9f48b-eae6-4b0f-a7e8-71c96d4d4e33",
         "title": "Quantitative Development & Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -378980,7 +378959,7 @@
         "company_name": "Cadence Design Systems",
         "id": "cfe3dda9-e8e4-4c9c-a4c1-feadec75ec40",
         "title": "Product Engineer Intern - Optimality Analytics Interface",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379157,6 +379136,98 @@
             "Lake Zurich, IL"
         ],
         "company_url": "https://simplify.jobs/c/Fresenius-Kabi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Roku",
+        "id": "5fc64f5d-6e78-463a-b932-6d42e94a7973",
+        "title": "Applied Science Intern - PhD",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771514608,
+        "date_posted": 1771514608,
+        "url": "https://www.weareroku.com/jobs/7635099?gh_jid=7635099",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Roku",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "690e4022-41e1-411c-bf12-489f610f12f1",
+        "title": "Forward Deployed Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1771514093,
+        "date_posted": 1771514093,
+        "url": "https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WSP",
+        "id": "e9f9a63e-54ac-4494-b3c4-3161d88977df",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771514010,
+        "date_posted": 1771514010,
+        "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/80314",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/WSP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HF Sinclair",
+        "id": "17a99b26-d369-44de-90dc-82586917186a",
+        "title": "Environmental Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771513733,
+        "date_posted": 1771513733,
+        "url": "https://careers.hfsinclair.com/job/Petrolia-Intern-Environmental-PA-16050/1366169100/?ats=successfactors",
+        "locations": [
+            "Grove City, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/HF-Sinclair",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
