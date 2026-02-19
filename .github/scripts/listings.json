@@ -222,66 +222,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Teledyne",
-        "id": "ee092cd6-fe15-4c7e-96d0-4f21a8ecb942",
-        "title": "Sdet \u2013 Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1750783358,
-        "date_posted": 1750783358,
-        "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/Canada---Richmond-BC/SDET--Co-op_REQ29299",
-        "locations": [
-            "Richmond, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Teledyne",
-        "id": "ce985d6c-2510-4960-b4f7-37f22769e002",
-        "title": "Sdet \u2013 Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1750783358,
-        "date_posted": 1750783358,
-        "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/Canada---Richmond-BC/SDET--Co-op_REQ29301",
-        "locations": [
-            "Richmond, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Teledyne",
-        "id": "55792b63-1879-4792-b9f0-3950515ca814",
-        "title": "Sdet \u2013 Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1750783358,
-        "date_posted": 1750783358,
-        "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/Canada---Richmond-BC/SDET--Co-op_REQ29305-1",
-        "locations": [
-            "Richmond, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Intel",
         "id": "c952ebdc-f100-4c84-ab5d-d92d5d2a15e1",
         "title": "Discrete Graphics Validation Internship",
@@ -1206,26 +1146,6 @@
             "Sunnyvale, CA"
         ],
         "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Baker Hughes",
-        "id": "4441032c-502a-491b-a4e9-ae5bdc5a3f39",
-        "title": "Data Analyst Apprentice",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1751455384,
-        "date_posted": 1750783628,
-        "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-NU-CRAMLINGTON-ATLEY-WAY-NORTH-NELSON-INDUSTRIAL-ESTATE/Data-Analyst-Apprentice_R150612-1",
-        "locations": [
-            "Newcastle upon Tyne, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Baker-Hughes",
         "is_visible": true,
         "sponsorship": "Other"
     },
