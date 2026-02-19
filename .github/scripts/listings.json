@@ -122,26 +122,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "fc3232b0-3afe-4958-ad5b-88b32fb7ed0f",
-        "title": "Software Engineering Intern - Embedded Systems",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1750803162,
-        "date_posted": 1750803162,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Embedded-Systems---Fall-2025_JR1999184",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "NXP Semiconductors",
         "id": "a69ed4cc-79fe-4997-8d07-6ee6cb3a3ffe",
         "title": "IC Design Verification Engineer \u2013 Intern",
@@ -331094,7 +331074,7 @@
         "company_name": "Western Digital",
         "id": "c653abab-134f-434f-865c-3514f83f7bf0",
         "title": "Summer 2026 Intern - Software Engineering - Firmware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -378529,7 +378509,7 @@
         "company_name": "Cleveland Clinic",
         "id": "f02db88a-0269-4362-b54a-ffd2ed347a9c",
         "title": "IT Summer Intern - Software Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
