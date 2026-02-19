@@ -28358,7 +28358,7 @@
         "company_name": "Vanguard",
         "id": "3012d6f2-e64e-456a-8b95-aa1b9ee3f94c",
         "title": "Application Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -345278,7 +345278,7 @@
         "company_name": "Genentech",
         "id": "574ed8a3-adb5-455b-b11a-125b4ddaa559",
         "title": "2026 Summer Intern - Regev Lab - Feedback Driven AI Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -352046,7 +352046,7 @@
         "company_name": "RTX",
         "id": "5bacc780-6178-49f5-b6ff-e2ab40d1033b",
         "title": "Intern - Proactive Engine Health Monitoring - Engine Performance Monitoring",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -369230,7 +369230,7 @@
         "company_name": "Denver",
         "id": "817cea52-3ef2-41ab-97b7-d8fe7ccfeed9",
         "title": "Innovation Project Associate Intern - Analytics and Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370472,7 +370472,7 @@
         "company_name": "GE Vernova",
         "id": "fd614b40-3a6a-4c73-84cb-ff9848e548f4",
         "title": "GE Vernova Grid Solutions \u2013 Hardware Engineering Intern - Critical Infrastructure Communications",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -374202,7 +374202,7 @@
         "company_name": "University of Virginia",
         "id": "f67b358b-40cf-435e-9c00-77b58e2ed03f",
         "title": "Nitrogen Working Group Student Employee - Student Wage",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
