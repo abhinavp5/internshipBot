@@ -312619,7 +312619,7 @@
         "company_name": "Associated Bank",
         "id": "3a63205e-c4e1-4f3c-9fea-21f13fa297ca",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -355682,7 +355682,7 @@
         "company_name": "Zions Bank",
         "id": "1f411915-48da-4326-ab7d-6d943108a36e",
         "title": "Intern \u2013 Automation  Application Developer - Treasury Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
