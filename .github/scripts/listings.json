@@ -93475,7 +93475,7 @@
         "company_name": "Acadian Asset Management",
         "id": "10a1bc3a-d12b-4bf9-9049-08500728154f",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -291297,7 +291297,7 @@
         "company_name": "Paccar",
         "id": "d5fd94d9-99d6-4171-b92f-383e4dc79fd3",
         "title": "Summer 2026 Intern - Warranty Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -357164,7 +357164,7 @@
         "company_name": "Cisco",
         "id": "7d8ca33a-b804-42d2-bbf1-8f48fe6d8f34",
         "title": "Internet Measurement Research Intern - BGP Research Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370546,7 +370546,7 @@
         "company_name": "GE Vernova",
         "id": "0ec6d69f-f4c5-4984-ab6e-6f970b02a043",
         "title": "GE Vernova Grid Solutions \u2013 Hardware Engineering Intern - Critical Infrastructure Communications",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -376042,7 +376042,7 @@
         "company_name": "Zoom",
         "id": "ebc13604-3a1d-4ff4-b4f9-6419beb75f20",
         "title": "Research Intern - AI Incubation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
