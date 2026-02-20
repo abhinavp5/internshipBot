@@ -220085,7 +220085,7 @@
         "company_name": "Rivian",
         "id": "77bb3f98-f6d3-4066-bf17-04eeb5e1976e",
         "title": "Software Engineering Intern - Vehicle Controls - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -257982,7 +257982,7 @@
         "company_name": "Rivian",
         "id": "24403e5b-6f8f-432f-b3b4-3eb36f8a9ca7",
         "title": "Software Engineering Intern - Vehicle Controls",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -291317,7 +291317,7 @@
         "company_name": "Quandri",
         "id": "395569c4-c028-4b6d-833a-842c62a5098f",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -294058,7 +294058,7 @@
         "company_name": "Electronic Arts",
         "id": "9f6f99c0-bfff-46b8-9b1b-6790f3f6ec22",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -355826,7 +355826,7 @@
         "company_name": "Western Digital",
         "id": "33c10086-93a1-42f6-89cb-e9108ce6ffb6",
         "title": "Co-Op - Read/Write Channel Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -361740,7 +361740,7 @@
         "company_name": "First National Bank",
         "id": "1ca83832-3a5b-4ddb-9b59-4c1dd34c6f6d",
         "title": "Summer 2026 Corporate Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -365382,7 +365382,7 @@
         "company_name": "CFD Research Corporation",
         "id": "360c68fe-5806-4ff7-be33-85bbab027ab1",
         "title": "Intern \u2013 Internship - Prototype - Test & Evaluation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -367146,7 +367146,7 @@
         "company_name": "Cisco",
         "id": "27982b59-aad7-48d6-abab-36cada71f9bd",
         "title": "Internet Measurement Research Intern - BGP Research Team - Cisco Thousandeyes",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -374143,7 +374143,7 @@
         "company_name": "Masco",
         "id": "b6c45813-adba-4deb-a9e5-84ae2d213bc3",
         "title": "Product Engineering Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376447,7 +376447,7 @@
         "company_name": "Veolia",
         "id": "56357140-38e7-4b1d-a0b7-91d3cea5f8c8",
         "title": "Intern \u2013 Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376516,7 +376516,7 @@
         "company_name": "Western Digital",
         "id": "fadeae76-fe57-4a1c-be21-b1253ea5dfb2",
         "title": "Summer 2026 Co-Op - Read/Write Channel Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -378832,7 +378832,7 @@
         "company_name": "Honeywell",
         "id": "2954a3bc-b6dd-4b05-a105-6a85f9f59ba3",
         "title": "Product Management Intern Engineer - m/w/d",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -381606,6 +381606,52 @@
             "Master's",
             "MBA",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Seaspan",
+        "id": "069440d3-c51a-4fa3-8c76-81f1417a1db1",
+        "title": "CAD Systems",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771582086,
+        "date_posted": 1771456427,
+        "url": "https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8408",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Seaspan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "American Equity",
+        "id": "783dba8a-029d-442a-b96f-010711afd0d6",
+        "title": "Illustrations Specialist 1 - Early Talent",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1771496214,
+        "date_posted": 1770767031,
+        "url": "https://www.american-equity.com/about/careers/openings?gh_jid=5048497007",
+        "locations": [
+            "West Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Equity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
