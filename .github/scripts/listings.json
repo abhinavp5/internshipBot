@@ -116173,7 +116173,7 @@
         "company_name": "Brown & Brown Insurance",
         "id": "cd1f6f9b-1513-40c6-bc1b-eb3bef96f7b6",
         "title": "Technology Solutions Intern - Technology Solutions",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -363712,7 +363712,7 @@
         "company_name": "VF",
         "id": "0e0de0b8-3d16-4ab1-87f4-0bd4eb7aa02a",
         "title": "Icebreaker: Ecommerce Analytics Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -381487,6 +381487,75 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Takeda",
+        "id": "c960b654-1398-4ed0-8c74-c9045c5eaaf1",
+        "title": "Lab Intern - DE&C - Device Evaluation and Characterization",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771573724,
+        "date_posted": 1771573724,
+        "url": "https://takeda.wd3.myworkdayjobs.com/external/job/Lexington-MA/XMLNAME-2026-Summer-Internship-Program--Lab-Intern----DE-C--Device-Evaluation-and-Characterization_R0174913",
+        "locations": [
+            "Lexington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Takeda",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Scopely",
+        "id": "2162120c-2c6c-48d9-894a-d117b3bd3c79",
+        "title": "Software Engineer Intern - Pokemon GO",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771572988,
+        "date_posted": 1771572988,
+        "url": "https://job-boards.greenhouse.io/scopely/jobs/5126724008",
+        "locations": [
+            "Bellevue, WA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Scopely",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Parsons",
+        "id": "db9c0380-ff91-428a-90ee-f444db77e202",
+        "title": "Space Ops Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771572287,
+        "date_posted": 1771572287,
+        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Colorado-Springs/Space-Ops-Software-Engineer-Intern--Summer-2026-_R177746-1",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Parsons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
