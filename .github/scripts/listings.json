@@ -220108,7 +220108,7 @@
         "company_name": "Rivian",
         "id": "617a7377-78c8-4ff8-ad19-5c799425def2",
         "title": "Data Engineering Intern - AI & Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -330116,7 +330116,7 @@
         "company_name": "LMI ",
         "id": "6733555f-9ee9-4e61-98d6-6430f675caff",
         "title": "Data Science-Intern - FIU Students",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -341293,7 +341293,7 @@
         "company_name": "Breeze Airways",
         "id": "c40fc449-e97e-4235-89a0-7bd239188ad2",
         "title": "Data Analyst Intern - Revenue Optimization - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -366535,7 +366535,7 @@
         "company_name": "AAR",
         "id": "8e2855db-c0ed-4d85-b7f4-244c10543336",
         "title": "Product Line Rep Intern: Commercial Distribution",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
