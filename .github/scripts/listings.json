@@ -28134,7 +28134,7 @@
         "company_name": "Vanguard",
         "id": "3012d6f2-e64e-456a-8b95-aa1b9ee3f94c",
         "title": "Application Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -299931,7 +299931,7 @@
         "company_name": "University of Virginia",
         "id": "070760d1-f727-4f9c-988d-3c60110cfda4",
         "title": "Student Data Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -315209,7 +315209,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -320907,7 +320907,7 @@
         "company_name": "GE Healthcare",
         "id": "0394b68d-238e-4424-a92a-b281f585b765",
         "title": "Field Engineer Apprentice - North/Central WI",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -321909,7 +321909,7 @@
         "company_name": "Booz Allen",
         "id": "b6eebed7-f17d-4dec-9941-0c1bffdf0370",
         "title": "Data Engineer - Junior",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -334983,7 +334983,7 @@
         "company_name": "Bank of Montreal",
         "id": "deaa42a4-01be-4476-9d47-855ce1a5359e",
         "title": "Machine Learning Engineer - Intern/Co-op - Risk Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -340340,7 +340340,7 @@
         "company_name": "RTX",
         "id": "aa2b2287-2ed0-4401-aefe-086797c1ed71",
         "title": "Projet d\u2019\u00e9volution de l\u2019IA - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344689,7 +344689,7 @@
         "company_name": "Gordon Food Service",
         "id": "ac3f8ee8-66b8-4bf8-a52e-16aa6cd378ca",
         "title": "Category Support & Insights Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -345149,7 +345149,7 @@
         "company_name": "Vanderlande Industries",
         "id": "e15bf92d-c163-4369-91e6-c1fdc802b7e4",
         "title": "Controls Support Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -347187,7 +347187,7 @@
         "company_name": "Vanderlande Industries",
         "id": "55fbd070-336f-4398-ae9a-2b3736719077",
         "title": "Supply Chain Data & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -355074,7 +355074,7 @@
         "company_name": "Protech Automotive Solutions",
         "id": "0769a9f8-9828-4107-8658-58a98fe4fde0",
         "title": "Automotive ADAS Calibration Technician Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364081,7 +364081,7 @@
         "company_name": "The Walt Disney Company",
         "id": "ca086a90-f905-497f-9336-e594763749b5",
         "title": "Finance and Analytics Intern - Summer/Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371991,7 +371991,7 @@
         "company_name": "CAE",
         "id": "58682767-5c38-4bf9-aabf-6df7e8b45585",
         "title": "Integration Specialist Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -377090,7 +377090,7 @@
         "company_name": "McKesson",
         "id": "82b052e4-b783-4ed0-8e57-0cde533c6c94",
         "title": "Data Scientist and Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -381695,6 +381695,54 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Motorola",
+        "id": "2b531c72-838a-4fe2-af8e-d895f806a9ef",
+        "title": "R&D Intern - FPGA/RTL Design Engineer",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1771591257,
+        "date_posted": 1771591257,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/R-D-Intern---FPGA-RTL-Design-Engineer---2026_R62375",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Motorola",
+        "id": "170ba304-176a-435c-988f-3941a42c5d80",
+        "title": "R&D Intern - FPGA/RTL Design Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771592344,
+        "date_posted": 1771592344,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/R-D-Intern---FPGA-RTL-Design-Engineer---2026_R62373",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
