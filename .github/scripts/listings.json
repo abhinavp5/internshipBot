@@ -141,27 +141,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Veolia",
-        "id": "8e74b0e0-0692-4369-bb48-0b0a83ee7c16",
-        "title": "Intern \u2013 Data Scientist",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1750883301,
-        "date_posted": 1750883301,
-        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000067009941",
-        "locations": [
-            "Hopkins, MN",
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Veolia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "NVIDIA",
         "id": "06d16f55-b0fa-406d-a305-dd1ada759031",
@@ -77654,7 +77633,7 @@
         "company_name": "American Express",
         "id": "4558d86e-b5b5-4594-bf18-7104f3e06c9c",
         "title": "Campus Graduate Summer Internship Program - 2026 Product Development - US Consumer Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -179631,7 +179610,7 @@
         "company_name": "Oshkosh",
         "id": "a1170046-c2c3-488f-8d40-7af852884933",
         "title": "Telematics Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -218009,7 +217988,7 @@
         "company_name": "Nokia",
         "id": "a4c58659-8236-4b94-80eb-e73edc4852a7",
         "title": "Spatial computing/communications Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -259346,7 +259325,7 @@
         "company_name": "Tiffany & Co.",
         "id": "190ee7db-9989-49ec-922f-a0ed12922f0f",
         "title": "Software Development Intern - Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -262021,7 +262000,7 @@
     {
         "date_updated": 1765983013,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -300673,7 +300652,7 @@
         "company_name": "Franklin Templeton",
         "id": "835fe8f5-3c80-441b-bf87-f11eb64c7c9b",
         "title": "Fund Administration & Oversight",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -301103,7 +301082,7 @@
         "company_name": "Bird Construction",
         "id": "22abcb5d-a88d-445a-bc70-0ecca49fd83d",
         "title": "Student Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -302889,7 +302868,7 @@
         "company_name": "ByteDance",
         "id": "c00ec55d-5f57-480a-b1ff-dad5ae7a2433",
         "title": "Student Researcher - Seed Multimodality & World Model - RL + Streaming Video Understanding",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -302912,7 +302891,7 @@
         "company_name": "ByteDance",
         "id": "06bf351e-d9fd-4300-8a92-d6f8ef8be04b",
         "title": "Student Researcher - Seed Vision - Multimodal Video Generation",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -302958,7 +302937,7 @@
         "company_name": "ByteDance",
         "id": "4368cccc-14e3-4b8c-8edf-6beda1bf5010",
         "title": "Student Researcher - Seed Vision",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -303004,7 +302983,7 @@
         "company_name": "ByteDance",
         "id": "b5914719-9460-4da3-bad1-dd4428625877",
         "title": "Student Researcher - Seed LLM - Scientific Coding Agent",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -303027,7 +303006,7 @@
         "company_name": "ByteDance",
         "id": "a301ddf2-bda5-4f6e-a99b-88d4254313ef",
         "title": "Student Researcher - Seed Vision - AI Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -303604,7 +303583,7 @@
         "company_name": "ByteDance",
         "id": "8545b873-d0a2-4b0d-b3b9-fa67811c8f0d",
         "title": "Student Researcher - Seed LLM Horizon - Async Agent & Proactive Agent",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -303650,7 +303629,7 @@
         "company_name": "ByteDance",
         "id": "1c0ef532-045d-408b-8050-2c81bcbdec3f",
         "title": "Student Researcher - Seed Vision - World Models for Video Generation",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -303696,7 +303675,7 @@
         "company_name": "ByteDance",
         "id": "d06c4b1a-d837-4488-8f49-4b31c23f52c1",
         "title": "Student Researcher - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -303719,7 +303698,7 @@
         "company_name": "ByteDance",
         "id": "7585aef2-eec8-4fe1-9ec2-271782dbbadc",
         "title": "Student Researcher - Seed LLM Horizon - Memory",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -303742,7 +303721,7 @@
         "company_name": "ByteDance",
         "id": "526b0c3a-77ce-4e42-b55c-0e032ee0e477",
         "title": "Student Researcher - Seed LLM Post Training - Reward Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -303788,7 +303767,7 @@
         "company_name": "ByteDance",
         "id": "14c27d60-6511-4a9b-8bff-d86a575ce2bc",
         "title": "Student Researcher - Multimodal Interaction & World Model - Unified Model",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -306460,7 +306439,7 @@
         "company_name": "ByteDance",
         "id": "c444b3af-3783-47df-b6b4-e351f399fddb",
         "title": "Student Researcher - Seed - Model Evaluation",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -340968,7 +340947,7 @@
         "company_name": "The Travelers Companies",
         "id": "7537007e-434a-49ed-9fd0-0d01da9cdd7e",
         "title": "Engineering Development Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -356413,7 +356392,7 @@
         "company_name": "Sun Life",
         "id": "b32fda88-f02f-4b91-ab07-6efbe4ca8a71",
         "title": "Student Gen AI Engineer - SLC Management",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -358571,7 +358550,7 @@
         "company_name": "Voyager Technologies",
         "id": "c21ab6a9-0e4b-4adc-a8ab-c1cc88d509ef",
         "title": "Voyager Intern - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -369316,7 +369295,7 @@
         "company_name": "Sherwin-Williams",
         "id": "4fcb4493-5cd4-44b7-b860-9e2c1437e2ed",
         "title": "Marketing Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380662,7 +380641,7 @@
         "company_name": "Nextiva",
         "id": "7aa76073-de9c-48d0-a3ee-f8a772efa859",
         "title": "Intern \u2013 AI Engineer - 3 Months - Full-Time",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
