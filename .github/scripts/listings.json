@@ -123902,7 +123902,7 @@
         "company_name": "Dun & Bradstreet",
         "id": "8edf6455-3ed9-4f4b-be8c-9dcd4d92863d",
         "title": "Internship Program - Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -190129,7 +190129,7 @@
         "company_name": "Faraday Future",
         "id": "8687a2e2-a096-4ab7-8435-72016d45de24",
         "title": "Part Time Product Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -219552,7 +219552,7 @@
         "company_name": "Dover",
         "id": "260a21e1-baf8-41ea-8bbf-dfdd7ecf6502",
         "title": "Product Manager \u2013 Aftermarket Parts Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -251405,7 +251405,7 @@
         "company_name": "Microsoft",
         "id": "5d02ff27-a996-4f0d-9208-f82f8f1f647c",
         "title": "Research Intern - Fate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -354958,7 +354958,7 @@
         "company_name": "Johnson & Johnson",
         "id": "5eb3e8c6-701d-4c4a-a557-1c19dcb8ba4f",
         "title": "SIA Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -356987,7 +356987,7 @@
         "company_name": "S&P Global ",
         "id": "b9034907-171a-4b15-baef-f091d3c37b04",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -357157,7 +357157,7 @@
         "company_name": "Johnson & Johnson",
         "id": "f20c9663-452f-4251-a826-7f29e8c456e3",
         "title": "Software R&D Co-Op - Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -362998,7 +362998,7 @@
         "company_name": "S&P Global ",
         "id": "17fec93c-0797-42e3-9d1e-01f8106e4bbf",
         "title": "Software Engineer Intern \u2013 Early Career",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -372437,7 +372437,7 @@
         "company_name": "RTX",
         "id": "493d964a-18ee-4627-ba96-37586487b635",
         "title": "Intern - AN/TPY-2 Program Protection Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -373680,7 +373680,7 @@
         "company_name": "Paccar",
         "id": "d288516b-dd8d-4ee7-a528-54b5628b1939",
         "title": "Materials Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -374299,7 +374299,7 @@
         "company_name": "IXL Learning",
         "id": "a5f332ab-dc9f-47bb-a144-651f2b072243",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376423,7 +376423,7 @@
         "company_name": "Tencent",
         "id": "817874bc-4775-4ea6-ad0f-216a0bc763fd",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
