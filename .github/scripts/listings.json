@@ -258024,7 +258024,7 @@
         "company_name": "General Motors",
         "id": "74f3b2b9-fcc2-4d35-8e59-7440198f72b8",
         "title": "2026 Summer Intern - Software Engineer - Autonomous Driving\",\"Master's Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -382354,5 +382354,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mobilityware",
+        "id": "f08415cf-ec6d-4bea-9319-145d83dc5f1e",
+        "title": "Product Marketing Analytics Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771544018,
+        "date_posted": 1771468767,
+        "url": "http://boards.greenhouse.io/mobilityware/jobs/7630613",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mobilityware",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
