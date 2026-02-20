@@ -76587,7 +76587,7 @@
         "company_name": "Thermo Fisher Scientific",
         "id": "d086b0f7-98d4-441f-a5c2-ef6b4443830b",
         "title": "Quality Specialist \u2013 Data Analysis Sr. Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -226349,7 +226349,7 @@
         "company_name": "Apex Fintech Solutions",
         "id": "783d6794-2956-4b4b-8498-b770ea1cd547",
         "title": "Software Engineer Intern - Business Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -263147,7 +263147,7 @@
         "company_name": "Velera",
         "id": "4501afd3-2160-470c-a432-e57bddd45b31",
         "title": "Intern Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -264150,7 +264150,7 @@
         "company_name": "Cadence Design Systems",
         "id": "ae49a04a-b4ee-4e1d-a162-de2baa6ee87b",
         "title": "Intern Software Engineer - Summer 2026 - Three Month Duration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -272187,7 +272187,7 @@
         "company_name": "Velera",
         "id": "adfe3ee5-b567-46d6-be44-56f55a7ece41",
         "title": "Intern ServiceNow Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -298835,7 +298835,7 @@
         "company_name": "Citi",
         "id": "2acb3dc2-a5f1-4c03-9351-ab77c46b1f1d",
         "title": "Technology - Application Development - Placement Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -305091,7 +305091,7 @@
         "company_name": "Microsoft",
         "id": "9785d180-d1f1-4ca5-8aff-7170272d88fc",
         "title": "Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -340572,7 +340572,7 @@
         "company_name": "RTX",
         "id": "7f67b268-c96b-4731-beaf-df10e4c0ab36",
         "title": "Intern \u2013 Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -355987,7 +355987,7 @@
         "company_name": "Mondelez International",
         "id": "99cd0b55-c453-48f2-a3a0-61baf7f78900",
         "title": "Research & Development Product Internship/Placement Year 2026 - 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Winter 2027"
@@ -378339,7 +378339,7 @@
         "company_name": "KLA",
         "id": "6f45888b-7b5d-41da-a941-c794f61380db",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -381213,7 +381213,7 @@
         "company_name": "Bank of Montreal",
         "id": "72483713-9572-4e01-b3f2-67c353cdc381",
         "title": "Junior Engineer \u2013 Co-op/Internship - Electronic Trading Infrastructure - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -381749,5 +381749,167 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "1X",
+        "id": "9c729166-7bbb-4b24-89ff-f0df86a0f580",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771467273,
+        "date_posted": 1771467273,
+        "url": "https://1x.recruitee.com/o/data-analytics-intern",
+        "locations": [
+            "Hayward, CA",
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/1x",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "F5",
+        "id": "922fcaed-990f-420c-8740-b8b1d0af5a6f",
+        "title": "Software Development Engineer Intern - San Jose - CA",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771469093,
+        "date_posted": 1771469093,
+        "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/San-Jose/Software-Development-Engineer-Intern--San-Jose--CA-_RP1036580-1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/F5",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Blue Origin",
+        "id": "ab144b99-e26e-461c-88fd-7fffed843bb5",
+        "title": "Associate Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771469143,
+        "date_posted": 1771469143,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Associate-Engineering-Intern--Summer-2026-_R60894",
+        "locations": [
+            "Washington"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Maybell Quantum Industries",
+        "id": "61964b6e-ab09-4f3a-81be-420b28b3f074",
+        "title": "STEM Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1771469057,
+        "date_posted": 1771469057,
+        "url": "https://job-boards.greenhouse.io/maybellquantum/jobs/5125244008",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Maybell-Quantum-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kinaxis",
+        "id": "b3d39fa7-7259-4de8-b7bc-4f555e8110a7",
+        "title": "Co-Op/ Intern AI/ ML",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771466941,
+        "date_posted": 1771466941,
+        "url": "https://careers-kinaxis.icims.com/jobs/34339/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "T-Mobile",
+        "id": "8a9a6b17-f50b-4233-8f55-91eeb4faf4c2",
+        "title": "Summer 2026 Associate Engineer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771468589,
+        "date_posted": 1771468589,
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2026-Associate-Engineer-Internship_REQ342259",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/T-Mobile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PennState University",
+        "id": "8824740b-a32e-404b-842c-660710e68dab",
+        "title": "Maps and Geospatial Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1771466605,
+        "date_posted": 1771466605,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Maps-and-Geospatial-Assistant_REQ_0000075483-2",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penn-State",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
