@@ -124240,7 +124240,7 @@
         "company_name": "World Kinect",
         "id": "a55eefb6-8f37-4199-84c2-2749dd663aa3",
         "title": "Technology Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -184036,7 +184036,7 @@
         "company_name": "ING",
         "id": "3fb92397-b90b-454b-8e38-07f2772caaeb",
         "title": "Part-Time Trading Risk Management Intern - Trading Risk Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -228432,7 +228432,7 @@
         "company_name": "KLA",
         "id": "c3d72f2a-592a-43eb-a234-2fd2565bbe60",
         "title": "Data Lineage Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -238372,7 +238372,7 @@
         "company_name": "ByteDance",
         "id": "739414d1-83f5-4b97-9553-4255559d802d",
         "title": "Research Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -251407,7 +251407,7 @@
         "company_name": "Microsoft",
         "id": "43a42b12-2b36-4865-b4c5-3b81b231374b",
         "title": "Research Intern - AI Frameworks",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262726,7 +262726,7 @@
         "company_name": "Nokia",
         "id": "06f4e5be-94ab-4706-b11e-b38fba811d01",
         "title": "Transport Network Architecture Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -275772,7 +275772,7 @@
         "company_name": "Seagate Technology ",
         "id": "df36ec91-d6b7-4a59-857a-c888b506b79d",
         "title": "Reader Characterization Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -280131,7 +280131,7 @@
         "company_name": "K-Love",
         "id": "63d1f56e-7d0c-46d2-a86a-e3fd55cf1f6e",
         "title": "Mobile/TV Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -284406,7 +284406,7 @@
         "company_name": "Micron Technology",
         "id": "9109f2df-2764-4e2d-a2bf-2305b71160cc",
         "title": "Intern IT Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -293047,7 +293047,7 @@
         "company_name": "AssetMark",
         "id": "5bd995a3-1743-4b0b-92a0-f5d54fc0abe3",
         "title": "Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -302573,7 +302573,7 @@
         "company_name": "ByteDance",
         "id": "09f9c8c9-293d-495d-8598-cd65ba48c574",
         "title": "Student Researcher - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -303009,7 +303009,7 @@
         "company_name": "ByteDance",
         "id": "da218c19-5de4-4ad0-a91d-96d2bb017c3d",
         "title": "Student Researcher - Infrastructure - Inference",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -303517,7 +303517,7 @@
         "company_name": "ByteDance",
         "id": "dfe51c88-ebee-4cf9-8f30-b4f757a59b81",
         "title": "Student Researcher - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -310787,7 +310787,7 @@
         "company_name": "Stanley Black & Decker",
         "id": "e7faf5e4-0ba0-407a-bc1d-5202d95fbce1",
         "title": "Engineering Intern - Digital & Connected - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -315856,7 +315856,7 @@
         "company_name": "KLA",
         "id": "61b17408-3247-4165-a074-1aa06ed9ae5d",
         "title": "Data Lineage Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332605,7 +332605,7 @@
         "company_name": "Hitachi",
         "id": "23fdc562-5150-463c-9db8-6953ed2cadcd",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -353418,7 +353418,7 @@
         "company_name": "CoxHealth",
         "id": "e49bc384-db11-4763-92ca-8772b617413f",
         "title": "Intern Enterprise Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379592,7 +379592,7 @@
         "company_name": "ByteDance",
         "id": "c8f7eb1a-9721-4e90-8bfe-eaf3a8071ac1",
         "title": "Student Researcher - Seed - LLM-Horizon",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -379978,7 +379978,7 @@
         "company_name": "T-Mobile",
         "id": "5d3ed0a4-860b-4276-9cb5-ec6e529699ce",
         "title": "Associate Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
