@@ -113800,7 +113800,7 @@
         "company_name": "Palantir",
         "id": "4696ce14-3ae8-4ed6-80e1-61072ce87544",
         "title": "Forward Deployed Software Engineer Intern - UK Government",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -356873,7 +356873,7 @@
         "company_name": "Cisco",
         "id": "7d8ca33a-b804-42d2-bbf1-8f48fe6d8f34",
         "title": "Internet Measurement Research Intern - BGP Research Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -358874,7 +358874,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Planet",
-        "id": "524e40fa-cfc9-4720-9a06-6879e2782f39",
+        "id": "3b551c5a-5a6f-4e20-bd75-b7d8126938ac",
         "title": "Associate Space Operations",
         "active": true,
         "terms": [
@@ -374846,7 +374846,7 @@
         "company_name": "Edwards Lifesciences",
         "id": "e0f18f30-83f5-4d44-8242-4f1a25f33f78",
         "title": "Data Science Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -375797,7 +375797,7 @@
         "company_name": "Proofpoint",
         "id": "0f8ff6f7-a204-427a-bb97-2d46968edcfa",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -381652,6 +381652,29 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "88c3c64f-28df-481c-8295-4ca332093ad3",
+        "title": "Economics - EU Stores - Economic Decision Science",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771583383,
+        "date_posted": 1771583383,
+        "url": "https://amazon.jobs/en/jobs/3185791/economics-intern-eu-stores-economic-decision-science",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
