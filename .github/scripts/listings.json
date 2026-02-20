@@ -248973,7 +248973,7 @@
         "company_name": "Honeywell",
         "id": "9f2c4216-51d6-4c4e-bd5b-f385d3cf8924",
         "title": "Product Management Intern Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -253722,7 +253722,7 @@
         "company_name": "Atlassian",
         "id": "9f705bd2-eb54-4a7d-bb88-2deaf3298261",
         "title": "PhD AI Research Intern - 2026 Summer U.S",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -256917,7 +256917,7 @@
         "company_name": "TJX",
         "id": "1488c757-cba8-4d46-8967-ef838f878c71",
         "title": "Product Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -315209,7 +315209,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -320582,7 +320582,7 @@
         "company_name": "BP",
         "id": "bb249542-4d80-44cc-9c5e-bf1c922af892",
         "title": "Intern - Subsurface - Geology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -335292,7 +335292,7 @@
         "company_name": "Abacus Insights",
         "id": "e7d79226-67e1-48b4-a94d-1cdccc013c2d",
         "title": "Data Operations Engineer Intern \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -344964,7 +344964,7 @@
         "company_name": "Kaiser Permanente",
         "id": "74898e32-8129-465d-93cc-5cf1e2cbcd3f",
         "title": "Data Analytics Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346834,7 +346834,7 @@
         "company_name": "IXL Learning",
         "id": "27b09ca6-d627-42d3-a1f9-394676263a12",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -373795,7 +373795,7 @@
         "company_name": "Joint Commission International",
         "id": "576ae5d8-06e3-4cfb-9850-789392ca4155",
         "title": "Healthcare Research Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -378243,7 +378243,7 @@
         "company_name": "Alo Yoga",
         "id": "aafcc977-5ab5-44b6-bca4-6a6d73bfe186",
         "title": "Business Acumen Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -381556,6 +381556,56 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ACLU Kentucky",
+        "id": "35adf0b5-b29e-4c55-93b5-cdeeffcb91d6",
+        "title": "Undergraduate Intern - Technology and Analytics Department-Educate Pod",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771542940,
+        "date_posted": 1771542940,
+        "url": "https://job-boards.greenhouse.io/acluinternships/jobs/8425459002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/ACLU-Kentucky",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rakuten International",
+        "id": "058f10b5-7e10-4926-bb72-004c74c2a665",
+        "title": "Intern Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771543233,
+        "date_posted": 1771543233,
+        "url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/Bellevue-Washington/Intern---Software-Engineering--AI-User-Experience_1031437",
+        "locations": [
+            "Bellevue, WA",
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/8ad80518-8d5f-42bc-b3b6-56142de8fbac",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
         ]
     }
 ]
