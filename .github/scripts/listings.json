@@ -243201,7 +243201,7 @@
         "company_name": "PA Consulting",
         "id": "73110a5b-8eeb-41d5-9f43-8457ac0936f9",
         "title": "2026 Apprentice - Digital - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -304001,7 +304001,7 @@
         "company_name": "PA Consulting",
         "id": "d9c8476a-9a20-4b4e-bb43-c6643b4493f6",
         "title": "Apprentice - Digital - Software Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
