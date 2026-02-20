@@ -270753,7 +270753,7 @@
         "company_name": "Oracle",
         "id": "25e0cd50-4873-465a-a605-db9e9ca12788",
         "title": "Advanced Degree Software Engineer Intern - Database Technologies",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -330138,7 +330138,7 @@
         "company_name": "LMI ",
         "id": "4ed23878-86a7-4eb7-87ca-eb9b001024b6",
         "title": "Software Development - FIU Students",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -348321,7 +348321,7 @@
         "company_name": "Canadian Tire",
         "id": "bc78a0ed-0ec2-4d04-b279-f064219e54f3",
         "title": "Data & Customer Analytics Student - 4 months - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -356081,7 +356081,7 @@
         "company_name": "CIBC",
         "id": "e06bfcb0-3b5b-477b-a84a-bf9d686e905b",
         "title": "Data Governance Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364104,7 +364104,7 @@
         "company_name": "Boston Dynamics",
         "id": "b62e1bd2-99df-4e7d-94d1-12fb5fb0b33c",
         "title": "Technical Operations Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -367446,7 +367446,7 @@
         "company_name": "Carter's",
         "id": "0fcfd3eb-83bc-4c07-a98a-e202d1cd1bab",
         "title": "Analytics & Reporting Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368991,7 +368991,7 @@
         "company_name": "Citi",
         "id": "df274575-8f6f-408f-8a36-21805ec29517",
         "title": "Early ID Program - Markets - Quantitative Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -378506,7 +378506,7 @@
         "company_name": "Proofpoint",
         "id": "7f01ca9f-cff9-4d5f-8062-362e9edb7c57",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380514,7 +380514,7 @@
         "company_name": "Cisive",
         "id": "2464bb4e-1977-4b5e-84ca-5c13c81f12c0",
         "title": "Intern-Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -381495,7 +381495,7 @@
         "company_name": "Takeda",
         "id": "c960b654-1398-4ed0-8c74-c9045c5eaaf1",
         "title": "Lab Intern - DE&C - Device Evaluation and Characterization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -381675,6 +381675,31 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "1302cb69-e719-4d0c-84b5-22a97dfc1994",
+        "title": "Intern \u2013 Asic Gen-AI",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1771555361,
+        "date_posted": 1771555361,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---ASIC-Gen-AI_JR91647",
+        "locations": [
+            "Folsom, CA",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
