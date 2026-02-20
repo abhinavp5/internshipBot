@@ -141,26 +141,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "06d16f55-b0fa-406d-a305-dd1ada759031",
-        "title": "System Software Engineering Intern - CUDA Driver",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1750884116,
-        "date_posted": 1750884116,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineering-Intern--CUDA-Driver---Fall-2025_JR1989344",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Rootly",
         "id": "f9d1ddab-5dac-4594-9d42-6fc7b44f3926",
@@ -159674,7 +159654,7 @@
         "company_name": "Intuit",
         "id": "4b40e630-68af-40e7-98c6-18c1de2ae45f",
         "title": "Summer 2026 AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -225287,7 +225267,7 @@
         "company_name": "Apex Fintech Solutions",
         "id": "afc67385-5116-4c6b-81f0-af04d8778524",
         "title": "Front End Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -261884,7 +261864,7 @@
         "company_name": "Nokia",
         "id": "3f88657e-ac73-4c3c-adde-e920466479dd",
         "title": "Lab Support Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262833,7 +262813,7 @@
         "company_name": "Velera",
         "id": "c6fc3b71-69b6-4746-a2d5-034707efe1b9",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -270041,7 +270021,7 @@
         "company_name": "ASML",
         "id": "7776b3d0-7958-4ce8-a49f-7d63438626df",
         "title": "Intern - Business Performance Engineering - Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -302616,7 +302596,7 @@
         "company_name": "ByteDance",
         "id": "0352faec-6240-43cc-b2c9-e08db3f2beba",
         "title": "Student Researcher - Seed Vision - Multimodal Joint Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -303606,7 +303586,7 @@
         "company_name": "ByteDance",
         "id": "584b2240-edff-4ba8-b1ec-df72cf9635cd",
         "title": "Student Researcher - Seed LLM - Code Generation",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -313820,7 +313800,7 @@
         "company_name": "Samsung",
         "id": "b5944d19-9459-4f84-8f8d-e45a473d8172",
         "title": "Intern Generative AI Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -354780,7 +354760,7 @@
         "company_name": "Montenson",
         "id": "d80a02b0-daf0-42cd-b9e7-7be8690735cf",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -357638,7 +357618,7 @@
         "company_name": "Voyager Technologies",
         "id": "44fbef42-c81c-4902-be0e-fc96876fffc2",
         "title": "Voyager Internship - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -357957,7 +357937,7 @@
         "company_name": "Ciena",
         "id": "a7cb43fd-44b3-4b3e-a4f3-80326a451bd1",
         "title": "AI Software Developer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -359839,7 +359819,7 @@
         "company_name": "Atlas Energy Solutions",
         "id": "91364f6d-8a7a-41d2-af13-0ba69f90c0d1",
         "title": "Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379208,7 +379188,7 @@
         "company_name": "Rakuten International",
         "id": "85bb55de-6617-449c-8466-809bcfec537d",
         "title": "Intern \u2013 Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379751,7 +379731,7 @@
         "company_name": "Equifax",
         "id": "0fc5b4c2-6beb-4176-ac69-fe7f00f12634",
         "title": "Commercial Data Quality Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
