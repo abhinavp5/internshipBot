@@ -26733,30 +26733,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GE Aerospace",
-        "id": "b43612b3-8387-412f-9535-cf89be304e9e",
-        "title": "GE Aerospace Research \u2013 AI/Computer Vision Fellow Internship",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1750916560,
-        "date_posted": 1750916560,
-        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Niskayuna/GE-Aerospace-Research---AI-Computer-Vision-Fellow-Internship_R5012527-1",
-        "locations": [
-            "Schenectady, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Aerospace",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
         "date_updated": 1755638663,
         "url": "https://job-boards.greenhouse.io/figma/jobs/5602159004?gh_jid=5602159004",
         "company_name": "Figma",
@@ -141591,7 +141567,7 @@
         "company_name": "Salesforce",
         "id": "9f667973-2421-4526-bf73-3103d394756f",
         "title": "Intern - AI Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -247706,7 +247682,7 @@
         "company_name": "Alation",
         "id": "ebc6500d-fffc-46a3-aa4e-5152082aae9c",
         "title": "Alation Data & AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -342620,7 +342596,7 @@
         "company_name": "International Monetary Fund",
         "id": "262ceed0-1b29-42a3-a3a2-f909394478cf",
         "title": "Fund Internship Program \u2013 Change Management and Data Management Internship - Fip - Corporate Services and Facilities Department",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -358820,7 +358796,7 @@
         "company_name": "City of Burlington",
         "id": "d562e079-b3f2-4dc2-b03b-7fd1a242b482",
         "title": "Asset Planning Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],

@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 8731 Inactive Internship Roles by Category
+### Browse 8732 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (2952)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (586)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (3752)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (3753)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (349)
 
@@ -9902,7 +9902,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company">Apple</a></strong></td>
 <td>Internship - Debugger Compiler Integration Intern - Debugger Compiler Integration</td>
 <td>London, UK</td>
 <td>🔒</td>
@@ -23619,7 +23619,7 @@
 <td>Product Manager Intern - Brand Effectiveness - Monetization Product</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/IDeaS?utm_source=GHList&utm_medium=company">IDeaS</a></strong></td>
@@ -26537,6 +26537,13 @@
 <td><strong><a href="https://simplify.jobs/c/T-Mobile?utm_source=GHList&utm_medium=company">T-Mobile</a></strong></td>
 <td>Context Engineer – AI Chatbot Intern</td>
 <td>Bellevue, WA</td>
+<td>🔒</td>
+<td>18d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/International-Monetary-Fund?utm_source=GHList&utm_medium=company">International Monetary Fund</a></strong></td>
+<td>Fund Internship Program – Change Management and Data Management Internship - Fip - Corporate Services and Facilities Department 🎓</td>
+<td>Washington, DC</td>
 <td>🔒</td>
 <td>18d</td>
 </tr>
@@ -40647,7 +40654,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Apple?utm_source=GHList&utm_medium=company">Apple</a></strong></td>
 <td>Intern - Privacy Preserving Machine Learning Engineering</td>
 <td>Cambridge, UK</td>
 <td>🔒</td>
