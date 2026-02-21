@@ -16195,7 +16195,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Shure?utm_source=GHList&utm_medium=company">Shure</a></strong></td>
 <td>Cloud Applications Development Intern 🛂</td>
 <td>Niles, IL</td>
 <td>🔒</td>
