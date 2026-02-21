@@ -47996,7 +47996,7 @@
         "company_name": "NVIDIA",
         "id": "cef272b2-b67a-439d-a923-35698b97ab44",
         "title": "Internships: Deep Learning",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -105759,7 +105759,7 @@
         "company_name": "GE Vernova",
         "id": "5e7f8cb9-3903-43c7-a815-f3282b69e183",
         "title": "GE Vernova AI/ML Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -184140,7 +184140,7 @@
         "company_name": "Draper",
         "id": "feb0f79d-7e47-46e5-89ca-4cedaf048535",
         "title": "Optics-Physics Sensor Engineering Summer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -215858,7 +215858,7 @@
         "company_name": "Teledyne",
         "id": "689d2320-97b9-49eb-910e-901bc1a4fb98",
         "title": "Computer Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -225448,7 +225448,7 @@
         "company_name": "Motorola",
         "id": "80adef08-c3c4-45af-bd89-91974bc86dee",
         "title": "Data Analyst Intern \u2013 Summer 2026 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -247516,7 +247516,7 @@
         "company_name": "Alation",
         "id": "ebc6500d-fffc-46a3-aa4e-5152082aae9c",
         "title": "Alation Data & AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -264773,7 +264773,7 @@
         "company_name": "Leidos",
         "id": "ba238e5e-0d7f-4ab0-8497-58ce80b64109",
         "title": "FPGA Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -291669,7 +291669,7 @@
         "company_name": "USAA",
         "id": "e2f22266-599a-4c30-9f00-43ffd7bbd422",
         "title": "Data & Analytics Intern - Future Leaders Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -298517,7 +298517,7 @@
         "company_name": "Booz Allen",
         "id": "87a48f2e-c28a-4acd-b2c9-69e1e644f2e3",
         "title": "Data Scientist - Data Scientist",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -306898,7 +306898,7 @@
         "company_name": "GE Healthcare",
         "id": "d423f8cd-a5e2-4c0d-8b30-ad7ee69ae3f1",
         "title": "Field Engineer Apprentice - Little Rock - AR",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -317114,7 +317114,7 @@
         "company_name": "Marvell",
         "id": "c3c54286-0843-49f1-970b-e7de1dc6e56a",
         "title": "Design Verification Intern - Bachelors Degree",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -317350,7 +317350,7 @@
         "company_name": "Marvell",
         "id": "c6480e6f-0e9b-47c9-bf8d-943f32c64b2f",
         "title": "Validation Intern - Bachelor's Degree",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -321407,7 +321407,7 @@
         "company_name": "CIBC",
         "id": "f8b9d0f5-11ae-4a5b-84f7-1f82d51e7b73",
         "title": "Northeastern Co-op Software Engineer Chicago",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -323011,7 +323011,7 @@
         "company_name": "HNTB",
         "id": "f0f05562-ca6d-4535-8612-cc24866bbd13",
         "title": "Environmental Planning Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -324829,7 +324829,7 @@
         "company_name": "GE Healthcare",
         "id": "f978783a-80bb-4378-9ca9-6e683f1965eb",
         "title": "Field Engineer Apprentice - Miami - FL",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -342625,7 +342625,7 @@
         "company_name": "Teledyne",
         "id": "7c709b68-35ac-4b0b-aa27-72cb53da18af",
         "title": "NHRC Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -351578,7 +351578,7 @@
         "company_name": "Delta Dental",
         "id": "c2d3a196-bd84-4c6a-b5e8-ddf3ccc9dc69",
         "title": "Internship - Applied Artificial Intelligence",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -353747,7 +353747,7 @@
         "company_name": "Resmed",
         "id": "586a53b5-a255-440b-8e76-65f9752baccc",
         "title": "Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -355672,7 +355672,7 @@
         "company_name": "PHI Air Medical",
         "id": "ebce21f8-93a1-4961-8406-ea667804db89",
         "title": "Safety Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -356627,7 +356627,7 @@
         "company_name": "Blackberry",
         "id": "286b08f3-1c8c-496b-92e2-afc0100fc4b8",
         "title": "Software Development Student - iOS",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -357268,7 +357268,7 @@
         "company_name": "Resmed",
         "id": "111227cc-4a41-4f41-ab54-96b2d0a6c569",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -358536,7 +358536,7 @@
         "company_name": "Sanofi",
         "id": "4508ac06-d507-44f2-984f-94cc54fd2903",
         "title": "Machine learning applied to Quantitative Pharmacology Small molecules Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -360694,7 +360694,7 @@
         "company_name": "Gordon Food Service",
         "id": "fca1a679-37e4-4039-b97f-e490a1e1e1a9",
         "title": "Marketing Strategy and Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -361353,7 +361353,7 @@
         "company_name": "CIBC",
         "id": "b97fc1bc-c8cc-4beb-9b6f-2124a0ee63bc",
         "title": "Data Analyst \u2013 Summer 2026 Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -371114,7 +371114,7 @@
         "company_name": "ABB",
         "id": "f5310b53-2681-4b6a-93d3-94b871cc5381",
         "title": "EML Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -374195,7 +374195,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "aeee0eb3-0d5c-4963-bf29-806deb26bf4e",
         "title": "Data and Reporting Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -380434,7 +380434,7 @@
         "company_name": "Resmed",
         "id": "1104eec7-d6c9-49db-a853-db670260fa59",
         "title": "Technical Product Manager Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
