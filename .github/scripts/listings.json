@@ -21685,7 +21685,7 @@
         "company_name": "Capital One",
         "id": "6c8ee6ed-a86a-41d4-9681-3e49eb43810b",
         "title": "Current PhD \u2013 Applied Research Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -236963,7 +236963,7 @@
         "company_name": "Ambarella",
         "id": "8fc7291e-0de8-484f-8554-ea5ae8d9b5dd",
         "title": "Algorithm Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -263717,7 +263717,7 @@
         "company_name": "Direct Supply",
         "id": "6033e32c-c0e5-437a-b217-345ed193bba2",
         "title": "Web Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -312541,7 +312541,7 @@
         "company_name": "Slate Auto",
         "id": "da794d79-5fba-4455-b867-025129091d08",
         "title": "Intern \u2013 Vehicle Integration Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -333012,7 +333012,7 @@
         "company_name": "Expedia Group",
         "id": "c5c4e1be-1c78-4379-bb7b-e9efb3dc5b8d",
         "title": "Career Exploration Program - 2026 - Seattle",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -338086,7 +338086,7 @@
         "company_name": "Menasha Corporation",
         "id": "a8165525-1d38-49ee-86cd-9da338ac231d",
         "title": "Product Manager Intern - Metal Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -338982,7 +338982,7 @@
         "company_name": "Expedia Group",
         "id": "1458f207-d609-4756-8c95-f54502ee1105",
         "title": "D\u00e9veloppeur - euse - De logiciels",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -339006,7 +339006,7 @@
         "company_name": "Expedia Group",
         "id": "03fb9e01-5ae3-4637-937d-c4f610be7ad1",
         "title": "D\u00e9veloppeur - euse - Pour l\u2019application mobile",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -361955,7 +361955,7 @@
         "company_name": "Copart",
         "id": "721629d5-6ab3-44f7-a712-ba5a0ba978e0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -362968,7 +362968,7 @@
         "company_name": "Copart",
         "id": "61829938-5657-4804-973f-dd0afdc9651d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -363037,7 +363037,7 @@
         "company_name": "Salesforce",
         "id": "930a4c19-a9cb-4dce-8651-74724b160e02",
         "title": "Talent Intelligence Data Analyst Intern - Talent Intelligence Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -366830,7 +366830,7 @@
         "company_name": "Bose",
         "id": "d7f1bcce-bdd5-4bd4-9303-6a0a2b20c37b",
         "title": "Audio Systems Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -366877,7 +366877,7 @@
         "company_name": "Bose",
         "id": "9cade8e8-ee9d-4d09-8f10-237e011af5af",
         "title": "Embedded Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -377812,7 +377812,7 @@
         "company_name": "Cisive",
         "id": "34638009-c208-4776-9ee5-5c77e2725fd1",
         "title": "Data and AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
