@@ -129468,29 +129468,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Plexus",
-        "id": "95ee60f6-72ac-4823-befb-9abece948a70",
-        "title": "Intern \u2013 Software Engineer - Spring 2026",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1750913620,
-        "date_posted": 1750913620,
-        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Intern---Software-Engineer--Spring-2026-_R031605",
-        "locations": [
-            "Neenah, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Plexus",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "GE Vernova",
         "id": "b98bb6a0-41b0-49bf-b0a2-628c27db13cd",
         "title": "Software Engineering Intern - Project Delivery",
@@ -295049,7 +295026,7 @@
         "company_name": "Microsoft",
         "id": "ddc6280a-0e50-4cbc-b2f7-bf6d62bf0e3e",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2026",
