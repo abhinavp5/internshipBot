@@ -121,26 +121,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "c9c16ae8-003e-46ef-b527-f022f6e50a3d",
-        "title": "Geforce Technical Marketing Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1750904025,
-        "date_posted": 1750904025,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/GeForce-Technical-Marketing-Intern---Fall-2025_JR1997652",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Rootly",
         "id": "f9d1ddab-5dac-4594-9d42-6fc7b44f3926",
@@ -48498,7 +48478,7 @@
         "company_name": "NVIDIA",
         "id": "1d3bb0fa-1409-41ad-8d46-775c8a1a46e4",
         "title": "Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -296028,7 +296008,7 @@
         "company_name": "Microsoft",
         "id": "08c21cc2-de01-43e6-8237-b59df1898cae",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -310262,7 +310242,7 @@
         "company_name": "Lloyds Bank",
         "id": "a732c138-a34d-492f-9389-9207a1ea880a",
         "title": "Digital Product Manager Apprentice - Leeds",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -315148,7 +315128,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -340440,7 +340420,7 @@
         "company_name": "G-Research",
         "id": "17c34990-fe03-4eda-90e3-f05b903a7b22",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -351673,7 +351653,7 @@
         "company_name": "Roku",
         "id": "ad117403-3a6a-4a4c-af14-0606df291010",
         "title": "Analytics & Insights Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -372589,7 +372569,7 @@
         "company_name": "Bree",
         "id": "42b9b1a6-8748-4194-9d9c-126cb4ae4e38",
         "title": "Co-op & Intern Program - All Roles",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -384330,6 +384310,320 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WebAI",
+        "id": "f227c925-5e4d-4068-949b-762afc940eee",
+        "title": "Intern - Machine Learning Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771640228,
+        "date_posted": 1771640228,
+        "url": "https://jobs.ashbyhq.com/webai/d4d6bcde-2c73-4c56-b41c-841e405dda9e/application",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/c60298a7-e24e-4f51-a18d-dde3aa81e93e",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zoox",
+        "id": "bfe63b5c-8fde-4077-b32e-0cf6b73e8361",
+        "title": "AI Applications Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771640021,
+        "date_posted": 1771640021,
+        "url": "https://jobs.lever.co/zoox/9935eecc-fca9-4f72-9ea8-85ebea928967/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ConductorOne",
+        "id": "4c43999c-d159-4dfd-980d-059f5db5c2bc",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771639900,
+        "date_posted": 1771639900,
+        "url": "https://jobs.ashbyhq.com/conductorone/db5ebd0c-669f-45b9-8709-cf507f9b7b1f/application",
+        "locations": [
+            "Portland, OR",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Conductor-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "fe775c74-ab0c-4937-9a9a-7c4223377e07",
+        "title": "Summer 2026 Intern - Advanced System Development Engineering - Hardware/Software",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771639667,
+        "date_posted": 1771639667,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110490745",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "c6a708c3-810c-4722-bf4f-a23f72dbdfab",
+        "title": "Intern - Software Engineer - Firmware",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771639675,
+        "date_posted": 1771639675,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110490378",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "b6152327-810b-44b2-b9f7-6e75716d2090",
+        "title": "Summer 2026 Intern - Software Engineering - Firmware",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771639642,
+        "date_posted": 1771639642,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110490126",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "9664285a-3def-432f-b245-8ed6cc5b476b",
+        "title": "Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771639652,
+        "date_posted": 1771639652,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110487475",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "8b2df490-dee0-4310-bb07-b829ff7b126b",
+        "title": "Early Career Talent - Drive Integration Engineer - Role begins Summer 2026",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1771639651,
+        "date_posted": 1771639651,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110487246",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "89b1e622-74aa-4c7e-b580-1a00344e7e51",
+        "title": "Summer 2026 Intern - Software Engineering - Firmware",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771639647,
+        "date_posted": 1771639647,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110490085",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "64c38e8f-295d-4ba7-8877-265c553202ce",
+        "title": "Intern - Software Engineer - Embedded",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771639665,
+        "date_posted": 1771639665,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110488536",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "04f749e1-cc2b-4aa0-ab39-fed18da3d2df",
+        "title": "Summer 2026 Co-Op - Read/Write Channel Integration",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771639629,
+        "date_posted": 1771639629,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110493655",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Aurora Innovation",
+        "id": "1b3446cc-c736-4b84-887b-e3f2cddf428e",
+        "title": "Hardware Engineering Intern - Embedded",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1771641672,
+        "date_posted": 1771641672,
+        "url": "https://aurora.tech/jobs/8336885002?gh_jid=8336885002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Box",
+        "id": "e264f6ed-d02f-4138-9e9a-dcce1ab4b6c2",
+        "title": "Product Management Intern - Internal Developer Platforms",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1771641529,
+        "date_posted": 1771641529,
+        "url": "https://job-boards.greenhouse.io/boxinc/jobs/7550753",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Box",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
