@@ -17594,7 +17594,7 @@
         "company_name": "Interactions",
         "id": "40200897-470d-489a-bb5c-646de6cdd4a2",
         "title": "Artificial Intelligence Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -24911,7 +24911,7 @@
         "company_name": "PennState University",
         "id": "b61934f8-6d35-44ab-a28d-32ab706e6e16",
         "title": "Privacy/Security in LLM-Driven Agentic Systems PhD Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -30264,7 +30264,7 @@
         "company_name": "Arch Capital Group",
         "id": "b296925d-bba6-4432-96a4-fdadb8f790f8",
         "title": "Enterprise Document Management Systems - Edms",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -36677,7 +36677,7 @@
         "company_name": "Analog Devices",
         "id": "cc96e6ea-6422-459f-b404-08632e7bbbd2",
         "title": "Machine Learning Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -43632,7 +43632,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "58a77d9a-cdef-42ba-9a31-09dcb7f618a2",
         "title": "AI Developer Intern - Masters",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -74862,7 +74862,7 @@
         "company_name": "Waystar",
         "id": "ba8d05d3-31be-43bb-9836-af3aabd50e91",
         "title": "Data Analyst Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -188031,7 +188031,7 @@
         "company_name": "PTC",
         "id": "9b5b114b-6b81-4a85-9185-7357ce26e6a5",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -194077,7 +194077,7 @@
         "company_name": "BorgWarner",
         "id": "254ddb07-e6f5-4fa8-85b2-8392545b06f2",
         "title": "Jr. System Bench Architect Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -215649,7 +215649,7 @@
         "company_name": "Analog Devices",
         "id": "edb955fc-c1a5-4e4c-be99-a55c8b8cc5e1",
         "title": "Systems Integration Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -236461,7 +236461,7 @@
         "company_name": "KBR",
         "id": "3a679d52-ec27-4b04-8825-ab7b0bb2ed69",
         "title": "Cloud FinOps & Generative AI Intern - Part-Time During School - Full-Time Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -239086,7 +239086,7 @@
         "company_name": "KBR",
         "id": "fdb033ae-3516-431d-928b-6eead2f8c3b0",
         "title": "Software Application Developer Intern for GOES-R Series Satellites",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -257620,7 +257620,7 @@
         "company_name": "General Motors",
         "id": "a5945f9d-f7da-4cf3-ad1a-eb952a00856e",
         "title": "Intern - Simulation Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -267408,7 +267408,7 @@
         "company_name": "General Motors",
         "id": "980dc4a6-6503-4fd8-a2d8-a03f5020a0e3",
         "title": "Intern - Machine Learning Engineer - Map Enhancements",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -277828,7 +277828,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "7b58a5aa-d8e5-49fb-bc7f-5334cd7e4181",
         "title": "Systems Engineer Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -281084,7 +281084,7 @@
         "company_name": "HNTB",
         "id": "a1903b8e-fd46-421e-9315-ac07907033f8",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -288399,7 +288399,7 @@
         "company_name": "Crane Co.",
         "id": "766230c8-af14-4791-981d-ff635a36c7a8",
         "title": "Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -294820,7 +294820,7 @@
         "company_name": "Fifth Third Bank",
         "id": "c6d861fc-b734-4bd1-bca3-db0e2f15151b",
         "title": "Software Engineer Co-op - Enterprise Finance Applications - Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -294843,7 +294843,7 @@
         "company_name": "Fifth Third Bank",
         "id": "27832ef3-f060-4c14-b103-5632d2defa84",
         "title": "Enterprise Data Office College Co-op - Fall 2026 - Cincinnati",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -310513,7 +310513,7 @@
         "company_name": "KLA",
         "id": "5f3823a8-4164-49ef-88c9-b38cc3d1d0c5",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -314161,7 +314161,7 @@
         "company_name": "KLA",
         "id": "68a5c4c4-0281-4735-9b76-9aa50bcaed3a",
         "title": "Product Development Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -318812,7 +318812,7 @@
         "company_name": "Copeland",
         "id": "d40012e6-3169-420b-a513-1f5e11a14845",
         "title": "Associate Agile Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -319159,7 +319159,7 @@
         "company_name": "Booz Allen",
         "id": "69d2783d-64a2-41d0-b380-8e7b6dcf7ca7",
         "title": "University \u2013 Games Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -322473,7 +322473,7 @@
         "company_name": "Bloomberg Industry Group",
         "id": "ff8b72be-2553-4938-b53b-f229fb743a37",
         "title": "Content Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -322541,7 +322541,7 @@
         "company_name": "Bloomberg Industry Group",
         "id": "b5c7b383-bd41-4ae1-b1c1-6a97ab577ebe",
         "title": "Content Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -328453,7 +328453,7 @@
         "company_name": "AskBio",
         "id": "f8a720fb-0236-4d2a-bad4-5e8e43a0c640",
         "title": "Intern-IT \u2013 AI Team - Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -328476,7 +328476,7 @@
         "company_name": "AskBio",
         "id": "dafe8006-41eb-421a-9d06-9a081427fb43",
         "title": "Intern-Data Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333384,7 +333384,7 @@
         "company_name": "Chipotle Mexican Grill",
         "id": "7921c995-8f34-478e-aada-21a9aeecfbd7",
         "title": "Marketing Analytics \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -337998,7 +337998,7 @@
         "company_name": "Bio-Techne",
         "id": "dbaad178-19b0-427f-b027-f037bfeb6427",
         "title": "Target Analysis/Antibody Business Unit Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -339589,7 +339589,7 @@
         "company_name": "Freese and Nichols",
         "id": "565290cd-4a2d-43ea-bcaa-59d042a8c459",
         "title": "Fluvial Geomorphologist 1 - Hydrologist I - Ecosystem Restoration",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -342599,7 +342599,7 @@
         "company_name": "AVEVA",
         "id": "f5148b26-9ad4-4ca2-a6c1-f2ef99042c6b",
         "title": "Services Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343026,7 +343026,7 @@
         "company_name": "Camping World",
         "id": "ee9606ee-3262-4e74-8038-c9519e7c9488",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -348220,7 +348220,7 @@
         "company_name": "Jain Global",
         "id": "47284c9c-0326-4c70-9192-c536f52a9731",
         "title": "Rates & Macro Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -351040,7 +351040,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "e295046d-008f-4d60-9d5d-5359f5197087",
         "title": "Technology & Innovation Organization Hardware Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -353678,7 +353678,7 @@
         "company_name": "Insulet Corporation",
         "id": "9b671a43-ba45-4720-b443-862959d1f234",
         "title": "Co-op \u2013 Embedded Software Engineer - July-Dec 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -357485,7 +357485,7 @@
         "company_name": "Warner Bros.",
         "id": "1bca7197-56ce-4628-b228-dcd9c4fa9455",
         "title": "WB Games Product Management Intern: LA - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -357762,7 +357762,7 @@
         "company_name": "State Street",
         "id": "92163c45-eb19-4a13-99eb-9ee83ab1ad74",
         "title": "State Street \u2013 Quantitative Analyst Summer Internship 2026 - Model Risk Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -358093,7 +358093,7 @@
         "company_name": "Zoetis",
         "id": "874eea30-e8ce-4343-a302-1f70eb060ed6",
         "title": "Product Analyst GMS ERP Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -359032,7 +359032,7 @@
         "company_name": "Altera Corporation",
         "id": "7a99a0e3-af7c-47c0-8eb1-96c41bb5da43",
         "title": "High Level Synthesis \u2013 Compiler Intern - Hls",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -361661,7 +361661,7 @@
         "company_name": "CAE",
         "id": "57a85a30-1839-4b8b-af86-6fe6a2ea3c99",
         "title": "Integration Specialist Intern Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -363701,7 +363701,7 @@
         "company_name": "Jones Lang LaSalle (JLL)",
         "id": "7469bc58-10f4-4160-bc41-3b49d0085d4b",
         "title": "Capital Markets Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364599,7 +364599,7 @@
         "company_name": "Bio-Techne",
         "id": "d80d5359-8657-42f8-94ab-0df5da5b70c1",
         "title": "Graduate Data Analyst Intern-Operations & Supply Chain",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -366625,7 +366625,7 @@
         "company_name": "Epicor",
         "id": "ef61147f-d5b4-457f-aa4f-da40573d454e",
         "title": "Intern - Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368460,7 +368460,7 @@
         "company_name": "Cadence Design Systems",
         "id": "6b87aae3-600e-44cf-a1da-bf644ac65dce",
         "title": "SVG Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368912,7 +368912,7 @@
         "company_name": "Leidos",
         "id": "30555567-cc7b-4173-9b1e-7b18a483084f",
         "title": "Signal/Image Processing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -370508,7 +370508,7 @@
         "company_name": "Sun Life",
         "id": "470b3a8f-ed6d-48da-b788-77402b7915eb",
         "title": "Corporate Information Services Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -372546,7 +372546,7 @@
         "company_name": "SWBC",
         "id": "98fc61fd-a3b6-41c3-bd5f-20d2f0f39969",
         "title": "ETL Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -374558,7 +374558,7 @@
         "company_name": "Great American Insurance Company",
         "id": "412c21dc-a697-441a-887f-0fc8a74dbe3b",
         "title": "Enterprise Analytics Intern - Business Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379891,7 +379891,7 @@
         "company_name": "T-Mobile",
         "id": "5d3ed0a4-860b-4276-9cb5-ec6e529699ce",
         "title": "Associate Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380439,7 +380439,7 @@
         "company_name": "RTX",
         "id": "011516e8-1e0a-43b5-8daf-12639fb31888",
         "title": "Systems Engineering Co-Op - Summer/Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -380650,7 +380650,7 @@
         "company_name": "Johnson Controls",
         "id": "7bae9891-59e2-4d28-84d9-7c17571775c3",
         "title": "Digital Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380742,7 +380742,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "254586ca-1d9d-44bb-82b5-8bdf7e03ec73",
         "title": "Relationship Manager \u2013 Business Markets",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380786,7 +380786,7 @@
         "company_name": "Cadence Design Systems",
         "id": "e39b28c2-dd70-4eda-a4fb-8eb49239c9a0",
         "title": "Product Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -381015,7 +381015,7 @@
         "company_name": "Johnson & Johnson",
         "id": "2499010a-01e8-48bc-beb3-8dfe84cc21ed",
         "title": "Data Science Co-Op - Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -381109,7 +381109,7 @@
         "company_name": "Bank of Montreal",
         "id": "05ec054b-8383-4f55-b7a7-3b3a1813f1aa",
         "title": "Junior Engineer \u2013 Co-op/Internship - Electronic Trading Infrastructure - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -381393,7 +381393,7 @@
         "company_name": "Parsons",
         "id": "db9c0380-ff91-428a-90ee-f444db77e202",
         "title": "Space Ops Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -383735,7 +383735,7 @@
         "company_name": "QuidelOrtho",
         "id": "710bf8ff-96b0-4d2e-8f9f-35721f9d6e7d",
         "title": "Global Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
