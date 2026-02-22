@@ -376078,7 +376078,7 @@
         "company_name": "Western Digital",
         "id": "fadeae76-fe57-4a1c-be21-b1253ea5dfb2",
         "title": "Summer 2026 Co-Op - Read/Write Channel Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -383209,7 +383209,7 @@
         "company_name": "The Walt Disney Company",
         "id": "28ff4075-ce54-4ca2-84bd-a796557eefef",
         "title": "Software Engineering Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
