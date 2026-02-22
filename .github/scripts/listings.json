@@ -50891,7 +50891,7 @@
         "company_name": "Qualcomm",
         "id": "9358104a-17f4-47c4-b8f8-deb45847e133",
         "title": "Hardware \u2013 Engineering Internship - CPU - Gpu - SoC - Digital Design - DV",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -321103,7 +321103,7 @@
         "company_name": "The Boeing Company",
         "id": "7848bf7b-3394-4d37-ab38-8466cb514464",
         "title": "Boeing Pre-Employment Training - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
