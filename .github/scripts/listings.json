@@ -121,46 +121,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ithaka",
-        "id": "947b55f7-4da0-49cd-b2dc-53722fbd8cf2",
-        "title": "Intern \u2013 Software Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1751066142,
-        "date_posted": 1751066142,
-        "url": "https://www.ithaka.org/job/4580969005?gh_jid=4580969005",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ithaka",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "bc6ec38d-0e59-4761-9bd6-9bb2bba2ca8c",
-        "title": "Multilingual Data Intern - Speech",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1751066823,
-        "date_posted": 1751066823,
-        "url": "https://jobs.bytedance.com/en/position/7520464007472793874/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Ciena",
         "id": "95abbac3-16e0-458d-83a4-ff86a0991176",
@@ -50868,7 +50828,7 @@
         "company_name": "Qualcomm",
         "id": "9358104a-17f4-47c4-b8f8-deb45847e133",
         "title": "Hardware \u2013 Engineering Internship - CPU - Gpu - SoC - Digital Design - DV",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -368623,7 +368583,7 @@
         "company_name": "PA Consulting",
         "id": "867a10c2-b56f-4ac7-8fe6-80c2b0b698a4",
         "title": "Intern - Digital - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -382369,7 +382329,7 @@
         "company_name": "7-Eleven",
         "id": "590a3cdc-e08a-423d-8b7f-6cb1b07fd80c",
         "title": "Fuel Pricing Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -384489,6 +384449,97 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Roku",
+        "id": "1d52c618-5d43-475b-8790-f6e679eafe19",
+        "title": "Software Engineer Intern - Advanced Development",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771802478,
+        "date_posted": 1771802478,
+        "url": "https://www.weareroku.com/jobs/7626203?gh_jid=7626203",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Roku",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ticketmaster",
+        "id": "1ee92af0-e2c2-4389-a13f-10726842d5ee",
+        "title": "Intern Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771802270,
+        "date_posted": 1771802270,
+        "url": "https://livenation.wd503.myworkdayjobs.com/en/TMExternalSite/job/Reston-VA-USA/Intern-Software-Engineering_JR-85192",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ticketmaster",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "22bf432b-902d-4d83-9e84-c35b349a3e30",
+        "title": "Software Engineer - Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771801749,
+        "date_posted": 1771801749,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110560984",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SAS",
+        "id": "7ca27d52-3a76-4ba5-8233-b5f6566cd083",
+        "title": "Business Value Engineering & Financial Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771801544,
+        "date_posted": 1771801544,
+        "url": "https://careers-sas.icims.com/jobs/40650/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/SAS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
