@@ -50785,7 +50785,7 @@
         "company_name": "Qualcomm",
         "id": "ea5560ef-f805-48bd-8876-ea9ecf085c91",
         "title": "Multimedia Engineering Internship - Interim Engineering Intern - Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -314771,7 +314771,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -379121,7 +379121,7 @@
         "company_name": "Veolia",
         "id": "68c7c03c-a6b7-49e4-8c86-15fb3a873c67",
         "title": "Integration Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379417,7 +379417,7 @@
         "company_name": "Bank of Montreal",
         "id": "58d01b98-f949-4c09-ac2a-1def9824b7e3",
         "title": "Digital Product Manager \u2013 Co-op/Internship - Summer 2026 - 4 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -382694,7 +382694,7 @@
         "company_name": "Veolia",
         "id": "15b606fe-ebca-4dee-8d60-1dedbc36cd4f",
         "title": "Integration Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -384457,6 +384457,54 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "4667fa93-10f5-47fa-9fd5-dd62c6ff8f28",
+        "title": "Intern - HDD Testing",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771744175,
+        "date_posted": 1771744175,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110543825",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Western Digital",
+        "id": "0d1a1aa2-36ac-4351-af65-180d09512b88",
+        "title": "2026 Summer Intern - Data Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771744178,
+        "date_posted": 1771744178,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110544134",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
