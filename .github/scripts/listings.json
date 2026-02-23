@@ -154646,7 +154646,7 @@
         "company_name": "Draper",
         "id": "ebe326e0-f3eb-43db-9b9c-e7b5b020d618",
         "title": "Machine Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -166526,7 +166526,7 @@
         "company_name": "CACI",
         "id": "7d74b2a5-a588-4594-83bb-fb25249b84f5",
         "title": "Software Development Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Summer 2025"
@@ -226153,7 +226153,7 @@
         "company_name": "Apex Fintech Solutions",
         "id": "924d0152-ddd6-4016-ab0a-fb944c747614",
         "title": "Software Engineering Intern - AI Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -279284,7 +279284,7 @@
         "company_name": "Geotab",
         "id": "aae35540-9014-44d4-a5b8-3d57cb67128b",
         "title": "Mscac Data Scientist Interns",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -292876,7 +292876,7 @@
         "company_name": "Rocket Mortgage",
         "id": "d96041a5-bf84-4cff-8e0e-471a431105dd",
         "title": "Delivery Manager Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -310619,7 +310619,7 @@
         "company_name": "NXP Semiconductors",
         "id": "93da4058-89c1-4e5c-9135-d088a8de1aba",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -314627,7 +314627,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343224,7 +343224,7 @@
         "company_name": "Draper",
         "id": "d0134d6d-3332-4be5-905e-419b31ffd2df",
         "title": "Resilience and Fault Tolerance Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -363724,7 +363724,7 @@
         "company_name": "Teledyne",
         "id": "ea0c0373-c713-4f29-8542-9cddf885c093",
         "title": "Software Engineer Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364453,7 +364453,7 @@
         "company_name": "Availity",
         "id": "167ef563-1869-41f4-a5bf-cb0728fe84b3",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -367675,7 +367675,7 @@
         "company_name": "Sigma Computing",
         "id": "5117afc4-9888-41d9-8c99-ee9da42a5efa",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376120,7 +376120,7 @@
         "company_name": "SRI International",
         "id": "9c7a97e5-f18e-443e-b914-ccdb7204a2ae",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379317,7 +379317,7 @@
         "company_name": "Healthfirst",
         "id": "aa001b32-e21e-40b6-95f4-baf1b314741b",
         "title": "Software Engineer Intern - Cbt",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -385106,5 +385106,159 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "BorgWarner",
+        "id": "0d30a219-5bc9-41c3-a020-aae0f2df3dd1",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771861831,
+        "date_posted": 1771861831,
+        "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Engineering-Intern--Summer-_R2026-0586",
+        "locations": [
+            "Auburn Hills, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/BorgWarner",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "UnitedMasters",
+        "id": "b0ef9953-3aa5-41aa-b6cb-c5211e20934f",
+        "title": "Music Analytics & Insights Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771861737,
+        "date_posted": 1771861737,
+        "url": "https://job-boards.greenhouse.io/unitedmasterstranslation/jobs/8429694002",
+        "locations": [
+            "Brooklyn, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/UnitedMasters",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intel",
+        "id": "95503c61-b836-4d4a-abb4-2d7011b6ed15",
+        "title": "Graduate Intern Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771861575,
+        "date_posted": 1771861575,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Graduate-Intern-Software-Engineering-Summer-2026_JR0279778",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "e3fcaf27-791f-4822-9111-6effc0aa1f7b",
+        "title": "Project Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771861225,
+        "date_posted": 1771861225,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-PHOENIX-3414-B2--3414-S-5th-St--BLDG-2/Project-Engineering-Intern--Summer-2026--Onsite-_01825484",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DRW",
+        "id": "e22f2eb8-0636-4cbc-8b20-db9098666507",
+        "title": "City Scholars Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1771860852,
+        "date_posted": 1771860852,
+        "url": "https://job-boards.greenhouse.io/drwuniversityjobs/jobs/7642959",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/DRW",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Protiviti",
+        "id": "5387d61a-2046-47ed-a783-9d28adf0d2b0",
+        "title": "Technology Consulting Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771860726,
+        "date_posted": 1771860726,
+        "url": "https://roberthalf.wd1.myworkdayjobs.com/protivitiexperiencedcareers/job/DALLAS/Dallas-Technology-Consulting-Intern---2027_JR-258911-3",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Protiviti",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Protiviti",
+        "id": "466a9816-a784-4163-882c-24d8f3654b58",
+        "title": "Technology Consulting Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771860709,
+        "date_posted": 1771860709,
+        "url": "https://roberthalf.wd1.myworkdayjobs.com/protivitiexperiencedcareers/job/NEW-YORK-CITY/New-York-Technology-Consulting-Intern---2027_JR-258932-3",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Protiviti",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
