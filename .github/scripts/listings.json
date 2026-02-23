@@ -307342,7 +307342,7 @@
         "company_name": "Baker Tilly",
         "id": "f51b4864-f020-4468-8f0b-3f6a747f2874",
         "title": "Summer 2026 Digital Consulting Staff Consultant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -340638,7 +340638,7 @@
         "company_name": "Warner Bros.",
         "id": "f712cfc8-6139-4746-9840-11fbd74bcbeb",
         "title": "WB Games NetherRealm Software Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -364845,7 +364845,7 @@
         "company_name": "Denver",
         "id": "9da9813e-e90c-4272-a62d-70d7fbf432f3",
         "title": "Airport GIS + Planning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -384567,6 +384567,145 @@
             "Morrisville, NC"
         ],
         "company_url": "https://simplify.jobs/c/JMP-Statistical-Discovery",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "563a7294-3b6b-4489-9f25-9ee24b9eb0d1",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771831543,
+        "date_posted": 1771831543,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineering-Intern--Summer-2026---Onsite-_01790426",
+        "locations": [
+            "Annapolis, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "a07c63b9-4897-47fe-89b2-3dbd74199d97",
+        "title": "Software Engineer Project Intern - Video-on-Demand Algorithm - 2026 Start','BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771830913,
+        "date_posted": 1771830913,
+        "url": "https://lifeattiktok.com/search/7609019984313452805",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "8446db65-80d7-4ae4-8a90-95bcc72a7b13",
+        "title": "Backend Software Engineer Project Intern - Creation Platform - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771830888,
+        "date_posted": 1771830888,
+        "url": "https://lifeattiktok.com/search/7609047550392191237",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Daifuku",
+        "id": "6fa74b97-06ce-4d5f-92f3-5e39c23cf2ec",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771830537,
+        "date_posted": 1771830537,
+        "url": "https://careers-daifuku-america.icims.com/jobs/21070/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Salt Lake City, UT",
+            "Clearwater, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Daifuku",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Daifuku",
+        "id": "418d584b-22ec-4a33-8678-306ce1edea37",
+        "title": "Application Engineering Intern - Revit Exp. a MUST",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771830532,
+        "date_posted": 1771830532,
+        "url": "https://careers-daifuku-america.icims.com/jobs/21071/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Woodridge, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Daifuku",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Eurofins",
+        "id": "11a10c48-ca57-4307-ac15-4bcda7e00b4f",
+        "title": "Financial Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771830512,
+        "date_posted": 1771830512,
+        "url": "https://jobs.smartrecruiters.com/Eurofins/744000110642075",
+        "locations": [
+            "Lancaster, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Eurofins",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
