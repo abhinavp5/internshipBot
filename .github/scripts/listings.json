@@ -281117,7 +281117,7 @@
         "company_name": "Graphcore",
         "id": "0caf5691-ebe5-4b8a-99d9-9776c120dd61",
         "title": "2026 Silicon Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -303440,7 +303440,7 @@
         "company_name": "PA Consulting",
         "id": "a6c20ee9-648a-4a18-a7f4-af646dcdf7ef",
         "title": "2026 Apprentice - Digital - Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -340501,7 +340501,7 @@
         "company_name": "Regal Rexnord",
         "id": "d2d69eaf-763e-47f9-aebd-e6c4469d7a55",
         "title": "Application Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -349061,7 +349061,7 @@
         "company_name": "John Deere",
         "id": "ee774c76-9169-4fd2-bc3b-7ceffa80981f",
         "title": "Part-Time Student - Software Systems - Ames IA Product Engineering CA",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -361477,7 +361477,7 @@
         "company_name": "Northrop Grumman",
         "id": "010d839b-049d-498b-a477-d082253bba5e",
         "title": "2026 AI Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -364872,7 +364872,7 @@
         "company_name": "Denver",
         "id": "29be9deb-c9c5-436a-83aa-09d0fd1c6937",
         "title": "Data Analytics and Innovation College Internship - Analytics and Innovation - Denver International Airport",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -367535,7 +367535,7 @@
         "company_name": "Sigma Computing",
         "id": "ec8e25f8-7763-4195-b723-ed2677c68f74",
         "title": "AI/ML PhD Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -378977,7 +378977,7 @@
         "company_name": "Veolia",
         "id": "68c7c03c-a6b7-49e4-8c86-15fb3a873c67",
         "title": "Integration Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -383983,7 +383983,7 @@
         "company_name": "Western Digital",
         "id": "8b2df490-dee0-4310-bb07-b829ff7b126b",
         "title": "Early Career Talent - Drive Integration Engineer - Role begins Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -385257,6 +385257,166 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Protiviti",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OCLC",
+        "id": "f8e7a940-50ae-4ea5-85a5-108ddc5556c3",
+        "title": "Software Engineer Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771862443,
+        "date_posted": 1771862443,
+        "url": "https://oclc.wd1.myworkdayjobs.com/en-US/OCLC_Careers/job/Corporate-Office---Dublin/Technical-Intern_R0003780",
+        "locations": [
+            "Dublin, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/350afefb-30b2-4d69-899d-19a3d7dd96f5",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OCLC",
+        "id": "9d5bfce1-c0d2-4936-9629-dd3f7349386c",
+        "title": "Software Engineer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771862440,
+        "date_posted": 1771862440,
+        "url": "https://oclc.wd1.myworkdayjobs.com/en-US/OCLC_Careers/job/Corporate-Office---Dublin/Technical-Intern_R0003779-1",
+        "locations": [
+            "Dublin, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/350afefb-30b2-4d69-899d-19a3d7dd96f5",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OCLC",
+        "id": "6f48a27f-c017-4625-947f-88f1af7840e7",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771862441,
+        "date_posted": 1771862441,
+        "url": "https://oclc.wd1.myworkdayjobs.com/en-US/OCLC_Careers/job/Dublin-OH--Hybrid/Software-Engineer-Summer-Intern_R0003781",
+        "locations": [
+            "Dublin, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/350afefb-30b2-4d69-899d-19a3d7dd96f5",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OCLC",
+        "id": "6609df01-ac9c-45ee-8339-323ae397ac8e",
+        "title": "Software Engineer Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771862441,
+        "date_posted": 1771862441,
+        "url": "https://oclc.wd1.myworkdayjobs.com/en-US/OCLC_Careers/job/Dublin-OH--Hybrid/Software-Engineer-Summer-Intern_R0003784",
+        "locations": [
+            "Dublin, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/350afefb-30b2-4d69-899d-19a3d7dd96f5",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OCLC",
+        "id": "5b3e1126-1279-4ac8-8301-45e9a5caf2da",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771862448,
+        "date_posted": 1771862448,
+        "url": "https://oclc.wd1.myworkdayjobs.com/en-US/OCLC_Careers/job/Dublin-OH--Hybrid/Software-Engineer-Intern_R0003782",
+        "locations": [
+            "Dublin, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/350afefb-30b2-4d69-899d-19a3d7dd96f5",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OCLC",
+        "id": "23a9e81c-67bb-429e-804e-99da4b663f77",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771862441,
+        "date_posted": 1771862441,
+        "url": "https://oclc.wd1.myworkdayjobs.com/en-US/OCLC_Careers/job/Dublin-OH--Hybrid/Software-Engineer-Summer-Intern_R0003783",
+        "locations": [
+            "Dublin, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/350afefb-30b2-4d69-899d-19a3d7dd96f5",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Vanguard",
+        "id": "dcd06c0a-8446-4b5b-a69a-0f16ac7dfde7",
+        "title": "Technology Intern - GIFS",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Summer 2026"
+        ],
+        "date_updated": 1771862000,
+        "date_posted": 1771862000,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/London-United-Kingdom/Technology--GIFS--Internship---Summer-2026_175115-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanguard",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
