@@ -139894,7 +139894,7 @@
         "company_name": "Electronic Arts",
         "id": "b39063dd-94d8-4df3-9413-b65cbf70de2c",
         "title": "Gameplay Engineer Intern - Gameplay Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -281447,7 +281447,7 @@
         "company_name": "Graphcore",
         "id": "41f653c9-8be2-459f-9331-3350c2e12de1",
         "title": "2026 Silicon Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -359150,7 +359150,7 @@
         "company_name": "Seaspan",
         "id": "cbab1c5f-f8eb-4195-ba4b-787fc66196a0",
         "title": "Business Technology Solutions - Enterprise Resource Planning Implementation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -359393,7 +359393,7 @@
         "company_name": "Seaspan",
         "id": "2a92438e-adc6-47b0-b618-024c243e8195",
         "title": "Intern \u2013 Power Platform - 8 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -367650,7 +367650,7 @@
         "company_name": "Sigma Computing",
         "id": "64348a71-33c9-47f0-a1c9-af608c7c2787",
         "title": "Software Engineer \u2013 New Grad Program",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -368357,7 +368357,7 @@
         "company_name": "Denver",
         "id": "817cea52-3ef2-41ab-97b7-d8fe7ccfeed9",
         "title": "Innovation Project Associate Intern - Analytics and Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371520,7 +371520,7 @@
         "company_name": "T-Mobile",
         "id": "908244b6-574d-4545-b3c3-42d627cba566",
         "title": "Product Management \u2013 Ecommerce Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -377154,7 +377154,7 @@
         "company_name": "Intermountain Healthcare",
         "id": "ddc47a93-4dff-4c45-9d45-09ffd1f1b8c1",
         "title": "Data Scientist Intern - Proactive Care",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -377263,7 +377263,7 @@
         "company_name": "Intermountain Healthcare",
         "id": "4f59e00e-958a-4c6b-9085-d22491e51977",
         "title": "Machine Learning Operations Intern - MLOps",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -383960,7 +383960,7 @@
         "company_name": "Western Digital",
         "id": "9664285a-3def-432f-b245-8ed6cc5b476b",
         "title": "Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -384440,7 +384440,7 @@
         "company_name": "Western Digital",
         "id": "22bf432b-902d-4d83-9e84-c35b349a3e30",
         "title": "Software Engineer - Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
