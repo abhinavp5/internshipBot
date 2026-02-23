@@ -122,47 +122,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Ciena",
-        "id": "95abbac3-16e0-458d-83a4-ff86a0991176",
-        "title": "Waveserver Software Developer Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1751068509,
-        "date_posted": 1751068509,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Waveserver-Software-Developer-Intern--Fall-2025-_R028360",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Autodesk",
-        "id": "174fcbf1-a27d-414e-9ae7-3f510af30546",
-        "title": "Intern \u2013 Software Developer/ Stagiaire en d\u00e9veloppement logiciels",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1751074042,
-        "date_posted": 1751074042,
-        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-dveloppement-logiciels_25WD89784-1",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Airbus",
         "id": "e87f370c-7488-4fed-a53a-704c3f81b0af",
         "title": "Internship - Software Engineering",
@@ -123083,7 +123042,7 @@
         "company_name": "Moloco",
         "id": "d0b3cb7e-7b34-44cc-8ca1-4b0d90082466",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -331597,7 +331556,7 @@
         "company_name": "Franklin Templeton",
         "id": "11c66074-0321-4aad-91ad-d94170510a88",
         "title": "Product Management and Investor Relations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -374571,7 +374530,7 @@
         "company_name": "Western Digital",
         "id": "6d636051-50d8-4674-b2bc-fdfae0884042",
         "title": "Early Career Talent",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -384540,6 +384499,29 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Flextronics International",
+        "id": "5404bcf6-1945-4f61-bb38-4433f2e24587",
+        "title": "Manufacturing Data & Analytics Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771804420,
+        "date_posted": 1771804420,
+        "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-IL-Libertyville/Manufacturing-Data---Analytics-Co-Op_WD216004",
+        "locations": [
+            "Vernon Hills, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Flextronics-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
