@@ -7186,7 +7186,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Hopkins, MN</td>
 <td>Winter 2025</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/ServiceNow?utm_source=GHList&utm_medium=company">ServiceNow</a></strong></td>
@@ -22736,7 +22736,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><details><summary><strong>12 locations</strong></summary>California<br>Washington, DC<br>SF<br>LA<br>Texas<br>San Jose, CA<br>Jackson Township, NJ<br>Waterbury, CT<br>Colorado<br>NYC<br>Maryland<br>Massachusetts</details></td>
 <td>Winter 2025</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong>Ahold Delhaize USA</strong></td>
@@ -27950,7 +27950,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Burlington, MA</td>
 <td>Spring 2026</td>
 <td>🔒</td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
@@ -30641,7 +30641,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Axon?utm_source=GHList&utm_medium=company">Axon</a></strong></td>
 <td>2026 US Embedded Engineering Internship - </td>
 <td>Boston, MA<br>Seattle, WA</td>
 <td>Winter 2025</td>
@@ -32070,7 +32070,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Plymouth, MI</td>
 <td>Winter 2025</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Ocean-Optics?utm_source=GHList&utm_medium=company">Ocean Optics</a></strong></td>

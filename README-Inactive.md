@@ -7914,7 +7914,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
 <td>The Walt Disney Studios – Software Engineering Intern - Summer 2026</td>
 <td>Burbank, CA</td>
 <td>🔒</td>
@@ -11295,7 +11295,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Rolls-Royce-Motorcars?utm_source=GHList&utm_medium=company">Rolls Royce</a></strong></td>
+<td>↳</td>
 <td>IT Developer/Operations Feature Team Internship</td>
 <td>Oxford, UK</td>
 <td>🔒</td>
@@ -11943,7 +11943,7 @@
 <td>Software Engineer Intern - Multiple Teams</td>
 <td>Remote in USA</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RESPEC?utm_source=GHList&utm_medium=company">RESPEC</a></strong></td>
@@ -25260,14 +25260,14 @@
 <td>6d</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
 <td>ABC News Insights and Analytics Intern - Summer/Fall 2026</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
+<td>↳</td>
 <td>ABC News Insights and Analytics Intern - Summer/Fall 2026</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -29909,7 +29909,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Roche?utm_source=GHList&utm_medium=company">Roche</a></strong></td>
+<td>↳</td>
 <td>Intern - Technical Specialist 🎓</td>
 <td>Mississauga, ON, Canada</td>
 <td>🔒</td>
@@ -43563,21 +43563,21 @@
 <td>Research Intern - Systems Research Group</td>
 <td>Redmond, WA</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Qualcomm?utm_source=GHList&utm_medium=company">Qualcomm</a></strong></td>
 <td>Intern - And Sensors Subsystem Engineering Internship - Low-Power AI - Audio</td>
 <td>Markham, ON, Canada</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/American-Century-Investments?utm_source=GHList&utm_medium=company">American Century Investments</a></strong></td>
 <td>IT Data Intern - Engineering - Analytics and AI/ML</td>
 <td>Kansas City, MO</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Veritiv-Corporation?utm_source=GHList&utm_medium=company">Veritiv Corporation</a></strong></td>
@@ -44392,7 +44392,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/30f50907-d22b-40aa-a394-d75e18dcb37f?utm_source=GHList&utm_medium=company">Live Oak Bank</a></strong></td>
+<td>↳</td>
 <td>Data Science Intern - Analytics Team</td>
 <td>Wilmington, NC</td>
 <td>🔒</td>
@@ -57433,7 +57433,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Vertiv?utm_source=GHList&utm_medium=company">Vertiv</a></strong></td>
 <td>Design Engineer Internship</td>
 <td><details><summary><strong>4 locations</strong></summary>Delaware<br>Fort Lauderdale, FL<br>Huntsville, AL<br>Ohio</details></td>
 <td>🔒</td>
