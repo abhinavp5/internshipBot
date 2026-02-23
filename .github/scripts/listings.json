@@ -320979,7 +320979,7 @@
         "company_name": "The Boeing Company",
         "id": "7848bf7b-3394-4d37-ab38-8466cb514464",
         "title": "Boeing Pre-Employment Training - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -339269,7 +339269,7 @@
         "company_name": "GE Vernova",
         "id": "e1e84661-916f-4a1e-9504-adb4e2d5b0f4",
         "title": "Energy Optimization Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -339758,7 +339758,7 @@
         "company_name": "RTX",
         "id": "aa2b2287-2ed0-4401-aefe-086797c1ed71",
         "title": "Projet d\u2019\u00e9volution de l\u2019IA - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -350996,7 +350996,7 @@
         "company_name": "Prior Labs",
         "id": "a39a86bb-991c-4915-982e-8a1388db3fd9",
         "title": "Research Scientist Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -369599,7 +369599,7 @@
         "company_name": "GE Vernova",
         "id": "fd614b40-3a6a-4c73-84cb-ff9848e548f4",
         "title": "GE Vernova Grid Solutions \u2013 Hardware Engineering Intern - Critical Infrastructure Communications",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -374601,7 +374601,7 @@
         "company_name": "T-Mobile",
         "id": "5cf583fc-d1ec-441c-9d51-51b222243f19",
         "title": "Engineering Intern System Architecture - System Architecture",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380913,7 +380913,7 @@
         "company_name": "Takeda",
         "id": "c960b654-1398-4ed0-8c74-c9045c5eaaf1",
         "title": "Lab Intern - DE&C - Device Evaluation and Characterization",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -382129,7 +382129,7 @@
         "company_name": "KION Group",
         "id": "36d336df-e770-4eb0-95ea-b7f6f18c19e2",
         "title": "Quality Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -383558,7 +383558,7 @@
         "company_name": "KION Group",
         "id": "6df34b82-301c-49aa-b96a-eac8b9f9d284",
         "title": "Quality Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
