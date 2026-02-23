@@ -31017,7 +31017,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Rivian?utm_source=GHList&utm_medium=company">Rivian</a></strong></td>
+<td>↳</td>
 <td>Engineering Intern - Infotainment Hardware Design</td>
 <td>Palo Alto, CA</td>
 <td>Winter 2026</td>
