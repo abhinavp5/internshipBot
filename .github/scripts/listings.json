@@ -225941,7 +225941,7 @@
         "company_name": "Analog Devices",
         "id": "6175c865-e733-47e6-b021-62eba6fa1391",
         "title": "Digital Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -320297,7 +320297,7 @@
         "company_name": "The Boeing Company",
         "id": "9c9cab73-bf98-43ff-b524-d75928774425",
         "title": "Specialty Program - Engineering Intern Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -329422,7 +329422,7 @@
         "company_name": "Capital Automotive Group",
         "id": "41512a85-88d1-49f4-b7da-0cf50c070761",
         "title": "Accessories Installation Technician",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -360064,7 +360064,7 @@
         "company_name": "Orbital Materials",
         "id": "ebfeefc1-80dd-4e14-8bb3-50e5abce9b43",
         "title": "AI Residency Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368409,7 +368409,7 @@
         "company_name": "Citi",
         "id": "df274575-8f6f-408f-8a36-21805ec29517",
         "title": "Early ID Program - Markets - Quantitative Analysis",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -370416,7 +370416,7 @@
         "company_name": "Ensora Health",
         "id": "573b6042-43ba-4d24-a71b-18458b21defd",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370494,7 +370494,7 @@
         "company_name": "Ensora Health",
         "id": "4c148a14-350a-403d-98fe-4263ef0a24ee",
         "title": "AI/ML Intern - Generative AI & Intelligent Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370515,7 +370515,7 @@
         "company_name": "Ensora Health",
         "id": "4b315744-0223-49f8-821c-b3b7cb584fb5",
         "title": "AI/ML Intern - Generative AI & Intelligent Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370632,7 +370632,7 @@
         "company_name": "Ensora Health",
         "id": "a255c5ea-d28a-4192-851d-77153d224683",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371544,7 +371544,7 @@
         "company_name": "Ensora Health",
         "id": "a29de138-ba31-457e-94a5-25d02337d6a0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -375192,7 +375192,7 @@
         "company_name": "Johnson & Johnson",
         "id": "ea2c4a43-bf51-46d5-a871-6ae1445ce9b7",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -375231,9 +375231,9 @@
         "degrees": []
     },
     {
-        "date_updated": 1771427429,
+        "date_updated": 1771856741,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -384246,7 +384246,7 @@
         "company_name": "The Boeing Company",
         "id": "eb1cd785-ab5d-4ffd-819d-6517c4a01c7c",
         "title": "ASIC and/or FPGA Design and Verification Engineers \u2013 Entry Level - Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -384915,6 +384915,78 @@
             "New Castle, DE"
         ],
         "company_url": "https://simplify.jobs/c/Waters-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Protiviti",
+        "id": "5ba2c64d-0bf4-44e5-a8a0-b3bdc0bd73fa",
+        "title": "Houston Technology Consulting Intern - 2027",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771854382,
+        "date_posted": 1771854381,
+        "url": "https://roberthalf.wd1.myworkdayjobs.com/protivitiexperiencedcareers/job/HOUSTON/Houston-Technology-Consulting-Intern---2027_JR-258921-3",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Protiviti",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Protiviti",
+        "id": "53547224-9403-40ef-b264-618f51226c44",
+        "title": "Chicago Technology Consulting Intern - 2027",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771854406,
+        "date_posted": 1771854406,
+        "url": "https://roberthalf.wd1.myworkdayjobs.com/protivitiexperiencedcareers/job/CHICAGO/Chicago-Technology-Consulting-Intern---2027_JR-258884-3",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Protiviti",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Protiviti",
+        "id": "234f2ee2-f1c4-4f66-b556-0e22187ce69c",
+        "title": "Technology Consulting Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771854397,
+        "date_posted": 1771854397,
+        "url": "https://roberthalf.wd1.myworkdayjobs.com/protivitiexperiencedcareers/job/LOS-ANGELES/Los-Angeles-Technology-Consulting-Intern---2027_JR-258931-3",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Protiviti",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
