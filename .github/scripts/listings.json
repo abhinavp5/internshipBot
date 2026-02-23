@@ -357777,7 +357777,7 @@
         "company_name": "Seaspan",
         "id": "3b21aba8-7ecd-4267-a368-7cabf69aaf6f",
         "title": "Intern \u2013 Dto - Enterprise Analytics - 8 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370681,7 +370681,7 @@
         "company_name": "The Walt Disney Company",
         "id": "4bd7a558-22ed-40ad-8a92-482097089b3a",
         "title": "ABC Owned TV Stations Data Analytics Intern - Summer/Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376533,7 +376533,7 @@
         "company_name": "Intermountain Healthcare",
         "id": "713ed712-543a-412c-83f6-d4040b39f130",
         "title": "Data Scientist \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -383960,7 +383960,7 @@
         "company_name": "Western Digital",
         "id": "9664285a-3def-432f-b245-8ed6cc5b476b",
         "title": "Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -384440,7 +384440,7 @@
         "company_name": "Western Digital",
         "id": "22bf432b-902d-4d83-9e84-c35b349a3e30",
         "title": "Software Engineer - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -384897,5 +384897,29 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Waters Corporation",
+        "id": "55855bc9-70da-4291-ab57-b1c7b9259cd7",
+        "title": "TA Instruments \u2013 Software Engineering Intern - Next Generation SW Platform",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771842861,
+        "date_posted": 1771842861,
+        "url": "https://uscareers-waters.icims.com/jobs/25342/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "New Castle, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/Waters-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
