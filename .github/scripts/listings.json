@@ -121,26 +121,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Airbus",
-        "id": "e87f370c-7488-4fed-a53a-704c3f81b0af",
-        "title": "Internship - Software Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1751078513,
-        "date_posted": 1751078513,
-        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bingen-WA/Internship---Software-Engineering_JR10338562",
-        "locations": [
-            "The Dalles, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Airbus",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Copart",
         "id": "b7935c76-a713-4867-98ee-1b5d3b61b5db",
@@ -369123,7 +369103,7 @@
         "company_name": "RTX",
         "id": "4b7d9008-1006-42d3-b677-9295009d16f7",
         "title": "Stage \u2013 \u00c9t\u00e9 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -384518,6 +384498,75 @@
             "Vernon Hills, IL"
         ],
         "company_url": "https://simplify.jobs/c/Flextronics-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SoFi",
+        "id": "d2497158-bb10-4ad4-8de3-3294c0f0ee97",
+        "title": "Intern \u2013 Software Engineer - Settlement",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771813045,
+        "date_posted": 1771813045,
+        "url": "https://www.sofi.com/careers/sofi-university/7637277003?gh_jid=7637277003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/SoFi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "651fb98b-031b-48c2-9d54-4b0d77846d6e",
+        "title": "Early Career Talent - Drive Integration Engineer - Role begins Summer 2026",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1771812502,
+        "date_posted": 1771812502,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110563334",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "JMP Statistical Discovery",
+        "id": "e5eff383-2c03-420a-a313-d979e3af33de",
+        "title": "JMP Intern - Interactive HTML Software Developer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771812469,
+        "date_posted": 1771812469,
+        "url": "https://jmp-sas.icims.com/jobs/41507/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/JMP-Statistical-Discovery",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
