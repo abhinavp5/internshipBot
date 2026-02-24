@@ -361685,7 +361685,7 @@
         "company_name": "Biogen",
         "id": "b08224c7-4732-4e26-9434-fb83de04dcab",
         "title": "Intern \u2013 Patient Services - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -373538,7 +373538,7 @@
         "company_name": "Masco",
         "id": "b6c45813-adba-4deb-a9e5-84ae2d213bc3",
         "title": "Product Engineering Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380465,7 +380465,7 @@
         "company_name": "Bank of Montreal",
         "id": "89478ddc-3356-4fa1-8297-3a6be69ffdd0",
         "title": "Junior Engineer \u2013 Co-op/Internship - Electronic Trading Infrastructure - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -380608,7 +380608,7 @@
         "company_name": "Bank of Montreal",
         "id": "72483713-9572-4e01-b3f2-67c353cdc381",
         "title": "Junior Engineer \u2013 Co-op/Internship - Electronic Trading Infrastructure - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -385382,7 +385382,7 @@
         "company_name": "Vanguard",
         "id": "dcd06c0a-8446-4b5b-a69a-0f16ac7dfde7",
         "title": "Technology Intern - GIFS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Summer 2026"
@@ -388783,5 +388783,211 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Roku",
+        "id": "e8365cf1-74e3-4f55-a3c8-cb0ac2f2e16b",
+        "title": "Applied Science Intern - PhD",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771946585,
+        "date_posted": 1771946585,
+        "url": "https://www.weareroku.com/jobs/7649515?gh_jid=7649515",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Roku",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HCompany",
+        "id": "8d025ab1-dd40-4fc6-b039-ad07e208b45b",
+        "title": "Research Scientist Intern - Model Team",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771946293,
+        "date_posted": 1771946293,
+        "url": "https://jobs.ashbyhq.com/hcompany/856b1025-791f-46ed-9ea0-a88bb2f32ce5/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/HCompany",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kaiser Permanente",
+        "id": "5c8c554a-6395-4ab0-8a0a-250efd4c25f7",
+        "title": "Market Data Analytics Master Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771946265,
+        "date_posted": 1771946265,
+        "url": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1407107",
+        "locations": [
+            "Hyattsville, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Kaiser-Permanente",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Brex",
+        "id": "afd26269-ca6f-47e8-8959-cc00bcbe099a",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1771945637,
+        "date_posted": 1771945637,
+        "url": "https://www.brex.com/careers/8434389002?gh_jid=8434389002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Brex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citco",
+        "id": "4a20e1bb-ef0b-427b-b41f-aa6c792d0705",
+        "title": "Citco Technology Management Intern - IT",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771945704,
+        "date_posted": 1771945704,
+        "url": "https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13829",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Primetals Technologies",
+        "id": "2310d0c9-8dfa-472a-8cc0-0dbfac6bd667",
+        "title": "Full Stack Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771945677,
+        "date_posted": 1771945677,
+        "url": "https://mhicareers.com/job/Mississauga-Full-Stack-Developer-Intern-ON-L4V-1J4/1367354333/?ats=successfactors",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Primetals-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1771948191,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586",
+        "company_name": "Multiply Labs",
+        "title": "Robotics Software Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "natalieh235",
+        "id": "97e90df1-ce3c-402c-b01a-191b722209e1",
+        "date_posted": 1771948191,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1771948312,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b",
+        "company_name": "Multiply Labs",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "natalieh235",
+        "id": "d20e2f57-773d-47e9-bab8-54f94d0060e0",
+        "date_posted": 1771948312,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1771948359,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Arlington-VA/DIT-Software-Engineer-Intern_2024183",
+        "company_name": "Carnegie Mellon University",
+        "title": "DIT Software Engineer Intern",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "jamesthechen",
+        "id": "2a6b9a6f-87b4-4fab-95e0-52da19a37efb",
+        "date_posted": 1771948359,
+        "company_url": "",
+        "is_visible": true
     }
 ]
