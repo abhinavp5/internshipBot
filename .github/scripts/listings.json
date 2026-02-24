@@ -268687,7 +268687,7 @@
         "company_name": "Crowdstrike",
         "id": "3d8792b3-8040-45bb-aaa6-baeb1e8ca036",
         "title": "Intelligence Intern - Intelligence Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -286007,7 +286007,7 @@
         "company_name": "Thomson Reuters",
         "id": "46339e2a-a055-40e1-bbdf-4dceded6cfa0",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -354192,7 +354192,7 @@
         "company_name": "Sereact",
         "id": "eae123ec-e9a7-42f4-8d57-a69ef6c8fdac",
         "title": "Intern Teleoperation & Data Labeling - US",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -388689,6 +388689,27 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Anima",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mentis AI",
+        "id": "cdf3b74a-4681-49c1-b09a-e984e64805a5",
+        "title": "Commercial Banking Professionals \u2013 AI Residency - Part-time - Frontier AI Research",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771930118,
+        "date_posted": 1771514296,
+        "url": "https://jobs.ashbyhq.com/mentis/e558272f-0cd8-4f91-904d-b7539cb16b22/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mentis-AI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
