@@ -140037,7 +140037,7 @@
         "company_name": "Electronic Arts",
         "id": "ba7630d6-a93b-41b3-92f1-9c1dfb5e5344",
         "title": "Software Engineer Intern Physics - Physics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -294969,7 +294969,7 @@
         "company_name": "Paccar",
         "id": "3310f4ee-6a9b-4080-879c-14686cfd6dfe",
         "title": "Data Analyst Intern Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -358319,7 +358319,7 @@
         "company_name": "City of Burlington",
         "id": "d562e079-b3f2-4dc2-b03b-7fd1a242b482",
         "title": "Asset Planning Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -361042,7 +361042,7 @@
         "company_name": "CIBC",
         "id": "b97fc1bc-c8cc-4beb-9b6f-2124a0ee63bc",
         "title": "Data Analyst \u2013 Summer 2026 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368708,7 +368708,7 @@
         "company_name": "L3Harris Technologies",
         "id": "635ae0ee-937d-4598-9777-3f57a7dca7e5",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -373740,7 +373740,7 @@
         "company_name": "T-Mobile",
         "id": "8fcc18bc-6681-447a-a517-f28e6e9b50bc",
         "title": "Summer 2026 Software/Product Development Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -377335,7 +377335,7 @@
         "company_name": "Cisive",
         "id": "34638009-c208-4776-9ee5-5c77e2725fd1",
         "title": "Data and AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -385067,7 +385067,7 @@
         "company_name": "Veolia",
         "id": "0128e4a1-4e95-480f-9eb7-51aa930c7067",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -388602,5 +388602,26 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "University of Wyoming",
+        "id": "64a91e7e-1b95-42ad-a900-e1d38ac2de7d",
+        "title": "Work Study Posn Student - UWIN Makerspace Tech - Academic Technology Services",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1771924709,
+        "date_posted": 1770765408,
+        "url": "https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260340",
+        "locations": [
+            "Laramie, WY"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Wyoming",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
