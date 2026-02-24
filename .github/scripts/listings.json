@@ -201312,7 +201312,7 @@
         "company_name": "IEX Group",
         "id": "85696c6e-2d05-49f1-b191-4c1aa882ae29",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -201502,7 +201502,7 @@
         "company_name": "LinkedIn",
         "id": "4145fa34-a3e7-4c03-94ca-76d6d02e4386",
         "title": "AI/ML Engineer Intern - Master's - Summer 2026 - Mountain View - CA",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -225616,7 +225616,7 @@
         "company_name": "LinkedIn",
         "id": "fa7e7c93-38f2-4017-b3c5-f46831cd229b",
         "title": "AI/ML Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -242556,7 +242556,7 @@
         "company_name": "PA Consulting",
         "id": "cf8c67fd-fca3-45ff-954c-5ea87529466c",
         "title": "Apprentice - Software Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -269700,7 +269700,7 @@
         "company_name": "Genentech",
         "id": "a1408622-ec4e-4cbc-8a5e-ccd6a6d90150",
         "title": "Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -303440,7 +303440,7 @@
         "company_name": "PA Consulting",
         "id": "a6c20ee9-648a-4a18-a7f4-af646dcdf7ef",
         "title": "2026 Apprentice - Digital - Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -313443,7 +313443,7 @@
         "company_name": "Westgate Resorts",
         "id": "7e52c5f8-c50f-4bc3-9561-7da851eda20e",
         "title": "Mortgage Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -314627,7 +314627,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -314680,7 +314680,7 @@
         "company_name": "SK hynix",
         "id": "82f71bb3-473e-4eb4-9430-0f651d80b16f",
         "title": "Intern \u2013 Emerging Memory - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -319840,7 +319840,7 @@
         "company_name": "Westgate Resorts",
         "id": "701e8177-9557-44c2-a882-1a39d0b2a4a7",
         "title": "Mortgage Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -347275,7 +347275,7 @@
         "company_name": "Farmers Insurance",
         "id": "6a55c478-325b-4eb7-b40b-deff7c21ed74",
         "title": "Data Science Intern-Hybrid to Caledonia - MI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368501,7 +368501,7 @@
         "company_name": "PA Consulting",
         "id": "87e6fabb-1a80-4c44-bddf-558c777c2bd0",
         "title": "Apprentice - Digital - Software Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -368522,7 +368522,7 @@
         "company_name": "PA Consulting",
         "id": "867a10c2-b56f-4ac7-8fe6-80c2b0b698a4",
         "title": "Intern - Digital - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -376882,7 +376882,7 @@
         "company_name": "Intel",
         "id": "ad6fbc76-0922-4f8c-a668-c76038d77b07",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -379385,7 +379385,7 @@
         "company_name": "Dark Wolf Solutions",
         "id": "86310537-76a2-4629-b4c7-a97ece76ac2b",
         "title": "George Mason University College Fair \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379457,7 +379457,7 @@
         "company_name": "T-Mobile",
         "id": "5d3ed0a4-860b-4276-9cb5-ec6e529699ce",
         "title": "Associate Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -387882,6 +387882,241 @@
             "Richardson, TX"
         ],
         "company_url": "https://simplify.jobs/c/Texas-Capital-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nidec",
+        "id": "01b5b7c1-4831-408e-b174-f19461b9c971",
+        "title": "Software Engineer Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771899977,
+        "date_posted": 1771899977,
+        "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAArkansasFt-Smith-AR/Software-Engineer-Co-Op_R0014409-1",
+        "locations": [
+            "Fort Smith, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Nidec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Robert Half",
+        "id": "36d71d1b-f9ad-47c9-8a47-051ed55117bd",
+        "title": "Software Engineer Marketing Web Applications Virtual Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771899738,
+        "date_posted": 1771899738,
+        "url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-Marketing-Web-Applications-Virtual-Internship_JR-259605",
+        "locations": [
+            "San Ramon, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Robert-Half",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LTA Research",
+        "id": "ce224a51-f4ce-4caa-9e6d-aef1f09ea9a0",
+        "title": "Summer Intern - Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771899501,
+        "date_posted": 1771899501,
+        "url": "https://jobs.lever.co/ltaresearch/1f89a945-3231-4061-a815-1473eaadb9f8/apply",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LTA-Research",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kaiser Permanente",
+        "id": "bf8fc130-1863-4fd0-927d-0094f9f19a7d",
+        "title": "Consulting and Data Analytics Master Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771899543,
+        "date_posted": 1771899543,
+        "url": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1409248",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kaiser-Permanente",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "eeaab8b2-b281-47bf-b537-4c7226b7edf0",
+        "title": "Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771899277,
+        "date_posted": 1771899277,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000110888641",
+        "locations": [
+            "Plymouth, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Howmet Aerospace",
+        "id": "957a2371-90f8-403b-b8ea-dd76758dcf73",
+        "title": "Intern IT/IS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771899224,
+        "date_posted": 1771899224,
+        "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116320",
+        "locations": [
+            "Waco, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Howmet-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ButcherBox",
+        "id": "8548dab8-f671-491b-a987-825919e78de4",
+        "title": "Business Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771899065,
+        "date_posted": 1771899065,
+        "url": "https://jobs.lever.co/butcherbox/adcfe98b-8d03-417a-bae1-84928a37e52e/apply",
+        "locations": [
+            "Belmont, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/ButcherBox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Horizon Technologies",
+        "id": "361da9d6-0536-41d6-9bde-f66cb07f52f6",
+        "title": "Online Training and Placements on Adobe CQ5 and PEGA",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1771898956,
+        "date_posted": 1771898956,
+        "url": "https://jobs.smartrecruiters.com/HorizonTechnologiesInc/81082031",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Horizon-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "35315da3-70c7-4b19-be59-6296b9186047",
+        "title": "Hardware Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771901271,
+        "date_posted": 1771901271,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2026-Hardware-Engineering-Intern_R10223810",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "VSP Vision",
+        "id": "b6f0418a-ba08-41ae-942a-85d4bcad51e5",
+        "title": "Intern - Software Engineer - AI Framework and Standards",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771900202,
+        "date_posted": 1771900202,
+        "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer--AI-Framework-and-Standards-_R-8897",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/VSP-Vision",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
