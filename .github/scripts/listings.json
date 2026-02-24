@@ -247163,7 +247163,7 @@
         "company_name": "Deutsche Bank",
         "id": "2cbac968-7f33-4104-b8ed-b0413e87f57c",
         "title": "Deutsche Bank \u2013 Deutsche Bank Apprenticeship Programme - Technology - Data & Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -384223,7 +384223,7 @@
         "company_name": "The Boeing Company",
         "id": "eb1cd785-ab5d-4ffd-819d-6517c4a01c7c",
         "title": "ASIC and/or FPGA Design and Verification Engineers \u2013 Entry Level - Associate",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -388713,5 +388713,52 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Louisiana State University (LSU)",
+        "id": "d10038a4-3b90-4b72-a982-d68efe147ae5",
+        "title": "Enterprise Resource Planning Analyst 2 - Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1771932201,
+        "date_posted": 1771687417,
+        "url": "https://lsu.wd1.myworkdayjobs.com/LSU/job/0202-Fred-C-Frey-Computing-Services-Building/Enterprise-Resource-Planning--Analyst-2--Student_R00112884",
+        "locations": [
+            "Baton Rouge, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Louisiana-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Altera Corporation",
+        "id": "abb72523-5afc-4962-b459-df93eb93445a",
+        "title": "Custom Circuit/Software Undergrad Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771932978,
+        "date_posted": 1771696818,
+        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Custom-Circuit-Design-Undergrad-Intern_R01885",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Altera-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
