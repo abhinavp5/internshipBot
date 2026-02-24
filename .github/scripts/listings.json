@@ -106494,7 +106494,7 @@
         "company_name": "Sensata",
         "id": "1fa37576-04c7-4af7-a7df-70b4aba01a49",
         "title": "IT Intern - AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262773,7 +262773,7 @@
         "company_name": "Applied Materials",
         "id": "a8c13f3a-4a13-4143-8d8f-2c992bfb16c1",
         "title": "2026 Summer \u2013 Plasma Products Modeling Physicist/Scientist Intern - PhD - Santa Clara, CA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -286007,7 +286007,7 @@
         "company_name": "Thomson Reuters",
         "id": "46339e2a-a055-40e1-bbdf-4dceded6cfa0",
         "title": "Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -292690,7 +292690,7 @@
         "company_name": "NVIDIA",
         "id": "7ca29a65-af5e-4a95-85ec-7c17b3a2478b",
         "title": "Performance Engineering Intern - Deep Learning and HPC - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -314604,7 +314604,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -369576,7 +369576,7 @@
         "company_name": "GE Vernova",
         "id": "fd614b40-3a6a-4c73-84cb-ff9848e548f4",
         "title": "GE Vernova Grid Solutions \u2013 Hardware Engineering Intern - Critical Infrastructure Communications",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -379208,7 +379208,7 @@
         "company_name": "Choice Hotels",
         "id": "b301b544-6489-4777-93cd-753da887d688",
         "title": "Senior Analyst - Data Visualization Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -379739,7 +379739,7 @@
         "company_name": "Cisive",
         "id": "cce799e9-f3b2-4371-8d37-7dde712518b4",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380890,7 +380890,7 @@
         "company_name": "Takeda",
         "id": "c960b654-1398-4ed0-8c74-c9045c5eaaf1",
         "title": "Lab Intern - DE&C - Device Evaluation and Characterization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -382689,7 +382689,7 @@
         "company_name": "Credit Acceptance Careers",
         "id": "e58864ea-00c9-4c3a-acd8-e559567f7bf9",
         "title": "ML/AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -382761,7 +382761,7 @@
         "company_name": "Credit Acceptance Careers",
         "id": "b4a3cdeb-ce38-45c2-9498-ce15ccba31c3",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -388755,6 +388755,29 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Altera-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Carnegie Mellon University",
+        "id": "a40b0d99-edce-488b-89cb-90e7f91cc828",
+        "title": "Intern - College of Engineering - Electrical and Computer Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771937612,
+        "date_posted": 1771699171,
+        "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Summer-Intern---College-of-Engineering---Electrical-and-Computer-Engineering_2024173",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
