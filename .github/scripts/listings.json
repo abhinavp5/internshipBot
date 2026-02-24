@@ -26300,29 +26300,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Arctic Wolf Networks",
-        "id": "78c43a53-203d-4a8f-8377-814892c51d86",
-        "title": "Triage Security Analyst \u2013 Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1751179558,
-        "date_posted": 1751179558,
-        "url": "https://arcticwolf.wd1.myworkdayjobs.com/external/job/Pleasant-Grove-UT-USA/Triage-Security-Analyst---Intern_R23_485",
-        "locations": [
-            "American Fork, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Arctic-Wolf-Networks",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1755638663,
         "url": "https://job-boards.greenhouse.io/figma/jobs/5602159004?gh_jid=5602159004",
         "company_name": "Figma",
@@ -131291,7 +131268,7 @@
         "company_name": "Waymo",
         "id": "dbfc570a-2ca3-4320-87fe-38128d036ec2",
         "title": "Intern - Research - Perception Foundation Models",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -201502,7 +201479,7 @@
         "company_name": "LinkedIn",
         "id": "4145fa34-a3e7-4c03-94ca-76d6d02e4386",
         "title": "AI/ML Engineer Intern - Master's - Summer 2026 - Mountain View - CA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -225616,7 +225593,7 @@
         "company_name": "LinkedIn",
         "id": "fa7e7c93-38f2-4017-b3c5-f46831cd229b",
         "title": "AI/ML Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -314627,7 +314604,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -378977,7 +378954,7 @@
         "company_name": "Veolia",
         "id": "68c7c03c-a6b7-49e4-8c86-15fb3a873c67",
         "title": "Integration Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -379715,7 +379692,7 @@
         "company_name": "Intermountain Healthcare",
         "id": "f0e236f3-5610-460b-9446-3317e1dddcf4",
         "title": "Data Analytics Intern - Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -382550,7 +382527,7 @@
         "company_name": "Veolia",
         "id": "15b606fe-ebca-4dee-8d60-1dedbc36cd4f",
         "title": "Integration Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -388122,5 +388099,302 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PG&E",
+        "id": "bc7d5dcd-5ea6-4f38-8a90-1e027e41c64d",
+        "title": "Integrated Grid Planning Solutions Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771917442,
+        "date_posted": 1771917442,
+        "url": "https://careers.pge.com/job/Oakland-Integrated-Grid-Planning-Solutions-Internship-CA-94612/1367271700/?ats=successfactors",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PGE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Infojini",
+        "id": "ba7781d0-c294-42f8-8255-596388700098",
+        "title": "GIS Intern Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771917265,
+        "date_posted": 1771917265,
+        "url": "https://jobs.smartrecruiters.com/InfojiniInc1/104263488",
+        "locations": [
+            "Columbia, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Infojini",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Legal & General",
+        "id": "6553117c-086b-4a60-be95-61e39e034f1c",
+        "title": "Apprenticeship - Asset Management Data Programme - London 2026",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1771917173,
+        "date_posted": 1771917173,
+        "url": "https://jobs.smartrecruiters.com/LegalAndGeneral/744000110340646",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Legal-And-General",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NXP Semiconductors",
+        "id": "4d69c7f0-0a70-4478-adc6-25c5e65d8429",
+        "title": "Product Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771917273,
+        "date_posted": 1771917273,
+        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Product-Engineering-Intern_R-10060488-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Legal & General",
+        "id": "4757ce71-7596-4e48-9db1-aaa09920727c",
+        "title": "Apprenticeship - Software Engineering L6 Programme - Cardiff",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1771917190,
+        "date_posted": 1771917190,
+        "url": "https://jobs.smartrecruiters.com/LegalAndGeneral/744000110354717",
+        "locations": [
+            "Cardiff, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Legal-And-General",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Louis Dreyfus Company",
+        "id": "21d12b5b-effa-466d-bc77-27a0cc8334d6",
+        "title": "Trader Trainee Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771917147,
+        "date_posted": 1771917147,
+        "url": "https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000081369410",
+        "locations": [
+            "Arlington, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Louis-Dreyfus-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "id": "e2952ce0-dc19-4743-96d3-ac3e643ae62a",
+        "title": "Materials Science Division Graduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771917007,
+        "date_posted": 1771917007,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990011351916",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LLNL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "id": "e1ed499d-4c62-44ae-9926-30eefc4959c3",
+        "title": "Critical Infrastructure Analysis Undergraduate Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771917001,
+        "date_posted": 1771917001,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990011307176",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LLNL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "id": "9c8d3009-1c3d-43bf-82f2-f7a599a6ca80",
+        "title": "National Ignition Facility and Photon Science Undergraduate Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771917004,
+        "date_posted": 1771917004,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990011463351",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LLNL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "InfiniteQuant",
+        "id": "6ab03a5f-f381-4e0f-800e-7e9da2a0a188",
+        "title": "Quantitative Researcher \u2013 Internship - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771917030,
+        "date_posted": 1771917030,
+        "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000105006765",
+        "locations": [
+            "NYC",
+            "Dubai - United Arab Emirates"
+        ],
+        "company_url": "https://simplify.jobs/c/InfiniteQuant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "id": "654915a5-5472-45c2-b83e-375b462a4466",
+        "title": "Defense Science and Technology Intern - Undergraduate Student",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771917025,
+        "date_posted": 1771917025,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990011307421",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LLNL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "id": "44134915-e78f-4a2d-a344-a6d519cb8c4e",
+        "title": "Physics Division Graduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771916986,
+        "date_posted": 1771916986,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990011806726",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LLNL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kanshe Infotech",
+        "id": "92bbc632-4d44-4392-ad7a-25a6c9a04784",
+        "title": "Data Analyst",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1771916873,
+        "date_posted": 1771916873,
+        "url": "https://jobs.smartrecruiters.com/Learnkwikcom/744000066223450",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Kanshe-Infotech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
