@@ -225,7 +225,7 @@
 <td>Software Engineer Intern</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Vistra?utm_source=GHList&utm_medium=company">Vistra</a></strong></td>
@@ -11796,28 +11796,28 @@
 <td>Software Engineering Intern - Multiple Teams</td>
 <td>Seattle, WA<br>SF<br>Sunnyvale, CA</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineering Intern - Multiple Teams</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/f361c9fd-09f7-4be4-a4c7-7bac1f39e690?utm_source=GHList&utm_medium=company">Compassion International</a></strong></td>
 <td>Internship - IT and Software Engineering</td>
 <td>Colorado Springs, CO</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company">Microsoft</a></strong></td>
 <td>Research Intern - Security Research Group 🎓</td>
 <td>Redmond, WA</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Computershare?utm_source=GHList&utm_medium=company">Computershare</a></strong></td>
@@ -25397,7 +25397,7 @@
 <td>Data Science Intern 🎓</td>
 <td>New Hope, PA</td>
 <td>🔒</td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/t-rowe-price?utm_source=GHList&utm_medium=company">T. Rowe Price</a></strong></td>
@@ -27346,7 +27346,7 @@
 <td>22d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
+<td>↳</td>
 <td>Content & Brand Insights Social Media Analytics Intern - Summer/Fall 2026</td>
 <td>Burbank, CA</td>
 <td>🔒</td>
@@ -27441,7 +27441,7 @@
 <td>Internship – Graduate - Systems Planning for Water/Wastewater/Reclaimed Water - Austin Water</td>
 <td>Austin, TX</td>
 <td>🔒</td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/1Password?utm_source=GHList&utm_medium=company">1Password</a></strong></td>
@@ -43293,7 +43293,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Fox?utm_source=GHList&utm_medium=company">FOX</a></strong></td>
 <td>Business Operations Intern/Co-op - Multiple Teams</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -43857,14 +43857,14 @@
 <td>Machine Learning Engineer Intern</td>
 <td>San Carlos, CA</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sanofi?utm_source=GHList&utm_medium=company">Sanofi</a></strong></td>
 <td>Biomarker Data Analysis Intern - Biomarker Data Analysis</td>
 <td>Cambridge, MA</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Qualcomm?utm_source=GHList&utm_medium=company">Qualcomm</a></strong></td>
@@ -59288,7 +59288,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Hermeus?utm_source=GHList&utm_medium=company">Hermeus</a></strong></td>
+<td>↳</td>
 <td>Test Engineering Intern</td>
 <td>Atlanta, GA</td>
 <td>🔒</td>
@@ -59397,7 +59397,7 @@
 <td>Junior Software Engineer Intern/Co-op - Software Development - Multiple Teams</td>
 <td>Ottawa, ON, Canada</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Cisco?utm_source=GHList&utm_medium=company">Cisco</a></strong></td>
