@@ -217768,7 +217768,7 @@
         "company_name": "ID.me",
         "id": "5689bc99-6bb0-45fb-99f3-743cacdaba79",
         "title": "University 2026 Intern: Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -366145,7 +366145,7 @@
         "company_name": "Kodak",
         "id": "35728921-ce10-48e9-94b5-a4dca3bbf76b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368544,7 +368544,7 @@
         "company_name": "BAE Systems",
         "id": "9a1f96ae-d552-4200-9c9c-7db6d865999a",
         "title": "Chemical Modelling - Ignition and Growth",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -381689,7 +381689,7 @@
         "company_name": "RTX",
         "id": "a4306612-6151-4593-a63d-95e3fcfcf492",
         "title": "Software SEPP Engineering Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -388620,6 +388620,75 @@
             "Laramie, WY"
         ],
         "company_url": "https://simplify.jobs/c/University-Of-Wyoming",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ExxonMobil",
+        "id": "035190df-2227-400e-a7e2-71fab1e6b4cb",
+        "title": "Geoscience Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1771928677,
+        "date_posted": 1771928677,
+        "url": "https://jobs.exxonmobil.com/ExxonMobil/job/St-Johns,-NL-Geoscience-Summer-Student-St_-John's-May-2026-NL/1367298600/?ats=successfactors",
+        "locations": [
+            "St. John's, NL, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/ExxonMobil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "5ca5638a-d91f-4bd1-99cb-21e31590271d",
+        "title": "Graduate Research Scientist in Large Language Model",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1771927468,
+        "date_posted": 1767395895,
+        "url": "https://jobs.bytedance.com/en/position/7561701031874693429/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Anima",
+        "id": "d64b6852-062b-436f-8996-fcf066b5383a",
+        "title": "Founder's Associate",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1771928626,
+        "date_posted": 1751902340,
+        "url": "https://jobs.ashbyhq.com/anima/d34ac2d0-ddb7-44ee-b858-aa6799784b25/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Anima",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
