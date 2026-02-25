@@ -361388,7 +361388,7 @@
         "company_name": "Rolls-Royce",
         "id": "86e5b30b-2364-40f8-87bd-697ed315b6e1",
         "title": "Test Engineering Co-Operative",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -368435,7 +368435,7 @@
         "company_name": "Leidos",
         "id": "30555567-cc7b-4173-9b1e-7b18a483084f",
         "title": "Signal/Image Processing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
