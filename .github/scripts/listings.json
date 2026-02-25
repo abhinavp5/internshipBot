@@ -101,26 +101,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Copart",
-        "id": "b7935c76-a713-4867-98ee-1b5d3b61b5db",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1751321941,
-        "date_posted": 1751321941,
-        "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR103689",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Copart",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "AQR Capital Management",
         "id": "68d2753c-5981-4e79-b199-46c3a0769c20",
@@ -183553,7 +183533,7 @@
         "company_name": "Marvell",
         "id": "8b915f11-c376-4ca3-8079-d4601b1d430f",
         "title": "Design Verification Intern - Master's Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -256886,7 +256866,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "36dba910-610b-4cdc-9524-9e9ce6059b25",
         "title": "Multi-modal Sensing AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -300681,7 +300661,7 @@
         "company_name": "Baird",
         "id": "d22030d5-5e64-4d91-b663-f87e7db4b721",
         "title": "Institutional Equities Sales & Trading Shadow Week - May 2026 - Milwaukee",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -310338,7 +310318,7 @@
         "company_name": "SharkNinja",
         "id": "65eafd72-cf53-4646-ba97-8c6445aa6e24",
         "title": "Consumer Insights Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -315684,7 +315664,7 @@
         "company_name": "Marvell",
         "id": "d91cbef3-7d75-4ca1-8802-dba65ada5d99",
         "title": "Design Verification Intern - Master's Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -347067,7 +347047,7 @@
         "company_name": "Interdigital",
         "id": "475d05e4-35a2-46f2-9a62-21bbee3d4cc2",
         "title": "Intern Spatially Sparse AI-based Video Decoders",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -363200,7 +363180,7 @@
         "company_name": "Jones Lang LaSalle (JLL)",
         "id": "7469bc58-10f4-4160-bc41-3b49d0085d4b",
         "title": "Capital Markets Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -363890,7 +363870,7 @@
         "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
         "id": "c400904a-9f63-4be6-91b1-40f92fcda7db",
         "title": "Student 2 - Digital Health",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -367535,7 +367515,7 @@
         "company_name": "Chubb",
         "id": "5551ef23-a8af-4b9d-a834-82aa5571f12a",
         "title": "AI Research Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370805,7 +370785,7 @@
         "company_name": "Physical Intelligence",
         "id": "cc636fe2-3776-41ab-af50-346c093331de",
         "title": "Hardware Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376097,7 +376077,7 @@
         "company_name": "Al Warren Oil Company",
         "id": "4cb17ea7-39a0-4653-8a71-354da341a2be",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -381129,7 +381109,7 @@
         "company_name": "F5",
         "id": "922fcaed-990f-420c-8740-b8b1d0af5a6f",
         "title": "Software Development Engineer Intern - San Jose - CA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -381358,7 +381338,7 @@
         "company_name": "Chubb",
         "id": "5876bda2-5805-4e5c-8d28-9748547d2150",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -386459,7 +386439,7 @@
         "company_name": "Radiance Technologies",
         "id": "26682154-dcb9-4581-ae4b-eb980f52eae7",
         "title": "Junior Web Developer and Database Administrator Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
