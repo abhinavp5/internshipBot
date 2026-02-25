@@ -26256,30 +26256,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "PrimeRx",
-        "id": "70c277b6-f4f7-4f2c-92bf-3c4fa763d3fe",
-        "title": "Technical Support Internship",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1754585882,
-        "date_posted": 1751301080,
-        "url": "https://ats.rippling.com/primerx/jobs/c8988997-683a-4c3a-bb12-98d54d11a82f",
-        "locations": [
-            "Uniondale, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/PrimeRx",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1755638663,
         "url": "https://job-boards.greenhouse.io/figma/jobs/5602159004?gh_jid=5602159004",
         "company_name": "Figma",
@@ -391818,6 +391794,29 @@
             "Orlando, FL"
         ],
         "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "c1c8cc3c-dc3e-4312-b90e-4d713d5af099",
+        "title": "Summer 2026 \u2013 SES Simulation Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772035128,
+        "date_posted": 1772035128,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Summer-2026---SES-Simulation-Engineer-Intern_R0154870",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
