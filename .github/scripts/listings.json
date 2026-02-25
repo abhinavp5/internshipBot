@@ -339507,7 +339507,7 @@
         "company_name": "RTX",
         "id": "f1aa57ff-e315-4c40-995f-3ccb0323c121",
         "title": "Stage \u2013 Science des donn\u00e9es et Analytique d\u2019affaires / Internship - \u00c9t\u00e9 2026 - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391526,6 +391526,29 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "b6af1f12-a532-4336-80a7-dae6a7b09f77",
+        "title": "SWD Maintenance Apprentice Technician - Nights",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772020471,
+        "date_posted": 1771689952,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/SWD-Equipment-Engineering-Technician--Nights-_JR-2600380",
+        "locations": [
+            "Malta, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
