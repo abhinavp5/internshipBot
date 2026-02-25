@@ -101,46 +101,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "AQR Capital Management",
-        "id": "68d2753c-5981-4e79-b199-46c3a0769c20",
-        "title": "Portfolio Implementation \u2013 Trading and Portfolio Finance Summer Analyst",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1752130697,
-        "date_posted": 1751322686,
-        "url": "https://careers.aqr.com/jobs?gh_jid=7022101&gh_jid=7022101",
-        "locations": [
-            "Greenwich, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
-        "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cloudflare",
-        "id": "73e8c1fc-1570-4e1e-9b65-2809522ca5cb",
-        "title": "Data Analytics Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1751323123,
-        "date_posted": 1751323123,
-        "url": "https://boards.greenhouse.io/cloudflare/jobs/7001678",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Cloudflare",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "NVIDIA",
         "id": "f72948bc-7bce-4d19-8254-6441ae710738",
@@ -26210,32 +26170,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "SharkNinja",
-        "id": "d60180d8-aa65-4517-a727-a50ca2a36a59",
-        "title": "Product Development Intern - Beverage",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1751322816,
-        "date_posted": 1751322816,
-        "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4580493006",
-        "locations": [
-            "Needham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/SharkNinja",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "Associate's"
-        ]
-    },
-    {
         "date_updated": 1755638663,
         "url": "https://job-boards.greenhouse.io/figma/jobs/5602159004?gh_jid=5602159004",
         "company_name": "Figma",
@@ -45962,7 +45896,7 @@
         "company_name": "Plexus",
         "id": "f904fcc2-a9b1-4c6f-861a-68fb4dbb1852",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -46078,7 +46012,7 @@
         "company_name": "Plexus",
         "id": "7254ba71-450b-4bb1-8a42-613bb31a5351",
         "title": "Intern \u2013 Hardware Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -110531,7 +110465,7 @@
         "company_name": "Truveta",
         "id": "8850e2bf-5725-46d6-bb01-a5e20cf14466",
         "title": "Software Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -264822,7 +264756,7 @@
         "company_name": "ASML",
         "id": "f153b6a1-2724-4f10-8235-60e15e5829a9",
         "title": "Intern - Optical Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -267382,7 +267316,7 @@
         "company_name": "Geotab",
         "id": "f1ce1ef5-1586-4221-a594-2801d4489a3a",
         "title": "Solutions Delivery Intern - Summer/May 2026 - Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -289519,7 +289453,7 @@
         "company_name": "Plexus",
         "id": "616b4366-2b2c-4fd6-b0b1-79cad2e8de0c",
         "title": "Intern \u2013 Software Engineer - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -300844,7 +300778,7 @@
         "company_name": "KIKOFF Leagues",
         "id": "602c607a-9068-460f-8fd5-d49d575a59af",
         "title": "AI Growth Marketing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -324887,7 +324821,7 @@
         "company_name": "Micron Technology",
         "id": "013a787d-1fcb-465f-9aae-c624647b616b",
         "title": "Intern \u2013 AI Agent Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -341355,7 +341289,7 @@
         "company_name": "Bose",
         "id": "4a79d082-6c9c-4a91-b595-132fdaf3332f",
         "title": "Data Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -366010,7 +365944,7 @@
         "company_name": "Chubb",
         "id": "ace1fd94-c225-4198-9f24-51b25fefa7b1",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -367402,7 +367336,7 @@
         "company_name": "Chubb",
         "id": "b528598a-5a55-4b97-8001-88f1aee07ef9",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -375943,7 +375877,7 @@
         "company_name": "Altom Transport",
         "id": "d5c934d6-3b89-47d7-9fd2-47609abdb7c8",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376056,7 +375990,7 @@
         "company_name": "Altom Transport",
         "id": "7630648f-f9ca-4648-9247-af864b1f9085",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376123,7 +376057,7 @@
         "company_name": "Altom Transport",
         "id": "04fe1565-a730-4fdd-98b0-0228a833b570",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -377645,7 +377579,7 @@
         "company_name": "Mercury",
         "id": "708b9fbc-dffb-4d3b-b930-f22e1706a6c2",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -383144,7 +383078,7 @@
         "company_name": "Aptiv",
         "id": "a33c52f8-e76d-4146-9c52-4697ab8cf9a7",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -385028,7 +384962,7 @@
         "company_name": "BorgWarner",
         "id": "0d30a219-5bc9-41c3-a020-aae0f2df3dd1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -390385,7 +390319,7 @@
         "company_name": "Acushnet Holdings",
         "id": "f07820a0-bea2-4aab-858c-ef601c321c26",
         "title": "Summer 2026 Manufacturing Data Analyst Intern - Titleist Golf Balls",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391400,7 +391334,7 @@
         "company_name": "Eikon Therapeutics",
         "id": "0a560a3c-35cf-4175-b9e1-fae2c36aebdb",
         "title": "Intern \u2013 Clinical Data Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
