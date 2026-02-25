@@ -12888,7 +12888,7 @@
         "company_name": "TikTok",
         "id": "16f1fcf2-38ef-4e04-9a67-4b82b5c9433c",
         "title": "Frontend Engineer Intern - Tiktok-Product Infrastructure-Customer Service Platform - 2026 Summer - BS/MS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -128075,7 +128075,7 @@
         "company_name": "Figure",
         "id": "3aa8e6d6-bc8d-4612-a995-21c9edb99cb9",
         "title": "Middleware Engineering Intern - Winter 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -266634,7 +266634,7 @@
         "company_name": "Zoetis",
         "id": "c2b9b682-81f0-4cf3-82c7-3d7382da05c4",
         "title": "Robotic Process Automation Developer Intern - RPA",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -295395,7 +295395,7 @@
         "company_name": "Stanley Black & Decker",
         "id": "7b648c5f-686d-42a7-99f9-3bb5ce4beabd",
         "title": "Embedded Engineering Summer Intern 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -303397,7 +303397,7 @@
         "company_name": "PA Consulting",
         "id": "a6c20ee9-648a-4a18-a7f4-af646dcdf7ef",
         "title": "2026 Apprentice - Digital - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -314584,7 +314584,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368435,7 +368435,7 @@
         "company_name": "Leidos",
         "id": "30555567-cc7b-4173-9b1e-7b18a483084f",
         "title": "Signal/Image Processing Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -368479,7 +368479,7 @@
         "company_name": "PA Consulting",
         "id": "867a10c2-b56f-4ac7-8fe6-80c2b0b698a4",
         "title": "Intern - Digital - Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -379742,7 +379742,7 @@
         "company_name": "RTX",
         "id": "a047382c-a976-4350-bb15-c8036b584550",
         "title": "Software Engineer Co-Op - Summer and Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -390122,7 +390122,7 @@
         "company_name": "Altera Corporation",
         "id": "b2c86709-d6f9-4980-9853-03334fafb419",
         "title": "FPGA IP and Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391344,5 +391344,98 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northwestern Mutual",
+        "id": "6fc78a74-18a9-4623-afde-99715cbe9297",
+        "title": "Application Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772003651,
+        "date_posted": 1772003651,
+        "url": "https://jobs.smartrecruiters.com/NorthwesternMutual/85751711",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Northwestern Mutual",
+        "id": "363bf983-6b24-4bf3-abba-83242e26fd12",
+        "title": "Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772003649,
+        "date_posted": 1772003649,
+        "url": "https://jobs.smartrecruiters.com/NorthwesternMutual/85751677",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "9d1f00cf-b2ff-4d4d-aeaf-ba9bad343197",
+        "title": "Research Scientist - Computational Photography Algorithms",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772003583,
+        "date_posted": 1772003583,
+        "url": "https://jobs.bytedance.com/en/position/7610475050109798661/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Proximate Technologies",
+        "id": "5c8636dd-9a87-4f4e-b8d5-4feb37823af0",
+        "title": ".Net",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1772003094,
+        "date_posted": 1772003094,
+        "url": "https://jobs.smartrecruiters.com/ProximateTechnologiesInc1/743999661729966",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Proximate-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
