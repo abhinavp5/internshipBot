@@ -256502,7 +256502,7 @@
         "company_name": "Nokia",
         "id": "3151987a-1ed0-4cf4-8ea5-60e96b9ef67e",
         "title": "Silicon Photonics Packaging Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -303397,7 +303397,7 @@
         "company_name": "PA Consulting",
         "id": "a6c20ee9-648a-4a18-a7f4-af646dcdf7ef",
         "title": "2026 Apprentice - Digital - Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -368479,7 +368479,7 @@
         "company_name": "PA Consulting",
         "id": "867a10c2-b56f-4ac7-8fe6-80c2b0b698a4",
         "title": "Intern - Digital - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -389936,7 +389936,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Sandisk",
-        "id": "f9dcf6a3-5a64-4bfb-b21d-5cf5f725be6e",
+        "id": "6c1dd8b8-1b40-4d23-847d-dfbfa71d6fbe",
         "title": "Summer 2026 IT Data Integration Internship - MS",
         "active": true,
         "terms": [
