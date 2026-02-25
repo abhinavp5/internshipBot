@@ -267320,7 +267320,7 @@
         "company_name": "General Motors",
         "id": "0e13c4db-4313-439d-84af-43073b34f3a8",
         "title": "Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -281730,7 +281730,7 @@
         "company_name": "Geotab",
         "id": "9d290ce3-5534-4f5f-8bad-2087762f8d80",
         "title": "Data Scientist Intern - Revops",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -321076,7 +321076,7 @@
         "company_name": "CIBC",
         "id": "f8b9d0f5-11ae-4a5b-84f7-1f82d51e7b73",
         "title": "Northeastern Co-op Software Engineer Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -322204,7 +322204,7 @@
         "company_name": "CIBC",
         "id": "4333e978-d518-4f04-8906-60d957f7306f",
         "title": "Northeastern Co-op Software Engineer Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -374102,7 +374102,7 @@
         "company_name": "Philips",
         "id": "d72c38a9-5bd4-4979-b665-aef0e56176f7",
         "title": "Co-op \u2013 Software Development Engineer - Automation - Cambridge MA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -374267,7 +374267,7 @@
         "company_name": "CSAA Insurance Group",
         "id": "a6cd84c2-350d-457f-9882-e160c8948c5b",
         "title": "IT Solutions Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -388726,7 +388726,7 @@
         "company_name": "Altera Corporation",
         "id": "abb72523-5afc-4962-b459-df93eb93445a",
         "title": "Custom Circuit/Software Undergrad Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391234,7 +391234,7 @@
         "company_name": "General Motors",
         "id": "5fb936ec-c96f-4a5a-9af7-24f0047b75ea",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391437,5 +391437,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Eikon Therapeutics",
+        "id": "0a560a3c-35cf-4175-b9e1-fae2c36aebdb",
+        "title": "Intern \u2013 Clinical Data Management",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772004918,
+        "date_posted": 1772004918,
+        "url": "https://job-boards.greenhouse.io/eikontherapeutics/jobs/5055106007",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Eikon-Therapeutics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
