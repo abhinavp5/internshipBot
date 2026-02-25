@@ -302125,7 +302125,7 @@
         "company_name": "Assort Health",
         "id": "724f5d68-f44c-4be2-b77e-f6f49f9991fe",
         "title": "Agent Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -361434,7 +361434,7 @@
         "company_name": "Northrop Grumman",
         "id": "010d839b-049d-498b-a477-d082253bba5e",
         "title": "2026 AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379366,7 +379366,7 @@
         "company_name": "T-Mobile",
         "id": "73747441-0a2f-4c9f-b229-bbad30f4ef14",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -386346,7 +386346,7 @@
         "company_name": "Healthfirst",
         "id": "d1b59eb3-bf1d-4cda-813e-576bdd1e61fc",
         "title": "Finance Risk Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391507,6 +391507,29 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Salesforce",
+        "id": "9bb16535-afab-4f6e-8ed0-7bffa4636116",
+        "title": "Intern \u2013 Marketing Co-op - Enablement Operations or Marketing Analytics",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1772017229,
+        "date_posted": 1771688322,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Fall-2026-Intern---Marketing-Co-Op--Enablement-Operations-or-Marketing-Analytics-_JR328786-1",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
