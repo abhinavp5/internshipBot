@@ -115663,7 +115663,7 @@
         "company_name": "Adobe",
         "id": "426d3dcc-37c8-4349-921a-d8816e426cdb",
         "title": "MBA Intern - Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -201627,7 +201627,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "7507d1e9-e50f-46c7-a886-f7f73763eb60",
         "title": "Software Engineer Intern - ",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -222351,7 +222351,7 @@
         "company_name": "Figure",
         "id": "4c29c5cb-a89e-426b-92f8-09ff54edf5f7",
         "title": "Hardware Reliability Intern - Winter 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -234089,7 +234089,7 @@
         "company_name": "Microchip Technology",
         "id": "9cdb0c27-0676-4ab8-9018-1ba02684ee68",
         "title": "Intern-Engineering - Test",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -236963,7 +236963,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "13b7c241-9713-48a9-9956-7b0189c0e26b",
         "title": "ATS Technology Intern Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -240424,7 +240424,7 @@
         "company_name": "Cisco",
         "id": "63762f49-2a9d-4e37-ab44-6148be49061c",
         "title": "Software Engineer 2",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -255822,7 +255822,7 @@
         "company_name": "Farallon Capital Management",
         "id": "f5ecc5e8-b550-4b89-94d3-999d96772ec8",
         "title": "Intern \u2013 Trading Operations - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -260232,7 +260232,7 @@
         "company_name": "Ripple",
         "id": "5fad60f1-f923-44b2-badc-8f5b87c5f9de",
         "title": "Software Engineer Intern - Data Engineering - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -260681,7 +260681,7 @@
         "company_name": "Ripple",
         "id": "d43d0691-f14a-4677-8b18-72ed8d129941",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -260723,7 +260723,7 @@
         "company_name": "Ripple",
         "id": "0a3e860b-db1e-42c0-a420-8d7106e9503c",
         "title": "Software Engineer Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -267320,7 +267320,7 @@
         "company_name": "General Motors",
         "id": "0e13c4db-4313-439d-84af-43073b34f3a8",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -295395,7 +295395,7 @@
         "company_name": "Stanley Black & Decker",
         "id": "7b648c5f-686d-42a7-99f9-3bb5ce4beabd",
         "title": "Embedded Engineering Summer Intern 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -303397,7 +303397,7 @@
         "company_name": "PA Consulting",
         "id": "a6c20ee9-648a-4a18-a7f4-af646dcdf7ef",
         "title": "2026 Apprentice - Digital - Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -314584,7 +314584,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -328160,7 +328160,7 @@
         "company_name": "Kairos Power",
         "id": "37f4ed6e-ab0d-4f20-91b7-54aba747ff15",
         "title": "KP-SAM Code Development Engineering Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332818,7 +332818,7 @@
         "company_name": "National Information Solutions Cooperative (NISC)",
         "id": "fb67548d-da3b-417a-9fe9-e8db9973f72b",
         "title": "Intern Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -338388,7 +338388,7 @@
         "company_name": "Checkr",
         "id": "65aca467-0a0b-4da7-8244-d8ada36e98eb",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -351944,7 +351944,7 @@
         "company_name": "Ripple",
         "id": "2667e419-fe84-4011-9ec9-6755a62616da",
         "title": "Software Engineer Intern - Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368265,7 +368265,7 @@
         "company_name": "Okta",
         "id": "fcf94456-dba6-4465-a121-aba1448c32b4",
         "title": "Digital Solutions Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368479,7 +368479,7 @@
         "company_name": "PA Consulting",
         "id": "867a10c2-b56f-4ac7-8fe6-80c2b0b698a4",
         "title": "Intern - Digital - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -381878,7 +381878,7 @@
         "company_name": "GE Healthcare",
         "id": "7cbe2dd0-b79f-43a6-b7fa-8af407c4bc0b",
         "title": "Clinical Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -381922,7 +381922,7 @@
         "company_name": "CACI",
         "id": "63ac1f28-aab3-4d84-91fa-abb1cf77f121",
         "title": "Software Development Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -383328,7 +383328,7 @@
         "company_name": "Eikon Therapeutics",
         "id": "3c0996c4-8fc0-4a12-82bd-3e21173a5af8",
         "title": "Intern \u2013 Software Engineering - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391108,5 +391108,241 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PG&E",
+        "id": "ff8518f4-68ee-4472-a135-a178059b6701",
+        "title": "Electric Planning Policy & Modernization Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771985386,
+        "date_posted": 1771985386,
+        "url": "https://careers.pge.com/job/Oakland-Electric-Planning-Policy-&-Modernization-Intern-CA-94612/1367690900/?ats=successfactors",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PGE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "id": "992c1ae3-7931-4396-a3bd-290c87cb9275",
+        "title": "National Ignition Facility and Photon Science Undergraduate Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771985371,
+        "date_posted": 1771985371,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990011836086",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LLNL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Transcarent",
+        "id": "d93f83e1-4241-4936-946c-740a96cece9b",
+        "title": "Machine Learning Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771985733,
+        "date_posted": 1771985733,
+        "url": "https://boards.greenhouse.io/transcarent/jobs/5806321004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Transcarent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Schweitzer Engineering Laboratories",
+        "id": "e2e26ee5-9379-4642-b36a-7fb13daa76c6",
+        "title": "Hardware Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771985728,
+        "date_posted": 1771985728,
+        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Hardware-Engineering-Intern_2026-19699-1",
+        "locations": [
+            "Moscow, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/SEL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mattel",
+        "id": "7602a1e4-8129-4d88-962a-a2f5d20bba38",
+        "title": "IT Undergraduate Industrial Placement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1771985729,
+        "date_posted": 1771985729,
+        "url": "https://jobs.smartrecruiters.com/MattelInc/744000108565413",
+        "locations": [
+            "Slough, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Mattel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Motors",
+        "id": "5fb936ec-c96f-4a5a-9af7-24f0047b75ea",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771987739,
+        "date_posted": 1771987739,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Software-Engineer--Autonomous-Robot--PhD-_JR-202524749",
+        "locations": [
+            "Mountain View, CA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Truveta",
+        "id": "9d21429a-ec03-4ab5-8c5f-dccc28783311",
+        "title": "Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771987584,
+        "date_posted": 1771987584,
+        "url": "https://job-boards.greenhouse.io/truveta/jobs/5659745004",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Truveta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cisco",
+        "id": "fa84649f-3632-46fe-b8fa-0d64d7bc0e0e",
+        "title": "AI Research Scientist 2 \u2013 Intern - United States",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771985965,
+        "date_posted": 1771985965,
+        "url": "https://careers.cisco.com/global/en/job/2007516",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Transcarent",
+        "id": "576d4925-2af7-42ed-ba93-6a5d50a92e81",
+        "title": "Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771985743,
+        "date_posted": 1771985743,
+        "url": "https://boards.greenhouse.io/transcarent/jobs/5806345004",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Transcarent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Juvare",
+        "id": "490311d6-1210-4e11-982f-614afb34d3cc",
+        "title": "Intern - Fullstack Developer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771987036,
+        "date_posted": 1771987036,
+        "url": "https://job-boards.greenhouse.io/juvare/jobs/4666028005",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Juvare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
