@@ -101,26 +101,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Intermountain Healthcare",
-        "id": "c7556257-497f-4383-b4ef-de4131f87587",
-        "title": "Investment Analyst Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1751350322,
-        "date_posted": 1751350322,
-        "url": "https://imh.wd5.myworkdayjobs.com/en-US/IntermountainCareers/job/Key-Bank-Tower/Investment-Analyst-Intern_R143833",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/be06ebc5-6942-48ad-b691-821e84f30f2b",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Photon",
         "id": "ccccf704-6e34-425e-91e9-8c440cf17bc2",
@@ -50448,7 +50428,7 @@
         "company_name": "Qualcomm",
         "id": "ea5560ef-f805-48bd-8876-ea9ecf085c91",
         "title": "Multimedia Engineering Internship - Interim Engineering Intern - Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -245072,7 +245052,7 @@
         "company_name": "Northrop Grumman",
         "id": "74170680-f4ab-4855-a7c4-5e54e25b0d12",
         "title": "Cyber Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -365238,7 +365218,7 @@
         "company_name": "Novartis",
         "id": "03469887-a0d1-4225-a82a-61fef9cb3085",
         "title": "Summer Student - Data Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -366851,7 +366831,7 @@
         "company_name": "General Motors",
         "id": "9ee24ed6-ba01-4d5c-99bb-398ee99a3c55",
         "title": "Intern - GM Energy Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379812,7 +379792,7 @@
         "company_name": "RTX",
         "id": "011516e8-1e0a-43b5-8daf-12639fb31888",
         "title": "Systems Engineering Co-Op - Summer/Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
