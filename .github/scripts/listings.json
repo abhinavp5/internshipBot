@@ -22,47 +22,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "NVIDIA",
-        "id": "e7d57dde-ac35-4ece-a3d0-24ac4d340100",
-        "title": "Performance Engineer Intern - Gaming",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1751407901,
-        "date_posted": 1751407901,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-MO-St-Louis/Performance-Engineer-Intern--Gaming---Winter-Spring-2026_JR1999627",
-        "locations": [
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "eed44008-bc56-4a68-9f65-0b98b4876804",
-        "title": "Forward Deployed Software Engineer \u2013 Internship - Commercial",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1751408754,
-        "date_posted": 1751408754,
-        "url": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6/apply",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "IMC Trading",
         "id": "474c034c-cd47-45e2-b198-16e369a72b43",
         "title": "Software Engineer Intern",
@@ -201401,7 +201360,7 @@
         "company_name": "Fortive",
         "id": "f7e0c7a3-27b9-4f6d-97cb-5c5182e1f188",
         "title": "Product Management Intern - Networks",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -207421,7 +207380,7 @@
         "company_name": "Qualcomm",
         "id": "f08383bc-32a4-45a0-9150-06e0b9eb239d",
         "title": "FY26 Intern \u2013 Deep Learning Research Internship - Canada - 4 months - Interim Engineering Intern - SW - 12738 AI Research - Canada",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -218928,7 +218887,7 @@
         "company_name": "Fortive",
         "id": "c538d120-d015-4af2-8439-7068e059b38b",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -242230,7 +242189,7 @@
         "company_name": "Toyota Research Institute",
         "id": "b2870cc2-7e0f-43c5-b08b-144ba6489b2a",
         "title": "Energy & Materials Intern - Agentic Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -267236,7 +267195,7 @@
         "company_name": "KLA Corporation",
         "id": "4d6b5083-f53c-44c5-8274-1d8fda98a970",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -275959,7 +275918,7 @@
         "company_name": "Toyota Research Institute",
         "id": "cd872a78-c0f4-4bd7-837e-3552491de4ea",
         "title": "Energy & Materials Intern - Carbon Neutral Strategy",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -313775,7 +313734,7 @@
         "company_name": "KLA",
         "id": "579a1f1e-a7a3-4027-ae92-915808f0dad1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -320822,7 +320781,7 @@
         "company_name": "Intuitive Surgical",
         "id": "aeaf8c8b-ba72-44e1-a450-848d27a4f5ad",
         "title": "Camera Image Processing Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -360236,7 +360195,7 @@
         "company_name": "RR Donnelley",
         "id": "e2a3fd8f-01c7-4739-a68c-b39852a1f86b",
         "title": "Tools Team Software Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368890,7 +368849,7 @@
         "company_name": "Nokia",
         "id": "021caabb-66fc-4d3e-93f5-6bc694c88c4c",
         "title": "Software Designer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -378051,7 +378010,7 @@
         "company_name": "Cisco",
         "id": "7c0dcd77-6c06-407d-8e31-2787c36edf2c",
         "title": "Software Engineer 2 \u2013 Intern - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -388521,7 +388480,7 @@
         "company_name": "Danaher Corporation",
         "id": "013dcdd8-012a-4ba2-ae80-b6068b3ebfb8",
         "title": "Data Scientist \u2013 Co-Op - Supply Chain AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
