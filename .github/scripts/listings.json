@@ -208926,7 +208926,7 @@
         "company_name": "Bandwidth",
         "id": "4ee17e18-d579-470f-992b-f624d72e324d",
         "title": "Software Development Intern - Billing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -267127,7 +267127,7 @@
         "company_name": "General Motors",
         "id": "0e13c4db-4313-439d-84af-43073b34f3a8",
         "title": "Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -343105,7 +343105,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "e29deb83-03e5-411a-9b18-dd2ffe53d7c4",
         "title": "Personal Systems Hardware Engineering Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -380439,7 +380439,7 @@
         "company_name": "Bank of Montreal",
         "id": "05ec054b-8383-4f55-b7a7-3b3a1813f1aa",
         "title": "Junior Engineer \u2013 Co-op/Internship - Electronic Trading Infrastructure - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -384010,7 +384010,7 @@
         "company_name": "The Boeing Company",
         "id": "eb1cd785-ab5d-4ffd-819d-6517c4a01c7c",
         "title": "ASIC and/or FPGA Design and Verification Engineers \u2013 Entry Level - Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -391041,7 +391041,7 @@
         "company_name": "General Motors",
         "id": "5fb936ec-c96f-4a5a-9af7-24f0047b75ea",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392128,7 +392128,7 @@
         "company_name": "Legrand",
         "id": "d39f652e-36a8-4a12-ae13-fd8c1afc646f",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -394177,6 +394177,31 @@
             "St Paul, MN"
         ],
         "company_url": "https://simplify.jobs/c/Allied-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rolls-Royce",
+        "id": "846f5230-aa25-4b5b-a053-77098a55ceee",
+        "title": "Undergraduate of the Year Intern - Invite Only",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772114097,
+        "date_posted": 1772114097,
+        "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Derby/Undergraduate-of-the-Year-2026---Summer-Internship--INVITE-ONLY-_JR6144469-1",
+        "locations": [
+            "Derby, KS",
+            "Solihull, UK",
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Rolls-Royce",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
