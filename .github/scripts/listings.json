@@ -1,85 +1,5 @@
 [
     {
-        "date_updated": 1751392325,
-        "url": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
-        "company_name": "Palantir",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "reddoy",
-        "id": "8e89d029-fc69-4ceb-850c-bbfddd85468a",
-        "date_posted": 1751392325,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Software Engineering"
-    },
-    {
-        "date_updated": 1751391461,
-        "url": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
-        "company_name": "Palantir",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "reddoy",
-        "id": "d392cd10-3f46-468d-8db4-12f671399814",
-        "date_posted": 1751391461,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Software Engineering"
-    },
-    {
-        "date_updated": 1751391438,
-        "url": "https://jobs.lever.co/palantir/2fb19022-bb65-4af8-b6fa-31beb345c140",
-        "company_name": "Palantir",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "reddoy",
-        "id": "35b8c1e8-38dd-4ef8-9801-2911d05a4557",
-        "date_posted": 1751391438,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Software Engineering"
-    },
-    {
-        "date_updated": 1751391426,
-        "url": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0",
-        "company_name": "Palantir",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "Washington, D.C."
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "reddoy",
-        "id": "d2a001fc-30ad-4524-9e77-588f5c4c66ad",
-        "date_posted": 1751391426,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Software Engineering"
-    },
-    {
         "date_updated": 1751932740,
         "url": "https://grnh.se/9a5dd53e1us",
         "company_name": "Stevens Capital Management",
@@ -229051,7 +228971,7 @@
         "company_name": "Genies",
         "id": "3eaf395f-5f0b-4a49-aac4-a768cf8acce1",
         "title": "Backend Engineer - LLM",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -236400,7 +236320,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "13b7c241-9713-48a9-9956-7b0189c0e26b",
         "title": "ATS Technology Intern Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332761,7 +332681,7 @@
         "company_name": "SoFi",
         "id": "17edd3c6-fa63-4eaa-b7f7-fb44ac36e3ff",
         "title": "Software Engineer - Loans Originations",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -347180,7 +347100,7 @@
         "company_name": "Jain Global",
         "id": "47284c9c-0326-4c70-9192-c536f52a9731",
         "title": "Rates & Macro Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -357992,7 +357912,7 @@
         "company_name": "Altera Corporation",
         "id": "7a99a0e3-af7c-47c0-8eb1-96c41bb5da43",
         "title": "High Level Synthesis \u2013 Compiler Intern - Hls",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392852,7 +392772,7 @@
         "company_name": "AAA Club Alliance",
         "id": "339fb40f-3909-4021-8f95-8dd5d57c519c",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
