@@ -314391,7 +314391,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -320743,7 +320743,7 @@
         "company_name": "The Boeing Company",
         "id": "7848bf7b-3394-4d37-ab38-8466cb514464",
         "title": "Boeing Pre-Employment Training - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -365081,7 +365081,7 @@
         "company_name": "State Street",
         "id": "5f4a3aa8-3a47-4a51-a28f-88bee3ba0162",
         "title": "Relationship Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -368173,7 +368173,7 @@
         "company_name": "Citi",
         "id": "df274575-8f6f-408f-8a36-21805ec29517",
         "title": "Early ID Program - Markets - Quantitative Analysis",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
