@@ -14599,7 +14599,7 @@
         "company_name": "Stoneridge",
         "id": "753e359c-7c68-4a7c-a013-8479caed144a",
         "title": "Business Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -19797,7 +19797,7 @@
         "company_name": "ByteDance",
         "id": "8162bc85-8935-4566-bfd6-ecd7cbfadd57",
         "title": "Research Scientist Intern - Seed - Generative AI for Science - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -53333,7 +53333,7 @@
         "company_name": "Geneva Trading",
         "id": "23609ded-caa4-444f-ab5b-b798b15f4435",
         "title": "Intern \u2013 C++ Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -105109,7 +105109,7 @@
         "company_name": "ByteDance",
         "id": "df256add-9b57-455b-ae50-ecb64ab18192",
         "title": "Research Scientist Intern - Responsible AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -145720,7 +145720,7 @@
         "company_name": "NetraDyne",
         "id": "0c1db8fb-e8ef-462e-855f-4fb735bceb8d",
         "title": "AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -197072,7 +197072,7 @@
         "company_name": "ByteDance",
         "id": "ac5c5f08-da14-42de-b7aa-0d532145eefa",
         "title": "Research Scientist Intern - Biomolecular Structure Foundation Models - Seed AI-for-Science - 2026 Start - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -201528,7 +201528,7 @@
         "company_name": "Trimble",
         "id": "3c3ff8c2-d41e-44bf-a592-ef41cb36dc11",
         "title": "Software Engineering Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -226986,7 +226986,7 @@
         "company_name": "Fortive",
         "id": "a940d898-64b9-43f0-b3f8-2bc7693e7695",
         "title": "Electric Measurement Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -263247,7 +263247,7 @@
         "company_name": "ASML",
         "id": "c2dd1ba2-3b3f-4b79-b53e-56d67de2396a",
         "title": "Internship - Software Engineer In Test - Mod",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -263799,7 +263799,7 @@
         "company_name": "Leidos",
         "id": "ba238e5e-0d7f-4ab0-8497-58ce80b64109",
         "title": "FPGA Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -266806,7 +266806,7 @@
         "company_name": "ASML",
         "id": "edb99405-cf4d-4325-b72e-6325dc5854fd",
         "title": "Internship - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -270060,7 +270060,7 @@
         "company_name": "ASML",
         "id": "a2731881-48e7-4013-afbc-b51c3a4bc85f",
         "title": "Intern - Equipment Data Analyst /AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -297962,7 +297962,7 @@
         "company_name": "ByteDance",
         "id": "e76a670e-b159-432d-922a-98fd8bd3f894",
         "title": "Research Scientist in Generative AI for Science",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -317482,7 +317482,7 @@
         "company_name": "ASML",
         "id": "a9100021-7998-4c7a-b88a-352e2b548390",
         "title": "Intern - Business Intelligence and Machine Learning - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -340735,7 +340735,7 @@
         "company_name": "Bose",
         "id": "599ad0d4-9033-4126-9028-e22720ef6f99",
         "title": "Data Analytics Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344205,7 +344205,7 @@
         "company_name": "Oracle",
         "id": "1d1a2a1d-16b3-4c8e-ac20-b72fab03572d",
         "title": "Ada Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344700,7 +344700,7 @@
         "company_name": "Oracle",
         "id": "c01d8a43-845b-49f3-88cc-2f7cae164761",
         "title": "Ada Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344721,7 +344721,7 @@
         "company_name": "Oracle",
         "id": "a56630c5-eaa6-48d0-b61d-a2d80aa3fac4",
         "title": "Ada Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344768,7 +344768,7 @@
         "company_name": "Oracle",
         "id": "87cb29ee-72ca-4b8a-b63e-bd75ef990958",
         "title": "Ada Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344789,7 +344789,7 @@
         "company_name": "Oracle",
         "id": "83f4e005-fe1f-4ce3-9aa7-10cc2c0ac607",
         "title": "Ada Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -351370,7 +351370,7 @@
         "company_name": "Oracle",
         "id": "5b3c5392-a517-45bd-b4a3-2099e2004a04",
         "title": "Ada Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -351391,7 +351391,7 @@
         "company_name": "Oracle",
         "id": "4932c305-59bb-4f75-a627-b1d78d469c0f",
         "title": "Ada Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -369364,7 +369364,7 @@
         "company_name": "Aurora Innovation",
         "id": "1976aa67-15c9-444c-858a-7c3ab98a3bf9",
         "title": "Hardware Engineering Intern - Lidar - MS or PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -372727,7 +372727,7 @@
         "company_name": "HNTB",
         "id": "eae14705-ea58-47e5-82d3-aef77d4dfdc1",
         "title": "Strategic Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -373693,7 +373693,7 @@
         "company_name": "HNTB",
         "id": "3dadf8db-bd7e-4fa4-a584-2e1816f45f62",
         "title": "Strategic Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -375822,7 +375822,7 @@
         "company_name": "McKesson",
         "id": "82b052e4-b783-4ed0-8e57-0cde533c6c94",
         "title": "Data Scientist and Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -383733,7 +383733,7 @@
         "company_name": "Ticketmaster",
         "id": "1ee92af0-e2c2-4389-a13f-10726842d5ee",
         "title": "Intern Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389902,7 +389902,7 @@
         "company_name": "Ensora Health",
         "id": "230889a2-beba-4b62-b879-1b6e6fc2f10b",
         "title": "RCM Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -393200,7 +393200,7 @@
         "company_name": "Eikon Therapeutics",
         "id": "befd18c9-9905-42f0-8f74-13f2f82b6667",
         "title": "Intern Software Engineer - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -393224,7 +393224,7 @@
         "company_name": "Eikon Therapeutics",
         "id": "8317ea28-0c9b-4c58-92ca-66ef5cf27c7b",
         "title": "Intern \u2013 Software Engineering - Computational Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
