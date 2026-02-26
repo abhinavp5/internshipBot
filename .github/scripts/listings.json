@@ -50405,7 +50405,7 @@
         "company_name": "Qualcomm",
         "id": "ea5560ef-f805-48bd-8876-ea9ecf085c91",
         "title": "Multimedia Engineering Internship - Interim Engineering Intern - Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -50531,7 +50531,7 @@
         "company_name": "Qualcomm",
         "id": "9358104a-17f4-47c4-b8f8-deb45847e133",
         "title": "Hardware \u2013 Engineering Internship - CPU - Gpu - SoC - Digital Design - DV",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -267127,7 +267127,7 @@
         "company_name": "General Motors",
         "id": "0e13c4db-4313-439d-84af-43073b34f3a8",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -385263,7 +385263,7 @@
         "company_name": "RTX",
         "id": "a7077cdd-32eb-4d96-9c94-38c56c09144f",
         "title": "Software Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -391041,7 +391041,7 @@
         "company_name": "General Motors",
         "id": "5fb936ec-c96f-4a5a-9af7-24f0047b75ea",
         "title": "Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -393053,7 +393053,7 @@
         "company_name": "Expedia Group",
         "id": "7f990bae-5b13-4288-bf4c-197e8b08ba85",
         "title": "Machine Learning Science Intern - Masters - 2026','Austin','San Jose",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -393170,7 +393170,7 @@
         "company_name": "Expedia Group",
         "id": "0065f072-c487-4769-b10d-6993af68f633",
         "title": "Machine Learning Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -393869,6 +393869,97 @@
             "Pleasanton, CA"
         ],
         "company_url": "https://simplify.jobs/c/Sajix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Edwards Lifesciences",
+        "id": "46a810ec-2ce5-41f0-8acd-6a0940ccead9",
+        "title": "Environmental Health and Safety Intern - Environmental Health and Safety",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772090766,
+        "date_posted": 1772090766,
+        "url": "https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Environmental-Health-and-Safety--EHS--Internship--Summer-2026_Req-45935",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Edwards-Lifesciences",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Edwards Lifesciences",
+        "id": "8b499351-7a4d-4c21-adc5-d182ba2d176a",
+        "title": "Artificial Intelligence Biostatistics Intern - AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772090765,
+        "date_posted": 1772090765,
+        "url": "https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Artificial-Intelligence--AI--Biostatistics-Internship--Summer-2026_Req-45653",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Edwards-Lifesciences",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Skyward",
+        "id": "ac7e650d-18e4-4697-9b3d-af017ac49f70",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772090174,
+        "date_posted": 1772090174,
+        "url": "https://jobs.smartrecruiters.com/Skyward1/744000107535692",
+        "locations": [
+            "Plover, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Skyward",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale de Surveillance (SGS)",
+        "id": "43aa69a0-6862-409a-8f80-c01cf5a5c54f",
+        "title": "Project Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772090770,
+        "date_posted": 1772090770,
+        "url": "https://jobs.smartrecruiters.com/SGS/744000098083705",
+        "locations": [
+            "Suwanee, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/SGS",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
