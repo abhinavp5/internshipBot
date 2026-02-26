@@ -26087,29 +26087,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Tencent",
-        "id": "b8a292aa-2a08-4fd5-93cb-3b989c419818",
-        "title": "Speech Synthesis Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1751352609,
-        "date_posted": 1751352609,
-        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/UK-London/Speech-Synthesis-Intern_R104829-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Tencent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
         "date_updated": 1755638663,
         "url": "https://job-boards.greenhouse.io/figma/jobs/5602159004?gh_jid=5602159004",
         "company_name": "Figma",
@@ -173135,7 +173112,7 @@
         "company_name": "Qualcomm",
         "id": "5e9ba39f-338b-4b11-a5a5-0c275ee82bca",
         "title": "Automotive Engineering Internship - Interim Engineering Intern - SW - QCT Engineering Mgmt - Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -314414,7 +314391,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -358150,7 +358127,7 @@
         "company_name": "Bank of Montreal",
         "id": "93811c96-c03a-46c8-b7dc-ecbea9debe50",
         "title": "Junior Mainframe Developer \u2013 Co-op/Internship - Summer 2026 - 4 months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -358500,7 +358477,7 @@
         "company_name": "Bank of Montreal",
         "id": "e03244ff-fbdc-4814-ad58-d4aff97e6aa3",
         "title": "Junior Mainframe Developer \u2013 Co-op/Internship - Summer 2026 - 4 months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -358658,7 +358635,7 @@
         "company_name": "Bank of Montreal",
         "id": "322ee467-be7c-4d77-940f-60adf3975768",
         "title": "Junior Mainframe Developer \u2013 Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -367064,7 +367041,7 @@
         "company_name": "Johnson & Johnson",
         "id": "75264a51-fcc4-4c25-9a8f-33a7c10cf600",
         "title": "Digital Solution Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -375260,7 +375237,7 @@
         "company_name": "The Walt Disney Company",
         "id": "e0f1ed00-77ba-4af8-9be5-12ce54f0fb28",
         "title": "Product Manager Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -375283,7 +375260,7 @@
         "company_name": "The Walt Disney Company",
         "id": "269c90b0-04b4-45fe-902c-b15f8eedf040",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389766,7 +389743,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Sandisk",
-        "id": "f9dcf6a3-5a64-4bfb-b21d-5cf5f725be6e",
+        "id": "6c1dd8b8-1b40-4d23-847d-dfbfa71d6fbe",
         "title": "Summer 2026 IT Data Integration Internship - MS",
         "active": true,
         "terms": [
@@ -393076,7 +393053,7 @@
         "company_name": "Expedia Group",
         "id": "7f990bae-5b13-4288-bf4c-197e8b08ba85",
         "title": "Machine Learning Science Intern - Masters - 2026','Austin','San Jose",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -393193,7 +393170,7 @@
         "company_name": "Expedia Group",
         "id": "0065f072-c487-4769-b10d-6993af68f633",
         "title": "Machine Learning Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -393754,6 +393731,144 @@
             "Lewisville, TX"
         ],
         "company_url": "https://simplify.jobs/c/VSP-Vision",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SA Technologies",
+        "id": "a9f5d23f-ff43-4ef0-a2a8-8a5fe0d54297",
+        "title": "GIS Analyst",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1772090261,
+        "date_posted": 1772090261,
+        "url": "https://jobs.smartrecruiters.com/SATechnologiesInc4/116019182",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/SA-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sajix",
+        "id": "ddf53d2b-54a9-409e-a0c4-16b535b95685",
+        "title": "Python Developer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1772089448,
+        "date_posted": 1772089448,
+        "url": "https://jobs.smartrecruiters.com/SajixSoftwareSolutionPrivateLimited/744000058603750",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sajix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sajix",
+        "id": "89b5d725-a59f-4eb3-9e08-476905ff182c",
+        "title": "Machine Learning Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1772089462,
+        "date_posted": 1772089462,
+        "url": "https://jobs.smartrecruiters.com/SajixSoftwareSolutionPrivateLimited/744000058603021",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sajix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sajix",
+        "id": "76576561-4ea2-4ced-8208-659e9c8d5c16",
+        "title": "Business Intelligence Analyst",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1772089443,
+        "date_posted": 1772089443,
+        "url": "https://jobs.smartrecruiters.com/SajixSoftwareSolutionPrivateLimited/744000058602446",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sajix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sajix",
+        "id": "65ccd1b8-214b-4942-a9c7-6247cea6feb2",
+        "title": "Data Analyst",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1772089446,
+        "date_posted": 1772089446,
+        "url": "https://jobs.smartrecruiters.com/SajixSoftwareSolutionPrivateLimited/744000058603050",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sajix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sajix",
+        "id": "2ee71f7d-72b1-4059-8bac-ab051417fc0f",
+        "title": "Data Scientist",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1772089448,
+        "date_posted": 1772089448,
+        "url": "https://jobs.smartrecruiters.com/SajixSoftwareSolutionPrivateLimited/744000058603525",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sajix",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
