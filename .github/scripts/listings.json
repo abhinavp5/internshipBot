@@ -268390,7 +268390,7 @@
         "company_name": "CME Group",
         "id": "c856d519-9052-4f09-aee6-995ea7a6cd16",
         "title": "Research and Product Development PhD Student Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -339314,7 +339314,7 @@
         "company_name": "RTX",
         "id": "f1aa57ff-e315-4c40-995f-3ccb0323c121",
         "title": "Stage \u2013 Science des donn\u00e9es et Analytique d\u2019affaires / Internship - \u00c9t\u00e9 2026 - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -350937,7 +350937,7 @@
         "company_name": "RTX",
         "id": "5bacc780-6178-49f5-b6ff-e2ab40d1033b",
         "title": "Intern - Proactive Engine Health Monitoring - Engine Performance Monitoring",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -391322,7 +391322,7 @@
         "company_name": "Salesforce",
         "id": "9bb16535-afab-4f6e-8ed0-7bffa4636116",
         "title": "Intern \u2013 Marketing Co-op - Enablement Operations or Marketing Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
