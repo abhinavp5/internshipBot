@@ -69161,7 +69161,7 @@
         "company_name": "LPL Financial Holdings",
         "id": "3a8ef299-246a-40f3-97d1-ff465830bffc",
         "title": "Internship Summer 2026 - Technology - Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -362301,7 +362301,7 @@
         "company_name": "Driscoll's",
         "id": "4f64a75b-3a83-4ef8-8ae3-2fa18d540599",
         "title": "Product Business Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -372815,7 +372815,7 @@
         "company_name": "Genentech",
         "id": "99e138e4-66ad-40d8-8eeb-ebbc728662c4",
         "title": "MECOP Intern - Technical Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -374933,7 +374933,7 @@
         "company_name": "Zoom",
         "id": "ebc13604-3a1d-4ff4-b4f9-6419beb75f20",
         "title": "Research Intern - AI Incubation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -393343,7 +393343,7 @@
         "company_name": "Itron",
         "id": "7e97d70a-3d9b-40d1-98e3-2d9ceb1c3bae",
         "title": "Intern Software Engineer - Grid Planning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -394086,6 +394086,101 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kaiser Permanente",
+        "id": "61155f11-cdf7-49e8-bc5b-c3b1c34b3102",
+        "title": "Consulting and Data Analytics Master's Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772103299,
+        "date_posted": 1772103299,
+        "url": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1410311",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kaiser-Permanente",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SFMOMA",
+        "id": "dbcb2f49-9cf3-48fe-a11e-5d3dc1f61e56",
+        "title": "Archives and Art Resources: Digital Access and Records Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772102245,
+        "date_posted": 1767654837,
+        "url": "https://jobs.lever.co/sfmoma/e7760f2b-cc38-46ff-937c-506044e929e8/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/SFMOMA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KBR",
+        "id": "de4f89fd-5ce6-4881-8f56-58406558115e",
+        "title": "National Security Solutions Intern - Nss",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772104178,
+        "date_posted": 1771977101,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Ann-Arbor-Michigan/National-Security-Solutions--NSS--Internship---Automatic-Gain-Control-for-Software-Defined-Radio_R2119512",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/KBR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Allied Solutions",
+        "id": "be367893-2154-44e8-842c-13fad8cb553e",
+        "title": "Sales Data & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772104194,
+        "date_posted": 1771671953,
+        "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Sales-Operations-Intern_R-010236",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Allied-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
