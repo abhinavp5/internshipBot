@@ -166382,9 +166382,9 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Susquehanna International Group (SIG)",
-        "id": "ab14d678-a7f0-4e4b-9014-0fc570ae05a3",
+        "id": "8554484b-7128-498f-873c-1e1566fdd693",
         "title": "Electricity + Natural Gas Analyst Internship: Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -212896,7 +212896,7 @@
         "company_name": "GM financial",
         "id": "3927d454-70cc-44ca-a711-12a43037677d",
         "title": "Intern \u2013 IT Data Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -261861,7 +261861,7 @@
         "company_name": "Kimley-Horn",
         "id": "3beacbb1-95ee-4dea-b212-aa419ace2a81",
         "title": "GIS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -314391,7 +314391,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -332945,7 +332945,7 @@
         "company_name": "Klaviyo",
         "id": "e323d2fb-3667-453d-b0cc-e91535f84ce8",
         "title": "Systems Developer Co-op - G&A Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -347622,7 +347622,7 @@
         "company_name": "Jain Global",
         "id": "35898b50-409a-45de-a3a4-2957362bc07c",
         "title": "Quant Modelling and Analytics Intern - Summer 2026 - London",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -362301,7 +362301,7 @@
         "company_name": "Driscoll's",
         "id": "4f64a75b-3a83-4ef8-8ae3-2fa18d540599",
         "title": "Product Business Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -370159,7 +370159,7 @@
         "company_name": "Ensora Health",
         "id": "cfdd055e-2af7-458d-a8e8-7c70cf907ec6",
         "title": "AI/ML Intern - Generative AI & Intelligent Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376344,7 +376344,7 @@
         "company_name": "The Walt Disney Company",
         "id": "60bac211-9271-40ee-b4e3-c35102051597",
         "title": "WDI Ride Control Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -386778,7 +386778,7 @@
         "company_name": "CME Group",
         "id": "8a5f8583-6e80-43f1-9d0e-9fd1f1e05602",
         "title": "Quant Risk Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -390762,7 +390762,7 @@
         "company_name": "Rochester Regional Health",
         "id": "a50e4caf-7051-4d1d-b3b1-268fd1f33d40",
         "title": "RIT Co-op: Information Systems & Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391517,7 +391517,7 @@
         "company_name": "The Walt Disney Company",
         "id": "8281acdb-f816-46a7-8d44-714de723046d",
         "title": "Disney Ad Sales \u2013 Graduate Data Science Engineering Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -393100,7 +393100,7 @@
         "company_name": "Koppers",
         "id": "5c0f1c73-2e1a-44d4-b041-c0eb5d416098",
         "title": "Engineer Technician",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -394206,6 +394206,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Deliveroo",
+        "id": "84b3d819-d418-47e7-bba9-614ba0ff333e",
+        "title": "Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772118678,
+        "date_posted": 1772118678,
+        "url": "https://jobs.ashbyhq.com/deliveroo/3e0440a9-7abc-45b0-8520-d3e13083d0f3/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Deliveroo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
