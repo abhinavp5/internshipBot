@@ -101,126 +101,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Photon",
-        "id": "ccccf704-6e34-425e-91e9-8c440cf17bc2",
-        "title": "Data & AI/GenAI Intern",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1751384962,
-        "date_posted": 1751384962,
-        "url": "https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs/job/22319",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Photon",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "0d20db7c-197a-4ec4-91c2-a72684374d51",
-        "title": "Software Engineer \u2013 Internship - Production Infrastructure",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754409824,
-        "date_posted": 1751385393,
-        "url": "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116/apply",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "33da215d-313a-45b7-8ad3-bde21b250ffe",
-        "title": "Software Engineer \u2013 Internship - Production Infrastructure",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1751385394,
-        "date_posted": 1751385394,
-        "url": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1/apply",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "9f078de1-afbf-46ec-a41a-9ed1bd030aa0",
-        "title": "Software Engineer \u2013 Internship - Infrastructure",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1751385394,
-        "date_posted": 1751385394,
-        "url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3/apply",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Copart",
-        "id": "4b139772-f40a-4ef0-8867-51cd943508bc",
-        "title": "Technology Product Analyst Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1751385126,
-        "date_posted": 1751385126,
-        "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR102880",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Copart",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Emerson Electric",
-        "id": "969f8d93-12b4-4ab6-8e8f-14b8bce2e1ba",
-        "title": "Software Development Co-op",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1751386496,
-        "date_posted": 1751386496,
-        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25019232",
-        "locations": [
-            "Elyria, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Emerson-Electric",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "NVIDIA",
         "id": "e7d57dde-ac35-4ece-a3d0-24ac4d340100",
@@ -2411,26 +2291,6 @@
         "company_url": "",
         "is_visible": false,
         "category": "Software Engineering"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "4a30dd71-73a0-48c8-9e4a-9422a6952920",
-        "title": "Software Engineer \u2013 Internship - Defense Tech",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1751385390,
-        "date_posted": 1751385390,
-        "url": "https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7/apply",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
     },
     {
         "source": "Simplify",
@@ -69161,7 +69021,7 @@
         "company_name": "LPL Financial Holdings",
         "id": "3a8ef299-246a-40f3-97d1-ff465830bffc",
         "title": "Internship Summer 2026 - Technology - Product",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -113165,236 +113025,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "c8c5aa40-1271-42fb-937f-a311fcaf917d",
-        "title": "Software Engineer Internship - Defense Tech",
-        "active": true,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1758664168,
-        "date_posted": 1751385393,
-        "url": "https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d/apply",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "d0302d05-c84f-4a36-a91e-cc293f08604e",
-        "title": "Software Engineer Internship",
-        "active": true,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1758578040,
-        "date_posted": 1751385386,
-        "url": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c/apply",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "da1074aa-7344-4ad3-9b53-078f1dbd2edc",
-        "title": "Software Engineer Internship",
-        "active": true,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1758366075,
-        "date_posted": 1751385383,
-        "url": "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249/apply",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "0f0aeb67-6d9f-4204-85d7-29cb04386943",
-        "title": "Software Engineer Internship",
-        "active": true,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1758629027,
-        "date_posted": 1751385382,
-        "url": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0/apply",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "e1cb71b6-18fc-4d48-9c80-55c54bb62a50",
-        "title": "Software Engineer \u2013 Internship",
-        "active": true,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1753971776,
-        "date_posted": 1751385382,
-        "url": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d/apply",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "b9a66fc7-950d-4574-abc7-4b409156948b",
-        "title": "Software Engineer Internship",
-        "active": true,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1758629834,
-        "date_posted": 1751385379,
-        "url": "https://jobs.lever.co/palantir/2fb19022-bb65-4af8-b6fa-31beb345c140/apply",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "01a5ff88-29a2-4b09-9814-582b4e1fe212",
-        "title": "Software Engineer Internship - Defense Tech",
-        "active": true,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1758551288,
-        "date_posted": 1751385392,
-        "url": "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e/apply",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "d58f726c-620e-4c0c-89d7-8b54421280ab",
-        "title": "Forward Deployed Software Engineer Intern - US Government",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1758584913,
-        "date_posted": 1751385319,
-        "url": "https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f/apply",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "fe77f108-84fc-48fd-bc64-dfd8921d203f",
-        "title": "Forward Deployed Software Engineer Intern - Defense Tech",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1758624527,
-        "date_posted": 1751385325,
-        "url": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b/apply",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "0503901e-622f-4d1b-b7f9-29d44e59eaab",
-        "title": "Forward Deployed Software Engineer Intern - US Government",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1758624622,
-        "date_posted": 1751385318,
-        "url": "https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2/apply",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -267127,7 +266757,7 @@
         "company_name": "General Motors",
         "id": "0e13c4db-4313-439d-84af-43073b34f3a8",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370235,7 +369865,7 @@
         "company_name": "Ensora Health",
         "id": "56e7fbc3-a9c8-486e-b4e2-f60e30436141",
         "title": "AI/ML Intern - Generative AI & Intelligent Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -370590,7 +370220,7 @@
         "company_name": "ABB",
         "id": "f5310b53-2681-4b6a-93d3-94b871cc5381",
         "title": "EML Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371240,7 +370870,7 @@
         "company_name": "Jabil",
         "id": "895bf7f1-8f7f-4e98-a48d-20468ce7cd14",
         "title": "Financial Systems Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -386644,7 +386274,7 @@
         "company_name": "RTX",
         "id": "1be8187f-3d92-461f-abcc-45fae9530e3d",
         "title": "Analytics and Machine Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391041,7 +390671,7 @@
         "company_name": "General Motors",
         "id": "5fb936ec-c96f-4a5a-9af7-24f0047b75ea",
         "title": "Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -391289,31 +390919,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Fortinet",
-        "id": "8c1264d0-142e-428a-b450-92f3cd6e22ba",
-        "title": "Software Developer Quality Assurance",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1772013702,
-        "date_posted": 1751384167,
-        "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/19958",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Fortinet",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -394231,5 +393836,281 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SS&C",
+        "id": "80903754-74f5-456d-b831-302de36cb9ef",
+        "title": "Intern \u2013 Technical",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772121123,
+        "date_posted": 1772121123,
+        "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Ontario-Toronto/Intern---Technical_R40419",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/SSC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Audax Group",
+        "id": "7878456f-48e8-4b94-9525-2e3d433621df",
+        "title": "Business Intelligence Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772120904,
+        "date_posted": 1772120904,
+        "url": "https://job-boards.greenhouse.io/audaxgroup/jobs/4666844005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Audax-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "OLG",
+        "id": "0739c6db-1bff-4aa6-9123-145b694a33e4",
+        "title": "Performance Analyst Student - 8 Months",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1772120885,
+        "date_posted": 1772120885,
+        "url": "https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Performance-Analyst-Student--8-Months-_R26_00109",
+        "locations": [
+            "Sault Ste. Marie, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/OLG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KBR",
+        "id": "172178d8-abab-421b-a656-708e2f363f97",
+        "title": "SSMO Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772120676,
+        "date_posted": 1772120676,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Greenbelt-Maryland/SSMO-Software-Engineer-Intern_R2119666",
+        "locations": [
+            "Lanham, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/KBR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "8121c15c-51db-41b2-a3a0-0ab4eef6154c",
+        "title": "AI Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772120380,
+        "date_posted": 1772120380,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cambridge-Massachusetts-United-States-of-America/AI-Summer-Research-Intern_R-059478-1",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cambridge Mobile Telematics",
+        "id": "86055d93-aed7-4989-bae5-ddcf1a6ef699",
+        "title": "Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772120133,
+        "date_posted": 1772120133,
+        "url": "https://job-boards.greenhouse.io/cmt/jobs/7657520",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/CMTelematics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "aede2678-3b26-439d-8f90-a5ee4b89d6ac",
+        "title": "Summer 2026 \u2013 DT Applications Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772119932,
+        "date_posted": 1772119932,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-J--411-Silver-Ln--RTRC-J/Summer-2026---DT-Applications-Intern_01826508",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "01a5ff88-29a2-4b09-9814-582b4e1fe212",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1767695053,
+        "date_posted": 1762540593,
+        "url": "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "c8c5aa40-1271-42fb-937f-a311fcaf917d",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1767695073,
+        "date_posted": 1762540592,
+        "url": "https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "9f078de1-afbf-46ec-a41a-9ed1bd030aa0",
+        "title": "Software Engineer \u2013 Internship - Infrastructure",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1767695171,
+        "date_posted": 1761901979,
+        "url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "33da215d-313a-45b7-8ad3-bde21b250ffe",
+        "title": "Software Engineer Internship - Production Infrastructure",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1767695035,
+        "date_posted": 1761900806,
+        "url": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1/apply",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "0d20db7c-197a-4ec4-91c2-a72684374d51",
+        "title": "Software Engineer Internship - Production Infrastructure",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1767695080,
+        "date_posted": 1761900808,
+        "url": "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
