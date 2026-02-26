@@ -302912,7 +302912,7 @@
         "company_name": "MongoDB",
         "id": "4ddfe04b-0953-471d-bcf7-d18a49acc964",
         "title": "GTM Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391493,7 +391493,7 @@
         "company_name": "Auctane",
         "id": "1e253fa0-e59f-4806-8af9-d47946a74425",
         "title": "Salesforce Administrator Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -392508,7 +392508,7 @@
         "company_name": "RTX",
         "id": "b26b6e02-b563-49f7-8a2b-404d1a65778d",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
