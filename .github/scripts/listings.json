@@ -100,26 +100,6 @@
         "category": "Quantitative Finance"
     },
     {
-        "date_updated": 1752132677,
-        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-dveloppement-logiciels_25WD89784",
-        "company_name": "Autodesk",
-        "title": "Intern, Software Developer",
-        "locations": [
-            "Montreal, Quebec, Canada"
-        ],
-        "terms": [
-            "Fall 2025"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "GaryZhous",
-        "id": "f85f1657-3d74-42d5-baae-51504f16a958",
-        "date_posted": 1751336913,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Software Engineering"
-    },
-    {
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Intermountain Healthcare",
@@ -19505,7 +19485,7 @@
         "company_name": "American Express",
         "id": "001b4703-d924-4138-b1e2-6cfe66089562",
         "title": "Campus Graduate Summer Internship Program - 2026 Software Engineer - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -127756,7 +127736,7 @@
         "company_name": "Zebra Technologies",
         "id": "c0b6718d-9df9-4d07-83c7-187e7b3d73b1",
         "title": "Internship - Flutter Mobile App Development - Corporate and Business Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -173175,7 +173155,7 @@
         "company_name": "Qualcomm",
         "id": "5e9ba39f-338b-4b11-a5a5-0c275ee82bca",
         "title": "Automotive Engineering Internship - Interim Engineering Intern - SW - QCT Engineering Mgmt - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -175692,7 +175672,7 @@
         "company_name": "Qualcomm",
         "id": "31628bc4-1752-4732-b39c-359d0dac35ed",
         "title": "FY26 Intern \u2013 Machine Learning Compiler & Performance Engineering Intern - Canada - Months - Interim Engineering Intern - Systems - 50279 QCT AIML Systems (Markham)",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -230274,7 +230254,7 @@
         "company_name": "Intuit",
         "id": "46bd7367-537a-4670-8697-51e9db993e51",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -267190,7 +267170,7 @@
         "company_name": "General Motors",
         "id": "0e13c4db-4313-439d-84af-43073b34f3a8",
         "title": "Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -279946,7 +279926,7 @@
         "company_name": "Loft",
         "id": "ebbf1bc8-d4b7-4566-8061-5a285e29d2da",
         "title": "Commerce Platform Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -286326,7 +286306,7 @@
         "company_name": "Microsoft",
         "id": "4fd8fd5d-00f7-420f-a9b9-81a7573accd1",
         "title": "Software Engineer \u2013 Top Secret: Internship Opportunities - Ctj",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -314454,7 +314434,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -358742,7 +358722,7 @@
         "company_name": "Ciena",
         "id": "e7f9a327-2b5d-4ab7-b228-405c72ce2ab5",
         "title": "Waveserver Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -389806,7 +389786,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Sandisk",
-        "id": "6c1dd8b8-1b40-4d23-847d-dfbfa71d6fbe",
+        "id": "f9dcf6a3-5a64-4bfb-b21d-5cf5f725be6e",
         "title": "Summer 2026 IT Data Integration Internship - MS",
         "active": true,
         "terms": [
@@ -391104,7 +391084,7 @@
         "company_name": "General Motors",
         "id": "5fb936ec-c96f-4a5a-9af7-24f0047b75ea",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -393702,6 +393682,98 @@
             "Mississauga, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/McKesson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Materials",
+        "id": "c2c4d339-62ef-4ea9-a45e-1e7dc58d85f2",
+        "title": "2026 AI Engineer/Data Scientist Intern-Bachelor's - Santa Clara - CA",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1772074479,
+        "date_posted": 1772074479,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-AI-Engineer-Data-Scientist-Intern--Bachelor-s--Santa-Clara--CA-_R2612962-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Eikon Therapeutics",
+        "id": "befd18c9-9905-42f0-8f74-13f2f82b6667",
+        "title": "Intern Software Engineer - Machine Learning",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772073572,
+        "date_posted": 1772073572,
+        "url": "https://job-boards.greenhouse.io/eikontherapeutics/jobs/5052818007",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Eikon-Therapeutics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Eikon Therapeutics",
+        "id": "8317ea28-0c9b-4c58-92ca-66ef5cf27c7b",
+        "title": "Intern \u2013 Software Engineering - Computational Modeling",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772073576,
+        "date_posted": 1772073576,
+        "url": "https://job-boards.greenhouse.io/eikontherapeutics/jobs/5052856007",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Eikon-Therapeutics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "VSP Vision",
+        "id": "5fce2534-de42-4f2b-b234-6c2b8f55c372",
+        "title": "Data Analytics Intern - Data Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772072964,
+        "date_posted": 1772072964,
+        "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Lewisville-TX/Internship---Data-Analytics_R-9180",
+        "locations": [
+            "Lewisville, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/VSP-Vision",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
