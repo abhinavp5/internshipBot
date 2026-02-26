@@ -231327,7 +231327,7 @@
         "company_name": "Chubb",
         "id": "c3ec5f6f-3bd4-4c4e-8018-580af35dd509",
         "title": "Enrollment Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -304273,7 +304273,7 @@
         "company_name": "Microsoft",
         "id": "9785d180-d1f1-4ca5-8aff-7170272d88fc",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -362323,7 +362323,7 @@
         "company_name": "Microchip Technology",
         "id": "ac10fab9-ee1a-4dc5-9a5c-e7f54bc60b16",
         "title": "Intern-Engineering - Software AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -387849,7 +387849,7 @@
         "company_name": "Northrop Grumman",
         "id": "35315da3-70c7-4b19-be59-6296b9186047",
         "title": "Hardware Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392533,7 +392533,7 @@
         "company_name": "ZoomInfo",
         "id": "d3b9ae41-709d-47d8-9942-7f67a1ff249a",
         "title": "Software Engineer Intern - AI Products",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -393960,6 +393960,127 @@
             "Suwanee, GA"
         ],
         "company_url": "https://simplify.jobs/c/SGS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "879ed308-a7ec-4ff3-bf72-d09f96a1bac5",
+        "title": "Systems / Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772101407,
+        "date_posted": 1771985215,
+        "url": "https://careers-gdms.icims.com/jobs/69489/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Waters Corporation",
+        "id": "44676578-7c2d-4206-b25e-59d7a1cda67d",
+        "title": "Intern \u2013 Field Service",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1772100168,
+        "date_posted": 1771974746,
+        "url": "https://uscareers-waters.icims.com/jobs/25586/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Franklin, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Waters-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Waters Corporation",
+        "id": "cc8ef26e-5953-4cd4-835c-cb3dacc1d814",
+        "title": "Intern \u2013 Field Service",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1772100159,
+        "date_posted": 1770995370,
+        "url": "https://uscareers-waters.icims.com/jobs/25375/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Waters-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Waters Corporation",
+        "id": "7b1fe7e1-417e-4ba4-afc3-c3c0f10fa1a2",
+        "title": "Field Service",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772100333,
+        "date_posted": 1770995256,
+        "url": "https://uscareers-waters.icims.com/jobs/25420/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "San Diego, CA",
+            "LA",
+            "Houston, TX",
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Waters-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "4e282982-f445-4647-a7dc-af27c23c126a",
+        "title": "Product Operations Intern - SMB Product Vertical - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772100312,
+        "date_posted": 1766532233,
+        "url": "https://lifeattiktok.com/search/7582674481097853237",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
