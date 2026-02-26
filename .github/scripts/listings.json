@@ -22,66 +22,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "IMC Trading",
-        "id": "474c034c-cd47-45e2-b198-16e369a72b43",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1751410418,
-        "date_posted": 1751410418,
-        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4580810101",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/IMC-Trading",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "IMC Trading",
-        "id": "6d2c19bd-5399-4a49-9aab-a4739ec8b1fd",
-        "title": "Quantitative Research Intern - BS/MS",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1751410406,
-        "date_posted": 1751410406,
-        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4580808101",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/IMC-Trading",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "IMC Trading",
-        "id": "58423c76-0d80-435f-b226-e29ee7fa5bf1",
-        "title": "Quantitative Trader Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1751410404,
-        "date_posted": 1751410404,
-        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4580757101",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/IMC-Trading",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Optiver",
         "id": "67fab9f0-d34b-435f-8628-b12ac686e5bf",
         "title": "Software Engineer Intern",
@@ -25780,52 +25720,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "IMC Trading",
-        "id": "9d8dced8-dac1-4831-a7e3-edbb35714b67",
-        "title": "Quantitative Research Intern - PhD",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1751410405,
-        "date_posted": 1751410405,
-        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4609894101",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/IMC-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "IMC Trading",
-        "id": "a97c06b6-a6fa-4a26-909b-9e8cffb898e2",
-        "title": "Machine Learning Research Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1751410399,
-        "date_posted": 1751410399,
-        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4608584101",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/IMC-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
         "date_updated": 1755638663,
         "url": "https://job-boards.greenhouse.io/figma/jobs/5602159004?gh_jid=5602159004",
         "company_name": "Figma",
@@ -49250,7 +49144,7 @@
         "company_name": "Hartford Financial Services",
         "id": "07659e86-00a0-419c-a592-108d60d37376",
         "title": "Operations & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -229278,7 +229172,7 @@
         "company_name": "Brave",
         "id": "2d97ae61-63ae-4fe9-aa99-affec5937269",
         "title": "Computer Science Ph.D. Internships - 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -270595,7 +270489,7 @@
         "company_name": "Zoox",
         "id": "871d0022-706d-4be6-9a97-4f8f4c54af57",
         "title": "Enterprise Integration Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -278654,7 +278548,7 @@
         "company_name": "Samsung Research America",
         "id": "20924dfa-f7a9-4390-ad80-5bbd84cb464f",
         "title": "2026 Intern - AI Wireless Research - Spring/Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -293890,7 +293784,7 @@
         "company_name": "Ciena",
         "id": "92d84004-ff82-4bfd-8d13-8028ef1d0057",
         "title": "PON NPI Test Engineering Coop Student",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -302596,7 +302490,7 @@
         "company_name": "Auctane",
         "id": "e2d5f00a-30c5-4c4a-b024-1cd95e347db8",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -307433,7 +307327,7 @@
         "company_name": "Samsung Research America",
         "id": "2909b23b-d049-4f31-9d5e-a71faacba4af",
         "title": "2026 Intern - Computer Vision & ML - Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -312529,7 +312423,7 @@
         "company_name": "Autodesk",
         "id": "3122a6d8-58a7-4c16-b8be-8ebca0f488eb",
         "title": "Intern \u2013 XR and AI Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -312598,7 +312492,7 @@
         "company_name": "Autodesk",
         "id": "3517ab6b-b381-4ab8-b812-a70d0d401ac7",
         "title": "Intern \u2013 XR and AI Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -321008,7 +320902,7 @@
         "company_name": "Block",
         "id": "d0df2330-467e-4ef2-9e0c-62d24bcbdd54",
         "title": "Mobile Software Engineer Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -322454,7 +322348,7 @@
         "company_name": "Rheem",
         "id": "5baa9b2a-8629-4bec-bad5-763b8a3e19c5",
         "title": "Product Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -325009,7 +324903,7 @@
         "company_name": "Cambridge Associates",
         "id": "fb19699a-b370-41d4-9a18-591cc952bf60",
         "title": "Digital Engagement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -325078,7 +324972,7 @@
         "company_name": "Cambridge Associates",
         "id": "a410eff6-3f11-4941-a2a5-4289205ed9fb",
         "title": "Digital Engagement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -331035,7 +330929,7 @@
         "company_name": "Block",
         "id": "49ad2b6d-f5ad-47b0-aec4-2bb56dca44aa",
         "title": "Embedded Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -335385,7 +335279,7 @@
         "company_name": "The Federal Reserve System",
         "id": "95763b97-2be9-456e-b313-2aa48ef9eba9",
         "title": "Intern \u2013 Research Department",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -341750,7 +341644,7 @@
         "company_name": "Leidos",
         "id": "6adf11e6-cb14-425a-a02d-8a5eeee8aaba",
         "title": "Apprentice Geospatial Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -353190,7 +353084,7 @@
         "company_name": "Kinaxis",
         "id": "3d5fe3f3-5cf8-4285-8137-fa4e38207a89",
         "title": "Co-Op/Intern Software Engineer - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -354942,7 +354836,7 @@
         "company_name": "Hudson River Trading",
         "id": "eb8c5809-9a07-426d-aaa8-14ee623c0e15",
         "title": "Explore HRT - London",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -368543,7 +368437,7 @@
         "company_name": "Leidos",
         "id": "13297e90-99fd-41c7-9a26-5cbe83166ec4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379304,7 +379198,7 @@
         "company_name": "Stewart",
         "id": "f84fb838-15a9-4b43-ba8a-0cc70b6fbb78",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -384203,7 +384097,7 @@
         "company_name": "Protiviti",
         "id": "5ba2c64d-0bf4-44e5-a8a0-b3bdc0bd73fa",
         "title": "Houston Technology Consulting Intern - 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -384251,7 +384145,7 @@
         "company_name": "Protiviti",
         "id": "234f2ee2-f1c4-4f66-b556-0e22187ce69c",
         "title": "Technology Consulting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -384497,7 +384391,7 @@
         "company_name": "Protiviti",
         "id": "5387d61a-2046-47ed-a783-9d28adf0d2b0",
         "title": "Technology Consulting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -384521,7 +384415,7 @@
         "company_name": "Protiviti",
         "id": "466a9816-a784-4163-882c-24d8f3654b58",
         "title": "Technology Consulting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -385913,7 +385807,7 @@
         "company_name": "Snowflake",
         "id": "6ccb98f1-b909-479c-9f45-1b8885f472b8",
         "title": "Software Engineering Intern - Full Stack Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -387381,7 +387275,7 @@
         "company_name": "VSP Vision",
         "id": "b6f0418a-ba08-41ae-942a-85d4bcad51e5",
         "title": "Intern - Software Engineer - AI Framework and Standards",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -388384,30 +388278,6 @@
         "is_visible": true
     },
     {
-        "date_updated": 1771948992,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://www.eduarcline.us/careers/software-engineering-intern",
-        "company_name": "Arcline",
-        "title": "Software Engineering Intern",
-        "locations": [
-            "San Francisco, CA",
-            "Remote in USA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "jamesthechen",
-        "id": "399408ae-8a81-42f7-9246-532e815a9574",
-        "date_posted": 1771948992,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1771949484,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -389277,7 +389147,7 @@
         "company_name": "Kargo",
         "id": "e158f2ff-4488-4aeb-9406-7ac0a5acec15",
         "title": "Intern Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
