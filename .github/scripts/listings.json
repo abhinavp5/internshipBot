@@ -100040,7 +100040,7 @@
         "company_name": "Apex Fintech Solutions",
         "id": "3ef25068-0c26-4aed-bfdc-1637a3f4e004",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -305216,7 +305216,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "86c9f725-5934-405c-890b-02362859fa55",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -305239,7 +305239,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "4811586d-1d4e-4c63-85f4-d15850e09340",
         "title": "AI Engineering/Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -312235,7 +312235,7 @@
         "company_name": "Autodesk",
         "id": "3122a6d8-58a7-4c16-b8be-8ebca0f488eb",
         "title": "Intern \u2013 XR and AI Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -312304,7 +312304,7 @@
         "company_name": "Autodesk",
         "id": "3517ab6b-b381-4ab8-b812-a70d0d401ac7",
         "title": "Intern \u2013 XR and AI Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -313606,7 +313606,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -320782,7 +320782,7 @@
         "company_name": "ASML",
         "id": "6dc64511-3682-4c77-baac-aa5b8e7ab980",
         "title": "Internship - EUV Installation Technical Project Support",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -328214,7 +328214,7 @@
         "company_name": "Kroll",
         "id": "1f454555-e3ae-4611-a53d-40c8d109d8c8",
         "title": "Intern Technology - Cyber Risk & Infrastructure",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Winter 2027",
@@ -338737,7 +338737,7 @@
         "company_name": "RTX",
         "id": "aa2b2287-2ed0-4401-aefe-086797c1ed71",
         "title": "Projet d\u2019\u00e9volution de l\u2019IA - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -368295,7 +368295,7 @@
         "company_name": "Jabil",
         "id": "bccca588-fed9-477d-a729-0f2fbc3d9814",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -396390,5 +396390,152 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Commonwealth of Massachusetts",
+        "id": "44c251ba-d898-4d8a-a79e-7fdcc56323d4",
+        "title": "Enterprise Platforms Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772205440,
+        "date_posted": 1772205440,
+        "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260001Q1",
+        "locations": [
+            "Everett, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Commonwealth-Of-Massachusetts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "USM Business Systems",
+        "id": "f4955025-8a51-402e-a6e1-b9e921a5a466",
+        "title": "Data Scientist",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1772205401,
+        "date_posted": 1772205401,
+        "url": "https://jobs.smartrecruiters.com/USM2/94062043",
+        "locations": [
+            "San Ramon, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "USM Business Systems",
+        "id": "d8d0bad3-7fec-42b1-90b4-4813227c5b8c",
+        "title": "Node.JS developer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1772205285,
+        "date_posted": 1772205285,
+        "url": "https://jobs.smartrecruiters.com/USM2/106242330",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pitney Bowes",
+        "id": "2ef60845-5f6d-4c6f-8515-113cac5689e4",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772205379,
+        "date_posted": 1772205379,
+        "url": "https://pitneybowes.wd1.myworkdayjobs.com/pbcareers/job/US-CT-Shelton/Data-Analytics-Intern_R21344",
+        "locations": [
+            "Shelton, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Pitney-Bowes",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "USM Business Systems",
+        "id": "2e5faa04-6c45-47f0-b267-e6afb75d640c",
+        "title": "Front End with PHP - Need GC and USC",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1772205371,
+        "date_posted": 1772205371,
+        "url": "https://jobs.smartrecruiters.com/USM2/98203296",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "USM Business Systems",
+        "id": "12258b3c-e67f-40fc-a43c-171a1013e6b0",
+        "title": "Hardware Product Test",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1772205251,
+        "date_posted": 1772205251,
+        "url": "https://jobs.smartrecruiters.com/USM2/115358457",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Visa",
+        "id": "dc7bcac5-8fb9-4b78-80de-00296dc50aea",
+        "title": "Product Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772204732,
+        "date_posted": 1772204732,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000111831030",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
