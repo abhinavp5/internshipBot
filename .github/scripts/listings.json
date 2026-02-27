@@ -21,46 +21,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Autodesk",
-        "id": "72c96fbc-f8cd-4977-9bf9-93929c6e2ac8",
-        "title": "Intern \u2013 Software Developer/ Stagiaire en d\u00e9veloppement logiciels",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1751494892,
-        "date_posted": 1751494892,
-        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-dveloppement-logiciels_25WD89817",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Autodesk",
-        "id": "0bb01ae4-945e-4186-8ae4-50d75040979b",
-        "title": "Intern \u2013 Software Developer",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1751494890,
-        "date_posted": 1751494890,
-        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Montreal-QC-CAN/Intern--Software-Developer_25WD89837-2",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Exact Sciences",
         "id": "235b89d0-c8e2-4c95-9f0d-a99a2d763a39",
@@ -138728,7 +138688,7 @@
         "company_name": "Intuitive Surgical",
         "id": "ccd59100-6f99-4cbd-8102-2cda4a354b96",
         "title": "Product Management Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -377155,7 +377115,7 @@
         "company_name": "Activision-Blizzard",
         "id": "6aa5dc14-b9d9-46ef-b986-637d822cce5c",
         "title": "2026 US Summer Internships - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -388182,7 +388142,7 @@
         "company_name": "COUNTRY Financial",
         "id": "1b4b0062-640e-447b-8769-af131e14cd65",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389117,7 +389077,7 @@
         "company_name": "Manulife Financial",
         "id": "a80ebc1b-413b-4801-b121-d97a86f5f990",
         "title": "Product Documentation Specialist \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
