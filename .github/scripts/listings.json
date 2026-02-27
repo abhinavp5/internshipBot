@@ -193158,7 +193158,7 @@
         "company_name": "Apex Fintech Solutions",
         "id": "cafce8e5-33ff-46f5-9e16-1f6452a2f8f4",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -264467,7 +264467,7 @@
         "company_name": "Geotab",
         "id": "587e3129-adef-4f37-ab6f-bb8c0a36ced0",
         "title": "Product Safety Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -266342,7 +266342,7 @@
         "company_name": "General Motors",
         "id": "0e13c4db-4313-439d-84af-43073b34f3a8",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -267201,7 +267201,7 @@
         "company_name": "Atlantic Health System",
         "id": "4b3b2fab-4f4b-4625-8fa0-b212a5c814db",
         "title": "Pharmacy \u2013 Intern - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -313606,7 +313606,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370979,7 +370979,7 @@
         "company_name": "Heron Data",
         "id": "789ab671-36e8-4c05-b6ce-b3f306715830",
         "title": "Forward Deployed Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -388023,7 +388023,7 @@
         "company_name": "CACI",
         "id": "b1f28d7a-ac0e-4d91-8a21-88e28b363934",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -390232,7 +390232,7 @@
         "company_name": "General Motors",
         "id": "5fb936ec-c96f-4a5a-9af7-24f0047b75ea",
         "title": "Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -395394,7 +395394,7 @@
         "company_name": "Vertex Pharmaceuticals",
         "id": "81122ed8-a80a-4cc9-ab12-2421adfcb632",
         "title": "Intern - Statistical Programming - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -396366,6 +396366,29 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "1d92d1ef-f6d5-404b-be6e-dfc29e212c84",
+        "title": "Population analytics & Insights and Data science & Digital Health",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1772201366,
+        "date_posted": 1772201366,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Population-analytics---Insights-and-Data-science---Digital-Health_R-057780",
+        "locations": [
+            "Ambler, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
