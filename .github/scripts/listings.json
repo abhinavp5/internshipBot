@@ -46495,7 +46495,7 @@
         "company_name": "Nationwide",
         "id": "5f287cc8-ebea-4754-9eee-837012cdeeae",
         "title": "Summer 2026 Technology Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -273993,7 +273993,7 @@
         "company_name": "Rolls Royce",
         "id": "551d679f-b3c0-4706-af79-2c761ade8cb9",
         "title": "Vehicle Electronics Test & Validation Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -325590,7 +325590,7 @@
         "company_name": "MEMIC",
         "id": "5b49b9a4-ab9d-4e55-b3be-f8cd5178f560",
         "title": "IT Architecture & Innovation Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -325686,7 +325686,7 @@
         "company_name": "TriNet",
         "id": "c3c4de09-a7a1-4b2f-a9db-28d410e2d3ff",
         "title": "Intern Informatics",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -331956,7 +331956,7 @@
         "company_name": "Nokia",
         "id": "7e791926-f892-4225-8377-273c897fe273",
         "title": "Analytics Next-Gen AI Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -392349,7 +392349,7 @@
         "company_name": "WSP",
         "id": "2985a4cd-eb19-4bbf-8c10-b9169ca6752d",
         "title": "Travel Demand Modeling Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -396650,6 +396650,497 @@
             "Phoenix, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Grand-Canyon-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Samsung Research America",
+        "id": "f20fbf83-d899-41f4-a660-9c88cdebc5f9",
+        "title": "Memory and Personalization Intern - Memory and Personalization",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772234356,
+        "date_posted": 1772234356,
+        "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8438402002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung-Research-America",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cisco",
+        "id": "c58a8a91-6421-4ed5-844b-c8eda99fcdb7",
+        "title": "AI/ML Modeling Engineer 2 - Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772234523,
+        "date_posted": 1772234523,
+        "url": "https://careers.cisco.com/global/en/job/2008901",
+        "locations": [
+            "Milpitas, CA",
+            "San Jose, CA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Stantec",
+        "id": "9aaaaa39-f861-4d1e-b9ae-48b7666d8ed5",
+        "title": "Mobility Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772234387,
+        "date_posted": 1772234387,
+        "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1004606",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Stantec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kaiser Permanente",
+        "id": "0e79d0ae-a99a-4e85-b9c8-eaf5e61114db",
+        "title": "Reporting Master's Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772234459,
+        "date_posted": 1772234459,
+        "url": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1409179",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kaiser-Permanente",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Samsung Research America",
+        "id": "006ab923-6fc8-4014-a88f-d05e3e7e69da",
+        "title": "Intern - Bixby Edge AI - Language",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772234355,
+        "date_posted": 1772234355,
+        "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8438583002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung-Research-America",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Chubb",
+        "id": "c21e89fc-7c13-41a9-8d1d-f9fbec95c0e0",
+        "title": "2026 Personal Risk Services Intern - Product - Fine Arts",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772234129,
+        "date_posted": 1772234129,
+        "url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/30957",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Chubb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BlueRock Therapeutics",
+        "id": "bb0d96aa-6373-4604-9126-0bce0d1bc119",
+        "title": "Data Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772234197,
+        "date_posted": 1772234197,
+        "url": "https://jobs.lever.co/bluerocktx/73c7b9e2-03c6-4ab3-8ae1-6654c19fa41e/apply",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/BlueRock-Therapeutics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "id": "3149b457-70fa-491e-a058-bf09771438af",
+        "title": "Computational Engineering Division Graduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772234320,
+        "date_posted": 1772234320,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990011893908",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LLNL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fulton Bank",
+        "id": "ba5b9ea2-5eaa-4869-bf50-2d7348e7080e",
+        "title": "Intern Data Scientist",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772233991,
+        "date_posted": 1772233991,
+        "url": "https://careers-fult.icims.com/jobs/23336/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Lancaster, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fulton-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Bootcamp"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kioxia",
+        "id": "814fc4b3-0f73-4a75-a397-f6c5f9720d98",
+        "title": "Full Stack Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772233972,
+        "date_posted": 1772233972,
+        "url": "https://jobs.smartrecruiters.com/Kioxia/744000111923246",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kioxia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "John Deere",
+        "id": "7294588b-566d-4674-9f4b-dc273e58f058",
+        "title": "Part-Time Student - Engine Engineering - Waterloo IA Product Engineering CA",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1772234017,
+        "date_posted": 1772234017,
+        "url": "https://johndeere.eightfold.ai/careers/job/137479315872",
+        "locations": [
+            "Waterloo, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/John-Deere",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "HERE Technologies",
+        "id": "6431435b-c123-4fac-aced-da5466be9228",
+        "title": "Engineer Intern 3D Graphics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772234027,
+        "date_posted": 1772234027,
+        "url": "https://careers-here.icims.com/jobs/80852/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/HERE-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hologic",
+        "id": "623ef549-725b-45a3-9fe6-522338df24e4",
+        "title": "Intern Artificial Intelligence - Research and Development",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772233910,
+        "date_posted": 1772233910,
+        "url": "https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11118",
+        "locations": [
+            "Newark, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/Hologic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nokia",
+        "id": "30455965-550a-4041-bc1b-787f05f63281",
+        "title": "Care Data Analytics & AI Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772233869,
+        "date_posted": 1772233869,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31829",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Allegis Global Solutions",
+        "id": "1e7fbf58-ad8f-454c-9584-b9b637eb67a7",
+        "title": "AI Automation & Insights Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772234011,
+        "date_posted": 1772234011,
+        "url": "https://jobs.smartrecruiters.com/AllegisGlobalSolutions/744000111928648",
+        "locations": [
+            "Hanover, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Allegis-Global-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hearst",
+        "id": "9ad2b039-e371-42cb-b3eb-e36a80c194d6",
+        "title": "Chronicle & Engineering Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1772233704,
+        "date_posted": 1772233704,
+        "url": "https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2026173",
+        "locations": [
+            "Needham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hearst",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Visa",
+        "id": "53358462-527b-4582-8e71-8ebfa5bd799e",
+        "title": "Data Science Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772233743,
+        "date_posted": 1772233743,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000111924225",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hearst",
+        "id": "17a41443-8eff-4d1b-a203-0940b1759fc1",
+        "title": "Specialty Markets Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772233685,
+        "date_posted": 1772233685,
+        "url": "https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2026195",
+        "locations": [
+            "Gwinnett County, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hearst",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Keysight Technologies",
+        "id": "b6ed1502-2629-425d-a400-80510f08b87e",
+        "title": "R&D Hardware Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1772233472,
+        "date_posted": 1772233472,
+        "url": "https://jobs.keysight.com/jobs/51775?lang=en-us&icims=1",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Keysight Technologies",
+        "id": "9f101e62-c973-46ca-a78a-fee22280ac75",
+        "title": "Aerospace and Defense-Application Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2026"
+        ],
+        "date_updated": 1772233476,
+        "date_posted": 1772233476,
+        "url": "https://jobs.keysight.com/jobs/51819?lang=en-us&icims=1",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Procter & Gamble (P&G)",
+        "id": "5974315f-af18-458f-8710-ac460f490fe4",
+        "title": "University of Cincinnati R&D Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772177258,
+        "date_posted": 1772177258,
+        "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Mason/University-of-Cincinnati-R-D-Engineer-Co-op_R000134835",
+        "locations": [
+            "Mason, OH",
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
