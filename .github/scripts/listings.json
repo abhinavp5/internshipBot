@@ -112588,32 +112588,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Squarepoint Capital",
-        "id": "2c334a12-438c-49bb-8cf8-53a3ebc22b33",
-        "title": "Intern Quant Researcher - Quantitative Research",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1751473226,
-        "date_posted": 1751473226,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=243853",
-        "locations": [
-            "London, UK",
-            "Paris, France",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Squarepoint-Capital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Verizon Communications",
         "id": "a1f6c567-e298-4858-b782-21a41ee75548",
@@ -190899,7 +190873,7 @@
         "company_name": "Apex Fintech Solutions",
         "id": "43726f05-d685-4bcb-bd0f-b3d05ccc91e1",
         "title": "2026 AFS Technology Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -237462,7 +237436,7 @@
         "company_name": "Walmart",
         "id": "fec0b54b-dc4a-4397-8f00-bf0f1bf6369a",
         "title": "2026 Summer Intern: Software Engineering 2 - Sunnyvale",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -266342,7 +266316,7 @@
         "company_name": "General Motors",
         "id": "0e13c4db-4313-439d-84af-43073b34f3a8",
         "title": "Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -374171,7 +374145,7 @@
         "company_name": "Johnson & Johnson",
         "id": "ea2c4a43-bf51-46d5-a871-6ae1445ce9b7",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -390232,7 +390206,7 @@
         "company_name": "General Motors",
         "id": "5fb936ec-c96f-4a5a-9af7-24f0047b75ea",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -396534,6 +396508,210 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorola",
+        "id": "8dcfd788-29c8-495e-a076-cf873ee35d94",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772207392,
+        "date_posted": 1772207392,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Software-Engineering-Internship_R62644",
+        "locations": [
+            "Glasgow, UK",
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of Montreal",
+        "id": "6e6d548d-2eb8-48c1-868a-25499bb27ae6",
+        "title": "Data Analyst Co-op/Intern - 4 months",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772207461,
+        "date_posted": 1772207461,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Analyst--Summer-2026--Co-op-Internship----4-months_R260004850",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "The Federal Reserve System",
+        "id": "a90e5df6-5769-44d0-90b8-cabb512957a8",
+        "title": "2026 Summer Internship Program \u2013 BTS Customer Engagement Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772207232,
+        "date_posted": 1772207232,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2026-Summer-Internship-Program---BTS-Customer-Engagement-Intern_R-0000030756-1",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Strategic Education",
+        "id": "40a643d9-415b-47c0-a38a-4267456b2d34",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772207161,
+        "date_posted": 1772207161,
+        "url": "https://strayer.wd1.myworkdayjobs.com/en-US/SEI/job/Minneapolis-MN/Sophia-Engineering-Intern_R29575-1",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/c37aef6c-b4ea-4d9f-a94f-9ecdc9ce90f6",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "36c28499-b35d-4d2b-be3d-1d4cc4a0df37",
+        "title": "Data Science \u2013 Multi-Omics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772206808,
+        "date_posted": 1772206808,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Data-Science---Multi-Omics-intern_R-059961",
+        "locations": [
+            "Ambler, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intel",
+        "id": "7a29ff9c-01a6-4b5d-a54d-d878526114e7",
+        "title": "AI Software Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772206500,
+        "date_posted": 1772206500,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-United-Kingdom/AI-Software-Research-Intern_JR0281359",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fussball Club Cincinnati LLC (\u201cFC Cincinnati\u201d)",
+        "id": "3d4af26d-f7bb-4abe-96d4-bb8e817848eb",
+        "title": "Performance Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772206149,
+        "date_posted": 1772206149,
+        "url": "https://job-boards.greenhouse.io/fccincinnati/jobs/7647138003",
+        "locations": [
+            "Milford, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Fussball-Club-Cincinnati",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Barry-Wehmiller",
+        "id": "fe686cbc-5db4-426e-bbc2-f476b17ad5f7",
+        "title": "Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772205956,
+        "date_posted": 1772205956,
+        "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/Waukesha-WI/Software-Engineer-Intern_R020671-1",
+        "locations": [
+            "Green Bay, WI",
+            "Waukesha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Barry-Wehmiller",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Grand Canyon University",
+        "id": "179bf313-c957-462d-8e92-b989fa85a6ed",
+        "title": "Graduate Assistant - Admin Support Research - College of Doctoral Studies",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1772206103,
+        "date_posted": 1772206103,
+        "url": "https://gcu.wd1.myworkdayjobs.com/GCU/job/AZ-Phoenix/Graduate-Assistant---Admin-Support-Research---College-of-Doctoral-Studies_R000065692",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Grand-Canyon-University",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
