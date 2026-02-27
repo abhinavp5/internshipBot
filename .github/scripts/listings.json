@@ -15330,7 +15330,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "6d96aa80-fe21-4029-a47a-a8d594fb3f62",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -57646,7 +57646,7 @@
         "company_name": "Target",
         "id": "a3a2697b-f2eb-45d3-a09f-ae8195f84020",
         "title": "Software Engineering Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -305213,7 +305213,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "4811586d-1d4e-4c63-85f4-d15850e09340",
         "title": "AI Engineering/Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -376084,7 +376084,7 @@
         "company_name": "Teledyne",
         "id": "eb1cb35c-a812-4f6e-a0f5-00566ab95b34",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -388956,7 +388956,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "469c0e13-367e-4a12-a43f-3d0e2e6ebc58",
         "title": "Linux Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -395658,7 +395658,7 @@
         "company_name": "Starr Insurance",
         "id": "1f016853-a522-4596-8748-9dd85dee0b38",
         "title": "Starr Intern - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
