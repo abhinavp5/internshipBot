@@ -115252,7 +115252,7 @@
         "company_name": "Electronic Arts",
         "id": "a3ab23a6-689c-4acd-bb3b-d56e24a13b24",
         "title": "Software Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -225373,7 +225373,7 @@
         "company_name": "Zoox",
         "id": "78f46ca7-c4b6-4c9f-9740-f5298240a200",
         "title": "Machine Learning Engineer Intern - Perception",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -234343,7 +234343,7 @@
         "company_name": "ASML",
         "id": "a7cd3bc5-0e41-4da3-9f31-6ad3cda89303",
         "title": "Internship \u2013 CDO Data / Visualization / Cloud / AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -266216,7 +266216,7 @@
         "company_name": "ASML",
         "id": "2c42ef38-fc6c-4cce-bf29-20dcb07996fc",
         "title": "Intern - Test and Measurement",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -277101,7 +277101,7 @@
         "company_name": "Voltus",
         "id": "0b7d9c7a-6864-4792-846e-e52cf3087746",
         "title": "Energy Markets Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -312327,7 +312327,7 @@
         "company_name": "General Motors",
         "id": "cfad7e51-cf8d-467e-9e25-ec082f2e56e2",
         "title": "2026 Summer Intern - Machine Learning Engineer - AI Kernels",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -363292,7 +363292,7 @@
         "company_name": "Uber",
         "id": "03fa4121-7ead-480f-b51c-6327e49b457e",
         "title": "PhD Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -382021,7 +382021,7 @@
         "company_name": "Uber",
         "id": "5f239d2b-ecac-408f-b0b9-1033621e1171",
         "title": "PhD Software Engineer Intern - Risk",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -385297,7 +385297,7 @@
         "company_name": "Snap",
         "id": "5b596afe-1aa1-4666-9af4-509f605aaa7d",
         "title": "Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392625,7 +392625,7 @@
         "company_name": "Ambarella",
         "id": "082f8765-d9a9-4d4b-8bc7-d80678df85b1",
         "title": "AI Agent Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
