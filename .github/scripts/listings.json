@@ -379266,7 +379266,7 @@
         "company_name": "O'Reilly Auto Parts",
         "id": "9436dab4-ca80-4eb3-8a90-96c971b15051",
         "title": "Intern GIS & Demographics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -396343,6 +396343,29 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Analytical Mechanics Associates",
+        "id": "fc41fa22-d3d8-4c18-8233-84d556b131e4",
+        "title": "Early Career Software Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1772198145,
+        "date_posted": 1772033712,
+        "url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Early-Career-Software-Engineer_R-100493",
+        "locations": [
+            "Hampton, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Analytical-Mechanics-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
