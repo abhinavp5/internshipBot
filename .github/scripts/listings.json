@@ -192384,7 +192384,7 @@
         "company_name": "Tencent",
         "id": "af11ef67-6f45-4fcf-80af-0f6dee439de4",
         "title": "Data Science Intern - Gaming",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -350152,7 +350152,7 @@
         "company_name": "RTX",
         "id": "5bacc780-6178-49f5-b6ff-e2ab40d1033b",
         "title": "Intern - Proactive Engine Health Monitoring - Engine Performance Monitoring",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -354741,7 +354741,7 @@
         "company_name": "Healthfirst",
         "id": "24be28ad-1a4f-4f3a-ad6f-8df660333755",
         "title": "IT Product Intern \u2013 2026 Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -381599,7 +381599,7 @@
         "company_name": "Zoom",
         "id": "4e604603-4433-4e2a-b7b1-6db7edc1f971",
         "title": "Intern AI Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389720,7 +389720,7 @@
         "company_name": "RTX",
         "id": "ed0f35f1-ec4e-4df3-a32c-63060e7f9443",
         "title": "Intern - Electronic Warfare",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -396223,6 +396223,126 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Graphcore",
+        "id": "b97ccb00-fc34-435b-8a10-92fc41be7b22",
+        "title": "2026 Software Engineering Intern - ML Kernels & Runtime Team",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772190340,
+        "date_posted": 1772190340,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8441326002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Roku",
+        "id": "80f1f1df-e2ed-484b-a898-592df4c687ce",
+        "title": "Software Engineer Intern - UI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772190275,
+        "date_posted": 1772190275,
+        "url": "https://www.weareroku.com/jobs/7626180?gh_jid=7626180",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Roku",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Graphcore",
+        "id": "23c22952-0eb8-4d58-8ec7-347863fa3de1",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772190335,
+        "date_posted": 1772190335,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8441333002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Graphcore",
+        "id": "03d644d7-4610-4e57-ab93-c93a4598f877",
+        "title": "Software Engineering Intern - Drivers",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772190334,
+        "date_posted": 1772190334,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8441356002",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "75780427-def6-43a5-b593-924da8d0f768",
+        "title": "Intern \u2013 Cell Painting Foundation Models",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772190209,
+        "date_posted": 1772063265,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cambridge-Massachusetts-United-States-of-America/Intern--Cell-Painting-Foundation-Models_R-059301",
+        "locations": [
+            "Ambler, PA",
+            "Cambridge, MA",
+            "New Hope, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
