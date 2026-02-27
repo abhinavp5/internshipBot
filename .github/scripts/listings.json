@@ -313606,7 +313606,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -379467,7 +379467,7 @@
         "company_name": "Bank of Montreal",
         "id": "89478ddc-3356-4fa1-8297-3a6be69ffdd0",
         "title": "Junior Engineer \u2013 Co-op/Internship - Electronic Trading Infrastructure - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379654,7 +379654,7 @@
         "company_name": "Bank of Montreal",
         "id": "05ec054b-8383-4f55-b7a7-3b3a1813f1aa",
         "title": "Junior Engineer \u2013 Co-op/Internship - Electronic Trading Infrastructure - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
