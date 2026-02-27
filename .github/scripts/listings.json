@@ -22,47 +22,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Nokia",
-        "id": "40ce21dd-c6e2-4ced-bb9a-9a3d66073375",
-        "title": "Software Development Coop",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1751422796,
-        "date_posted": 1751422796,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22475",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Altera Corporation",
-        "id": "19f0a0c7-14d4-4b86-a515-05f0e1690d15",
-        "title": "Embedded Solutions Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1751421756,
-        "date_posted": 1751421756,
-        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Embedded-Solutions-Intern_R00904",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Altera-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Autodesk",
         "id": "72c96fbc-f8cd-4977-9bf9-93929c6e2ac8",
         "title": "Intern \u2013 Software Developer/ Stagiaire en d\u00e9veloppement logiciels",
@@ -15620,7 +15579,7 @@
         "company_name": "ByteDance",
         "id": "a3ea962f-b9c2-4816-9100-7ac7ceafe70a",
         "title": "Software Engineer Intern - Media Network Global Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -181408,7 +181367,7 @@
         "company_name": "Quiq",
         "id": "2b032d66-029e-4ae1-be08-459fe002d14b",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -229404,7 +229363,7 @@
         "company_name": "Cisco",
         "id": "13182681-98c2-4a2b-a2aa-b588663b6273",
         "title": "AI Research Scientist PhD \u2013 Intern - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -249126,7 +249085,7 @@
         "company_name": "Microsoft",
         "id": "3f251887-911b-4f7b-b4dd-900aa4b87763",
         "title": "Research Intern - Foundational Models & Agents",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -249733,7 +249692,7 @@
         "company_name": "Microsoft",
         "id": "11153c03-4606-48df-adf3-b6b54aa7a6d1",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -266383,7 +266342,7 @@
         "company_name": "General Motors",
         "id": "0e13c4db-4313-439d-84af-43073b34f3a8",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -313647,7 +313606,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -316273,7 +316232,7 @@
         "company_name": "Cadence Design Systems",
         "id": "ea110c94-fea5-4fe5-afd5-fbc3d8e2e9c7",
         "title": "Intern Scientific Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -316382,7 +316341,7 @@
         "company_name": "Cadence Design Systems",
         "id": "7025c64e-9746-4a78-b90c-5664f45770db",
         "title": "Intern Scientific Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -328156,7 +328115,7 @@
         "company_name": "Energy Northwest",
         "id": "b6b9e348-ea8b-419e-96dd-f40a3eccd947",
         "title": "Data Architecture Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -379529,7 +379488,7 @@
         "company_name": "Micron Technology",
         "id": "fe29e18a-b1ec-4057-8528-04ed56ffcab9",
         "title": "Intern \u2013 Asic Gen-AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -379551,7 +379510,7 @@
         "company_name": "Micron Technology",
         "id": "45630b76-1313-42dd-a310-dbd7f1116414",
         "title": "Intern \u2013 Asic Gen-AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379576,7 +379535,7 @@
         "company_name": "Micron Technology",
         "id": "37495d9a-21c4-42f5-bc87-248a88046f0c",
         "title": "Intern - ASIC Gen-AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -379626,7 +379585,7 @@
         "company_name": "Micron Technology",
         "id": "0f08e9f3-5a29-4bdb-a16d-cea0898dc9d8",
         "title": "Intern \u2013 Asic Gen-AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380121,7 +380080,7 @@
         "company_name": "Micron Technology",
         "id": "1302cb69-e719-4d0c-84b5-22a97dfc1994",
         "title": "Intern \u2013 Asic Gen-AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -388534,7 +388493,7 @@
         "company_name": "Kaiser Permanente",
         "id": "10768031-c85e-45c5-bed1-2c409dae57a0",
         "title": "Market Research Master Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -390273,7 +390232,7 @@
         "company_name": "General Motors",
         "id": "5fb936ec-c96f-4a5a-9af7-24f0047b75ea",
         "title": "Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -395812,6 +395771,192 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Samsung",
+        "id": "8f50dca6-dcf4-4bcb-a512-6e799db97f18",
+        "title": "DRAM Field Application Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772158480,
+        "date_posted": 1772158480,
+        "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7641072003",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "onsemi",
+        "id": "a7b222e9-2760-40b3-92b1-25901cb6c6eb",
+        "title": "Spring 2026 Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1772158088,
+        "date_posted": 1772158088,
+        "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2504745",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Onsemi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "3d884cef-6d6c-447e-a5f7-3d97ca910306",
+        "title": "Intern-Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772160419,
+        "date_posted": 1772160419,
+        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/AUSTIN/Intern-Software-Engineering_R53488-2",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "223463e8-92c2-40ee-861a-ab027ca852c1",
+        "title": "Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772160419,
+        "date_posted": 1772160419,
+        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Intern_R53282",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cypress Creek Renewables",
+        "id": "fe3060c5-2ea1-4a54-ad82-2c0c6a949c16",
+        "title": "ML Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772160146,
+        "date_posted": 1772160146,
+        "url": "https://ccrenew.com/careers/job-listing/?gh_jid=7659764",
+        "locations": [
+            "Washington, DC",
+            "Durham, NC",
+            "NYC",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Cypress-Creek-Renewables",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cypress Creek Renewables",
+        "id": "b84576f2-eca3-49ea-b8a6-b25dcb878766",
+        "title": "Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772160142,
+        "date_posted": 1772160142,
+        "url": "https://ccrenew.com/careers/job-listing/?gh_jid=7659561",
+        "locations": [
+            "Washington, DC",
+            "Durham, NC",
+            "NYC",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Cypress-Creek-Renewables",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intel",
+        "id": "a346da05-b079-43b4-93d6-0c97d9acb44c",
+        "title": "Compiler Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772159523,
+        "date_posted": 1772159523,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0280843",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Calyxo",
+        "id": "19ea54bf-1040-4b17-b948-a3cc22115824",
+        "title": "Sales Operations & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772159455,
+        "date_posted": 1772159455,
+        "url": "https://job-boards.greenhouse.io/calyxo/jobs/5057975007",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Calyxo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
