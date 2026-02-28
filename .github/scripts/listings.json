@@ -268591,7 +268591,7 @@
         "company_name": "Genentech",
         "id": "a1408622-ec4e-4cbc-8a5e-ccd6a6d90150",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -279403,7 +279403,7 @@
         "company_name": "Thales",
         "id": "21b22ffc-3d34-47f9-acf2-5d414d4f9a10",
         "title": "Intern role IVVQ",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -398707,6 +398707,125 @@
             "Dallas, TX"
         ],
         "company_url": "https://simplify.jobs/c/Hunt-Oil-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amentum",
+        "id": "8e5284f1-7f87-4243-a7f4-c0e1634c272d",
+        "title": "Rotational Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772235923,
+        "date_posted": 1772235923,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-CA-Vandenberg-AFB/Rotational-Engineering-Intern_R0154993",
+        "locations": [
+            "Vandenberg AFB, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amentum",
+        "id": "5d3f6b41-b722-4fff-a234-14b720a37b2a",
+        "title": "Rotational Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772235923,
+        "date_posted": 1772235923,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-CA-Vandenberg-AFB/Rotational-Engineering-Intern_R0154986-1",
+        "locations": [
+            "Vandenberg AFB, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amentum",
+        "id": "1cf1ecf3-4da1-47cb-aceb-6ada71ee0381",
+        "title": "Rotational Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772235921,
+        "date_posted": 1772235921,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-CA-Vandenberg-AFB/Rotational-Engineering-Intern_R0155000",
+        "locations": [
+            "Vandenberg AFB, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Professional Case Management",
+        "id": "5a92dc55-2bb8-4190-a756-5bbcb12d68b6",
+        "title": "Application Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772276637,
+        "date_posted": 1772061970,
+        "url": "https://procasemanagement.wd1.myworkdayjobs.com/en-US/PCM/job/US---Remote/Application-Development-Intern_R7864",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/d8ae2d75-df4c-46f5-a21e-c1d20069cad6",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "2b7aac3b-501d-4c42-a047-78aaff755ff3",
+        "title": "Intern \u2013 Design Engineer",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1772277500,
+        "date_posted": 1771891865,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Design-Engineer_JR91779",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
