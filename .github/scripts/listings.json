@@ -339415,7 +339415,7 @@
         "company_name": "AtkinsR\u00e9alis",
         "id": "f4c892b6-2245-434d-934a-c22e6af17920",
         "title": "Nuclear Engineering Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -387202,7 +387202,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "9c8d3009-1c3d-43bf-82f2-f7a599a6ca80",
         "title": "National Ignition Facility and Photon Science Undergraduate Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -387361,7 +387361,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "d29edc19-69fa-4939-8e58-bf9865d9ac34",
         "title": "Materials Science Division Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -398087,7 +398087,7 @@
         "company_name": "Acadia Pharmaceuticals",
         "id": "17fa00bc-353c-4153-a42d-b4730ac31c9d",
         "title": "Digital Innovation and Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
