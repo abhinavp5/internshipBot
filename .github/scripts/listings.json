@@ -30594,7 +30594,7 @@
         "company_name": "Johnson & Johnson",
         "id": "fae3ac45-3929-4b91-b778-ac0866ea8b29",
         "title": "Technology Fall Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -46854,7 +46854,7 @@
         "company_name": "NVIDIA",
         "id": "fa62e711-af00-4269-b218-1f6d7b45bc95",
         "title": "NVIDIA 2026 Internships: PhD Generative AI Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -63305,7 +63305,7 @@
         "company_name": "Genuine Parts Company",
         "id": "85af988d-2c72-41e0-9cc0-837d6252313a",
         "title": "Mobile Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -98639,7 +98639,7 @@
         "company_name": "Entrust",
         "id": "756bb51c-4dbf-4fba-b903-650701d8d002",
         "title": "Software Engineer Co-op Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -107159,7 +107159,7 @@
         "company_name": "Apollo Global",
         "id": "98d41a12-7afb-4f8c-b5e0-bde172422c18",
         "title": "Summer Associate - Product Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -110703,7 +110703,7 @@
         "company_name": "Jade Global",
         "id": "e90ddb6c-173a-4eb0-8dd0-675d14c5f873",
         "title": "Data/Ai Engineer Intern - Data & AI Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -129131,7 +129131,7 @@
         "company_name": "ibotta",
         "id": "fccfd290-4453-476d-8fab-cf99ef0dfed1",
         "title": "Fraud Analytics Intern - Fraud Analytics & Operations",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -184846,7 +184846,7 @@
         "company_name": "GE Vernova",
         "id": "aaf9224e-d8cf-4599-874a-15d2b37b3f58",
         "title": "GE Vernova Prompt Engineering Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -215872,7 +215872,7 @@
         "company_name": "Tencent",
         "id": "dabc1659-9f8e-46a2-aeab-f8c530bdc54d",
         "title": "AI Agent Research & Application Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -220756,7 +220756,7 @@
         "company_name": "Bloomberg Industry Group",
         "id": "c691c236-8c88-4ef9-b605-1ec3689fb09e",
         "title": "Intern Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -221630,7 +221630,7 @@
         "company_name": "Cadence Design Systems",
         "id": "9575cda5-5eec-4359-ac02-accf98e54c31",
         "title": "Software Intern - Summer - Synthesis",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -222649,7 +222649,7 @@
         "company_name": "Apex Fintech Solutions",
         "id": "9e167e5f-41d4-43bf-ab28-7c15f77b3f0c",
         "title": "Software Engineering Intern - Cash",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -237824,7 +237824,7 @@
         "company_name": "Apex Fintech Solutions",
         "id": "9d3fed51-680c-43ea-973d-8580b15701bd",
         "title": "Software Engineer Intern - Accounts",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -254296,7 +254296,7 @@
         "company_name": "KBR",
         "id": "4dbcafd0-5fe0-4b9c-8fc2-b0acffe1537f",
         "title": "National Security Solutions \u2013 Software Engineering Internship - Nss",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -263842,7 +263842,7 @@
         "company_name": "ASML",
         "id": "eed51eb7-bede-4f72-acd0-f9bce950b74d",
         "title": "Intern - Imaging Product Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -264589,7 +264589,7 @@
         "company_name": "Dairyland Power Cooperative",
         "id": "1ce42b74-12eb-4822-97e8-bf8b7437aa3c",
         "title": "Intern Right of Way GIS - La Crosse - WI",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -272471,7 +272471,7 @@
         "company_name": "Teledyne",
         "id": "d796fecb-eb7a-486c-9daf-7d8192a0e6ff",
         "title": "New Product Development Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -300525,7 +300525,7 @@
         "company_name": "Northwestern Mutual",
         "id": "33863275-2a05-41ff-bedb-8b3c2e3b8867",
         "title": "Investment Analyst - Private Debt & Equity",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -314274,7 +314274,7 @@
         "company_name": "Autodesk",
         "id": "2f0b0341-2d5d-4e07-94d7-076bc5f6bbae",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -324069,7 +324069,7 @@
         "company_name": "S&P Global ",
         "id": "4549f868-697a-4b15-a117-f8242279c730",
         "title": "APMO Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -324116,7 +324116,7 @@
         "company_name": "S&P Global ",
         "id": "2e427709-d144-4fb6-b705-6e8bbd36aefb",
         "title": "Data Engineer Summer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -324164,7 +324164,7 @@
         "company_name": "Amynta Group",
         "id": "1e53d165-77ee-4c0f-badc-89853aa42141",
         "title": "IT Technical Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -324739,7 +324739,7 @@
         "company_name": "Cambridge Associates",
         "id": "3ecc189f-f78c-4331-b172-85c81e7b07d7",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -329620,7 +329620,7 @@
         "company_name": "PennState University",
         "id": "903c4d29-a1c7-4ab6-a9f3-928308636a0e",
         "title": "Undergraduate Research Assistant in Climate Impacts and Machine Learning GEOSCI",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -331165,7 +331165,7 @@
         "company_name": "Ercot",
         "id": "443985df-2333-4636-9309-b512f591758a",
         "title": "Intern Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -336476,7 +336476,7 @@
         "company_name": "Bio-Techne",
         "id": "ccb82baf-56bc-44a5-a824-6d8619d22235",
         "title": "Marketing Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -351384,7 +351384,7 @@
         "company_name": "HARMAN International",
         "id": "e7dbb7af-8a20-4654-9c42-6de14db230e5",
         "title": "Intern - Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -352946,7 +352946,7 @@
         "company_name": "Autodesk",
         "id": "1a72c242-9713-48b5-81a2-76aaa92548f1",
         "title": "Intern Software Engineer - C++/.Net - Months",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -360459,7 +360459,7 @@
         "company_name": "Nelnet",
         "id": "c4a76e93-1896-4c52-9381-81e26d63e786",
         "title": "AI Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -361357,7 +361357,7 @@
         "company_name": "CACI",
         "id": "7962188a-776f-4e82-a049-d5fcb97f5ffe",
         "title": "Software Engineering Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -363414,7 +363414,7 @@
         "company_name": "Cadence Design Systems",
         "id": "aadc008c-bfcc-4c47-ad98-6061940df393",
         "title": "Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -364231,7 +364231,7 @@
         "company_name": "Johnson & Johnson",
         "id": "a589c0d1-e4b3-497d-88f1-3987b7fc72e0",
         "title": "Intern for Computational Structure Analysis Using MD - AI/ML with HDX-MS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -370769,7 +370769,7 @@
         "company_name": "NVIDIA",
         "id": "7515f211-86ad-415e-90a4-f2cc753674ab",
         "title": "Applied Deep Learning Scientist Intern - Bio Foundation Model Research - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -374268,7 +374268,7 @@
         "company_name": "Thomson Reuters",
         "id": "8f637d0b-eb09-4bfb-8875-fa6166bb6de2",
         "title": "Research Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -374431,7 +374431,7 @@
         "company_name": "Sensata",
         "id": "27f52c46-e7b3-440c-89cb-c8696f64f974",
         "title": "Apprentice MMT",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -375747,7 +375747,7 @@
         "company_name": "Harris Computer",
         "id": "c866a75b-eb60-4020-b474-9a072fdcfcbc",
         "title": "Business Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -376503,7 +376503,7 @@
         "company_name": "KLA",
         "id": "26afd2c5-fb6b-46bb-93ce-676fc1af670f",
         "title": "Research Scientist",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -376767,7 +376767,7 @@
         "company_name": "Micron Technology",
         "id": "b56f761c-5b15-4ec8-ba05-5b4a4bfdab7f",
         "title": "Intern \u2013 SSD Firmware",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -377843,7 +377843,7 @@
         "company_name": "Flowserve",
         "id": "60c605bd-847c-4cd2-a129-2277c92c7251",
         "title": "Application Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -378630,7 +378630,7 @@
         "company_name": "National Renewable Energy Laboratory",
         "id": "7a8f8417-b407-4006-8fa9-216452249aa1",
         "title": "Graduate PhD \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -380482,7 +380482,7 @@
         "company_name": "Boston Dynamics",
         "id": "d932214b-a24e-4165-99cc-b6a5f739118c",
         "title": "AI/ML Safety Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -382493,7 +382493,7 @@
         "company_name": "Micron Technology",
         "id": "f3634088-8756-430c-bdc0-b3799cae2be8",
         "title": "Intern \u2013 SSD Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -385348,7 +385348,7 @@
         "company_name": "Ciena",
         "id": "c82946ef-cdc6-4316-90ee-083d296759f4",
         "title": "THW Client Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -386531,7 +386531,7 @@
         "company_name": "Bank of Montreal",
         "id": "78635558-02bc-497f-b044-96b17495b4e5",
         "title": "Junior Developer \u2013 Co-op/Internship - Summer 2026 - Weeks",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -389076,7 +389076,7 @@
         "company_name": "ibotta",
         "id": "9a3a489f-0724-46c3-a5ae-715a9bd8d847",
         "title": "AI Fellow \u2013 Executive Enablement",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -389934,7 +389934,7 @@
         "company_name": "CAE",
         "id": "c0f5c8f4-4f24-4edc-bb1e-973d35f49e92",
         "title": "Infrastructure/Computer Systems/Tools Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -394099,7 +394099,7 @@
         "company_name": "Zoom",
         "id": "4b23084c-b1cd-49d2-ba7a-6b737ecc421c",
         "title": "Software Developer Engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -394877,7 +394877,7 @@
         "company_name": "QuidelOrtho",
         "id": "6bf14ea7-040b-4ce9-b9a8-63b8abc9046c",
         "title": "Global Product Management - Automation",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -395041,7 +395041,7 @@
         "company_name": "Elsevier",
         "id": "88079976-0e90-49ad-975b-26df366789da",
         "title": "Knowledge & AI Optimization Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -395737,7 +395737,7 @@
         "company_name": "Cadence Design Systems",
         "id": "3d884cef-6d6c-447e-a5f7-3d97ca910306",
         "title": "Intern-Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -397852,7 +397852,7 @@
         "company_name": "RTX",
         "id": "d3a9a724-c678-4310-b991-42e88467d4c1",
         "title": "Intern - Program Management",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
