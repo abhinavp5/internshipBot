@@ -390644,7 +390644,7 @@
         "company_name": "State Street",
         "id": "080e7ca7-b382-4a02-96f7-80b733a6033f",
         "title": "Intern Program: Alpha Collateral Product Internship-Triparty & Digital Collateral",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -393172,7 +393172,7 @@
         "company_name": "Kaiser Permanente",
         "id": "61155f11-cdf7-49e8-bc5b-c3b1c34b3102",
         "title": "Consulting and Data Analytics Master's Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -398688,6 +398688,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hunt Oil Company",
+        "id": "cf386c7e-42fe-45d8-b844-c18d28562388",
+        "title": "Technology Research Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772274752,
+        "date_posted": 1771629199,
+        "url": "https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/897",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hunt-Oil-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
