@@ -20,28 +20,6 @@
         "category": "Quantitative Finance"
     },
     {
-        "date_updated": 1751577264,
-        "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
-        "company_name": "Citadel",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "Miami, FL",
-            "Chicago, IL",
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "Simplify",
-        "id": "28286b52-4c99-4d00-a870-d919c13d68c6",
-        "date_posted": 1751577264,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Software Engineering"
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Sutter Health",
@@ -374417,7 +374395,7 @@
         "company_name": "Ivalua",
         "id": "e142108a-f7cd-48a8-9390-79b3b05b999d",
         "title": "Customer Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -381994,7 +381972,7 @@
         "company_name": "Eikon Therapeutics",
         "id": "e7c5da61-a63d-4fee-973a-72e2f3968cdf",
         "title": "Intern Hardware Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
