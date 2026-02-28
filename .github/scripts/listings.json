@@ -174607,7 +174607,7 @@
         "company_name": "Electronic Arts",
         "id": "17095ed2-62c9-4938-ac82-d419e67cf38d",
         "title": "Software Development Intern - Skate Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -261393,7 +261393,7 @@
         "company_name": "Cisco",
         "id": "6cb78400-d478-4414-b3f2-99a7889c59ef",
         "title": "Software Engineer Embedded/Network Systems 2 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -278077,7 +278077,7 @@
         "company_name": "Electronic Arts",
         "id": "9077e472-9a55-41f7-a807-2f9335dda546",
         "title": "Sims Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -306965,7 +306965,7 @@
         "company_name": "Tools for Humanity",
         "id": "d5f3ea36-0bd7-45e5-b073-4bc56bf6df35",
         "title": "Fellowship",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -354512,7 +354512,7 @@
         "company_name": "Lawrence Berkeley National Laboratory",
         "id": "347b1a1d-d9ee-4000-88ba-ca0b4ed62017",
         "title": "Data Access Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -387155,7 +387155,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "e2952ce0-dc19-4743-96d3-ac3e643ae62a",
         "title": "Materials Science Division Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
