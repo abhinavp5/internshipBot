@@ -19854,7 +19854,7 @@
         "company_name": "Adobe",
         "id": "f65a97ce-acdb-4f60-a4e0-a4a7b7a66fcb",
         "title": "AI/ML Intern - Machine Learning Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -113006,7 +113006,7 @@
         "company_name": "NatWest Group",
         "id": "b6d2abe3-d325-4793-9c93-b6d7749bdacc",
         "title": "Engineering Internship - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -139463,7 +139463,7 @@
         "company_name": "CACI",
         "id": "994d7ffa-afb8-49a4-930e-ed2d961b8e97",
         "title": "Software Engineer Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -190023,7 +190023,7 @@
         "company_name": "Stanley Black & Decker",
         "id": "7e968c55-c09d-4390-b270-61a0f7a0dd0b",
         "title": "Engineering Co-Op: Summer and Fall 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -196089,7 +196089,7 @@
         "company_name": "PennState University",
         "id": "b10bea87-baae-4286-b70b-a3e88c2a822c",
         "title": "Science and Technology Applied to Navigation Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -222628,7 +222628,7 @@
         "company_name": "Apex Fintech Solutions",
         "id": "5a122b4e-b3dc-427c-a4b0-6c312c10bf5e",
         "title": "Software Engineering Intern - Securities Lending",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -223637,7 +223637,7 @@
         "company_name": "Apex Fintech Solutions",
         "id": "afc67385-5116-4c6b-81f0-af04d8778524",
         "title": "Front End Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -234191,7 +234191,7 @@
         "company_name": "KLA",
         "id": "accd02c7-d7e2-46bd-aafc-3b720a079e6b",
         "title": "Supply Chain Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -300030,7 +300030,7 @@
         "company_name": "PennState University",
         "id": "31a6db78-1795-45ff-a8cf-7fa9073f5fbf",
         "title": "IST Graduate Assistant - Dr. Calacci",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -302886,7 +302886,7 @@
         "company_name": "Delta Dental",
         "id": "5bbc3b64-e4fb-4d08-98a5-fdf6ffd40d09",
         "title": "Internship - Knowledge Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -303704,7 +303704,7 @@
         "company_name": "doTERRA",
         "id": "c2b88db1-8007-4398-b27f-522d6a31d348",
         "title": ",",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -318193,7 +318193,7 @@
         "company_name": "First Canadian Title",
         "id": "f3d59082-75dd-46df-8f06-1b02a6c52cf4",
         "title": "Student - Application Development",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -347512,7 +347512,7 @@
         "company_name": "Samsung",
         "id": "3af55220-f794-4b5b-8d15-4e5bc1ce3bae",
         "title": "Data Analyst & System Support Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -349753,7 +349753,7 @@
         "company_name": "Draper",
         "id": "e9b86fb9-0372-4f03-8939-148253dcaa57",
         "title": "Software Modeling and Validation Intern - Analysis",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -356286,7 +356286,7 @@
         "company_name": "Ciena",
         "id": "d34f39eb-0e6f-4eaa-acbe-e61e56d559e8",
         "title": "AI Software Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -357648,7 +357648,7 @@
         "company_name": "Albemarle",
         "id": "de484e05-f1b3-4f8f-8e51-3c48c011aa70",
         "title": "Corporate Intern Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -359021,7 +359021,7 @@
         "company_name": "Guidewire",
         "id": "28f5044f-3ad2-481e-a14e-218db9fa2089",
         "title": "Strategy & Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -362319,7 +362319,7 @@
         "company_name": "ABB",
         "id": "fbc2e895-4dc0-411c-8d6b-b158ee8ab3d9",
         "title": "Integrated Motor Drive SW Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -367275,7 +367275,7 @@
         "company_name": "RSM",
         "id": "5211cc94-1a68-4dab-9471-72740f2872a4",
         "title": "Business Intelligence Consulting Associate - Fall 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -376110,7 +376110,7 @@
         "company_name": "State Street",
         "id": "90bf400a-9bb0-41fd-a6fe-b74b77070f1f",
         "title": "Wealth R&D Product \u2013 Full-time Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -378872,7 +378872,7 @@
         "company_name": "First American",
         "id": "0a9ec94e-fd09-447c-810c-6712e3a6b2bf",
         "title": "Product Operations",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -380183,7 +380183,7 @@
         "company_name": "T-Mobile",
         "id": "8a9a6b17-f50b-4233-8f55-91eeb4faf4c2",
         "title": "Summer 2026 Associate Engineer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -380997,7 +380997,7 @@
         "company_name": "CACI",
         "id": "37686c7d-7a37-4e47-a81c-012ef7fc3de0",
         "title": "Digital Transformation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -385819,7 +385819,7 @@
         "company_name": "Parsons",
         "id": "e75a6d09-55f7-4f23-8771-3df033f6225e",
         "title": "Engineering Co-Op Fall 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -391633,7 +391633,7 @@
         "company_name": "Johnson & Johnson",
         "id": "d0f8c8be-fceb-4109-83cd-d35fa095b7b8",
         "title": "Intern AI/ML in Antibody Developability Models",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -391945,7 +391945,7 @@
         "company_name": "Jain Global",
         "id": "06d36c6e-e46b-4a60-b2f6-efdc463f20c8",
         "title": "Data Management & Vendor Operations Intern - New York",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -392374,7 +392374,7 @@
         "company_name": "Fiserv",
         "id": "da713b47-ddbe-40a6-aa26-deb1d1290a5e",
         "title": "Summer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -395070,7 +395070,7 @@
         "company_name": "Johnson Brothers Liquor Company",
         "id": "7c5b165f-2d55-4b4a-9fb4-6fa235bd52f7",
         "title": "Finance and Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -395141,7 +395141,7 @@
         "company_name": "RTX",
         "id": "1546a16a-1d33-48a6-8e60-58fd9a3eb95e",
         "title": "Intern - AI/ML Engineering Methods",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -397551,7 +397551,7 @@
         "company_name": "Glencore",
         "id": "9126303f-1b83-4c2d-8667-8bad53a77cf2",
         "title": "Intern Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -397783,7 +397783,7 @@
         "company_name": "State Street",
         "id": "cedcc71b-5c8e-4472-8dd0-aa32dccaa464",
         "title": "Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026",
