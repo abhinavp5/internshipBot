@@ -20,26 +20,6 @@
         "category": "Quantitative Finance"
     },
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "EVgo",
-        "id": "24b1fd12-a786-4d02-a61c-fbe07beec087",
-        "title": "Intern \u2013 Hardware Compliance",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1751574839,
-        "date_posted": 1751574839,
-        "url": "https://jobs.jobvite.com/evgo/job/oHMtwfwc?nl=1&nl=1&fr=false",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/EVgo",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1751577264,
         "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
         "company_name": "Citadel",
@@ -321642,7 +321622,7 @@
         "company_name": "Flock Safety",
         "id": "73c10cf7-2ce3-481b-b59c-da7038b0c704",
         "title": "Device Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -375314,7 +375294,7 @@
         "company_name": "ZOLL Medical Corporation",
         "id": "8815361e-d410-4938-a551-4393156b3d74",
         "title": "Research Intern Predictive Algorithms",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -377242,7 +377222,7 @@
         "company_name": "NVIDIA",
         "id": "a49a0326-2834-41ee-a6c1-c666092d7c66",
         "title": "Data Science Intern - Cloud Gaming - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379836,7 +379816,7 @@
         "company_name": "Rakuten International",
         "id": "058f10b5-7e10-4926-bb72-004c74c2a665",
         "title": "Intern Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
