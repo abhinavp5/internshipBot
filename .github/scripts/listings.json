@@ -22,26 +22,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Exact Sciences",
-        "id": "235b89d0-c8e2-4c95-9f0d-a99a2d763a39",
-        "title": "Data Science Internship",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1751568261,
-        "date_posted": 1751568261,
-        "url": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Data-Science-Internship_R25-10166",
-        "locations": [
-            "Madison, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Exact-Sciences",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Hearst",
         "id": "c6308d04-5ca6-4573-8553-fcdc2eeb99e8",
         "title": "Intern \u2013 Governance - Risk & Compliance",
@@ -370960,7 +370940,7 @@
         "company_name": "Visa",
         "id": "06988b18-3933-4eee-985d-60e731df2232",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371057,7 +371037,7 @@
         "company_name": "Visa",
         "id": "d1bb2401-ccf3-48f0-8789-8971b7341f26",
         "title": "Software Engineer Intern - Highlands Ranch",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371081,7 +371061,7 @@
         "company_name": "Visa",
         "id": "b7dc5d7d-8a5a-418b-9c4f-b1767b7129cf",
         "title": "Software Engineer Intern - Bellevue",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371104,7 +371084,7 @@
         "company_name": "Visa",
         "id": "89af57d7-1ec9-4f85-899e-e819fda35526",
         "title": "Software Engineer \u2013 Intern - Summer 2026 - Foster City",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371149,7 +371129,7 @@
         "company_name": "Visa",
         "id": "298ce58f-bfe1-4657-a809-9f1cc169115f",
         "title": "Software Engineer \u2013 Intern - Summer 2026 - Austin",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
