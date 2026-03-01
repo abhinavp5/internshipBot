@@ -21,26 +21,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Manulife",
-        "id": "da60e4fe-81b3-4395-a290-0a95a0d7847d",
-        "title": "Backend Developer Co-op",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1751646144,
-        "date_posted": 1751646144,
-        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_AdminJobs/job/Waterloo-Ontario/Backend-Developer-Co-op---Fall-2025_JR25070088",
-        "locations": [
-            "Kitchener, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/acb6271e-e26a-401d-befe-547f56e287b5",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Kyndryl Holdings",
         "id": "78fdd74f-5109-4eb3-9a57-89a24977d774",
@@ -266347,7 +266327,7 @@
         "company_name": "General Motors",
         "id": "8bb28d7a-1978-404e-8794-44f266c0c365",
         "title": "AI/ML Intern - Structured Perception",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
