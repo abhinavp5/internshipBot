@@ -21,27 +21,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "e5d09b9b-d149-4b31-b702-af8c1b5f952f",
-        "title": "Backend Software Engineer Intern - Product RD and Infrastructure-Global E-Commerce Content",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1751596980,
-        "date_posted": 1751596980,
-        "url": "https://jobs.bytedance.com/en/position/7522742153819670792/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Midmark ",
         "id": "e45b7992-b7ef-4846-b4ff-ecf6b47e5de3",
@@ -257703,7 +257682,7 @@
         "company_name": "Air Products",
         "id": "ad50c116-676a-4ae0-bf7c-ece4b9bbf0fa",
         "title": "Summer PhD Intern/Co-op - Chemical Engineering - 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -266112,7 +266091,7 @@
         "company_name": "General Motors",
         "id": "0e13c4db-4313-439d-84af-43073b34f3a8",
         "title": "Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -313376,7 +313355,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -390002,7 +389981,7 @@
         "company_name": "General Motors",
         "id": "5fb936ec-c96f-4a5a-9af7-24f0047b75ea",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -398948,5 +398927,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Abacus Insights",
+        "id": "d96f31da-5a9c-49f1-b957-f7a3d954a3bb",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772331719,
+        "date_posted": 1772331719,
+        "url": "https://boards.greenhouse.io/abacusinsights/jobs/8442485002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Abacus-Insights",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
