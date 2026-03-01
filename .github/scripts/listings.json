@@ -265112,7 +265112,7 @@
         "company_name": "General Motors",
         "id": "ed5b0f23-b8db-4297-a6bc-697bf5b73624",
         "title": "Intern \u2013 AI/ML Intern - Autonomous Vehicle Engineering - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -265203,7 +265203,7 @@
         "company_name": "General Motors",
         "id": "89e0e415-3436-4d61-b994-2ec30f21b5ce",
         "title": "Intern \u2013 AI/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -266328,7 +266328,7 @@
         "company_name": "General Motors",
         "id": "c2afc32b-aa6f-4047-ad82-7e91cec8791b",
         "title": "Intern - Machine Learning Engineer-Autonomous Vehicle Engineering - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -356434,7 +356434,7 @@
         "company_name": "Weyerhaeuser",
         "id": "3d55d222-b06e-438e-ba9a-40c3d80366d0",
         "title": "Industrial AI Intern - Lumber Manufacturing",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
