@@ -21,46 +21,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sutter Health",
-        "id": "2de4067b-8a73-4bd1-bfa3-c4f731119599",
-        "title": "Data Analytics & AI Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1751586744,
-        "date_posted": 1751586744,
-        "url": "https://wd1.myworkdaysite.com/recruiting/sutterhealth/SH/job/Sacramento/Data-Analytics---AI-Intern_R-105618",
-        "locations": [
-            "Sacramento, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sutter-Health",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Genesis Therapeutics",
-        "id": "e1cbd2ba-9d78-48ba-8352-2e1ee615cdc5",
-        "title": "ML Research Intern - BS/MS",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1751587894,
-        "date_posted": 1751587894,
-        "url": "https://jobs.lever.co/genesistherapeutics/1d5735dd-285d-4d24-aa01-67072c41395f/apply",
-        "locations": [
-            "Burlingame, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Genesis-Thera",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "ByteDance",
         "id": "e5d09b9b-d149-4b31-b702-af8c1b5f952f",
@@ -55627,7 +55587,7 @@
         "company_name": "DIRECTV",
         "id": "751437dc-886b-4b02-a9db-5c05d9115340",
         "title": "DIRECTV FOR BUSINESS\u00ae Engineering and Product Development Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -266152,7 +266112,7 @@
         "company_name": "General Motors",
         "id": "0e13c4db-4313-439d-84af-43073b34f3a8",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364036,7 +363996,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "2307e80e-03cb-4807-9bdb-7d9cfaafd9ae",
         "title": "Allstate NI Insights Programme",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -364106,7 +364066,7 @@
         "company_name": "State Street",
         "id": "5f4a3aa8-3a47-4a51-a28f-88bee3ba0162",
         "title": "Relationship Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -365424,7 +365384,7 @@
         "company_name": "PhysicsX",
         "id": "c8d39d92-bc63-48e6-99e4-559dfb39dbac",
         "title": "CFD Simulation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -390042,7 +390002,7 @@
         "company_name": "General Motors",
         "id": "5fb936ec-c96f-4a5a-9af7-24f0047b75ea",
         "title": "Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -395291,7 +395251,7 @@
         "company_name": "PMG",
         "id": "1416f60f-eaa1-4f25-abee-b63246c7198a",
         "title": "Graduate Leadership Program - AI & Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -398964,6 +398924,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "f4ffddb2-b621-4c7f-bcaf-3f94562b333d",
+        "title": "2026 Engineering Intern - Northridge CA",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772322385,
+        "date_posted": 1772322385,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/XMLNAME-2026-Engineering-Intern---Northridge-CA_R10210316",
+        "locations": [
+            "Northridge, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
