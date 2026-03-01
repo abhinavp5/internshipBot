@@ -21,26 +21,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Midmark ",
-        "id": "e45b7992-b7ef-4846-b4ff-ecf6b47e5de3",
-        "title": "Firmware Engineering Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1751623133,
-        "date_posted": 1751623133,
-        "url": "https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/3288",
-        "locations": [
-            "Vandalia, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Midmark",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Manulife",
         "id": "da60e4fe-81b3-4395-a290-0a95a0d7847d",
