@@ -257682,7 +257682,7 @@
         "company_name": "Air Products",
         "id": "ad50c116-676a-4ae0-bf7c-ece4b9bbf0fa",
         "title": "Summer PhD Intern/Co-op - Chemical Engineering - 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -313355,7 +313355,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -330515,7 +330515,7 @@
         "company_name": "GE Healthcare",
         "id": "f968e03f-64de-48e4-9a0a-8b182d07f1bb",
         "title": "Field Service Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
