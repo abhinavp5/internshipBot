@@ -197105,27 +197105,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Stonhard",
-        "id": "89e5521d-cf20-42d5-95ac-aae310a1e658",
-        "title": "Product Management Intern \u2013 Intern Program",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761838642,
-        "date_posted": 1751644572,
-        "url": "https://hcwx.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/10690",
-        "locations": [
-            "Orange, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Stonhard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "6b627660-4b30-4447-a7f9-07b356553845",
