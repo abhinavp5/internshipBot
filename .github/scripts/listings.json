@@ -396015,7 +396015,7 @@
         "company_name": "Analytical Mechanics Associates",
         "id": "fc41fa22-d3d8-4c18-8233-84d556b131e4",
         "title": "Early Career Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -398303,7 +398303,7 @@
         "company_name": "Applied Materials",
         "id": "467921d2-d135-49f0-8e14-745ccdaa6803",
         "title": "AI Intern \u2013 Azpi6",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
