@@ -266091,7 +266091,7 @@
         "company_name": "General Motors",
         "id": "0e13c4db-4313-439d-84af-43073b34f3a8",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389981,7 +389981,7 @@
         "company_name": "General Motors",
         "id": "5fb936ec-c96f-4a5a-9af7-24f0047b75ea",
         "title": "Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
