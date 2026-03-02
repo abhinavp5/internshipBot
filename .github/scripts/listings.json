@@ -307112,7 +307112,7 @@
         "company_name": "APL Logistics",
         "id": "e22d9ce3-2852-4d63-b684-ea004964fb2c",
         "title": "Intern - Technology Solutions and Digital Products",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -389805,7 +389805,7 @@
         "company_name": "General Motors",
         "id": "5fb936ec-c96f-4a5a-9af7-24f0047b75ea",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
