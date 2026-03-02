@@ -283948,7 +283948,7 @@
         "company_name": "American Express",
         "id": "de43a11d-db02-4ff5-930d-ac7c87a1287b",
         "title": "Campus Graduate 1 Intern Program - Global Decision Science - Credit & Fraud Risk",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -313179,7 +313179,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -360329,7 +360329,7 @@
         "company_name": "Johnson & Johnson",
         "id": "69be7553-e1c0-4df0-b4e4-b92a065a04d2",
         "title": "Product Mgmt Salesforce - Shockwave",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379183,7 +379183,7 @@
         "company_name": "Bank of Montreal",
         "id": "72483713-9572-4e01-b3f2-67c353cdc381",
         "title": "Junior Engineer \u2013 Co-op/Internship - Electronic Trading Infrastructure - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389805,7 +389805,7 @@
         "company_name": "General Motors",
         "id": "5fb936ec-c96f-4a5a-9af7-24f0047b75ea",
         "title": "Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -396556,7 +396556,7 @@
         "company_name": "John Deere",
         "id": "7294588b-566d-4674-9f4b-dc273e58f058",
         "title": "Part-Time Student - Engine Engineering - Waterloo IA Product Engineering CA",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -398825,7 +398825,7 @@
         "company_name": "The Boeing Company",
         "id": "07953fe3-43c0-412c-a737-922af4de9aef",
         "title": "Millennium Space Systems Summer 2026 Internship Program - Assembly - Test','And Launch','Atlo','Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -399158,6 +399158,29 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Red-Bull",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Standard Insurance",
+        "id": "b54f4b67-4dea-488b-914c-33bc7138a74f",
+        "title": "Data Analyst - RP Sales",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772458627,
+        "date_posted": 1772458627,
+        "url": "https://standard.wd1.myworkdayjobs.com/search/job/Portland-OR/Data-Analyst-Intern---RP-Sales_REQ006300",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Standard-Insurance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
