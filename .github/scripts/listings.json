@@ -2220,7 +2220,7 @@
         "company_name": "Tower Research Capital",
         "id": "af6d9dca-b7a3-41bf-8aa1-c0ef7d83707a",
         "title": "Quantitative Trader Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -94585,7 +94585,7 @@
         "company_name": "Voya Financial",
         "id": "f3d878b3-5de5-49f2-8455-5979cb24967b",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -97485,7 +97485,7 @@
         "company_name": "BNY",
         "id": "2e9d9e73-fb7c-4e25-b325-47e560f0a166",
         "title": "2026 BNY Summer Internship Program - Engineering Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -285381,7 +285381,7 @@
         "company_name": "Tive",
         "id": "59697f5e-8ad2-4cee-9072-9d31774938d3",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -304156,7 +304156,7 @@
         "company_name": "John Deere",
         "id": "1162ee7c-8e4b-49e5-97a6-1c4b420d7bad",
         "title": "Part-Time Student - Advanced Engineering - Radar Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -313179,7 +313179,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -325784,7 +325784,7 @@
         "company_name": "Sandisk",
         "id": "a17112cf-d4d0-48a6-8dcf-811a35a8e5e3",
         "title": "PhD Intern - Advanced Memory Technology - AI/ML Focus",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -328874,7 +328874,7 @@
         "company_name": "Sandisk",
         "id": "e5134075-1379-47f6-9977-846cfae23ba9",
         "title": "PhD Intern - Advanced Memory Technology - AI/ML Focus",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -335001,7 +335001,7 @@
         "company_name": "Markel Group, Inc.",
         "id": "a131ddf9-2292-4359-be37-aee89da57d35",
         "title": "Career Returner - Cat Risk Researcher",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -337363,7 +337363,7 @@
         "company_name": "Acuity",
         "id": "4638175c-de01-4fcd-9e3f-f3ea0b6947d0",
         "title": "Intern - Product Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -341452,7 +341452,7 @@
         "company_name": "TKO Group Holdings, Inc",
         "id": "3801663c-8a43-421d-a54a-f840f9c77f55",
         "title": "Intern - Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346942,7 +346942,7 @@
         "company_name": "UiPath",
         "id": "0a67768f-cf27-4349-8ee4-9119b8221cda",
         "title": "Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -351141,7 +351141,7 @@
         "company_name": "Brunswick",
         "id": "480bd389-bf81-4385-9062-1356827fd3a1",
         "title": "Computer Graphics Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -354267,7 +354267,7 @@
         "company_name": "Brunswick",
         "id": "5791f15a-ff7e-4c9f-8b14-3b5af9b110a6",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -360620,7 +360620,7 @@
         "company_name": "UiPath",
         "id": "b8ec3397-bda7-480f-96ff-ac2fc9861c11",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -369674,7 +369674,7 @@
         "company_name": "Fiserv",
         "id": "00889deb-d339-426e-a840-15dc4a18c3ef",
         "title": "Technology Summer Internship - Java Developer - Berkeley Heights, NJ",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -382177,7 +382177,7 @@
         "company_name": "Broadridge",
         "id": "9b4d50b8-0190-413b-9f1a-f90618600a04",
         "title": "Junior Analyst Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -384666,7 +384666,7 @@
         "company_name": "The Walt Disney Company",
         "id": "f9719612-87ae-4356-b19e-31cc930f6a40",
         "title": "Labor Systems Data Analytics & Integration Intern - Summer/Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -387436,7 +387436,7 @@
         "company_name": "Brex",
         "id": "afd26269-ca6f-47e8-8959-cc00bcbe099a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -389595,7 +389595,7 @@
         "company_name": "CAE",
         "id": "c0f5c8f4-4f24-4edc-bb1e-973d35f49e92",
         "title": "Infrastructure/Computer Systems/Tools Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391119,7 +391119,7 @@
         "company_name": " MAG Aerospace",
         "id": "86a61542-e53a-47d0-8009-e7fc4e09c506",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -396556,7 +396556,7 @@
         "company_name": "John Deere",
         "id": "7294588b-566d-4674-9f4b-dc273e58f058",
         "title": "Part-Time Student - Engine Engineering - Waterloo IA Product Engineering CA",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -399185,6 +399185,241 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Red Bull",
+        "id": "cbbec3de-b748-4fbd-8f85-f4cee59223c2",
+        "title": "Ecommerce Category Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772464940,
+        "date_posted": 1772464940,
+        "url": "https://jobs.smartrecruiters.com/RedBull/744000112127072",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Bull",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Red Bull",
+        "id": "97bb4b52-cc09-409d-b7e3-b7c2309581cd",
+        "title": "Insights Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772464943,
+        "date_posted": 1772464943,
+        "url": "https://jobs.smartrecruiters.com/RedBull/744000112129487",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Bull",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "MFS",
+        "id": "75927b11-cd33-4ee2-86f6-d8b8070935a1",
+        "title": "Quant Research Associate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1772464786,
+        "date_posted": 1772464786,
+        "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Quant-Research-Associate-Intern_MFS-231468",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/5276a21f-bbf3-42c6-b809-d1b328b36b6e",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Red Bull",
+        "id": "688a2644-b65f-4949-8eac-73d37c84777d",
+        "title": "Field Data Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772464946,
+        "date_posted": 1772464946,
+        "url": "https://jobs.smartrecruiters.com/RedBull/744000112130828",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Bull",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Red Bull",
+        "id": "4d70ccf9-3ba3-4cd6-ad7e-d399d0298c03",
+        "title": "Field Strategy Insights Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772464925,
+        "date_posted": 1772464925,
+        "url": "https://jobs.smartrecruiters.com/RedBull/744000112142680",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Bull",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Trane Technologies",
+        "id": "0b09b873-6931-4de5-afa8-01dfe763de91",
+        "title": "Reliability Co-Op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772464513,
+        "date_posted": 1772464513,
+        "url": "https://careers.tranetechnologies.com/global/en/job/2601760",
+        "locations": [
+            "Winona, MN",
+            "White Bear Lake, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Trane-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "7dc5bee1-2b4b-4e33-bc82-1c7b10a35d34",
+        "title": "Custom Applications Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772464164,
+        "date_posted": 1772464164,
+        "url": "https://careers-gdms.icims.com/jobs/71145/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Scottsdale, AZ",
+            "Chantilly, VA",
+            "Dedham, MA",
+            "Bloomington, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Halliburton",
+        "id": "25dc9608-ee21-474c-84a9-3b24d5868a6f",
+        "title": "Intern Automation Geoscientist",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772464269,
+        "date_posted": 1772464269,
+        "url": "https://jobs.halliburton.com/job/Abingdon-Intern_Automation-Geoscientist-OXF-OX14-4RW/1369051000/?ats=successfactors",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Halliburton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "1386f3cd-4b2e-4276-8bff-fddb515d956a",
+        "title": "Custom Applications Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772464056,
+        "date_posted": 1772464056,
+        "url": "https://careers-gdms.icims.com/jobs/71147/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Scottsdale, AZ",
+            "Chantilly, VA",
+            "Dedham, MA",
+            "Bloomington, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "MAXISIQ",
+        "id": "9d7e59fd-0609-4848-be43-ee8999d87a91",
+        "title": "Software Engineer Intern - Spring - Summer",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1772463942,
+        "date_posted": 1772463942,
+        "url": "https://jobs.smartrecruiters.com/IOMAXISLLC/3743990011915576",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/MAXISIQ",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
