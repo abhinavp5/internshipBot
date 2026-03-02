@@ -343255,7 +343255,7 @@
         "company_name": "Nestle",
         "id": "91e2be6a-ab71-411a-9857-e25b3f5af537",
         "title": "Digital Data Analytics Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -398887,6 +398887,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of Montreal",
+        "id": "62c8487c-5a4e-446a-a5c8-6cd84977add7",
+        "title": "Legal and Regulatory Compliance Data Analyst \u2013 Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772408542,
+        "date_posted": 1772408542,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Legal-and-Regulatory-Compliance-Data-Analyst--Co-op-Internship---Summer2026---4-months_R260005361",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
