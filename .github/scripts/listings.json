@@ -112207,7 +112207,7 @@
         "company_name": "Citadel",
         "id": "beb99fbc-738a-43b1-8d25-622cefe54316",
         "title": "Investment and Trading Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -176198,7 +176198,7 @@
         "company_name": "Axon",
         "id": "06aa03ae-8da6-402a-973f-160713d44612",
         "title": "Firmware Engineering Internship - Platform Firmware - Embedded Product Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -236469,7 +236469,7 @@
         "company_name": "The Allen Institute for AI",
         "id": "944b73ed-1670-4d27-9d90-dd41d3101533",
         "title": "Research Internship - Olmoearth",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -266300,7 +266300,7 @@
         "company_name": "ASML",
         "id": "3548c44c-24e4-49bf-a4d2-4192fabbb524",
         "title": "Intern - Field Service Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -294982,7 +294982,7 @@
         "company_name": "Jane Street",
         "id": "f3b26c76-d6cf-46bd-ade3-5e3f99f4c584",
         "title": "Quantitative Trader",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -295026,7 +295026,7 @@
         "company_name": "Jane Street",
         "id": "66c6b675-9967-4cdf-85c3-15d3c7ad6a5e",
         "title": "Quantitative Researcher",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -310049,7 +310049,7 @@
         "company_name": "Autodesk",
         "id": "2e1feeb9-8433-4de3-85a2-e5efc660be59",
         "title": "Intern \u2013 Research - Agentic Simulation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -315379,7 +315379,7 @@
         "company_name": "Autodesk",
         "id": "c3035496-be3b-416e-a21d-0aed7c95e073",
         "title": "FY27 Research Intern GAD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -340317,7 +340317,7 @@
         "company_name": "Blue Cross and Blue Shield of Minnesota",
         "id": "5c886fb2-d68c-4c0b-b8e2-16ad77c6ed4e",
         "title": "Intern Enterprise Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -340409,7 +340409,7 @@
         "company_name": "Blue Cross and Blue Shield of Minnesota",
         "id": "4db08508-e3f0-48ae-a672-faa4e3a33975",
         "title": "Intern Enterprise Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -354517,7 +354517,7 @@
         "company_name": "Pluralsight",
         "id": "8f6b731b-3f53-4190-9e53-7e9e23353345",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -354910,7 +354910,7 @@
         "company_name": "SupplyHouse.com",
         "id": "ea9c61d2-6e61-4873-8b16-8c3aceed5962",
         "title": "AI Enablement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -355924,7 +355924,7 @@
         "company_name": "Ciena",
         "id": "d34f39eb-0e6f-4eaa-acbe-e61e56d559e8",
         "title": "AI Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380494,7 +380494,7 @@
         "company_name": "CACI",
         "id": "63ac1f28-aab3-4d84-91fa-abb1cf77f121",
         "title": "Software Development Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380635,7 +380635,7 @@
         "company_name": "CACI",
         "id": "37686c7d-7a37-4e47-a81c-012ef7fc3de0",
         "title": "Digital Transformation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -384619,7 +384619,7 @@
         "company_name": "PennState University",
         "id": "16240092-419b-423d-8246-64bf7dad53a6",
         "title": "College of IST Agentic AI Developer w/ Dr. Lee",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -395354,7 +395354,7 @@
         "company_name": "onsemi",
         "id": "a7b222e9-2760-40b3-92b1-25901cb6c6eb",
         "title": "Spring 2026 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -396554,7 +396554,7 @@
         "company_name": "HERE Technologies",
         "id": "6431435b-c123-4fac-aced-da5466be9228",
         "title": "Engineer Intern 3D Graphics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -397096,7 +397096,7 @@
         "company_name": "Ambarella",
         "id": "c0c201fb-4db7-4b19-9efe-21f7bf29a8d5",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
