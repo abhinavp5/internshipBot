@@ -25197,29 +25197,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Navy Federal",
-        "id": "26b315dc-7c45-4b97-87bd-1f1918774beb",
-        "title": "Intern \u2013 Year Round - Product Manager Support",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1751697165,
-        "date_posted": 1751697165,
-        "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/25593",
-        "locations": [
-            "Pensacola, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Navy-Federal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1755638663,
         "url": "https://job-boards.greenhouse.io/figma/jobs/5602159004?gh_jid=5602159004",
         "company_name": "Figma",
@@ -32800,29 +32777,6 @@
         "date_updated": 1756206129,
         "date_posted": 1755847817,
         "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/26574",
-        "locations": [
-            "Vienna, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Navy-Federal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Navy Federal",
-        "id": "0fa7557e-8f0e-41df-8bc4-ebd57930d041",
-        "title": "Intern \u2013 Year Round - Data Engineering",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1756205935,
-        "date_posted": 1751697146,
-        "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/25631",
         "locations": [
             "Vienna, VA"
         ],
@@ -279456,7 +279410,7 @@
         "company_name": "Cisco",
         "id": "1691735a-6cc0-4419-8fca-3e3d9f3b1d04",
         "title": "Software Engineer 1 \u2013 Co-op - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -313225,7 +313179,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -320728,7 +320682,7 @@
         "company_name": "Thomson Reuters",
         "id": "95565135-ee9e-4478-9a78-b95cdda1a329",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -357844,7 +357798,7 @@
         "company_name": "TD Bank",
         "id": "adb851d1-44f5-4a92-84cf-e77c95f3438f",
         "title": "Intern/Co-op - TD Scholarships for Community Leadership",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -385078,7 +385032,7 @@
         "company_name": "RTX",
         "id": "8dcc7508-2662-4a8a-9c53-32a18e672b1b",
         "title": "Summer 2026 \u2013 Agentic AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -385591,7 +385545,7 @@
         "company_name": "Nestle",
         "id": "8c6101b6-5b30-4c03-9b45-5be3a1476765",
         "title": "Applications Web Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -390302,7 +390256,7 @@
         "company_name": "The Walt Disney Company",
         "id": "8281acdb-f816-46a7-8d44-714de723046d",
         "title": "Disney Ad Sales \u2013 Graduate Data Science Engineering Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391699,7 +391653,7 @@
         "company_name": "RTX",
         "id": "d26c6859-4c11-4a34-836b-7d2b9c83268f",
         "title": "2026 \u2013 GEC Risk Monitoring & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -398979,5 +398933,121 @@
         "date_posted": 1772429812,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "db493703-64fb-4667-b168-8669d472e24e",
+        "title": "Brand Ads Product Manager Graduate - Creative and Brand Innovation - BS/MS",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1772435739,
+        "date_posted": 1772435739,
+        "url": "https://lifeattiktok.com/search/7538943251353553160",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Socket",
+        "id": "c8e9ee22-f682-4da2-aeae-3db34c2917ec",
+        "title": "Research Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1772435572,
+        "date_posted": 1772435572,
+        "url": "https://jobs.ashbyhq.com/socket/190109c1-1f0b-4037-81c9-0b634a3394f0/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Socket-Dev",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "AXQ Capital",
+        "id": "50b74e7f-6fd6-4664-990a-0cf32bb4f58f",
+        "title": "Quantitative Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Winter 2026"
+        ],
+        "date_updated": 1772435621,
+        "date_posted": 1772435621,
+        "url": "https://job-boards.greenhouse.io/axq/jobs/5575450004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/AXQ-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Serval",
+        "id": "e86150cf-386f-4eac-99a4-224ea7eacfc3",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772435355,
+        "date_posted": 1772435355,
+        "url": "https://jobs.ashbyhq.com/Serval/d7fb089c-db8a-4877-a5f3-73a09e67f54b/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Serval",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Comstock Companies",
+        "id": "f8e61c4d-d722-40e1-a5ff-0852765c1d1e",
+        "title": "AV Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772435122,
+        "date_posted": 1772435122,
+        "url": "https://job-boards.greenhouse.io/comstock/jobs/4115457009",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comstock-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
