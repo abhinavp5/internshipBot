@@ -153218,7 +153218,7 @@
         "company_name": "Draper",
         "id": "ebe326e0-f3eb-43db-9b9c-e7b5b020d618",
         "title": "Machine Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -298154,7 +298154,7 @@
         "company_name": "Barclays",
         "id": "8e176407-fa40-441f-bca4-6ae410eb5003",
         "title": "Technology Developer Discovery Programme",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -298200,7 +298200,7 @@
         "company_name": "Barclays",
         "id": "9cc149a5-6e4c-479d-b2cf-1cf4d70c28e8",
         "title": "Technology Analyst Discovery Programme 2026 Knutsford",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -308766,7 +308766,7 @@
         "company_name": "Fiserv",
         "id": "60afcc6b-8fa5-4bfe-8310-51c5cb70bb58",
         "title": "Corporate Internship Program - Product Management - Berkeley Heights NJ",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2027",
@@ -330851,7 +330851,7 @@
         "company_name": "Aristocrat Leisure",
         "id": "0ad133ee-a543-456c-962a-a3d0b95a3fde",
         "title": "Intern \u2013 Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391676,7 +391676,7 @@
         "company_name": "RTX",
         "id": "b95683a4-8e0a-4fa5-80e4-070b91fa8168",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392835,7 +392835,7 @@
         "company_name": "SFMOMA",
         "id": "dbcb2f49-9cf3-48fe-a11e-5d3dc1f61e56",
         "title": "Archives and Art Resources: Digital Access and Records Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -397840,7 +397840,7 @@
         "company_name": "KLA",
         "id": "2d6136ee-ec1f-4006-ad08-f2259c41fc2b",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
