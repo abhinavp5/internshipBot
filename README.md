@@ -9,17 +9,17 @@
 
 ---
 
-### Browse 1664 Internship Roles by Category
+### Browse 1662 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (476)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (138)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (800)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-data-science-ai--machine-learning-internship-roles)** (799)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-quantitative-finance-internship-roles)** (23)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (227)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (226)
 
 ---
 
@@ -816,7 +816,7 @@
 <td>Resource Sharing-Software Engineer Intern</td>
 <td>Dublin, OH</td>
 <td><div align="center"><a href="https://oclc.wd1.myworkdayjobs.com/en-US/OCLC_Careers/job/Dublin-OH--Hybrid/Resource-Sharing-Software-Engineer-Intern_R0003787?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d6ad5f8b-3529-41fe-bc4a-ab3292939519?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Ticketmaster?utm_source=GHList&utm_medium=company">Ticketmaster</a></strong></td>
@@ -5677,7 +5677,7 @@
 <td>Data Science Intern</td>
 <td>Dublin, OH</td>
 <td><div align="center"><a href="https://oclc.wd1.myworkdayjobs.com/en-US/OCLC_Careers/job/Dublin-OH--Hybrid/Data-Science-Summer-Intern_R0003786?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/104fe4be-9886-46ce-a977-1914c5202d92?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong>Arcline</strong></td>
@@ -5827,13 +5827,6 @@
 <td>6d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
-<td>Labor Systems Data Analytics & Integration Intern - Summer/Fall 2026</td>
-<td>Celebration, FL</td>
-<td><div align="center"><a href="https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Data-Analytics---Integration-Intern--Summer-Fall-2026_10140265-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/490811f1-25fe-48c3-8ede-c846a1584a12?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Vercel?utm_source=GHList&utm_medium=company">Vercel</a></strong></td>
 <td>Data Platform & Engineering</td>
 <td>SF</td>
@@ -5917,6 +5910,20 @@
 <td><div align="center"><a href="https://jobs.ashbyhq.com/mentis/d5d31f19-478b-4463-bbfd-6693cae2c514/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a8de100b-1d0c-4097-a730-ba0e2a28374e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>6d</td>
 </tr>
+<tr>
+<td>↳</td>
+<td>Investment Banking & Capital Markets Professionals – AI Residency - Part-time - Frontier AI Research</td>
+<td>Remote in UK</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/mentis/329bc019-4af8-4e29-ae59-e296ec3fd5e7/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9f9413ef-0a67-45ec-a618-f1589695e062?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>6d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Investment Banking & Capital Markets Professionals – AI Residency - Part-time - Frontier AI Research</td>
+<td>London, UK<br>SF</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/mentis/afe8fe87-c775-4031-9dfb-1eea307837f9/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/56fa5d14-0114-4ab5-878f-cb3554418630?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>6d</td>
+</tr>
 </tbody>
 </table>
 
@@ -5943,20 +5950,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td>↳</td>
-<td>Investment Banking & Capital Markets Professionals – AI Residency - Part-time - Frontier AI Research</td>
-<td>Remote in UK</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/mentis/329bc019-4af8-4e29-ae59-e296ec3fd5e7/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9f9413ef-0a67-45ec-a618-f1589695e062?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Investment Banking & Capital Markets Professionals – AI Residency - Part-time - Frontier AI Research</td>
-<td>London, UK<br>SF</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/mentis/afe8fe87-c775-4031-9dfb-1eea307837f9/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/56fa5d14-0114-4ab5-878f-cb3554418630?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>6d</td>
-</tr>
 <tr>
 <td>↳</td>
 <td>Asset Management Professional – AI Residency - Frontier AI Research</td>
@@ -10070,7 +10063,7 @@
 </table>
 
 
-🔒 **[See 3978 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
+🔒 **[See 3979 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
 
 
 
@@ -11534,13 +11527,6 @@
 <td>27d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Draper?utm_source=GHList&utm_medium=company">Draper</a></strong></td>
-<td>Resilience and Fault Tolerance Intern</td>
-<td>Cambridge, MA</td>
-<td><div align="center"><a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Embedded-Software-Engineering-Intern_JR002183?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d0134d6d-3332-4be5-905e-419b31ffd2df?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>27d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Boeing?utm_source=GHList&utm_medium=company">The Boeing Company</a></strong></td>
 <td>Simulator Technician Apprentice</td>
 <td>Crawley, UK</td>
@@ -11866,7 +11852,7 @@
 </table>
 
 
-🔒 **[See 1160 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)**
+🔒 **[See 1161 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)**
 
   <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
   <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

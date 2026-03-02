@@ -264936,7 +264936,7 @@
         "company_name": "General Motors",
         "id": "e1d80878-0c90-440d-a097-fa70b5e4b876",
         "title": "2026 Summer Intern - Software Engineer - Dynamics & Controls",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -268229,7 +268229,7 @@
         "company_name": "Genentech",
         "id": "a1408622-ec4e-4cbc-8a5e-ccd6a6d90150",
         "title": "Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -341753,7 +341753,7 @@
         "company_name": "Draper",
         "id": "d0134d6d-3332-4be5-905e-419b31ffd2df",
         "title": "Resilience and Fault Tolerance Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -384750,7 +384750,7 @@
         "company_name": "The Walt Disney Company",
         "id": "490811f1-25fe-48c3-8ede-c846a1584a12",
         "title": "Labor Systems Data Analytics & Integration Intern - Summer/Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
