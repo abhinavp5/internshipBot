@@ -10818,7 +10818,7 @@
         "company_name": "TikTok",
         "id": "ee35cb24-d8bf-41d7-881e-48ebd011cddc",
         "title": "Frontend Engineer Intern - Tiktok-Pgc - BS/MS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -10859,7 +10859,7 @@
         "company_name": "TikTok",
         "id": "f97d5112-4d44-4d70-99fc-ae9bca3a3f3d",
         "title": "Frontend Engineer Intern - Tiktok-Search-Client",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -11020,7 +11020,7 @@
         "company_name": "TikTok",
         "id": "1176e63c-eb58-40bb-b17f-9d948c9da798",
         "title": "Frontend Engineer Intern - Tiktok-Growth-Innovative Growth",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -11540,7 +11540,7 @@
         "company_name": "TikTok",
         "id": "ae10b486-dd2c-4856-a542-edc25cb4473a",
         "title": "Frontend Engineer Intern - Tiktok-Open Platform",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -11640,7 +11640,7 @@
         "company_name": "TikTok",
         "id": "57afebdf-5402-460f-9af8-a746c7bcca8a",
         "title": "Mobile Engineer Intern - Tiktok-Growth-Customer Lifecycle - BS/MS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -11700,7 +11700,7 @@
         "company_name": "TikTok",
         "id": "fe3ab54a-d42a-47ab-acb5-7781d79c5ca8",
         "title": "Frontend Engineer Intern - Tiktok-Pgc-Ogc - 2026 Summer - BS/MS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -225834,7 +225834,7 @@
         "company_name": "Cisco",
         "id": "caa05f8b-433a-4a38-83b6-e68d940462df",
         "title": "Software Engineer Data/AI/Intelligent Systems PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -225936,7 +225936,7 @@
         "company_name": "Cisco",
         "id": "0fdfda06-d9eb-48c2-b935-b4da3ff0f844",
         "title": "Software Engineer Data/AI/Intelligent Systems 1 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -304156,7 +304156,7 @@
         "company_name": "John Deere",
         "id": "1162ee7c-8e4b-49e5-97a6-1c4b420d7bad",
         "title": "Part-Time Student - Advanced Engineering - Radar Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -311995,7 +311995,7 @@
         "company_name": "Westgate Resorts",
         "id": "7e52c5f8-c50f-4bc3-9561-7da851eda20e",
         "title": "Mortgage Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -318392,7 +318392,7 @@
         "company_name": "Westgate Resorts",
         "id": "701e8177-9557-44c2-a882-1a39d0b2a4a7",
         "title": "Mortgage Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -325784,7 +325784,7 @@
         "company_name": "Sandisk",
         "id": "a17112cf-d4d0-48a6-8dcf-811a35a8e5e3",
         "title": "PhD Intern - Advanced Memory Technology - AI/ML Focus",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -328874,7 +328874,7 @@
         "company_name": "Sandisk",
         "id": "e5134075-1379-47f6-9977-846cfae23ba9",
         "title": "PhD Intern - Advanced Memory Technology - AI/ML Focus",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -338102,7 +338102,7 @@
         "company_name": "RTX",
         "id": "f1aa57ff-e315-4c40-995f-3ccb0323c121",
         "title": "Stage \u2013 Science des donn\u00e9es et Analytique d\u2019affaires / Internship - \u00c9t\u00e9 2026 - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -382535,7 +382535,7 @@
         "company_name": "Western Digital",
         "id": "8b2df490-dee0-4310-bb07-b829ff7b126b",
         "title": "Early Career Talent - Drive Integration Engineer - Role begins Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -383087,7 +383087,7 @@
         "company_name": "Western Digital",
         "id": "651fb98b-031b-48c2-9d54-4b0d77846d6e",
         "title": "Early Career Talent - Drive Integration Engineer - Role begins Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -391674,7 +391674,7 @@
         "company_name": "RTX",
         "id": "c1a712ad-fbf8-4561-8cea-c50338e62295",
         "title": "2027 Mission Systems Intern - Las Cruces, NM",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -399113,6 +399113,51 @@
             "Celebration, FL"
         ],
         "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Concord",
+        "id": "c36323db-8b3e-4b44-9d30-fa88c043839a",
+        "title": "AI Data Cataloging Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1772446827,
+        "date_posted": 1772446827,
+        "url": "https://careers-concord.icims.com/jobs/2030/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Concord",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Red Bull",
+        "id": "1d471cda-b04f-4b58-b29b-4316779c3079",
+        "title": "Field Strategy Insights Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772447213,
+        "date_posted": 1772447213,
+        "url": "https://jobs.smartrecruiters.com/RedBull/744000112125687",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Bull",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
