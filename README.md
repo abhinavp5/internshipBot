@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1662 Internship Roles by Category
+### Browse 1661 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (478)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (477)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (142)
 
@@ -326,13 +326,6 @@
 <td>DRAM Field Application Engineer</td>
 <td>San Jose, CA</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7641072003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8f50dca6-dcf4-4bcb-a512-6e799db97f18?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>3d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company">Bank of Montreal</a></strong></td>
-<td>Cloud Developer – Co-op/Internship - Summer 2026 - 4 Months</td>
-<td>Toronto, ON, Canada</td>
-<td><div align="center"><a href="https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Cloud-Developer--Summer-2026--Co-op-Internship----4-Months_R260006552?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/115aaaca-bd9a-45fd-a61e-dd7224b4cfbd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>3d</td>
 </tr>
 <tr>
@@ -3440,7 +3433,7 @@
 </table>
 
 
-🔒 **[See 3090 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
+🔒 **[See 3091 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
@@ -4483,6 +4476,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Taiho Oncology</strong></td>
+<td>Intern, Data Science</td>
+<td>Princeton, NJ</td>
+<td><div align="center"><a href="https://jobs.dayforcehcm.com/en-US/taiho/CANDIDATEPORTAL/jobs/4707?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Voyager-Technologies?utm_source=GHList&utm_medium=company">Voyager Technologies</a></strong></td>
 <td>Intern - Computational Material Design</td>
 <td>Strongsville, OH</td>
@@ -5152,13 +5152,6 @@
 <td>Data Analytics Intern - Data Analytics</td>
 <td>Lewisville, TX</td>
 <td><div align="center"><a href="https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Lewisville-TX/Internship---Data-Analytics_R-9180?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5fce2534-de42-4f2b-b234-6c2b8f55c372?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/T-Mobile?utm_source=GHList&utm_medium=company">T-Mobile</a></strong></td>
-<td>Software Engineer Intern</td>
-<td>Overland Park, KS</td>
-<td><div align="center"><a href="https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2026-Software-Engineering-Internship_REQ346600?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4ad43aa5-128e-41e8-9926-3cc585078429?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>4d</td>
 </tr>
 <tr>
@@ -5903,6 +5896,20 @@
 <td><div align="center"><a href="https://jobs.ashbyhq.com/mentis/d5d31f19-478b-4463-bbfd-6693cae2c514/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a8de100b-1d0c-4097-a730-ba0e2a28374e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>6d</td>
 </tr>
+<tr>
+<td>↳</td>
+<td>Investment Banking & Capital Markets Professionals – AI Residency - Part-time - Frontier AI Research</td>
+<td>Remote in UK</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/mentis/329bc019-4af8-4e29-ae59-e296ec3fd5e7/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9f9413ef-0a67-45ec-a618-f1589695e062?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>6d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Investment Banking & Capital Markets Professionals – AI Residency - Part-time - Frontier AI Research</td>
+<td>London, UK<br>SF</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/mentis/afe8fe87-c775-4031-9dfb-1eea307837f9/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/56fa5d14-0114-4ab5-878f-cb3554418630?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>6d</td>
+</tr>
 </tbody>
 </table>
 
@@ -5929,20 +5936,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td>↳</td>
-<td>Investment Banking & Capital Markets Professionals – AI Residency - Part-time - Frontier AI Research</td>
-<td>Remote in UK</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/mentis/329bc019-4af8-4e29-ae59-e296ec3fd5e7/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9f9413ef-0a67-45ec-a618-f1589695e062?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Investment Banking & Capital Markets Professionals – AI Residency - Part-time - Frontier AI Research</td>
-<td>London, UK<br>SF</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/mentis/afe8fe87-c775-4031-9dfb-1eea307837f9/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/56fa5d14-0114-4ab5-878f-cb3554418630?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>6d</td>
-</tr>
 <tr>
 <td>↳</td>
 <td>Asset Management Professional – AI Residency - Frontier AI Research</td>
@@ -10070,7 +10063,7 @@
 </table>
 
 
-🔒 **[See 3968 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
+🔒 **[See 3969 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
 
 
 

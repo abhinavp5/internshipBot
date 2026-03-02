@@ -233312,7 +233312,7 @@
         "company_name": "Intuitive Surgical",
         "id": "20a37d3d-06fb-4c9a-bc5f-5f752733d95b",
         "title": "AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024",
             "Summer 2024"
@@ -266757,7 +266757,7 @@
         "company_name": "Microsoft",
         "id": "02f92cf0-f9f3-4007-a70f-653382f80026",
         "title": "Software Engineer: Intern Opportunities for University Students - Mountain View",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -392299,7 +392299,7 @@
         "company_name": "T-Mobile",
         "id": "4ad43aa5-128e-41e8-9926-3cc585078429",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -395326,7 +395326,7 @@
         "company_name": "Bank of Montreal",
         "id": "115aaaca-bd9a-45fd-a61e-dd7224b4cfbd",
         "title": "Cloud Developer \u2013 Co-op/Internship - Summer 2026 - 4 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -398956,5 +398956,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1772429812,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.dayforcehcm.com/en-US/taiho/CANDIDATEPORTAL/jobs/4707",
+        "company_name": "Taiho Oncology",
+        "title": "Intern, Data Science",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "matthewjyhan",
+        "id": "8c31c2eb-9dea-4cc4-81b8-daac5d18d7f5",
+        "date_posted": 1772429812,
+        "company_url": "",
+        "is_visible": true
     }
 ]
