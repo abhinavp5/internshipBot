@@ -52092,7 +52092,7 @@
     {
         "date_updated": 1756902806,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -290218,7 +290218,7 @@
         "company_name": "Cisco",
         "id": "cb82dd7e-9134-467b-85ca-0be3e8b240ff",
         "title": "Product Management MBA \u2013 Intern - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -388253,7 +388253,7 @@
         "company_name": "Uber",
         "id": "e9d9dfa0-3018-4193-af06-4bb470fbbb7e",
         "title": "PhD Scientist Intern - Earner Growth - US",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -396484,7 +396484,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "3149b457-70fa-491e-a058-bf09771438af",
         "title": "Computational Engineering Division Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
