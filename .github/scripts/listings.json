@@ -127582,29 +127582,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Plexus",
-        "id": "26f65a8b-d882-4f41-8b05-1349653cdc2e",
-        "title": "Intern - Hardware Engineer - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1758378433,
-        "date_posted": 1751730212,
-        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Raleigh-NC/Intern---Hardware-Engineer--Spring-2026-_R031614",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Plexus",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "GE Vernova",
         "id": "b98bb6a0-41b0-49bf-b0a2-628c27db13cd",
@@ -223733,7 +223710,7 @@
         "company_name": "Analog Devices",
         "id": "6dc403e6-2df9-4b1a-9010-be1872a41d06",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -276182,7 +276159,7 @@
         "company_name": "GE Aerospace",
         "id": "f625201c-4feb-49e4-8f28-41527ed27d3e",
         "title": "Engineering Engines Co-op - Computer or Software Engineering - US (Location) Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -289333,7 +289310,7 @@
         "company_name": "KLA Corporation",
         "id": "0dd8f6f2-7003-485b-a5e3-bccdc91e780a",
         "title": "Electro-Mechanical Tech Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -379772,7 +379749,7 @@
         "company_name": "Blue Origin",
         "id": "ab144b99-e26e-461c-88fd-7fffed843bb5",
         "title": "Associate Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -387967,7 +387944,7 @@
         "company_name": "Fiserv",
         "id": "59f19602-ff71-4786-8abc-f85b32238bf4",
         "title": "Application Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2027",
@@ -399415,6 +399392,171 @@
             "Arlington, VA"
         ],
         "company_url": "https://simplify.jobs/c/MAXISIQ",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Andersons",
+        "id": "7dbdb10c-47ca-4c52-a714-8f72d9ce85c8",
+        "title": "Procurement Systems Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772466696,
+        "date_posted": 1772466696,
+        "url": "https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/Summer-2026-Intern---Procurement_R11650",
+        "locations": [
+            "Perrysburg, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Andersons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of Montreal",
+        "id": "17b487b5-ca4b-4e6a-a6c1-a51fdf4b61b4",
+        "title": "Commercial Operations & Delivery Intern \u2013 Co-op/Internship - Summer 2026 - 4 months",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772466462,
+        "date_posted": 1772466462,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Commercial-Operations---Delivery-Intern--Summer-2026--Co-op-Internship----4-months_R260006630",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Point72",
+        "id": "f0af2360-dd84-41c4-af5e-9eac3bdff7bf",
+        "title": "Point72 Academy Investment Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1772465642,
+        "date_posted": 1772465642,
+        "url": "https://boards.greenhouse.io/point72/jobs/8435134002",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Point72",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cboe",
+        "id": "bb14db70-3892-4452-91f5-90c0f41cacee",
+        "title": "Intern Data Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772465297,
+        "date_posted": 1772465297,
+        "url": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/London-United-Kingdom/Intern---Data---Analytics_R-4313",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cboe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Elsevier",
+        "id": "14035ec2-fae6-4b02-8903-91da1a6a5c79",
+        "title": "Simulation Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772465490,
+        "date_posted": 1772465490,
+        "url": "https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Pennsylvania/Simulation-Software-Engineer-Intern_R110008",
+        "locations": [
+            "NYC",
+            "Florida",
+            "Massachusetts",
+            "Pennsylvania",
+            "North Carolina"
+        ],
+        "company_url": "https://simplify.jobs/c/Elsevier",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Generate Biomedicines",
+        "id": "7cdc0d1f-531e-4bd7-ac9d-1c579061b982",
+        "title": "Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772465126,
+        "date_posted": 1772465126,
+        "url": "https://generatebiomedicines.com/open-positions?gh_jid=4643139006",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/GenerateBiomedicines",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dentsu",
+        "id": "63088a9e-b708-449c-aadb-be878993dc41",
+        "title": "Dentsu Experience Program \u2013 Interns in Media Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772465209,
+        "date_posted": 1772465209,
+        "url": "https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/New-York/Dentsu-Summer-Experience-Program---Internships-in-Media-Analytics_R1117164",
+        "locations": [
+            "NYC",
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Dentsu",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
