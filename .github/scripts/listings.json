@@ -375243,7 +375243,7 @@
         "company_name": "CAE",
         "id": "1d0ba368-2e39-4527-b301-ccf233e2ca65",
         "title": "CAE Innovation Challenges 2026: Next Generation Immersive Environment Technologies",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -379772,7 +379772,7 @@
         "company_name": "Blue Origin",
         "id": "ab144b99-e26e-461c-88fd-7fffed843bb5",
         "title": "Associate Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
