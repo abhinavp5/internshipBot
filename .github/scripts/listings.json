@@ -335557,7 +335557,7 @@
         "company_name": "John Deere",
         "id": "1f8dd6d2-ea18-4677-84eb-0d55570ea014",
         "title": "Part-Time Student - Cloud Software Engineer - Ames, IA, Technology (CA)",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -389000,7 +389000,7 @@
         "company_name": "Capital One",
         "id": "29cde42d-6c84-4fd5-9202-a4f043590837",
         "title": "Full Stack Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
