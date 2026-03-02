@@ -200900,7 +200900,7 @@
         "company_name": "Vanguard",
         "id": "5b334b82-4782-46ed-8836-6a81873e19b2",
         "title": "Application Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -300557,7 +300557,7 @@
         "company_name": "Palantir",
         "id": "e7efbdf7-1fb3-47ce-bca3-4ad42107a5a7",
         "title": "Meritocracy Fellowship",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -313225,7 +313225,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -335047,7 +335047,7 @@
         "company_name": "Markel Group, Inc.",
         "id": "a131ddf9-2292-4359-be37-aee89da57d35",
         "title": "Career Returner - Cat Risk Researcher",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -342798,7 +342798,7 @@
         "company_name": "Nestle",
         "id": "227db165-f87f-4c4e-ac21-67762a0fe2ba",
         "title": "Digital Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -369916,7 +369916,7 @@
         "company_name": "SAS",
         "id": "87112f2f-fc0e-4b65-b572-2567b5b4b599",
         "title": "Documentation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -393591,7 +393591,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "1d62193f-1a55-4c60-9ade-213051e1ee95",
         "title": "Physics Division Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -398911,5 +398911,50 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Saputo",
+        "id": "7216d6d7-ac56-49f8-bd5a-29c1086520bf",
+        "title": "IT Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1772418043,
+        "date_posted": 1772418043,
+        "url": "https://saputo.wd5.myworkdayjobs.com/saputo_external_careers/job/Montral-QC/IT-Analytics-Intern---Finance---HR-Solutions_JR62566",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Saputo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Voyager Technologies",
+        "id": "6e73a1ce-2f07-4070-8599-e20456c82892",
+        "title": "Intern - Computational Material Design",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772418543,
+        "date_posted": 1772418543,
+        "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4158337009",
+        "locations": [
+            "Strongsville, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Voyager-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
