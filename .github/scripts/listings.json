@@ -25174,29 +25174,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "4aee7f93-abbe-4208-af24-33146b1b9beb",
-        "title": "PhD Research Intern - Generalist Embodied Agents Research",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753529032,
-        "date_posted": 1751783066,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generalist-Embodied-Agents-Research---Fall-2025_JR1996642-1",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
         "date_updated": 1755638663,
         "url": "https://job-boards.greenhouse.io/figma/jobs/5602159004?gh_jid=5602159004",
         "company_name": "Figma",
@@ -46177,7 +46154,7 @@
         "company_name": "Nationwide",
         "id": "5f287cc8-ebea-4754-9eee-837012cdeeae",
         "title": "Summer 2026 Technology Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -268763,7 +268740,7 @@
         "company_name": "ASSA ABLOY",
         "id": "e3db4568-562c-4883-976b-b2ef18163834",
         "title": "Mobile App Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -326358,7 +326335,7 @@
         "company_name": "The Walt Disney Company",
         "id": "76bdb398-dcfc-47f3-b5b5-38c017be2d4d",
         "title": "WDI Project Controls Estimating Intern - FL - Summer/Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -378768,7 +378745,7 @@
         "company_name": "Moog ",
         "id": "191d9cc0-2760-4ef4-8dc6-b45271923f4d",
         "title": "Intern \u2013 Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
