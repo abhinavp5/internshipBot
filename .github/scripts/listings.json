@@ -188605,7 +188605,7 @@
         "company_name": "GE Vernova",
         "id": "4992adc8-5468-4e8c-a59c-fc095b353491",
         "title": "GE Vernova \u2013 Advanced Predictive Controls Intern - AI & Grid Stability - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -328361,7 +328361,7 @@
         "company_name": "NVIDIA",
         "id": "2ae7aadb-deb2-4a73-bc92-0bcfaef93788",
         "title": "GPU Architect Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -334799,7 +334799,7 @@
         "company_name": "Amazon",
         "id": "b2359b95-1834-4ff2-ae84-357a78e6a6a9",
         "title": "Digital Product Manager Apprentice - Months Fixed Term Contract",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -362346,7 +362346,7 @@
         "company_name": "Housecall Pro",
         "id": "76933348-3f88-4cd5-876c-34d5bfbaafe8",
         "title": "AI-First Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -378414,7 +378414,7 @@
         "company_name": "RTX",
         "id": "2cef0f76-615a-4d19-b6ba-8386ad3ec8be",
         "title": "Industrial Placement - Business Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -389317,7 +389317,7 @@
         "company_name": "Xylem",
         "id": "430edbd8-980f-4530-950e-698a27475c64",
         "title": "Student Program",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
