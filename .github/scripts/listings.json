@@ -94562,7 +94562,7 @@
         "company_name": "Voya Financial",
         "id": "f3d878b3-5de5-49f2-8455-5979cb24967b",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -339097,7 +339097,7 @@
         "company_name": "Sarepta",
         "id": "d3a9eee5-b79b-4afb-9eb6-5e26551d96fa",
         "title": "Machine Learning Scientist \u2013 Oligo Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -351797,7 +351797,7 @@
         "company_name": "Gen",
         "id": "4aef6314-616b-4560-9da0-c6b9f63fa692",
         "title": "Intern - Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -402834,6 +402834,54 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Motors",
+        "id": "238b0b22-f374-487e-aef8-a64b022ae52f",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772553098,
+        "date_posted": 1772553098,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Summer-Intern---Research-and-Development--Connected-Vehicle-System_JR-202604606",
+        "locations": [
+            "Warren, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vulcan Elements",
+        "id": "3e2f29a3-2668-4207-aa6b-ecd014ddb933",
+        "title": "Materials Analysis Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772552766,
+        "date_posted": 1772552766,
+        "url": "https://job-boards.greenhouse.io/vulcanelements/jobs/5135780008",
+        "locations": [
+            "Research Triangle, Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Vulcan-Elements",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
