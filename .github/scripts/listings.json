@@ -392835,7 +392835,7 @@
         "company_name": "KBR",
         "id": "de4f89fd-5ce6-4881-8f56-58406558115e",
         "title": "National Security Solutions Intern - Nss",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -397702,7 +397702,7 @@
         "company_name": "Acadia Pharmaceuticals",
         "id": "17fa00bc-353c-4153-a42d-b4730ac31c9d",
         "title": "Digital Innovation and Automation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -402587,5 +402587,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Formlabs",
+        "id": "91e6446e-152b-4b75-ba1c-cf420e4a57bb",
+        "title": "Machine Shop Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772535899,
+        "date_posted": 1771544548,
+        "url": "https://careers.formlabs.com/job/7635990/apply/?gh_jid=7635990",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
