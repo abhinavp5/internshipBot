@@ -163411,7 +163411,7 @@
         "company_name": "Vertiv",
         "id": "37b2a063-91f5-4f47-ba25-0f4236f7deeb",
         "title": "Engineering Internship - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -339813,7 +339813,7 @@
         "company_name": "Rheem",
         "id": "181e1ab7-c5e9-4b1f-99df-377099f36c6b",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
