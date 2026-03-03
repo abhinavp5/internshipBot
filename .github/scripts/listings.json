@@ -266106,7 +266106,7 @@
         "company_name": "General Motors",
         "id": "c2afc32b-aa6f-4047-ad82-7e91cec8791b",
         "title": "Intern - Machine Learning Engineer-Autonomous Vehicle Engineering - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -313133,7 +313133,7 @@
         "company_name": "KLA Corporation",
         "id": "6fa37820-76b0-49d8-873c-ae13fc7dbbcc",
         "title": "Advanced Algorithm Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -313327,7 +313327,7 @@
         "company_name": "Honeywell",
         "id": "020aba3c-2e58-4d18-b1ab-de40bc56b9c6",
         "title": "Apprentice - Electromechanical Engineer - Lss",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -328361,7 +328361,7 @@
         "company_name": "NVIDIA",
         "id": "2ae7aadb-deb2-4a73-bc92-0bcfaef93788",
         "title": "GPU Architect Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -373675,7 +373675,7 @@
         "company_name": "Zoom",
         "id": "ebc13604-3a1d-4ff4-b4f9-6419beb75f20",
         "title": "Research Intern - AI Incubation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -379137,7 +379137,7 @@
         "company_name": "Bank of Montreal",
         "id": "72483713-9572-4e01-b3f2-67c353cdc381",
         "title": "Junior Engineer \u2013 Co-op/Internship - Electronic Trading Infrastructure - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -386215,7 +386215,7 @@
         "company_name": "Carnegie Mellon University",
         "id": "22081ce2-e061-45ba-a71e-d5d4db3f819b",
         "title": "DIT Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -390015,7 +390015,7 @@
         "company_name": "Salesforce",
         "id": "9bb16535-afab-4f6e-8ed0-7bffa4636116",
         "title": "Intern \u2013 Marketing Co-op - Enablement Operations or Marketing Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -397976,7 +397976,7 @@
         "company_name": "Bank of Montreal",
         "id": "e1c3b4d9-79f9-4942-a343-0cc1305eff8a",
         "title": "Junior System Support \u2013 Business Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
