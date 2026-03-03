@@ -266106,7 +266106,7 @@
         "company_name": "General Motors",
         "id": "c2afc32b-aa6f-4047-ad82-7e91cec8791b",
         "title": "Intern - Machine Learning Engineer-Autonomous Vehicle Engineering - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -314538,7 +314538,7 @@
         "company_name": "KLA",
         "id": "34342289-8112-459d-8d27-a1fbc6248ad1",
         "title": "Electro-Mechanical Tech Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -378994,7 +378994,7 @@
         "company_name": "Bank of Montreal",
         "id": "89478ddc-3356-4fa1-8297-3a6be69ffdd0",
         "title": "Junior Engineer \u2013 Co-op/Internship - Electronic Trading Infrastructure - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -379181,7 +379181,7 @@
         "company_name": "Bank of Montreal",
         "id": "05ec054b-8383-4f55-b7a7-3b3a1813f1aa",
         "title": "Junior Engineer \u2013 Co-op/Internship - Electronic Trading Infrastructure - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
