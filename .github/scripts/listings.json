@@ -261493,7 +261493,7 @@
         "company_name": "Corcept Therapeutics",
         "id": "565226e3-ca19-459a-bba2-d7e910081fb0",
         "title": "Emerging Markets Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -287575,7 +287575,7 @@
         "company_name": "Arrowhead Pharmaceuticals",
         "id": "ca60233b-1294-43d4-9526-1eb42bc14456",
         "title": "Intern - Digital Workplace AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -295585,7 +295585,7 @@
         "company_name": "John Deere",
         "id": "ab6b15d9-bdd1-463d-979e-4c1a519d786a",
         "title": "Part Time Student - Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -310330,7 +310330,7 @@
         "company_name": "Astranis",
         "id": "cdd44603-95d0-439f-93c1-dd0a7b7e9845",
         "title": "Harness Manufacturing Intern - Spring 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -322391,7 +322391,7 @@
         "company_name": "Emerson Electric",
         "id": "4bbc43a0-56ef-4fa0-86cb-42e84da35e90",
         "title": "IBU Data Analytics Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -327414,7 +327414,7 @@
         "company_name": "Parkhill",
         "id": "87c322a9-0d87-470d-bc0d-043ec9238ee0",
         "title": "Data Analytics Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -360574,7 +360574,7 @@
         "company_name": "UiPath",
         "id": "b8ec3397-bda7-480f-96ff-ac2fc9861c11",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -361203,7 +361203,7 @@
         "company_name": "Hitachi",
         "id": "12828d11-095d-43c8-a31b-d99d90f547d5",
         "title": "Data Platform Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -373131,7 +373131,7 @@
         "company_name": "X Development",
         "id": "d3f07a56-92a6-45d5-aa3d-bf9cee4da766",
         "title": "PhD Residency - Tapestry",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -373178,7 +373178,7 @@
         "company_name": "X Development",
         "id": "8d53bff4-3cab-4ccb-a1e4-c5d02f65eb77",
         "title": "PhD Residency - Machine Learning for Grid Simulations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -373251,7 +373251,7 @@
         "company_name": "X Development",
         "id": "6bd9dc27-2942-4652-ae02-6090ead33fe0",
         "title": "PhD Residency - Software Engineering-Socio-Environmental Risk Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -373325,7 +373325,7 @@
         "company_name": "X Development",
         "id": "23a7d15e-51e2-4f44-bf70-934de5990ae5",
         "title": "Product Manager Intern - Grid Distribution Planning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -373395,7 +373395,7 @@
         "company_name": "X Development",
         "id": "0c2cb7fd-a8f8-4435-a1d7-6c9514c23fde",
         "title": "PhD Residency - Machine Learning Explainability - Tapestry",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380798,7 +380798,7 @@
         "company_name": "Veolia",
         "id": "fdbfc5e5-62f5-49bd-88c7-c6e7b5e2b67c",
         "title": "AI Engineering Intern - Slm",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -382085,7 +382085,7 @@
         "company_name": "Veolia",
         "id": "08eb112c-1ff2-4e94-8c04-f37539ea96e8",
         "title": "AI Engineering Intern - LLM",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -386934,7 +386934,7 @@
         "company_name": "The Walt Disney Company",
         "id": "dc95078e-6715-4d38-8d65-d815efc85633",
         "title": "Character TD Intern - Character Simulation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389001,7 +389001,7 @@
         "company_name": "Artisan Partners",
         "id": "9d1fed06-8936-43e3-9ca7-838c190e5fdb",
         "title": "Emerging Markets Debt Trading Desk \u2013 Summer Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391537,7 +391537,7 @@
         "company_name": "Insulet Corporation",
         "id": "097ee506-a06f-4d99-898a-063657f17a43",
         "title": "Co-op \u2013 Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -396230,7 +396230,7 @@
         "company_name": "Barry-Wehmiller",
         "id": "fe686cbc-5db4-426e-bbc2-f476b17ad5f7",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -399357,7 +399357,7 @@
         "company_name": "MAXISIQ",
         "id": "9d7e59fd-0609-4848-be43-ee8999d87a91",
         "title": "Software Engineer Intern - Spring - Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -399591,7 +399591,7 @@
         "company_name": "Veolia",
         "id": "b25826ea-a75e-4d98-9795-3c782b7d687c",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -401783,7 +401783,7 @@
         "company_name": "Northwestern Mutual",
         "id": "6b2618f5-a90a-4e05-8087-8c2f6b8db621",
         "title": "Data Engineering Internship - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
