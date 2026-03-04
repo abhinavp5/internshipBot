@@ -397639,7 +397639,7 @@
         "company_name": "KLA",
         "id": "ce32fc8c-badc-4aa4-b475-f5265d7ca849",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -406265,5 +406265,26 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of Montreal",
+        "id": "bc72b63e-6ae0-4a9a-8b08-12b958fbe06b",
+        "title": "Junior Analyst  Co-op/Internship - Distribution Strategy",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772640735,
+        "date_posted": 1772640735,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Analyst--Distribution-Strategy--Summer-2026--Co-op-Internship----4-months_R260006751",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
