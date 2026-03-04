@@ -265527,7 +265527,7 @@
         "company_name": "General Motors",
         "id": "3e9f670d-3567-47cd-9550-dd7c47787dcb",
         "title": "Intern - Software Engineer - Autonomous Robot",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -351217,7 +351217,7 @@
         "company_name": "Merck",
         "id": "998c5619-0de8-4683-aafe-30563066ad48",
         "title": "Future Talent Program Image Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368421,7 +368421,7 @@
         "company_name": "ABB",
         "id": "6deb8d90-8f07-4355-a058-9ae3c41ecc15",
         "title": "Application Engineering/OEM Hub Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379159,7 +379159,7 @@
         "company_name": "Bank of Montreal",
         "id": "05ec054b-8383-4f55-b7a7-3b3a1813f1aa",
         "title": "Junior Engineer \u2013 Co-op/Internship - Electronic Trading Infrastructure - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392813,7 +392813,7 @@
         "company_name": "KBR",
         "id": "de4f89fd-5ce6-4881-8f56-58406558115e",
         "title": "National Security Solutions Intern - Nss",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -396232,7 +396232,7 @@
         "company_name": "Grand Canyon University",
         "id": "179bf313-c957-462d-8e92-b989fa85a6ed",
         "title": "Graduate Assistant - Admin Support Research - College of Doctoral Studies",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -405990,6 +405990,53 @@
             "PhD",
             "JD",
             "MD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tempus",
+        "id": "1201310d-9dd4-43f8-aea9-891ffcc7cca8",
+        "title": "Scientific Solutions Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772631158,
+        "date_posted": 1772178789,
+        "url": "https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Chicago/Scientific-Solutions-Summer-Analyst_JR202600155",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Tempus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson Matthey",
+        "id": "7f8fcec8-c961-497f-99ee-c15d0bcbf1a0",
+        "title": "Industrial Placement Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1772632521,
+        "date_posted": 1772546622,
+        "url": "https://matthey.wd3.myworkdayjobs.com/Ext_Career_Site/job/Billingham---UK/Industrial-Placement-Student_R-014400",
+        "locations": [
+            "Durham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Matthey",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
