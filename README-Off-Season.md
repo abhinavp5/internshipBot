@@ -19776,7 +19776,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Stratford-upon-Avon, UK</td>
 <td>Winter 2025</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Tenstorrent?utm_source=GHList&utm_medium=company">Tenstorrent</a></strong></td>
@@ -30713,7 +30713,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Axon?utm_source=GHList&utm_medium=company">Axon</a></strong></td>
 <td>2026 US Embedded Engineering Internship - </td>
 <td>Boston, MA<br>Seattle, WA</td>
 <td>Winter 2025</td>
