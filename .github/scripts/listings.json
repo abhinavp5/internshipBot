@@ -22,26 +22,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "DRW",
-        "id": "ef6506d6-93a9-4318-b4e7-06d8ddccb512",
-        "title": "Software Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1751915338,
-        "date_posted": 1751915338,
-        "url": "https://job-boards.greenhouse.io/drweng/jobs/6926715",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/DRW",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Brevian",
         "id": "6fecfd03-e904-40de-a8ac-01b155f911de",
         "title": "Software Engineering Intern",
@@ -128326,7 +128306,7 @@
         "company_name": "ibotta",
         "id": "5e73567b-5af6-46e7-976a-f2640f0626e6",
         "title": "Business Intelligence Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -146748,7 +146728,7 @@
         "company_name": "Keysight Technologies",
         "id": "933c51df-fb26-43fc-9760-2eb5cbfc0c36",
         "title": "Measurement Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -279140,7 +279120,7 @@
         "company_name": "Nokia",
         "id": "e71ed725-b3f0-4286-8935-11cf461a9bcc",
         "title": "Security Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -290854,7 +290834,7 @@
         "company_name": "Cox",
         "id": "76ea4d3f-8dee-4614-9fff-e33f103f27b8",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -320574,7 +320554,7 @@
         "company_name": "Woven",
         "id": "ee5c8306-67a2-470a-86b7-40d200446c5b",
         "title": "Data Scientist Intern - Ego and Ado Decision",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -340278,7 +340258,7 @@
         "company_name": "Blue Cross and Blue Shield of Minnesota",
         "id": "4db08508-e3f0-48ae-a672-faa4e3a33975",
         "title": "Intern Enterprise Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -348601,7 +348581,7 @@
         "company_name": " CCC Intelligent Solutions",
         "id": "e84cae09-02ff-465a-87b3-8f96bf9a3023",
         "title": "Product Analyst Intern Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376786,7 +376766,7 @@
         "company_name": "Sony",
         "id": "690e5960-bb4c-4b04-b450-cda3594db89e",
         "title": "Intern - A&R Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391295,7 +391275,7 @@
         "company_name": "Brunswick",
         "id": "1f21ac5e-c10c-4e04-bd74-c642e1424839",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
