@@ -344688,7 +344688,7 @@
         "company_name": "Nidec",
         "id": "306a1b33-4ef7-4ce5-a3ac-8924d73a7c18",
         "title": "Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -349657,7 +349657,7 @@
         "company_name": "RTX",
         "id": "5bacc780-6178-49f5-b6ff-e2ab40d1033b",
         "title": "Intern - Proactive Engine Health Monitoring - Engine Performance Monitoring",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -389993,7 +389993,7 @@
         "company_name": "Salesforce",
         "id": "9bb16535-afab-4f6e-8ed0-7bffa4636116",
         "title": "Intern \u2013 Marketing Co-op - Enablement Operations or Marketing Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
