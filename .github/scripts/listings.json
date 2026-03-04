@@ -196926,28 +196926,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "IMC Trading",
-        "id": "c4f18c24-48fc-4a75-8805-2d1ae23d68d6",
-        "title": "Quantitative Research Intern - PhD",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1751881358,
-        "date_posted": 1751881358,
-        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4631802101",
-        "locations": [
-            "Chicago, IL",
-            "Sydney NSW, Australia"
-        ],
-        "company_url": "https://simplify.jobs/c/IMC-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "6b627660-4b30-4447-a7f9-07b356553845",
@@ -343119,7 +343097,7 @@
         "company_name": "Zoom",
         "id": "be7b0980-dce6-4db3-ac24-14edcbe95d71",
         "title": "AI/ML Intern - Agentic Retrieval & Enterprise RAG",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343234,7 +343212,7 @@
         "company_name": "Zoom",
         "id": "73316946-4194-4aab-8e5e-06f0a47c2e46",
         "title": "Enterprise Graph Retrieval Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -401304,7 +401282,7 @@
         "company_name": "Applied Materials",
         "id": "38ff22cc-1e07-4c35-a28c-973ca31ea412",
         "title": "AI Algorithms Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -402549,7 +402527,7 @@
         "company_name": "Hawk-Eye Innovations",
         "id": "a2c84b74-2810-4783-8f9e-82637d56d092",
         "title": "College Sports Systems Technician - Michigan State University",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -402959,7 +402937,7 @@
         "company_name": "Western Digital",
         "id": "ba74de5d-efe6-4e70-95ab-b0476b334186",
         "title": "Co-op - Read/Write Channel Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -403102,7 +403080,7 @@
         "company_name": "Eataly",
         "id": "51bc311b-c00c-4cba-849f-af2882c8a504",
         "title": "Product Intern - Eataly Corporate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -405955,6 +405933,30 @@
             "California"
         ],
         "company_url": "https://simplify.jobs/c/SoFi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lydian",
+        "id": "647cc525-ecdf-4fe5-8325-26d698458f64",
+        "title": "Catalyst R&D Co-op - Fuel Production",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772617330,
+        "date_posted": 1772493593,
+        "url": "https://jobs.ashbyhq.com/lydian/00a10b7d-6014-4360-8674-742d9420dca9/application",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lydian",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
