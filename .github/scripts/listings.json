@@ -385327,7 +385327,7 @@
         "company_name": "Elsevier",
         "id": "5e305bd1-3b99-43ea-994a-0141f5dea7d6",
         "title": "Software Engineer Intern - Compass",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -394756,7 +394756,7 @@
         "company_name": "RTX",
         "id": "1546a16a-1d33-48a6-8e60-58fd9a3eb95e",
         "title": "Intern - AI/ML Engineering Methods",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
