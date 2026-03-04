@@ -128707,7 +128707,7 @@
         "company_name": "ibotta",
         "id": "38576c07-d682-4692-ae8c-0c12c7164844",
         "title": "Data Engineer Intern - Data Infrastructure and Compliance Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -253350,7 +253350,7 @@
         "company_name": "Nokia",
         "id": "b807a63c-2fe7-485f-9f8a-279c1b5d16f1",
         "title": "Bell Labs Radio Systems 6G Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -320554,7 +320554,7 @@
         "company_name": "Woven",
         "id": "ee5c8306-67a2-470a-86b7-40d200446c5b",
         "title": "Data Scientist Intern - Ego and Ado Decision",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -358373,7 +358373,7 @@
         "company_name": "Faculty AI",
         "id": "af167c7b-5780-4a52-ad60-7f665cece17b",
         "title": "Faculty Fellowship Programme - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -380366,7 +380366,7 @@
         "company_name": "GE Healthcare",
         "id": "5906e0c0-688c-4926-9bec-43a3a01cb3eb",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380600,7 +380600,7 @@
         "company_name": "GE Healthcare",
         "id": "04d2311a-32e6-4e4e-9720-13727d9ce2e5",
         "title": "Software Engineering Intern - MIM Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -387658,7 +387658,7 @@
         "company_name": "GE Healthcare",
         "id": "97da319b-1229-457b-9905-1fa06bd4e322",
         "title": "Software Engineer - Workflow Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -401373,7 +401373,7 @@
         "company_name": "Motorola",
         "id": "1c3fb83a-54bd-4346-b8b1-9fc5c502ac6d",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
