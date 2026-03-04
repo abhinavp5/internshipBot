@@ -228383,7 +228383,7 @@
         "company_name": "Intuitive Surgical",
         "id": "549d8449-d93d-4fd5-b514-2a6d6805ec6e",
         "title": "AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -229409,7 +229409,7 @@
         "company_name": "Intuitive Surgical",
         "id": "e0d9fd04-ca06-4136-9e90-c39d4b80f9d7",
         "title": "AI Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -311949,7 +311949,7 @@
         "company_name": "Westgate Resorts",
         "id": "7e52c5f8-c50f-4bc3-9561-7da851eda20e",
         "title": "Mortgage Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -318346,7 +318346,7 @@
         "company_name": "Westgate Resorts",
         "id": "701e8177-9557-44c2-a882-1a39d0b2a4a7",
         "title": "Mortgage Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -382612,7 +382612,7 @@
         "company_name": "Box",
         "id": "e264f6ed-d02f-4138-9e9a-dcce1ab4b6c2",
         "title": "Product Management Intern - Internal Developer Platforms",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -394656,7 +394656,7 @@
         "company_name": "Elsevier",
         "id": "88079976-0e90-49ad-975b-26df366789da",
         "title": "Knowledge & AI Optimization Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -405492,6 +405492,76 @@
             "Cedar Rapids, IA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "MassMutual Ascend",
+        "id": "eb006b65-2601-41b8-831d-cfc390173fa5",
+        "title": "Middleware Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772608404,
+        "date_posted": 1772608404,
+        "url": "https://massmutual.wd1.myworkdayjobs.com/MMAscendCareers/job/Cincinnati-OH/Middleware-Intern--Summer-2026-_R19942",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/MassMutual-Ascend",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MassMutual Ascend",
+        "id": "d98f01da-aa3e-409a-a45a-0cfd9b3caaba",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772608409,
+        "date_posted": 1772608409,
+        "url": "https://massmutual.wd1.myworkdayjobs.com/MMAscendCareers/job/Cincinnati-OH/Data-Analytics-Intern---Customer-Experience--Summer-2026-_R19937",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/MassMutual-Ascend",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MassMutual Ascend",
+        "id": "4fc5be23-0ef0-4531-b885-d786f4bfe0e1",
+        "title": "Data Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772608407,
+        "date_posted": 1772608407,
+        "url": "https://massmutual.wd1.myworkdayjobs.com/MMAscendCareers/job/Cincinnati-OH/Data-Management-Intern--Summer-2026-_R19940",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/MassMutual-Ascend",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
