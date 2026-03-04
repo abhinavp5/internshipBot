@@ -20,26 +20,6 @@
         "category": "Quantitative Finance"
     },
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Brevian",
-        "id": "6fecfd03-e904-40de-a8ac-01b155f911de",
-        "title": "Software Engineering Intern",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1751927638,
-        "date_posted": 1751927638,
-        "url": "https://ats.rippling.com/brevian-careers/jobs/0c7d22e5-4522-47e6-8f98-69a64c9ab484",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Brevian",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1751931887,
         "url": "https://careers.bankofamerica.com/en-us/students/job-detail/12924/global-operations-development-summer-analyst-program-2026-multiple-locations",
         "company_name": "Bank of America",
@@ -1443,26 +1423,6 @@
             "Phoenix, AZ"
         ],
         "company_url": "https://simplify.jobs/c/McKinney",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "iSono Health",
-        "id": "11e59e53-7009-4f00-9efa-175b35ee840f",
-        "title": "Software Engineering Intern (Internship)",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1751927942,
-        "date_posted": 1751927942,
-        "url": "https://ats.rippling.com/isonohealth/jobs/67372c25-f4fb-4d38-8aae-6df5d74e5467",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Isono-Health",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -25038,29 +24998,6 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Boston-Properties",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Interpublic Group",
-        "id": "cfa4e5fa-ca15-4618-b80e-d543c1068404",
-        "title": "IT Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1751929171,
-        "date_posted": 1751929171,
-        "url": "https://job-boards.greenhouse.io/interpublicgroup/jobs/5583243004",
-        "locations": [
-            "Omaha, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/Interpublic-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -84986,7 +84923,7 @@
         "company_name": "Keysight Technologies",
         "id": "d827c9fa-528d-4483-ab29-6e16765fa752",
         "title": "Marketing Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -92448,7 +92385,7 @@
         "company_name": "Acadian Asset Management",
         "id": "758b295c-9f13-4dce-bf34-549f0cfc4833",
         "title": "Quantitative Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -129780,7 +129717,7 @@
         "company_name": "ZipRecruiter",
         "id": "c5c7ce69-1b04-4fc6-a655-de614ad3b844",
         "title": "Software Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -235100,7 +235037,7 @@
         "company_name": "Dallas Fort Worth International Airport",
         "id": "52dd23b5-5e2c-4511-a008-fb9293244a1d",
         "title": "Undergraduate Intern - Enterprise Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -249867,7 +249804,7 @@
         "company_name": "The Washington Post",
         "id": "cbd19d8a-98f7-48cb-817e-adfdb205810c",
         "title": "Intern - Site Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -253140,7 +253077,7 @@
         "company_name": "GM financial",
         "id": "e3432d39-f214-481a-ab27-f9b1101b22c3",
         "title": "Intern \u2013 Software Development Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -266106,7 +266043,7 @@
         "company_name": "Geotab",
         "id": "61f97e44-d95e-48ce-a70f-b570ffa0cb23",
         "title": "Embedded Developer Intern - Vehicle Data Development & Tooling - Summer/May 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -295126,7 +295063,7 @@
         "company_name": "Johnson Controls",
         "id": "972c34ef-236d-484c-82f7-52b512949fae",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -313241,7 +313178,7 @@
         "company_name": "Nokia",
         "id": "05610eab-2f8c-463d-baf6-1f698641b1e1",
         "title": "Silicon Photonics Design & Test Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332484,7 +332421,7 @@
         "company_name": "Nissan Global",
         "id": "c4a7a170-7d25-4841-8419-ca078c4b1dd5",
         "title": "Machine Learning Research Intern - Perception - Silicon Valley','CA','Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -341719,7 +341656,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "e29deb83-03e5-411a-9b18-dd2ffe53d7c4",
         "title": "Personal Systems Hardware Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -348961,7 +348898,7 @@
         "company_name": "HARMAN International",
         "id": "8ad647b1-407e-488b-adf4-818a8eb8b9a1",
         "title": "Summer Intern - Software Developer - Digital",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -382220,7 +382157,7 @@
         "company_name": "Zoox",
         "id": "bfe63b5c-8fde-4077-b32e-0cf6b73e8361",
         "title": "AI Applications Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -395297,7 +395234,7 @@
         "company_name": "Intel",
         "id": "a346da05-b079-43b4-93d6-0c97d9acb44c",
         "title": "Compiler Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -396221,7 +396158,7 @@
         "company_name": "Samsung Research America",
         "id": "006ab923-6fc8-4014-a88f-d05e3e7e69da",
         "title": "Intern - Bixby Edge AI - Language",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -398281,7 +398218,7 @@
         "company_name": "Micron Technology",
         "id": "2b7aac3b-501d-4c42-a047-78aaff755ff3",
         "title": "Intern \u2013 Design Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -399798,7 +399735,7 @@
         "company_name": "L3Harris Technologies",
         "id": "8768f978-25d8-4e87-91a5-2e9093d5dbc6",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -404094,7 +404031,7 @@
         "company_name": "Toshiba Global Commerce",
         "id": "464ead1a-a10c-452d-8a1d-4d29f4966605",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -405656,7 +405593,7 @@
         "company_name": "Marmon Holdings",
         "id": "68bc34a3-b49b-4b92-bbd3-8cf4e6ff9409",
         "title": "Industrial IoT & Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
