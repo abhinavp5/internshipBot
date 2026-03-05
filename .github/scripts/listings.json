@@ -34831,7 +34831,7 @@
         "company_name": "Zebra Technologies",
         "id": "c43f9f29-e4c1-40f2-a701-9942c3b3f78f",
         "title": "2026 Summer Internship - Software Engineer Mobile Computing - Corporate and Business Services - CEO",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -89515,7 +89515,7 @@
         "company_name": "ByteDance",
         "id": "97f73208-6287-45ff-bd8e-22e726ed04d3",
         "title": "Low Latency Video Codec Algorithm Intern - Multimedia Lab - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -130074,7 +130074,7 @@
         "company_name": "Hermeus",
         "id": "1d4cbb97-1f79-44f7-a0dd-faa505b77388",
         "title": "Hardware-In-the-Loop Software Engineering Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -189282,7 +189282,7 @@
         "company_name": "Electronic Arts",
         "id": "feb86ed9-f9a1-48c4-8e39-80b1a396a36b",
         "title": "Assistant Producer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -201294,7 +201294,7 @@
         "company_name": "Electronic Arts",
         "id": "a2d210d4-51b9-42f7-8334-c30dc527edac",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -211800,7 +211800,7 @@
         "company_name": "Hermeus",
         "id": "33143a33-e4b0-4ca1-b416-5966ad2f9324",
         "title": "Test Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -223282,7 +223282,7 @@
         "company_name": "Zoox",
         "id": "78f46ca7-c4b6-4c9f-9740-f5298240a200",
         "title": "Machine Learning Engineer Intern - Perception",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -226439,7 +226439,7 @@
         "company_name": "Rivian",
         "id": "f340a8f7-56c0-4437-aa88-ceba020da404",
         "title": "Artificial Intelligence \u2013 Summer 2026 Internships - Machine Learning & Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -254820,7 +254820,7 @@
         "company_name": "Zipline",
         "id": "d66d806b-59e7-4458-8b67-17a2c515dc3b",
         "title": "Strategic Operations Intern - Data & Tooling",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -255564,7 +255564,7 @@
         "company_name": "Hearst",
         "id": "7b6b33e8-f65c-45b7-99d3-a88dcff075de",
         "title": "WGAL Technical/Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -299169,7 +299169,7 @@
         "company_name": "Electronic Arts",
         "id": "dc6bddff-a77f-4efd-ad1f-75717089bcd8",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -300768,7 +300768,7 @@
         "company_name": "Electronic Arts",
         "id": "e99ef696-c9cd-4169-b008-5a63bacb61cc",
         "title": "Game Creation SW Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -310425,7 +310425,7 @@
         "company_name": "Elf Beauty",
         "id": "bf4e8539-91bd-42b9-94c3-d9972460a48f",
         "title": "Intern - Product Marketing Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -327116,7 +327116,7 @@
         "company_name": "Electronic Arts",
         "id": "422d3cc3-4c25-4da8-9805-ec9cdab358f1",
         "title": "Software Engineer Co Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -338195,7 +338195,7 @@
         "company_name": "Rheem",
         "id": "181e1ab7-c5e9-4b1f-99df-377099f36c6b",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -364891,7 +364891,7 @@
         "company_name": "Cadence Design Systems",
         "id": "f2f02fca-1dc9-4797-85b7-34ebc7043a25",
         "title": "SVG Software Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364914,7 +364914,7 @@
         "company_name": "Cadence Design Systems",
         "id": "6b87aae3-600e-44cf-a1da-bf644ac65dce",
         "title": "SVG Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -373347,7 +373347,7 @@
         "company_name": "The Walt Disney Company",
         "id": "b353c33f-2f00-47f6-8b7b-34a6811b649c",
         "title": "WDI Show Control Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -373444,7 +373444,7 @@
         "company_name": "The Walt Disney Company",
         "id": "67c5a703-ef00-46ef-8d20-b1fb19d61026",
         "title": "WDI Show Control Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -382887,7 +382887,7 @@
         "company_name": "PG&E",
         "id": "f455b5c3-6d29-4593-94e6-6f90f0b7d43a",
         "title": "Data Scientist Intern - Diablo Canyon Power Plant",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389587,7 +389587,7 @@
         "company_name": "ZoomInfo",
         "id": "d3b9ae41-709d-47d8-9942-7f67a1ff249a",
         "title": "Software Engineer Intern - AI Products",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -391677,7 +391677,7 @@
         "company_name": "Empower",
         "id": "f67733bf-4967-49a3-83a5-d39a5f5640f7",
         "title": "Intern-Mobile Engineer-Android",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392029,7 +392029,7 @@
         "company_name": "Uber",
         "id": "5a0d63f9-4abc-44ce-b82f-de5495fbd26c",
         "title": "PhD Software Engineer Intern - Delivery Marketplace - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392922,7 +392922,7 @@
         "company_name": "RTX",
         "id": "d7c69185-d8a9-4502-84a5-fff6350a9bca",
         "title": "Systems Engineer Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -399595,7 +399595,7 @@
         "company_name": "Northrop Grumman",
         "id": "82c32a34-b399-4849-b51f-cd6837e41f32",
         "title": "Hardware Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -405682,7 +405682,7 @@
         "company_name": "Harris Computer",
         "id": "a758b1b5-b73c-43f6-b183-8b5af49795e1",
         "title": "Software Developer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -407556,6 +407556,50 @@
             "Columbus, IN"
         ],
         "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Westinghouse Electric Company",
+        "id": "fc41aafe-7973-4d51-988b-62e6a9eadfb3",
+        "title": "Electromechanical Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772703551,
+        "date_posted": 1765409399,
+        "url": "https://careers.westinghousenuclear.com/job/Blairsville-Electromechanical-Engineering-Intern-Summer-2026-PA-15717/1324179500/?ats=successfactors",
+        "locations": [
+            "Greensburg, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Allium",
+        "id": "07f3b181-c4d0-4e58-afd6-36cfe0189518",
+        "title": "Generalist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772703388,
+        "date_posted": 1754070403,
+        "url": "https://jobs.ashbyhq.com/allium/8f86b4af-6e4d-42ab-ab6d-6155443542d3/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Allium",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
