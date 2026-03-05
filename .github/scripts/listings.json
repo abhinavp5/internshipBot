@@ -334219,7 +334219,7 @@
         "company_name": "Harbinger Motors",
         "id": "219e9778-285a-48da-8588-810e9d3bd6d9",
         "title": "Intern Battery",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -349242,7 +349242,7 @@
         "company_name": "John Deere",
         "id": "3507650b-936e-4062-ab08-a7621eb32f10",
         "title": "Part Time Student - Software Engineering - Champaign IL Technology CA",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -373514,7 +373514,7 @@
         "company_name": "The Walt Disney Company",
         "id": "46834839-cc3f-4f63-a1f6-aa819993fc27",
         "title": "WDI Show Control Software Intern - Florida - Summer/Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -373535,7 +373535,7 @@
         "company_name": "The Walt Disney Company",
         "id": "43ff6305-4345-4ef6-a337-efd08dba1cc2",
         "title": "WDI Show Control Software Intern - Florida - Summer/Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -388643,7 +388643,7 @@
         "company_name": "The Walt Disney Company",
         "id": "1a182cf8-8d98-4214-8901-804164bc053c",
         "title": "System App Dev & Sustainment Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -388667,7 +388667,7 @@
         "company_name": "The Walt Disney Company",
         "id": "ba67d168-c343-47e3-9ff4-ccfecd072807",
         "title": "System App Dev & Sustainment Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -402745,7 +402745,7 @@
         "company_name": "TD Bank",
         "id": "bbb8b504-e60b-49db-8914-b4afad0a6c6b",
         "title": "Business Systems Analyst - Preferred Candidate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -403842,7 +403842,7 @@
         "company_name": "RTX",
         "id": "3699f23b-3df9-46de-a6c6-bd44220bf576",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
