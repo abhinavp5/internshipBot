@@ -43257,7 +43257,7 @@
         "company_name": "GE Healthcare",
         "id": "0e63408d-feb9-4a12-b2cb-8be08751d358",
         "title": "Edison Engineering Development Program Intern - Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -265026,7 +265026,7 @@
         "company_name": "Field AI",
         "id": "0ea30ac2-8b1c-4f15-9383-2bb5c731b02a",
         "title": "Field Application Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -300328,7 +300328,7 @@
         "company_name": "PA Consulting",
         "id": "a6c20ee9-648a-4a18-a7f4-af646dcdf7ef",
         "title": "2026 Apprentice - Digital - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -301397,7 +301397,7 @@
         "company_name": "Microsoft",
         "id": "9785d180-d1f1-4ca5-8aff-7170272d88fc",
         "title": "Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -365410,7 +365410,7 @@
         "company_name": "PA Consulting",
         "id": "867a10c2-b56f-4ac7-8fe6-80c2b0b698a4",
         "title": "Intern - Digital - Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -407465,5 +407465,99 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "id": "9e0a6eb7-9341-4c94-b475-1e2922f7a7a8",
+        "title": "Critical Infrastructure Analysis Graduate Intern - Cyber and Critical Infrastructure",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772695141,
+        "date_posted": 1772695141,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990011302856",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LLNL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Skyryse",
+        "id": "7ce8b364-7db7-4dd7-88fe-2589a12ecaa3",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772695175,
+        "date_posted": 1772695175,
+        "url": "https://job-boards.greenhouse.io/skyryse/jobs/7178741",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Skyryse",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cummins",
+        "id": "a31b322b-0bf3-4d33-b3ef-e10d1a9a4639",
+        "title": "Product Engineering \u2013 Co-op Positions",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772694685,
+        "date_posted": 1772694685,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2426243",
+        "locations": [
+            "Columbus, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cummins",
+        "id": "6b8ccd2e-443b-4f2e-aaa2-2de2b4ded8d9",
+        "title": "Product Systems Validation Co-Op Positions",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772694687,
+        "date_posted": 1772694687,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2426259",
+        "locations": [
+            "Columbus, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
