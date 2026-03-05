@@ -101322,7 +101322,7 @@
         "company_name": "PIMCO",
         "id": "77dbeb7f-fb11-4413-a4c1-468e15a16e8c",
         "title": "Summer Internship - Client Solutions & Analytics Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -212431,7 +212431,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Visa",
-        "id": "0ed6cb36-9c49-457e-987a-0bd0bf11e256",
+        "id": "a010f1f2-6a04-4d2b-8281-df27a33235b0",
         "title": "Software Engineer Intern",
         "active": true,
         "terms": [
@@ -219219,7 +219219,7 @@
         "company_name": "Cadence Design Systems",
         "id": "68df64ff-a7b1-4749-83e9-e3a9633bd0c1",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -264722,7 +264722,7 @@
         "company_name": "Field AI",
         "id": "c7cb4630-f6bd-476e-95e0-9cc6b16ab694",
         "title": "Field Application Engineer-Intern - Part-time - Salt Lake City, Utah",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -283833,7 +283833,7 @@
         "company_name": "Pine Rest",
         "id": "57069425-c65a-4977-9aa7-31b6c6e7fa62",
         "title": "Intern \u2013 Master's Level Social Worker - Inpatient and PHP",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -300328,7 +300328,7 @@
         "company_name": "PA Consulting",
         "id": "a6c20ee9-648a-4a18-a7f4-af646dcdf7ef",
         "title": "2026 Apprentice - Digital - Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -309911,7 +309911,7 @@
         "company_name": "Cadence Design Systems",
         "id": "d53693e3-f498-473e-8265-53c674412613",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -357018,7 +357018,7 @@
         "company_name": "Guidewire",
         "id": "28f5044f-3ad2-481e-a14e-218db9fa2089",
         "title": "Strategy & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -365410,7 +365410,7 @@
         "company_name": "PA Consulting",
         "id": "867a10c2-b56f-4ac7-8fe6-80c2b0b698a4",
         "title": "Intern - Digital - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -372822,7 +372822,7 @@
         "company_name": "Western Digital",
         "id": "fadeae76-fe57-4a1c-be21-b1253ea5dfb2",
         "title": "Summer 2026 Co-Op - Read/Write Channel Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -375439,7 +375439,7 @@
         "company_name": "Fiserv",
         "id": "ab2303d9-7665-4a68-bfd1-e2e7657e37fb",
         "title": "Corporate Technology Internship - Application Development / Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2028",
             "Spring 2028",
@@ -375865,7 +375865,7 @@
         "company_name": "Veolia",
         "id": "68c7c03c-a6b7-49e4-8c86-15fb3a873c67",
         "title": "Integration Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -393874,7 +393874,7 @@
         "company_name": "The Wonderful Company",
         "id": "f0c44c69-0647-478e-869d-c57b31071e10",
         "title": "Wonderful Scholar Summer Internship - EHS Trainings",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -393920,7 +393920,7 @@
         "company_name": "The Wonderful Company",
         "id": "752de0be-4f7a-4bcc-b1f6-ea8597b9cba1",
         "title": "Intern - EHS Trainings",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -398263,7 +398263,7 @@
         "company_name": "Veolia",
         "id": "1294ecee-c924-46a8-8334-3a796e72751e",
         "title": "Integration Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -401320,7 +401320,7 @@
         "company_name": "Western Digital",
         "id": "ba74de5d-efe6-4e70-95ab-b0476b334186",
         "title": "Co-op - Read/Write Channel Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -401830,7 +401830,7 @@
         "company_name": "The Wonderful Company",
         "id": "c3d58852-7ad0-4c95-8a23-3a55a6673375",
         "title": "Wonderful Scholar Intern - EHS Data Management Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -401921,7 +401921,7 @@
         "company_name": "The Wonderful Company",
         "id": "0606f647-72ac-40b5-b1a8-4bac7a793dbc",
         "title": "Intern - EHS Data Management Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -407603,5 +407603,101 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Field AI",
+        "id": "89115513-4549-4b36-8c92-3e19b77adf9e",
+        "title": "Field Application Engineer-Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772708070,
+        "date_posted": 1772708070,
+        "url": "https://jobs.lever.co/field-ai/626804c5-de5c-4754-88cd-f24c29775f51/apply",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Field-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Arcadis",
+        "id": "1c43b157-73ca-4f7c-a8bd-b0e651289eb2",
+        "title": "Graduate Network Modeller",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1772708055,
+        "date_posted": 1772708055,
+        "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/38895",
+        "locations": [
+            "Exeter, UK",
+            "Warrington, UK",
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Arcadis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Roku",
+        "id": "046d0cdb-8261-4fb0-82bc-ee061f91fce5",
+        "title": "Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772707969,
+        "date_posted": 1772707969,
+        "url": "https://www.weareroku.com/jobs/7677402?gh_jid=7677402",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Roku",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tencent",
+        "id": "f682356d-55da-4f90-987d-77f140cc652d",
+        "title": "Hunyuan Multimodal Algorithm Researcher Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772707834,
+        "date_posted": 1772707834,
+        "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
