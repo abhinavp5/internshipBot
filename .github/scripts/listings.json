@@ -377196,7 +377196,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "254586ca-1d9d-44bb-82b5-8bdf7e03ec73",
         "title": "Relationship Manager \u2013 Business Markets",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -377240,7 +377240,7 @@
         "company_name": "Cadence Design Systems",
         "id": "e39b28c2-dd70-4eda-a4fb-8eb49239c9a0",
         "title": "Product Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -377307,7 +377307,7 @@
         "company_name": "Cadence Design Systems",
         "id": "7ac05676-98dc-4606-a57a-a3639b4f1108",
         "title": "Product Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
