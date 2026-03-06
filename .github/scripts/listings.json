@@ -41211,7 +41211,7 @@
         "company_name": "Stryker",
         "id": "07a6ba14-b0f8-498d-8e24-c8d5fd0d4be6",
         "title": "2026 Summer Intern - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -113350,7 +113350,7 @@
         "company_name": "nVent",
         "id": "d547ccce-a55b-4dcd-be8d-3763816d0544",
         "title": "Software Engineering Co-op - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -236617,7 +236617,7 @@
         "company_name": "Barclays",
         "id": "b1b1a068-364f-43f1-bd43-7ac2e340b17c",
         "title": "Sales Trading and Structuring Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -268688,7 +268688,7 @@
         "company_name": "Leidos",
         "id": "987fefef-4334-4f61-9cb5-ef0303134d59",
         "title": "SRE Metrics Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -276824,7 +276824,7 @@
         "company_name": "Fastly",
         "id": "1c46f191-e33b-47f5-97a7-4401f6eb62ac",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -387248,7 +387248,7 @@
         "company_name": "Strategic Education",
         "id": "7e8bcbf5-d8f9-4113-95c1-6d6e1a88ed10",
         "title": "Intern \u2013 IT Engineering - Java / Google Cloud Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -388792,7 +388792,7 @@
         "company_name": "Inogen",
         "id": "7ec36c45-89c8-450c-9536-46455cd2a5bb",
         "title": "IT Data Security Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -405780,7 +405780,7 @@
         "company_name": "Calix",
         "id": "54bec4ef-28cb-492e-ab42-6680d91d037b",
         "title": "Software Engineer Intern - Cloud",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -410108,7 +410108,7 @@
         "company_name": "TD Bank",
         "id": "c4fd4a33-1467-4461-878e-02540b4753a8",
         "title": "Risk Management - Model Development Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
