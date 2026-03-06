@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "IPG DXTRA",
-        "id": "27c4c5c3-1337-433a-8e86-8bcdf2c57345",
-        "title": "Media Analytics Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752075934,
-        "date_posted": 1752075934,
-        "url": "https://job-boards.greenhouse.io/dxacirca/jobs/8065408002",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/IPG-DXTRA",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Ciena",
         "id": "ab843abc-edeb-45eb-90e0-c9cbc09a6bf9",
@@ -205758,7 +205738,7 @@
         "company_name": "Hitachi Energy",
         "id": "f9dba964-e13e-4db0-a12a-b1ea0d5d327e",
         "title": "Intern \u2013 Signal Engineering Software",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -233751,7 +233731,7 @@
         "company_name": "Danaher Corporation",
         "id": "81d50396-e37d-4534-b2ed-f47b8a0fe034",
         "title": "Intern Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -233770,9 +233750,9 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Danaher Corporation",
-        "id": "720e7274-1e29-47f6-bdde-896b956d5093",
+        "id": "233d16db-5b6a-4254-879c-3f26d4563b2f",
         "title": "Intern Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -264841,7 +264821,7 @@
         "company_name": "Oracle",
         "id": "7f14e069-ac26-435a-880f-22b58c864947",
         "title": "Cloud Product Release Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -372090,7 +372070,7 @@
         "company_name": "Leidos",
         "id": "af9e6893-7082-4d03-aa4c-14b6ec6841fb",
         "title": "Data Architecture & Governance Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379827,7 +379807,7 @@
         "company_name": "OCLC",
         "id": "62bc6a6d-bf21-4d02-b0d6-fe524e8e8a85",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -389507,7 +389487,7 @@
         "company_name": "ZoomInfo",
         "id": "d3b9ae41-709d-47d8-9942-7f67a1ff249a",
         "title": "Software Engineer Intern - AI Products",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391163,7 +391143,7 @@
         "company_name": "Rolls-Royce",
         "id": "846f5230-aa25-4b5b-a053-77098a55ceee",
         "title": "Undergraduate of the Year Intern - Invite Only",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -402665,7 +402645,7 @@
         "company_name": "TD Bank",
         "id": "bbb8b504-e60b-49db-8914-b4afad0a6c6b",
         "title": "Business Systems Analyst - Preferred Candidate",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -411700,5 +411680,212 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Walt Disney Company",
+        "id": "094d939d-c698-4092-ba76-859352c35265",
+        "title": "Level 4 Data Analyst Apprenticeship",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1772811500,
+        "date_posted": 1772811500,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/London-United-Kingdom/Level-4-Data-Analyst-Apprenticeship_10142267-2",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intermountain Healthcare",
+        "id": "5f8c98c7-22b2-46cb-b360-cfae67f861c9",
+        "title": "Data Analyst Intern-1",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772811158,
+        "date_posted": 1772811158,
+        "url": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Transformation-Center/Data-Analyst-Summer-Intern-1_R164274",
+        "locations": [
+            "Murray, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Intermountain-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Biogen",
+        "id": "69135df1-ca27-44d1-908e-153e283e9b6e",
+        "title": "Co-op \u2013 Artificial Intelligence Innovation",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1772810954,
+        "date_posted": 1772810954,
+        "url": "https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Artificial-Intelligence-Innovation_REQ22272",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Biogen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Arch Capital Group",
+        "id": "a7b2b82f-dcef-48d1-9de7-5a3667a66828",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772813331,
+        "date_posted": 1772813331,
+        "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Jersey-City-NJ-United-States-of-America/Software-Engineering-Intern_R26_200",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Arch-Capital-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "2ea8bfec-3f10-4425-8002-fd68442317ab",
+        "title": "Intern - Operations Program Management",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772813362,
+        "date_posted": 1772813362,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-d-t-2026-Gestion-des-programmes---Internship-Summer-2026-Operations-Program-Management_01809689",
+        "locations": [
+            "Longueuil, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1772814781,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jabil.wd5.myworkdayjobs.com/en-US/jabil_careers/job/Lexington-KY/Quality-Assurance-Intern---Cloud-Applications_J2437769",
+        "company_name": "Jabil",
+        "title": "Quality Assurance Intern \u2013 Cloud Applications",
+        "locations": [
+            "Lexington, KY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "d13b95da-4b0e-47aa-a2df-23daf088d0a1",
+        "date_posted": 1772814781,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1772814901,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://ultra.wd3.myworkdayjobs.com/en-US/ultra-careers/job/Columbia-City-IN-United-States/Embedded-Software-Engineering-Intern--Summer-2026-_REQ-11562",
+        "company_name": "Ultra Maritime",
+        "title": "Embedded Software Engineering Intern",
+        "locations": [
+            "Columbia City, IN"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "ef9d4d60-5daa-4491-bc7a-8631c7f58ec8",
+        "date_posted": 1772814901,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1772815002,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-ipipeline.icims.com/jobs/1596/software-developer-intern-%28summer-2026--professional-services%29/job",
+        "company_name": "iPipeline",
+        "title": "Software Developer Intern",
+        "locations": [
+            "Exton, PA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "0658fbad-79ca-4593-b287-15b0f6768914",
+        "date_posted": 1772815002,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1772815054,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-ipipeline.icims.com/jobs/1591/software-developer-intern-%28summer-2026---r%26d%29/job",
+        "company_name": "iPipeline",
+        "title": "Software Developer Intern",
+        "locations": [
+            "Fort Lauderdale, FL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "836b45e3-649a-47e1-9c61-e64923134dcb",
+        "date_posted": 1772815054,
+        "company_url": "",
+        "is_visible": true
     }
 ]
