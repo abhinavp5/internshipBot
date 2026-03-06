@@ -22499,7 +22499,7 @@
 <td>Product Management Intern Engineer - m/w/d</td>
 <td>Neukirchen-Vluyn, Germany</td>
 <td>🔒</td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/King?utm_source=GHList&utm_medium=company">King</a></strong></td>

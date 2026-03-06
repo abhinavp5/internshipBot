@@ -1488,7 +1488,7 @@
 <td>TA Instruments – Software Engineering Intern - Next Generation SW Platform</td>
 <td>New Castle, DE</td>
 <td><div align="center"><a href="https://uscareers-waters.icims.com/jobs/25342/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/55855bc9-70da-4291-ab57-b1c7b9259cd7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sigma-Computing?utm_source=GHList&utm_medium=company">Sigma Computing</a></strong></td>
@@ -1796,7 +1796,7 @@
 <td>Software Development Intern</td>
 <td>Fleet, UK</td>
 <td><div align="center"><a href="https://jobs.keysight.com/jobs/51347?lang=en-us&icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/63d02fbc-a3f0-4da7-948f-7b9c97209712?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/X-Development?utm_source=GHList&utm_medium=company">X Development</a></strong></td>
