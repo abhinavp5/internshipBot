@@ -348304,7 +348304,7 @@
         "company_name": "Ciena",
         "id": "42c450ea-b8ee-499d-a729-b2ebdac35ae2",
         "title": "Hardware Design and Verification Co-op - Pcba - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371909,7 +371909,7 @@
         "company_name": "Amazon",
         "id": "103e964c-f863-44c2-b559-b90efef2fc87",
         "title": "Software Development Engineer Apprentice - Month Fixed Term Contract",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -385850,9 +385850,9 @@
         ]
     },
     {
-        "date_updated": 1771948916,
+        "date_updated": 1772797315,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -385874,9 +385874,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1771948958,
+        "date_updated": 1772797315,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
