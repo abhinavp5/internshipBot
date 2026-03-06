@@ -1,25 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ciena",
-        "id": "ab843abc-edeb-45eb-90e0-c9cbc09a6bf9",
-        "title": "Software Co-op Student - Liquid Spectrum Applications",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752079584,
-        "date_posted": 1752079584,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Co-op-Student---Liquid-Spectrum-Applications--Fall-2025-_R028405",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1755041534,
         "url": "https://jobs.jobvite.com/careers/splunk-careers/job/oFhewfwq",
         "company_name": "Splunk",
@@ -411885,6 +411865,122 @@
         "source": "AlmondCroffle",
         "id": "836b45e3-649a-47e1-9c61-e64923134dcb",
         "date_posted": 1772815054,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1772815197,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://accuray.wd5.myworkdayjobs.com/en-US/external/job/Madison-WI/Data-Science-Intern_3081",
+        "company_name": "Accuray",
+        "title": "Data Science Intern",
+        "locations": [
+            "Madison, WI"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "f4c8b2a7-1bfb-4bd4-8cbb-fa97e52753d8",
+        "date_posted": 1772815197,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1772815310,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/58dfbc1d-233b-41c9-9416-712cc1268541",
+        "company_name": "Robert Bosch",
+        "title": "Foundation Models for Autonomous Driving - AI Engineering Intern",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "5eb0005c-42ae-4e11-b1e3-86bd036170e4",
+        "date_posted": 1772815310,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1772815328,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440",
+        "company_name": "Hermeus",
+        "title": "Flight Software Engineering Intern",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "category": "Hardware Engineering",
+        "source": "AlmondCroffle",
+        "id": "44bbff4b-6183-44c5-93b8-e082f78ee431",
+        "date_posted": 1772815328,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1772815447,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://jobs.smartrecruiters.com/Sandisk/89c7fb01-f845-4fd3-a58e-25d2d97e00ac",
+        "company_name": "Sandisk",
+        "title": "IT Data Science Intern (Business / Operations / Strategy)",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "af19a5ed-2832-4252-afef-affd8f6600b3",
+        "date_posted": 1772815447,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1772815523,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://zayo.wd1.myworkdayjobs.com/en-US/zayo_careers/job/CO---Denver/Intern---AI-and-Analytics-COE_R0016071",
+        "company_name": "Zayo",
+        "title": "Intern - AI and Analytics COE",
+        "locations": [
+            "Denver, CO"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "f0d1a9a1-5a06-4e78-9567-c4a40af2d769",
+        "date_posted": 1772815523,
         "company_url": "",
         "is_visible": true
     }
