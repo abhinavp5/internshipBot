@@ -1,45 +1,5 @@
 [
     {
-        "date_updated": 1755041534,
-        "url": "https://jobs.jobvite.com/careers/splunk-careers/job/oFhewfwq",
-        "company_name": "Splunk",
-        "title": "Site Reliability Engineer Intern",
-        "locations": [
-            "Remote"
-        ],
-        "terms": [
-            "Fall 2025"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "Vitamoon",
-        "id": "4ef69a7e-5eed-4888-8266-560682eba2db",
-        "date_posted": 1752080600,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Software Engineering"
-    },
-    {
-        "date_updated": 1754478380,
-        "url": "https://jobs.jobvite.com/careers/splunk-careers/job/ocD8vfwc",
-        "company_name": "Splunk",
-        "title": "Site Reliability Engineer Intern",
-        "locations": [
-            "Remote"
-        ],
-        "terms": [
-            "Fall 2025"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "Vitamoon",
-        "id": "0467d78e-d6ec-422b-b5f2-0a0b411e22cf",
-        "date_posted": 1752080685,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Software Engineering"
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Weber Shandwick",
