@@ -189356,7 +189356,7 @@
         "company_name": "Badger Meter",
         "id": "56044f53-3f40-4cba-85cb-7c804cc5928e",
         "title": "Systems Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -201452,7 +201452,7 @@
         "company_name": "Cadence Design Systems",
         "id": "11456c61-91f0-4737-9b32-d98782cd1064",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -309855,7 +309855,7 @@
         "company_name": "Cadence Design Systems",
         "id": "24bb2377-ba1f-4bc6-a8eb-8c6fb32ac329",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
