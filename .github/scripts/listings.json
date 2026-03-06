@@ -80560,7 +80560,7 @@
         "company_name": "Oshkosh",
         "id": "3152cf2a-720c-490c-875f-a14b3cdf971b",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -199110,7 +199110,7 @@
         "company_name": "Vanguard",
         "id": "5b334b82-4782-46ed-8836-6a81873e19b2",
         "title": "Application Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -239406,7 +239406,7 @@
         "company_name": "The Walt Disney Company",
         "id": "7a26d037-6f81-4b64-91c8-2963b256ecf5",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -279447,7 +279447,7 @@
         "company_name": "TD Synnex",
         "id": "b41d3ae2-96d0-4294-9b9c-aefe2d42d2fd",
         "title": "AI Pioneers Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -283985,7 +283985,7 @@
         "company_name": "Sherwin-Williams",
         "id": "778622f4-80e1-40eb-b835-65d1f89e7b37",
         "title": "R&D Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -296686,7 +296686,7 @@
         "company_name": "Sherwin-Williams",
         "id": "e14b48f3-f417-4e6d-9843-9426d2eaa12e",
         "title": "Leadership Development Program R&D",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -310735,7 +310735,7 @@
         "company_name": "The Federal Reserve System",
         "id": "22c98ece-13a0-4a7a-b0ba-6bfca7614fc7",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -312583,7 +312583,7 @@
         "company_name": "The Federal Reserve System",
         "id": "89c0ca26-ee39-44db-ab36-f239d02ca511",
         "title": "Internship - Research Facilitator - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -341996,7 +341996,7 @@
         "company_name": "Kaiser Permanente",
         "id": "4413f23d-873a-4176-87bf-93b13e0dc487",
         "title": "Application Development Bachelor's Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346759,7 +346759,7 @@
         "company_name": "Analytical Mechanics Associates",
         "id": "af7c609b-6c24-4ad3-98d7-c66140e1bb37",
         "title": "RSES Space Weather Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -349449,7 +349449,7 @@
         "company_name": "Sun Life",
         "id": "b5bed2df-19d6-48b3-a894-6cc3b0ad9c0f",
         "title": "Data Science Intern - Health & Risk Solutions - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -377389,7 +377389,7 @@
         "company_name": "Johnson & Johnson",
         "id": "2499010a-01e8-48bc-beb3-8dfe84cc21ed",
         "title": "Data Science Co-Op - Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -383424,7 +383424,7 @@
         "company_name": "Relativity",
         "id": "94441f31-e2ed-47c4-ae18-37b1a1c37bbf",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -383474,7 +383474,7 @@
         "company_name": "State Street",
         "id": "15ce39db-c353-4619-80d3-aba3102c84e8",
         "title": "Product Management - Summer Internship-CRD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -383986,7 +383986,7 @@
         "company_name": "Moog ",
         "id": "44a9f861-5cb7-4daa-b067-8868cbe686ba",
         "title": "Intern Systems Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -384010,7 +384010,7 @@
         "company_name": "Moog ",
         "id": "3071c5d9-d32b-43ef-9c88-a4fcbf2c4450",
         "title": "Intern \u2013 Mechanical Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -390361,7 +390361,7 @@
         "company_name": "City of Austin",
         "id": "2657fa50-a3f7-4e71-92ab-d24a659ed9be",
         "title": "Austin Water Internship - Undergraduate - Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392650,7 +392650,7 @@
         "company_name": "The Walt Disney Company",
         "id": "15f862c7-fe5f-44f2-8249-9461828105dd",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -396234,7 +396234,7 @@
         "company_name": "Fiserv",
         "id": "ca6fbddd-f5cf-4070-8625-5b872a5fc9d6",
         "title": "Technology Intern Program - Application Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -399324,7 +399324,7 @@
         "company_name": "Flextronics International",
         "id": "c4ca1469-f1ac-48e1-a95e-b3a674e6cbbd",
         "title": "Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
