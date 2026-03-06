@@ -74521,7 +74521,7 @@
         "company_name": "Ramp",
         "id": "af10839a-2ea1-4a74-bb56-9de6adb5dee5",
         "title": "Applied Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -142354,7 +142354,7 @@
         "company_name": "Schonfeld",
         "id": "db929942-f0bf-4f39-ad5b-ddb92ceb21d7",
         "title": "Software Engineer Intern - DMFI Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -182596,7 +182596,7 @@
         "company_name": "Autodesk",
         "id": "77a25f03-497f-4b73-99d3-f9976a38b1c7",
         "title": "Software Developer Intern - Software Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -233692,7 +233692,7 @@
         "company_name": "Danaher Corporation",
         "id": "233d16db-5b6a-4254-879c-3f26d4563b2f",
         "title": "Intern Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -235211,7 +235211,7 @@
         "company_name": "Walmart",
         "id": "fec0b54b-dc4a-4397-8f00-bf0f1bf6369a",
         "title": "2026 Summer Intern: Software Engineering 2 - Sunnyvale",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -300468,7 +300468,7 @@
         "company_name": "KBR",
         "id": "5c8a83a7-1956-4133-8dac-8ac37a3b81b5",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -300631,7 +300631,7 @@
         "company_name": "ExxonMobil",
         "id": "cd4a9782-2396-4903-8b14-2068e071233d",
         "title": "Data Scientist \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -312111,7 +312111,7 @@
         "company_name": "Autodesk",
         "id": "2f0b0341-2d5d-4e07-94d7-076bc5f6bbae",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -314778,7 +314778,7 @@
         "company_name": "AriensCo",
         "id": "aed7ae87-2b85-4650-96a9-edc46d1515e1",
         "title": "Intern \u2013 Product Management - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -325542,7 +325542,7 @@
         "company_name": "AngloGold Ashanti",
         "id": "c57b994e-5cb1-4a31-a4a9-ca987cbcec8f",
         "title": "Intern \u2013 Geology Greenfields Exploration - North America",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -343766,7 +343766,7 @@
         "company_name": "Interdigital",
         "id": "c048b4ce-0880-421a-8cca-0475310434c1",
         "title": "Intern \u2013 Deep Learning for Image and Video Processing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343838,7 +343838,7 @@
         "company_name": "Interdigital",
         "id": "7f003c72-c48c-4d9a-af23-666abbce760c",
         "title": "Intern Integerized AI-based Video Compression Models",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -350713,7 +350713,7 @@
         "company_name": "Johns Manville (JM)",
         "id": "038933d5-6127-41c2-84da-b6d7fae618fe",
         "title": "Intern \u2013 Furnace Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370357,7 +370357,7 @@
         "company_name": "Vantage Data Centers",
         "id": "3c5d321c-b92b-4e82-b950-0aebcb206675",
         "title": "Product Enablement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -373760,7 +373760,7 @@
         "company_name": "Sonos",
         "id": "4d8c8a47-f387-44a9-9f68-8c12ed0bde87",
         "title": "IT Automation Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -377710,7 +377710,7 @@
         "company_name": "ACLU Kentucky",
         "id": "35adf0b5-b29e-4c55-93b5-cdeeffcb91d6",
         "title": "Undergraduate Intern - Technology and Analytics Department-Educate Pod",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379886,7 +379886,7 @@
         "company_name": "Aptiv",
         "id": "edf05719-a4c3-410a-8e40-e6506e1e7844",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -383679,7 +383679,7 @@
         "company_name": "Pitney Bowes",
         "id": "cfc2508d-1c6b-4aca-b883-7d7d09edcfa9",
         "title": "Artificial Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -387773,7 +387773,7 @@
         "company_name": "Johnson Controls",
         "id": "73e76901-08b9-44f6-8727-80ded8ee27bc",
         "title": "Software Developer Intern - Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -388722,7 +388722,7 @@
         "company_name": "Inogen",
         "id": "eb1e7dde-ac59-4ced-b774-2d10d5fad1bc",
         "title": "IT Data & AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -388885,7 +388885,7 @@
         "company_name": "Inogen",
         "id": "167a323c-ad42-489d-a6f2-1dc3fe90ae57",
         "title": "IT Mobile and Web",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -390432,7 +390432,7 @@
         "company_name": "Micron Technology",
         "id": "f48c8cf4-1ec6-4990-9112-c08b666dec1e",
         "title": "Intern Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -392786,7 +392786,7 @@
         "company_name": "Leidos",
         "id": "baf8e62a-d400-4173-8505-5cd1640879d8",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -396934,7 +396934,7 @@
         "company_name": "CACI",
         "id": "920aae4f-85e2-40e2-bb21-02f00a27cdf3",
         "title": "Engineering/Physics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -398776,7 +398776,7 @@
         "company_name": "Intel",
         "id": "5ed8b8ac-dab3-4e72-bbb3-a73114e2c842",
         "title": "Compiler Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -401924,7 +401924,7 @@
         "company_name": "Gannet Fleming",
         "id": "b72aa9f3-54ad-4361-95be-84adb7b733e4",
         "title": "Intern \u2013 Application Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -402254,7 +402254,7 @@
         "company_name": "RTX",
         "id": "e643562a-059c-45b0-925d-ccfda69b41ad",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -403705,7 +403705,7 @@
         "company_name": "MassMutual Ascend",
         "id": "eb006b65-2601-41b8-831d-cfc390173fa5",
         "title": "Middleware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -410690,7 +410690,7 @@
         "company_name": "Stantec",
         "id": "24dc5853-f800-461a-b430-c68b42724517",
         "title": "Data Analytics and AI Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
