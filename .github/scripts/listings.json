@@ -391584,7 +391584,7 @@
         "company_name": "Uber",
         "id": "c23dc9bb-2105-4b42-80d6-a3c089af4ce6",
         "title": "PhD Software Engineer - Delivery Marketplace",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -395739,7 +395739,7 @@
         "company_name": "OptiRTC",
         "id": "8ffac606-6b50-492f-bf3f-0245f94719b4",
         "title": "Environmental Research & Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -401020,7 +401020,7 @@
         "company_name": "Visa",
         "id": "47966ff7-fc20-4eaa-a34b-5acac8f559e6",
         "title": "Insight Day-Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -405366,7 +405366,7 @@
         "company_name": "Alarm.com",
         "id": "6eb61ae2-f163-4395-a675-f157d8d65b76",
         "title": "Device Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
