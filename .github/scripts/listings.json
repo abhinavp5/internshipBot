@@ -65636,7 +65636,7 @@
         "company_name": "Zebra Technologies",
         "id": "c0d40d67-9a4e-4577-97ce-e57d4e7d8e7e",
         "title": "Software Intern - AI/ML - Corporate and Business Services - CEO",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -159102,7 +159102,7 @@
         "company_name": "KLA",
         "id": "a0f45ef6-c7ef-41c8-a066-d64c947b9319",
         "title": "Applications Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025"
@@ -222138,7 +222138,7 @@
         "company_name": "Chubb",
         "id": "447585ba-333f-439f-b186-2a498e516ae5",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -312599,7 +312599,7 @@
         "company_name": "KLA",
         "id": "924e91b4-fd6f-45d4-9b11-d02c44d70b9a",
         "title": "Applications Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -352489,7 +352489,7 @@
         "company_name": "Muon Space",
         "id": "694164dd-9276-4314-9c53-4ebd4d6bfb91",
         "title": "Data Analyst Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -363684,7 +363684,7 @@
         "company_name": "IQVIA",
         "id": "2be96e62-26d9-4e5b-ba38-bb889f8d771b",
         "title": "Data Science Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -407062,7 +407062,7 @@
         "company_name": "Skyryse",
         "id": "7ce8b364-7db7-4dd7-88fe-2589a12ecaa3",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -413321,5 +413321,55 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Axiom Space",
+        "id": "a08b4a8a-deaf-4369-a36c-64f22ecc80dc",
+        "title": "Software Application Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772851121,
+        "date_posted": 1772851121,
+        "url": "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Software-Application-Engineering-Intern--Summer-2026-_JR100352",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AxiomSpace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Snap",
+        "id": "7a109ce5-2147-48bc-aa1f-9e1dd9ac4246",
+        "title": "Research Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1772850662,
+        "date_posted": 1772850662,
+        "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Bellevue-Washington/Research-Engineer-Intern_R0043222-1",
+        "locations": [
+            "LA",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snap",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
