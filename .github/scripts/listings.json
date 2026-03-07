@@ -2,46 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Armada",
-        "id": "b3be96c3-532e-4d78-a5f2-f996ccb99d87",
-        "title": "AI Intern",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752161431,
-        "date_posted": 1752161431,
-        "url": "https://job-boards.greenhouse.io/armada/jobs/4684318008",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Armada",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Audax Group",
-        "id": "b4eca688-1c70-45b8-ad9f-b9dd65d7950d",
-        "title": "Software Development Intern, Business Solutions",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752171018,
-        "date_posted": 1752161072,
-        "url": "https://job-boards.greenhouse.io/audaxgroup/jobs/4582458005",
-        "locations": [
-            "Utah"
-        ],
-        "company_url": "https://simplify.jobs/c/Audax-Group",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "ExodusPoint",
         "id": "c8a165ab-f25d-4201-8479-5e3036447639",
         "title": "Artificial Intelligence Intern",
