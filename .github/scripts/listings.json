@@ -1,69 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Altera Digital Health",
-        "id": "29af7a44-1534-4d8c-826f-4fd8c391161a",
-        "title": "Intern \u2013 Operational Innovation & Digital Solutions",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1752187400,
-        "date_posted": 1752187400,
-        "url": "https://job-boards.greenhouse.io/alteradigitalhealth/jobs/4785180007",
-        "locations": [
-            "Raleigh, NC",
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Altera-Digital-Health",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Altera Digital Health",
-        "id": "1030159f-0fa3-4cab-b158-cb74139e0fa2",
-        "title": "Intern \u2013 Operational Innovation & Digital Solutions",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1752187399,
-        "date_posted": 1752187399,
-        "url": "https://job-boards.greenhouse.io/alteradigitalhealth/jobs/4770616007",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Altera-Digital-Health",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Aquatic Capital Management",
-        "id": "965f3fb9-0610-4a6f-9e82-0a09f0c07c3a",
-        "title": "AI/LLM Automation Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752187117,
-        "date_posted": 1752187117,
-        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8071545002",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "RF-SMART",
         "id": "8a79db27-3af6-46fe-a91d-8197e5905c6b",
@@ -293978,27 +293915,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Jane Street",
-        "id": "634a8640-7b13-4ee0-b51b-d03c06a0616a",
-        "title": "Trading Desk Operations Engineer",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1752187848,
-        "date_posted": 1752187848,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/8070509002",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Jane-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
