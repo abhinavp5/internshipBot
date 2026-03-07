@@ -6599,7 +6599,7 @@
 <td>AI Data Cataloging Intern</td>
 <td>Nashville, TN</td>
 <td><div align="center"><a href="https://careers-concord.icims.com/jobs/2030/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c36323db-8b3e-4b44-9d30-fa88c043839a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
