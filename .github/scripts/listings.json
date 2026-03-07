@@ -1,45 +1,5 @@
 [
     {
-        "date_updated": 1752139891,
-        "url": "https://lifeattiktok.com/search/7486556064496240904",
-        "company_name": "TikTok",
-        "title": "Software Engineer Intern (MSP)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "99c64db6-b31e-49c0-8c82-006faeb4416b",
-        "date_posted": 1752139891,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Software Engineering"
-    },
-    {
-        "date_updated": 1752140336,
-        "url": "https://lifeattiktok.com/search/7482049544311851271",
-        "company_name": "TikTok",
-        "title": "Software Engineer Intern (MSP)",
-        "locations": [
-            "San Jose, California"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "43fc589d-0403-44cd-832e-0e5c471c7426",
-        "date_posted": 1752140336,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Software Engineering"
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Armada",
