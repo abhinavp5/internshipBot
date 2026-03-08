@@ -148,26 +148,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Fullscript",
-        "id": "17297b33-3c3a-4843-ae91-5aaefe314533",
-        "title": "Co-op/Intern Ruby Engineer",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752275855,
-        "date_posted": 1752275855,
-        "url": "https://jobs.lever.co/fullscript/540882fa-e211-41c5-a3e0-2873f6e40cfb/apply",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/FullScript",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "QuinStreet",
         "id": "a72044a5-3355-4e99-b299-d7314cdc7b8d",
         "title": "Engineering Co-Op",
@@ -22436,29 +22416,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Tencent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Samsung",
-        "id": "ef6d5e37-ff19-4b2a-b783-4d42a1b55f4e",
-        "title": "2025 Intern - NLP and ML Research",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752275274,
-        "date_posted": 1752275274,
-        "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/7785464002",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Samsung",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
