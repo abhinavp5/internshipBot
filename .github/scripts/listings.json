@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Live Nation Entertainment",
-        "id": "b8c55504-664c-4575-83d1-b2ac50115a75",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752204798,
-        "date_posted": 1752204798,
-        "url": "https://livenation.wd1.myworkdayjobs.com/en-US/LNExternalSite/job/Work-From-Home---California/Software-Engineering-Intern_JR-81523",
-        "locations": [
-            "California"
-        ],
-        "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Base Power",
         "id": "84fb9450-6a32-4ad5-8c4a-2cbeb07ad086",
@@ -412558,6 +412538,55 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel Securities",
+        "id": "40090818-c9a2-4104-9627-111a5b9cd079",
+        "title": "Quantitative Research Engineer \u2013 PhD Intern - US",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764160715,
+        "date_posted": 1761871128,
+        "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-intern-us/",
+        "locations": [
+            "Miami, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel",
+        "id": "3781fd12-0d4b-4e6f-a890-013b3381c856",
+        "title": "Quantitative Research Analyst Intern - BS/MS - Europe",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1761871264,
+        "date_posted": 1761871264,
+        "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/",
+        "locations": [
+            "Paris, France",
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
