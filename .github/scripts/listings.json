@@ -167,26 +167,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Magna",
-        "id": "942b4383-c408-4291-b7bd-eb32e9e97cac",
-        "title": "Data Science & Analytics WCM Co-op Student",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752271674,
-        "date_posted": 1752271674,
-        "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Brampton-Ontario-CA/Data-Science---Analytics-WCM-Co-op-Student_R00199621",
-        "locations": [
-            "Brampton, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Magna",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Fullscript",
         "id": "17297b33-3c3a-4843-ae91-5aaefe314533",
@@ -30114,36 +30094,6 @@
             "Celebration, FL"
         ],
         "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Navy Federal",
-        "id": "a02a9e21-3edf-406b-86b4-e4b0db806515",
-        "title": "Intern \u2013 Year Round - Digital Data Science",
-        "active": false,
-        "terms": [
-            "Winter 2025",
-            "Spring 2025",
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1756205482,
-        "date_posted": 1752272173,
-        "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/25807",
-        "locations": [
-            "Winchester, VA",
-            "Pensacola, FL",
-            "Vienna, VA",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Navy-Federal",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
