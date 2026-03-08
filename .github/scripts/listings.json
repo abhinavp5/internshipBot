@@ -1,46 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Base Power",
-        "id": "84fb9450-6a32-4ad5-8c4a-2cbeb07ad086",
-        "title": "Hardware Engineering Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752214119,
-        "date_posted": 1752214119,
-        "url": "https://job-boards.greenhouse.io/basepowercompany/jobs/4423268008",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Base-Power",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Base Power",
-        "id": "8204aabf-4c8d-40fb-9923-d0c0b186732b",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752214119,
-        "date_posted": 1752214119,
-        "url": "https://job-boards.greenhouse.io/basepowercompany/jobs/4474391008",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Base-Power",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Autodesk",
         "id": "ac2977ee-d3b6-42cf-a58c-351df28acdc4",
