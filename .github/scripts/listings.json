@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "QuinStreet",
-        "id": "a72044a5-3355-4e99-b299-d7314cdc7b8d",
-        "title": "Engineering Co-Op",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1752296347,
-        "date_posted": 1752296347,
-        "url": "https://www.quinstreet.com/careers/?gh_jid=7066959",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/2899ea2e-f1cb-4ba2-aebd-2e61c21eef95",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Bank of America",
         "id": "f4aed11b-ac6f-4335-b335-a67616533eba",
         "title": "Global Technology Apprentice - Npower/Per Scholas",
