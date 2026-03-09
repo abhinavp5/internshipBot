@@ -17000,7 +17000,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Montvale, NJ</td>
 <td>Spring 2026</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Nextiva?utm_source=GHList&utm_medium=company">Nextiva</a></strong></td>
@@ -22587,7 +22587,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
 <td>AI Engineer Co-op - Multiple Teams</td>
 <td>Markham, ON, Canada</td>
 <td>Winter 2026</td>
@@ -23915,7 +23915,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>6mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Meta?utm_source=GHList&utm_medium=company">Meta</a></strong></td>
+<td>↳</td>
 <td>Research Scientist Intern - Robotic End Effector - PhD 🎓</td>
 <td>Redmond, WA</td>
 <td>Winter 2025</td>
