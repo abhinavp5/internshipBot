@@ -384305,9 +384305,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1771948359,
+        "date_updated": 1773060398,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -384328,9 +384328,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1771948719,
+        "date_updated": 1773060398,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -384423,9 +384423,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1771949484,
+        "date_updated": 1773060398,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -395645,9 +395645,9 @@
         "degrees": []
     },
     {
-        "date_updated": 1772429812,
+        "date_updated": 1773060398,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
