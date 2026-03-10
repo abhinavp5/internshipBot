@@ -201649,7 +201649,7 @@
         "company_name": "Salesforce",
         "id": "3b475a5a-baab-4bfa-b577-76fdd6820e74",
         "title": "Summer 2026 Intern - Applied Scientist - Optimization",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -265146,7 +265146,7 @@
         "company_name": "Genentech",
         "id": "a1408622-ec4e-4cbc-8a5e-ccd6a6d90150",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -266852,7 +266852,7 @@
         "company_name": "DiDi Global",
         "id": "fb1cb019-64ad-4452-84fa-6bbb3602ff48",
         "title": "Autonomy System & Safety Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -271534,7 +271534,7 @@
         "company_name": "Paccar",
         "id": "c095003f-99e5-4245-a46a-9f37aa4233a8",
         "title": "Warranty Audit Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -272946,7 +272946,7 @@
         "company_name": "Oshkosh",
         "id": "35158bee-e683-42c5-9d25-4a1b0c25b881",
         "title": "Youth Apprentice - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -308595,7 +308595,7 @@
         "company_name": "Autodesk",
         "id": "3517ab6b-b381-4ab8-b812-a70d0d401ac7",
         "title": "Intern \u2013 XR and AI Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -319934,7 +319934,7 @@
         "company_name": "Dow Chemical Company",
         "id": "42b1620b-824f-4278-b9f4-66bdd7ec1491",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332508,7 +332508,7 @@
         "company_name": "Harbinger Motors",
         "id": "ea9582c5-3968-4e00-b699-00700ffb11a0",
         "title": "Intern Test Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344262,7 +344262,7 @@
         "company_name": "Mastercard",
         "id": "8cc35ef4-bc13-4909-8065-f2dc2bc154eb",
         "title": "Apprentice - Cabling Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -347090,7 +347090,7 @@
         "company_name": "Driscoll's",
         "id": "8c0d7663-6852-42b7-92f6-b20d32ba5ddb",
         "title": "Information Services \u2013 Software Engineering Intern - Application Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -352906,7 +352906,7 @@
         "company_name": "XPO",
         "id": "bec05118-bb4a-4d59-bf89-6f922a1d099e",
         "title": "Tech Program Intern 3 - Linehaul Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -353518,7 +353518,7 @@
         "company_name": "Sanofi",
         "id": "4508ac06-d507-44f2-984f-94cc54fd2903",
         "title": "Machine learning applied to Quantitative Pharmacology Small molecules Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -358973,7 +358973,7 @@
         "company_name": "Old Mission",
         "id": "1d31dac0-fde4-4b3f-8075-695a9eeb4fd2",
         "title": "Old Mission Ignition",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -374080,7 +374080,7 @@
         "company_name": "Akamai Technologies",
         "id": "fc464281-54f4-461a-842e-88a993180450",
         "title": "Intern Software Engineer - Cloud Technology Architecture",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376744,7 +376744,7 @@
         "company_name": "d-Matrix",
         "id": "db5ef3bb-3dbe-4635-9b80-89751eac3cea",
         "title": "Design Validation Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -377142,7 +377142,7 @@
         "company_name": "Harbinger Motors",
         "id": "8aad5f9a-7bf8-4818-be1a-ba3aa4591c4b",
         "title": "Intern \u2013 Product Sustainability",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -383950,7 +383950,7 @@
         "company_name": "ByteDance",
         "id": "5ca5638a-d91f-4bd1-99cb-21e31590271d",
         "title": "Graduate Research Scientist in Large Language Model",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -385553,7 +385553,7 @@
         "company_name": "Johnson & Johnson",
         "id": "600a5d00-7d6c-4dfa-ad89-40a7f5356383",
         "title": "Integrated Data Product",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -391352,7 +391352,7 @@
         "company_name": "Calyxo",
         "id": "ba21b406-f76c-480a-9ebb-920cda784503",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391399,7 +391399,7 @@
         "company_name": "Elsevier",
         "id": "88079976-0e90-49ad-975b-26df366789da",
         "title": "Knowledge & AI Optimization Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392049,7 +392049,7 @@
         "company_name": "Samsung",
         "id": "8f50dca6-dcf4-4bcb-a512-6e799db97f18",
         "title": "DRAM Field Application Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392095,7 +392095,7 @@
         "company_name": "Cadence Design Systems",
         "id": "3d884cef-6d6c-447e-a5f7-3d97ca910306",
         "title": "Intern-Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -393886,7 +393886,7 @@
         "company_name": "The Walt Disney Company",
         "id": "d82d70a6-bbd6-413f-8eb7-73957da13002",
         "title": "WDI Research & Development Intern - Creative Technologist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -395772,7 +395772,7 @@
         "company_name": "The Walt Disney Company",
         "id": "2113a132-144c-4626-9fc1-4501ca9f17bc",
         "title": "Labor Systems Web Integration Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -399722,7 +399722,7 @@
         "company_name": "NextEra Energy",
         "id": "f14011d9-d1d7-4920-af83-5d2111d9272e",
         "title": "NextGen Operator - Nuclear Operations Development Program",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -400840,7 +400840,7 @@
         "company_name": "Elsevier",
         "id": "8f377e0f-37d0-446a-a763-32171e7597f0",
         "title": "AI & Data Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -401728,7 +401728,7 @@
         "company_name": "LSEG",
         "id": "d58da08d-daf6-4012-ad6f-0075665e6562",
         "title": "Degree Apprenticeship - Engineering - Nottingham Office",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -403072,7 +403072,7 @@
         "company_name": "Bank of Montreal",
         "id": "bc72b63e-6ae0-4a9a-8b08-12b958fbe06b",
         "title": "Junior Analyst  Co-op/Internship - Distribution Strategy",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -406127,7 +406127,7 @@
         "company_name": "Powell",
         "id": "ae0465bc-4a02-4989-8dba-774970214dbd",
         "title": "Manufacturing Reliability Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -408170,7 +408170,7 @@
         "company_name": "CWAN",
         "id": "06fb102b-5b03-422f-b75c-9199172c925d",
         "title": "Applications Intern-2",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -408734,7 +408734,7 @@
         "company_name": "Span",
         "id": "71ba4822-9772-4c93-94bb-1f706962a17e",
         "title": "Mobile Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -414625,6 +414625,110 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpotHero",
+        "id": "d8127df4-9df6-4d58-adf3-fffc9ace18b9",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773106652,
+        "date_posted": 1773106652,
+        "url": "https://spothero.com/careers/7695956/?gh_jid=7695956",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/SpotHero",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PG&E",
+        "id": "19b913ea-beac-460b-a8b5-d725d2eb9ed7",
+        "title": "Integrated Grid Planning Solutions Intern - Master of Business Administration",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773106565,
+        "date_posted": 1771916935,
+        "url": "https://careers.pge.com/job/Oakland-Integrated-Grid-Planning-Solutions-Intern-(MBA)-CA-94612/1367271500/?ats=successfactors",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PGE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Proofpoint",
+        "id": "821a022d-864a-4695-a711-15f6bcb8e26a",
+        "title": "Agentic AI Workflows Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027",
+            "Fall 2027",
+            "Winter 2028",
+            "Spring 2028",
+            "Summer 2028"
+        ],
+        "date_updated": 1773109792,
+        "date_posted": 1773109792,
+        "url": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Sunnyvale-CA/Agentic-AI-Workflows-Intern_R13877",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Proofpoint",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Okta",
+        "id": "d5144ea1-42d1-4c89-905c-ed13c94163db",
+        "title": "Product Marketing Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773112982,
+        "date_posted": 1770419098,
+        "url": "https://www.okta.com/company/careers/opportunity/7594992?gh_jid=7594992",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Okta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
