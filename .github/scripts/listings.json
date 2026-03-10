@@ -135476,7 +135476,7 @@
         "company_name": "ADT",
         "id": "cf420cc1-67d6-40af-9bfa-09f30af955a3",
         "title": "AI and CX Specialist Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -150157,7 +150157,7 @@
         "company_name": "Draper",
         "id": "ebe326e0-f3eb-43db-9b9c-e7b5b020d618",
         "title": "Machine Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -227378,7 +227378,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "7cbea191-18c0-44da-861a-caa02fd722b5",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -291679,7 +291679,7 @@
         "company_name": "Jane Street",
         "id": "2231e412-c199-4be9-8b7b-033410c10b4a",
         "title": "Quantitative Researcher",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -291700,7 +291700,7 @@
         "company_name": "Jane Street",
         "id": "51a1cf90-7f58-4de4-9539-4eeb5baa44fd",
         "title": "Quantitative Trader",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -304311,7 +304311,7 @@
         "company_name": "GSD&M",
         "id": "7649514a-7d74-4d3b-b8bc-c58f9f04cda8",
         "title": "Media Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -356497,7 +356497,7 @@
         "company_name": "CAE",
         "id": "57a85a30-1839-4b8b-af86-6fe6a2ea3c99",
         "title": "Integration Specialist Intern Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -377212,7 +377212,7 @@
         "company_name": "CACI",
         "id": "768b3841-ccfd-44a2-a286-a2c954124c03",
         "title": "Junior GenAI Developer Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -377376,7 +377376,7 @@
         "company_name": "CACI",
         "id": "37686c7d-7a37-4e47-a81c-012ef7fc3de0",
         "title": "Digital Transformation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -385530,7 +385530,7 @@
         "company_name": "Danaher Corporation",
         "id": "96d1104d-12fa-4f71-b052-09318f84a570",
         "title": "Hardware Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -399355,7 +399355,7 @@
         "company_name": "Cboe",
         "id": "8f4b6c80-81f0-4c32-82d8-1f63307712ec",
         "title": "Quantitative Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -406549,7 +406549,7 @@
         "company_name": "KION Group",
         "id": "444155ee-ca84-4580-b2d7-a183dde497f4",
         "title": "Software Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -410937,7 +410937,7 @@
         "company_name": "SSOE Group",
         "id": "bcd4dab5-f5ab-4456-b166-be01a682b963",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -411701,7 +411701,7 @@
         "company_name": "Applied Materials",
         "id": "a505afc0-9048-468a-b972-04c0048aff2b",
         "title": "AI/ML Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -414382,7 +414382,7 @@
         "company_name": "Leidos",
         "id": "c7259ed0-61bb-4242-9cb9-07c112d9776a",
         "title": "Cyber AI/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -415150,6 +415150,166 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amentum",
+        "id": "7b46dfd9-ac35-43d9-8122-0f857f8e4f79",
+        "title": "Software Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773154006,
+        "date_posted": 1773154006,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MI-Detroit/Software-Programmer-Intern_R0156070",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Spectrum Control",
+        "id": "e8e4aa1f-a3e1-4f24-aaef-b1d583bf0620",
+        "title": "Engineering Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773153615,
+        "date_posted": 1773153615,
+        "url": "https://spectrumcontrol.wd1.myworkdayjobs.com/spectrumcontrol/job/Philadelphia-PA/Engineering-Co-Op_JR101305",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/673d4af5-d1fd-4cb6-b32e-e8897216cb37",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Allstate Insurance Company",
+        "id": "d519cf06-7ebf-4d33-8f66-79c8a8d03ac7",
+        "title": "Business Systems Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773152937,
+        "date_posted": 1773152937,
+        "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Chicago-Merch-Mart/Business-Systems-Apprentice_R27347",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Allstate-Insurance-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Allstate Insurance Company",
+        "id": "aa34086b-15f8-4b0d-8f89-328690e51c37",
+        "title": "Data Analytics Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773152938,
+        "date_posted": 1773152938,
+        "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Chicago-Merch-Mart/Data-Analytics-Apprentice_R27303",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Allstate-Insurance-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "4550f176-53a5-4040-bf40-924240d9c2e4",
+        "title": "Hardware Design Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773155485,
+        "date_posted": 1773155485,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Hardware-Design-Engineer-Intern--Summer-2026-_R030340",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "S&P Global ",
+        "id": "f06f6eb6-7310-44d8-ac4d-2083a6cd01e2",
+        "title": "AI Agent Developer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773154730,
+        "date_posted": 1773154730,
+        "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Princeton-NJ/AI-Agent-Developer--Summer-Intern_325750-1",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/SP-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Techtronic Industries",
+        "id": "03ab4d41-5cba-45c5-8db8-f4a6b4ccb687",
+        "title": "Lab Power Platform Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773154810,
+        "date_posted": 1773154810,
+        "url": "https://tti.wd1.myworkdayjobs.com/tti_pe/job/Anderson-SC/Lab-Power-Platform-Development-Intern_R71591",
+        "locations": [
+            "Anderson, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/7b5dc30f-d4b0-4752-be0b-3844a8f590e9",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
