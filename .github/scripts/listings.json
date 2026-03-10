@@ -228492,7 +228492,7 @@
         "company_name": "American Express",
         "id": "d6fdb237-6dd5-44ff-ae39-9a110b0986b5",
         "title": "Campus \u2013 Apprenticeship Programme - Technology Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -298710,7 +298710,7 @@
         "company_name": "PA Consulting",
         "id": "a6c20ee9-648a-4a18-a7f4-af646dcdf7ef",
         "title": "2026 Apprentice - Digital - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -343891,7 +343891,7 @@
         "company_name": "Samsung",
         "id": "3af55220-f794-4b5b-8d15-4e5bc1ce3bae",
         "title": "Data Analyst & System Support Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -363792,7 +363792,7 @@
         "company_name": "PA Consulting",
         "id": "867a10c2-b56f-4ac7-8fe6-80c2b0b698a4",
         "title": "Intern - Digital - Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -414943,6 +414943,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Axon",
+        "id": "38306e33-298e-4142-9910-ca199102a99b",
+        "title": "DFx Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773130035,
+        "date_posted": 1773130035,
+        "url": "https://job-boards.greenhouse.io/axon/jobs/7245404003",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Axon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
