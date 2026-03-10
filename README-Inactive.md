@@ -14347,7 +14347,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Pinterest?utm_source=GHList&utm_medium=company">Pinterest</a></strong></td>
+<td>↳</td>
 <td>Software Engineer Intern</td>
 <td>Toronto, Canada</td>
 <td>🔒</td>
@@ -38208,7 +38208,7 @@
 <td>GN&C Modeling – Simulation and Analysis Intern</td>
 <td>Cambridge, MA</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/BorgWarner?utm_source=GHList&utm_medium=company">BorgWarner</a></strong></td>
@@ -53828,7 +53828,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Inventing-For-Life?utm_source=GHList&utm_medium=company">Inventing for Life</a></strong></td>
+<td>↳</td>
 <td>Future Talent Program – Intern - Regulatory Data Science</td>
 <td>North Wales, PA<br>Linden, NJ</td>
 <td>🔒</td>
@@ -56422,7 +56422,7 @@
 <td>Machine Learning Internship, Behaviors Research 🛂</td>
 <td>Boston, MA<br>Pittsburgh, PA<br>Remote in USA</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Databricks?utm_source=GHList&utm_medium=company">Databricks</a></strong></td>
