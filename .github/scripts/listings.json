@@ -43192,7 +43192,7 @@
         "company_name": "Salesforce",
         "id": "40e34901-0127-44d1-90fb-a4b6b9948046",
         "title": "Intern - Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -275237,7 +275237,7 @@
         "company_name": "CSAA Insurance Group",
         "id": "3e3850fc-a33c-4858-8a16-62668dec4a71",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -280445,7 +280445,7 @@
         "company_name": "Walmart",
         "id": "45e0013a-4f8d-4b18-b811-5071555f5f7b",
         "title": "Software Engineer 2",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -351193,7 +351193,7 @@
         "company_name": "Healthfirst",
         "id": "7cd8f1f9-6bdd-4838-9642-bc10585cb46f",
         "title": "Data Engineering Intern - Operations Analytics and Reporting",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -362386,7 +362386,7 @@
         "company_name": "Patterson",
         "id": "2791d96f-99de-4271-ad3a-81c299ff671e",
         "title": "Digital Workplace Innovation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -369580,7 +369580,7 @@
         "company_name": "CSAA Insurance Group",
         "id": "a6cd84c2-350d-457f-9882-e160c8948c5b",
         "title": "IT Solutions Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -377070,7 +377070,7 @@
         "company_name": "CACI",
         "id": "d7b7e083-a0b3-4ada-82c5-ef64318eab34",
         "title": "AI / Machine Learning Internship - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -387381,7 +387381,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "648bdca7-1991-4854-8fb1-39fda20de997",
         "title": "Vision-Language-Action Models Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -397900,7 +397900,7 @@
         "company_name": "Applied Materials",
         "id": "dffb61b6-7af3-43b0-b669-6335860a2a64",
         "title": "Process Integration Intern - Bachelor/Masters - Santa Clara, CA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -398961,7 +398961,7 @@
         "company_name": "The Boeing Company",
         "id": "b90e35c6-0ade-47c4-9f80-dc278d83be33",
         "title": "Millennium Space Systems Intern Program - Ground Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -404177,7 +404177,7 @@
         "company_name": "Leidos",
         "id": "78338ce5-1ea8-424b-b879-5763f765882c",
         "title": "Transportation Engineering Lab Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -404794,7 +404794,7 @@
         "company_name": "Cardinal Health",
         "id": "8a77ca82-29a9-496b-a49f-2934c5c4451d",
         "title": "Clinical Data & Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -415341,7 +415341,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "949c28bd-3422-465b-953d-d78cdee343d2",
         "title": "ATS Technology Intern Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -416416,6 +416416,172 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Allstate Insurance Company",
+        "id": "8d93a543-cd79-4d6a-9c49-81faf43eb5a0",
+        "title": "Technology Product Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773184525,
+        "date_posted": 1773184525,
+        "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/Technology-Product-Engineer-Apprentice_R27419",
+        "locations": [
+            "Illinois"
+        ],
+        "company_url": "https://simplify.jobs/c/Allstate-Insurance-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fidelity Investments",
+        "id": "99b4838f-96a0-4756-b77e-726197dd763a",
+        "title": "Skillbridge - Software Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773184626,
+        "date_posted": 1773184626,
+        "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Smithfield-RI/SkillBridge---Software-Engineer_2125210",
+        "locations": [
+            "Westlake, TX",
+            "Durham, NC",
+            "Smithfield, RI",
+            "Merrimack, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Accenture",
+        "id": "bb66b6bb-766d-40f4-9b5f-1723cbc7b47a",
+        "title": "ATC Analysts",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773183984,
+        "date_posted": 1773183984,
+        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Nashville-4101-Charlotte-Ave-Corp/ATC-Summer-Analysts---Nashville---NAELFY26_R00317740",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "efca32c3-bb8c-4c89-915a-0abe5940b654",
+        "title": "ATC Analysts",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773183989,
+        "date_posted": 1773183989,
+        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Columbus-400-W-Nationwide-Blvd-Corp/ATC-Summer-Analysts---Columbus---NAELFY26_R00317738",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hitachi",
+        "id": "e5caf769-1491-492f-8346-4bd123e444f5",
+        "title": "Platforms Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773183714,
+        "date_posted": 1773183714,
+        "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Platforms-Development-Intern_R1011958",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hitachi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "T-Mobile",
+        "id": "ee327b66-310f-470b-a04f-dcbc68bc64bf",
+        "title": "Intern Analyst - Reporting & Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773181415,
+        "date_posted": 1773181415,
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2026-Internship-Analyst--Reporting---Analytics_REQ348372",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/T-Mobile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Analog Devices",
+        "id": "a44b8fb7-8209-4510-b494-9b6617ba4283",
+        "title": "System and Firmware Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773183389,
+        "date_posted": 1773183389,
+        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NJ-Somerset/System-and-Firmware-Engineer-Intern_R258554",
+        "locations": [
+            "Somerset County, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Analog-Devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
