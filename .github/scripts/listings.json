@@ -383401,7 +383401,7 @@
         "company_name": "PG&E",
         "id": "bc7d5dcd-5ea6-4f38-8a90-1e027e41c64d",
         "title": "Integrated Grid Planning Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -414990,6 +414990,30 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Circle",
+        "id": "3f2ee60b-2491-47df-84e6-76a49a82c1c8",
+        "title": "Intern \u2013 Product Management",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773136739,
+        "date_posted": 1773136739,
+        "url": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Intern--Product-Management_JR100924",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Circle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
