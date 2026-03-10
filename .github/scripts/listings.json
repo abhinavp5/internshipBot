@@ -246679,7 +246679,7 @@
         "company_name": "Microsoft",
         "id": "e2c23dbe-ac3a-43e5-b81e-469f12c28211",
         "title": "Research Intern - Neural Rendering & Character AI - Applied Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -353213,7 +353213,7 @@
         "company_name": "KCI Technologies",
         "id": "4dd75b01-f1d5-4464-896f-2351e5e29dac",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -354253,7 +354253,7 @@
         "company_name": "Twilio",
         "id": "f3fdae49-f4e4-4692-a5d0-ecd731b783e6",
         "title": "Software Engineer Intern - Canada",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -369080,7 +369080,7 @@
         "company_name": "Harris Central Appraisal District",
         "id": "fcfe74a4-dc6b-46cf-9d1c-6018ef936a45",
         "title": "GIS Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -404695,7 +404695,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "495cd309-2833-45c1-8585-f726a282aecf",
         "title": "Software Engineering Intern - Firmware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -404720,7 +404720,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "38ced6de-e479-4d99-8b56-c9d48f2d17ca",
         "title": "Software Engineering Intern - Systems - Hp IQ",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -414131,7 +414131,7 @@
         "company_name": "CWAN",
         "id": "646083a8-0696-494f-b1a4-e39794341d55",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -414154,7 +414154,7 @@
         "company_name": "CWAN",
         "id": "253103bd-0d9c-42b9-9156-f107b6c46118",
         "title": "Data Management & Reporting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
