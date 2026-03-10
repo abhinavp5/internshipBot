@@ -295742,7 +295742,7 @@
         "company_name": "Air Liquide",
         "id": "fe95fa5b-939c-4283-be61-127a057964b1",
         "title": "Vie \u2013 S&OP and Sourcing Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -395220,7 +395220,7 @@
         "company_name": "Amazon",
         "id": "5eea2f48-7d19-4e02-9851-e52da422ed27",
         "title": "Infrastructure Delivery Technician",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -406196,7 +406196,7 @@
         "company_name": "Savannah River National Laboratory",
         "id": "38a509ef-b06c-4ac3-b0bd-1ff173d07cff",
         "title": "Corrosion Science EM University Program Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
