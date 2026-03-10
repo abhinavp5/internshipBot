@@ -7680,7 +7680,7 @@
 <td>Backend Software Engineer Intern</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Washpost?utm_source=GHList&utm_medium=company">Washpost</a></strong></td>
@@ -35460,7 +35460,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Roche?utm_source=GHList&utm_medium=company">Roche</a></strong></td>
 <td>Intern - Technical Specialist 🎓</td>
 <td>Mississauga, ON, Canada</td>
 <td>🔒</td>
