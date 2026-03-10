@@ -277435,7 +277435,7 @@
         "company_name": "Masimo",
         "id": "e189e9a3-afb2-46ca-baaa-0c3473d92f35",
         "title": "2026 Summer Intern - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -279588,7 +279588,7 @@
         "company_name": "Toyota Research Institute",
         "id": "f3cad4b1-3916-4edb-9914-1eb5f580fae3",
         "title": "Human Interactive Driving Intern - Human-Machine Interaction Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -328566,7 +328566,7 @@
         "company_name": "Cooper Standard",
         "id": "be1f4c12-f49f-4477-91a1-4e41265adb86",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
