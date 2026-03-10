@@ -46559,7 +46559,7 @@
         "company_name": "Qualcomm",
         "id": "a084eb80-7d00-480c-a9f3-5d04a91c0b29",
         "title": "Software Engineering Internship - Interim Engineering Intern - SW",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -120431,7 +120431,7 @@
         "company_name": "Maven Securities",
         "id": "493f0e67-e03e-441d-b6b4-0a3e9a67c92f",
         "title": "Trader Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -295742,7 +295742,7 @@
         "company_name": "Air Liquide",
         "id": "fe95fa5b-939c-4283-be61-127a057964b1",
         "title": "Vie \u2013 S&OP and Sourcing Data Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -298710,7 +298710,7 @@
         "company_name": "PA Consulting",
         "id": "a6c20ee9-648a-4a18-a7f4-af646dcdf7ef",
         "title": "2026 Apprentice - Digital - Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -343891,7 +343891,7 @@
         "company_name": "Samsung",
         "id": "3af55220-f794-4b5b-8d15-4e5bc1ce3bae",
         "title": "Data Analyst & System Support Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -363792,7 +363792,7 @@
         "company_name": "PA Consulting",
         "id": "867a10c2-b56f-4ac7-8fe6-80c2b0b698a4",
         "title": "Intern - Digital - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -387144,7 +387144,7 @@
         "company_name": "Eataly",
         "id": "80b3d77a-6525-401b-957e-b7592c54fd2b",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -399818,7 +399818,7 @@
         "company_name": "Eataly",
         "id": "51bc311b-c00c-4cba-849f-af2882c8a504",
         "title": "Product Intern - Eataly Corporate",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -414966,6 +414966,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "0c5a0f23-8175-4d54-8f71-99db02aa84c4",
+        "title": "Applied Scientist",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773134562,
+        "date_posted": 1773134562,
+        "url": "https://amazon.jobs/en/jobs/3149074/applied-scientist",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
