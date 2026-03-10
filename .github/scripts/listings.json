@@ -136645,7 +136645,7 @@
         "company_name": "Salesforce",
         "id": "9f667973-2421-4526-bf73-3103d394756f",
         "title": "Intern - AI Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -162108,7 +162108,7 @@
         "company_name": "Electronic Arts",
         "id": "665f2a0a-42d1-4e5f-b0f4-cf6f9b72d91d",
         "title": "Data Analyst Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -300083,7 +300083,7 @@
         "company_name": "doTERRA",
         "id": "c2b88db1-8007-4398-b27f-522d6a31d348",
         "title": ",",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -300804,7 +300804,7 @@
         "company_name": "Thales",
         "id": "2f708367-3ef7-4287-8135-c4cd0d36cd3b",
         "title": "2026 Engineering Student Placement - Digital Industry",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -302317,7 +302317,7 @@
         "company_name": "Hearst",
         "id": "7c3faa9b-b665-40f8-8f30-5edef4e51343",
         "title": "Rebele Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -322525,7 +322525,7 @@
         "company_name": "Sharp Electronics",
         "id": "3b35756e-7286-42b2-94bb-f51c37e5049e",
         "title": "Intern - HR Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -322843,7 +322843,7 @@
         "company_name": "nVent",
         "id": "a89d8b7a-2d63-46eb-8393-82958f1de11a",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -342102,7 +342102,7 @@
         "company_name": "Applied Materials",
         "id": "0ef7755b-a125-4263-aced-44c1c19cbc8d",
         "title": "Physicist/Scientist Intern - PhD - Santa Clara, CA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -349278,7 +349278,7 @@
         "company_name": "Regal Rexnord",
         "id": "0ecfcf90-e463-426e-8f3b-87962cb1461d",
         "title": "Application Team Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -351032,7 +351032,7 @@
         "company_name": "Healthfirst",
         "id": "24be28ad-1a4f-4f3a-ad6f-8df660333755",
         "title": "IT Product Intern \u2013 2026 Summer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -354443,7 +354443,7 @@
         "company_name": "Twilio",
         "id": "ba5b1cbc-b4b8-472d-af63-284c8f9c7ed9",
         "title": "Software Engineer Intern - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -356497,7 +356497,7 @@
         "company_name": "CAE",
         "id": "57a85a30-1839-4b8b-af86-6fe6a2ea3c99",
         "title": "Integration Specialist Intern Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -362386,7 +362386,7 @@
         "company_name": "Patterson",
         "id": "2791d96f-99de-4271-ad3a-81c299ff671e",
         "title": "Digital Workplace Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364969,7 +364969,7 @@
         "company_name": "Sony",
         "id": "c60c3246-7c58-4425-9a54-f8ddbc08f517",
         "title": "Applied Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -372005,7 +372005,7 @@
         "company_name": "Sonos",
         "id": "ab67d355-86a4-4dfe-8b1f-8093c5ee1863",
         "title": "IT Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -375486,7 +375486,7 @@
         "company_name": "Johnson Controls",
         "id": "7bae9891-59e2-4d28-84d9-7c17571775c3",
         "title": "Digital Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -375922,7 +375922,7 @@
         "company_name": "NICE ",
         "id": "53168310-07ef-45df-ac22-520fa73e1bc1",
         "title": "Associate Software Engineer - Student Program",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -378966,7 +378966,7 @@
         "company_name": "Micron Technology",
         "id": "7e74d34c-c928-4d58-bfac-e53a2b637c4d",
         "title": "Intern \u2013 SSD Systems Design Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379039,7 +379039,7 @@
         "company_name": "Micron Technology",
         "id": "21f1568b-44e3-4c16-87a2-661a1be76e92",
         "title": "Intern \u2013 Firmware & Product Testing AI/Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389625,7 +389625,7 @@
         "company_name": "Rolls-Royce",
         "id": "846f5230-aa25-4b5b-a053-77098a55ceee",
         "title": "Undergraduate of the Year Intern - Invite Only",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391545,7 +391545,7 @@
         "company_name": "Spot Freight",
         "id": "053bc08c-7f40-40d2-a905-feda25fe06b3",
         "title": "Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392927,7 +392927,7 @@
         "company_name": "Intel",
         "id": "7a29ff9c-01a6-4b5d-a54d-d878526114e7",
         "title": "AI Software Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -393160,7 +393160,7 @@
         "company_name": "BlueRock Therapeutics",
         "id": "bb0d96aa-6373-4604-9126-0bce0d1bc119",
         "title": "Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -395428,7 +395428,7 @@
         "company_name": "Abacus Insights",
         "id": "d96f31da-5a9c-49f1-b957-f7a3d954a3bb",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -399355,7 +399355,7 @@
         "company_name": "Cboe",
         "id": "8f4b6c80-81f0-4c32-82d8-1f63307712ec",
         "title": "Quantitative Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -400254,7 +400254,7 @@
         "company_name": "EXP",
         "id": "0c1e1d01-d6e3-4dc5-b924-98b7a47b58fc",
         "title": "Environmental Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -401144,7 +401144,7 @@
         "company_name": "Vertex Pharmaceuticals",
         "id": "a53fad6a-d1ee-49aa-8a17-d6b1fb92f116",
         "title": "Data Technology and Engineering Intern - Dte Data Technology And Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -410185,7 +410185,7 @@
         "company_name": "Arch Capital Group",
         "id": "a7b2b82f-dcef-48d1-9de7-5a3667a66828",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -412284,7 +412284,7 @@
         "company_name": "Telesat",
         "id": "62f7ae38-e5e6-4eae-ab70-e69b894b8a53",
         "title": "Network Management System Designer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -414714,7 +414714,7 @@
         "company_name": "Okta",
         "id": "d5144ea1-42d1-4c89-905c-ed13c94163db",
         "title": "Product Marketing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -415306,6 +415306,53 @@
             "Anderson, SC"
         ],
         "company_url": "https://simplify.jobs/c/7b5dc30f-d4b0-4752-be0b-3844a8f590e9",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "University of Maryland - College Park",
+        "id": "a276771a-21d7-40d3-a757-fb60e0af26d9",
+        "title": "ARLIS RISC Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773156514,
+        "date_posted": 1773156514,
+        "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/ARLIS-RISC-Internship_JR103486-1",
+        "locations": [
+            "Hyattsville, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Maryland-College-Park",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Allstate Insurance Company",
+        "id": "949c28bd-3422-465b-953d-d78cdee343d2",
+        "title": "ATS Technology Intern Program",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773156499,
+        "date_posted": 1773156499,
+        "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/XMLNAME-2026-ATS-Technology-Internship-Program_R21520-1",
+        "locations": [
+            "Texas",
+            "Illinois"
+        ],
+        "company_url": "https://simplify.jobs/c/Allstate-Insurance-Company",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
