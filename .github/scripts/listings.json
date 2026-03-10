@@ -265554,7 +265554,7 @@
         "company_name": "Westlake",
         "id": "88ebb3a1-b0bc-4c9a-9272-8930f9576112",
         "title": "Software Engineer/Computer Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -272840,7 +272840,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "7b58a5aa-d8e5-49fb-bc7f-5334cd7e4181",
         "title": "Systems Engineer Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -369692,7 +369692,7 @@
         "company_name": "Orthofix",
         "id": "b9003a16-fdd3-4373-94b4-56ddaf13d104",
         "title": "Product Manager Intern - Interbody",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -414178,7 +414178,7 @@
         "company_name": "CWAN",
         "id": "0a223696-4193-422e-901f-58170d5e08eb",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
