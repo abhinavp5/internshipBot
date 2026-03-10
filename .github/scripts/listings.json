@@ -43479,7 +43479,7 @@
         "company_name": "Sysco",
         "id": "4105463a-bb58-443b-88a1-a67027c7664e",
         "title": "Software Dev Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -224177,7 +224177,7 @@
         "company_name": "Twitch",
         "id": "5fb7985f-37d4-4de7-bbd0-56eb0727c4c6",
         "title": "Graduate Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -251991,7 +251991,7 @@
         "company_name": "Nokia",
         "id": "3151987a-1ed0-4cf4-8ea5-60e96b9ef67e",
         "title": "Silicon Photonics Packaging Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -322700,7 +322700,7 @@
         "company_name": "Keysight Technologies",
         "id": "0229af0b-927c-44ca-92ce-312348b135b1",
         "title": "R&D Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339254,7 +339254,7 @@
         "company_name": "Momentive",
         "id": "db4317d2-d541-42a3-914d-306806ad64b7",
         "title": "Summer 2026 R&D Intern - Hardcoats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -356815,7 +356815,7 @@
         "company_name": "Hitachi",
         "id": "e5957d1a-ed5e-46b3-8b9e-2f1e62678143",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -369715,7 +369715,7 @@
         "company_name": "Orthofix",
         "id": "39b5d2b5-673a-4a98-bb8c-3f1673236bb1",
         "title": "Intern \u2013 Product Manager - Enabling Technologies",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
