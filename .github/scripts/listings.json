@@ -256372,7 +256372,7 @@
         "company_name": "Microsoft",
         "id": "cb32b03e-266a-49cb-88f5-a914bf0c7348",
         "title": "Research Intern - Post-Training",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -297325,7 +297325,7 @@
         "company_name": "Metalenz",
         "id": "f5c90b5f-4594-46fe-aae2-5ef27ff0c3ee",
         "title": "Camera Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -400190,7 +400190,7 @@
         "company_name": "Orion Steel Group",
         "id": "a4473f8c-ae7d-4d71-8ecd-9811fb8b43b7",
         "title": "Inventory Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -417164,6 +417164,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Orion Steel Group",
+        "id": "dd0bd5dd-65a4-4366-bfbf-f95e7686aac1",
+        "title": "Inventory Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773218689,
+        "date_posted": 1772665613,
+        "url": "https://evrazna.wd5.myworkdayjobs.com/EVRAZ/job/Pueblo-CO-USA/Business-Analyst-Intern_R7323",
+        "locations": [
+            "Pueblo, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Orion-Steel-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
