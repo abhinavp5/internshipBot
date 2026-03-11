@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "WGU",
-        "id": "efe3becb-c2ec-489d-9115-aa9b091adefa",
-        "title": "Associate Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752525939,
-        "date_posted": 1752525939,
-        "url": "https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-Office/Associate-Software-Engineer-Intern_JR-022297",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/e05ef31f-f120-4063-adad-2b2fdde995cb",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "DRW",
-        "id": "c7343fde-2dbc-478d-a4b2-9a1ab06f3b52",
-        "title": "Software Developer Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2027",
-            "Summer 2027"
-        ],
-        "date_updated": 1752525551,
-        "date_posted": 1752525551,
-        "url": "https://job-boards.greenhouse.io/drweng/jobs/6987115",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/DRW",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "TD Bank",
         "id": "e27b0cea-cef9-4f52-ab5d-e8fc29dea87c",
@@ -172841,7 +172799,7 @@
         "company_name": "GE Vernova",
         "id": "0b5cc1f6-d429-4d98-a2fb-65c7f30a5d4a",
         "title": "GE Vernova AI Research Intern for Time-series Modeling - Time-series Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -307557,7 +307515,7 @@
         "company_name": "Analytic Partners",
         "id": "a9e6c970-319f-4892-b4f1-4425785dfc2b",
         "title": "Marketing Science Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -327789,7 +327747,7 @@
         "company_name": "Fiserv",
         "id": "7e54b766-69a1-42bd-befe-86cb710f3e19",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368275,7 +368233,7 @@
         "company_name": "HNTB",
         "id": "eae14705-ea58-47e5-82d3-aef77d4dfdc1",
         "title": "Strategic Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -401718,7 +401676,7 @@
         "company_name": "LPL Financial Holdings",
         "id": "0cfcc07e-aeaa-4dfb-ab11-61cdd6617e4f",
         "title": "FAR Program: Summer 2026 Internship - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
