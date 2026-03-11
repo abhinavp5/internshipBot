@@ -2,54 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Harris Computer",
-        "id": "ecebbe66-21e2-4603-a305-59a0bdc571a7",
-        "title": "Software Developer \u2013 Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752473641,
-        "date_posted": 1752473641,
-        "url": "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Ontario-Canada/Software-Developer--Co-op-Intern_R0030937",
-        "locations": [
-            "Alberta, Canada",
-            "British Columbia, Canada",
-            "Ontario, Canada",
-            "NB, Canada",
-            "Charlottetown, PE, Canada",
-            "Nova Scotia, Canada",
-            "Manitoba, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/372c6250-89ed-4b8e-9000-a81fc94184d8",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Caterpillar Inc.",
-        "id": "598fd8eb-41e5-46a3-8c9c-754ae20faa07",
-        "title": "2026 Summer Corporate Intern - Digital and Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1752474311,
-        "date_posted": 1752474311,
-        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/XMLNAME-2026-Summer-Corporate-Intern---Digital-and-Analytics_R0000313300",
-        "locations": [
-            "Peoria, IL",
-            "Chicago, IL",
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "BitGo",
         "id": "78a181f0-a303-49e7-89cd-895a7ea2578d",
         "title": "Software Engineering Intern",
@@ -298710,7 +298662,7 @@
         "company_name": "PA Consulting",
         "id": "a6c20ee9-648a-4a18-a7f4-af646dcdf7ef",
         "title": "2026 Apprentice - Digital - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -302386,7 +302338,7 @@
         "company_name": "Analytic Partners",
         "id": "0d0f933b-fcc1-477a-9c32-f69eb5f6d418",
         "title": "Marketing Science Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -363792,7 +363744,7 @@
         "company_name": "PA Consulting",
         "id": "867a10c2-b56f-4ac7-8fe6-80c2b0b698a4",
         "title": "Intern - Digital - Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -403302,7 +403254,7 @@
         "company_name": "Empower",
         "id": "c61d0898-506a-4948-80fc-b0d286db1306",
         "title": "Intern Software Engineer - Backend",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -408620,7 +408572,7 @@
         "company_name": "CareBridge",
         "id": "c13bc950-2e42-4fd3-9949-0284a1a20b81",
         "title": "Business Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -417138,6 +417090,166 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Brigham Young University - Provo",
+        "id": "fe29bf90-a830-44db-9b7f-ee1ecd343340",
+        "title": "Research Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773210051,
+        "date_posted": 1773210051,
+        "url": "https://byu.wd1.myworkdayjobs.com/byu-careers/job/Provo-UT/Research-Assistant_JR-8464",
+        "locations": [
+            "Provo, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Brigham-Young-University-Provo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "M&G",
+        "id": "5f129450-352a-48c1-b5a9-246d39241e63",
+        "title": "Finance Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1773209868,
+        "date_posted": 1773209868,
+        "url": "https://mgpru.wd3.myworkdayjobs.com/mandgprudential/job/Stirling/Finance-Data-Analyst-Apprentice_R18765",
+        "locations": [
+            "Stirling, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/M-And-G",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "00f32b64-b58c-4797-aab5-0598455c331b",
+        "title": "Intern - Material Scientist / Thin Film Processes Engineer - Ph.D. Only",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773209509,
+        "date_posted": 1773209509,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000113857350",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Motorola",
+        "id": "cd856015-59e7-43e0-b905-b3df1ef541e2",
+        "title": "Sales Product Owner \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773182540,
+        "date_posted": 1773182540,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Sales-Product-Owner---2026-Summer-Internship--Chicago-Hybrid-_R62938",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Insulet Corporation",
+        "id": "7cdb8ddc-4967-4fde-bd96-3e6ef10f4998",
+        "title": "Intern EngOps Software Tools",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773182077,
+        "date_posted": 1773182077,
+        "url": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/San-Diego-California/Intern--EngOps-Software-Tools--June---August-2026--Onsite-_REQ-2025-13506",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Insulet-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mizuho Securities USA",
+        "id": "748035c0-8d17-45bc-b171-510ba89e2f1d",
+        "title": "Commercial Lending Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773210828,
+        "date_posted": 1773210828,
+        "url": "https://mizuho.wd1.myworkdayjobs.com/Mizuho_Confidential/job/NYC-1285/XMLNAME-2026-Commercial-Lending-Technology-Summer-Internship_R6688",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Mizuho-Securities-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "f39b06b7-ed90-4dc9-bf43-20128cd6d975",
+        "title": "ATC Analysts",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773211436,
+        "date_posted": 1773211436,
+        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/St-Pete-140-Fountain-Pkwy-Tampa-Corp/ATC-Summer-Analysts---Tampa---NAELFY26_R00317741",
+        "locations": [
+            "Tampa, FL",
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
