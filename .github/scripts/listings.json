@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "TD Bank",
-        "id": "e27b0cea-cef9-4f52-ab5d-e8fc29dea87c",
-        "title": "Global Markets Intern/Co-op - Institutional FX Sales",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752527912,
-        "date_posted": 1752527912,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/Global-Markets-Intern-Co-op---Institutional-FX-Sales---Montreal--Fall-2025-_R_1432147",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Curve Dental",
         "id": "03f5eb46-608f-42b5-868d-d643e5598b1f",
@@ -25320,7 +25300,7 @@
         "company_name": "Arch Capital Group",
         "id": "b296925d-bba6-4432-96a4-fdadb8f790f8",
         "title": "Enterprise Document Management Systems - Edms",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -286310,7 +286290,7 @@
         "company_name": "Dropbox",
         "id": "fab29d85-7fab-4701-99cf-9321b2adbba9",
         "title": "Data Science Engineer Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -325660,7 +325640,7 @@
         "company_name": "Cadence Design Systems",
         "id": "65219d90-b01d-4651-af5b-b98ac490e9dc",
         "title": "Intern-Backend Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -359836,7 +359816,7 @@
         "company_name": "Applied Materials",
         "id": "d8d315c5-b34e-4647-b756-691e8b925226",
         "title": "Radio Frequency Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -379661,7 +379641,7 @@
         "company_name": "Sigma Computing",
         "id": "6aacacc5-e27e-4c4b-83ac-eaeb3fcd541c",
         "title": "Data Platform Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -400975,7 +400955,7 @@
         "company_name": "Altera Corporation",
         "id": "11bdde01-126a-487a-be3b-dbdf1dc147cc",
         "title": "FPGA IP Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -412158,7 +412138,7 @@
         "company_name": "Western Digital",
         "id": "1a497ed1-0120-49eb-90ae-6834c6737af5",
         "title": "Intern - Data & AI Engineering - Head Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
