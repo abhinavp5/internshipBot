@@ -1,50 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "DRW",
-        "id": "1b59a6da-b31e-43cb-b8db-6b27bed2e95b",
-        "title": "Quantitative Research Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Winter 2027",
-            "Spring 2027",
-            "Summer 2027"
-        ],
-        "date_updated": 1752524915,
-        "date_posted": 1752524915,
-        "url": "https://job-boards.greenhouse.io/drweng/jobs/6987105",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/DRW",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "DRW",
-        "id": "a280fb88-977f-40b2-8db5-33676938c4b7",
-        "title": "CAMPUS RY26 Quantitative Trading Analyst Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Summer 2027"
-        ],
-        "date_updated": 1752524554,
-        "date_posted": 1752524554,
-        "url": "https://job-boards.greenhouse.io/drweng/jobs/6899911",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/DRW",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "WGU",
         "id": "efe3becb-c2ec-489d-9115-aa9b091adefa",
@@ -21852,30 +21808,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Spot Freight",
-        "id": "5888a918-6da0-44e8-92c2-3cb9507a3ae7",
-        "title": "IT Support Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752522759,
-        "date_posted": 1752522759,
-        "url": "https://spotinc.com/careers/applynow/?gh_jid=4584060006",
-        "locations": [
-            "Indianapolis, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Spot-Freight",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
         ]
     },
     {
@@ -284417,7 +284349,7 @@
         "company_name": "Ripple",
         "id": "0ea6e655-7ef5-4b55-9691-157c8a7b718f",
         "title": "Quantitative Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -321225,7 +321157,7 @@
         "company_name": "Autodesk",
         "id": "a6f96e29-36fa-4762-b516-8990ecdab8d1",
         "title": "Intern Software Developer - Stagiaire en d\u00e9veloppement logiciel",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -330651,7 +330583,7 @@
         "company_name": "Fidelity Investments",
         "id": "31c9aecf-5e5c-471d-97db-1a352f8006c0",
         "title": "2026 Leap Technology Program \u2013 Intern Conversion Application - SWE",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -332423,7 +332355,7 @@
         "company_name": "Carnegie Mellon University",
         "id": "9769596e-6df4-48f9-adb1-40703d7f2039",
         "title": "Research Assistant - S3D-School of Computer Science",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -365049,7 +364981,7 @@
         "company_name": "ASML",
         "id": "102ff863-dd4c-4ddf-ab98-370497875305",
         "title": "Internship - EUV Mechanical Install Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -369309,7 +369241,7 @@
         "company_name": "HNTB",
         "id": "3dadf8db-bd7e-4fa4-a584-2e1816f45f62",
         "title": "Strategic Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -399501,7 +399433,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "34d1319d-08b6-4bc2-8fcd-6a627564f7a8",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -403138,7 +403070,7 @@
         "company_name": "Al Warren Oil Company",
         "id": "227d431a-06fc-4dbf-ba0c-b8024da2aa89",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -407122,7 +407054,7 @@
         "company_name": "Nokia",
         "id": "bf1844da-78a3-4ee5-bdec-6ddb4db6738e",
         "title": "Customer Applications Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -407316,7 +407248,7 @@
         "company_name": "Meta",
         "id": "14959732-67fb-4262-a36e-6cada53483ca",
         "title": "Research Scientist Intern - Language and Multimodal Research - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -413628,7 +413560,7 @@
         "company_name": "Tencent",
         "id": "fd9bf6e0-5a8d-4097-a168-0904b2335582",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -417897,6 +417829,30 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Walt Disney Company",
+        "id": "b9af8525-b7e2-4ed1-bc3c-4341454b981b",
+        "title": "Decision Science Product Graduate Associate",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1773182153,
+        "date_posted": 1773182153,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Decision-Science-Product-Graduate-Associate--Summer-Fall-2026_10142048-1",
+        "locations": [
+            "Celebration, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
