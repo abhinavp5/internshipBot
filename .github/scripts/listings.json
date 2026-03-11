@@ -145003,7 +145003,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "58582110-31de-4548-9eee-63b3cfc27ebe",
         "title": "C++ Developer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -224281,7 +224281,7 @@
         "company_name": "David Yurman",
         "id": "5ee977e4-4959-41bc-8444-d644c767e184",
         "title": "Planning Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262222,7 +262222,7 @@
         "company_name": "The Boeing Company",
         "id": "ecb1a20a-1b49-4b82-aef8-6dd3e99ee461",
         "title": "Product Support Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -315675,7 +315675,7 @@
         "company_name": "Autodesk",
         "id": "3c72bcab-2a9f-4f27-ac99-7c57f60d086b",
         "title": "Intern Full Stack Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -317669,7 +317669,7 @@
         "company_name": "Micron Technology",
         "id": "8a69bb29-9a82-4bb3-bee0-5c0468086d01",
         "title": "Intern \u2013 IT MFG",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2026"
@@ -382087,7 +382087,7 @@
         "company_name": "Pitney Bowes",
         "id": "cfc2508d-1c6b-4aca-b883-7d7d09edcfa9",
         "title": "Artificial Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -391617,7 +391617,7 @@
         "company_name": "PMG",
         "id": "1416f60f-eaa1-4f25-abee-b63246c7198a",
         "title": "Graduate Leadership Program - AI & Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -402602,7 +402602,7 @@
         "company_name": "Tempus",
         "id": "1201310d-9dd4-43f8-aea9-891ffcc7cca8",
         "title": "Scientific Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -407780,7 +407780,7 @@
         "company_name": "Argonne National Laboratory",
         "id": "499d924c-1355-4608-a6b7-af27b604d324",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -417634,5 +417634,287 @@
         "date_posted": 1773237943,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Equativ",
+        "id": "29bce9f8-68aa-4651-bb5c-1f47c5e84aea",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773239085,
+        "date_posted": 1773239085,
+        "url": "https://jobs.lever.co/equativ/a7bd1d06-011c-47ab-bc26-64592daf0f80/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Equativ",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RXO",
+        "id": "0f14831d-e744-48b2-85fb-73585a714cb9",
+        "title": "Managed Transportation AI Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773239098,
+        "date_posted": 1773239098,
+        "url": "https://rxo.wd501.myworkdayjobs.com/rxojobs/job/Naperville-Illinois/Managed-Transportation-AI-Intern_JR102276",
+        "locations": [
+            "Naperville, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/RXO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nucor",
+        "id": "8f17cf97-5c52-4cbd-b4ab-7f2542537f3f",
+        "title": "Safety Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1773238797,
+        "date_posted": 1773238797,
+        "url": "https://jobs.nucor.com/job/Brandenburg-Safety-Intern-Brandenburg,-KY-KY-40108/1372183800/?ats=successfactors",
+        "locations": [
+            "Radcliff, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Nucor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Virginia",
+        "id": "a62dfb13-45ba-49b3-8af7-cabc661b195b",
+        "title": "Darden Technical Research Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773237756,
+        "date_posted": 1773237756,
+        "url": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/National/Darden-Technical-Research-Assistant--Student-Wage---Remote-_R0081226",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Virginia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": " CCC Intelligent Solutions",
+        "id": "835a6b2c-b642-463d-ab7f-36c5e157a7cc",
+        "title": "Automotive Service Group \u2013 Product Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773240522,
+        "date_posted": 1773240522,
+        "url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Automotive-Service-Group--ASG--Product-Analyst-Internship-Summer-2026_0014530",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/CCC-Intelligent-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rockwell Automation",
+        "id": "74e32eea-4d08-4306-bc76-b426bad0cf98",
+        "title": "Co-op Hardware Development Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773240592,
+        "date_posted": 1773240592,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Co-op--Hardware-Development-Engineer--May---Dec-2026-_R25-7363",
+        "locations": [
+            "Mayfield Heights, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rockwell Automation",
+        "id": "51fb9701-1b5e-44a1-8ef5-90abe6dcb804",
+        "title": "Intern \u2013 Innovation Platform Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773240580,
+        "date_posted": 1773240580,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Milwaukee-Wisconsin-United-States/Intern--Innovation-Platform-Software-Engineer_R25-6933",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Guidewire",
+        "id": "3c7a2512-c6b9-481a-ad48-58c081ee5025",
+        "title": "AI Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773240633,
+        "date_posted": 1773240633,
+        "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Philadelphia-PA/AI-Engineering-Intern_JR_14530",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Guidewire",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rockwell Automation",
+        "id": "37fc632e-6336-4237-8134-acb3e3918173",
+        "title": "Co-op Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2026"
+        ],
+        "date_updated": 1773240564,
+        "date_posted": 1773240564,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Co-op--Software-Engineering--May-2026---December-2026-_R25-7377",
+        "locations": [
+            "Mayfield Heights, OH",
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Assurant",
+        "id": "1adb3c50-af75-4061-bec3-5d4885f40b24",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773240287,
+        "date_posted": 1773240287,
+        "url": "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Florida-Virtual/Summer-2026--Software-Engineering-Intern_R-112866",
+        "locations": [
+            "Florida",
+            "Georgia"
+        ],
+        "company_url": "https://simplify.jobs/c/Assurant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Verkada",
+        "id": "5c4d26d6-9e97-48ce-a9c2-056793aa1bc4",
+        "title": "Embedded Intern - Security",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1773239367,
+        "date_posted": 1773239367,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4915313007",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verkada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "4f1c16f9-2ec1-4c3f-a32a-7e164e95405b",
+        "title": "Radar Sensing AI Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773238923,
+        "date_posted": 1773238923,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000114051017",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
