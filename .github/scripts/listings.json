@@ -325930,7 +325930,7 @@
         "company_name": "Cadence Design Systems",
         "id": "a294a96f-dc02-4ce2-a4be-7a2f715326fc",
         "title": "Intern-Backend Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -373687,7 +373687,7 @@
         "company_name": "Fiserv",
         "id": "ab2303d9-7665-4a68-bfd1-e2e7657e37fb",
         "title": "Corporate Technology Internship - Application Development / Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2028",
             "Spring 2028",
@@ -398849,7 +398849,7 @@
         "company_name": "The Boeing Company",
         "id": "8dfcd3f9-5315-4159-85cc-999771c0054e",
         "title": "Millennium Space Systems Intern Program - Ground Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -415277,7 +415277,7 @@
         "company_name": "Western Digital",
         "id": "70afacd1-e3ea-4bbd-b095-778d3ca11736",
         "title": "Intern \u2013 HAMR device fabrication Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -415835,7 +415835,7 @@
         "company_name": "Western Digital",
         "id": "154008d5-6a07-43f4-8183-523db70165df",
         "title": "Intern \u2013 HAMR thermal-device fabrication Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -417304,5 +417304,101 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Gen",
+        "id": "79d47e0e-c4b8-4fa4-9b56-bfbc8d685d76",
+        "title": "Glean Support and Admin",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773182767,
+        "date_posted": 1773182767,
+        "url": "https://gen.wd1.myworkdayjobs.com/careers/job/USA---Arizona-Tempe/Glean-Support-and-Admin_55292",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Gen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ensono",
+        "id": "eb1c2cd8-cf11-4210-a174-3b152ba78675",
+        "title": "Intern Capacity Management Data Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773182038,
+        "date_posted": 1773182038,
+        "url": "https://ensono.com/company/careers/jobs-board/?gh_jid=4664665005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ensono",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "F5",
+        "id": "5baea388-2ffd-43d5-95a1-beca6646fe9e",
+        "title": "Software Development Engineer Intern - AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773182088,
+        "date_posted": 1773182088,
+        "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Software-Development-Engineer--AI--Intern_RP1036893",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/F5",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Walt Disney Company",
+        "id": "c61e303c-f62c-4eca-8339-1c2881247344",
+        "title": "Decision Science Undergraduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2027"
+        ],
+        "date_updated": 1773182153,
+        "date_posted": 1773182153,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Decision-Science-Undergraduate-Intern--Summer-Fall-2026_10141868-1",
+        "locations": [
+            "Celebration, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
