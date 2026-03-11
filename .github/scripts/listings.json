@@ -247822,7 +247822,7 @@
         "company_name": "Westinghouse Electric Company",
         "id": "1d64d1a3-607a-4371-a10f-5bc081474208",
         "title": "Software and Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -339842,7 +339842,7 @@
         "company_name": "Werfen",
         "id": "ff5b6351-992d-4e96-b68f-ea249ad8cd63",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -397703,7 +397703,7 @@
         "company_name": "Curtiss-Wright Corporation",
         "id": "b4c5b835-6f44-4991-b556-a45df19da7d9",
         "title": "Performance Engineer Intern - ME",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -417823,5 +417823,80 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Akuna Capital",
+        "id": "533c5cbc-2c31-4f95-b3ee-c79ed5b904ce",
+        "title": "Software Engineer Intern - Python",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768494701,
+        "date_posted": 1768494701,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=7055471",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Akuna Capital University",
+        "id": "9bf45871-ab21-4adf-ad7e-fc57ca65fd8d",
+        "title": "Software Engineer Intern - Full Stack Web",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1761896522,
+        "date_posted": 1761896522,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=7060087",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Akuna Capital University",
+        "id": "c0492323-352f-4760-bf7c-5c301e1b6b72",
+        "title": "Software Engineer Intern - C# .NET Desktop",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1761896524,
+        "date_posted": 1761896524,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=7060377",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
