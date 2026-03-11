@@ -83835,7 +83835,7 @@
         "company_name": "Tenstorrent",
         "id": "e971a3e2-631b-4ad9-ab78-effc38c864ed",
         "title": "AI Compiler Software Intern - Pey",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -150157,7 +150157,7 @@
         "company_name": "Draper",
         "id": "ebe326e0-f3eb-43db-9b9c-e7b5b020d618",
         "title": "Machine Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -264841,7 +264841,7 @@
         "company_name": "Granite Construction",
         "id": "339b67f1-f275-46ed-9113-8768bdbdcb3e",
         "title": "Predictive Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -339699,7 +339699,7 @@
         "company_name": "Kaiser Permanente",
         "id": "4bdcb504-3166-4f68-9d2d-65240fead2cb",
         "title": "Data Reporting Master's Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376420,7 +376420,7 @@
         "company_name": "Motorola",
         "id": "170ba304-176a-435c-988f-3941a42c5d80",
         "title": "R&D Intern - FPGA/RTL Design Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -385922,7 +385922,7 @@
         "company_name": "HARMAN International",
         "id": "71fe0e34-4945-4f57-b7c9-d6741db08ea3",
         "title": "Summer Intern - PMO Office",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -386928,7 +386928,7 @@
         "company_name": "Sika",
         "id": "9a7143b1-5a24-421d-96db-67991a73c98b",
         "title": "Assistant Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -409014,7 +409014,7 @@
         "company_name": "Teledyne",
         "id": "483997bc-2f1d-4b29-a44f-a05af7c86329",
         "title": "RTL Design Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -412538,7 +412538,7 @@
         "company_name": "EXP",
         "id": "91163623-40df-44f0-96d5-f83ad51cbdab",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -416832,6 +416832,312 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Johnson & Johnson",
+        "id": "94403ba7-cf01-46f2-ae76-c89d99e6a9a2",
+        "title": "Software Engineering Co-Op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1773183881,
+        "date_posted": 1773183881,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Engineering-Co-Op---Fall-2026_R-062573",
+        "locations": [
+            "Peabody, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Skechers",
+        "id": "4c02604f-250e-4801-af41-30e1ae5ce871",
+        "title": "Data and Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773193390,
+        "date_posted": 1773193390,
+        "url": "https://skechers.wd5.myworkdayjobs.com/One-career-site/job/Manhattan-Beach-CA/Data-and-Analytics-Intern--Summer-2026-_JR125957",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Skechers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Centific",
+        "id": "d31418b4-7b87-4734-acd9-678ffa7c410f",
+        "title": "Speech Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773193235,
+        "date_posted": 1773193235,
+        "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Speech-Research-Intern--3_JR106159-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Centific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ercot",
+        "id": "6ecb5d5a-dc0a-44d3-b578-be1f6a11c3d8",
+        "title": "Intern Portfolio Management",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773193231,
+        "date_posted": 1773193231,
+        "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Intern---Portfolio-Management_R2206",
+        "locations": [
+            "Pflugerville, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Ercot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Iron Mountain",
+        "id": "336ae0cf-4855-43ea-ae1b-fc8f8648e6c2",
+        "title": "Global RIM Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773193204,
+        "date_posted": 1773193204,
+        "url": "https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/US--MS--Remote/Summer-2026-Global-RIM-Analytics-Intern_J0099226",
+        "locations": [
+            "Boston, MA",
+            "Remote in USA",
+            "Mississippi"
+        ],
+        "company_url": "https://simplify.jobs/c/Iron-Mountain",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cadence Design Systems",
+        "id": "51d2b518-8a4c-4a03-bcfb-e1d13172cd6e",
+        "title": "LLM/ML Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773193082,
+        "date_posted": 1773193082,
+        "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/SAN-JOSE/LLM-ML-Intern--PhD--Summer-2026-_R53409",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Planet",
+        "id": "a4eae6a0-0a10-40c1-9b51-436b4c39b35c",
+        "title": "Intern Imaging Systems",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773191593,
+        "date_posted": 1773191593,
+        "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7660196",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Planet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Meta",
+        "id": "2e38e9f7-d9c5-41d7-aaea-6f98ff29b8ac",
+        "title": "ASIC Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773191606,
+        "date_posted": 1773191606,
+        "url": "https://www.metacareers.com/jobs/921705200549034",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Diligent Corporation",
+        "id": "29d49157-a95a-432e-9f52-fda1f017e447",
+        "title": "Product Builder Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773192552,
+        "date_posted": 1773192552,
+        "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/5800451004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Diligent-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Teleo",
+        "id": "a0117387-55c8-4681-873a-1ea19836a5cd",
+        "title": "Firmware Engineering Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1773181399,
+        "date_posted": 1773181399,
+        "url": "https://jobs.lever.co/teleo/63fe96ee-74dc-41eb-80bc-6f80133c9ffa/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Teleo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "T-Mobile",
+        "id": "81a427f8-76aa-408f-97e7-6f8284fe5faf",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773181413,
+        "date_posted": 1773181413,
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2026-Software-Engineering-Internship_REQ346602",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/T-Mobile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Johnson & Johnson",
+        "id": "06931731-a9a6-4e40-b5a0-12ba56be0f2a",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773183879,
+        "date_posted": 1773183879,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Engineering-Intern_R-062544",
+        "locations": [
+            "Peabody, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Skyways",
+        "id": "05eb958c-8431-4544-978d-eca0a1d74a8e",
+        "title": "Computer Vision and Robotics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773181601,
+        "date_posted": 1773181601,
+        "url": "https://jobs.lever.co/skyways/8e332420-9eba-4a17-9701-a8b4c0052bea/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Skyways",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
