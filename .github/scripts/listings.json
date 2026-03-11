@@ -293575,7 +293575,7 @@
         "company_name": "Daktronics",
         "id": "2cf214fd-022e-4cad-91dd-f044c5da7271",
         "title": "Software Design Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -313232,7 +313232,7 @@
         "company_name": "Motorola",
         "id": "d57bcd14-cbd5-4d53-9c98-8a5526c57a43",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -334731,7 +334731,7 @@
         "company_name": "G-Research",
         "id": "f550cbfa-2b83-45de-928e-35f79583a7c9",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -349419,7 +349419,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "37652651-2ad4-4677-8808-52476788015b",
         "title": "Software / System Engineer for Progeny Business Area - AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -378462,7 +378462,7 @@
         "company_name": "Aptiv",
         "id": "6b0c06bc-c9b0-4920-8ebc-38547005ade2",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391294,7 +391294,7 @@
         "company_name": "Johnson Brothers Liquor Company",
         "id": "7c5b165f-2d55-4b4a-9fb4-6fa235bd52f7",
         "title": "Finance and Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -413197,7 +413197,7 @@
         "company_name": "Nutanix",
         "id": "1ce3d352-25f2-41b8-9988-6ac1d9b487a9",
         "title": "Software Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
