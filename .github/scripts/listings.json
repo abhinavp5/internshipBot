@@ -274738,7 +274738,7 @@
         "company_name": "Wex",
         "id": "a83343f6-f74b-4f1e-98aa-d1e1b1c3b039",
         "title": "PhD Intern - AI/ML/NLP Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -332745,7 +332745,7 @@
         "company_name": "Etsy",
         "id": "bd693aad-4815-4062-819d-b8ad2d790b70",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -413716,7 +413716,7 @@
         "company_name": "First American",
         "id": "2adbbdcc-fff1-441c-91c0-d563e35b9980",
         "title": "Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -415114,7 +415114,7 @@
         "company_name": "Ciena",
         "id": "4550f176-53a5-4040-bf40-924240d9c2e4",
         "title": "Hardware Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -417467,6 +417467,171 @@
         "source": "AlmondCroffle",
         "id": "8274a622-cbef-451f-a6dc-8305ea09eb2a",
         "date_posted": 1773229251,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773236130,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.ashbyhq.com/interplay/da19ed8a-f03c-49d8-a2fd-d2988b8c3369",
+        "company_name": "Internship",
+        "title": "AI Deployment Engineering Internship",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "d3558132-2367-473c-930c-63416534e389",
+        "date_posted": 1773236130,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773236309,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/73a2fa9e-69e0-4dc6-8f83-a66db12fb2b3",
+        "company_name": "Veolia",
+        "title": "AI Engineering Intern (SLM)",
+        "locations": [
+            "Paramus, NJ"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "837ebc63-4345-4f2f-b9e4-1523d0d089fb",
+        "date_posted": 1773236309,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773236341,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/060f2b47-8c58-4d3d-86a0-f2dcbcb2bf9b",
+        "company_name": "Veolia",
+        "title": "AI Engineering Intern (LLM)",
+        "locations": [
+            "Paramus, NJ"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "a4a7721f-e359-413c-8931-4b3ec11dc431",
+        "date_posted": 1773236341,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773237526,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://magna.wd3.myworkdayjobs.com/en-US/magna/job/Troy-Michigan-US/Robotics-AI-Software--R-D-Summer-2026_R00232838",
+        "company_name": "Magna",
+        "title": "Robotics AI Software- R&D",
+        "locations": [
+            "Troy, MI"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "93aad207-f111-43b0-be25-98c6db424327",
+        "date_posted": 1773237526,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Walt Disney Company",
+        "id": "bf15c5a2-1519-46ee-be8b-3b10950d9a31",
+        "title": "Decision Science Graduate Associate",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2027"
+        ],
+        "date_updated": 1773182159,
+        "date_posted": 1773182159,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Decision-Science-Graduate-Associate--Summer-Fall-2026_10145527-1",
+        "locations": [
+            "Celebration, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Walt Disney Company",
+        "id": "aa36d9e6-ea1f-4a00-ab6d-8ec4183394cd",
+        "title": "Decision Science Graduate Associate",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2027"
+        ],
+        "date_updated": 1773182161,
+        "date_posted": 1773182161,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Decision-Science-Graduate-Associate--Summer-Fall-2026_10145527",
+        "locations": [
+            "Celebration, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "date_updated": 1773237943,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://magna.wd3.myworkdayjobs.com/en-US/magna/job/Troy-Michigan-US/Robotics-AI-Algorithm--R-D-Summer-2026_R00232837",
+        "company_name": "Magna",
+        "title": "Robotics AI Algorithm- R&D",
+        "locations": [
+            "Troy, MI"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "226d8391-85d9-4671-9460-0c1aba2da6d1",
+        "date_posted": 1773237943,
         "company_url": "",
         "is_visible": true
     }
