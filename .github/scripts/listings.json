@@ -417400,5 +417400,74 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1773228985,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://nelnet.wd1.myworkdayjobs.com/en-US/mynelnet/job/Lincoln-NE/INTERN-Software-Quality-Specialist_R22409",
+        "company_name": "Nelnet",
+        "title": "INTERN Software Quality Specialist",
+        "locations": [
+            "Lincoln, NE"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "3bcce497-1cb7-451e-899e-12f6ecfeae4d",
+        "date_posted": 1773228985,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773229106,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://abcfinancial.wd5.myworkdayjobs.com/en-US/abcfinancialservices/job/Remote-United-States/Front-End-Developer-Intern_REQ-1178",
+        "company_name": "Trainerize",
+        "title": "Front-End Developer Intern",
+        "locations": [
+            "Remote in US"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "b85d6890-18f4-498f-a4c3-abb03ae59a10",
+        "date_posted": 1773229106,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773229251,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-sargentlundy.icims.com/jobs/22878/it-infrastructure-%26-cloud-operations-intern-%28summer-2026%29/job",
+        "company_name": "Sargent & Lundy",
+        "title": "IT Infrastructure & Cloud Operations Intern",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "8274a622-cbef-451f-a6dc-8305ea09eb2a",
+        "date_posted": 1773229251,
+        "company_url": "",
+        "is_visible": true
     }
 ]
