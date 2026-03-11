@@ -128,186 +128,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Clarity Innovations",
-        "id": "f00fed72-e40a-4faa-90a5-5542a89666b1",
-        "title": "Internship \u2013 Software Engineering Intern",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752516717,
-        "date_posted": 1752516717,
-        "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/4776912007",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Clarity-Innovations",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Bridgewater Associates",
-        "id": "a8440d30-9b5e-4550-b1e4-b7c7efb1f49d",
-        "title": "Investment Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754508769,
-        "date_posted": 1752519199,
-        "url": "https://job-boards.greenhouse.io/bwaltpostings/jobs/7950099002",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Bridgewater-Associates",
-        "is_visible": true,
-        "sponsorship": "Does Not Offer Sponsorship"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Akuna Capital",
-        "id": "9bf45871-ab21-4adf-ad7e-fc57ca65fd8d",
-        "title": "Software Engineer Intern - Full Stack Web",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1752518401,
-        "date_posted": 1752518401,
-        "url": "https://www.akunacapital.com/job-details?gh_jid=7060087",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Akuna-Capital",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Akuna Capital",
-        "id": "2156c922-ba8a-4f27-bd2a-50aaab6dfc8c",
-        "title": "Hardware Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1752518400,
-        "date_posted": 1752518400,
-        "url": "https://www.akunacapital.com/job-details?gh_jid=6945855",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Akuna-Capital",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Akuna Capital",
-        "id": "533c5cbc-2c31-4f95-b3ee-c79ed5b904ce",
-        "title": "Software Engineer Intern - Python",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1752518405,
-        "date_posted": 1752518405,
-        "url": "https://www.akunacapital.com/job-details?gh_jid=7055471",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Akuna-Capital",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Akuna Capital",
-        "id": "9f4cdfd7-56ef-48ca-9ae9-100399041c1e",
-        "title": "Software Engineer Intern - C++",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1752518407,
-        "date_posted": 1752518407,
-        "url": "https://www.akunacapital.com/job-details?gh_jid=6996427",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Akuna-Capital",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Akuna Capital",
-        "id": "c0492323-352f-4760-bf7c-5c301e1b6b72",
-        "title": "Software Engineer Intern - C# .NET Desktop",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1752518400,
-        "date_posted": 1752518400,
-        "url": "https://www.akunacapital.com/job-details?gh_jid=7060377",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Akuna-Capital",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Akuna Capital",
-        "id": "08d72057-2262-4940-ab32-648dcc930353",
-        "title": "Quantitative Research Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1752518401,
-        "date_posted": 1752518401,
-        "url": "https://www.akunacapital.com/job-details?gh_jid=7055793",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Akuna-Capital",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Akuna Capital",
-        "id": "0f902ab7-852b-4624-9759-d50392926fc8",
-        "title": "Quantitative Development & Strategy Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1752518402,
-        "date_posted": 1752518402,
-        "url": "https://www.akunacapital.com/job-details?gh_jid=7065132",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Akuna-Capital",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "BILL",
         "id": "1d99182b-c744-4d2f-a23f-19dc5a040262",
         "title": "Software Engineer Intern",
@@ -786,7 +606,7 @@
             "Summer 2026"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "aedeea80-c175-4dad-aedb-40e5b199d02f",
         "date_posted": 1752703034,
@@ -68475,7 +68295,7 @@
         "company_name": "Pella Corporation",
         "id": "da606e07-8850-440a-b428-f9b011505660",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -205242,7 +205062,7 @@
         "company_name": "HP IQ",
         "id": "e18ae66f-d88d-4ba5-a8d1-7fd66e59f0fd",
         "title": "Software Engineer Intern, Cloud Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -291711,32 +291531,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Core One",
-        "id": "ca6ba120-30b7-463f-8084-5f11fa08eebc",
-        "title": "Software Developer 1",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1762816865,
-        "date_posted": 1752519352,
-        "url": "https://job-boards.greenhouse.io/coreone/jobs/6603161002",
-        "locations": [
-            "Vienna, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Core-One",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Axos Bank",
         "id": "c3cc7689-cedc-4a08-a874-30562496c63e",
@@ -314461,7 +314255,7 @@
         "company_name": "Assurant",
         "id": "ba4074f5-0f8d-42a9-a435-f800311f25c3",
         "title": "Technical Product/Project Owner Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -330958,7 +330752,7 @@
         "company_name": "Motorola",
         "id": "7e704a7b-6f36-4697-bba0-d56d983d0332",
         "title": "Android Applications Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -366566,7 +366360,7 @@
         "company_name": "CAE",
         "id": "4d1c450c-74f1-4a8d-bf99-813d77902458",
         "title": "C-MAT-100 Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368922,7 +368716,7 @@
         "company_name": "Hudson River Trading",
         "id": "342d8045-73d3-4b43-9912-7c4a2b6d57be",
         "title": "Explore HRT",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -393706,7 +393500,7 @@
         "company_name": "Marmon Holdings",
         "id": "a326d216-5244-417c-a689-f20a6499291d",
         "title": "Business/Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -398781,7 +398575,7 @@
         "company_name": "Fabletics",
         "id": "841bd1ba-7eb9-4f6c-8f00-f5e813bcda46",
         "title": "Sustainability Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
