@@ -196814,7 +196814,7 @@
         "company_name": "LinkedIn",
         "id": "4145fa34-a3e7-4c03-94ca-76d6d02e4386",
         "title": "AI/ML Engineer Intern - Master's - Summer 2026 - Mountain View - CA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -220928,7 +220928,7 @@
         "company_name": "LinkedIn",
         "id": "fa7e7c93-38f2-4017-b3c5-f46831cd229b",
         "title": "AI/ML Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -287587,7 +287587,7 @@
         "company_name": "Paccar",
         "id": "d82af850-c49c-44fe-adc1-0caff174982b",
         "title": "Manufacturing Engineering Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -340002,7 +340002,7 @@
         "company_name": "Zoom",
         "id": "28e51d08-336a-41d8-83e7-45102fc897eb",
         "title": "AI Engineering Intern - AI Agent",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -381525,7 +381525,7 @@
         "company_name": "Healthfirst",
         "id": "d1b59eb3-bf1d-4cda-813e-576bdd1e61fc",
         "title": "Finance Risk Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -386416,7 +386416,7 @@
         "company_name": "Cisco",
         "id": "fa84649f-3632-46fe-b8fa-0d64d7bc0e0e",
         "title": "AI Research Scientist 2 \u2013 Intern - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -387154,7 +387154,7 @@
         "company_name": "Savannah River National Laboratory",
         "id": "d1654222-f2c3-41be-b231-efb9ca8dbb1f",
         "title": "Fusion Energy Nonproliferation Studies Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -401010,7 +401010,7 @@
         "company_name": "Vertex Pharmaceuticals",
         "id": "a53fad6a-d1ee-49aa-8a17-d6b1fb92f116",
         "title": "Data Technology and Engineering Intern - Dte Data Technology And Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -403051,7 +403051,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Sandisk",
-        "id": "82e54dd9-c897-48fd-8bc5-aab00fd7925a",
+        "id": "bf4a50ac-86b2-459d-8ba1-6afb52b2a0c2",
         "title": "Summer 2026 PhD IT Data Science Intern - Business / Operations / Strategy",
         "active": true,
         "terms": [
@@ -415740,7 +415740,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Veolia",
-        "id": "fb8f1fe2-88b3-4f02-b5b4-f8058622c231",
+        "id": "e4667c06-20be-4852-b4d6-d0f48aec1077",
         "title": "Intern Environmental Data & Water Quality Analyst",
         "active": true,
         "terms": [
@@ -417188,5 +417188,121 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Monolithic Power Systems",
+        "id": "a2f342be-ccae-44b7-8563-6589e27bd20c",
+        "title": "Application Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773220685,
+        "date_posted": 1773220685,
+        "url": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Application-Engineer-Intern_R-890",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Monolithic-Power-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Monolithic Power Systems",
+        "id": "92f48b0c-4e0e-4619-9698-e8339a3a3182",
+        "title": "IT System Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773220684,
+        "date_posted": 1773220684,
+        "url": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/IT-System-Software-Intern_R-1089",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Monolithic-Power-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Monolithic Power Systems",
+        "id": "685ce683-1a8d-4426-949b-5542c9ae5a5b",
+        "title": "AI Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773220688,
+        "date_posted": 1773220688,
+        "url": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose---California/AI-Developer-Intern_R-674",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Monolithic-Power-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Monolithic Power Systems",
+        "id": "e1259328-4f62-4df2-a9ec-4fa7f3ace9c7",
+        "title": "Product Marketing Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773220681,
+        "date_posted": 1773220681,
+        "url": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Product-Marketing-Intern_R-1105",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Monolithic-Power-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Loblaw Companies",
+        "id": "b91a35c3-bf48-441d-8e9d-8fb75dfe8ba9",
+        "title": "Associate Merchant \u2013 Co-op Student - Discount Fresh",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773223415,
+        "date_posted": 1773223415,
+        "url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Associate-Merchant--Discount-Fresh---Co-op-Student_R2000629267-1",
+        "locations": [
+            "Brampton, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Loblaw-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
