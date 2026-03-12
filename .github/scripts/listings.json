@@ -317721,7 +317721,7 @@
         "company_name": "Agilent Technologies",
         "id": "8717f209-f40d-4193-9cc1-bdb26578a437",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -338150,7 +338150,7 @@
         "company_name": "Guidewire",
         "id": "f5d44621-d7dc-4445-af68-630c9f362b2b",
         "title": "Go To Market AI Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -396160,7 +396160,7 @@
         "company_name": "S&P Global ",
         "id": "06ea7d04-62d0-421f-8359-aea3d9ca715d",
         "title": "Summer Intern - Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
