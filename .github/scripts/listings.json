@@ -1,191 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Geotab",
-        "id": "2eb982ee-9ac1-4246-a93b-fdd920748148",
-        "title": "Software Developer Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752593395,
-        "date_posted": 1752593395,
-        "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/4575184008",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Oakville, ON, Canada",
-            "Kitchener, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Geotab",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Geotab",
-        "id": "6832ab76-ef30-46ff-863c-78bf6f03b1d0",
-        "title": "Data Analyst Intern - Data Operations",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752593395,
-        "date_posted": 1752593395,
-        "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/4615491008",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Oakville, ON, Canada",
-            "Kitchener, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Geotab",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Geotab",
-        "id": "c6e38bc7-daae-4ab6-9728-3b51745a9025",
-        "title": "Software Development Intern - IO Mobile App Platform",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752593387,
-        "date_posted": 1752593387,
-        "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/4628085008",
-        "locations": [
-            "Oakville, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Geotab",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nissan Global",
-        "id": "67e55ea9-7dc1-4129-854b-083feca47415",
-        "title": "Data Scientist Degree Apprentice",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752593260,
-        "date_posted": 1752593260,
-        "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Cranfield/Data-Scientist-Degree-Apprentice_R00193334",
-        "locations": [
-            "Bedfordshire, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Nissan-Global",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Capital One",
-        "id": "50c69c72-2547-465e-8e07-643c6cff1247",
-        "title": "Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1752594418,
-        "date_posted": 1752594418,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Data-Analyst-Intern---Summer-2026_R218614-1",
-        "locations": [
-            "McLean, VA",
-            "Richmond, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Integra FEC",
-        "id": "4294f84d-72ea-4305-9184-fb401c89700b",
-        "title": "Fall \u2013 Data Scientist Intern - PhD",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752594661,
-        "date_posted": 1752594661,
-        "url": "https://job-boards.greenhouse.io/integra/jobs/4522522008",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Integra-FEC",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Integra FEC",
-        "id": "c50a2a65-255b-4e7f-b3a7-c823855372d6",
-        "title": "Fall \u2013 Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752594662,
-        "date_posted": 1752594662,
-        "url": "https://job-boards.greenhouse.io/integrainterns/jobs/4522500008",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Integra-FEC",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Integra FEC",
-        "id": "b9b7b539-ad69-4201-847f-6dfc32c09e67",
-        "title": "Fall \u2013 Data Scientist Intern - PhD",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752594662,
-        "date_posted": 1752594662,
-        "url": "https://job-boards.greenhouse.io/integrainterns/jobs/4580605008",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Integra-FEC",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Integra FEC",
-        "id": "cc7f3be6-0c1d-4d28-9284-af55f27b3a1b",
-        "title": "Fall \u2013 Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752594661,
-        "date_posted": 1752594661,
-        "url": "https://job-boards.greenhouse.io/integra/jobs/4522499008",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Integra-FEC",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Neuralink",
         "id": "d363c23b-f987-413e-81b9-316ca38ddb0d",
@@ -193228,48 +193043,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Altamira Technologies",
-        "id": "e5de1295-0a3a-42c5-bdda-b2123f2c5446",
-        "title": "Passive Geolocation Operator Apprentice",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761936948,
-        "date_posted": 1752593308,
-        "url": "https://jobs.jobvite.com/altamiracorps/job/onKzwfwW?nl=1&nl=1&fr=false",
-        "locations": [
-            "Augusta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Altamira-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Altamira Technologies",
-        "id": "04b6eb42-113a-42c1-b076-63d0552bd5f4",
-        "title": "Active Geolocation Operator \u2013 Apprentice",
-        "active": true,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761254906,
-        "date_posted": 1752593304,
-        "url": "https://jobs.jobvite.com/altamiracorps/job/oFKzwfwe?nl=1&nl=1&fr=false",
-        "locations": [
-            "Augusta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Altamira-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "The Federal Reserve System",
         "id": "e58c3648-32e1-4a0f-9b0a-48787321aea7",
         "title": "Intern \u2013 CFI - Consumer Finance Institute - Evergreen Requisition",
@@ -385459,7 +385232,7 @@
         "company_name": "AAA Club Alliance",
         "id": "23eb52b5-cbfb-4fa1-9c23-8dfd575935f8",
         "title": "Intern Digital Product & Experience Strategy",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -421028,6 +420801,33 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bob's Discount Furniture",
+        "id": "13dca38f-d493-4065-8dcf-1f42665509a9",
+        "title": "IT SAP Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773310158,
+        "date_posted": 1773097631,
+        "url": "https://bobsdf.wd1.myworkdayjobs.com/bobs_careers/job/Corporate-Headquarters-Manchester-CT/IT-SAP-Intern_R-30874",
+        "locations": [
+            "Waterbury, CT",
+            "Rhode Island",
+            "Massachusetts",
+            "Manchester, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Bobs-Discount-Furniture",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
