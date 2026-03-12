@@ -174622,7 +174622,7 @@
         "company_name": "RTX",
         "id": "9ec71ba1-c547-400c-9b87-51b26f834abd",
         "title": "Summer 2026: Network Research Intern - Onsite",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332510,7 +332510,7 @@
         "company_name": "Box",
         "id": "ec207277-01e7-459f-890d-8ef27cf9c4aa",
         "title": "Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -336000,7 +336000,7 @@
         "company_name": "Shawmut Design and Construction",
         "id": "6ebdc503-b951-47e3-91f8-018560e48e45",
         "title": "Intern/Coop-Software Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346679,7 +346679,7 @@
         "company_name": "Midmark ",
         "id": "67f6015c-ceed-456b-906c-a93146fa088e",
         "title": "IT Software Development Co-op - Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -353771,7 +353771,7 @@
         "company_name": "Kaiser Permanente",
         "id": "cfbe723e-9302-407c-8916-161866239f71",
         "title": "Data Reporting and Analytics Master's Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -387610,7 +387610,7 @@
         "company_name": "L3Harris Technologies",
         "id": "5bb0b25b-cf94-41a0-bbc0-a6d34ba6f167",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -390412,7 +390412,7 @@
         "company_name": "Johnson & Johnson",
         "id": "4b54819f-a429-4416-b004-fbee56f253f4",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -394026,7 +394026,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "7ff0e80a-03a6-4150-81e8-dd1cbf6c41a2",
         "title": "Relationship Manager Business Markets",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -413874,7 +413874,7 @@
         "company_name": "Intermountain Healthcare",
         "id": "fa37a4a0-6f18-4c4c-b692-12276e384716",
         "title": "Select Health Analytics Intern 3",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -420022,7 +420022,7 @@
         "company_name": "Intuit",
         "id": "cb078be0-abe5-4197-82d4-f18a0201fcdd",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -420085,5 +420085,295 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Netflix",
+        "id": "d7f7bb74-5a92-4922-9cdc-052e08d92e7f",
+        "title": "Data Visualization Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773297668,
+        "date_posted": 1773297668,
+        "url": "https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Data-Visualization-Engineering-Intern--Summer-2026_JR37464",
+        "locations": [
+            "LA",
+            "Los Gatos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Netflix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Netflix",
+        "id": "bab3ab2f-ba35-47bb-8885-90bbf853e598",
+        "title": "Machine Learning/AI Scientist Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1773297673,
+        "date_posted": 1773297673,
+        "url": "https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Machine-Learning-AI-Scientist-Intern--PhD---2026_JR36511",
+        "locations": [
+            "LA",
+            "Los Gatos, CA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Netflix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Netflix",
+        "id": "7854f44d-0c91-43d9-ad63-fa02ca30cbec",
+        "title": "Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773297591,
+        "date_posted": 1773297591,
+        "url": "https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Data-Engineering-Intern--Summer-2026_JR37463",
+        "locations": [
+            "LA",
+            "Los Gatos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Netflix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Netflix",
+        "id": "64537452-c4db-4b8f-91c5-fce40ed4c676",
+        "title": "Software Engineer PhD Intern - Streaming Algorithms",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773297666,
+        "date_posted": 1773297666,
+        "url": "https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Software-Engineer-PhD-Intern--Streaming-Algorithms--Summer-2026-_JR37687",
+        "locations": [
+            "Los Gatos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Netflix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Netflix",
+        "id": "85f0869c-e664-4ea0-9936-44de4212fd42",
+        "title": "Experimentation & Causal Inference Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773297570,
+        "date_posted": 1773297570,
+        "url": "https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Experimentation---Causal-Inference-Intern--Summer-2026_JR37465",
+        "locations": [
+            "LA",
+            "Los Gatos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Netflix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "ba366c5e-dd76-419c-962d-cf72cfbacb5b",
+        "title": "Digital Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773297252,
+        "date_posted": 1773297252,
+        "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_restricted_site/job/United-States-California-Manhattan-Beach/XMLNAME-2026-Digital-Engineer-Intern---Manhattan-Beach-CA_R10215135-1",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "4b3ff341-926d-40cd-9f89-3a52df428b20",
+        "title": "Intern Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773297263,
+        "date_posted": 1773297263,
+        "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_restricted_site/job/United-States-California-San-Diego/XMLNAME-2026-Intern-Software-Engineer_R10217175-2",
+        "locations": [
+            "Palmdale, CA",
+            "Oklahoma City, OK",
+            "Grand Forks, ND",
+            "San Diego, CA",
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Paramount Global",
+        "id": "b46f1e90-c065-4361-a8d7-63ff88dfe2d2",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773296414,
+        "date_posted": 1773296414,
+        "url": "https://careers.paramount.com/job/New-York-Data-Science-Intern-(Summer-2026-In-Person-NYC)-NY-10036/1372589600/?ats=successfactors",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Paramount-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nightwing Intelligence Solutions",
+        "id": "e9569c77-dc0a-48e3-a280-aab0544afe8e",
+        "title": "Radio Frequency Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773295748,
+        "date_posted": 1773295748,
+        "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/RF-Engineering-Intern---2026_JR101095",
+        "locations": [
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nightwing-Intelligence-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nightwing Intelligence Solutions",
+        "id": "a23c7bac-674a-4946-b5b6-fe0be369b3b8",
+        "title": "Vulnerability Researcher Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773295740,
+        "date_posted": 1773295740,
+        "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Vulnerability-Researcher-Intern---2026_JR101083",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Nightwing-Intelligence-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nightwing Intelligence Solutions",
+        "id": "8d4cc684-f28e-4312-9767-b52df6a83125",
+        "title": "Artificial Intelligence Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773295747,
+        "date_posted": 1773295747,
+        "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Sterling-VA/Artificial-Intelligence-Intern---2026_JR101096",
+        "locations": [
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nightwing-Intelligence-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nightwing Intelligence Solutions",
+        "id": "0e09c7e0-57be-41ea-968b-152b75961c14",
+        "title": "Cyber CNO Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1773295740,
+        "date_posted": 1773295740,
+        "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Greenville-SC/Cyber-CNO-Development-Intern---2026_JR101076",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Nightwing-Intelligence-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
