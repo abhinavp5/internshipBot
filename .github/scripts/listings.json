@@ -1,70 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "BILL",
-        "id": "1d99182b-c744-4d2f-a23f-19dc5a040262",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1752547879,
-        "date_posted": 1752547879,
-        "url": "https://www.bill.com/job?5588094004&gh_jid=5588094004",
-        "locations": [
-            "San Jose, CA",
-            "Draper, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Bill-Dot-Com",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Occidental Petroleum",
-        "id": "387d5861-f87f-4086-b76b-88018de85a3f",
-        "title": "Co-Op \u2013 Data - Well Servicing & Engineering",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752549310,
-        "date_posted": 1752549310,
-        "url": "https://oxy.wd5.myworkdayjobs.com/Corporate/job/_JR100413",
-        "locations": [
-            "Midland, TX",
-            "Houston, TX",
-            "Fort Lupton, CO",
-            "Lubbock, TX",
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Occidental-Petroleum",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Live Nation Entertainment",
-        "id": "2423b44d-ac5b-4ceb-a773-24532a6cd601",
-        "title": "Nosql Team Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1752550895,
-        "date_posted": 1752550895,
-        "url": "https://livenation.wd1.myworkdayjobs.com/en-US/LNExternalSite/job/Beverly-Hills-CA-USA/NoSQL-Team-Intern_JR-76287-1",
-        "locations": [
-            "Culver City, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1754477657,
         "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Software-Development-Intern--e-Transfer-_REQ-1870",
         "company_name": "Interac",
@@ -130724,31 +130659,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Optiver",
-        "id": "f953816b-397f-47c3-9284-beec8e9b3240",
-        "title": "FPGA Engineer Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759588736,
-        "date_posted": 1752549263,
-        "url": "https://optiver.com/working-at-optiver/career-opportunities/8033372002/?gh_jid=8033372002",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Optiver",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Ansys",
         "id": "e2afab48-9d95-411f-a8d5-dc3d341c2fb1",
@@ -231964,7 +231874,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "13b7c241-9713-48a9-9956-7b0189c0e26b",
         "title": "ATS Technology Intern Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -264353,7 +264263,7 @@
         "company_name": "Granite Construction",
         "id": "339b67f1-f275-46ed-9113-8768bdbdcb3e",
         "title": "Predictive Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -382934,7 +382844,7 @@
         "company_name": "Legal & General",
         "id": "6553117c-086b-4a60-be95-61e39e034f1c",
         "title": "Apprenticeship - Asset Management Data Programme - London 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -384829,7 +384739,7 @@
         "company_name": "Jones Lang LaSalle (JLL)",
         "id": "c751918f-ecf0-4884-9dbb-78f58b8d25b5",
         "title": "Technology Program Management Summer 2026 Internship - New York - NY",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -385755,7 +385665,7 @@
         "company_name": "CAE",
         "id": "de0049e1-ae22-47ba-8b67-a6ca29775855",
         "title": "Software Engineering Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -394069,7 +393979,7 @@
         "company_name": "John Deere",
         "id": "2cda038e-f60e-4b0f-8cf0-5dc72c51d2c2",
         "title": "Part Time Student - Software Engineering - Champaign, IL, Technology (CA)",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -402671,7 +402581,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Sandisk",
-        "id": "bf4a50ac-86b2-459d-8ba1-6afb52b2a0c2",
+        "id": "82e54dd9-c897-48fd-8bc5-aab00fd7925a",
         "title": "Summer 2026 PhD IT Data Science Intern - Business / Operations / Strategy",
         "active": true,
         "terms": [
@@ -403711,7 +403621,7 @@
         "company_name": "Moog ",
         "id": "6d5fd7a2-6a27-4709-9e18-0a420de2615c",
         "title": "Intern \u2013 Systems Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -410608,7 +410518,7 @@
         "company_name": "Motorola",
         "id": "264a746d-d91a-4976-b294-e7405d847378",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -411050,7 +410960,7 @@
         "company_name": "Parsons",
         "id": "3b743f88-adba-41c3-9044-69314a75dabe",
         "title": "Computer Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -415222,7 +415132,7 @@
         "company_name": "Avnet",
         "id": "e8783b04-70ef-441e-afc9-e9470cede116",
         "title": "ServiceNow Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -416470,7 +416380,7 @@
         "company_name": "Planet",
         "id": "a4eae6a0-0a10-40c1-9b51-436b4c39b35c",
         "title": "Intern Imaging Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -416886,7 +416796,7 @@
         "company_name": "Monolithic Power Systems",
         "id": "e1259328-4f62-4df2-a9ec-4fa7f3ace9c7",
         "title": "Product Marketing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -419483,6 +419393,124 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Parsons",
+        "id": "aa20fa7f-c18a-4cf1-be7b-b9aaa7116d94",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773193837,
+        "date_posted": 1773193837,
+        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Software-Developer-Intern---US-Citizenship-Required_R178372-1",
+        "locations": [
+            "Centreville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Parsons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Air Liquide",
+        "id": "9a50b998-0876-4fd2-8ae4-caf81a03f2ab",
+        "title": "VIE Product Management NCE",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773210678,
+        "date_posted": 1773210678,
+        "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Germany-Krefeld/VIE-Product-Management-NCE----F-M-D-_R10080448",
+        "locations": [
+            "Neukirchen-Vluyn, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/Air-Liquide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Transcarent",
+        "id": "1d5665e4-3d94-414b-9da3-ddba0fd2f00f",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773192408,
+        "date_posted": 1773192408,
+        "url": "https://boards.greenhouse.io/transcarent/jobs/5808316004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Transcarent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mass General Brigham",
+        "id": "942cf121-673f-456c-afa7-a75ed1576ede",
+        "title": "Digital Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773217941,
+        "date_posted": 1772841379,
+        "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Digital-Internship_RQ4054720",
+        "locations": [
+            "Cambridge, MA",
+            "Boston, MA",
+            "Dover, NH",
+            "Belmont, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mass-General-Brigham",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Occidental Petroleum",
+        "id": "387d5861-f87f-4086-b76b-88018de85a3f",
+        "title": "Intern/Co-op Data - Well Servicing & Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1772681873,
+        "date_posted": 1772681873,
+        "url": "https://oxy.wd5.myworkdayjobs.com/Corporate/job/_JR100413",
+        "locations": [
+            "Midland, TX",
+            "Houston, TX",
+            "Fort Lupton, CO",
+            "Morton, TX",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Occidental-Petroleum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's"
         ]
     }
 ]
