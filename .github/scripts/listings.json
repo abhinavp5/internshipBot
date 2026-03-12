@@ -64917,7 +64917,7 @@
         "company_name": "Parsons",
         "id": "ad280531-5ecc-4640-8f18-e3afb6a8533e",
         "title": "Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -415095,7 +415095,7 @@
         "company_name": "Microchip Technology",
         "id": "1858b8f9-4eee-4baf-bf26-4a095bb3b46e",
         "title": "Intern-Engineer - Reliability",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -415464,7 +415464,7 @@
         "company_name": "Applied Fluid Power",
         "id": "0b75b9ad-253b-467d-b570-27b1d7a9de62",
         "title": "B2B Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -418008,7 +418008,7 @@
         "company_name": "Avnet",
         "id": "e2330dee-2e80-4a30-bd62-64212150e6d0",
         "title": "Software Developer Intern - UI Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
