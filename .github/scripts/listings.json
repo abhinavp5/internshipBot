@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Curve Dental",
-        "id": "03f5eb46-608f-42b5-868d-d643e5598b1f",
-        "title": "Software Development Intern (Temporary)",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752535042,
-        "date_posted": 1752535042,
-        "url": "https://ats.rippling.com/curve-dental/jobs/b7f7de31-9b57-4235-b8f9-fe19dfabaf14",
-        "locations": [
-            "Calgary, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Curve-Dental",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "BILL",
         "id": "1d99182b-c744-4d2f-a23f-19dc5a040262",
         "title": "Software Engineer Intern",
@@ -212491,7 +212471,7 @@
         "company_name": "Marvell",
         "id": "84001cc0-6b50-4f0d-bb02-285f2aeb345b",
         "title": "Firmware Engineer - Bachelor's Degree",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -274723,7 +274703,7 @@
         "company_name": "CSAA Insurance Group",
         "id": "2d8e2870-24a4-4c95-b2c6-fe8b5f45b9bb",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -281454,7 +281434,7 @@
         "company_name": "Cinemark Theatres",
         "id": "fa346f7a-b97d-4464-98d0-b57c62343db2",
         "title": "Technology Operations and Presentation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -338640,7 +338620,7 @@
         "company_name": "ABB",
         "id": "6a1303cf-3bda-441c-9509-fb4c4a49728e",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -342051,7 +342031,7 @@
         "company_name": "Zip",
         "id": "7f8643d0-2d4e-402f-8a9c-0f6eee544c72",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -402534,7 +402514,7 @@
         "company_name": "Scout Motors",
         "id": "db09fb55-f7aa-4439-8242-7e86cd0d1f28",
         "title": "Intern \u2013 Engineering - Vehicle Safety Twin",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -408709,7 +408689,7 @@
         "company_name": "Stantec",
         "id": "24dc5853-f800-461a-b430-c68b42724517",
         "title": "Data Analytics and AI Innovation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -419007,6 +418987,384 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SRI International",
+        "id": "b34a383c-2895-4572-9752-7e928ea9ef70",
+        "title": "Intern Systems Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773267157,
+        "date_posted": 1773267157,
+        "url": "https://careers-sri.icims.com/jobs/6349/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/SRI-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Coherent ",
+        "id": "6c5b9854-1b9a-4948-97e1-f2d68d8874d8",
+        "title": "Intern - Software Automation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773267275,
+        "date_posted": 1773267275,
+        "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2010407",
+        "locations": [
+            "Tarentum, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Coherent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Coherent ",
+        "id": "366a854b-e9ca-49b6-8c58-b684d8ea6706",
+        "title": "Intern \u2013 Computer Science",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773267271,
+        "date_posted": 1773267271,
+        "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011132",
+        "locations": [
+            "Newark, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/Coherent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Steel Dynamics",
+        "id": "25e40bcd-0b6c-4ef5-8dd0-b1f31031038e",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773267064,
+        "date_posted": 1773267064,
+        "url": "https://careers-steeldynamics.icims.com/jobs/7215/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Terre Haute, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Steel-Dynamics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zoox",
+        "id": "c4909de5-e351-4362-bcfa-9b4ca960316a",
+        "title": "Student Worker - Applied AI & LLM Workflows",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773267650,
+        "date_posted": 1773267650,
+        "url": "https://jobs.lever.co/zoox/a0185c33-76f1-4516-bec2-a5501c49b081/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Trane Technologies",
+        "id": "1da4f978-1cd0-4a53-ba50-4264f26ac6f9",
+        "title": "Software & Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773267663,
+        "date_posted": 1773267663,
+        "url": "https://careers.tranetechnologies.com/global/en/job/2602131",
+        "locations": [
+            "Huntersville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Trane-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Worthington Enterprises",
+        "id": "a8c06f6b-bdce-4ecf-a6de-19aa4eb509c6",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773267598,
+        "date_posted": 1773267598,
+        "url": "https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/43012",
+        "locations": [
+            "Warwick, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/Worthington-Enterprises",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Figure",
+        "id": "234b914c-bb1e-4669-8266-fb705b4dd6a2",
+        "title": "Manufacturing Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773267704,
+        "date_posted": 1773267704,
+        "url": "https://job-boards.greenhouse.io/figureai/jobs/4662463006",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Figure-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Al Warren Oil Company",
+        "id": "d368d732-f61f-4110-a930-8d728b6d5f13",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773267028,
+        "date_posted": 1773267028,
+        "url": "https://apply.workable.com/al-warren-oil-company-inc/j/D1A7DB40A1/apply",
+        "locations": [
+            "Elk Grove Village, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Al-Warren-Oil-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DH Pace",
+        "id": "b445d70d-beec-446a-a0d6-0da03b64b950",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773267767,
+        "date_posted": 1773267767,
+        "url": "https://job-boards.greenhouse.io/dhpace/jobs/5150351008",
+        "locations": [
+            "Olathe, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/DH-Pace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "7703220e-dbbb-498d-9525-a7ad03fb507f",
+        "title": "Intern \u2013 AI Scientist",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773270293,
+        "date_posted": 1773270293,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stagiaire---Scientifique-IA_01809794",
+        "locations": [
+            "Longueuil, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Howmet Aerospace",
+        "id": "71eff25f-0b46-4aaa-b627-e67bd5fd0f40",
+        "title": "Manufacturing Data Analyst - Training Program",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773267011,
+        "date_posted": 1773267011,
+        "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116613",
+        "locations": [
+            "Midway, TN",
+            "Hampton, VA",
+            "Valparaiso, IN",
+            "Muskegon, MI",
+            "Rockaway, NJ",
+            "Wichita County, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Howmet-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Centerfield",
+        "id": "00b51e12-96a6-40b6-ae66-0024b4fe02db",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1773267044,
+        "date_posted": 1773267044,
+        "url": "https://jobs.ashbyhq.com/centerfield/ade3a6da-e897-4eae-ba8e-b18f32e8ac17/application",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Centerfield",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Altom Transport",
+        "id": "5faaada3-fd7a-4097-9e60-836f9edf2d4a",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773267026,
+        "date_posted": 1773267026,
+        "url": "https://apply.workable.com/altom-transport/j/B1EF4725DA/apply",
+        "locations": [
+            "Markham, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Altom-Transport",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Insperity",
+        "id": "19d8d35d-2f5c-4202-81e7-6cde4f77174a",
+        "title": "Intern AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773269950,
+        "date_posted": 1773269950,
+        "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Intern-AI_JR102135",
+        "locations": [
+            "Kingwood, Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Insperity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Zoox",
+        "id": "f1fefd25-01c5-445f-a372-ed85ad2a2bb4",
+        "title": "Part-time Student Worker",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773267646,
+        "date_posted": 1773267646,
+        "url": "https://jobs.lever.co/zoox/14095fed-899c-4b33-a286-23d64f95c663/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
