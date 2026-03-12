@@ -1,47 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Neuralink",
-        "id": "d363c23b-f987-413e-81b9-316ca38ddb0d",
-        "title": "Firmware Engineer Intern",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752619201,
-        "date_posted": 1752619201,
-        "url": "https://boards.greenhouse.io/neuralink/jobs/6648992003",
-        "locations": [
-            "Fremont, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Neuralink",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CSC",
-        "id": "09ac7883-3235-4372-9a65-2e8ec327a389",
-        "title": "Business Systems Analyst Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Spring 2026"
-        ],
-        "date_updated": 1752619093,
-        "date_posted": 1752619093,
-        "url": "https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/13011",
-        "locations": [
-            "Wheeling, IL",
-            "Lewisville, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/CSC",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1757633472,
         "url": "https://careers.honeywell.com/en/sites/Honeywell/job/109972/?utm_medium=jobshare",
         "company_name": "Honeywell",
@@ -385394,7 +385352,7 @@
         "company_name": "CAE",
         "id": "de0049e1-ae22-47ba-8b67-a6ca29775855",
         "title": "Software Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -415570,7 +415528,7 @@
         "company_name": "Fidelity Investments",
         "id": "99b4838f-96a0-4756-b77e-726197dd763a",
         "title": "Skillbridge - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -416223,7 +416181,7 @@
         "company_name": "Johnson & Johnson",
         "id": "06931731-a9a6-4e40-b5a0-12ba56be0f2a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -420062,7 +420020,7 @@
         "company_name": "Nightwing Intelligence Solutions",
         "id": "a23c7bac-674a-4946-b5b6-fe0be369b3b8",
         "title": "Vulnerability Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -421214,6 +421172,31 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Stanley Black & Decker",
+        "id": "2b41cadf-8a2f-4740-aeb5-4ba4d0c93156",
+        "title": "Engineering Co-Op",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1773328092,
+        "date_posted": 1773328092,
+        "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering-Co-Op-Spring-and-Summer-2025_REQ-1000032122",
+        "locations": [
+            "Strongsville, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
