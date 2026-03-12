@@ -3082,7 +3082,7 @@
         "company_name": "PNC Financial Services",
         "id": "47709a7c-a287-47c5-9780-ffedf6e22fc1",
         "title": "Technology Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -16405,7 +16405,7 @@
         "company_name": "TikTok",
         "id": "b68df86b-5d86-439f-8b8a-eb9b15e9ddf3",
         "title": "Product Manager Intern - Tiktok-Pgc - BS/MS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -17557,7 +17557,7 @@
         "company_name": "TikTok",
         "id": "34578b2b-0330-4088-aca0-67776189ebce",
         "title": "Product Manager Intern - Tiktok LIVE-Ecosystem Governance",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -319891,7 +319891,7 @@
         "company_name": "S&P Global ",
         "id": "2e427709-d144-4fb6-b705-6e8bbd36aefb",
         "title": "Data Engineer Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332275,7 +332275,7 @@
         "company_name": "Etsy",
         "id": "bd693aad-4815-4062-819d-b8ad2d790b70",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -377992,7 +377992,7 @@
         "company_name": "Aptiv",
         "id": "6b0c06bc-c9b0-4920-8ebc-38547005ade2",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -409604,7 +409604,7 @@
         "company_name": "RTX",
         "id": "2ea8bfec-3f10-4425-8002-fd68442317ab",
         "title": "Intern - Operations Program Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -415109,7 +415109,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "0d86e405-0604-4120-bda7-18d5e307a54c",
         "title": "Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -415575,7 +415575,7 @@
         "company_name": "Abacus Insights",
         "id": "d3c6c260-91f0-4974-a415-60285fdf9dbc",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -415667,7 +415667,7 @@
         "company_name": "Abacus Insights",
         "id": "183a1c5f-59aa-43e7-a6c9-ff4fb80897a5",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -415732,7 +415732,7 @@
         "company_name": "Abacus Insights",
         "id": "09970a8d-c123-471f-bcdd-6dae1f642da4",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -417171,7 +417171,7 @@
         "company_name": "Equativ",
         "id": "29bce9f8-68aa-4651-bb5c-1f47c5e84aea",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -419511,6 +419511,73 @@
             "Bachelor's",
             "Master's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Precisely",
+        "id": "cf11b795-9a7e-47e9-a94b-7b2ebe7981c7",
+        "title": "AI Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773239523,
+        "date_posted": 1773239523,
+        "url": "https://www.precisely.com/careers-and-culture/us-jobs/job/4672029005?gh_jid=4672029005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Precisely",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ultra",
+        "id": "6bc1c8b6-0834-4f96-82c5-b54ba9ce08d8",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773239929,
+        "date_posted": 1773239929,
+        "url": "https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Chantilly-VA-United-States/Software-Engineering-Intern--Summer-2026-_REQ-11492",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ultra",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Medical University of South Carolina",
+        "id": "c9a49646-f049-4562-9ecf-923b74a85cbe",
+        "title": "UNIV Residency Database & Statistical Specialist - COM Gme",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773270751,
+        "date_posted": 1773270751,
+        "url": "https://musc.wd1.myworkdayjobs.com/en-US/MUSC/job/Charleston/UNIV--Residency-Database---Statistical-Specialist---COM--GME_R-0000054137",
+        "locations": [
+            "Charleston, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Medical-University-Of-South-Carolina",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
