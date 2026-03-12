@@ -171872,7 +171872,7 @@
         "company_name": "Solar Turbines",
         "id": "84e48a1f-043e-42ec-b855-f05031bcb7ec",
         "title": "2026 Internship - Solutions. Platforms. Engineered",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -237404,7 +237404,7 @@
         "company_name": "PA Consulting",
         "id": "cf8c67fd-fca3-45ff-954c-5ea87529466c",
         "title": "Apprentice - Software Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -257350,7 +257350,7 @@
         "company_name": "Cisco",
         "id": "6cb78400-d478-4414-b3f2-99a7889c59ef",
         "title": "Software Engineer Embedded/Network Systems 2 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -308089,7 +308089,7 @@
         "company_name": "Westgate Resorts",
         "id": "7e52c5f8-c50f-4bc3-9561-7da851eda20e",
         "title": "Mortgage Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -314486,7 +314486,7 @@
         "company_name": "Westgate Resorts",
         "id": "701e8177-9557-44c2-a882-1a39d0b2a4a7",
         "title": "Mortgage Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -321878,7 +321878,7 @@
         "company_name": "Sandisk",
         "id": "a17112cf-d4d0-48a6-8dcf-811a35a8e5e3",
         "title": "PhD Intern - Advanced Memory Technology - AI/ML Focus",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -324968,7 +324968,7 @@
         "company_name": "Sandisk",
         "id": "e5134075-1379-47f6-9977-846cfae23ba9",
         "title": "PhD Intern - Advanced Memory Technology - AI/ML Focus",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -363147,7 +363147,7 @@
         "company_name": "PA Consulting",
         "id": "87e6fabb-1a80-4c44-bddf-558c777c2bd0",
         "title": "Apprentice - Digital - Software Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -367063,7 +367063,7 @@
         "company_name": "S&P Global ",
         "id": "f3e12b44-092c-4c24-aa2b-d0f77e927af5",
         "title": "Ratings-Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -395193,7 +395193,7 @@
         "company_name": "Red Bull",
         "id": "1d471cda-b04f-4b58-b29b-4316779c3079",
         "title": "Field Strategy Insights Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -395325,7 +395325,7 @@
         "company_name": "Red Bull",
         "id": "4d70ccf9-3ba3-4cd6-ad7e-d399d0298c03",
         "title": "Field Strategy Insights Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -402469,7 +402469,7 @@
         "company_name": "S&P Global ",
         "id": "4b6463fe-097c-4ce0-89e8-4f1b3081b85f",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -407877,7 +407877,7 @@
         "company_name": "AcreTrader",
         "id": "116ef36a-3263-4346-bed4-cf5b16d21139",
         "title": "Data Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -413179,7 +413179,7 @@
         "company_name": "nVent",
         "id": "df4c80cd-4334-4200-a692-2f971b871d96",
         "title": "People Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -413575,7 +413575,7 @@
         "company_name": "PG&E",
         "id": "205c0f68-3684-4255-828d-0210cb0254d0",
         "title": "Grid Innovation Delivery Intern - Grid Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -420539,6 +420539,390 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "date_updated": 1773321275,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.ensono.com/careers/it-infrastructure-cloud-operations-intern/",
+        "company_name": "Ensono",
+        "title": "IT Infrastructure & Cloud Operations Intern",
+        "locations": [
+            "Remote in US"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "c04ca3a3-56ca-42fe-ac24-150894d41f45",
+        "date_posted": 1773321275,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773321483,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://osv-tifec.wd5.myworkdayjobs.com/en-US/fanthreesixty/job/FanThreeSixty-Leawood-KS-66211/Software-Engineer-Intern_REQ-5122",
+        "company_name": "FanThreeSixty",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Leawood, KS"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "6cefd710-9316-4223-94e8-33b66448d9d4",
+        "date_posted": 1773321483,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773321710,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://specialisterne.applytojob.com/apply/Vt3hev3H0E/Software-Engineer-Intern",
+        "company_name": "Specialisterne",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "d0e5da57-acbc-45f3-88dc-8091988bc9be",
+        "date_posted": 1773321710,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773321814,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Bellevue-Washington/Summer-2026-Software-Engineering---Agentic-AI---Test-Automation-Internship_REQ347437",
+        "company_name": "T-Mobile",
+        "title": "Software Engineering, Agentic AI & Test Automation Internship",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "ff7eddb9-7cbc-4754-b850-9929147bc8e6",
+        "date_posted": 1773321814,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773322021,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/transcarent/jobs/5822302004?gh_jid=5822302004",
+        "company_name": "Transcarent",
+        "title": "Software Engineering Intern - Virtual Primary Care",
+        "locations": [
+            "Seattle, W"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "1906df22-1ef5-46c5-9ae4-568dab7df164",
+        "date_posted": 1773322021,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Occidental Petroleum Corporation (Oxy)",
+        "id": "482740e0-68a4-4908-a047-e4788e000945",
+        "title": "Co-Op \u2013 Data - Well Servicing & Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773307020,
+        "date_posted": 1773307020,
+        "url": "https://oxy.wd5.myworkdayjobs.com/UniversityRelations/job/Co-Op--Data--Well-Servicing---Engineering-_JR100413",
+        "locations": [
+            "Midland, TX",
+            "Houston, TX",
+            "Fort Lupton, CO",
+            "Morton, TX",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Oxy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's"
+        ]
+    },
+    {
+        "date_updated": 1773322330,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.baesystems.com/global/en/job/BAE1US121898BREXTERNAL/GXP-Software-Intern-Summer-2026",
+        "company_name": "BAE Systems",
+        "title": "GXP Software Intern",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "93a55c12-a8e6-40b3-aaa4-330df3f6763f",
+        "date_posted": 1773322330,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773322731,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.smartrecruiters.com/SmithsGroup2/a22945f0-59b6-4c3f-87f1-43c05b535677",
+        "company_name": "Smiths Detection",
+        "title": "Software Engineering Intern (Cyber focus)",
+        "locations": [
+            "Edgewood, MD"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "751867f3-533e-4690-8897-2b77e95e20b3",
+        "date_posted": 1773322731,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773322863,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Dallas-TX/Year-Round-Intern---Software-Engineering-Risk-Analytics_REQ-4592",
+        "company_name": "OCC",
+        "title": "Year-Round Intern - Software Engineering Risk Analytics",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Winter 2026",
+            "Spring 2026",
+            "Fall 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "e27dbf68-d1b8-4b61-9b2a-14bd8eba1b9d",
+        "date_posted": 1773322863,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773322995,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/82f00ee2-1329-4c64-a4f8-c4fc2d0191c6",
+        "company_name": "Bosch Group",
+        "title": "Sales Data Science & Analytics Intern",
+        "locations": [
+            "Farmington Hills, MI"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "c2caf7c3-6b39-45af-b2a2-940c9840b19f",
+        "date_posted": 1773322995,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773323122,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.ensono.com/careers/intern-capacity-management-data-analyst/",
+        "company_name": "Ensono",
+        "title": "https://www.ensono.com/careers/intern-capacity-management-data-analyst/",
+        "locations": [
+            "Remote in US"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "6095bf86-c5a1-47a6-b912-3845e034899e",
+        "date_posted": 1773323122,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773323147,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.ensono.com/careers/project-portfolio-data-analyst-intern/",
+        "company_name": "Ensono",
+        "title": "Project Portfolio Data Analyst Intern",
+        "locations": [
+            "Remote in US"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "f393ac51-4331-4cbf-b4e9-5aaa2c99b5f0",
+        "date_posted": 1773323147,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773323206,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.ensono.com/careers/ai-data-scientist-intern/",
+        "company_name": "Ensono",
+        "title": "AI Data Scientist Intern",
+        "locations": [
+            "Remote in US"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "5b580c16-893a-4c0e-b13e-96064ae2d0e9",
+        "date_posted": 1773323206,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773323577,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://amainc.wd12.myworkdayjobs.com/en-US/ama_careers/job/NASA-LaRC---Hampton-VA/Algorithm-Development---Intern_R-100504",
+        "company_name": "Analytical Mechanics Associates",
+        "title": "Algorithm Development - Intern",
+        "locations": [
+            "Remote in US"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "cdfa6599-19ff-419e-81ca-d46d594cb8bc",
+        "date_posted": 1773323577,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Environmental Defense Fund",
+        "id": "b732a71f-8320-4d62-a705-6fced4702522",
+        "title": "Methane Infrastructure Data Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773307644,
+        "date_posted": 1773307644,
+        "url": "https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Raleigh/XMLNAME---Methane-Infrastructure-Data-Intern_REQ-002296",
+        "locations": [
+            "Boston, MA",
+            "Washington, DC",
+            "SF",
+            "Austin, TX",
+            "Raleigh, NC",
+            "NYC",
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Environmental-Defense-Fund",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Etched",
+        "id": "b8e5d108-c2d4-4203-be00-c0a649c4459d",
+        "title": "Electrical Platform Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1773307413,
+        "date_posted": 1770430155,
+        "url": "https://jobs.ashbyhq.com/Etched/904ddf46-55fc-4a8f-8b49-f32cfe88116a/application",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Etched",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
