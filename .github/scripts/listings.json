@@ -376844,7 +376844,7 @@
         "company_name": "Moog ",
         "id": "150d8e83-66c6-4378-bfb2-f47bf0b7d5ef",
         "title": "IT Computer Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -420375,5 +420375,170 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Netflix",
+        "id": "10e2fd1d-740d-42f6-8edd-0e534b0b0212",
+        "title": "Analytics Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773297662,
+        "date_posted": 1773297662,
+        "url": "https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Analytics-Engineer-Intern---Content-Decision-Sciences-and-Conversation-Scaling--Summer-2026_JR37460",
+        "locations": [
+            "LA",
+            "Los Gatos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Netflix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Thales",
+        "id": "f5bb15c2-a5c9-4488-96a3-27b94b792423",
+        "title": "Co-op Software Developer",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1773298142,
+        "date_posted": 1773298142,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Ottawa/COOP-Software-Developer--Summer-Fall-2026--8-months-term-_R0318614",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Thales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "e8f5b418-edd6-48de-ab3b-cf4ca6801429",
+        "title": "Intern \u2013 Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773298002,
+        "date_posted": 1773298002,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/XMLNAME-2026-Intern---Software-Engineer-Intern---Onsite--IN-_01829309",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Netflix",
+        "id": "6d82a28d-7fb4-458e-a2cd-a2dfe65ba8bd",
+        "title": "Machine Learning Engineer Intern - Master of Science/Doctor of Philosophy",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1773297662,
+        "date_posted": 1773297662,
+        "url": "https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Machine-Learning-Engineer-Intern---MS-PhD--2026_JR36512-1",
+        "locations": [
+            "LA",
+            "Los Gatos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Netflix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nordson",
+        "id": "6b193ead-6081-4898-b8a8-f84c6b5323d1",
+        "title": "Intern - Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773297902,
+        "date_posted": 1773297902,
+        "url": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Rhode-Island---East-Providence/Summer-Intern---Software-Engineer_REQ50054",
+        "locations": [
+            "Providence, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/Nordson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Netflix",
+        "id": "5a49546c-a59a-411c-8310-ac0a51676d7e",
+        "title": "Video Algorithms Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773297659,
+        "date_posted": 1773297659,
+        "url": "https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Video-Algorithms-Intern--Summer-2026_JR37467",
+        "locations": [
+            "LA",
+            "Los Gatos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Netflix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Netflix",
+        "id": "3128bce7-bcb8-4994-9982-0fa22f75bdff",
+        "title": "Analytics Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773297658,
+        "date_posted": 1773297658,
+        "url": "https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Analytics-Engineering-Intern--Summer-2026_JR37461",
+        "locations": [
+            "LA",
+            "Los Gatos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Netflix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
     }
 ]
