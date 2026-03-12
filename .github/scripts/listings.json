@@ -21705,30 +21705,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "BILL",
-        "id": "c1165238-edad-4074-a911-4bfe76665c9f",
-        "title": "Machine Learning Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757984623,
-        "date_posted": 1752536945,
-        "url": "https://www.bill.com/job?5588103004&gh_jid=5588103004",
-        "locations": [
-            "San Jose, CA",
-            "Draper, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Bill-Dot-Com",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1755638663,
         "url": "https://job-boards.greenhouse.io/figma/jobs/5602159004?gh_jid=5602159004",
         "company_name": "Figma",
@@ -137765,7 +137741,7 @@
         "company_name": "Motorola",
         "id": "041658b5-b8d7-4f10-b0cb-702942e21705",
         "title": "Android Platform Software Engineering Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -206773,7 +206749,7 @@
         "company_name": "Rocket Lab USA",
         "id": "810f6b5e-e9b0-4969-b407-1164546ed369",
         "title": "Ground Systems Engineering Intern Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -279981,7 +279957,7 @@
         "company_name": "Walmart",
         "id": "45e0013a-4f8d-4b18-b811-5071555f5f7b",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -322822,7 +322798,7 @@
         "company_name": "AskBio",
         "id": "dafe8006-41eb-421a-9d06-9a081427fb43",
         "title": "Intern-Data Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -330576,7 +330552,7 @@
         "company_name": "Motorola",
         "id": "98a31a27-bbfe-4f19-b9f2-7646500eab6e",
         "title": "Product Management Intern - Product Management - Dispatch Products & Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -349764,7 +349740,7 @@
         "company_name": "Nokia",
         "id": "e317824f-460a-485b-9b1a-aa6726fd7ca0",
         "title": "Data fabric and network automation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -360804,7 +360780,7 @@
         "company_name": "NXP Semiconductors",
         "id": "070e1bf1-0ebc-4334-8aeb-2d68492243fa",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -401467,7 +401443,7 @@
         "company_name": "Terran Orbital",
         "id": "f11ddba0-6d65-4add-b989-a77dd1841b1c",
         "title": "Manufacturing Test Engineering Intern - Gnc",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -415316,7 +415292,7 @@
         "company_name": "Avnet",
         "id": "31d68a34-a56b-40d8-a6f4-c5242c3142f5",
         "title": "ServiceNow Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -419365,6 +419341,148 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Curve Dental",
+        "id": "03f5eb46-608f-42b5-868d-d643e5598b1f",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1763124990,
+        "date_posted": 1761915984,
+        "url": "https://ats.rippling.com/curve-dental/jobs/b7f7de31-9b57-4235-b8f9-fe19dfabaf14",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Curve-Dental",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Walt Disney Company",
+        "id": "8a62a634-c56e-4d02-9acc-56e3f5612cc7",
+        "title": "Decision Science Undergraduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2027"
+        ],
+        "date_updated": 1773182160,
+        "date_posted": 1773182160,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Decision-Science-Undergraduate-Intern--Summer-Fall-2026_10141868",
+        "locations": [
+            "Celebration, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "F5",
+        "id": "7e4f8669-aea9-4fb8-89bd-4f106fdd2053",
+        "title": "Software Development Engineer \u2013 Intern - AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773182117,
+        "date_posted": 1773182117,
+        "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Software-Development-Engineer--AI--Intern_RP1036891",
+        "locations": [
+            "Seattle, WA",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/F5",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ensono",
+        "id": "9419557c-9ad7-4a4e-971b-efbe2a5de2ea",
+        "title": "Client Support Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773182034,
+        "date_posted": 1773182034,
+        "url": "https://ensono.com/company/careers/jobs-board/?gh_jid=4665477005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ensono",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cambium Learning Group",
+        "id": "0beab28a-2612-4e08-a80f-7bcf223c407d",
+        "title": "Data Analyst Intern - Software Operations and Delivery",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773182463,
+        "date_posted": 1773182463,
+        "url": "https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Data-Analyst-Intern---Software-Operations-and-Delivery_REQ-4394",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambium-Learning-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "0184bfd5-a5c9-4e10-8e6f-c58271bc7dbf",
+        "title": "Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773277852,
+        "date_posted": 1773277852,
+        "url": "https://lifeattiktok.com/search/7613587198434855173",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
