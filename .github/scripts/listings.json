@@ -1,25 +1,5 @@
 [
     {
-        "date_updated": 1754477657,
-        "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Software-Development-Intern--e-Transfer-_REQ-1870",
-        "company_name": "Interac",
-        "title": "Software Development Intern (e-Transfer)",
-        "locations": [
-            "Toronto, Ontario, Canada"
-        ],
-        "terms": [
-            "Fall 2025"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "GaryZhous",
-        "id": "3eba7b3a-5f7d-4127-9629-675724975dab",
-        "date_posted": 1752558239,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Software Engineering"
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Geotab",
@@ -52756,7 +52736,7 @@
         "company_name": "Johnson & Johnson",
         "id": "86b4d800-5234-4e19-89dd-3ef19775584e",
         "title": "Software Engineering Intern/Co Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -127424,7 +127404,7 @@
         "company_name": "Atomic Semi",
         "id": "ab56d435-ad3a-42ea-a615-17abf29dd893",
         "title": "Packaging Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -264200,7 +264180,7 @@
         "company_name": "Granite Construction",
         "id": "a7124664-34f4-479b-a3a2-788e67565b9e",
         "title": "Generative AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -282646,7 +282626,7 @@
         "company_name": "Leidos",
         "id": "8513f224-5f35-4418-b750-be8c1877bd05",
         "title": "Computer Engineering Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -292825,7 +292805,7 @@
         "company_name": "Barclays",
         "id": "e6bf8486-c8cc-4930-acbb-f143e6a86975",
         "title": "Technology Developer Discovery Programme 2026 Glasgow",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -294291,7 +294271,7 @@
         "company_name": "Barclays",
         "id": "8e176407-fa40-441f-bca4-6ae410eb5003",
         "title": "Technology Developer Discovery Programme",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -387095,7 +387075,7 @@
         "company_name": "Nokia",
         "id": "53685e12-01fb-47e9-a8f7-8e3889ea011f",
         "title": "Cognitive Digital Mine Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -388484,7 +388464,7 @@
         "company_name": "Applied Materials",
         "id": "c2c4d339-62ef-4ea9-a45e-1e7dc58d85f2",
         "title": "2026 AI Engineer/Data Scientist Intern-Bachelor's - Santa Clara - CA",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -411814,7 +411794,7 @@
         "company_name": "Sigma Computing",
         "id": "74805694-28f2-4ad0-af32-993f67f6b13f",
         "title": "AI/ML PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -419574,6 +419554,417 @@
             "Charleston, SC"
         ],
         "company_url": "https://simplify.jobs/c/Medical-University-Of-South-Carolina",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Fresenius Medical Care",
+        "id": "47a3a953-b91a-4a0e-aa29-5840de037ea2",
+        "title": "5 & 5 Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773268861,
+        "date_posted": 1773268861,
+        "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/V---V-Engineering-Co-op_R0240963-1",
+        "locations": [
+            "Andover, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fresenius",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "da338d40-4321-4f20-897e-8079d85ece33",
+        "title": "Hardware Engineering \u2013 Radio Frequency Intern - HP IQ",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773269586,
+        "date_posted": 1773269586,
+        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Hardware-Engineering--Radio-Frequency-Intern---HP-IQ_3160779-1",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "99a441f3-fc77-4bb4-aa62-b29a90124484",
+        "title": "Browser Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773269583,
+        "date_posted": 1773269583,
+        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Browser-Software-Engineer-Intern_3160410",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "3M",
+        "id": "4dcd42b3-dbc8-450a-9e93-b66bf801c1e7",
+        "title": "Intern Marketing Analytics Intern - Transportation & Electronics Business Group",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773268967,
+        "date_posted": 1773268967,
+        "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2026-Undergraduate-Sales--Marketing---Analytics-Intern---Transportation---Electronics-Business-Group--TEBG-_R01162822",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/3M",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "AAA Club Alliance",
+        "id": "3e989df5-9ffc-4190-87fe-286380f8672c",
+        "title": "Insurance Product Management",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773270910,
+        "date_posted": 1773270910,
+        "url": "https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Insurance-Product-Management-Intern_JR202635257-1",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AAA-Club-Alliance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rolls-Royce",
+        "id": "0a4e7ee4-1bd0-4066-b559-680731f6e5c8",
+        "title": "Controls Engineer - Software and Systems",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773269953,
+        "date_posted": 1773269953,
+        "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/West-Lafayette/Controls-Engineer-Intern--Software-and-Systems-_JR6151727",
+        "locations": [
+            "West Lafayette, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Rolls-Royce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ASML",
+        "id": "f5a35a54-f3e4-45a1-adeb-9bca1836ebcd",
+        "title": "Co-op \u2013 Intern - Test and Measurement Facility Engineer",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1773270808,
+        "date_posted": 1773270808,
+        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Co-op---Test-and-Measurement-Facility-Engineer---Fall-2026--Internship-_J-00333520",
+        "locations": [
+            "Wilton, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/ASML",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dollar Tree",
+        "id": "700c2263-9e14-4bc3-867f-4d0fc7cfd31a",
+        "title": "Data Analytics Assortment Planner Intern & Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1773270726,
+        "date_posted": 1773270726,
+        "url": "https://dollartree.wd5.myworkdayjobs.com/dollartreeus/job/VA-Chesapeake/Data-Analytics---Assortment-Planner-Intern---Co-Op_R-216836",
+        "locations": [
+            "Chesapeake, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dollar-Tree",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "535343c5-cc36-48c6-8edc-cb3602183366",
+        "title": "Intern Technician - Electronics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773269336,
+        "date_posted": 1773269336,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/PA---Mount-Holly-Springs/Intern-Technician--Electronics-_R847-26",
+        "locations": [
+            "Carlisle, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "53a18d67-378c-4e71-962d-cb59d259fa3e",
+        "title": "EM Center of Excellence Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2027"
+        ],
+        "date_updated": 1773270160,
+        "date_posted": 1773270160,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/EM-Center-of-Excellence-Co-Op_R-060867",
+        "locations": [
+            "New Hope, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "4e77ff67-2e6a-4599-81af-8642b9826d26",
+        "title": "Intern - Failure Analysis Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773278419,
+        "date_posted": 1773278419,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000114157217",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "34f423a3-cf91-486d-b772-1ae4bec4cf61",
+        "title": "Intern - HDD Testing",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773278008,
+        "date_posted": 1773278008,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000114156737",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "267ae766-62a2-47ce-9b84-96058e9babd8",
+        "title": "Intern - Software Engineering - Firmware",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773278400,
+        "date_posted": 1773278400,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000114157092",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "ba837d82-cce0-48fc-8602-8c2c0cbb94d3",
+        "title": "Software Engineer Intern - Cloud Services - HP IQ",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1773269589,
+        "date_posted": 1773269589,
+        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineer-Intern--Cloud-Services---HP-IQ_3160773",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Johnson & Johnson",
+        "id": "73e6acaa-0ccf-4e37-bda7-b24dbd77badd",
+        "title": "R&D Co-op Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1773270151,
+        "date_posted": 1773270151,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Irvine-California-United-States-of-America/R-D-Co-Op_R-062849",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "d24dc318-8a9b-4858-8392-b2b3f4268d24",
+        "title": "Intern Advance Packaging Technology Development - APTD",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773269151,
+        "date_posted": 1773269151,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Advance-Packaging-Technology-Development--APTD-_JR94271",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "EisnerAmper",
+        "id": "1c5c9808-ac8e-457d-a6f5-89d6278538cc",
+        "title": "AI Governance Technical Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773268822,
+        "date_posted": 1773268822,
+        "url": "https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/Atlanta/XMLNAME-2026-AI-Governance-Technical-Intern_Req-8684",
+        "locations": [
+            "Johns Creek, GA",
+            "Philadelphia, PA",
+            "Iselin, Woodbridge Township, NJ",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/EisnerAmper",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
