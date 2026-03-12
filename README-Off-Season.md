@@ -2005,7 +2005,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>2mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company">Microsoft</a></strong></td>
+<td>↳</td>
 <td>Software Engineer – Top Secret: Internship Opportunities - Ctj</td>
 <td>Redmond, WA<br>Reston, VA</td>
 <td>Spring 2026</td>
@@ -7981,7 +7981,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>6mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
+<td>↳</td>
 <td>Network Operations Intern</td>
 <td>Hill AFB, UT</td>
 <td>Winter 2025</td>
@@ -13808,6 +13808,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>30d</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Keysight-Technologies-Inc?utm_source=GHList&utm_medium=company">Keysight Technologies</a></strong></td>
+<td>Intern Tech 1</td>
+<td>Santa Rosa, CA</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>30d</td>
+</tr>
 </tbody>
 </table>
 
@@ -13834,14 +13842,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Keysight-Technologies-Inc?utm_source=GHList&utm_medium=company">Keysight Technologies</a></strong></td>
-<td>Intern Tech 1</td>
-<td>Santa Rosa, CA</td>
-<td>Fall 2026</td>
-<td>🔒</td>
-<td>30d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Cintas?utm_source=GHList&utm_medium=company">Cintas</a></strong></td>
 <td>Data Analytics Intern</td>
