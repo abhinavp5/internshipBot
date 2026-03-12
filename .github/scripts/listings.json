@@ -230020,7 +230020,7 @@
         "company_name": "Genies",
         "id": "07e8b773-4e60-4cfd-8807-0b74c389e1ee",
         "title": "Research Engineer Intern - Speech Generation - Spring 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -241194,7 +241194,7 @@
         "company_name": "Genies",
         "id": "9ae6c5f8-b4bc-448e-a653-447b105957e3",
         "title": "Machine Learning Engineer Intern: 3D Generative AI - Q1 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -299155,7 +299155,7 @@
         "company_name": "Microsoft",
         "id": "9785d180-d1f1-4ca5-8aff-7170272d88fc",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -391286,7 +391286,7 @@
         "company_name": "RTX",
         "id": "6f8b8d7d-4d5b-403e-9273-d394304feef0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
