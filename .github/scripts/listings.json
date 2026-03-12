@@ -322688,7 +322688,7 @@
         "company_name": "AskBio",
         "id": "dafe8006-41eb-421a-9d06-9a081427fb43",
         "title": "Intern-Data Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -359214,7 +359214,7 @@
         "company_name": "Samsung Research America",
         "id": "295bbcd5-e1b5-4a0d-8dcb-a5109f3bcd62",
         "title": "Intern - AI/ML Wireless Research - Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -419965,6 +419965,121 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/EisnerAmper",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Diligent Corporation",
+        "id": "dedcc703-79cc-4e4e-9063-3b24848ac7c6",
+        "title": "Product Marketing Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773278865,
+        "date_posted": 1773278865,
+        "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/5822511004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Diligent-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Western Digital",
+        "id": "b853e6d1-dc81-4283-be57-96a5e38e9ed2",
+        "title": "Intern - Data Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773278419,
+        "date_posted": 1773278419,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000114157337",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intuit",
+        "id": "cb078be0-abe5-4197-82d4-f18a0201fcdd",
+        "title": "Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773278290,
+        "date_posted": 1773278290,
+        "url": "https://jobs.intuit.com/job/new-york/intern-software-engineering/27595/92665698320",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "da24eef9-8063-4662-bf9b-fb925e2bc951",
+        "title": "E&E Engineer 1",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773279830,
+        "date_posted": 1773279830,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1A--1-Hamilton-Rd--BLDG-1A/E-E-Engineer-1_01816143-1",
+        "locations": [
+            "East Windsor, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "69b335c8-4b00-4b2c-998c-8b6a1e3ff9f0",
+        "title": "Business Intelligence Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773279718,
+        "date_posted": 1773279718,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Irving-Texas-United-States-of-America/Business-Intelligence-Co-Op_R-060669",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
