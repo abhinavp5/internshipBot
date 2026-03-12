@@ -263953,7 +263953,7 @@
         "company_name": "Granite Construction",
         "id": "a7124664-34f4-479b-a3a2-788e67565b9e",
         "title": "Generative AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -334825,7 +334825,7 @@
         "company_name": "The Travelers Companies",
         "id": "7537007e-434a-49ed-9fd0-0d01da9cdd7e",
         "title": "Engineering Development Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -389229,7 +389229,7 @@
         "company_name": "Trane Technologies",
         "id": "d65a40fc-966c-4886-808b-6e5e84739f61",
         "title": "Universal Test Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -395054,7 +395054,7 @@
         "company_name": "MFS",
         "id": "75927b11-cd33-4ee2-86f6-d8b8070935a1",
         "title": "Quant Research Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -419699,7 +419699,7 @@
         "company_name": "Micron Technology",
         "id": "d24dc318-8a9b-4858-8392-b2b3f4268d24",
         "title": "Intern Advance Packaging Technology Development - APTD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -420953,6 +420953,118 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Draper",
+        "id": "b56c192e-3bd0-4ad3-ad35-da41ab86d0c1",
+        "title": "Enterprise Application Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773326391,
+        "date_posted": 1773326391,
+        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Enterprise-Application-Software-Intern_JR002296",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Draper",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leonardo",
+        "id": "2474aece-168b-4d04-94b1-6ba93b5741de",
+        "title": "Software Graduate Apprentice - Test Systems - Test Systems",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773326492,
+        "date_posted": 1773326492,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Software-Graduate-Apprentice--Test-Systems_R0022248",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leonardo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Premier Truck Rental",
+        "id": "340c36e7-5afb-4e6d-843e-3d54cf559b14",
+        "title": "Intern Developer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773325950,
+        "date_posted": 1773325950,
+        "url": "https://rentptr.com/jobs/?gh_jid=5150736008",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Premier-Truck-Rental",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Creative Artists Agency",
+        "id": "b8589b99-a1f6-4f30-8688-8153990762df",
+        "title": "Tech Data Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773326118,
+        "date_posted": 1773326118,
+        "url": "https://caa.wd1.myworkdayjobs.com/en-US/Careers/job/London-United-Kingdom/Tech-Data-Intern_JR8507",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/7d4f653d-5300-4f06-95b5-c36340f44ea6",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Graco",
+        "id": "005915c9-675f-4056-b4e9-a49ef3e5ead8",
+        "title": "Application Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773325870,
+        "date_posted": 1773325870,
+        "url": "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/North-Canton-Ohio-USA/Application-Engineering-Intern_R0022225-2",
+        "locations": [
+            "Canton, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Graco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
