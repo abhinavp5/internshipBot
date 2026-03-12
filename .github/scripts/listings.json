@@ -420924,5 +420924,110 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "PEAK6",
+        "id": "acc81bdc-e252-41cb-b7c7-0bc5600172cf",
+        "title": "Trading Bootcamp Micro-Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773307728,
+        "date_posted": 1773307728,
+        "url": "https://peak6group.wd1.myworkdayjobs.com/CapMan/job/Chicago-IL/Trading-Bootcamp-Micro-Internship---Summer-2026_JR103143",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/PEAK6",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Environmental Defense Fund",
+        "id": "2fc52ff7-2ba6-4da1-997f-3bf2390990f4",
+        "title": "Net Zero Data Analysis Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773307632,
+        "date_posted": 1773307632,
+        "url": "https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/New-York/Net-Zero-Data-Analysis-Intern_REQ-002331",
+        "locations": [
+            "Boston, MA",
+            "Washington, DC",
+            "SF",
+            "Austin, TX",
+            "Remote in USA",
+            "Raleigh, NC",
+            "NYC",
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Environmental-Defense-Fund",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Environmental Defense Fund",
+        "id": "08f297dd-a814-49fc-b187-685d58ecce39",
+        "title": "Community Air Monitoring Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773307638,
+        "date_posted": 1773307638,
+        "url": "https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/San-Francisco/XMLNAME---Community-Air-Monitoring-Intern-_REQ-002321",
+        "locations": [
+            "Boston, MA",
+            "Houston, TX",
+            "Washington, DC",
+            "SF",
+            "Austin, TX",
+            "Raleigh, NC",
+            "NYC",
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Environmental-Defense-Fund",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Environmental Defense Fund",
+        "id": "67e686f9-bacd-4000-8b2c-3101b4ba4e78",
+        "title": "Agricultural Resilience Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773307641,
+        "date_posted": 1773307641,
+        "url": "https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Remote---US-Home/Agricultural-Resilience-Intern_REQ-002266",
+        "locations": [
+            "Raleigh, NC",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Environmental-Defense-Fund",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
