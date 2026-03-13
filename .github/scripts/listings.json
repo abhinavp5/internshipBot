@@ -414869,7 +414869,7 @@
         "company_name": "Veolia",
         "id": "fb8f1fe2-88b3-4f02-b5b4-f8058622c231",
         "title": "Intern Environmental Data & Water Quality Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -422498,7 +422498,7 @@
         "company_name": "Global Partners",
         "id": "e7dd0864-1a37-4bcf-88d3-ed10dd2fa4a5",
         "title": "Northeastern Co-op - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -423061,6 +423061,76 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "PHINIA",
+        "id": "eeeeab9f-ebea-4859-9c99-0d4a7fde8ff8",
+        "title": "Yini \u2013 Materials Engineering Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773385462,
+        "date_posted": 1773385462,
+        "url": "https://phinia.wd5.myworkdayjobs.com/PHINIA_Careers/job/Gillingham---United-Kingdom/YINI---Materials-Engineering-Student-2026-27_R2026-0076",
+        "locations": [
+            "Maidstone, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PHINIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "International Mission Board",
+        "id": "cce8608c-fb5d-44ea-90e8-c5e271c5c450",
+        "title": "AI & Innovation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773392746,
+        "date_posted": 1773266553,
+        "url": "https://golimitless.wd1.myworkdayjobs.com/Staff_External_career_site/job/Richmond-Virginia/AI---Innovation-Intern_R0013763",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/International-Mission-Board",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Citadel",
+        "id": "71e539ff-f839-4f08-8c0f-0c7a934bbf05",
+        "title": "Sector Data Analyst \u2013 Intern - Europe",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1761871271,
+        "date_posted": 1761871271,
+        "url": "https://www.citadel.com/careers/details/sector-data-analyst-intern-europe/",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
         ]
     }
 ]
