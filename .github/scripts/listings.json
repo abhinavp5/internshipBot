@@ -58027,7 +58027,7 @@
         "company_name": "Solidigm",
         "id": "7e37923b-7955-4fe4-91f6-d5a8b32eca2d",
         "title": "2026 Undergrad Engineering Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -155383,7 +155383,7 @@
         "company_name": "Solidigm",
         "id": "107bfc32-911d-4af7-864d-280513dbd04d",
         "title": "Undergraduate Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
