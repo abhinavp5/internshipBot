@@ -109012,7 +109012,7 @@
         "company_name": "Keysight Technologies",
         "id": "1c1dcd57-f302-430d-80d7-2fce6637b37f",
         "title": "R&D Software Engineer Intern - Customer Software Entitlement & Delivery R&D - Cloud Technologies",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -110171,30 +110171,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GE Vernova",
-        "id": "88881e7e-16c3-4233-9c0c-efa7f1e0a44d",
-        "title": "Edison Research Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1758737922,
-        "date_posted": 1752623480,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-Advanced-Research---2026-Edison-Program-Internship_R5015953-1",
-        "locations": [
-            "Schenectady, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
         ]
     },
     {
@@ -201061,7 +201037,7 @@
         "company_name": "Ideogram",
         "id": "abaaf549-957c-4e11-89fe-f9f749574543",
         "title": "Machine Learning Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -204145,7 +204121,7 @@
         "company_name": "Root Insurance",
         "id": "052213fc-a299-4297-8d52-650fdcb79ca2",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -227816,7 +227792,7 @@
         "company_name": "Emerson Electric",
         "id": "cff05de8-2ea8-4bb1-a58c-285a779ad98a",
         "title": "Cloud Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -248942,7 +248918,7 @@
         "company_name": "Howmet Aerospace",
         "id": "7f3e278f-fee7-4ed3-89fa-4e66a098cc0a",
         "title": "Product Engineer Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -254355,7 +254331,7 @@
         "company_name": "Genentech",
         "id": "258690d6-50c0-4eee-9b5b-3d9e2bcf17b7",
         "title": "Intern - Large Language Models",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -294802,7 +294778,7 @@
         "company_name": "Air Liquide",
         "id": "fe95fa5b-939c-4283-be61-127a057964b1",
         "title": "Vie \u2013 S&OP and Sourcing Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -297770,7 +297746,7 @@
         "company_name": "PA Consulting",
         "id": "a6c20ee9-648a-4a18-a7f4-af646dcdf7ef",
         "title": "2026 Apprentice - Digital - Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -301073,7 +301049,7 @@
         "company_name": "Plug Power",
         "id": "935802a1-f885-4163-9882-b6f169f2135c",
         "title": "Product Management Intern - Fuel and Fuel Cells",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -302358,7 +302334,7 @@
         "company_name": "Samsung Research America",
         "id": "95fdaf0b-3615-43bd-9508-c9d4d8c99924",
         "title": "Intern - AI Wireless Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -316437,7 +316413,7 @@
         "company_name": "Bloomberg Industry Group",
         "id": "b5c7b383-bd41-4ae1-b1c1-6a97ab577ebe",
         "title": "Content Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -321973,7 +321949,7 @@
         "company_name": "Autodesk",
         "id": "fdf5576a-1c83-44fc-8b80-6c5ac4b1fcac",
         "title": "Intern \u2013 Physics-Based Character Motion Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -322111,7 +322087,7 @@
         "company_name": "Autodesk",
         "id": "b0969977-82f9-42be-a3cb-08033a636069",
         "title": "Intern \u2013 Physics-Based Character Motion Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -327097,7 +327073,7 @@
         "company_name": "FHLBank Atlanta",
         "id": "2ad495e9-5fb4-4c81-83eb-f842ee410664",
         "title": "Statistical and Quantitative Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -334020,7 +333996,7 @@
         "company_name": "Greenheck Group",
         "id": "d3a07d30-11ec-4d98-a870-4b2b08fe819b",
         "title": "Application Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -362852,7 +362828,7 @@
         "company_name": "PA Consulting",
         "id": "867a10c2-b56f-4ac7-8fe6-80c2b0b698a4",
         "title": "Intern - Digital - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -376015,7 +375991,7 @@
         "company_name": "Olsson",
         "id": "d2fff8cb-0c20-48b7-8a45-198c90810ffc",
         "title": "GIS Student Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376598,7 +376574,7 @@
         "company_name": "7-Eleven",
         "id": "590a3cdc-e08a-423d-8b7f-6cb1b07fd80c",
         "title": "Fuel Pricing Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391362,7 +391338,7 @@
         "company_name": "The Wonderful Company",
         "id": "752de0be-4f7a-4bcc-b1f6-ea8597b9cba1",
         "title": "Intern - EHS Trainings",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -395440,7 +395416,7 @@
         "company_name": "Wing",
         "id": "52d23c07-c63d-43a5-9a35-34567d4fabf7",
         "title": "Backend Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -405304,7 +405280,7 @@
         "company_name": "Visa",
         "id": "7a405af7-4821-4f86-8dd6-67a8492f16e7",
         "title": "Software Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -412297,7 +412273,7 @@
         "company_name": "AECOM",
         "id": "7ef437b1-5a6c-45da-8b99-e9cc09ac2c50",
         "title": "Geospatial Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -414934,7 +414910,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Veolia",
-        "id": "e4667c06-20be-4852-b4d6-d0f48aec1077",
+        "id": "fb8f1fe2-88b3-4f02-b5b4-f8058622c231",
         "title": "Intern Environmental Data & Water Quality Analyst",
         "active": true,
         "terms": [
@@ -415440,7 +415416,7 @@
         "company_name": "Udemy",
         "id": "bf3d94cf-527f-4b11-9317-c3ed73869526",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
