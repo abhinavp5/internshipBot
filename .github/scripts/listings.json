@@ -363409,7 +363409,7 @@
         "company_name": "SMX",
         "id": "226225c8-75df-4b2d-918c-3dcc6c60b9e2",
         "title": "Summer Internship-AI/ML - Broomfield CO",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -363576,7 +363576,7 @@
         "company_name": "SMX",
         "id": "eba498bd-4968-43b6-9a78-c17448d79985",
         "title": "Summer Internship-Foreign Policy - Intelligence and Data Analytics - Kapolei, HI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -366845,7 +366845,7 @@
         "company_name": "Veolia",
         "id": "ba3d02fa-827d-49de-bbaa-b8a3d81ca0c9",
         "title": "Stakeholder Intelligence & Data Automation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -367449,7 +367449,7 @@
         "company_name": "Werfen",
         "id": "681ead82-adb3-4347-bc39-79d278dbf4f7",
         "title": "Intern \u2013 Marketing",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -377230,7 +377230,7 @@
         "company_name": "Elevance Health",
         "id": "122d86a1-0281-4cd0-88ec-3341dc8c5b96",
         "title": "Provider Enablement Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389901,7 +389901,7 @@
         "company_name": "Johnson & Johnson",
         "id": "c8b96cbc-9e35-4363-ad22-1a657709bde4",
         "title": "Data Science \u2013 Multi-Omics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389924,7 +389924,7 @@
         "company_name": "Johnson & Johnson",
         "id": "85825c81-3c7b-4f14-a7cf-10df76adb8d5",
         "title": "Data Science Intern - Pai",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -390072,7 +390072,7 @@
         "company_name": "Johnson & Johnson",
         "id": "3d90a416-90cc-4c70-b504-686e48ec864b",
         "title": "AI/ML Intern - Computer Vision - Ophthalmology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -396703,7 +396703,7 @@
         "company_name": "Citco",
         "id": "f2f720ff-852f-44ac-8765-6e5d89ab46b3",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -397812,7 +397812,7 @@
         "company_name": "Elevance Health",
         "id": "c5770f18-d53a-4367-9c10-4bbf6bde58e0",
         "title": "Data Analytics Intern-Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -400019,7 +400019,7 @@
         "company_name": "Veolia",
         "id": "aceac5de-9456-42ce-a271-bf427b650054",
         "title": "Stakeholder Intelligence & Data Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -403831,7 +403831,7 @@
         "company_name": "Johnson & Johnson",
         "id": "4e71f929-c3df-402a-807d-f80ce0baead0",
         "title": "Data Science Intern - Clinical Omics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -421061,7 +421061,7 @@
         "company_name": "Analog Devices",
         "id": "07d952c6-172e-41c6-ab40-18bead6cf3b3",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -422874,6 +422874,52 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/VSP-Vision",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "PHINIA",
+        "id": "60426796-68ea-4b49-a765-e784ba80965f",
+        "title": "Yini \u2013 Product Inspection Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773382939,
+        "date_posted": 1773382939,
+        "url": "https://phinia.wd5.myworkdayjobs.com/PHINIA_Careers/job/Gillingham---United-Kingdom/YINI---Product-Inspection-Student-2026-27_R2026-0073-1",
+        "locations": [
+            "Maidstone, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PHINIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Canadian Tire",
+        "id": "8aee996d-4f6f-4b82-93ec-910cdf8dc463",
+        "title": "Data Engineering Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773382841,
+        "date_posted": 1773382841,
+        "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Data-Engineering-Student--8-months----Summer-2026_JR157903-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Canadian-Tire",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
