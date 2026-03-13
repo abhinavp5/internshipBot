@@ -297723,7 +297723,7 @@
         "company_name": "PA Consulting",
         "id": "a6c20ee9-648a-4a18-a7f4-af646dcdf7ef",
         "title": "2026 Apprentice - Digital - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -362805,7 +362805,7 @@
         "company_name": "PA Consulting",
         "id": "867a10c2-b56f-4ac7-8fe6-80c2b0b698a4",
         "title": "Intern - Digital - Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -363271,7 +363271,7 @@
         "company_name": "Field AI",
         "id": "78c0c3e6-3bac-4ca1-a3bb-0e3d99ef7b5d",
         "title": "Phoenix Field Application Engineer-Intern - Part-time",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -422668,6 +422668,51 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Spectrum Control",
+        "id": "75c7dc69-2a9a-4b68-aa15-d2cbf8686ae2",
+        "title": "Electromechanical Design Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773354789,
+        "date_posted": 1773354789,
+        "url": "https://spectrumcontrol.wd1.myworkdayjobs.com/spectrumcontrol/job/Gloucester-UK/Electromechanical-Design-Apprentice_JR101268",
+        "locations": [
+            "Gloucester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/673d4af5-d1fd-4cb6-b32e-e8897216cb37",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BeOne",
+        "id": "e8c852af-5074-4a34-a258-1771fad8d041",
+        "title": "Business Intelligence and Reporting Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773357299,
+        "date_posted": 1773357299,
+        "url": "https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Summer-Internship--Business-Intelligence-and--Reporting-Intern_R33739",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/BeOne",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
