@@ -6,15 +6,15 @@
 
 ---
 
-### Browse 9984 Inactive Internship Roles by Category
+### Browse 9981 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3342)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3341)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (686)
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (4349)
 
-📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (337)
+📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (335)
 
 🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (1270)
 
@@ -211,7 +211,7 @@
 <td>Junior Game Engineer Intern 🎓</td>
 <td>Santa Monica, CA<br>LA<br>NYC</td>
 <td>🔒</td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Telesat?utm_source=GHList&utm_medium=company">Telesat</a></strong></td>
@@ -12604,7 +12604,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Northrop-Grumman?utm_source=GHList&utm_medium=company">Northrop Grumman</a></strong></td>
+<td>↳</td>
 <td>Cyber Software Engineering Intern - Strategic Deterrent Systems Division</td>
 <td>Huntsville, AL</td>
 <td>🔒</td>
@@ -23471,13 +23471,6 @@
 <td><strong>CTC</strong></td>
 <td>Software Engineer</td>
 <td>Chicago, IL<br>New York, NY</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong>Five Rings</strong></td>
-<td>Software Developer</td>
-<td>New York, NY</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
@@ -47969,7 +47962,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/ExpeditionTech?utm_source=GHList&utm_medium=company">Expedition Technology</a></strong></td>
+<td>↳</td>
 <td>Machine Learning and Digital Signal Processing Intern - Digital Signal Processing - Machine Learning</td>
 <td>Reston, VA</td>
 <td>🔒</td>
@@ -57997,10 +57990,10 @@
 <td>Intern – Enterprise Architecture and Emerging Technologies</td>
 <td>Toronto, ON, CAN</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Ontario-Teachers-Pension-Plan?utm_source=GHList&utm_medium=company">Ontario Teachers' Pension Plan</a></strong></td>
+<td>↳</td>
 <td>Intern – Product & Data Engineering</td>
 <td>Toronto, ON, CAN</td>
 <td>🔒</td>
@@ -58802,7 +58795,7 @@
 <td>Quant Analyst Intern</td>
 <td>Greenwich, CT</td>
 <td>🔒</td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/CWAN?utm_source=GHList&utm_medium=company">CWAN</a></strong></td>
@@ -61141,20 +61134,6 @@
 <td>Chicago, IL</td>
 <td>🔒</td>
 <td>7mo</td>
-</tr>
-<tr>
-<td><strong>Five Rings</strong></td>
-<td>Quantitative Trader</td>
-<td>New York, NY</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong>Five Rings</strong></td>
-<td>Quantitative Researcher</td>
-<td>New York, NY</td>
-<td>🔒</td>
-<td>8mo</td>
 </tr>
 </tbody>
 </table>
