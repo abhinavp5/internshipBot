@@ -1,28 +1,5 @@
 [
     {
-        "date_updated": 1757633472,
-        "url": "https://careers.honeywell.com/en/sites/Honeywell/job/109972/?utm_medium=jobshare",
-        "company_name": "Honeywell",
-        "title": "Co-Op - Bachelors Software Eng (Fall 2025)",
-        "locations": [
-            "Mason, OH"
-        ],
-        "terms": [
-            "Fall 2025"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "karthik961",
-        "id": "443acaa5-213d-475d-a522-0696fc96b6a6",
-        "date_posted": 1752620872,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "category": "Software Engineering"
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Citadel",
@@ -410738,7 +410715,7 @@
         "company_name": "MKS Instruments",
         "id": "020a68d5-1915-4aa2-bb90-70f7bec49728",
         "title": "Engineering/Development Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -414588,7 +414565,7 @@
         "company_name": "Gametime",
         "id": "bcc119d6-8e09-4038-aed1-e8f1e9a9da7d",
         "title": "Data Science Intern - Marketing Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -414612,7 +414589,7 @@
         "company_name": "AECOM",
         "id": "b0d3e048-029f-4b8b-a248-f915b221b049",
         "title": "Geospatial Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -416205,7 +416182,7 @@
         "company_name": "Skyways",
         "id": "05eb958c-8431-4544-978d-eca0a1d74a8e",
         "title": "Computer Vision and Robotics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -421198,5 +421175,26 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Neuralink",
+        "id": "d363c23b-f987-413e-81b9-316ca38ddb0d",
+        "title": "Firmware Engineer - Robotics and Surgery Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764533154,
+        "date_posted": 1764533154,
+        "url": "https://boards.greenhouse.io/neuralink/jobs/6648992003",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Neuralink",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
