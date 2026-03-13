@@ -386900,7 +386900,7 @@
         "company_name": "Proofpoint",
         "id": "3ba52902-b7c1-4e4a-ab25-abd55f2ad58c",
         "title": "Software Engineering Intern - AI Agents",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -422823,7 +422823,7 @@
         "company_name": "VSP Vision",
         "id": "26825bdf-8880-4197-a81b-bc9b99fdb01b",
         "title": "Intern - Agentic/Machine Learning Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
