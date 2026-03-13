@@ -288917,7 +288917,7 @@
         "company_name": "Jones Lang LaSalle (JLL)",
         "id": "456dddaf-3532-4b0a-83f8-9a86d9fdc284",
         "title": "Technology Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -336946,7 +336946,7 @@
         "company_name": "Merck",
         "id": "700e5ccb-1813-4165-aebe-20ff8fe352d8",
         "title": "Future Talent Program \u2013 Generative AI Research Intern - Natural Language Processing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -360659,7 +360659,7 @@
         "company_name": "Bose",
         "id": "d7f1bcce-bdd5-4bd4-9303-6a0a2b20c37b",
         "title": "Audio Systems Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -362826,7 +362826,7 @@
         "company_name": "Merck",
         "id": "00b112c1-bbc2-4578-9cd1-0363cb3f4709",
         "title": "Future Talent Program Intern - Representation Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -367449,7 +367449,7 @@
         "company_name": "Werfen",
         "id": "681ead82-adb3-4347-bc39-79d278dbf4f7",
         "title": "Intern \u2013 Marketing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -386917,7 +386917,7 @@
         "company_name": "The Walt Disney Company",
         "id": "7342cbd4-cd12-4248-99c6-10976894621b",
         "title": "Consumer Insight \u2013 Measurement & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -388778,7 +388778,7 @@
         "company_name": "Johnson & Johnson",
         "id": "8121c15c-51db-41b2-a3a0-0ab4eef6154c",
         "title": "AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391609,7 +391609,7 @@
         "company_name": "Johnson & Johnson",
         "id": "75780427-def6-43a5-b593-924da8d0f768",
         "title": "Intern \u2013 Cell Painting Foundation Models",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391917,7 +391917,7 @@
         "company_name": "Johnson & Johnson",
         "id": "36c28499-b35d-4d2b-be3d-1d4cc4a0df37",
         "title": "Data Science \u2013 Multi-Omics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -409452,7 +409452,7 @@
         "company_name": "T-Mobile",
         "id": "ebc06767-da99-4f7a-9e7a-24b2a2868544",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -409617,7 +409617,7 @@
         "company_name": "Warner Bros.",
         "id": "3af79f2d-7770-4cc6-81b3-ea55e376ba28",
         "title": "CNN AI Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -417426,7 +417426,7 @@
         "company_name": "Autodesk",
         "id": "281b571e-f9ca-4a2d-9f38-bc0edd7bed13",
         "title": "Intern Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -417497,7 +417497,7 @@
         "company_name": "Rubrik",
         "id": "bbd1e6dd-c0f9-4e25-85b9-ae45cd8a28cb",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -420418,15 +420418,15 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773323122,
-        "sponsorship": "Offers Sponsorship",
+        "date_updated": 1773414211,
+        "sponsorship": "Other",
         "active": true,
         "degrees": [
             "Bachelor's"
         ],
         "url": "https://www.ensono.com/careers/intern-capacity-management-data-analyst/",
         "company_name": "Ensono",
-        "title": "https://www.ensono.com/careers/intern-capacity-management-data-analyst/",
+        "title": "Intern \u2013 Capacity Management Data Analyst",
         "locations": [
             "Remote in US"
         ],
@@ -420825,7 +420825,7 @@
         "company_name": "Draper",
         "id": "b56c192e-3bd0-4ad3-ad35-da41ab86d0c1",
         "title": "Enterprise Application Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -420870,7 +420870,7 @@
         "company_name": "Premier Truck Rental",
         "id": "340c36e7-5afb-4e6d-843e-3d54cf559b14",
         "title": "Intern Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
