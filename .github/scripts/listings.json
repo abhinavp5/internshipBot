@@ -4909,7 +4909,7 @@
         "company_name": "NexThreat",
         "id": "a87a5347-f77e-4edc-a04d-d597f23756e2",
         "title": "Data Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -234014,7 +234014,7 @@
         "company_name": "Field AI",
         "id": "5e08ce2e-62e0-4bfe-a230-069592c99573",
         "title": "Field Application Engineer-Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -268782,7 +268782,7 @@
         "company_name": "Nokia",
         "id": "172da222-fbf8-4b95-b97a-22b5f468c088",
         "title": "Hardware Developer Eng Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -269013,7 +269013,7 @@
         "company_name": "Nokia",
         "id": "56598de0-62dd-4387-95af-beefd5bded4c",
         "title": "Hardware Developer Eng Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -311393,7 +311393,7 @@
         "company_name": "KLA",
         "id": "b5006151-258f-4913-94aa-a5c8820e86b5",
         "title": "Supply Chain Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364333,7 +364333,7 @@
         "company_name": "Aurora Innovation",
         "id": "1976aa67-15c9-444c-858a-7c3ab98a3bf9",
         "title": "Hardware Engineering Intern - Lidar - MS or PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -376644,7 +376644,7 @@
         "company_name": "ABB",
         "id": "be4f5e65-5dfa-4733-a73e-609524bd73bf",
         "title": "Software Development Intern-Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -384219,7 +384219,7 @@
         "company_name": "Sandisk",
         "id": "f9dcf6a3-5a64-4bfb-b21d-5cf5f725be6e",
         "title": "Summer 2026 IT Data Integration Internship - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -406792,7 +406792,7 @@
         "company_name": "Nokia",
         "id": "38b3cbad-6eab-4bbd-8c91-1737b33db5d8",
         "title": "Embedded C/C++ Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -408239,7 +408239,7 @@
         "company_name": "Chemours",
         "id": "92408e99-d73a-466e-8cc8-ff49edcd0964",
         "title": "Data Visualization Analyst Intern - Digital & Data Analytics Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -422755,6 +422755,125 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/WSP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "ad24c16a-de31-4cc3-bb24-873a0e77e6f8",
+        "title": "Student Researcher - Multiple Teams",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773365370,
+        "date_posted": 1773365370,
+        "url": "https://jobs.bytedance.com/en/position/7614293046868822325/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "F5",
+        "id": "fa706eb7-815e-407f-a2de-a8e87283b5e8",
+        "title": "Software Development Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773365049,
+        "date_posted": 1773365049,
+        "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Boulder-Louisville/Software-Development-Engineer-Intern--Boulder-_RP1036944",
+        "locations": [
+            "Lafayette, CO",
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/F5",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sony Pictures Entertainment",
+        "id": "db3e1e9a-e358-4fb9-81d9-83223c1e727f",
+        "title": "Intern \u2013 Data Science - Theatrical Marketing",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773364923,
+        "date_posted": 1773364923,
+        "url": "https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/Culver-City-California/Intern--Data-Science--Theatrical-Marketing---Summer-2026_JR111734",
+        "locations": [
+            "Culver City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony-Pictures-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "StockX",
+        "id": "799b6c63-1dd1-464c-896e-04dba97b1b31",
+        "title": "Software Engineering Intern - DRC Team",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773364700,
+        "date_posted": 1773364700,
+        "url": "https://job-boards.greenhouse.io/stockx/jobs/8456940002",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/StockX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "VSP Vision",
+        "id": "26825bdf-8880-4197-a81b-bc9b99fdb01b",
+        "title": "Intern - Agentic/Machine Learning Development",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773364811,
+        "date_posted": 1773364811,
+        "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Agentic-Machine-Learning-Development_R-9216-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/VSP-Vision",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
