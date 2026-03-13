@@ -1,249 +1,5 @@
 [
     {
-        "date_updated": 1752703435,
-        "url": "https://optiver.com/working-at-optiver/career-opportunities/8033390002",
-        "company_name": "Optiver",
-        "title": "FPGA Engineer Intern",
-        "locations": [
-            "Austin, TX"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "386b263c-ba3b-49c8-9b72-8ba2aefe5771",
-        "date_posted": 1752703435,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Hardware Engineering"
-    },
-    {
-        "date_updated": 1752703528,
-        "url": "https://optiver.com/working-at-optiver/career-opportunities/8033372002",
-        "company_name": "Optiver",
-        "title": "FPGA Engineer Intern",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "e46a4600-d0f3-439b-9717-3d9224c91423",
-        "date_posted": 1752703528,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Hardware Engineering"
-    },
-    {
-        "date_updated": 1756949344,
-        "url": "https://careers.sig.com/job/SUSQA004Y9571",
-        "company_name": "Susquehanna",
-        "title": "Software Engineering Intern",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "71233a18-97c1-49fc-888f-3d9ee6f5421f",
-        "date_posted": 1752703746,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "category": "Software Engineering"
-    },
-    {
-        "date_updated": 1752703920,
-        "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4543280005",
-        "company_name": "CTC",
-        "title": "Quant Trading",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "2b34ebf3-50f0-4b51-914e-b771146f4345",
-        "date_posted": 1752703920,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Quantitative Finance"
-    },
-    {
-        "date_updated": 1752704054,
-        "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4545359005",
-        "company_name": "CTC",
-        "title": "Software Engineer",
-        "locations": [
-            "Chicago, IL",
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "3ed6c80a-cbaa-4d87-9928-60cd94e9d12d",
-        "date_posted": 1752704054,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Software Engineering"
-    },
-    {
-        "date_updated": 1753971149,
-        "url": "https://careers.caterpillar.com/en/jobs/r0000313300/2026-summer-corporate-intern-digital-and-analytics",
-        "company_name": "Caterpillar",
-        "title": "Digital and Analytics",
-        "locations": [
-            "Chicago, IL Peoria, IL Irving, TX"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "9172ef4a-5b49-4c4a-8994-cf56ecfd5921",
-        "date_posted": 1752704192,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Hardware Engineering"
-    },
-    {
-        "date_updated": 1752704767,
-        "url": "https://akunacapital.com/job-details?gh_jid=6996427",
-        "company_name": "Akuna Capital",
-        "title": "Software Engineer C++",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "7a76ed8c-250a-427c-8492-d6fc7ef8997e",
-        "date_posted": 1752704297,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Software Engineering"
-    },
-    {
-        "date_updated": 1752704375,
-        "url": "https://akunacapital.com/job-details?gh_jid=7055793",
-        "company_name": "Akuna Capital",
-        "title": "Quantitative Research",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "a8f8bb7e-1150-4205-8081-6d0609cc0ec5",
-        "date_posted": 1752704375,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Quantitative Finance"
-    },
-    {
-        "date_updated": 1752704493,
-        "url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2026-Summer/13257",
-        "company_name": "Two Sigma",
-        "title": "Quantitative Researcher",
-        "locations": [
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "afa81220-95fd-42b5-887d-22c6d1cf80e8",
-        "date_posted": 1752704493,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Quantitative Finance"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NXP Semiconductors",
-        "id": "1ac16bab-f736-430d-bfd9-0d18a7e50da6",
-        "title": "Semiconductor Packaging Engineering Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752706510,
-        "date_posted": 1752706510,
-        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Semiconductor-Packaging-Engineering-Intern---Fall-2025_R-10059102",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/91edf47c-f010-430e-8558-5c1fbb365984",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "American Axle & Manufacturing",
-        "id": "1d6bdb23-cbfb-4de1-b070-944b63b3ad9a",
-        "title": "Controls Application Engineering Co-op",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752704421,
-        "date_posted": 1752704421,
-        "url": "https://aampower.wd1.myworkdayjobs.com/aam-career-site/job/Detroit-MI/Controls-Application-Engineering-Co-op_JREQ-217346",
-        "locations": [
-            "Detroit, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Axle-And-Manufacturing",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lactalis",
-        "id": "29d95b44-7fe1-4b45-a48f-6035bb8f33c3",
-        "title": "Digital Assets Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752705845,
-        "date_posted": 1752705845,
-        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3420129",
-        "locations": [
-            "Buffalo, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/d63c7c19-9e10-40da-84e9-383bb65dbe55",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Optiver",
@@ -236887,7 +236643,7 @@
         "company_name": "PA Consulting",
         "id": "cf8c67fd-fca3-45ff-954c-5ea87529466c",
         "title": "Apprentice - Software Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -363094,7 +362850,7 @@
         "company_name": "Visa",
         "id": "1486863a-090f-4585-929d-c79ed0be86a8",
         "title": "Software Engineer Apprentice - Level 4",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -363618,7 +363374,7 @@
         "company_name": "Visa",
         "id": "0f1b7d66-29ab-437f-8d5c-4f4d58f83890",
         "title": "Software Engineer Apprentice - Level 4",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -399490,7 +399246,7 @@
         "company_name": "Equinix",
         "id": "afeedb1e-b312-482d-bd6e-b440315993a1",
         "title": "Sustainability Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -410584,7 +410340,7 @@
         "company_name": "The Boeing Company",
         "id": "83af8310-a03d-4d58-b593-6e33d54860db",
         "title": "Boeing Pre-Employment Training - Assembly Electrical or System Mechanics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -412403,7 +412159,7 @@
         "company_name": "Interdigital",
         "id": "944d7294-4fa6-4cc0-ab25-5b214d0c69e8",
         "title": "Intern IS Systems / Salesforce",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -413422,7 +413178,7 @@
         "company_name": "Bank of Montreal",
         "id": "aa6af7d2-cb30-4a44-9a5a-457d7bab6455",
         "title": "Data Analyst \u2013 Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
