@@ -384179,7 +384179,7 @@
         "company_name": "Sandisk",
         "id": "f9dcf6a3-5a64-4bfb-b21d-5cf5f725be6e",
         "title": "Summer 2026 IT Data Integration Internship - MS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -414896,7 +414896,7 @@
         "company_name": "Becton Dickinson",
         "id": "cdfa5791-158c-4d82-8cf2-0ac31cc0b7a7",
         "title": "Intern \u2013 R&D Intern - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
