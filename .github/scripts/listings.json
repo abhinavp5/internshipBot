@@ -237041,7 +237041,7 @@
         "company_name": "PA Consulting",
         "id": "cf8c67fd-fca3-45ff-954c-5ea87529466c",
         "title": "Apprentice - Software Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -314822,7 +314822,7 @@
         "company_name": "Autodesk",
         "id": "3c72bcab-2a9f-4f27-ac99-7c57f60d086b",
         "title": "Intern Full Stack Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -362784,7 +362784,7 @@
         "company_name": "PA Consulting",
         "id": "87e6fabb-1a80-4c44-bddf-558c777c2bd0",
         "title": "Apprentice - Digital - Software Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -371848,7 +371848,7 @@
         "company_name": "Moog ",
         "id": "29db59d0-1628-439f-a06a-b122ec32765b",
         "title": "Intern \u2013 Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380949,7 +380949,7 @@
         "company_name": "State Street",
         "id": "15ce39db-c353-4619-80d3-aba3102c84e8",
         "title": "Product Management - Summer Internship-CRD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -394830,7 +394830,7 @@
         "company_name": "Red Bull",
         "id": "1d471cda-b04f-4b58-b29b-4316779c3079",
         "title": "Field Strategy Insights Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -394962,7 +394962,7 @@
         "company_name": "Red Bull",
         "id": "4d70ccf9-3ba3-4cd6-ad7e-d399d0298c03",
         "title": "Field Strategy Insights Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -413964,7 +413964,7 @@
         "company_name": "Axon",
         "id": "38306e33-298e-4142-9910-ca199102a99b",
         "title": "DFx Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
