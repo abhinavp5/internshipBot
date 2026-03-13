@@ -412769,7 +412769,7 @@
         "company_name": "Interactive Brokers",
         "id": "164d953e-f209-43a2-bd15-86894e4eaa9b",
         "title": "Quant Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -422713,6 +422713,52 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Notability",
+        "id": "898d61d9-04a3-488d-9b29-1dba8555f65a",
+        "title": "Android Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773364082,
+        "date_posted": 1773364082,
+        "url": "https://job-boards.greenhouse.io/gingerlabsinc/jobs/5129674008",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Notability",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WSP",
+        "id": "1c59b12a-8090-44fa-8edd-43837cc89378",
+        "title": "Web Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773364159,
+        "date_posted": 1773364159,
+        "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/82638",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/WSP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
