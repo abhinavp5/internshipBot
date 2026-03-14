@@ -254425,7 +254425,7 @@
         "company_name": "Clayton",
         "id": "e6ba3251-d107-496f-a07a-b45cb6b98bef",
         "title": "Accounting Analytics Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -264342,7 +264342,7 @@
         "company_name": "Moog ",
         "id": "902b8b1a-da34-460c-b602-70fcf572731a",
         "title": "Engineering Undergraduate Internships 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -281865,7 +281865,7 @@
         "company_name": "Leidos",
         "id": "8513f224-5f35-4418-b750-be8c1877bd05",
         "title": "Computer Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -336667,7 +336667,7 @@
         "company_name": "ASM Global",
         "id": "ae2d9193-c8c6-4c71-9933-75362edaf7cf",
         "title": "Summer Associate - Enterprise AI & Insights - 8 Week Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -365906,7 +365906,7 @@
         "company_name": "GE Vernova",
         "id": "7646cd7b-86dd-449f-a291-76bf6dab8f64",
         "title": "GE Vernova Competitiveness Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -366186,7 +366186,7 @@
         "company_name": "University of Virginia",
         "id": "d0bbd0e5-74e6-4359-9909-e3f5017aace1",
         "title": "Biocomplexity Computing For Global Challenges Undergraduate Summer Intern - Student Wage",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392148,7 +392148,7 @@
         "company_name": "Cadence Design Systems",
         "id": "f3715da4-8208-47e0-9831-b46b285d0241",
         "title": "SSG Design Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -397765,7 +397765,7 @@
         "company_name": "Leonardo",
         "id": "96c84751-d78f-4c8a-a450-61b5c9f1ec6d",
         "title": "Manufacturing Technician Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -399174,7 +399174,7 @@
         "company_name": "Dentsu",
         "id": "274d9b49-38f8-4558-b15e-c22fb1032b6b",
         "title": "Dentsu Summer Experience Program \u2013 Internships in Data Experience - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -418709,7 +418709,7 @@
         "company_name": "Occidental Petroleum",
         "id": "387d5861-f87f-4086-b76b-88018de85a3f",
         "title": "Intern/Co-op Data - Well Servicing & Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -424782,5 +424782,148 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KBR",
+        "id": "2b71b4c3-9a49-4e0d-a214-8298295837e1",
+        "title": "National Security Solutions Intern \u2013 Test & Evaluation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773485657,
+        "date_posted": 1773485657,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/National-Security-Solutions--NSS--Internship---Test---Evaluation-Intern_R2119802",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KBR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Equifax",
+        "id": "0e064064-ce56-446f-a0a7-336caf7c904a",
+        "title": "Rotational Technology Associate",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773498707,
+        "date_posted": 1773498707,
+        "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Rotational-Technology-Associate_J00170957",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Equifax",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "6b9f952f-6c7f-4f42-9550-02f262022c0a",
+        "title": "Cryptography Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773487213,
+        "date_posted": 1773487213,
+        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Bristol-Bristol-City-of-United-Kingdom/Cryptography-Intern_UNI3783",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Walt Disney Company",
+        "id": "61c8fe65-d07f-4eba-98f9-eeb766eb9451",
+        "title": "WDI Special Effects Designer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1773488369,
+        "date_posted": 1773488369,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDI-Special-Effects-Designer-Intern--Summer-Fall-2026_10141299-2",
+        "locations": [
+            "Celebration, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "a22f4411-8406-4456-b15f-8b67567cd5ad",
+        "title": "Intern \u2013 Equipment Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1773492261,
+        "date_posted": 1773492261,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Equipment-Engineer-ID1_JR81907",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sierra Nevada Corporation",
+        "id": "8f47f913-b0a5-44a3-b3f6-518091d53bd8",
+        "title": "Structural Technician",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773490329,
+        "date_posted": 1773490329,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Military-Fellowship-Program--Structural-Technician_R0028638",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
