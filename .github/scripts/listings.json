@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Optiver",
-        "id": "b0e9ecde-edb9-4d18-a010-544b56b16851",
-        "title": "Trading Operations Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1752780690,
-        "date_posted": 1752780690,
-        "url": "https://optiver.com/working-at-optiver/career-opportunities/8078284002/?gh_jid=8078284002",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Optiver",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Procter & Gamble (P&G)",
         "id": "7df12e4e-2c4c-4e11-90a0-4d3269000aba",
@@ -326111,7 +326091,7 @@
         "company_name": "Ercot",
         "id": "79e39891-6641-42dc-bdbf-047bfdbee3bc",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -326136,7 +326116,7 @@
         "company_name": "Ercot",
         "id": "443985df-2333-4636-9309-b512f591758a",
         "title": "Intern Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -338200,7 +338180,7 @@
         "company_name": "Samsung",
         "id": "bed40a89-e963-456b-b031-2bbdeea3d0ed",
         "title": "Data Analyst & Process Improvement Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -362501,7 +362481,7 @@
         "company_name": "Amentum",
         "id": "ec9b06c7-5375-4036-8cf3-8e659bf5e3f3",
         "title": "Electrical Integration Technician Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -380319,7 +380299,7 @@
         "company_name": "Ciena",
         "id": "c82946ef-cdc6-4316-90ee-083d296759f4",
         "title": "THW Client Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -383798,7 +383778,7 @@
         "company_name": "Sandisk",
         "id": "f9dcf6a3-5a64-4bfb-b21d-5cf5f725be6e",
         "title": "Summer 2026 IT Data Integration Internship - MS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -416037,7 +416017,7 @@
         "company_name": "Gen",
         "id": "79d47e0e-c4b8-4fa4-9b56-bfbc8d685d76",
         "title": "Glean Support and Admin",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -425411,6 +425391,29 @@
             "Houston, TX"
         ],
         "company_url": "https://simplify.jobs/c/572291ba-c453-4709-8614-8b784da19fdd",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amentum",
+        "id": "ddeb69f0-1e8c-47ab-b00d-eab358d080df",
+        "title": "Electronics Technician Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773491958,
+        "date_posted": 1773491958,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Crane/Electronics-Technician---Intern_R0155929",
+        "locations": [
+            "Bedford, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
