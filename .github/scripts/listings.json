@@ -20902,29 +20902,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "KION",
-        "id": "7d0c9de8-58d0-4419-bfcf-ec180daddfb5",
-        "title": "Engineering and Product Management Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752794080,
-        "date_posted": 1752779313,
-        "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Wauwatosa-WI-United-States/Engineering-and-Project-Management-Intern_JR-0079423",
-        "locations": [
-            "Wauwatosa, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/e7d8f975-ac2f-4a71-9604-f1ec300eb8e5",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1755638663,
         "url": "https://job-boards.greenhouse.io/figma/jobs/5602159004?gh_jid=5602159004",
         "company_name": "Figma",
@@ -343813,7 +343790,7 @@
         "company_name": "Samsung",
         "id": "afa194d3-d9cb-4cde-99b0-2d17e31ee37c",
         "title": "E-Commerce Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -351544,7 +351521,7 @@
         "company_name": "Zoetis",
         "id": "874eea30-e8ce-4343-a302-1f70eb060ed6",
         "title": "Product Analyst GMS ERP Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -398015,7 +397992,7 @@
         "company_name": "Samsung",
         "id": "3f1ac56a-3f41-4b89-9a1c-e80429047432",
         "title": "Intern \u2013 AI Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -425365,6 +425342,75 @@
             "Muskegon, MI"
         ],
         "company_url": "https://simplify.jobs/c/Magna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Applied Materials",
+        "id": "627fe904-12d5-431f-b82e-2136dc879596",
+        "title": "Intern System Engineer-PhD",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773489982,
+        "date_posted": 1773489982,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/System-Engineer-III----E3-_R2613075",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Samsung",
+        "id": "0fcab772-81ae-4d02-a8c7-0e5a73c282e2",
+        "title": "Product Marketing Intern - Home Entertainment - Gaming",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773493263,
+        "date_posted": 1773493263,
+        "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/700-Sylvan-Ave-Englewood-Cliffs-NJ-USA/Product-Marketing-Internship--Home-Entertainment---Gaming-_R114415",
+        "locations": [
+            "Englewood, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ENOVIS",
+        "id": "50c03d9d-d429-4ce5-877d-d4efa33d4edd",
+        "title": "Product Development Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1773485072,
+        "date_posted": 1773485072,
+        "url": "https://enovis.wd5.myworkdayjobs.com/en-US/enovis/job/USA-Texas-Houston/Product-Development-Intern_R0030864",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/572291ba-c453-4709-8614-8b784da19fdd",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
