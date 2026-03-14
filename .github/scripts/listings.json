@@ -388150,7 +388150,7 @@
         "company_name": "KBR",
         "id": "de4f89fd-5ce6-4881-8f56-58406558115e",
         "title": "National Security Solutions Intern - Nss",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -425414,6 +425414,53 @@
             "Bedford, IN"
         ],
         "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "nVent",
+        "id": "419a20e2-ddd9-45cf-9da0-124267b05e12",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Spring 2027"
+        ],
+        "date_updated": 1773485873,
+        "date_posted": 1773485873,
+        "url": "https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Richland-MS-US/Engineering-Intern_R20820",
+        "locations": [
+            "Pearl, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/bfdacd80-1593-4655-8b3a-da62394b5fff",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Fresenius Kabi",
+        "id": "ccf1135c-2bd9-4dd5-93f2-189ed060c515",
+        "title": "Intern Disposables Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773492109,
+        "date_posted": 1773492109,
+        "url": "https://freseniusglobal.wd3.myworkdayjobs.com/FK_Careers/job/Lake-Zurich-IL/Intern---Disposables-Engineering_R-10210178",
+        "locations": [
+            "Lake Zurich, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Fresenius-Kabi",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
