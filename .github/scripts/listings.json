@@ -361001,7 +361001,7 @@
         "company_name": "Patterson",
         "id": "2791d96f-99de-4271-ad3a-81c299ff671e",
         "title": "Digital Workplace Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -390871,7 +390871,7 @@
         "company_name": "The Wonderful Company",
         "id": "f0c44c69-0647-478e-869d-c57b31071e10",
         "title": "Wonderful Scholar Summer Internship - EHS Trainings",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -401800,7 +401800,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Sandisk",
-        "id": "82e54dd9-c897-48fd-8bc5-aab00fd7925a",
+        "id": "bf4a50ac-86b2-459d-8ba1-6afb52b2a0c2",
         "title": "Summer 2026 PhD IT Data Science Intern - Business / Operations / Strategy",
         "active": true,
         "terms": [
