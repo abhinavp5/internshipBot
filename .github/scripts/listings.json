@@ -414491,7 +414491,7 @@
         "company_name": "Veolia",
         "id": "e4667c06-20be-4852-b4d6-d0f48aec1077",
         "title": "Intern Environmental Data & Water Quality Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -415689,7 +415689,7 @@
         "company_name": "T-Mobile",
         "id": "81a427f8-76aa-408f-97e7-6f8284fe5faf",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
