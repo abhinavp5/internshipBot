@@ -253041,7 +253041,7 @@
         "company_name": "Air Products",
         "id": "ad50c116-676a-4ae0-bf7c-ece4b9bbf0fa",
         "title": "Summer PhD Intern/Co-op - Chemical Engineering - 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -294380,7 +294380,7 @@
         "company_name": "University of Texas - Austin",
         "id": "13b7c776-b6dc-4c75-98d1-5e69dc3770bf",
         "title": "Postdoctoral Fellow - Transmission Electron Microscopy",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -425127,6 +425127,29 @@
             "Glendale, CA"
         ],
         "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zoetis",
+        "id": "689c32d3-7167-438b-aac7-a6686ce52e57",
+        "title": "Quality Operations Intern - AI Assistant Development",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773487133,
+        "date_posted": 1773487133,
+        "url": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Lincoln/Quality-Operations-Intern---AI-Assistant-Development_JR00020207-1",
+        "locations": [
+            "Lincoln, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoetis",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
