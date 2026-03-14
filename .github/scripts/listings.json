@@ -197445,7 +197445,7 @@
         "company_name": "Meta",
         "id": "d6bd3730-59cb-40bd-a1bf-4273e86fc642",
         "title": "Research Scientist Intern - Computer Vision - Video Intelligence - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -280420,7 +280420,7 @@
         "company_name": "Cinemark Theatres",
         "id": "cbddad51-b6dc-48c4-bd62-67efa7548290",
         "title": "IT Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -292044,7 +292044,7 @@
         "company_name": "Barclays",
         "id": "e6bf8486-c8cc-4930-acbb-f143e6a86975",
         "title": "Technology Developer Discovery Programme 2026 Glasgow",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -417654,7 +417654,7 @@
         "company_name": "Fiserv",
         "id": "a6c670d3-9e8d-4382-974c-1194ae13e9ea",
         "title": "Technology \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -417795,7 +417795,7 @@
         "company_name": "Intel",
         "id": "6d78131c-7acd-462f-bc58-3adde1b55c42",
         "title": "Discrete Graphics Validation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -418829,7 +418829,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "da338d40-4321-4f20-897e-8079d85ece33",
         "title": "Hardware Engineering \u2013 Radio Frequency Intern - HP IQ",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -418923,7 +418923,7 @@
         "company_name": "Rolls-Royce",
         "id": "0a4e7ee4-1bd0-4066-b559-680731f6e5c8",
         "title": "Controls Engineer - Software and Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
