@@ -51040,7 +51040,7 @@
         "company_name": "Hoffman Construction",
         "id": "5330b659-6ec0-4daf-91a5-1af37c21f08a",
         "title": "Data Analyst Intern Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -173924,7 +173924,7 @@
         "company_name": "Hermeus",
         "id": "05928a12-b264-4422-9138-6ac9ae460ecd",
         "title": "Modeling & Simulation Software Engineering Intern - Spring & Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -256904,7 +256904,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "e9c1d08c-e6ce-4332-8519-6251e9b4a8ae",
         "title": "Artificial Intelligence / Machine Learning: Foundation Models \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -325193,7 +325193,7 @@
         "company_name": "Tempus",
         "id": "c124b70e-edfe-4505-b9c2-ad10ff41ac89",
         "title": "AI Applications Cardiology Summer Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -349221,7 +349221,7 @@
         "company_name": "Nokia",
         "id": "046e2c0c-1cbb-4ce6-af48-0556e908567a",
         "title": "Data fabric and network automation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -366629,7 +366629,7 @@
         "company_name": "Veolia",
         "id": "ed443bfb-1d75-4531-af23-56a59284658c",
         "title": "GIS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379453,7 +379453,7 @@
         "company_name": "Merck",
         "id": "8ef149b6-147f-41b8-8d8f-4ad061e439ff",
         "title": "Future Talent Program Intern - Data Science and Scientific Informatics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -390592,7 +390592,7 @@
         "company_name": "Bank of Montreal",
         "id": "115aaaca-bd9a-45fd-a61e-dd7224b4cfbd",
         "title": "Cloud Developer \u2013 Co-op/Internship - Summer 2026 - 4 Months",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -390850,7 +390850,7 @@
         "company_name": "KLA Corporation",
         "id": "24c0457f-aba4-4f3b-9dfa-2673b6ed310f",
         "title": "System Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391027,7 +391027,7 @@
         "company_name": "KLA",
         "id": "fa285c8e-2ba6-467a-8e36-e397f0e4f4bf",
         "title": "System Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391408,7 +391408,7 @@
         "company_name": "Visa",
         "id": "dc7bcac5-8fb9-4b78-80de-00296dc50aea",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -398267,7 +398267,7 @@
         "company_name": "Veolia",
         "id": "bcf304b3-e3a9-4b9b-8d6e-dff337388a81",
         "title": "GIS Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -408301,7 +408301,7 @@
         "company_name": "Logitech",
         "id": "97733f16-6667-49ce-a574-f40ed2a85129",
         "title": "AI Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -414374,7 +414374,7 @@
         "company_name": "Mercury Insurance",
         "id": "adbd52c7-0726-492a-a457-3d9148d28171",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -414676,7 +414676,7 @@
         "company_name": "Stantec",
         "id": "0d5fe3c2-0137-4866-82a0-1ef17369cf18",
         "title": "Data Scientist Intern - Water - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -417497,7 +417497,7 @@
         "company_name": "Avnet",
         "id": "a31ea7df-3249-47a7-bea2-fe04a9693e59",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -421532,7 +421532,7 @@
         "company_name": "Blackberry",
         "id": "7ab21739-b20d-4d0e-b345-593123e9b0bb",
         "title": "Software Development Student - Mobile & Cross-Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -421763,7 +421763,7 @@
         "company_name": "Carnegie Mellon University",
         "id": "7a10814e-854d-4262-a02b-5aa347a596be",
         "title": "Malware Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -422961,5 +422961,120 @@
             "JD",
             "MD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MultiCare Health System",
+        "id": "2a7c618f-f52a-4be7-9b1f-8bd1ad03211f",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773413966,
+        "date_posted": 1773413966,
+        "url": "https://multicare.wd1.myworkdayjobs.com/multicare/job/Remote-USA/Data-Analytics-Intern_JR71369",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/8cbd871d-4e1b-4472-a51d-63dde4a7094d",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Smith+Nephew",
+        "id": "4c7ebfb9-f755-40cc-a2c9-be8b33bd7cec",
+        "title": "Intern \u2013 AI for Global Clinical and Medical Affairs",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773412929,
+        "date_posted": 1773412929,
+        "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern--AI-for-Global-Clinical-and-Medical-Affairs_R87647",
+        "locations": [
+            "Andover, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Smith-Nephew",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Locus Robotics",
+        "id": "81229238-b3b5-4e1e-9a04-d90e9a826775",
+        "title": "Product Quality Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773411886,
+        "date_posted": 1771371235,
+        "url": "https://job-boards.greenhouse.io/locusrobotics/jobs/5042544007",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/LocusRobotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Repsol",
+        "id": "6a114435-21e7-44f4-9c5e-4c8a6bf86d51",
+        "title": "Production Allocation Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773414472,
+        "date_posted": 1773414472,
+        "url": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Asset-Control-Intern_80888-2",
+        "locations": [
+            "The Woodlands, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Repsol",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "University of Rochester",
+        "id": "1a800c78-70d2-40fc-883b-3c8004d402b2",
+        "title": "Co-op Research Student 1",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773414598,
+        "date_posted": 1773414598,
+        "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Laboratory-for-Laser-Energetics/Co-op-Research-Student-I_R262028",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Rochester",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
