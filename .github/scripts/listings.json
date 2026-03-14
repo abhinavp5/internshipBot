@@ -42282,7 +42282,7 @@
         "company_name": "NVIDIA",
         "id": "a99e98fd-cdf7-40e7-93e9-6ef43d068c4c",
         "title": "NVIDIA Internships: Hardware ASIC Design",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -294679,7 +294679,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "ccb1d238-a2df-4d6c-9756-199d22c2f2f8",
         "title": "Military Fellowship Program: Structural Technician",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -301183,7 +301183,7 @@
         "company_name": "Cadence Design Systems",
         "id": "2b9da1df-393c-4c77-a9d8-0e114f908a23",
         "title": "Intern \u2013 Scientific Developer Target Exploration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -310377,7 +310377,7 @@
         "company_name": "KLA",
         "id": "4a2843bc-0518-48bc-9327-67f5d5b671a4",
         "title": "Prolith Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -375783,7 +375783,7 @@
         "company_name": "Michelin",
         "id": "850e9e19-3683-4cf9-b350-8ad3a69d31ea",
         "title": "Energy & Water Savings Engineering Intern/Co-op - KY",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392919,7 +392919,7 @@
         "company_name": "Xylem",
         "id": "829efff4-17f7-4107-bbfc-db5c3e5461fd",
         "title": "Digital Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -396828,7 +396828,7 @@
         "company_name": "Fidelity Investments",
         "id": "6028f0e0-2506-4a5a-9cb2-56e02527f3bd",
         "title": "Digital Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -424639,5 +424639,148 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Johnson Controls",
+        "id": "6cd456c1-10f5-4fc6-a3ca-419fcd0261ed",
+        "title": "Controls Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773488250,
+        "date_posted": 1773488250,
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Salem-Virginia-United-States-of-America/Controls-Engineering-Intern_WD30261739",
+        "locations": [
+            "Roanoke, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Controls",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Circle",
+        "id": "b6ae6597-8d6c-4510-834d-6968dd97ad75",
+        "title": "Intern \u2013 Application Security",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773488581,
+        "date_posted": 1773488581,
+        "url": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Intern--Application-Security_JR100899",
+        "locations": [
+            "Boston, MA",
+            "Washington, DC",
+            "SF",
+            "Austin, TX",
+            "LA",
+            "Miami, FL",
+            "Chicago, IL",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Circle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ultra",
+        "id": "c0f95bd3-b83d-4cbb-9d4b-2da106400cf8",
+        "title": "Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773485698,
+        "date_posted": 1773485698,
+        "url": "https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Cheltenham-Gloucestershire-England-UK/Engineering-Industrial-Placement_REQ-11107",
+        "locations": [
+            "Cambridge, UK",
+            "Gloucester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ultra",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BorgWarner",
+        "id": "e7aa873e-26b6-4b2b-8999-ab642913e372",
+        "title": "Business Automation Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1773484802,
+        "date_posted": 1773484802,
+        "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Business-Automation-Intern_R2026-0438",
+        "locations": [
+            "Auburn Hills, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/BorgWarner",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Rocket Mortgage",
+        "id": "a078cb23-0c9b-4e15-8914-a34e123aed1c",
+        "title": "Apparel Design Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773484476,
+        "date_posted": 1773484476,
+        "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Apparel-Design-Intern---Summer-2026_R-080758",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Mortgage",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Brookhaven Lab",
+        "id": "74b0fc23-86a8-4370-9262-ee7acb6a7a48",
+        "title": "Student Assistant - Energy Systems",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773489015,
+        "date_posted": 1773489015,
+        "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Student-Assistant---Energy-Systems_JR102273",
+        "locations": [
+            "Shirley, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Brookhaven-Lab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
     }
 ]
