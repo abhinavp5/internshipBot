@@ -211470,7 +211470,7 @@
         "company_name": "Nokia",
         "id": "b49ae61a-9438-43b3-919c-deb71f25d573",
         "title": "Saas Software Development Coop",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -241426,7 +241426,7 @@
         "company_name": "Nokia",
         "id": "bda48584-20f0-4aa5-b3ac-08b812e55b51",
         "title": "AI SW Automation Coop",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -251167,7 +251167,7 @@
         "company_name": "Nokia",
         "id": "476b5db5-83ff-4759-a61c-4c40f4ca89da",
         "title": "SaaS Software Development Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -258296,7 +258296,7 @@
         "company_name": "Nokia",
         "id": "88b2e2d2-bf0b-4c5b-a7ea-8fe5ed38ee9d",
         "title": "Lab Assistant Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -263586,7 +263586,7 @@
         "company_name": "Apex Fintech Solutions",
         "id": "e26844a9-fc18-4052-98bb-b2908895fbdf",
         "title": "Product Marketing Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -379365,7 +379365,7 @@
         "company_name": "Mentis AI",
         "id": "9f9413ef-0a67-45ec-a618-f1589695e062",
         "title": "Investment Banking & Capital Markets Professionals \u2013 AI Residency - Part-time - Frontier AI Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379434,7 +379434,7 @@
         "company_name": "Mentis AI",
         "id": "7594a641-d94b-48c2-8dae-6c818a06d41e",
         "title": "Asset Management Professional \u2013 AI Residency - Frontier AI Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379476,7 +379476,7 @@
         "company_name": "Mentis AI",
         "id": "56fa5d14-0114-4ab5-878f-cb3554418630",
         "title": "Investment Banking & Capital Markets Professionals \u2013 AI Residency - Part-time - Frontier AI Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380576,7 +380576,7 @@
         "company_name": "Mentis AI",
         "id": "a8de100b-1d0c-4097-a730-ba0e2a28374e",
         "title": "Wealth Management Professionals \u2013 AI Residency - Part-time - Frontier AI Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380814,7 +380814,7 @@
         "company_name": "Mentis AI",
         "id": "9fb89df0-f28f-468d-9379-d0eaf5cbe4b0",
         "title": "Real Estate Investment Professionals \u2013 AI Residency - Frontier AI Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -382545,7 +382545,7 @@
         "company_name": "Mentis AI",
         "id": "cdf3b74a-4681-49c1-b09a-e984e64805a5",
         "title": "Commercial Banking Professionals \u2013 AI Residency - Part-time - Frontier AI Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -388889,7 +388889,7 @@
         "company_name": "Western Digital",
         "id": "ea9f0c5f-b463-4b8e-8386-fac01f61f805",
         "title": "Intern - HDD Testing",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -404532,7 +404532,7 @@
         "company_name": "Arcadis",
         "id": "1c43b157-73ca-4f7c-a8bd-b0e651289eb2",
         "title": "Graduate Network Modeller",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -408121,7 +408121,7 @@
         "company_name": "The Information Lab",
         "id": "ca0e46bd-3d87-4ea3-ae5c-3f8c475e3706",
         "title": "The Data School - Data Analyst Consultant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -408552,7 +408552,7 @@
         "company_name": "Arcadis",
         "id": "2ab9d8f6-fb32-4f66-9b18-be92d39bbf31",
         "title": "Climate Adaptation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -425642,6 +425642,27 @@
             "Kenosha, WI"
         ],
         "company_url": "https://simplify.jobs/c/Uline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mentis AI",
+        "id": "be29dfc1-e3ca-4825-80d9-ac13338a8e50",
+        "title": "Hedge Fund \u2013 AI Residency - Part-time - Frontier AI Research",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1773477836,
+        "date_posted": 1772205461,
+        "url": "https://jobs.ashbyhq.com/mentis/2b8dc855-950c-4113-a122-9c06b1495e55/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Mentis-AI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
