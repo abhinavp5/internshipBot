@@ -259272,7 +259272,7 @@
         "company_name": "X-energy",
         "id": "442ff296-8b27-4b39-b2b8-a99295c60a7c",
         "title": "Engineering Intern - Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -278393,7 +278393,7 @@
         "company_name": "Sherwin-Williams",
         "id": "b8cdf017-bc5f-486d-a33a-6508df706ec6",
         "title": "Product Marketing Co-op Interior Architectural Paint",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -366629,7 +366629,7 @@
         "company_name": "Veolia",
         "id": "ed443bfb-1d75-4531-af23-56a59284658c",
         "title": "GIS Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -378230,7 +378230,7 @@
         "company_name": "Western Digital",
         "id": "0d1a1aa2-36ac-4351-af65-180d09512b88",
         "title": "2026 Summer Intern - Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -381087,7 +381087,7 @@
         "company_name": "Moog ",
         "id": "3071c5d9-d32b-43ef-9c88-a4fcbf2c4450",
         "title": "Intern \u2013 Mechanical Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -419237,7 +419237,7 @@
         "company_name": "Western Digital",
         "id": "b853e6d1-dc81-4283-be57-96a5e38e9ed2",
         "title": "Intern - Data Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -422691,7 +422691,7 @@
         "company_name": "PHINIA",
         "id": "eeeeab9f-ebea-4859-9c99-0d4a7fde8ff8",
         "title": "Yini \u2013 Materials Engineering Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
