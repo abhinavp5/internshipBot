@@ -323243,7 +323243,7 @@
         "company_name": "Skyways",
         "id": "4220ef1e-37ac-40b2-b417-469e758fbd51",
         "title": "Skyways Intern - 2026 and Beyond",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -326400,7 +326400,7 @@
         "company_name": "Expedia Group",
         "id": "c5c4e1be-1c78-4379-bb7b-e9efb3dc5b8d",
         "title": "Career Exploration Program - 2026 - Seattle",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -367213,7 +367213,7 @@
         "company_name": "PennState University",
         "id": "1650dafb-5e1e-46f7-ba7d-ad72e909713b",
         "title": "R&D Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -425461,6 +425461,52 @@
             "Lake Zurich, IL"
         ],
         "company_url": "https://simplify.jobs/c/Fresenius-Kabi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "dd9d5a44-e764-4be3-96b4-70cce622eb27",
+        "title": "Part-Time Laboratory Assistants - Department of Statistics",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773494569,
+        "date_posted": 1773494569,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Laboratory-Assistants---Department-of-Statistics_REQ_0000067627-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Apex Fintech Solutions",
+        "id": "a53a8bff-e1b5-4d8e-a942-8291d20896c3",
+        "title": "Product Marketing Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773487375,
+        "date_posted": 1773487375,
+        "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Product-Marketing-Intern_JR104050",
+        "locations": [
+            "Austin, TX",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Apex-Fintech-Solutions",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
