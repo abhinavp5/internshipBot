@@ -1,28 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Procter & Gamble (P&G)",
-        "id": "7df12e4e-2c4c-4e11-90a0-4d3269000aba",
-        "title": "2026 STEM BOLD Internship & Scholarship",
-        "active": false,
-        "terms": [
-            "Spring 2027",
-            "Fall 2026",
-            "Fall 2027"
-        ],
-        "date_updated": 1752791463,
-        "date_posted": 1752791463,
-        "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/XMLNAME-2026-STEM-BOLD-Internship---Scholarship_R000135727",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "CrucialLogics",
         "id": "30afcb1f-8682-4fb1-94b8-d73d1eae3d78",
@@ -20855,30 +20833,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Toyota Research Institute",
-        "id": "0015f179-e762-41cb-99af-b2b63b2ae7c1",
-        "title": "Energy & Materials Research Intern - Agentic Modeling",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2026"
-        ],
-        "date_updated": 1753185135,
-        "date_posted": 1752792977,
-        "url": "https://jobs.lever.co/tri/6e628674-25f0-43da-9dfb-13d246671f3a/apply",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
         ]
     },
     {
@@ -236600,7 +236554,7 @@
         "company_name": "PA Consulting",
         "id": "cf8c67fd-fca3-45ff-954c-5ea87529466c",
         "title": "Apprentice - Software Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331383,7 +331337,7 @@
         "company_name": "Leidos",
         "id": "e575170e-bdc5-43fe-a8d7-1db2c36037e6",
         "title": "Electrical Hardware Design Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -362343,7 +362297,7 @@
         "company_name": "PA Consulting",
         "id": "87e6fabb-1a80-4c44-bddf-558c777c2bd0",
         "title": "Apprentice - Digital - Software Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -373557,7 +373511,7 @@
         "company_name": "Intermountain Healthcare",
         "id": "f0e236f3-5610-460b-9446-3317e1dddcf4",
         "title": "Data Analytics Intern - Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -394521,7 +394475,7 @@
         "company_name": "Red Bull",
         "id": "4d70ccf9-3ba3-4cd6-ad7e-d399d0298c03",
         "title": "Field Strategy Insights Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -395359,7 +395313,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "24287b88-24a4-4651-a0ca-4d803354f3cc",
         "title": "Foundation Models for Autonomous Driving AI Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -407049,7 +407003,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "1905f7cc-a426-4bd3-b922-b4f467958653",
         "title": "Foundation Models for Autonomous Driving AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -408142,7 +408096,7 @@
         "company_name": "WSP",
         "id": "aa7ee88d-fa17-415d-acce-a24e81901422",
         "title": "Geomatics Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -411259,7 +411213,7 @@
         "company_name": "The Boeing Company",
         "id": "3a4e17d7-0a55-4379-aa13-75c13bb4c2a9",
         "title": "Millennium Space Systems Intern Program \u2013 Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -412018,7 +411972,7 @@
         "company_name": "GE Aerospace",
         "id": "cfa33697-df27-4c7b-97c1-16002ecd55cd",
         "title": "Engines Engineering Co-op - Computer or Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2027"
         ],
@@ -412210,7 +412164,7 @@
         "company_name": "GE Aerospace",
         "id": "a361b6e9-b2ef-4dc3-a429-dc61d576f023",
         "title": "Engines Engineering Co-op - Computer or Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -413024,7 +412978,7 @@
         "company_name": "Magna International",
         "id": "914bd1b6-1900-4cbb-839d-f63fe14053c1",
         "title": "Computer Vision AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -413753,7 +413707,7 @@
         "company_name": "Spectrum Control",
         "id": "e8e4aa1f-a3e1-4f24-aaef-b1d583bf0620",
         "title": "Engineering Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -416417,7 +416371,7 @@
         "company_name": "University of Virginia",
         "id": "a62dfb13-45ba-49b3-8af7-cabc661b195b",
         "title": "Darden Technical Research Assistant",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -425666,5 +425620,143 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Avnet",
+        "id": "5f8d6d36-bd51-4326-aa4a-6abac228d4ab",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773487018,
+        "date_posted": 1773487018,
+        "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Phoenix-Arizona-United-States-Of-America/Data-Analyst-Intern_JR-022005",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Avnet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Neighbor",
+        "id": "ca2833cb-5dfa-4189-b2c4-d5cb140dc83c",
+        "title": "Growth Marketing Intern - Data Analytics and Strategy",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773478378,
+        "date_posted": 1770707753,
+        "url": "https://jobs.lever.co/neighbor/b9f53939-05e5-438d-8dee-04e670a9829b/apply",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Neighbor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Progyny",
+        "id": "5a80a999-df96-4512-ba05-39dc3cb230ba",
+        "title": "Compensation & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773489241,
+        "date_posted": 1773489241,
+        "url": "https://progyny.wd5.myworkdayjobs.com/en-US/progyny/job/New-York-New-York/Compensation---Analytics-Intern_JR101014",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Progyny",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Avnet",
+        "id": "be1bf6aa-63a3-4241-9acf-5c4fd09b0b8a",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773487049,
+        "date_posted": 1773487049,
+        "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Phoenix-Arizona-United-States-Of-America/Data-Analyst-Intern_JR-022005",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Avnet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "4a3fdf9b-d8cb-4c5a-9a47-60c3b9a7d8c4",
+        "title": "Intern Operations Program Management",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773490826,
+        "date_posted": 1773490826,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-d-t-2026-Gestion-des-programmes---Internship-Summer-2026-Operations-Program-Management_01809689-1",
+        "locations": [
+            "Longueuil, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Teledyne",
+        "id": "cc65c445-c73d-4ce2-9a17-4442b3031a78",
+        "title": "Software Engineer Co-Op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773486533,
+        "date_posted": 1773486533,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/Software-Engineer-Co-Op_REQ33472",
+        "locations": [
+            "Mahwah, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
