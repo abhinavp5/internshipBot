@@ -30836,7 +30836,7 @@
         "company_name": "Analog Devices",
         "id": "cc96e6ea-6422-459f-b404-08632e7bbbd2",
         "title": "Machine Learning Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -30907,7 +30907,7 @@
         "company_name": "Analog Devices",
         "id": "6e3a0d52-d186-41b7-b8f2-60e7fa6a8bef",
         "title": "Product Engineer Prod Dev Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -173903,7 +173903,7 @@
         "company_name": "RTX",
         "id": "9ec71ba1-c547-400c-9b87-51b26f834abd",
         "title": "Summer 2026: Network Research Intern - Onsite",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -324207,7 +324207,7 @@
         "company_name": "Sandisk",
         "id": "e5134075-1379-47f6-9977-846cfae23ba9",
         "title": "PhD Intern - Advanced Memory Technology - AI/ML Focus",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -347176,7 +347176,7 @@
         "company_name": "Gen",
         "id": "4aef6314-616b-4560-9da0-c6b9f63fa692",
         "title": "Intern - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -356001,7 +356001,7 @@
         "company_name": "EBSCO",
         "id": "7401d8e4-c056-4698-b8a9-9aa957a16507",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -386291,7 +386291,7 @@
         "company_name": "Westinghouse Electric Company",
         "id": "540024a8-1807-45b6-a191-c8384ce9a20a",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389228,7 +389228,7 @@
         "company_name": "Geisinger",
         "id": "b3da7196-0c8c-49a0-9286-cd5dcc93885d",
         "title": "Undergraduate Intern - Software Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -395067,7 +395067,7 @@
         "company_name": "Viatris",
         "id": "0606bc40-ec5e-48e0-9506-c12d14f64c65",
         "title": "Intern \u2013 Data Analyst Non-Sterile Supply Chain",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -401421,7 +401421,7 @@
         "company_name": "TJX",
         "id": "1d02d7ff-ae31-422a-9ec4-b29bb898241c",
         "title": "Data & Analytics Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -408208,7 +408208,7 @@
         "company_name": "Telligen",
         "id": "ed16b144-9b06-4f0a-bcc7-5229c317a2ab",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -416600,7 +416600,7 @@
         "company_name": "Assurant",
         "id": "1adb3c50-af75-4061-bec3-5d4885f40b24",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -416978,7 +416978,7 @@
         "company_name": "KION Group",
         "id": "8eb44b0c-8d8e-4bd2-88d0-51fb9b03511c",
         "title": "AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -417474,7 +417474,7 @@
         "company_name": "Avnet",
         "id": "e2330dee-2e80-4a30-bd62-64212150e6d0",
         "title": "Software Developer Intern - UI Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -417867,7 +417867,7 @@
         "company_name": "KION Group",
         "id": "fe972247-600c-481b-961d-3abad929c277",
         "title": "AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -419141,7 +419141,7 @@
         "company_name": "Johnson & Johnson",
         "id": "73e6acaa-0ccf-4e37-bda7-b24dbd77badd",
         "title": "R&D Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -422775,5 +422775,191 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Realty Income",
+        "id": "ef9bf69c-f804-4350-aba5-90ae25f51f92",
+        "title": "Operational Excellence Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773411708,
+        "date_posted": 1773411708,
+        "url": "https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/San-Diego-California/Operational-Excellence-Intern_R-100094",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Realty-Income",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Savannah River National Laboratory",
+        "id": "7d548449-dfa8-43e9-8ca9-92227ae947e1",
+        "title": "EM University Programs AI and Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773411417,
+        "date_posted": 1773411417,
+        "url": "https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1998",
+        "locations": [
+            "North Augusta, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Savannah-River-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Roku",
+        "id": "a50d6643-55b3-4cd5-a8dc-1983b0fa73f8",
+        "title": "Software Engineer Intern - Streaming Media",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773411105,
+        "date_posted": 1773411105,
+        "url": "https://www.weareroku.com/jobs/7599381?gh_jid=7599381",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Roku",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Repsol",
+        "id": "cde5b7b6-4350-462e-b1e7-b3390ccf6aa2",
+        "title": "Subsurface Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773411762,
+        "date_posted": 1773411762,
+        "url": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Alaska/Subsurface-Engineering-Intern_81483-2",
+        "locations": [
+            "Anchorage, AK"
+        ],
+        "company_url": "https://simplify.jobs/c/Repsol",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rite Hite",
+        "id": "8a10406d-dd75-42f2-91eb-e97a1bb46455",
+        "title": "Service Technician",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773411753,
+        "date_posted": 1773411753,
+        "url": "https://ritehite.wd12.myworkdayjobs.com/RHH/job/USA-WI-Madison/Apprentice-or-Service-Technician---West-of-Madison--WI_JR102024",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rite-Hite",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "University of Rochester",
+        "id": "b441f04a-1511-4f00-8da4-f24b26c17f05",
+        "title": "Co-op Research Student 1",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773412413,
+        "date_posted": 1773412413,
+        "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Laboratory-for-Laser-Energetics/Co-op-Research-Student-I_R263737",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Rochester",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "University of Rochester",
+        "id": "09f80cd9-e2b2-4793-afb5-58cf62b81293",
+        "title": "Project Assistant 1",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773412478,
+        "date_posted": 1773412478,
+        "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Laboratory-for-Laser-Energetics/Project-Assistant-I_R266117",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Rochester",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "df86468a-0723-4315-bf56-0803134d3889",
+        "title": "Data Analyst Project Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773411495,
+        "date_posted": 1773411495,
+        "url": "https://lifeattiktok.com/search/7616659899507591477",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD",
+            "JD",
+            "MD"
+        ]
     }
 ]
