@@ -167086,7 +167086,7 @@
         "company_name": "BorgWarner",
         "id": "c2926a50-b1e7-4657-8142-4825e17f90ac",
         "title": "eHardware Engineer Intern - Electrical Engineering - Power Electronics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -210220,7 +210220,7 @@
         "company_name": "Mastercard",
         "id": "a0428b6c-d526-433d-b629-abb9f9dceed0",
         "title": "Apprentice - Cabling Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -289291,7 +289291,7 @@
         "company_name": "AIG",
         "id": "4789ad3e-3e48-47a9-a80a-d4229e6ba377",
         "title": "Early Career - Gen AI - Data Engineering Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -292234,7 +292234,7 @@
         "company_name": "GE Vernova",
         "id": "a340b6e8-f4ac-43a4-9d89-6aaf907a9a30",
         "title": "Software-defined Networking and IPv6 for Secure Distributed Energy Resources Research",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -300495,7 +300495,7 @@
         "company_name": "GE Healthcare",
         "id": "d423f8cd-a5e2-4c0d-8b30-ad7ee69ae3f1",
         "title": "Field Engineer Apprentice - Little Rock - AR",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -310097,7 +310097,7 @@
         "company_name": "AIG",
         "id": "3986500a-06d8-42a8-bd17-5f4c65ae8d77",
         "title": "Early Career - Gen AI - Data Engineering Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -320888,7 +320888,7 @@
         "company_name": "Michelin",
         "id": "91782ce8-b317-440e-8ade-5286448a84f7",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -324841,7 +324841,7 @@
         "company_name": "Rockwell Automation",
         "id": "0f58c065-3746-44a7-913b-d9e5f20f1a4c",
         "title": "Co-op \u2013 Business Operation - Motion Control",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -331009,7 +331009,7 @@
         "company_name": "Anglian Water",
         "id": "2250d291-d387-4e67-af13-50a19d1e0d32",
         "title": "Asset Technician Apprentice - Clean Water",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -372366,7 +372366,7 @@
         "company_name": "GE Healthcare",
         "id": "18adc67d-34ad-4539-8d00-a249fd4c7396",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -374798,7 +374798,7 @@
         "company_name": "Takeda",
         "id": "c960b654-1398-4ed0-8c74-c9045c5eaaf1",
         "title": "Lab Intern - DE&C - Device Evaluation and Characterization",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -392290,7 +392290,7 @@
         "company_name": "Cadence Design Systems",
         "id": "624e0bff-3082-46d5-90ce-b611b1fb8c9c",
         "title": "SSG Design Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -404279,7 +404279,7 @@
         "company_name": "Evonik",
         "id": "0f5e382b-fc38-49ab-ab8f-f87781ba36ca",
         "title": "Intern Fachinformatiker Bachelor of Science",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -409265,7 +409265,7 @@
         "company_name": "Leidos",
         "id": "04289a7f-5876-4c73-a8df-5492275bf75c",
         "title": "Hardware/System Radar Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -425155,5 +425155,124 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sun Life",
+        "id": "28ecc37c-e35b-41f1-bfb7-325cf340a2e6",
+        "title": "Reporting Analyst \u2013 Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1773489654,
+        "date_posted": 1773489654,
+        "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Wellesley-Hills-Massachusetts/Reporting-Analyst---Fall-2026-Co-op_JR00121048",
+        "locations": [
+            "Needham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sun-Life",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "8f4b2e92-92a5-47e8-ad7a-0460fef44e71",
+        "title": "Field Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773488308,
+        "date_posted": 1773488308,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice--Northern-Indiana--South-Bend---Fort-Wayne-_R4036702-2",
+        "locations": [
+            "Fort Wayne, IN",
+            "South Bend, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Netflix",
+        "id": "fc46917a-fedc-492c-ac7f-58cce1ccaa06",
+        "title": "Internet Measurement Research Intern - Openconnect Distributed Systems",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773492944,
+        "date_posted": 1773492944,
+        "url": "https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Internet-Measurement-Research-Intern---OpenConnect-Distributed-Systems--Summer-2026_JR37466",
+        "locations": [
+            "Los Gatos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Netflix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ABB",
+        "id": "d4c97bb6-bdb6-4409-bb00-d998c5e7df2e",
+        "title": "Product Development Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773482812,
+        "date_posted": 1773482812,
+        "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-CT-Bloomfield/Product-Development-Engineering-Intern---Summer-2026_JR00012836",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/ABB",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mercer University",
+        "id": "3e2b4643-2499-4dcf-9b55-63147971c70b",
+        "title": "Research Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773481942,
+        "date_posted": 1773481942,
+        "url": "https://merceruniversity.wd1.myworkdayjobs.com/student/job/Macon-Campus/Research-Assistant_JR103257",
+        "locations": [
+            "Macon, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mercer-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
