@@ -51932,7 +51932,7 @@
         "company_name": "Johnson & Johnson",
         "id": "86b4d800-5234-4e19-89dd-3ef19775584e",
         "title": "Software Engineering Intern/Co Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -109768,7 +109768,7 @@
         "company_name": "Brown & Brown Insurance",
         "id": "cd1f6f9b-1513-40c6-bc1b-eb3bef96f7b6",
         "title": "Technology Solutions Intern - Technology Solutions",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -291935,7 +291935,7 @@
         "company_name": "Barclays",
         "id": "e6bf8486-c8cc-4930-acbb-f143e6a86975",
         "title": "Technology Developer Discovery Programme 2026 Glasgow",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -353220,7 +353220,7 @@
         "company_name": "Conner Strong & Buckelew",
         "id": "d2a92a01-f72c-486b-9edf-d577fb593435",
         "title": "IT AI Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -397197,7 +397197,7 @@
         "company_name": "The Boeing Company",
         "id": "7d9ee752-a247-486f-b125-88a4909ae730",
         "title": "Millennium Space Systems Intern Program \u2013 Circuit and System Reliability Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -410091,7 +410091,7 @@
         "company_name": "CACI",
         "id": "bf38b155-333b-47ee-8aef-6a7fc791fecd",
         "title": "Data Analyst / BI Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -412522,7 +412522,7 @@
         "company_name": "The Boeing Company",
         "id": "244a9909-1c91-4de8-96e5-23987daa7e2d",
         "title": "Millennium Space Systems Intern Program \u2013 Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -412981,7 +412981,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "aac2a64d-bbaa-45ab-b2fc-db9be329197c",
         "title": "Data and Reporting Analyst Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -413778,7 +413778,7 @@
         "company_name": "S&P Global ",
         "id": "f06f6eb6-7310-44d8-ac4d-2083a6cd01e2",
         "title": "AI Agent Developer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -417499,7 +417499,7 @@
         "company_name": "Applied Materials",
         "id": "f67d9b4f-525b-485d-8afe-a01564ac2912",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -417545,7 +417545,7 @@
         "company_name": "Fiserv",
         "id": "a6c670d3-9e8d-4382-974c-1194ae13e9ea",
         "title": "Technology \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -417612,7 +417612,7 @@
         "company_name": "Micron Technology",
         "id": "54716e4e-1859-47c3-84ff-25c57350f92f",
         "title": "Hardware Automation Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -417686,7 +417686,7 @@
         "company_name": "Intel",
         "id": "6d78131c-7acd-462f-bc58-3adde1b55c42",
         "title": "Discrete Graphics Validation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -418720,7 +418720,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "da338d40-4321-4f20-897e-8079d85ece33",
         "title": "Hardware Engineering \u2013 Radio Frequency Intern - HP IQ",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -422859,7 +422859,7 @@
         "company_name": "MultiCare Health System",
         "id": "2a7c618f-f52a-4be7-9b1f-8bd1ad03211f",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -425732,6 +425732,124 @@
             "Mahwah, NJ"
         ],
         "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Federal Reserve System",
+        "id": "e101d805-293c-49f2-a24e-5ce987ed7770",
+        "title": "Software Engineer",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1773484790,
+        "date_posted": 1773484790,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Boston-MA/Fall-2026-Co-op--Software-Engineering_R-0000031108",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Gensler",
+        "id": "471cd70c-32b0-49a6-9e50-8025b8642687",
+        "title": "Intern - GIS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773484694,
+        "date_posted": 1773484694,
+        "url": "https://gensler.wd1.myworkdayjobs.com/genslercareers/job/New-York-NY-US/Summer-Internship---GIS_R-17237",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Gensler",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fiserv",
+        "id": "899a9e6d-5c93-4460-8bcf-ba6ab69d43e5",
+        "title": "Intern - Data Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773485698,
+        "date_posted": 1773485698,
+        "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Irving-Texas/Summer-Internship---Data-Analyst--Irving--TX-_R-10389853",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Fiserv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "895184aa-5171-43c5-ac84-0ee5622a3645",
+        "title": "Surgery Field Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773488142,
+        "date_posted": 1773488142,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Surgery-Field-Engineer-Apprentice---Utah_R4035261-1",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cadence Design Systems",
+        "id": "8fda9712-2e31-4ac0-ae8e-d98a2e107f52",
+        "title": "AI Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773489623,
+        "date_posted": 1773489623,
+        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/AI-Intern--Summer-2026-_R52508",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
