@@ -15770,7 +15770,7 @@
         "company_name": "Adobe",
         "id": "f65a97ce-acdb-4f60-a4e0-a4a7b7a66fcb",
         "title": "AI/ML Intern - Machine Learning Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -199596,7 +199596,7 @@
         "company_name": "Leidos",
         "id": "1b89031e-7b1f-455d-8cee-925b84440adc",
         "title": "AI Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -283121,7 +283121,7 @@
         "company_name": "Comcast",
         "id": "2d94a821-7d45-49bc-9e93-03e68359a70b",
         "title": "Comcast AI Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -297216,7 +297216,7 @@
         "company_name": "PA Consulting",
         "id": "a6c20ee9-648a-4a18-a7f4-af646dcdf7ef",
         "title": "2026 Apprentice - Digital - Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -362298,7 +362298,7 @@
         "company_name": "PA Consulting",
         "id": "867a10c2-b56f-4ac7-8fe6-80c2b0b698a4",
         "title": "Intern - Digital - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -366520,7 +366520,7 @@
         "company_name": "Veolia",
         "id": "ed443bfb-1d75-4531-af23-56a59284658c",
         "title": "GIS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -375882,7 +375882,7 @@
         "company_name": "CACI",
         "id": "37686c7d-7a37-4e47-a81c-012ef7fc3de0",
         "title": "Digital Transformation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -382547,7 +382547,7 @@
         "company_name": "Carnegie Mellon University",
         "id": "a40b0d99-edce-488b-89cb-90e7f91cc828",
         "title": "Intern - College of Engineering - Electrical and Computer Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -398158,7 +398158,7 @@
         "company_name": "Veolia",
         "id": "bcf304b3-e3a9-4b9b-8d6e-dff337388a81",
         "title": "GIS Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -399512,7 +399512,7 @@
         "company_name": "Veolia",
         "id": "aceac5de-9456-42ce-a271-bf427b650054",
         "title": "Stakeholder Intelligence & Data Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -412192,7 +412192,7 @@
         "company_name": "Analog Devices",
         "id": "95c0f21a-1fa3-4adf-a47a-22a5dafe977c",
         "title": "Embedded Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -412867,7 +412867,7 @@
         "company_name": "Leidos",
         "id": "c3bcfb2b-53d5-445f-b794-d43b2cf92211",
         "title": "Data Integration Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -414382,7 +414382,7 @@
         "company_name": "Veolia",
         "id": "e4667c06-20be-4852-b4d6-d0f48aec1077",
         "title": "Intern Environmental Data & Water Quality Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -415675,7 +415675,7 @@
         "company_name": "M&G",
         "id": "5f129450-352a-48c1-b5a9-246d39241e63",
         "title": "Finance Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -416395,7 +416395,7 @@
         "company_name": "Rockwell Automation",
         "id": "74e32eea-4d08-4306-bc76-b426bad0cf98",
         "title": "Co-op Hardware Development Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -418465,7 +418465,7 @@
         "company_name": "Cambium Learning Group",
         "id": "0beab28a-2612-4e08-a80f-7bcf223c407d",
         "title": "Data Analyst Intern - Software Operations and Delivery",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -418958,7 +418958,7 @@
         "company_name": "Western Digital",
         "id": "34f423a3-cf91-486d-b772-1ae4bec4cf61",
         "title": "Intern - HDD Testing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -421261,7 +421261,7 @@
         "company_name": "Leidos",
         "id": "9455d0d5-4ce7-4b79-8000-d09d06943854",
         "title": "Computer Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -421584,7 +421584,7 @@
         "company_name": "RTX",
         "id": "b4781566-0146-472d-81d9-51c4f0f4951d",
         "title": "Intern \u2013 Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -425855,6 +425855,126 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cadence Design Systems",
+        "id": "76d85995-f500-4b09-a089-aab6f3a87c21",
+        "title": "AI Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773491182,
+        "date_posted": 1773491182,
+        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/AI-Intern--Summer-2026-_R52508-1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Genmab",
+        "id": "d2f16766-3ede-431a-af35-4ac713b498ac",
+        "title": "AI Lab Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773489843,
+        "date_posted": 1773489843,
+        "url": "https://genmab.wd3.myworkdayjobs.com/Genmab_Careers_Site/job/Princeton/AI-Lab-Intern_R15851-1",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Genmab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": " CCC Intelligent Solutions",
+        "id": "44f0ca6f-767c-42bc-9203-fcde998d92b5",
+        "title": "Machine Learning Annotation and Gen AI Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773489826,
+        "date_posted": 1773489826,
+        "url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Machine-Learning---Annotation-and-Gen-AI-Analyst-Intern_0014537",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/CCC-Intelligent-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DotDash Meredith",
+        "id": "3c86989c-765a-4a9a-8376-eb58809091a4",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773492864,
+        "date_posted": 1773492864,
+        "url": "https://meredith.wd5.myworkdayjobs.com/en-US/EXT/job/Alberta-CAN-Remote/Software-Engineering-Intern_JR15315-1",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/DotDash-Meredith",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Marvell",
+        "id": "ca2b29d2-7ab7-4c38-9c8f-84fdf23bec74",
+        "title": "Product Marketing Intern - Bachelor's Degree",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1773491568,
+        "date_posted": 1773491568,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Product-Marketing-Intern---Bachelor-s-Degree_2502760-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
