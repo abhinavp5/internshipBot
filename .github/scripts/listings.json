@@ -173686,7 +173686,7 @@
         "company_name": "Red Hat",
         "id": "03b591fb-1144-4513-8105-af1ce8d252f7",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -332678,7 +332678,7 @@
         "company_name": "BP",
         "id": "f6fc5b8d-73a3-45d2-b1ef-acb113ac95ef",
         "title": "Early Talent Program - Supply - Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -332701,7 +332701,7 @@
         "company_name": "BP",
         "id": "7f448d15-e5b9-4936-93a2-e8eae31eb14c",
         "title": "Early Talent Program - Supply - Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -352208,7 +352208,7 @@
         "company_name": "BP",
         "id": "3cd2fea2-beb1-4ed4-89af-0ba53bdbeeb6",
         "title": "Early Talent Program - Supply - Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -352277,7 +352277,7 @@
         "company_name": "BP",
         "id": "05643bb2-6a10-4fc8-8d18-ccffdbecbddd",
         "title": "Early Talent Program - Supply - Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -362298,7 +362298,7 @@
         "company_name": "PA Consulting",
         "id": "867a10c2-b56f-4ac7-8fe6-80c2b0b698a4",
         "title": "Intern - Digital - Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -366520,7 +366520,7 @@
         "company_name": "Veolia",
         "id": "ed443bfb-1d75-4531-af23-56a59284658c",
         "title": "GIS Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -372492,7 +372492,7 @@
         "company_name": "Fiserv",
         "id": "842bcbc8-7ab7-466c-a475-f7bbbbfe7c86",
         "title": "Application Development - Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
