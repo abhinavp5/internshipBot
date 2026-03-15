@@ -1,66 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "AvicenaTech",
-        "id": "2a570640-8dd0-4185-adae-8783604d5e6e",
-        "title": "Software Systems Hardware Integration Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752878950,
-        "date_posted": 1752878950,
-        "url": "https://ats.rippling.com/general/jobs/81a2a70c-304b-4047-80e0-054502dbc175",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AvicenaTech",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Intel",
-        "id": "aa0431ef-9cd7-4300-b708-a7b79ab5f7ca",
-        "title": "Firmware Development Engineer Co-op",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752878787,
-        "date_posted": 1752878787,
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Firmware-Development-Engineer-Co-op_JR0275614",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "QuantCo",
-        "id": "6ae9f4e5-6bce-420b-b285-17a33a0d6355",
-        "title": "Data Science Intern",
-        "active": true,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1752879172,
-        "date_posted": 1752879172,
-        "url": "https://jobs.lever.co/quantco-/09da5ced-a2fc-4cf1-9013-c177bb673e02/apply",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/QuantCo",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Uber",
         "id": "0fe15623-df2c-411d-9bba-5c60ad639fd3",
@@ -403763,31 +403703,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Citadel Securities",
-        "id": "1351d97b-ce83-4efb-9f80-d78871c99cd9",
-        "title": "Quantitative Research Analyst Intern - BS/MS - US",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764159977,
-        "date_posted": 1752878989,
-        "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/",
-        "locations": [
-            "Miami, FL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Citadel-Securities",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
