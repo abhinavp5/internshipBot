@@ -1,66 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Uber",
-        "id": "0fe15623-df2c-411d-9bba-5c60ad639fd3",
-        "title": "2026 Software Engineering Internship - Uber Career Prep",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752881301,
-        "date_posted": 1752881301,
-        "url": "https://university-uber.icims.com/jobs/146380/job",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Uber",
-        "id": "e8d959a9-515d-4530-973a-d59cb8825dc1",
-        "title": "2026 Software Engineering Uberstar Internship - Uber Career Prep",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752881249,
-        "date_posted": 1752881249,
-        "url": "https://university-uber.icims.com/jobs/146377/job",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "McKesson",
-        "id": "bcb6cd89-72ce-4d52-bfa0-348839aed02a",
-        "title": "Software & Database Development Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752880951,
-        "date_posted": 1752880951,
-        "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Software---Database-Development-Intern---Fall-2025_JR0133433-1",
-        "locations": [
-            "Mississauga, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/McKesson",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Ciena",
         "id": "0fa1d1ef-d849-4324-9f49-a98e4ae73fa3",
@@ -425845,6 +425785,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "QuantCo",
+        "id": "6ae9f4e5-6bce-420b-b285-17a33a0d6355",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755042859,
+        "date_posted": 1753705142,
+        "url": "https://jobs.lever.co/quantco-/09da5ced-a2fc-4cf1-9013-c177bb673e02/apply",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/QuantCo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "PhD"
         ]
     }
 ]
