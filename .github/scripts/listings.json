@@ -425946,5 +425946,189 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1773648845,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/alarmcom/jobs/8440261002",
+        "company_name": "Alarm.com",
+        "title": "Cloud Operations Intern-DevOps",
+        "locations": [
+            "Tysons, VA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "2a0ef0bd-d5f4-4d9d-ae19-0f87adc19456",
+        "date_posted": 1773648845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773649512,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://apply.workable.com/onlogic-inc/j/8291FD6903/",
+        "company_name": "OnLogic",
+        "title": "Firmware Engineering Internship",
+        "locations": [
+            "South Burlington, VT"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "ecbf8fd7-a7d3-4c9f-b7f5-f9275bfeb416",
+        "date_posted": 1773649512,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773649585,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://apply.workable.com/onlogic-inc/j/3216896A90/",
+        "company_name": "OnLogic",
+        "title": "Firmware Engineering Co-Op",
+        "locations": [
+            "Cary, NC"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "524e6764-5721-4101-abeb-d498dd00d263",
+        "date_posted": 1773649585,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773650238,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-biorad.icims.com/jobs/38272/software-product-owner%2c-intern/job",
+        "company_name": "Bio-Rad Laboratories",
+        "title": "Software Product Owner Intern",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "a57e749f-8708-4ea3-b9f5-059ce30d6ab2",
+        "date_posted": 1773650238,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773650451,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://external-canoncareers.icims.com/jobs/34091/software-imaging-intern/job",
+        "company_name": "Canon",
+        "title": "Software Imaging Intern",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "02f84670-7d0a-4b16-93d4-0e41567e3380",
+        "date_posted": 1773650451,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773650682,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-here.icims.com/jobs/80793/software-engineer-intern/job",
+        "company_name": "HERE",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "4f6ed601-2193-4db1-b80a-08e4bb976b0e",
+        "date_posted": 1773650682,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773650737,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-here.icims.com/jobs/80772/software-engineer-intern/job",
+        "company_name": "HERE",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "52aeff3b-b794-48e0-9d17-17166dfc83a3",
+        "date_posted": 1773650737,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773651095,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://bcbsri.wd1.myworkdayjobs.com/en-US/bcbsricareers/job/US-RI-500-Exchange/Data--Analytics-and-AI-Intern---Summer-2026_JR100230",
+        "company_name": "Blue Cross Blue Shield of Rhode Island",
+        "title": "Data, Analytics and AI Intern",
+        "locations": [
+            "Providence, RI"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "284f9897-8ee7-4958-894d-c88d1a2c08d6",
+        "date_posted": 1773651095,
+        "company_url": "",
+        "is_visible": true
     }
 ]
