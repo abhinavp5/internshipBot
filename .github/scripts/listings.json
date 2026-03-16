@@ -426130,5 +426130,52 @@
         "date_posted": 1773651095,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1773651526,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-powerschool.icims.com/jobs/52599/intern%2c-ai-engineering/job",
+        "company_name": "PowerSchool",
+        "title": "Intern, AI Engineering",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "eef4e259-70bc-4609-b900-9125829a6a1c",
+        "date_posted": 1773651526,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sprinklr",
+        "id": "f115de81-5d6d-4c17-a247-433963cb5381",
+        "title": "AI & Automation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773654596,
+        "date_posted": 1773654596,
+        "url": "https://sprinklr.wd1.myworkdayjobs.com/careers/job/United-States---Texas---Austin/AI---Automation-Intern_112798-JOB-1",
+        "locations": [
+            "Austin, TX",
+            "Texas"
+        ],
+        "company_url": "https://simplify.jobs/c/Sprinklr",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
