@@ -372318,7 +372318,7 @@
         "company_name": "Atlantic Health System",
         "id": "ed8edba4-f1fc-4a7d-b930-cd8a49ee59f0",
         "title": "Physician Enterprise Operations and Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -426502,7 +426502,7 @@
         "company_name": "STCU",
         "id": "c7a5c5e3-7350-4571-98af-b293f8fcae83",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -427233,6 +427233,404 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Vernova",
+        "id": "abada4a1-1d55-4e09-b9e1-67b3acc676ba",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773699671,
+        "date_posted": 1773699671,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Peterborough-CAN/GE-Vernova-Engineering-Intern---Summer-2026_R5035476-2",
+        "locations": [
+            "Peterborough, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CAE",
+        "id": "a90aab45-3129-47f3-8c63-1a2e965b912a",
+        "title": "Integration Specialist Defense & Security",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773699713,
+        "date_posted": 1773699713,
+        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-470---Integration-Specialist-Defense---Security_120674",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CAE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Trane Technologies",
+        "id": "a06b88f1-7eb4-4694-956f-84f45c6c3d8b",
+        "title": "Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773699792,
+        "date_posted": 1773699792,
+        "url": "https://careers.tranetechnologies.com/global/en/job/2601996",
+        "locations": [
+            "Winona, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Trane-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Point72",
+        "id": "832aa476-ae91-49b2-ad86-266c36d0bb38",
+        "title": "Technology Intern - UI/UX Engineer - Full Stack",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773699829,
+        "date_posted": 1773699829,
+        "url": "https://boards.greenhouse.io/point72/jobs/8465224002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Point72",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "John Deere",
+        "id": "57b52d35-13af-4fbf-906c-507a3960cd07",
+        "title": "Part Time Student - Process Automation - Data Analytics",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773699830,
+        "date_posted": 1773699830,
+        "url": "https://johndeere.eightfold.ai/careers/job/137479706281",
+        "locations": [
+            "Midway, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/John-Deere",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "4d019e2b-32f3-49ba-9a56-bea3cbb0be2c",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773699057,
+        "date_posted": 1773699057,
+        "url": "https://careers-gdms.icims.com/jobs/71307/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "McKeesport, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Allstate Insurance Company",
+        "id": "d4419ac6-1d72-4e13-9251-023583b00982",
+        "title": "Digital Product Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773699455,
+        "date_posted": 1773699455,
+        "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/Digital-Product-Apprentice_R27629",
+        "locations": [
+            "Illinois"
+        ],
+        "company_url": "https://simplify.jobs/c/Allstate-Insurance-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Judi Health",
+        "id": "b7c2c973-2aaf-478d-ba90-893dce3a884a",
+        "title": "Product Manager Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773699385,
+        "date_posted": 1773699385,
+        "url": "https://job-boards.greenhouse.io/capitalrx/jobs/5155173008",
+        "locations": [
+            "NYC",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Judi-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Coherent ",
+        "id": "a4410138-6304-4743-a0f7-3c55f62d4ecc",
+        "title": "Intern \u2013 Failure Analysis",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773699045,
+        "date_posted": 1773699045,
+        "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011293",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Coherent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Elevance Health",
+        "id": "994e4bd0-0987-4126-a2fa-f0a9e8aba812",
+        "title": "Business Intelligence - Business Intelligence - Analytics Resource Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773699297,
+        "date_posted": 1773699297,
+        "url": "https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/NY-NEW-YORK-ONE-PENN-PLAZA-35TH-AND-36TH-FL/Business-Intelligence--BI----Analytics-Resource-Intern--Summer-2026_JR185231",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Elevance-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MetOx International",
+        "id": "6bbe8e6b-3fa4-4254-a331-c28b294ed430",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773699522,
+        "date_posted": 1773699522,
+        "url": "https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5155154008",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/MetOx-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dark Wolf Solutions",
+        "id": "699a186d-7af0-4eb6-a171-4ae5e8f06269",
+        "title": "Dark Wolf Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773699531,
+        "date_posted": 1773699531,
+        "url": "https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7666354003",
+        "locations": [
+            "Tampa, FL",
+            "Colorado Springs, CO",
+            "Omaha, NE",
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dark-Wolf-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Horizon Industries",
+        "id": "3ee8ce54-a29b-4b55-b4ff-b1df18340fa8",
+        "title": "Appian Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773699309,
+        "date_posted": 1773699309,
+        "url": "https://job-boards.greenhouse.io/horizonindustrieslimited/jobs/5154890008",
+        "locations": [
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Horizon-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Atlassian",
+        "id": "32f74b71-7e35-47e5-bdc2-08e990e457c6",
+        "title": "MBA Product Marketing Intern - Platform",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773699028,
+        "date_posted": 1773699028,
+        "url": "https://careers-americas.icims.com/jobs/21017/mba-product-marketing-intern---platform%2c-2026-summer-u.s/job",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Atlassian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Coherent ",
+        "id": "6fd62f4f-47d3-4d21-87f3-486935481539",
+        "title": "Intern Thermal Testing Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773698999,
+        "date_posted": 1773698999,
+        "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011107",
+        "locations": [
+            "Tarentum, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Coherent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kinaxis",
+        "id": "8ae6c30f-1574-4e8f-9a3d-de01a28cce39",
+        "title": "Intern Engineer - Data and Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773698677,
+        "date_posted": 1773698677,
+        "url": "https://careers-kinaxis.icims.com/jobs/34446/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cook Group",
+        "id": "283686c1-9782-430b-aa17-991837ca4de5",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773698770,
+        "date_posted": 1773698770,
+        "url": "https://americas-cookmedical.icims.com/jobs/18178/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "West Lafayette, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cook-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
