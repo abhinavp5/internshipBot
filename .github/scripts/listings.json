@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Ciena",
-        "id": "0fa1d1ef-d849-4324-9f49-a98e4ae73fa3",
-        "title": "Embedded Software Engineer \u2013 Co-op",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1752891655,
-        "date_posted": 1752891655,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Co-op--Fall-2025---4-16-Months-_R028459",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Tenstorrent",
         "id": "6c1a5b1e-2711-4d53-b7f3-aa2637b02694",
         "title": "Physical Design Intern - CPU/AI Hardware",
@@ -701,27 +681,6 @@
             "Remote in Canada"
         ],
         "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RTX",
-        "id": "245c8ebf-1af2-42e6-93b0-07e3797dde29",
-        "title": "Stage \u2013 Transformation num\u00e9rique des op\u00e9rations / Internship - Digital Transformation of Operations",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1753266688,
-        "date_posted": 1752891299,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/LOC13052-1000-Boul-Marie-VictorinLongueuilQuebecJ4G-1A1Canada/Internship-Fall_01780876",
-        "locations": [
-            "Longueuil, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other"
     },
