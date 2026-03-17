@@ -291572,7 +291572,7 @@
         "company_name": "Avis Budget Group",
         "id": "95546583-c57a-4303-a47b-ed41e3bc1f69",
         "title": "Accelerate - Business Insights Analyst - Post Graduation Opportunity",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -291779,7 +291779,7 @@
         "company_name": "Avis Budget Group",
         "id": "d5d7b662-9d2d-4c7b-8158-ade634cbe221",
         "title": "Accelerate Postgraduate Opportunity - Deployed Transformation Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -429167,5 +429167,71 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Federal Reserve System",
+        "id": "8a24e794-67c1-4356-be83-ef7cbfbecd13",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773757604,
+        "date_posted": 1773757604,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Boston-MA/Summer-2026-Intern--Software-Engineering_R-0000031107-1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/6a7a42d3-327f-4b48-a7a7-c68f405e3396",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tencent",
+        "id": "63ad1626-19be-4952-a7a8-933fde061a19",
+        "title": "Engine Developer Intern - Gaming",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773757565,
+        "date_posted": 1773757565,
+        "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/Engine-Developer-Intern--Gaming_R107109",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Curtiss-Wright Corporation",
+        "id": "260e5443-75bb-49ee-9e21-9b742d5aa3d5",
+        "title": "Engineering Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773757750,
+        "date_posted": 1773757750,
+        "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-OH-Cincinnati-Nuclear/Engineering-Co-Op-Intern_JR11440",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Curtiss-Wright",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
