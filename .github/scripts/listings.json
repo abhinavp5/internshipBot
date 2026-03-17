@@ -429277,5 +429277,52 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Safran",
+        "id": "78e5d8d3-fe08-41f5-af19-07eb75c84d5c",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773757064,
+        "date_posted": 1773757064,
+        "url": "https://safransed.bamboohr.com/careers/1058/",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Safran",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Chanel",
+        "id": "c8068680-03b4-4e72-9028-413fcd7ea793",
+        "title": "ESG Solutions & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773758496,
+        "date_posted": 1773758496,
+        "url": "https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/London/ESG-Solutions---Analytics-Intern_JOBREQ00110970",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Chanel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
