@@ -415511,9 +415511,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773229106,
+        "date_updated": 1773746134,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -419187,9 +419187,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773321814,
+        "date_updated": 1773746134,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -419334,9 +419334,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773322995,
+        "date_updated": 1773746134,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -425788,9 +425788,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773650682,
+        "date_updated": 1773746134,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -425811,9 +425811,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773650737,
+        "date_updated": 1773746134,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -428796,5 +428796,98 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1773746818,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/wasabi/jobs/5151302008",
+        "company_name": "Wasabi",
+        "title": "Cloud Tech Support Engineer - Co-op",
+        "locations": [
+            "Boston, MA"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "c28bd169-1c2c-4890-af0b-2833cf36aa2a",
+        "date_posted": 1773746818,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773746867,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.lever.co/redwoodcu/ce0e574c-846e-44c6-8b81-cde55886d8c5",
+        "company_name": "Redwood Credit Union",
+        "title": "AI Development Intern",
+        "locations": [
+            "Napa, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "67fdae08-a082-4146-a149-d0935d914083",
+        "date_posted": 1773746867,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773747174,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://k1im.applytojob.com/apply/ISSTIdON0L/AI-Automation-Intern",
+        "company_name": "K1",
+        "title": "AI Automation Intern",
+        "locations": [
+            "Manhattan Beach, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "871ea091-c41d-4cff-88d4-49f6877d63e5",
+        "date_posted": 1773747174,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773747260,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-biorad.icims.com/jobs/38263/data-scientist-intern/job",
+        "company_name": "Bio-Rad Laboratories",
+        "title": "Data Scientist Intern",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "cb32d7cc-73a8-4a56-9693-c95123c26497",
+        "date_posted": 1773747260,
+        "company_url": "",
+        "is_visible": true
     }
 ]
