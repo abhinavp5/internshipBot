@@ -200980,7 +200980,7 @@
         "company_name": "SharkNinja",
         "id": "873737ac-ab86-4a67-9ab0-2d3683380fe8",
         "title": "Summer 2026: Product Test Engineering Intern - Shark - May to August",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -429342,6 +429342,480 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Meta",
+        "id": "f8d37956-48c3-49bf-bc07-ece917d6ae7c",
+        "title": "Research Scientist Intern - PyTorch Compiler",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1773786063,
+        "date_posted": 1773786063,
+        "url": "https://www.metacareers.com/jobs/871535115847099",
+        "locations": [
+            "Seattle, WA",
+            "Menlo Park, CA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Digs",
+        "id": "73718d85-aef5-4c34-bc15-308abcd9c893",
+        "title": "Software Engineering Intern-AI/ML Backend",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1773785738,
+        "date_posted": 1773785738,
+        "url": "https://job-boards.greenhouse.io/digs/jobs/4663936006",
+        "locations": [
+            "Vancouver, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Digs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Coherent ",
+        "id": "4a8ff5a1-9253-4d4e-9947-6c421a6d867f",
+        "title": "Firmware Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773785843,
+        "date_posted": 1773785843,
+        "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011322",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Coherent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Walter P Moore",
+        "id": "31afeca5-aed1-41e2-8a74-fc90d0460fd2",
+        "title": "Software Developer Intern - Structural",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773785387,
+        "date_posted": 1773785387,
+        "url": "https://careers-walterpmoore.icims.com/jobs/4046/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Las Vegas, NV",
+            "Orlando, FL",
+            "Houston, TX",
+            "El Paso, TX",
+            "Austin, TX",
+            "Miami, FL",
+            "Dallas, TX",
+            "Charlotte, NC",
+            "Kansas City, MO",
+            "Oklahoma City, OK",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Walter-P-Moore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Defense Unicorns",
+        "id": "0f30040b-ae0e-4dc2-94b6-7dfc98f00d9c",
+        "title": "Skillbridge Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773785472,
+        "date_posted": 1773785472,
+        "url": "https://job-boards.greenhouse.io/defenseunicorns/jobs/4590940007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Defense-Unicorns",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Coherent ",
+        "id": "05ff88c6-9c7e-4a01-ab5f-1d5a4b1e5070",
+        "title": "Intern Reliability Data Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773785740,
+        "date_posted": 1773785740,
+        "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011133",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Coherent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Coherent ",
+        "id": "ebbac210-9c99-4b5f-aef0-f3940be5d680",
+        "title": "Intern Technology Integration & Customer Solutions - AI Enabled Insights",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773785426,
+        "date_posted": 1773785426,
+        "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011308",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Coherent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Digs",
+        "id": "db15e666-bc38-44f5-b3b1-191a0b33fb9a",
+        "title": "Software Engineering Intern-Full Stack / Product",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1773785752,
+        "date_posted": 1773785752,
+        "url": "https://job-boards.greenhouse.io/digs/jobs/4663926006",
+        "locations": [
+            "Vancouver, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Digs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Glydways",
+        "id": "bc0b0cb0-5dd2-40b3-974b-5e864b0bd83d",
+        "title": "Perception Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773785498,
+        "date_posted": 1773785498,
+        "url": "https://job-boards.greenhouse.io/glydways/jobs/5082217007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Glydways",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Riverside Research",
+        "id": "8b0b1314-7b29-44cd-a3a9-54a53fc508d6",
+        "title": "AI/ML Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773785157,
+        "date_posted": 1773785157,
+        "url": "https://careers-riversideresearch.icims.com/jobs/4156/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Riverside-Research",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vantage ",
+        "id": "8229e9fa-5abd-4df5-bda6-796c7eb34a15",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773785648,
+        "date_posted": 1773785648,
+        "url": "https://jobs.ashbyhq.com/vantage/19c9753f-25be-4e76-af53-04717bdcc25b/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Vantage",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fortinet",
+        "id": "81c102c7-236a-49a3-b3ac-c8c71323abef",
+        "title": "Software Development - GenAI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773785586,
+        "date_posted": 1773785586,
+        "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22401",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fortinet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "W.R. Berkley",
+        "id": "55ce5d94-9f4d-4ea4-a7bc-b0da872bbdcc",
+        "title": "IT Data Warehouse Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773785330,
+        "date_posted": 1773785330,
+        "url": "https://careers-berkley.icims.com/jobs/13628/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Stamford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/WR-Berkley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "id": "34983274-a4a2-4f91-bcd3-293b0a2db0c4",
+        "title": "Graduate Intern - Nsed",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773785798,
+        "date_posted": 1773785798,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990012181603",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LLNL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Terran Orbital",
+        "id": "bfb434c9-6e7e-4d59-b1a8-4a97b918d754",
+        "title": "Systems Integration & Test Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773785289,
+        "date_posted": 1773785289,
+        "url": "https://job-boards.greenhouse.io/terranorbitalcorporation/jobs/4182856009",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Terran-Orbital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Riverside Research",
+        "id": "8a805026-9687-4248-9fe2-941cd2666034",
+        "title": "AI/ML Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773785110,
+        "date_posted": 1773785110,
+        "url": "https://careers-riversideresearch.icims.com/jobs/4155/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Riverside-Research",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "73a41d72-deb0-4d29-8fa2-103ad580b43b",
+        "title": "Linux Automation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773785220,
+        "date_posted": 1773785220,
+        "url": "https://careers-gdms.icims.com/jobs/71534/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "onsemi",
+        "id": "6c25518f-db37-4e1c-9e49-510d2a29bd4a",
+        "title": "Applications Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773785227,
+        "date_posted": 1773785227,
+        "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505017",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Onsemi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Coherent ",
+        "id": "616ea07f-70b6-41fc-ae7b-2167580dc3b9",
+        "title": "Intern \u2013 Commercial and Operational Data Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773785417,
+        "date_posted": 1773785417,
+        "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011312",
+        "locations": [
+            "Tarentum, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Coherent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "onsemi",
+        "id": "1d51a292-73ff-4b2d-b8f8-18fb4513d655",
+        "title": "Reticle Data Prep Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773785227,
+        "date_posted": 1773785227,
+        "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2504937",
+        "locations": [
+            "Allen, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Onsemi",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
