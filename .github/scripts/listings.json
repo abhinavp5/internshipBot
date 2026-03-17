@@ -264816,7 +264816,7 @@
         "company_name": "Electronic Arts",
         "id": "80c32176-e521-485e-ac93-eebfd7693156",
         "title": "Operations Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -428659,5 +428659,30 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Synchrony Financial",
+        "id": "544a3e80-5bad-4e1d-957b-0235f0ff23a7",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773730927,
+        "date_posted": 1773730927,
+        "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Canton-Remote-OH/Software-Engineer-Intern_2401218",
+        "locations": [
+            "Canton, OH",
+            "Ohio",
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Synchrony-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
