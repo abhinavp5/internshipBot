@@ -9453,7 +9453,7 @@
         "company_name": "Anduril",
         "id": "aed30efe-b239-427b-a4d7-c01c27ba05c2",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -303560,7 +303560,7 @@
         "company_name": "Shoppers Drug Mart",
         "id": "b9bd8e8f-a2bf-440f-b6db-606bfb94b4cf",
         "title": "Quo Beauty Product Development Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -428382,5 +428382,51 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CAE",
+        "id": "60de7b30-5b35-4972-b279-b97da8f0ae95",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773703163,
+        "date_posted": 1773703163,
+        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GSS-155-Internship---Data---AI-for-Operational-Excellence-and-Sustainable-Procurement_120925",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CAE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Solidigm",
+        "id": "14180b24-c00c-4dd5-b678-7efdb6f83e53",
+        "title": "Talent Acquisition Data Engineering & Analytics Graduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773710235,
+        "date_posted": 1773710235,
+        "url": "https://jobs.smartrecruiters.com/Solidigm/744000115004195",
+        "locations": [
+            "Rancho Cordova, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Solidigm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
