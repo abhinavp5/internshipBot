@@ -205781,7 +205781,7 @@
         "company_name": "ASML",
         "id": "d300b234-1e85-4a3c-a621-d5da602107b2",
         "title": "Intern - Software Development Engineer Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -281734,7 +281734,7 @@
         "company_name": "Leidos",
         "id": "ea990f29-703f-4ce9-81de-f3299f3095c7",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -425811,9 +425811,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773651095,
+        "date_updated": 1773816428,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -431278,5 +431278,73 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "c76731fb-7fe6-4695-af55-0427643c0aa1",
+        "title": "Intern Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773796121,
+        "date_posted": 1773796121,
+        "url": "https://careers-gdms.icims.com/jobs/71195/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsfield, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "1df5bd1f-b6c0-4049-ba82-31df763072e3",
+        "title": "Data Operations Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773790611,
+        "date_posted": 1773790611,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Data-Operations-Engineer-Intern_R-00178446",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Affirm",
+        "id": "abe76b80-44e8-4ffa-b735-14350daae26a",
+        "title": "Software Engineering Apprentice - Backend",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773785528,
+        "date_posted": 1773785528,
+        "url": "https://job-boards.greenhouse.io/affirm/jobs/7647925003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Affirm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
