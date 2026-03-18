@@ -107,52 +107,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Wells Fargo",
-        "id": "556191e3-8d71-4017-b725-d0fa4bc80939",
-        "title": "2025 Emerging Talent Apprentice - Lgcc",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1753113460,
-        "date_posted": 1753113460,
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/NEW-YORK-NY/XMLNAME-2025-Emerging-Talent-Apprentice---LGCC_R-475686-1",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Wells-Fargo",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Wells Fargo",
-        "id": "ffe51158-461e-4569-ba8e-006aa3653f36",
-        "title": "Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1753367926,
-        "date_posted": 1753113466,
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2026-Technology-Summer-Internship---Early-Careers--Software-Engineer-_R-474982",
-        "locations": [
-            "Charlotte, NC",
-            "Phoenix, AZ",
-            "Chandler, AZ",
-            "Iselin, NJ",
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Wells-Fargo",
-        "is_visible": true,
-        "sponsorship": "Does Not Offer Sponsorship"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Nikkiso",
         "id": "3562bd11-e289-44da-89b3-1cef60cf0737",
@@ -20222,29 +20176,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Tencent",
-        "id": "1f710765-b631-4f69-a207-c49f0a946370",
-        "title": "NLP/LLM Research Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753112573,
-        "date_posted": 1753112573,
-        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/UK-London/NLP-LLM-Research-Intern_R105818-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Tencent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
             "PhD"
         ]
     },
@@ -431992,5 +431923,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "EverCommerce",
+        "id": "0039d39e-329f-4993-8270-56e38e85b4c7",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773844488,
+        "date_posted": 1773844488,
+        "url": "https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote--US/EverHealth---Software-Engineer-Internship--Remote--US-_R-106034",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/a1a5e91c-79e8-44ef-a474-3b5b939c9c5c",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
