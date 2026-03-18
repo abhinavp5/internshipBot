@@ -84,69 +84,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Walleye Capital",
-        "id": "24bd5cf5-6584-47ec-b744-6656776fb7c6",
-        "title": "Central Risk Book \u2013 Quant Research Intern - Crb",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756119298,
-        "date_posted": 1753118206,
-        "url": "https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4565272006",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Walleye-Capital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nikkiso",
-        "id": "3562bd11-e289-44da-89b3-1cef60cf0737",
-        "title": "Data Analytics Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753118323,
-        "date_posted": 1753118323,
-        "url": "https://careers-nikkiso.icims.com/jobs/3493/job",
-        "locations": [
-            "Cypress, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Nikkiso",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Walleye Capital",
-        "id": "46895a50-4c9a-41cc-aa44-fe8c9aa4abe4",
-        "title": "Investment Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1753118207,
-        "date_posted": 1753118207,
-        "url": "https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4565271006",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Walleye-Capital",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "The Trade Desk",
         "id": "04aad1de-def9-41e3-9baa-8215982fe10d",
@@ -431946,5 +431883,68 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "6c17c321-0cf1-42f7-b8f5-1020d208f509",
+        "title": "Wealth Management Data Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773845716,
+        "date_posted": 1773845716,
+        "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/Norwell-Massachusetts-United-States-of-America/XMLNAME-2026-Wealth-Management-Summer-Data-Analyst--4-Months-_R-0000163505-3",
+        "locations": [
+            "Norwell, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Red Cross",
+        "id": "cb01215c-ea5c-4ba7-917f-6d8007f2015c",
+        "title": "Business Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773845792,
+        "date_posted": 1773845792,
+        "url": "https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Statewide-NJ/Business-Analytics-Intern_RC87023",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Red-Cross",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Commonwealth of Massachusetts",
+        "id": "32afce58-b16f-46a5-b9a7-ada052037faf",
+        "title": "Intern - Quality Assurance",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773843568,
+        "date_posted": 1773843568,
+        "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=2600023O",
+        "locations": [
+            "Massachusetts"
+        ],
+        "company_url": "https://simplify.jobs/c/Commonwealth-Of-Massachusetts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
