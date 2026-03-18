@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Warner Bros.",
-        "id": "8aa72ad4-7fe4-4f89-a01d-0e871730dc42",
-        "title": "Research & Analytics Internships - Fall 2025",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753122178,
-        "date_posted": 1753122178,
-        "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Research---Analytics-Internships--NYC---Fall-2025_R000096209",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Warner-Bros",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Five Rings Capital",
         "id": "1c9ad46a-3060-4def-9979-2154b31b7e19",
@@ -429772,7 +429752,7 @@
         "company_name": "Avnet",
         "id": "16a8649b-ca36-489c-ab3f-e46fa2dd7e2c",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -430782,7 +430762,7 @@
         "company_name": "Zscaler",
         "id": "5ecfc8fd-1a27-4a25-a19b-e41143f1c3fe",
         "title": "AI/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
