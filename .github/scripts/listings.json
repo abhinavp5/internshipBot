@@ -20150,7 +20150,7 @@
         "company_name": "Royal Caribbean Group",
         "id": "cba6a57f-9fc1-43b2-a7c5-057fc2153124",
         "title": "2026 Summer Internship - Global Enterprise Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -430855,7 +430855,7 @@
         "company_name": "Nokia",
         "id": "5fd5231a-bc45-42c3-82bc-46e23f793e12",
         "title": "Optical Test Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -431891,7 +431891,7 @@
         "company_name": "American Red Cross",
         "id": "cb01215c-ea5c-4ba7-917f-6d8007f2015c",
         "title": "Business Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -431926,5 +431926,193 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Emerson Electric",
+        "id": "a2feefc3-dacf-46f0-bea6-b463a707733c",
+        "title": "AI Enablement Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773872369,
+        "date_posted": 1773872369,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26003350",
+        "locations": [
+            "Iowa"
+        ],
+        "company_url": "https://simplify.jobs/c/Emerson-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cooper Companies",
+        "id": "bb7d93c3-d976-472d-85f1-c975b48a34e9",
+        "title": "Pricing Analytics \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773872007,
+        "date_posted": 1773872007,
+        "url": "https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10546",
+        "locations": [
+            "Canandaigua, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Cooper-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Eurofins",
+        "id": "65ec48cd-ee26-43ef-8a1d-187d44f2eae4",
+        "title": "OTA Technician",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773871924,
+        "date_posted": 1773871924,
+        "url": "https://jobs.smartrecruiters.com/Eurofins/744000115499977",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Eurofins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uber",
+        "id": "02380ddc-7f4b-4263-9bc9-100774d992da",
+        "title": "PhD Scientist Intern - Driver Pricing",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773871779,
+        "date_posted": 1773871779,
+        "url": "https://university-uber.icims.com/jobs/157321/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "SF",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Keysight Technologies",
+        "id": "c3fd9211-7e4d-4377-86ec-3224379ae685",
+        "title": "Application Engineering Intern - EV Charging & Grid-Edge Technologies",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773871579,
+        "date_posted": 1773871579,
+        "url": "https://jobs.keysight.com/jobs/51756?lang=en-us&icims=1",
+        "locations": [
+            "Neukirchen-Vluyn, Germany",
+            "Stuttgart, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Gannet Fleming",
+        "id": "beb11f4d-69dc-4a53-a2be-71ce4e6cc3d9",
+        "title": "Intern Geographic Information Systems",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773871409,
+        "date_posted": 1773871409,
+        "url": "https://careers-gannettfleming.icims.com/jobs/13738/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Towson, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Gannet-Fleming",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "78cd5649-d105-48eb-93dc-7e5c29fdd6d6",
+        "title": "Software Engineer: Intern Opportunities for University Students",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773871531,
+        "date_posted": 1773871531,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556834019",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Eversource Energy",
+        "id": "cf2451f5-3325-4c03-beb9-f8bd7d9fd540",
+        "title": "Engineering Intern: Asset Management",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773871333,
+        "date_posted": 1773871333,
+        "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/XMLNAME-2026-Engineering-Intern--Asset-Management_R-029967",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Eversource-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
