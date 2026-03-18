@@ -429009,7 +429009,7 @@
         "company_name": "Duke Energy",
         "id": "068fd898-ad71-4f60-8ea6-239a8e3d012f",
         "title": "Energy Efficiency Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -431418,5 +431418,77 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hiscox",
+        "id": "c1f73b40-ec45-477e-a0bc-7bea36c346b2",
+        "title": "Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773826680,
+        "date_posted": 1773826680,
+        "url": "https://hiscox.wd3.myworkdayjobs.com/Hiscox_External_Site/job/London/Technology-Intern_R0018822",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hiscox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hiscox",
+        "id": "468883f5-df5d-4980-a75c-34ed37851088",
+        "title": "Data Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773826671,
+        "date_posted": 1773826671,
+        "url": "https://hiscox.wd3.myworkdayjobs.com/Hiscox_External_Site/job/London/Data-Intern_R0018814-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hiscox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hiscox",
+        "id": "03947d37-8047-4f14-b9f3-3209fb562c99",
+        "title": "Technology Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773826680,
+        "date_posted": 1773826680,
+        "url": "https://hiscox.wd3.myworkdayjobs.com/Hiscox_External_Site/job/London/Technology-Engineering-Intern_R0018823",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hiscox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
