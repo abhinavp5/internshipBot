@@ -238,7 +238,7 @@
         "company_name": "The Trade Desk",
         "id": "04aad1de-def9-41e3-9baa-8215982fe10d",
         "title": "2026 Software Engineering Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -316361,7 +316361,7 @@
         "company_name": "Cummins",
         "id": "81314eac-daa5-4ff8-9904-d44600af3a87",
         "title": "Apprenticeship - Data Engineer Level 5",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -369455,7 +369455,7 @@
         "company_name": "Stellant Systems",
         "id": "46e9f668-52e5-456f-ac5e-b48af1ff04fd",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -392185,7 +392185,7 @@
         "company_name": "Elsevier",
         "id": "ad9d4b14-b25c-4535-a49a-6f8ddeb10ca9",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -394141,7 +394141,7 @@
         "company_name": "Elsevier",
         "id": "14035ec2-fae6-4b02-8903-91da1a6a5c79",
         "title": "Simulation Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -431014,6 +431014,268 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CSL",
+        "id": "b6fae392-7fe9-433f-9ff9-3beb8557c195",
+        "title": "Business Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773789303,
+        "date_posted": 1773789303,
+        "url": "https://csl.wd1.myworkdayjobs.com/CSL_External/job/Americas-US-PA-King-of-Prussia-CSL-Behring/Business-Analytics-Intern_R-274095",
+        "locations": [
+            "King of Prussia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/CSL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Persistent Systems",
+        "id": "8ccb0426-1192-4244-b02f-87736585dbe0",
+        "title": "Intern \u2013 Hardware Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773785075,
+        "date_posted": 1773785075,
+        "url": "https://careers-persistentsystems.icims.com/jobs/2191/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Persistent-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "5fd5231a-bc45-42c3-82bc-46e23f793e12",
+        "title": "Optical Test Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773785638,
+        "date_posted": 1773785638,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/33205",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Becton Dickinson",
+        "id": "fb853d33-d792-41ca-b227-e170f9fae260",
+        "title": "MMS R&D Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773788008,
+        "date_posted": 1773788008,
+        "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---San-Diego-TC-Bldg-CD/MMS-R-D-Engineering-Intern_R-540018",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Public Service Enterprise Group",
+        "id": "0bf428ae-cfce-4133-b8cd-91fd4d39a862",
+        "title": "Technical Intern - Nuclear Innovation Team",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773796068,
+        "date_posted": 1773796068,
+        "url": "https://jobs.pseg.com/job/Hancocks-Bridge-Summer-2026-Technical-Intern-Nuclear-Innovation-Team-NJ-08038/1374123200/?ats=successfactors",
+        "locations": [
+            "New Castle, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/Public-Service-Enterprise-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Judi Health",
+        "id": "c8d488fa-2dd0-4f48-bcad-7fd577af03be",
+        "title": "AI / Machine Learning Intern \u2013 Graduate level",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773785788,
+        "date_posted": 1773785788,
+        "url": "https://job-boards.greenhouse.io/capitalrx/jobs/5153808008",
+        "locations": [
+            "NYC",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Judi-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Zello",
+        "id": "550e6465-4664-4679-b591-972e10880595",
+        "title": "Product Research Specialist",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773785818,
+        "date_posted": 1773785818,
+        "url": "https://jobs.ashbyhq.com/Zello/f14fca0d-0c84-4a99-b78e-bc4e10b2861e/application",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Zello",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SoFi",
+        "id": "3d2f5d3f-cda7-4f98-b864-3f83c0b033d7",
+        "title": "Intern Software Engineer - Asset Movement Gateway",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773786185,
+        "date_posted": 1773786185,
+        "url": "https://www.sofi.com/careers/sofi-university/7595648003?gh_jid=7595648003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/SoFi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dordt University",
+        "id": "bb92bc87-4a8a-489c-b71c-269f42f8171b",
+        "title": "AI & Automation Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773784985,
+        "date_posted": 1773784985,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=103328",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Toronto, ON, Canada",
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Dordt-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Authentic",
+        "id": "9eca7e3d-5f9d-43e2-b529-96963abee3b0",
+        "title": "Digital Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773785279,
+        "date_posted": 1773785279,
+        "url": "https://job-boards.greenhouse.io/authenticbrandsgroup/jobs/5830395004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Authentic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Samsung Research America",
+        "id": "63a193c0-dbb4-4f54-a462-176dcaf91605",
+        "title": "Intern - Agentic AI Solutions - Summer/Fall",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1773785165,
+        "date_posted": 1773785165,
+        "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8464682002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung-Research-America",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
             "PhD"
         ]
     }
