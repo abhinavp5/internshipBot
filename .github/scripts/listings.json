@@ -431490,5 +431490,28 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Centrica",
+        "id": "1815ec3f-37b8-4e78-a16c-824e9570d442",
+        "title": "Commodity Trading Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773823747,
+        "date_posted": 1773757259,
+        "url": "https://centrica.wd3.myworkdayjobs.com/Centrica/job/New-York/Commodity-Trading-Summer-Analyst_R0083120",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Centrica",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
