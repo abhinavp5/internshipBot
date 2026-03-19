@@ -392190,7 +392190,7 @@
         "company_name": "World Kinect",
         "id": "2a45c40b-9962-46da-ad1f-169df0683982",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -433620,5 +433620,51 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "date_updated": 1773907687,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-berkley.icims.com/jobs/13671/software-engineer-intern/job",
+        "company_name": "Intrepid Direct Insurance",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "76ca2a05-37d3-4c44-9e51-e75bd9888f5b",
+        "date_posted": 1773907687,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773907815,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-biorad.icims.com/jobs/38293/software-intern/job",
+        "company_name": "Bio-Rad Laboratories",
+        "title": "Software Intern",
+        "locations": [
+            "Hercules, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "d29bbc04-6f4f-4689-8b60-8bdba6b5cbb8",
+        "date_posted": 1773907815,
+        "company_url": "",
+        "is_visible": true
     }
 ]
