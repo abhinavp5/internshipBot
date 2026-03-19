@@ -1,72 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Wells Fargo",
-        "id": "b33274f6-acab-4bf6-9237-e62c8ad81770",
-        "title": "2026 Analytics and Data Summer Internship - Early Careers",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1753141354,
-        "date_posted": 1753141354,
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2026-Analytics-and-Data-Summer-Internship---Early-Careers_R-475778",
-        "locations": [
-            "Des Moines, IA",
-            "Dallas, TX",
-            "Charlotte, NC",
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Wells-Fargo",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Morgan Stanley",
-        "id": "3c831e96-b42c-4023-99fe-aca3702e3e05",
-        "title": "MSIM-Portfolio Solutions-Quant Generalist-Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754508653,
-        "date_posted": 1753142320,
-        "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/MSIM--Portfolio-Solutions--Quant-Generalist--Intern_JR017183",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Morgan-Stanley",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Trade Desk",
-        "id": "04aad1de-def9-41e3-9baa-8215982fe10d",
-        "title": "2026 Software Engineering Internship",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1753831558,
-        "date_posted": 1753147307,
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4787577007",
-        "locations": [
-            "Irvine, CA",
-            "NYC",
-            "Bellevue, WA",
-            "Denver, CO",
-            "Boulder, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1755567517,
         "url": "https://job-boards.greenhouse.io/rocketlab/jobs/6542613003?gh_src=3ad4b3093us",
         "company_name": "Rocket Lab",
@@ -184622,7 +184555,7 @@
         "company_name": "Epic Games",
         "id": "da913b38-c759-4447-b8cb-b899877b35f4",
         "title": "Tools Programmer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -374932,7 +374865,7 @@
         "company_name": "CACI",
         "id": "63ac1f28-aab3-4d84-91fa-abb1cf77f121",
         "title": "Software Development Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -432695,5 +432628,278 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Micron Technology",
+        "id": "8a407090-101b-47b2-9d4c-cd73f47d592c",
+        "title": "Intern Automotive Product Global Quality",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773876808,
+        "date_posted": 1773876808,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Intern---Automotive-Product-Global-Quality_JR93481",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "City Of Olathe",
+        "id": "c8b9ceb0-fd5a-4bfb-bdab-b08921c9688d",
+        "title": "GIS Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773876655,
+        "date_posted": 1773876655,
+        "url": "https://olatheks.wd1.myworkdayjobs.com/olatheks/job/Renner-Building/GIS-Intern_JR2153-2",
+        "locations": [
+            "Olathe, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/City-Of-Olathe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ibotta",
+        "id": "9133affe-9aa6-4c01-9783-234f08b17075",
+        "title": "AI Fellow \u2013 Executive Enablement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773872917,
+        "date_posted": 1773872917,
+        "url": "https://ibotta.wd1.myworkdayjobs.com/en-US/Ibotta/job/Hybrid---Denver/AI-Fellow--Executive-Enablement_R-102393-1",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/ibotta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vertex Pharmaceuticals",
+        "id": "831a767e-f5db-4d45-93f7-52ab7cb3426e",
+        "title": "Statistical Programming Intern - Statistical Programming - AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773873790,
+        "date_posted": 1773873790,
+        "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Vertex-Summer-Intern-2026--Statistical-Programming---LLM-Agent-Development--TFL-Automation-_REQ-27214-1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertex-Pharmaceuticals",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Avnet",
+        "id": "335b0667-f695-4a79-95d6-6f08eae74df5",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773873477,
+        "date_posted": 1773873477,
+        "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Phoenix-Arizona-United-States-Of-America/Product-Management-Intern_JR-022064",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Avnet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cooper Standard",
+        "id": "2b904d47-aef4-4b31-8a17-a532557f1f89",
+        "title": "AWS AI Research and Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773872343,
+        "date_posted": 1773872343,
+        "url": "https://cooperstandard.wd1.myworkdayjobs.com/CooperStandard/job/Northville-Michigan/AWS-AI-Research-and-Development-Intern_R017994",
+        "locations": [
+            "Novi, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Cooper-Standard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "c0196828-82e8-4f21-8c59-adea4ac5cfed",
+        "title": "Student - Data Analyst - Personal Banking",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773874954,
+        "date_posted": 1773874954,
+        "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Summer-2026-Student---Data-Analyst--Personal-Banking_R-0000153069-2",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Edwards Lifesciences",
+        "id": "ac77e281-eead-4aad-acfc-13116131b285",
+        "title": "Artificial Intelligence Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773876718,
+        "date_posted": 1773876718,
+        "url": "https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA-IRV-1472-AltonDBC6-7/Artificial-Intelligence-Machine-Learning-Co-Op--Summer-Winter-2026_Req-46655",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Edwards-Lifesciences",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "6e1e8603-085f-45f4-bc9e-5a132a3da604",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773875472,
+        "date_posted": 1773875472,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-FL-Cocoa-Beach/Software-Engineer-Summer-Intern_R0156790",
+        "locations": [
+            "Merritt Island, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Airgas",
+        "id": "3aade112-1fc5-442f-84dd-0a8c10b104a7",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773875174,
+        "date_posted": 1773875174,
+        "url": "https://airliquidehr.wd3.myworkdayjobs.com/airgasexternalcareer/job/Houston-TX-HO---Management/Product-Management-Intern_R10087141",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Airgas",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "First American",
+        "id": "97c1949a-2bd7-41ea-a668-b2c9cfc574da",
+        "title": "People Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773882964,
+        "date_posted": 1773882964,
+        "url": "https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Santa-Ana/People-Analytics-Intern_R055260",
+        "locations": [
+            "Orange, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/First-American",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DotDash Meredith",
+        "id": "b2582b69-0e76-4b8a-8365-1c7451eb0793",
+        "title": "Transaction Tooling Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773873393,
+        "date_posted": 1773873393,
+        "url": "https://meredith.wd5.myworkdayjobs.com/en-US/EXT/job/Alberta-CAN-Remote/Transaction-Tooling-Intern_JR15325",
+        "locations": [
+            "Edmonton, AB, Canada",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/DotDash-Meredith",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
