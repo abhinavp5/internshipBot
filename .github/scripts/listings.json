@@ -407766,7 +407766,7 @@
         "company_name": "Arch Capital Group",
         "id": "a7b2b82f-dcef-48d1-9de7-5a3667a66828",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -432566,7 +432566,7 @@
         "company_name": "Generac",
         "id": "390c26e3-0e5a-4312-be1d-3c6ccaf2763e",
         "title": "Software Engineer \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -433275,5 +433275,206 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": " Otsuka Pharmaceutical",
+        "id": "4d2df810-254c-4c8d-be2b-666a16a9896c",
+        "title": "AI Systems Engineer Intern - AI Systems Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773873908,
+        "date_posted": 1773873908,
+        "url": "https://vhr-otsuka.wd1.myworkdayjobs.com/External/job/Princeton-NJ/Intern-the-Otsuka-Way-2026---AI-Systems-Engineer-Intern-_R11117",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Otsuka-Pharmaceutical",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Spot & Tango",
+        "id": "11566f6d-b2bd-4ff2-a16c-a79ddb0652fd",
+        "title": "Product Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773883763,
+        "date_posted": 1773883763,
+        "url": "http://www.spotandtango.com/careers?gh_jid=4674928005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Spot-And-Tango",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ibility",
+        "id": "bb4618a1-bc16-44a6-8b65-98acd7119b4a",
+        "title": "Data Analytics Associate Fellowship",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773872293,
+        "date_posted": 1773872293,
+        "url": "https://jobs.lever.co/ibility/6f8a570f-e65f-47ca-88c3-ed5c7e7e5f5b/apply",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Ibility",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of Montreal",
+        "id": "53e84df2-3ea4-4ccc-a530-6ddaa2b86225",
+        "title": "Legal and Regulatory Compliance Data Science Intern \u2013 Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773882561,
+        "date_posted": 1773882561,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Chicago-IL-USA/Legal-and-Regulatory-Compliance-Data-Science-Intern--Co-op-Internship---Summer-2026---4-months_R260005362",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "T-Mobile",
+        "id": "0c772a67-c1e3-4c4c-baff-c7896dbe51f0",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773876713,
+        "date_posted": 1773876713,
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2026-Data-Analyst-Internship_REQ348541",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/T-Mobile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ALKU",
+        "id": "058c3286-4841-4f1e-accb-b29805ef050d",
+        "title": "Full Stack Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773872338,
+        "date_posted": 1773872338,
+        "url": "https://boards.greenhouse.io/alku/jobs/7732688",
+        "locations": [
+            "Andover, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/ALKU",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Commonwealth of Massachusetts",
+        "id": "a2bb605a-1411-4cde-a903-4687034a3557",
+        "title": "Intern - Data Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773872663,
+        "date_posted": 1773872663,
+        "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=26000268",
+        "locations": [
+            "Massachusetts"
+        ],
+        "company_url": "https://simplify.jobs/c/Commonwealth-Of-Massachusetts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Magna",
+        "id": "d637340d-7270-47f2-9a2d-005e1fe8f869",
+        "title": "AI CAD Research Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773873379,
+        "date_posted": 1773873379,
+        "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Toronto-Ontario-CA/AI-CAD-Research-Co-op_R00233556",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Magna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Xcel Energy",
+        "id": "80cdde7a-3074-45c5-99e3-c0fc30652f1b",
+        "title": "Renewable Operation Center Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773873291,
+        "date_posted": 1773873291,
+        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Golden-CO-80401/Renewable-Operation-Center-Intern---Golden--CO_JR112751-1",
+        "locations": [
+            "Golden, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Xcel-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
