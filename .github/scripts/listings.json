@@ -429555,7 +429555,7 @@
         "company_name": "Avnet",
         "id": "2b2d2730-c1a5-4329-8617-02c9930e097e",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -434037,5 +434037,138 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "ca01d620-47e3-4fed-aa5b-2c5cab68d191",
+        "title": "Computer Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1773874817,
+        "date_posted": 1773874817,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Long-Beach-MS/Computer-Engineering-Intern_R-00178459",
+        "locations": [
+            "Long Beach, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EPRI",
+        "id": "87d619ce-4eb0-4704-8346-532f6cec93de",
+        "title": "Computer Engineering Student Employee",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773871407,
+        "date_posted": 1773871407,
+        "url": "https://vhr-epri.wd1.myworkdayjobs.com/epricareers/job/Knoxville-TN/Computer-Engineering-Student-Employee_REQ-3873",
+        "locations": [
+            "Knoxville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/EPRI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Finra",
+        "id": "5312e9f7-c944-43e7-94cb-b90e05147adf",
+        "title": "Graduate Intern - Technology",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773871592,
+        "date_posted": 1773871592,
+        "url": "https://finra.wd1.myworkdayjobs.com/FINRA/job/Rockville-MD-Job-Posting/Graduate-Internship--Technology_R-009805",
+        "locations": [
+            "North Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Finra",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Moog ",
+        "id": "16dbb0c3-b653-4d45-8d7c-473e4baad9a2",
+        "title": "Intern Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773871632,
+        "date_posted": 1773871632,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Arvada-CO/Intern--Software-Engineering_R-26-16685",
+        "locations": [
+            "Wheat Ridge, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Moog",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dordt University",
+        "id": "49c8d7bf-5d5e-45e7-80b0-41b891310766",
+        "title": "Associate Developer Co-op - Financial Services",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1773871479,
+        "date_posted": 1773871479,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=104341",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dordt-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fortinet",
+        "id": "b875b713-f8fe-4100-b1c9-4534e4a4cd55",
+        "title": "Applied AI Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773882655,
+        "date_posted": 1773882655,
+        "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22412",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fortinet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
