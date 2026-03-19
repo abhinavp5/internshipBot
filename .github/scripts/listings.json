@@ -1,25 +1,5 @@
 [
     {
-        "date_updated": 1753177953,
-        "url": "https://careers.kearneyco.com/jobs/4822?lang=en-us",
-        "company_name": "Kearney&Co",
-        "title": "Data Analytics Internship",
-        "locations": [
-            "Alexandria, VA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "source": "r-zemam",
-        "id": "8cc151ea-ae04-43a3-9026-1dc72a2bcf38",
-        "date_posted": 1753177953,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Data Science, AI & Machine Learning"
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Veolia",
@@ -354924,7 +354904,7 @@
         "company_name": "UiPath",
         "id": "b8ec3397-bda7-480f-96ff-ac2fc9861c11",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -433965,5 +433945,97 @@
         "date_posted": 1773909378,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Vernova",
+        "id": "c567dc0a-4c8b-4aa0-8308-9dca7f6c5f6d",
+        "title": "Embedded Systems / Firmware Engineering Intern-1",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773913124,
+        "date_posted": 1773913124,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Stafford/Embedded-Systems---Firmware-Engineering-Intern-1_R5035165-1",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Vernova",
+        "id": "6328f229-b8d7-4fb8-80e8-d2bab2297996",
+        "title": "Embedded Systems / Firmware Engineering Intern-2",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773913129,
+        "date_posted": 1773913129,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Stafford/Embedded-Systems---Firmware-Engineering-Intern-2_R5035163-3",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Vernova",
+        "id": "eb5feb45-3f26-42f0-a23e-dce9385e7b2a",
+        "title": "Embedded Systems / Firmware Engineering Intern-1",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773915154,
+        "date_posted": 1773915154,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Stafford/Embedded-Systems---Firmware-Engineering-Intern-1_R5035165-2",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Vernova",
+        "id": "136d869b-8dc8-4e38-b522-305c8541fdc1",
+        "title": "Embedded Systems / Firmware Engineering Intern-2",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773914973,
+        "date_posted": 1773914973,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Stafford/Embedded-Systems---Firmware-Engineering-Intern-2_R5035163-2",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
