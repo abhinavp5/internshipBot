@@ -1,25 +1,5 @@
 [
     {
-        "date_updated": 1755567517,
-        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/6542613003?gh_src=3ad4b3093us",
-        "company_name": "Rocket Lab",
-        "title": "Software Intern Fall 2025",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "terms": [
-            "Fall 2025"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "GaryZhous",
-        "id": "f763e13a-9d72-474c-b855-1ac5ed14c36f",
-        "date_posted": 1753167130,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Software Engineering"
-    },
-    {
         "date_updated": 1753177953,
         "url": "https://careers.kearneyco.com/jobs/4822?lang=en-us",
         "company_name": "Kearney&Co",
@@ -433568,6 +433548,77 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Draper",
+        "id": "ec2908e7-83e2-42c8-adf1-79ee7d89736a",
+        "title": "Space & Strategic Navigation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773903210,
+        "date_posted": 1773903210,
+        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Space---Strategic-Navigation-Intern_JR002310",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Draper",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "MillerKnoll",
+        "id": "72adadb7-0c85-4517-8147-53461b2ad8c7",
+        "title": "Product Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773902225,
+        "date_posted": 1773902225,
+        "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/MI---Holland-Design-Yard/Product-Engineer---Rotational-Program_JR108526",
+        "locations": [
+            "Holland, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/MillerKnoll",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "1d1aaa5f-b30b-4532-a9ae-e76b54b9fead",
+        "title": "Security Software Engineer Project Intern - Network Security - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773901662,
+        "date_posted": 1773901662,
+        "url": "https://jobs.bytedance.com/en/position/7618396290598045957/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
