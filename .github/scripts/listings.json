@@ -29774,7 +29774,7 @@
         "company_name": "Analog Devices",
         "id": "ea3f3a87-664c-401e-9eef-aad38ce50998",
         "title": "Embedded Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -357089,7 +357089,7 @@
         "company_name": "Uber",
         "id": "03fa4121-7ead-480f-b51c-6327e49b457e",
         "title": "PhD Scientist",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -370485,7 +370485,7 @@
         "company_name": "Saputo",
         "id": "7d064906-9334-4522-a2ea-2847db03120e",
         "title": "Intern \u2013 IT Enterprise Application - Manufacturing",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -398606,7 +398606,7 @@
         "company_name": "TD Bank",
         "id": "bbb8b504-e60b-49db-8914-b4afad0a6c6b",
         "title": "Business Systems Analyst - Preferred Candidate",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -434384,5 +434384,471 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KLA",
+        "id": "d14c095c-8f17-4821-ac7d-c7c2c40390f8",
+        "title": "Software Intern - Data & Automation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773959031,
+        "date_posted": 1773959031,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Intern--Data---Automation-_2634811-1",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Walt Disney Company",
+        "id": "650c07b8-e500-464e-878a-ea2a73d18e23",
+        "title": "AI Automation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773958904,
+        "date_posted": 1773958904,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/AI-Automation-Intern--Burbank--Summer-2026_10143397-1",
+        "locations": [
+            "Burbank, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Planet",
+        "id": "503fcb7f-7821-460f-b615-50a285dd99a6",
+        "title": "Intern Space Systems - Geometric Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773958900,
+        "date_posted": 1773958900,
+        "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7733188",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Planet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Information Technology",
+        "id": "44618c80-9210-4266-90a1-a4b689809ca6",
+        "title": "GDIT Intern Program \u2013 Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773958892,
+        "date_posted": 1773958892,
+        "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/GDIT-Summer-Internship-Program---Summer-2026-Software-Development-Internship--_RQ212061-1",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/GDIT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "DESIGNME Hair",
+        "id": "2ae71533-04e9-43c7-b428-f538bb5f179f",
+        "title": "Product Development & Product Marketing Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773958823,
+        "date_posted": 1773958823,
+        "url": "https://job-boards.greenhouse.io/designmehair/jobs/4186652009",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/DESIGNME-Hair",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Sony Music Entertainment",
+        "id": "9540bdea-655a-401d-bc5a-6d94910fb6c4",
+        "title": "A&R Academy - Ministry of Sound",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773958729,
+        "date_posted": 1773958729,
+        "url": "https://www.sonymusic.co.uk/careers/job-description/?gh_jid=8248397002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony-Music",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CooperSurgical",
+        "id": "38257aa5-c024-4eb3-afde-64e77558618d",
+        "title": "Intern Product Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773958595,
+        "date_posted": 1773958595,
+        "url": "https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10499",
+        "locations": [
+            "Cornwall, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/CooperSurgical",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Shure",
+        "id": "8515ae17-659b-4c57-a63c-b81b2d4846f9",
+        "title": "Global Product Management Intern E&C Large",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773958222,
+        "date_posted": 1773958222,
+        "url": "https://careersus-shure.icims.com/jobs/4701/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Morton Grove, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Shure",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Waters Corporation",
+        "id": "817cdc62-f8e9-4406-952d-eba632a5b199",
+        "title": "Intern \u2013 Business Data Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773958277,
+        "date_posted": 1773958277,
+        "url": "https://uscareers-waters.icims.com/jobs/25726/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "New Castle, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/Waters-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "SanMar",
+        "id": "ec0562eb-679a-4063-8023-f0d8874bc862",
+        "title": "Custom Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773957852,
+        "date_posted": 1773957852,
+        "url": "https://boards.greenhouse.io/sanmar/jobs/5084567007",
+        "locations": [
+            "King County, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SanMar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "SanMar",
+        "id": "b89052a4-3337-4022-9209-8e23467a40cf",
+        "title": "Marketing Intern - Digital Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773957838,
+        "date_posted": 1773957838,
+        "url": "https://boards.greenhouse.io/sanmar/jobs/5084583007",
+        "locations": [
+            "King County, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SanMar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "SanMar",
+        "id": "ad7d7c9f-e1a5-47fb-ace7-8970bd67df0a",
+        "title": "Marketing Intern - Digital Product Management",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773957843,
+        "date_posted": 1773957843,
+        "url": "https://boards.greenhouse.io/sanmar/jobs/5084589007",
+        "locations": [
+            "King County, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SanMar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Drivemode",
+        "id": "898bc77e-dfe2-4064-846d-6f921b9c06f4",
+        "title": "Product Manager Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773959063,
+        "date_posted": 1773959063,
+        "url": "https://jobs.lever.co/drivemode/e7f60006-5cb2-4596-a8bb-33ff193174ad/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Drivemode",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rakuten Advertising",
+        "id": "2383b843-69f4-464c-9533-85f1021d8688",
+        "title": "Intern Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773959465,
+        "date_posted": 1773959465,
+        "url": "https://rakuten.wd1.myworkdayjobs.com/RakutenAdvertising/job/Salt-Lake-City-Utah/Intern---Software-Engineering_1031659",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Rakuten-Advertising",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ribbon",
+        "id": "c0d00bf4-d9e9-4eaf-8a79-652b2907736d",
+        "title": "Data Scientist \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773959149,
+        "date_posted": 1773959149,
+        "url": "https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/USA-MA-Westford/Data-Scientist---Intern_REQ-2025-2332",
+        "locations": [
+            "Westford, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ribbon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "T-Mobile",
+        "id": "15ad969e-194f-4799-a788-0667ac8c5df7",
+        "title": "Compensation Systems Intelligence Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773959705,
+        "date_posted": 1773959705,
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2026-Compensation-Systems-Intelligence-Intern_REQ348996",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/T-Mobile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Apptronik",
+        "id": "fbd5951f-f918-4a9d-b8ea-62d62418aacb",
+        "title": "Motion Control and Planning Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773959520,
+        "date_posted": 1773959520,
+        "url": "https://boards.greenhouse.io/apptronik/jobs/5832647004",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apptronik",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Together AI",
+        "id": "a3ab3c20-7558-4b44-aed7-118b27297297",
+        "title": "Product Marketing Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773959539,
+        "date_posted": 1773959539,
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/5014289007",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Together-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cloudflare",
+        "id": "98ad88f5-c362-49d7-bfcb-d15abcd5cd67",
+        "title": "Data and Technology \u2013 Operations and AI Innovation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773959558,
+        "date_posted": 1773959558,
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/7674785",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cloudflare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Bose",
+        "id": "7cc01f0b-8a92-4c70-aada-2c1cdfd999d5",
+        "title": "Noise Control Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773959516,
+        "date_posted": 1773959516,
+        "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Noise-Control-Research-Intern_R28777",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bose",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
