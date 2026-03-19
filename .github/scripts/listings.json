@@ -429825,7 +429825,7 @@
         "company_name": "Ryder System",
         "id": "0571d0ab-7d77-4d98-a09f-bbbc93be787f",
         "title": "Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -433475,6 +433475,99 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Calix",
+        "id": "5479ff45-3b7c-4e09-af1a-7b9fb75e1c1e",
+        "title": "Software Engineering Intern - Cloud Architecture",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773900721,
+        "date_posted": 1773900721,
+        "url": "https://calix.wd1.myworkdayjobs.com/External/job/Remote---North-America/Software-Engineering-Intern--Cloud-Architecture_R-11509",
+        "locations": [
+            "La Ronge, SK, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Calix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Draper",
+        "id": "53dd6042-6721-4983-a8a6-38cb339f4828",
+        "title": "HWIL & Real Time Simulation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773900748,
+        "date_posted": 1773900748,
+        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/HWIL---Real-Time-Simulation-Intern_JR002327",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Draper",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "1c46b945-3a24-4c37-b029-66008dc23b63",
+        "title": "Software Engineer Intern - Security-Data - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773900941,
+        "date_posted": 1773900941,
+        "url": "https://jobs.bytedance.com/en/position/7616874229010647349/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Assent",
+        "id": "9875af04-6db2-435e-b420-9ca4d4690f43",
+        "title": "AI Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773900642,
+        "date_posted": 1773900642,
+        "url": "https://jobs.smartrecruiters.com/Assent/744000109933874",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Assent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
