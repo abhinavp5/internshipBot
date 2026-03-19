@@ -27640,7 +27640,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company">Adobe</a></strong></td>
+<td>↳</td>
 <td>2026 Intern - Product Marketing Manager</td>
 <td>Lehi, UT</td>
 <td>🔒</td>
@@ -55697,7 +55697,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Cboe?utm_source=GHList&utm_medium=company">Cboe</a></strong></td>
+<td>↳</td>
 <td>Derivatives Market Structure and Functionality Intern</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
@@ -58007,7 +58007,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/PwC?utm_source=GHList&utm_medium=company">PricewaterhouseCoopers (PwC)</a></strong></td>
+<td>↳</td>
 <td>Cloud Engineering – Data Science Intern - Data & Analytics</td>
 <td><details><summary><strong>14 locations</strong></summary>Boston, MA<br>Seattle, WA<br>Houston, TX<br>Washington, DC<br>SF<br>LA<br>Dallas, TX<br>Philadelphia, PA<br>Chicago, IL<br>Norridge, IL<br>NYC<br>Minneapolis, MN<br>Mountain View, CA<br>Atlanta, GA</details></td>
 <td>🔒</td>
