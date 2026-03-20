@@ -1,25 +1,5 @@
 [
     {
-        "date_updated": 1753297309,
-        "url": "https://jobs.ashbyhq.com/a37/f457c131-1471-464a-9d23-5a9f94714c92",
-        "company_name": "a37",
-        "title": "Fullstack/MLE Intern",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "brianlzhou",
-        "id": "f3104144-b5dc-4b87-b0be-aad6991b1090",
-        "date_posted": 1753297309,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Data Science, AI & Machine Learning"
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "United Parcel Service (UPS)",
@@ -361317,7 +361297,7 @@
         "company_name": "Lumentum",
         "id": "b18dad89-4fad-4ae2-a25e-c7ad1e5319e3",
         "title": "Embedded Software Developer Co-op - Optical Circuit Switch",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -428388,7 +428368,7 @@
         "company_name": "EXL",
         "id": "81f73f85-e98c-413a-9374-434ea6c96b10",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -430897,7 +430877,7 @@
         "company_name": "Hiscox",
         "id": "c1f73b40-ec45-477e-a0bc-7bea36c346b2",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
