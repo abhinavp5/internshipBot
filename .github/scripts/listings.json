@@ -1,25 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Definity Financial",
-        "id": "0d6e0d09-97d5-4df7-9627-416cd9c2b82f",
-        "title": "Technology Solutions",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753285537,
-        "date_posted": 1753285537,
-        "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/8303",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Definity-Financial",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1753297309,
         "url": "https://jobs.ashbyhq.com/a37/f457c131-1471-464a-9d23-5a9f94714c92",
         "company_name": "a37",
@@ -159531,7 +159511,7 @@
         "company_name": "CACI",
         "id": "7d74b2a5-a588-4594-83bb-fb25249b84f5",
         "title": "Software Development Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Summer 2025"
@@ -433648,9 +433628,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773908830,
+        "date_updated": 1774019475,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -433740,9 +433720,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773909191,
+        "date_updated": 1774019475,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -436063,6 +436043,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Banco Bilbao Vizcaya Argentaria",
+        "id": "284a41a4-c716-49df-b35e-3fdb0cfaccaf",
+        "title": "Intern - Quantitative Analysis",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774019661,
+        "date_posted": 1774019661,
+        "url": "https://bbva.wd3.myworkdayjobs.com/BBVA/job/LONDON/Summer-Internship-London---Quantitative-Analysis_JR00099191",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Banco-Bilbao-Vizcaya-Argentaria",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
