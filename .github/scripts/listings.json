@@ -326,27 +326,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Blockhouse",
-        "id": "a54ed89d-22a5-4e70-a329-1f4c976443e4",
-        "title": "Quantitative Research Internship",
-        "active": false,
-        "terms": [
-            "Fall 2023",
-            "Winter 2023"
-        ],
-        "date_updated": 1753389566,
-        "date_posted": 1753312635,
-        "url": "https://jobs.ashbyhq.com/blockhouse/c14ed20e-e1fc-41ca-9a36-7c21c1bed9b8/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Blockhouse",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "United Parcel Service (UPS)",
         "id": "6d4e59b1-765c-4c09-9833-47d5c3bc7922",
@@ -19676,29 +19655,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Interpublic Group",
-        "id": "965ebbf6-57ce-4cb3-aa68-4f1250619179",
-        "title": "IT Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753311754,
-        "date_posted": 1753311754,
-        "url": "https://job-boards.greenhouse.io/interpublicgroup/jobs/5596946004",
-        "locations": [
-            "Omaha, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/Interpublic-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -437124,5 +437080,72 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Walt Disney Company",
+        "id": "cdc20f83-4bb1-4a6e-bc12-338186119d8d",
+        "title": "Walt Disney Animation Studios Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774048561,
+        "date_posted": 1774048561,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Walt-Disney-Animation-Studios-Data-Engineering-Intern--Summer-2026_10139294-1",
+        "locations": [
+            "Burbank, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "a911246b-65bf-4e55-9da4-67b7f953997d",
+        "title": "Research Intern AI/ML & DH",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774048444,
+        "date_posted": 1774048444,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cambridge-Massachusetts-United-States-of-America/Research-Intern-AI-ML---DH_R-063920",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Equifax",
+        "id": "eb3208c8-b6b5-462b-8d1e-316994b6a78b",
+        "title": "Product Owner \u2013 Consumer Solution Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774047317,
+        "date_posted": 1774047317,
+        "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/CAN---Ontario---Toronto/Product-Owner--Consumer-Solution-Co-op_J00175024",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Equifax",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
