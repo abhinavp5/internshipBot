@@ -262442,7 +262442,7 @@
         "company_name": "Medpace, Inc.",
         "id": "a2f547ec-276c-4d2b-b233-df809aa1e746",
         "title": "Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -430941,7 +430941,7 @@
         "company_name": "Hiscox",
         "id": "468883f5-df5d-4980-a75c-34ed37851088",
         "title": "Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
