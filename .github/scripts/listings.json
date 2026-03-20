@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Intel",
-        "id": "e71da27b-9b79-4c94-bbc3-6bbcf17e8fab",
-        "title": "System Simulation Engineering Co-op",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753252270,
-        "date_posted": 1753252270,
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/System-Simulation-Engineering-Co-op_JR0275615",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Definity Financial",
         "id": "0d6e0d09-97d5-4df7-9627-416cd9c2b82f",
@@ -435732,6 +435712,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nasuni",
+        "id": "10ebccb4-749a-419d-a92c-50ffcd6547a2",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773988084,
+        "date_posted": 1773988084,
+        "url": "https://www.nasuni.com/about-us/careers/open-positions/?gh_jid=5142981008",
+        "locations": [
+            "Boston, MA",
+            "Marlborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nasuni",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "Master's"
         ]
     }
