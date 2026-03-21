@@ -436928,7 +436928,7 @@
         "company_name": "Blue Cross Blue Shield",
         "id": "1a35b343-e63d-4072-90aa-6abb4afa1553",
         "title": "Associate Intern-UX Design/Web Development - UX Design/Web Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437538,5 +437538,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Varex Imaging Corporation",
+        "id": "14bf95b8-9848-4aa1-b73a-2c5fc0ea5fd7",
+        "title": "Business Intelligence Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774046910,
+        "date_posted": 1774046910,
+        "url": "https://vareximaging.wd103.myworkdayjobs.com/External_Career_Site/job/Salt-Lake-City/Business-Intelligence-Developer-Intern_R0005723-1",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Varex-Imaging-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
