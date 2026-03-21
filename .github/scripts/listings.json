@@ -366,49 +366,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ciena",
-        "id": "1da66c59-4963-47db-8e28-5af910a96d72",
-        "title": "Embedded Software Engineer Co-Op",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1753314906,
-        "date_posted": 1753314906,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Co-Op--September-2025-_R028482",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Peter Millar",
-        "id": "3cd5f864-6b2d-4434-8798-0af875742623",
-        "title": "Special Markets Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753314535,
-        "date_posted": 1753314535,
-        "url": "https://petermillarllc.wd12.myworkdayjobs.com/PMI/job/Research-Triangle-Park-NC/Special-Markets-Intern_JR100406",
-        "locations": [
-            "Research Triangle, Durham, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Peter-Millar",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Morningstar",
         "id": "52e7f9c6-6d83-4e41-b5d2-0b69e7820638",
@@ -19355,7 +19312,7 @@
         "company_name": "Instawork",
         "id": "96dfff8a-1935-48d2-8b5f-a193be59dd4d",
         "title": "Product Operations Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -349645,7 +349602,7 @@
         "company_name": "Voyager Technologies",
         "id": "44fbef42-c81c-4902-be0e-fc96876fffc2",
         "title": "Voyager Internship - Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -437147,5 +437104,263 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intel",
+        "id": "5e102ab2-9e29-42f3-9b05-6038e1f77eff",
+        "title": "Computer Vision Graduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774047605,
+        "date_posted": 1774047605,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Computer-Vision-Graduate-Intern_JR0280342",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PG&E",
+        "id": "5172c1cd-00a8-44a8-9174-b9c1ba0396e6",
+        "title": "EPSS Systems & Data Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774044359,
+        "date_posted": 1774044359,
+        "url": "https://careers.pge.com/job/Oakland-EPSS-Systems-&-Data-Management-Intern-CA-94612/1375361700/?ats=successfactors",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PGE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Double Good",
+        "id": "ea031967-05e4-4d29-b197-c6255c81a1de",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774045095,
+        "date_posted": 1774045095,
+        "url": "https://job-boards.greenhouse.io/doublegood/jobs/5832697004",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Double-Good",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "City of Philadelphia",
+        "id": "899ff696-2738-416a-bdb8-37302b4588fb",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774056286,
+        "date_posted": 1774056286,
+        "url": "https://jobs.smartrecruiters.com/CityofPhiladelphia/744000115905548",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/City-Of-Philadelphia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nestle",
+        "id": "66d70cc6-8951-4ba6-8a78-bec52df32ec1",
+        "title": "Statistician",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774056122,
+        "date_posted": 1774056122,
+        "url": "https://jobdetails.nestle.com/job/St_-Louis-Statistician-(12-week-Summer-Contract)-MO-63102/1376193533/?ats=successfactors",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Nestle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Illumio",
+        "id": "17edf15b-5ff8-4cc4-af83-f5ed1c736a6c",
+        "title": "Technical Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774055630,
+        "date_posted": 1774055630,
+        "url": "https://jobs.ashbyhq.com/illumio/58e64006-2332-4988-bd9e-d47d6f8df0bf/application",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Illumio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Posit PBC (formerly RStudio)",
+        "id": "0446ab35-5e68-4251-aef1-127a54746cc9",
+        "title": "Posit Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774055702,
+        "date_posted": 1774055702,
+        "url": "https://posit.co/job-detail/?gh_jid=7674250003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/PositSoftware",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Agentis Capital",
+        "id": "93b543f6-f482-422e-bb24-535df6779a92",
+        "title": "Capital Markets Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774055419,
+        "date_posted": 1774055419,
+        "url": "https://jobs.ashbyhq.com/Agentis-Capital-Advisors/db0f00d9-7b08-43cf-b75d-3ff97e3985e1/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Agentis-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Coherent ",
+        "id": "db272925-3123-449c-a500-8092291198e3",
+        "title": "Intern Automation and Machine Learning Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774055210,
+        "date_posted": 1774055210,
+        "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011369",
+        "locations": [
+            "Celina, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Coherent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Coherent ",
+        "id": "61e6130a-2746-4f1a-9bb7-7d4b130f26cc",
+        "title": "Intern \u2013 NPI lab and VCSEL R&D",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774055242,
+        "date_posted": 1774055242,
+        "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011254",
+        "locations": [
+            "Celina, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Coherent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Stripe",
+        "id": "3f12b8ac-a406-4397-9458-ea07e6d144b3",
+        "title": "Product Manager",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774055248,
+        "date_posted": 1774055248,
+        "url": "https://stripe.com/jobs/search?gh_jid=7737124",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Stripe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
