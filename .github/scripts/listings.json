@@ -430076,7 +430076,7 @@
         "company_name": "University of British Columbia",
         "id": "22d1371a-cf30-41f3-81ba-646ed88713ff",
         "title": "Graduate Teaching Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
