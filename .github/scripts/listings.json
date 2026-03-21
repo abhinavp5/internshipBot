@@ -448,52 +448,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Virtu Financial",
-        "id": "537506fa-8161-4592-bc12-3148cee4cb76",
-        "title": "Internship - Quantitative Trading",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756119280,
-        "date_posted": 1753324262,
-        "url": "https://job-boards.greenhouse.io/virtu/jobs/7848562002",
-        "locations": [
-            "Austin, TX",
-            "Chicago, IL",
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Virtu-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Virtu Financial",
-        "id": "e7e7311b-f4f9-4904-a2aa-c7381e1c41da",
-        "title": "Internship - Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755593282,
-        "date_posted": 1753324260,
-        "url": "https://job-boards.greenhouse.io/virtu/jobs/7848570002",
-        "locations": [
-            "Austin, TX",
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Virtu-Financial",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "KeyCorp",
         "id": "83360f53-a0e3-4a8a-90b3-6441c1c75013",
@@ -124528,7 +124482,7 @@
         "company_name": "Zurn Elkay Water Solutions",
         "id": "ed82ed2e-e841-4f40-ac29-4577e153639b",
         "title": "Sales Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -437362,5 +437316,138 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Walt Disney Company",
+        "id": "fb499908-2719-42b6-b5fe-c6e97675d120",
+        "title": "Software Engineering Intern - Cloud Governance",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774056920,
+        "date_posted": 1774056920,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Software-Engineering-Intern--Cloud-Governance--Summer-2026_10143615-1",
+        "locations": [
+            "Seattle, WA",
+            "Burbank, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cadence Design Systems",
+        "id": "6903dec2-7d6d-4316-bdbe-f86a719a8259",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774056944,
+        "date_posted": 1774056944,
+        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-MI/Data-Science-Intern_R53950",
+        "locations": [
+            "Michigan"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Walt Disney Company",
+        "id": "a2c2a833-b704-4508-b548-bf53684b27ec",
+        "title": "Software Engineering Intern - Cloud Governance",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774056848,
+        "date_posted": 1774056848,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Software-Engineering-Intern--Cloud-Governance--Summer-2026_10143615",
+        "locations": [
+            "Seattle, WA",
+            "Burbank, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "30e88412-67d6-46ad-80ea-426f97d5d4ed",
+        "title": "Data Analytics Intern - Engineering & SAP Operations",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774056332,
+        "date_posted": 1774056332,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000115968436",
+        "locations": [
+            "Vernon Hills, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Cloudflare",
+        "id": "25a51478-2550-44f2-ac06-c056d9c896fb",
+        "title": "IT Product Manager",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774056584,
+        "date_posted": 1774056584,
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/7740215",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Cloudflare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Walt Disney Company",
+        "id": "87d2128b-3848-4972-9409-546b9c3669b4",
+        "title": "Software Engineering Intern - AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774046681,
+        "date_posted": 1774046681,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Seattle-WA-USA/Software-Engineering-Intern--AI--Summer-2026_10143621-1",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
