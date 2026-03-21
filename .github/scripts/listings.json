@@ -428386,7 +428386,7 @@
         "company_name": "The Federal Reserve System",
         "id": "8a24e794-67c1-4356-be83-ef7cbfbecd13",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -431296,7 +431296,7 @@
         "company_name": "EverCommerce",
         "id": "0039d39e-329f-4993-8270-56e38e85b4c7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437517,5 +437517,26 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Guild Education",
+        "id": "bc833443-aaf7-4458-8dc4-ccaba2eb7390",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774074495,
+        "date_posted": 1774074495,
+        "url": "https://www.guild.com/open-positions-at-guild?gh_jid=7740252",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Guild-Education",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
