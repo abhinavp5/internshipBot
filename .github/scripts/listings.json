@@ -118938,7 +118938,7 @@
         "company_name": "Moog ",
         "id": "2fdd6132-f9fe-45f6-a2ac-dc214ff3a833",
         "title": "Intern - Product Engineering - Product Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -379661,7 +379661,7 @@
         "company_name": "Moog ",
         "id": "3071c5d9-d32b-43ef-9c88-a4fcbf2c4450",
         "title": "Intern \u2013 Mechanical Product Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -436878,7 +436878,7 @@
         "company_name": "Analog Devices",
         "id": "576c2feb-295b-4bcd-a126-2751463fe426",
         "title": "AI/ML Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437556,6 +437556,52 @@
             "Salt Lake City, UT"
         ],
         "company_url": "https://simplify.jobs/c/Varex-Imaging-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Blue Cross Blue Shield",
+        "id": "355f451e-4da5-4780-b0b7-e2c001e14315",
+        "title": "Intern Data Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774045813,
+        "date_posted": 1774045813,
+        "url": "https://bcbsa.wd1.myworkdayjobs.com/careers/job/US-IL-Chicago-E-Randolph/Summer-Associate-Intern-Data-Analytics_JR5805",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Cross-Blue-Shield",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pacvue",
+        "id": "cc30f25a-ef4f-40b9-b639-1246384942ca",
+        "title": "AI Analytics \u2013 Intern - Business Intelligence",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774045427,
+        "date_posted": 1774045427,
+        "url": "https://job-boards.greenhouse.io/pacvue/jobs/5833328004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pacvue",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
