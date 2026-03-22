@@ -85,26 +85,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Definity Financial",
-        "id": "c7b25112-cf8f-4396-aec9-11a1e4eadb48",
-        "title": "Risk Services Analyst",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753409989,
-        "date_posted": 1753409989,
-        "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/8374",
-        "locations": [
-            "Kitchener, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Definity-Financial",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "JP Morgan Chase",
         "id": "1b806319-cc33-48f2-b80c-72890a2eb4ec",
@@ -306,26 +286,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "United Parcel Service (UPS)",
-        "id": "6d4e59b1-765c-4c09-9833-47d5c3bc7922",
-        "title": "Engineering Co-Op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754507966,
-        "date_posted": 1753412639,
-        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---MIRA-LOMA-OPERATIONS-CAMRL/Solutions-Engineering-Co-Op_R25007890-1",
-        "locations": [
-            "Mira Loma, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Eight Sleep",
         "id": "f661f3e1-e3bd-4e3b-921a-87a50652d0be",
@@ -341,88 +301,6 @@
             "San Francisco, CA"
         ],
         "company_url": "https://simplify.jobs/c/Eight-Sleep",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Morningstar",
-        "id": "52e7f9c6-6d83-4e41-b5d2-0b69e7820638",
-        "title": "Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753412508,
-        "date_posted": 1753412508,
-        "url": "https://morningstar.wd5.myworkdayjobs.com/Americas/job/London/Intern_AP-22645146",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Morningstar",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Blockhouse",
-        "id": "c83bc117-7f93-4416-b994-ac0f460a74e5",
-        "title": "Quantitative Developer Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754508530,
-        "date_posted": 1753412556,
-        "url": "https://jobs.ashbyhq.com/blockhouse/6d7d9c01-5524-4ecd-854c-0dce64cc4696/application",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Blockhouse",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "GE Aerospace",
-        "id": "5aa10fb5-3d39-408c-9311-932f526d394d",
-        "title": "Digital Technology Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1753413607,
-        "date_posted": 1753413607,
-        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Co-op---US---Spring-2026_R5002161-1",
-        "locations": [
-            "Livonia, MI",
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Aerospace",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "GE Aerospace",
-        "id": "c85290c7-5fdf-40ed-b7f7-4c14438a1317",
-        "title": "Digital Technology Co-op",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1753413601,
-        "date_posted": 1753413601,
-        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Co-op---US---Fall-2026_R5002162-1",
-        "locations": [
-            "Livonia, MI",
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Aerospace",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -27040,29 +26918,6 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Navy Federal",
-        "id": "a81504cf-aea1-4d3e-9f86-ca818b490303",
-        "title": "Intern \u2013 Year Round - Product Engineering and Delivery Services",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1756205060,
-        "date_posted": 1753410271,
-        "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/25936",
-        "locations": [
-            "Vienna, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Navy-Federal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
