@@ -63,26 +63,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "United Parcel Service (UPS)",
-        "id": "7795cff9-7de8-4256-b810-d3e481b2d8ba",
-        "title": "Physical Automation Co-Op",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753481376,
-        "date_posted": 1753481376,
-        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---MCKINNEY-TXMCY/Physical-Automation-Co-Op_R25025593",
-        "locations": [
-            "McKinney, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": " PrizePicks",
         "id": "ad043edd-7bfb-41b6-aeee-c9274666b67a",
         "title": "Machine Learning Engineer Intern",
@@ -19164,29 +19144,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Observe",
-        "id": "2f53c4ce-4f7d-4354-8edc-cd53889f522a",
-        "title": "Software Engineering Intern for Database Backend",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753480904,
-        "date_posted": 1753480904,
-        "url": "https://jobs.ashbyhq.com/observeinc/09b71d19-6b8e-406e-9ab9-6668747d6ccb/application",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ObserveInc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
             "PhD"
         ]
     },
