@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CompScience",
-        "id": "73899a9e-ce46-4fd5-880e-b47eca53da42",
-        "title": "Engineering Internship Program",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753424312,
-        "date_posted": 1753424312,
-        "url": "https://jobs.ashbyhq.com/compscience/0701a16f-4858-4d63-b9fb-2f052655369d/application",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/CompScience",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "JP Morgan Chase",
         "id": "1b806319-cc33-48f2-b80c-72890a2eb4ec",
