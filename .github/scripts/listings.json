@@ -1,25 +1,5 @@
 [
     {
-        "date_updated": 1753972515,
-        "url": "https://asana.com/jobs/apply/7078079?gh_jid=7078079",
-        "company_name": "Asana",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "San Francisco CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "William-Leung",
-        "id": "1f084a00-0869-4ddf-a62e-d7a33c7a13a4",
-        "date_posted": 1753403845,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Software Engineering"
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Chainlink Labs",
@@ -404796,7 +404776,7 @@
         "company_name": "PG&E",
         "id": "3e6691cb-b878-46bb-87e4-1927b0112d48",
         "title": "Business Systems Specialist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
