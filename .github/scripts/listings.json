@@ -42,27 +42,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "N1",
-        "id": "d48ec36f-aeb5-4c12-92bc-b624855ba19d",
-        "title": "Research Intern",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753484552,
-        "date_posted": 1753484552,
-        "url": "https://jobs.ashbyhq.com/n1/f40a263f-dc1a-4d67-81ed-2ba3c893567c/application",
-        "locations": [
-            "Oakland, CA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/N1",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Sony Pictures Entertainment",
         "id": "bb0b208c-cddf-4c3b-9d0c-35871ac62017",
         "title": "Systems & Data Analytics Intern",
@@ -190572,27 +190551,6 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Yutori",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "N1",
-        "id": "10559bb0-7039-4ac9-a576-d2c4a67eb3b4",
-        "title": "Software Engineer Intern - Fullstack",
-        "active": true,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1753485810,
-        "date_posted": 1753485810,
-        "url": "https://jobs.ashbyhq.com/n1/298585c3-96b1-4728-8d37-31482f85a064/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/N1",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
