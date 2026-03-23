@@ -210932,7 +210932,7 @@
         "company_name": "Graphcore",
         "id": "7ee6ddd7-c942-4c75-900e-199f22b12941",
         "title": "Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -392983,7 +392983,7 @@
         "company_name": "Viatris",
         "id": "0606bc40-ec5e-48e0-9506-c12d14f64c65",
         "title": "Intern \u2013 Data Analyst Non-Sterile Supply Chain",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -437647,6 +437647,141 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MSX International",
+        "id": "714e1baa-85de-44d3-ab08-cdb2902b4476",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774275303,
+        "date_posted": 1774275303,
+        "url": "https://jobs.smartrecruiters.com/MSXInternational/3743990012262046",
+        "locations": [
+            "Troy, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/MSX-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Copart",
+        "id": "1727d396-3a35-4e8b-a6b8-3de2b9259352",
+        "title": "Technology Product Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774277685,
+        "date_posted": 1774277685,
+        "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Copart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Keysight Technologies",
+        "id": "079556dd-72d9-4e93-ac83-24d1b32c6b2e",
+        "title": "Engineering Apprentice - Calibration & Test",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774274989,
+        "date_posted": 1774274989,
+        "url": "https://jobs.keysight.com/jobs/51379?lang=en-us&icims=1",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MSX International",
+        "id": "62cb8d34-d2cb-4d28-87a5-cfe2f3fd7dba",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774275311,
+        "date_posted": 1774275311,
+        "url": "https://jobs.smartrecruiters.com/MSXInternational/3743990012261931",
+        "locations": [
+            "Troy, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/MSX-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dmg Media",
+        "id": "7fcc9910-e01f-4556-81a7-460fcc0c85ed",
+        "title": "AI Engineer Intern - Innovation Team",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774276369,
+        "date_posted": 1774276369,
+        "url": "https://www.dmgmedia.co.uk/careers/jobs/id/7739047?gh_jid=7739047",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Dmg-Media",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Iovance Biotherapeutics",
+        "id": "debf3738-4beb-4f9e-a528-5f9c465d857b",
+        "title": "Portfolio Strategy & Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774275666,
+        "date_posted": 1774275666,
+        "url": "https://job-boards.greenhouse.io/iovancebiotherapeutics/jobs/5159195008",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Iovance-Biotherapeutics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
