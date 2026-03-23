@@ -6599,7 +6599,7 @@
         "company_name": "TikTok",
         "id": "e0b68754-f6bf-4417-b34d-9809dde9c3e0",
         "title": "Tool Software Engineer Intern - Tiktok-Intelligent Creation-Effect House",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -437175,6 +437175,144 @@
         "source": "AlmondCroffle",
         "id": "85ab0b15-1cd7-4a33-b440-ead39af8dc3a",
         "date_posted": 1774256810,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774257593,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/sanmar/jobs/5084702007?gh_jid=5084702007",
+        "company_name": "SanMar",
+        "title": "IT Intern, Software Development",
+        "locations": [
+            "Issaquah, WA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "9aac97bb-9076-4dd2-8d33-9577c0e6a158",
+        "date_posted": 1774257593,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774258509,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://skechers.wd5.myworkdayjobs.com/one-career-site/job/Manhattan-Beach-CA/Cloud-Analyst-Intern--Summer-2026-_JR126223",
+        "company_name": "Skechers",
+        "title": "Cloud Analyst Intern",
+        "locations": [
+            "Manhattan Beach, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "99ac722a-91b3-4c9e-98f3-6ba482a69f70",
+        "date_posted": 1774258509,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774258566,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://bsa.applytojob.com/apply/dvXDzc11tD/Customer-Solutions-Intern-ERP-Software",
+        "company_name": "BS&A Software",
+        "title": "Customer Solutions Intern (ERP Software)",
+        "locations": [
+            "Lansing, MI"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "e5e7f956-3419-466d-837f-e7522257a9f6",
+        "date_posted": 1774258566,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774259114,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://salesforce.wd12.myworkdayjobs.com/futureforce_newgradroles/job/California---San-Francisco/Summer-2026-Intern---Applied-AI-Strategy---Research_JR334473",
+        "company_name": "Salesforce",
+        "title": "Intern - Applied AI Strategy & Research",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "2e307846-15fa-4251-aa91-ae7d3946aef9",
+        "date_posted": 1774259114,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774259213,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/sanmar/jobs/5084516007?gh_jid=5084516007",
+        "company_name": "SanMar",
+        "title": "IT Intern, AI",
+        "locations": [
+            "Issaquah, WA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "49017fce-72d6-4e4e-9369-37ce955ef19f",
+        "date_posted": 1774259213,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774260102,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-biorad.icims.com/jobs/38121/data-engineer-intern/job",
+        "company_name": "Bio-Rad Laboratories",
+        "title": "Data Engineer Intern",
+        "locations": [
+            "Hercules, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "d6de9c50-68d9-49f7-8ee9-6a2e8c404cb0",
+        "date_posted": 1774260102,
         "company_url": "",
         "is_visible": true
     }
