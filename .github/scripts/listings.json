@@ -190449,27 +190449,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Yutori",
-        "id": "170e92dc-443f-4b1f-ad55-a94b64a403fa",
-        "title": "Intern \u2013 AI",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761834591,
-        "date_posted": 1753540274,
-        "url": "https://jobs.ashbyhq.com/yutori/f1b4ad77-d6a9-46e8-90c5-bd20de7c1a04/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Yutori",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Scientech Research",
         "id": "88f7ebc1-17a9-413b-b5bc-8dad0e1a1339",
@@ -437522,5 +437501,152 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intropic",
+        "id": "5336742d-f13f-4d2d-bed9-2fbc9a7b9fe2",
+        "title": "Quantrepreneur - Quantitative Development",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774275736,
+        "date_posted": 1774275736,
+        "url": "https://jobs.lever.co/intropic/c31c65cc-178d-4a50-bc6a-4f4b057f4381/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Intropic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intropic",
+        "id": "2a020896-015e-4ca9-8e89-f9ce18d0152c",
+        "title": "Quantrepreneur - Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774275610,
+        "date_posted": 1774275610,
+        "url": "https://jobs.lever.co/intropic/1427876a-fb80-4ee1-96da-79cac32a7803/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Intropic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Otter Products",
+        "id": "fa4b7aa2-125f-41ee-9ccb-01259fcc8585",
+        "title": "Test Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774275073,
+        "date_posted": 1774275073,
+        "url": "https://careers-otterproducts.icims.com/jobs/6855/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Fort Collins, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Otter-Products",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rivian",
+        "id": "c03f42d9-8f69-4668-8412-9195f68a1bfd",
+        "title": "Intern - Mechanical Modeling",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774275023,
+        "date_posted": 1774275023,
+        "url": "https://careers.rivian.com/jobs/29843?lang=en-us&icims=1",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rivian",
+        "id": "8ecf3cb5-c6c3-4e9e-8447-3e157738d4bd",
+        "title": "Intern - Embedded Software",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774275017,
+        "date_posted": 1774275017,
+        "url": "https://careers.rivian.com/jobs/29841?lang=en-us&icims=1",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rivian",
+        "id": "4c548efc-10e0-4409-8516-55e7406aec92",
+        "title": "Research Park Intern - Machine Learning Compiler",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774275129,
+        "date_posted": 1774275129,
+        "url": "https://careers.rivian.com/jobs/29851?lang=en-us&icims=1",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
