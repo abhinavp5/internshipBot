@@ -406938,9 +406938,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1772815523,
+        "date_updated": 1774253666,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -432749,9 +432749,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773908610,
+        "date_updated": 1774253666,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -432772,9 +432772,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773908687,
+        "date_updated": 1774253666,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
