@@ -141772,9 +141772,9 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Intercontinental Exchange",
-        "id": "fc202f9c-55e4-4730-b538-4c12c35c1b98",
+        "id": "e7d74e74-9c75-4004-b73c-b72e1079fbe9",
         "title": "Software Developer Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -316441,7 +316441,7 @@
         "company_name": "Astranis",
         "id": "5a7ec5c0-2939-4bea-bdd5-4a1a4e4e9e8c",
         "title": "Intern Backend Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -437782,6 +437782,310 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Extreme Networks",
+        "id": "1d89e24b-43e1-4f1d-8ea0-cdf20414bfbb",
+        "title": "Intern - Hardware Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774304075,
+        "date_posted": 1774304075,
+        "url": "https://jobs.lever.co/extremenetworks/5fb55102-f2f4-43c5-bde8-1cf8c5ad335c/apply",
+        "locations": [
+            "Salem, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Extreme-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DoubleVerify",
+        "id": "171dec72-bac1-4cea-bf60-d050d63e235c",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774304546,
+        "date_posted": 1774304546,
+        "url": "https://job-boards.greenhouse.io/doubleverify/jobs/8464443002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/DoubleVerify",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lumentum",
+        "id": "54ff19d4-157b-460b-89d3-0646814d5bda",
+        "title": "Failure Analysis and New Product Qualification Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774304338,
+        "date_posted": 1774304338,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Failure-Analysis-and-New-Product-Qualification-Intern_2026266",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lumentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Torch Technologies",
+        "id": "3728fc67-2d01-4ce6-b1b3-adae7f0f3c01",
+        "title": "Software Design Engineer Intern \u2013 Returning Interns Only",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774304230,
+        "date_posted": 1774304230,
+        "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Software-Design-Engineer-Intern---Summer-2026--Returning-Interns-Only_R798",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Torch-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The New School",
+        "id": "178707af-7da5-4013-ac65-03cef384dcd5",
+        "title": "Student Assistant - AI/ Web Development",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774304508,
+        "date_posted": 1774304508,
+        "url": "https://newschool.wd1.myworkdayjobs.com/external/job/L---2-West-13th-Street/Student-Assistant-Parsons---AI--Web-Development_JR108752-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/The-New-School",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Coherent ",
+        "id": "f4dee31c-5c62-4090-868c-678562694a22",
+        "title": "Intern Manufacturing Systems & Data Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774304048,
+        "date_posted": 1774304048,
+        "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011500",
+        "locations": [
+            "Newark, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/Coherent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "John Deere",
+        "id": "e0d841fa-2849-41df-8f28-150f8c24fc52",
+        "title": "Part Time Student - Process Automation and Data Analytics - Data and Analytics",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774304270,
+        "date_posted": 1774304270,
+        "url": "https://johndeere.eightfold.ai/careers/job/137479728598",
+        "locations": [
+            "Midway, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/John-Deere",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "EquipmentShare",
+        "id": "d4f8c5c6-903f-42fd-b298-db06a7833cd5",
+        "title": "Intern Financial Systems Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774303909,
+        "date_posted": 1774303909,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7743533",
+        "locations": [
+            "Columbia, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rivian",
+        "id": "cd885e02-d0aa-4f5f-a119-3f60710cc44c",
+        "title": "UIUC Research Park Intern - Validation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774303831,
+        "date_posted": 1774303831,
+        "url": "https://careers.rivian.com/jobs/29771?lang=en-us&icims=1",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Norfolk Southern",
+        "id": "b98420ba-d552-42a3-b01f-4972527616b4",
+        "title": "Digital & Tech Data Visualization Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774303588,
+        "date_posted": 1774303588,
+        "url": "https://jobs.nscorp.com/job/Atlanta-Digital-&-Tech-Data-Visualization-Engineer-Intern-(PMOService-Management)-Summer-2026-GA-30308/1375904900/?ats=successfactors",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Norfolk-Southern",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Keysight Technologies",
+        "id": "99e6d9f7-7ba4-408d-ad7b-94630ff6e446",
+        "title": "R&D Hardware Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774303915,
+        "date_posted": 1774303915,
+        "url": "https://jobs.keysight.com/jobs/52096?lang=en-us&icims=1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rivian",
+        "id": "74b8c775-4705-42e7-a1d4-8540ae9489c5",
+        "title": "Intern - Low Voltage Electronics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774303766,
+        "date_posted": 1774303766,
+        "url": "https://careers.rivian.com/jobs/29840?lang=en-us&icims=1",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RR Donnelley",
+        "id": "d2073ab0-d8bb-414d-9428-aa92eaef5a6e",
+        "title": ".Net Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774303389,
+        "date_posted": 1774303389,
+        "url": "https://jobs.smartrecruiters.com/RRDonnelley/744000116285337",
+        "locations": [
+            "Warrenville, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/RR-Donnelley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
