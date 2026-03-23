@@ -1,46 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Geotab",
-        "id": "ae8461f4-875e-4754-84eb-77f3f893d974",
-        "title": "Embedded Developer Intern - Platform Reliability & Security",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753493807,
-        "date_posted": 1753493807,
-        "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/4669628008",
-        "locations": [
-            "Oakville, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Geotab",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Accenture",
-        "id": "c5e2a6e7-15d7-4f60-8131-1e9a26916bb5",
-        "title": "Graduate Intern - Applied Research Scientist",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753494846,
-        "date_posted": 1753494846,
-        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mountain-View-650-Castro-Corp/Center-for-Advanced-AI---Applied-Research-Scientist---Fall-Graduate-Intern---NAELFY26_R00279161",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Accenture-FS",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Sony Pictures Entertainment",
         "id": "bb0b208c-cddf-4c3b-9d0c-35871ac62017",
@@ -19076,53 +19036,6 @@
             "Remote in UK"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Scientech Research",
-        "id": "fdc65a61-a8f4-45c2-b2c9-35531bfb321b",
-        "title": "Quantitative Researcher Intern",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753486825,
-        "date_posted": 1753486825,
-        "url": "https://jobs.ashbyhq.com/scientech-research/b05bcb2f-2bb6-40c4-8702-3ba386eeab80/application",
-        "locations": [
-            "Jackson Township, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Scientech-Research",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Handshake",
-        "id": "97aed95b-8c9b-4757-b9f6-eb176612b149",
-        "title": "Handshake AI Research Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1754039813,
-        "date_posted": 1753495085,
-        "url": "https://jobs.ashbyhq.com/handshake/8774468e-7c5b-4371-b712-9d4c03e43caa/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Handshake",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -190572,27 +190485,6 @@
             "Jackson Township, NJ"
         ],
         "company_url": "https://simplify.jobs/c/Scientech-Research",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "N1",
-        "id": "69a2935c-ec96-405a-a1aa-80f9203ae74a",
-        "title": "Software Engineer Intern - Backend - Rust",
-        "active": true,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1753489912,
-        "date_posted": 1753489912,
-        "url": "https://jobs.ashbyhq.com/n1/afe7deb5-9cfd-4926-bcb4-058d418592a6/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/N1",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -413894,7 +413786,7 @@
         "company_name": "Motorola",
         "id": "cd856015-59e7-43e0-b905-b3df1ef541e2",
         "title": "Sales Product Owner \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437191,6 +437083,28 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Treefera",
+        "id": "fc2f87c9-f97c-48c8-8d6a-bd1af3a4d31a",
+        "title": "Treefera Intern Programme",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774228372,
+        "date_posted": 1774228372,
+        "url": "https://jobs.ashbyhq.com/treefera/800f0bc8-ca10-4d6e-8b89-f9bc8867e63f/application",
+        "locations": [
+            "London, UK",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Treefera",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
