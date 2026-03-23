@@ -437108,5 +437108,74 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1774256365,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Chandler-Arizona-United-States-Of-America/Cloud-Operations-Intern_JR-022103",
+        "company_name": "Avnet",
+        "title": "Cloud Operations Intern",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "098e4f77-4d82-4bfd-8b51-0184cb3999a3",
+        "date_posted": 1774256365,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774256565,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-biorad.icims.com/jobs/38299/software-business-analyst-intern/job",
+        "company_name": "Bio-Rad Laboratories",
+        "title": "Software Business Analyst Intern",
+        "locations": [
+            "Hercules, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "a2d5eaed-1da6-4dfa-98b3-dd21dc4dd43f",
+        "date_posted": 1774256565,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774256810,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://erickson.wd108.myworkdayjobs.com/external/job/Baltimore-MD/Intern---Software-Engineer_R0094752",
+        "company_name": "Erickson Senior Living",
+        "title": "Intern \u2013 Software Engineer",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "85ab0b15-1cd7-4a33-b440-ead39af8dc3a",
+        "date_posted": 1774256810,
+        "company_url": "",
+        "is_visible": true
     }
 ]
