@@ -15237,7 +15237,7 @@
         "company_name": "Capital One",
         "id": "712139b2-cfd7-4510-a04f-ad0a45f6def6",
         "title": "Current PhD \u2013 Data Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -124920,7 +124920,7 @@
         "company_name": "StackAV",
         "id": "770f92c0-fe3e-4ed4-8948-937b58cd767c",
         "title": "Research Intern - Autonomy",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -127882,7 +127882,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "7711e3f1-d3c4-4b7b-9ec6-fbf6ea09c56b",
         "title": "Amazon Web Services Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -259843,7 +259843,7 @@
         "company_name": "Field AI",
         "id": "c7cb4630-f6bd-476e-95e0-9cc6b16ab694",
         "title": "Field Application Engineer-Intern - Part-time - Salt Lake City, Utah",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -280566,7 +280566,7 @@
         "company_name": "Woven",
         "id": "1e2469ef-e9ea-420b-b1c9-00bc1dcdf61b",
         "title": "Software Engineering Intern - Embedded",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -285575,7 +285575,7 @@
         "company_name": "KLA Corporation",
         "id": "2f7c99d5-cafd-4eeb-9124-58696fa41aa6",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -315623,7 +315623,7 @@
         "company_name": "Experian",
         "id": "9c136d02-34fd-465c-814d-b0396636b098",
         "title": "Data Science Summer Intern - Remote & Paid",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -358923,7 +358923,7 @@
         "company_name": "Applied Materials",
         "id": "f874428c-d565-40a8-84a2-ea8f6ee2fbb4",
         "title": "2026 Summer Data Analyst/Scientist Intern-Master's - Santa Clara - CA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -358967,7 +358967,7 @@
         "company_name": "Applied Materials",
         "id": "6f799ba7-5a60-402b-9c9d-162d489ca3c5",
         "title": "Supplier Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368643,7 +368643,7 @@
         "company_name": "Intel",
         "id": "ad6fbc76-0922-4f8c-a668-c76038d77b07",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -372935,7 +372935,7 @@
         "company_name": "1X",
         "id": "9c729166-7bbb-4b24-89ff-f0df86a0f580",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379587,7 +379587,7 @@
         "company_name": "Johnson & Johnson",
         "id": "84d34dbd-3eb7-4e24-94a3-d7080de2fda9",
         "title": "Clinical Data Science Electrophysiology Biostatistics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380096,7 +380096,7 @@
         "company_name": "InfiniteQuant",
         "id": "6ab03a5f-f381-4e0f-800e-7e9da2a0a188",
         "title": "Quantitative Researcher \u2013 Internship - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439310,7 +439310,7 @@
         "company_name": "Locus Robotics",
         "id": "7a322779-cd3a-417e-bf21-18af6d6ca2ea",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
