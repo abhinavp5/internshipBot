@@ -249430,7 +249430,7 @@
         "company_name": "Rivian",
         "id": "23d047af-1756-429b-9263-00b8544874a1",
         "title": "Data Engineering Intern - AI & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262222,7 +262222,7 @@
         "company_name": "Zoox",
         "id": "e9ef886b-7a42-4f41-9d7c-e500a741f4f6",
         "title": "Embedded Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -326185,7 +326185,7 @@
         "company_name": "Mastercard",
         "id": "c3312704-06fa-4135-ab0f-5d13db126ccc",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344044,7 +344044,7 @@
         "company_name": "Centerstone",
         "id": "fd8e9636-ef4f-4304-8720-5d1ea623bf92",
         "title": "Bachelor Level Intern Summer Semester",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -352942,7 +352942,7 @@
         "company_name": "Handshake",
         "id": "e1be2627-f31b-446d-849e-23fab49bc2b4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364640,7 +364640,7 @@
         "company_name": "Kaiser Permanente",
         "id": "67d1b664-7b64-43fd-b0bd-60ab6390b5f1",
         "title": "Data Engineering Bachelor's Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -366410,7 +366410,7 @@
         "company_name": "X Development",
         "id": "a1f62ca8-2e53-4862-8685-ff2046c581d0",
         "title": "PhD Residency - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391872,7 +391872,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "533d1eeb-6a67-438f-a5a9-44e189f76e4b",
         "title": "Product Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -419244,7 +419244,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "45dbfeee-f1c5-404d-914e-c47a174eb9cb",
         "title": "Defense Science and Technology Intern Graduate Student",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439465,6 +439465,78 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American Rare Earths",
+        "id": "224e6611-9cfb-4eef-8107-822517f2d5e4",
+        "title": "AI Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774342002,
+        "date_posted": 1774342002,
+        "url": "https://ats.rippling.com/usare/jobs/8db9bb37-aa5f-40e0-96ac-d1c4ca796aeb",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Rare-Earths",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "d7297bc9-b982-4d12-9a1a-ea5d22b7eba6",
+        "title": "Product Manager Project Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774341892,
+        "date_posted": 1774341892,
+        "url": "https://lifeattiktok.com/search/7620569902743406901",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "IBM",
+        "id": "05e4181e-7b50-44c1-972d-0f0705cb6504",
+        "title": "Application Developer Intern - Oracle Middleware",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774341770,
+        "date_posted": 1774341770,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=89833",
+        "locations": [
+            "Baton Rouge, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/IBM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
