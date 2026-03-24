@@ -396190,7 +396190,7 @@
         "company_name": "OpenAI",
         "id": "4211c50d-d6e2-44ba-bf47-5cd582bcd3cc",
         "title": "Software Engineer Systems Research Intern - Applied Emerging Talent",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -438287,7 +438287,7 @@
         "company_name": "Micron Technology",
         "id": "dc963693-ce40-4274-8d5c-b4d5e8ab90db",
         "title": "Intern SPG Operations/AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
