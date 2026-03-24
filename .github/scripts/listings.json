@@ -12679,7 +12679,7 @@
         "company_name": "American Express",
         "id": "1a638e09-e313-47e4-90bf-92b6362c5111",
         "title": "Campus Undergraduate Summer Internship Program - 2026 Software Engineer - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -106199,7 +106199,7 @@
         "company_name": "DL Trading",
         "id": "cd656439-a7c1-4d6a-b5cc-25100a12979c",
         "title": "Quantitative Trader Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -113902,7 +113902,7 @@
         "company_name": "Leidos",
         "id": "8563617f-9dbf-4347-9bb7-8d972bac5b47",
         "title": "Software Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Fall 2026"
@@ -157305,7 +157305,7 @@
         "company_name": "Tencent",
         "id": "0061d973-bb2c-4f42-b1a2-2a3cae48b7dc",
         "title": "IT Application Developer \u2013 Intern - AI-Driven IT Ops",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -224736,7 +224736,7 @@
         "company_name": "Machina Labs",
         "id": "7d3fbec0-40a6-4335-8586-3658e7b52f5f",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -247564,7 +247564,7 @@
         "company_name": "Cisco",
         "id": "e2b71342-2453-4de6-841e-ee386d51d726",
         "title": "Software Engineer Embedded/Network Systems 1 - Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -248620,7 +248620,7 @@
         "company_name": "Empire State Realty Trust",
         "id": "4b7d93b2-7315-4205-9b11-62b4810fbfa6",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -267458,7 +267458,7 @@
         "company_name": "Marvell",
         "id": "dbad81b0-1aaf-4d32-8213-f645ba8f1ced",
         "title": "Design DSP Verification Intern - Bachelor's Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -306334,7 +306334,7 @@
         "company_name": "KLA",
         "id": "b008dfce-a0f3-4d3c-b658-1f2c378e30ba",
         "title": "Product Development Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -349492,7 +349492,7 @@
         "company_name": "Seaspan",
         "id": "9e10cfd5-2e1b-4e6c-86e1-8d91ba43958c",
         "title": "Intern \u2013 Contracts & Commercial - 4 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364596,7 +364596,7 @@
         "company_name": "Cisco",
         "id": "9f67b392-3479-47c7-a8ca-507b1e0ff71d",
         "title": "Software Developer \u2013 Intern - I - Canada",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -368244,7 +368244,7 @@
         "company_name": "ZOLL Medical Corporation",
         "id": "8815361e-d410-4938-a551-4393156b3d74",
         "title": "Research Intern Predictive Algorithms",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -382256,7 +382256,7 @@
         "company_name": "Strategic Education",
         "id": "868c73e1-0ed2-4510-9f7c-797e2a10058c",
         "title": "AI Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -392842,7 +392842,7 @@
         "company_name": "Johnson & Johnson",
         "id": "832207f2-60ff-4375-91f9-d46d657e499c",
         "title": "AI/ML Intern - Computer Vision",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -395360,7 +395360,7 @@
         "company_name": "Amazon",
         "id": "2ea82b83-a99b-4d5d-9748-b01205418516",
         "title": "Economist Intern - Prime Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -397543,7 +397543,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "6653ddb6-dd68-4cfc-be9f-0c5aee3b8453",
         "title": "Sales Team Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -398170,7 +398170,7 @@
         "company_name": "Zoox",
         "id": "c520248c-f371-4adf-a7ec-5ff790a1c72b",
         "title": "Firmware Validation Tooling Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -402991,7 +402991,7 @@
         "company_name": "Span",
         "id": "5b9b15b9-2bf8-4aec-8e00-2420f721c565",
         "title": "Device Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -405921,7 +405921,7 @@
         "company_name": "Rolls Royce",
         "id": "23d0f4f5-723c-466d-a3d6-d2a0d19ea674",
         "title": "Product Engineering Exterior/Interior International Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -409866,7 +409866,7 @@
         "company_name": "Western Digital",
         "id": "f7d6292b-f4f0-4cdc-b452-27ea770ddb33",
         "title": "Intern - Material Scientist / Thin Film Processes Engineer - Ph.D. Only",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439693,6 +439693,218 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Roku",
+        "id": "9ae4806e-52bc-4ffa-9b06-3e9adab91b0f",
+        "title": "Security Researcher Intern - Trust Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774362015,
+        "date_posted": 1774362015,
+        "url": "https://www.weareroku.com/jobs/7745675?gh_jid=7745675",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Roku",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cotiviti",
+        "id": "e2ba9913-9696-492a-aa3b-1452e906954d",
+        "title": "Intern \u2013 Agentic AI Research",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774361329,
+        "date_posted": 1774361329,
+        "url": "https://careers-cotiviti.icims.com/jobs/18706/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cotiviti",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CACI",
+        "id": "d2bf58e9-7388-48cf-9a5a-a7851ddbeba6",
+        "title": "AI/ML Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774364039,
+        "date_posted": 1774364039,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-CO-Colorado-Springs/AI-ML-Data-Scientist-Intern---Summer-2026_323607",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ingram Micro",
+        "id": "94a4bb57-93bb-4503-ab54-a0c0c1cb1f5d",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774364110,
+        "date_posted": 1774364110,
+        "url": "https://ingrammicro.wd5.myworkdayjobs.com/IngramMicro/job/Williamsville-NY-United-States-of-America/Summer-Intern---Developer_R-114438",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Ingram-Micro",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intel",
+        "id": "08017b17-c395-4c3d-915e-5ffcf693b012",
+        "title": "AI Applied Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774364104,
+        "date_posted": 1774364104,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Applied-Scientist---Intern_JR0280313-1",
+        "locations": [
+            "Hillsboro, OR",
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Gen",
+        "id": "f71afbed-9931-4bba-9d92-951fbb90b817",
+        "title": "Marketing Analytics Intern - Fintech & Digital Consumer Behavior",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774363694,
+        "date_posted": 1774363694,
+        "url": "https://gen.wd1.myworkdayjobs.com/careers/job/USA---New-York-New-York/Marketing-Analytics-Intern---Fintech---Digital-Consumer-Behavior_55302",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Gen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Group 1001",
+        "id": "1e6d3e36-8681-4782-ab12-4606266febcc",
+        "title": "Reinsurance Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774363791,
+        "date_posted": 1774363791,
+        "url": "https://group1001wd.wd5.myworkdayjobs.com/careers/job/Stamford-Connecticut/Reinsurance-Analytics-Intern_R26_0137",
+        "locations": [
+            "Stamford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Group-1001",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "1170c08b-0554-44df-ac3f-fc00efa660ae",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774363536,
+        "date_posted": 1774363536,
+        "url": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_restricted_site/job/United-States-California-Redondo-Beach/XMLNAME-2026-Software-Engineer-Intern---Redondo-Beach-CA_R10214523-2",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "466fb8d5-0978-48fe-bbfe-b0bdb2df53aa",
+        "title": "Data Analyst Project Intern - Data Science",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774362530,
+        "date_posted": 1774362530,
+        "url": "https://lifeattiktok.com/search/7620775575152462085",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
