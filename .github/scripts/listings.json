@@ -167702,7 +167702,7 @@
         "company_name": "Micron Technology",
         "id": "1048334f-1827-4144-9cff-ff788961af5f",
         "title": "Intern \u2013 DRAM Product Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -219393,7 +219393,7 @@
         "company_name": "Cisco",
         "id": "0fdfda06-d9eb-48c2-b935-b4da3ff0f844",
         "title": "Software Engineer Data/AI/Intelligent Systems 1 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -258266,7 +258266,7 @@
         "company_name": "Zoox",
         "id": "95e8a11a-5f88-48a0-b142-18ce7048c2fe",
         "title": "Hardware and Test Integration Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -271800,7 +271800,7 @@
         "company_name": "CSAA Insurance Group",
         "id": "3e3850fc-a33c-4858-8a16-62668dec4a71",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -273219,7 +273219,7 @@
         "company_name": "Autostore",
         "id": "0f9af6c7-8c91-4741-a9ed-0089831e661f",
         "title": "Software Engineering Intern - Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -286229,7 +286229,7 @@
         "company_name": "Visa",
         "id": "ae957e0a-a4a9-4c43-994f-431be9849925",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -287072,7 +287072,7 @@
         "company_name": "John Deere",
         "id": "506ba5a8-2056-4889-bb8e-c4dc2713fbcf",
         "title": "Part-Time Student - Software Engineer - Champaign IL Technology CA",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -329696,7 +329696,7 @@
         "company_name": "Crusoe",
         "id": "4552d028-2619-4d86-8dd3-ce9be1c61f3c",
         "title": "AI Intern \u2013 Digital Infrastructure Group - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -330595,7 +330595,7 @@
         "company_name": "Seagate Technology ",
         "id": "317838ca-c784-4a2a-b2b1-be0014d9b2bf",
         "title": "Test Process & Firmware Engineering Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -330965,7 +330965,7 @@
         "company_name": "Emerson Electric",
         "id": "93643266-93ab-4ea6-b438-700b70c5ab0e",
         "title": "Product Management Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -331475,7 +331475,7 @@
         "company_name": "Graco",
         "id": "be9b4393-1b35-4b3c-b5f2-ade2cfc7e9c4",
         "title": "Technical Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -335424,7 +335424,7 @@
         "company_name": "Guidewire",
         "id": "76b43bbd-bef8-4897-98ed-bb5abe47e51f",
         "title": "Business Intelligence Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -342531,7 +342531,7 @@
         "company_name": "Apex",
         "id": "1f58d478-aa2b-4e9e-97ea-6c540d8b783b",
         "title": "Software Engineering Intern - Integrated Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -352608,7 +352608,7 @@
         "company_name": "Nokia",
         "id": "439e093f-61cc-48ae-a835-3a28bdbb793b",
         "title": "Optical Test Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -372367,7 +372367,7 @@
         "company_name": "Micron Technology",
         "id": "0f08e9f3-5a29-4bdb-a16d-cea0898dc9d8",
         "title": "Intern \u2013 Asic Gen-AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -382256,7 +382256,7 @@
         "company_name": "Strategic Education",
         "id": "868c73e1-0ed2-4510-9f7c-797e2a10058c",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -382384,7 +382384,7 @@
         "company_name": "HARMAN International",
         "id": "ed4c01a7-f437-4159-979f-1e7d83d67984",
         "title": "Summer Intern - Connectivity Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -386233,7 +386233,7 @@
         "company_name": "KBR",
         "id": "172178d8-abab-421b-a656-708e2f363f97",
         "title": "SSMO Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -405527,7 +405527,7 @@
         "company_name": "Autodesk",
         "id": "94dd8617-b926-47b6-b0b1-02697b8cab19",
         "title": "Sustainable Buildings & AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -405551,7 +405551,7 @@
         "company_name": "Samsung",
         "id": "86c94656-1c22-4b74-86c4-7c2415268045",
         "title": "Product Management Financial Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -406493,7 +406493,7 @@
         "company_name": "Unlikely AI",
         "id": "e7c7a2f9-8083-4f92-9ea8-e960ab4014a9",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -419196,7 +419196,7 @@
         "company_name": "Autodesk",
         "id": "d600f507-25a2-4d04-a263-67cd1928554e",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -419660,7 +419660,7 @@
         "company_name": "Autodesk",
         "id": "ab94dad6-1426-4c78-9cfb-77dcb62ed7b7",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -419800,7 +419800,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "4828e587-544e-4bb1-ad68-efe360193f2c",
         "title": "Chassis Control Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -420018,7 +420018,7 @@
         "company_name": "Belk",
         "id": "a707626d-9074-4ad8-bbc6-076223466c35",
         "title": "Retail Development Program - Software Engineering - Front-End",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
