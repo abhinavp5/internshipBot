@@ -10912,7 +10912,7 @@
         "company_name": "Ameren",
         "id": "e06f01ed-c41a-417d-8ef8-1277023d153c",
         "title": "Application Development Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Summer 2025",
@@ -43198,7 +43198,7 @@
         "company_name": "Allegion",
         "id": "4f7d59b6-714f-4d62-a33c-ca618a53e613",
         "title": "Summer Intern - Hardware Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -52571,7 +52571,7 @@
         "company_name": "Clorox",
         "id": "718245dc-37d2-42c5-81de-6d7c4450d82c",
         "title": "Sales & Customer Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -54034,7 +54034,7 @@
         "company_name": "Allegion",
         "id": "c64f3f83-2b1e-485a-8527-18568411ba6c",
         "title": "Summer Intern - Hardware Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -84178,7 +84178,7 @@
         "company_name": "Parsons",
         "id": "0a1d1e7c-b6f1-4ae6-9eb8-e58d04d776ac",
         "title": "Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -232342,7 +232342,7 @@
         "company_name": "Sony",
         "id": "6fac482f-97c8-49bc-94b9-7088623f5f3f",
         "title": "Engineering Intern - AI Ethics",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -237907,7 +237907,7 @@
         "company_name": "Franklin Templeton",
         "id": "92969bdd-d799-426c-bae1-66f63de9de28",
         "title": "Undergraduate Digital Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -258686,7 +258686,7 @@
         "company_name": "Zoetis",
         "id": "c2b9b682-81f0-4cf3-82c7-3d7382da05c4",
         "title": "Robotic Process Automation Developer Intern - RPA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343444,7 +343444,7 @@
         "company_name": "Valeo",
         "id": "70ce4024-cd78-4b38-920d-c2437bb88d65",
         "title": "Process Engineer Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -345124,7 +345124,7 @@
         "company_name": "Resmed",
         "id": "3a635348-c28f-48d8-8030-346bd7ce3b05",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -345196,7 +345196,7 @@
         "company_name": "Resmed",
         "id": "c429e6aa-dca4-4dd1-bd57-290101c1a3c4",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -347453,7 +347453,7 @@
         "company_name": "Blue Origin",
         "id": "6064bac0-7a4f-48f8-a10c-0d48c06fce91",
         "title": "Composites Technician - Evergreen",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -347588,7 +347588,7 @@
         "company_name": "KLA Corporation",
         "id": "d0d1cb17-e711-438d-99ef-edbbafa02a96",
         "title": "Deep Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -348196,7 +348196,7 @@
         "company_name": "CAE",
         "id": "8181e2ca-5d3f-46cf-97b7-147629ced7a7",
         "title": "Radar Software Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -358488,7 +358488,7 @@
         "company_name": "Perseus Group",
         "id": "6edfb4af-22d9-4a4c-9fe0-2688c1831f41",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -361175,7 +361175,7 @@
         "company_name": " CCC Intelligent Solutions",
         "id": "ca0d7fab-ddc9-4953-87ea-070fc01726b5",
         "title": "Data Science & Mlops Internship Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376250,7 +376250,7 @@
         "company_name": "Flextronics International",
         "id": "5404bcf6-1945-4f61-bb38-4433f2e24587",
         "title": "Manufacturing Data & Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -388468,7 +388468,7 @@
         "company_name": "Bank of Montreal",
         "id": "115aaaca-bd9a-45fd-a61e-dd7224b4cfbd",
         "title": "Cloud Developer \u2013 Co-op/Internship - Summer 2026 - 4 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -398847,7 +398847,7 @@
         "company_name": "Magna International",
         "id": "af9d8399-dc1a-4c21-9fe2-c9e68d451c8e",
         "title": "Product Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -400418,7 +400418,7 @@
         "company_name": "Progyny",
         "id": "d5cefa31-3af4-4480-81cf-cd28e4b3111c",
         "title": "Medical Economics & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -401874,7 +401874,7 @@
         "company_name": "Leonardo",
         "id": "cfa447fa-36f7-4ccf-8abc-852b9d22c764",
         "title": "Industrial Placement Test Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -405412,7 +405412,7 @@
         "company_name": "Moderna",
         "id": "b4de8338-fd7d-48ce-b481-c776cf788746",
         "title": "Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -409340,7 +409340,7 @@
         "company_name": "GE Aerospace",
         "id": "b44c12f4-a0f1-423d-ae71-8934cfd0f930",
         "title": "Digital Technology Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -409415,7 +409415,7 @@
         "company_name": "GE Aerospace",
         "id": "12d06e0c-c04c-417f-8bdc-08aafa805837",
         "title": "Digital Technology Co-op - Returning Students",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -409937,7 +409937,7 @@
         "company_name": "GE Aerospace",
         "id": "ab08a91b-8da4-4431-a10f-f4ed639987b0",
         "title": "Digital Technology Co-op - Returning Students",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -410987,7 +410987,7 @@
         "company_name": "Henry Schein",
         "id": "e5584e30-6527-497e-ad36-94e05b22b6cc",
         "title": "Intern - Product Category Management Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -412961,7 +412961,7 @@
         "company_name": "Accenture",
         "id": "efca32c3-bb8c-4c89-915a-0abe5940b654",
         "title": "ATC Analysts",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -413056,7 +413056,7 @@
         "company_name": "Harris Computer",
         "id": "9a9fa2a0-45d5-4ef9-b211-4a449f0cafbb",
         "title": "Health Informatics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -417516,7 +417516,7 @@
         "company_name": "RTX",
         "id": "e8f5b418-edd6-48de-ab3b-cf4ca6801429",
         "title": "Intern \u2013 Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -419497,7 +419497,7 @@
         "company_name": "Sony Pictures Entertainment",
         "id": "571d5a5e-bc8e-4e23-b40c-625a16592eb5",
         "title": "Marketing Operations AI Enablement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439952,6 +439952,53 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hendrick Motorsports",
+        "id": "0355dda4-6cea-440a-8ea4-d5d3cb43bfca",
+        "title": "Project and Race Support Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773901725,
+        "date_posted": 1773901725,
+        "url": "https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Motorsports/Project-and-Race-Support-Engineer-Intern_R-77456",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Hendrick-Motorsports",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ABB",
+        "id": "50366288-ea65-4d02-a3a1-baa7b4291ed0",
+        "title": "R&D Lab Material Analyst Intern-Contractor",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774089102,
+        "date_posted": 1774089102,
+        "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-TN-Memphis/R-D-Lab-Material-Analyst-Intern--Summer-2026_JR00017040-1",
+        "locations": [
+            "Memphis, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/ABB",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
