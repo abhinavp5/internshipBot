@@ -2962,26 +2962,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NexThreat",
-        "id": "a87a5347-f77e-4edc-a04d-d597f23756e2",
-        "title": "Data Analysis Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754507523,
-        "date_posted": 1753709114,
-        "url": "https://jobs.lever.co/nexthreat.com/b5a5bf65-4057-46f7-b144-2ddff9444ba0/apply",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/NexThreat",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "M&T Bank",
         "id": "9551aba3-b479-4be7-ac1c-b13c55c7e694",
@@ -2997,27 +2977,6 @@
             "Buffalo, NY"
         ],
         "company_url": "https://simplify.jobs/c/M-And-T-Bank",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Magnet Forensics",
-        "id": "36318218-be65-4bfa-8388-3059e57e2812",
-        "title": "Software Developer Co-op",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753709091,
-        "date_posted": 1753709091,
-        "url": "https://jobs.lever.co/magnetforensics/8e0e7fc8-c676-48d5-981e-361ca36e7ac4/apply",
-        "locations": [
-            "Ottawa, ON, Canada",
-            "Kitchener, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Magnet-Forensics",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -18424,29 +18383,6 @@
             "Master's",
             "PhD",
             "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Firework",
-        "id": "d0c7cc25-c003-4c76-ba8e-6267747a4d74",
-        "title": "IT Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753957359,
-        "date_posted": 1753708890,
-        "url": "https://jobs.lever.co/fireworkhq/61aca98d-6412-4766-a611-bee438ccf251/apply",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Firework",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -100546,7 +100482,7 @@
         "company_name": "Apollo Global",
         "id": "98d41a12-7afb-4f8c-b5e0-bde172422c18",
         "title": "Summer Associate - Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -129451,7 +129387,7 @@
         "company_name": "Lumentum",
         "id": "b5785866-bb3e-4691-83ca-2a8ab6d06ec1",
         "title": "Transport Product Line Management Intern/Co-op - Product Line Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -132726,7 +132662,7 @@
         "company_name": "CACI",
         "id": "994d7ffa-afb8-49a4-930e-ed2d961b8e97",
         "title": "Software Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -133806,7 +133742,7 @@
         "company_name": "Marvell",
         "id": "35f39e19-b1bd-4791-a96f-52a54ca28e48",
         "title": "Package Engineering Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -195680,7 +195616,7 @@
         "company_name": "Marvell",
         "id": "40b4bfb1-7785-437f-b851-e55747b17a8a",
         "title": "Application Engineering Intern - Coherent DSP",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -230918,7 +230854,7 @@
         "company_name": "Apex Fintech Solutions",
         "id": "9d3fed51-680c-43ea-973d-8580b15701bd",
         "title": "Software Engineer Intern - Accounts",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -317585,7 +317521,7 @@
         "company_name": "Cambridge Associates",
         "id": "3ecc189f-f78c-4331-b172-85c81e7b07d7",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -326092,7 +326028,7 @@
         "company_name": "Fiserv",
         "id": "121eb2e5-0c4d-49a2-999d-1de0a80ba1f6",
         "title": "Technology \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -347660,7 +347596,7 @@
         "company_name": "Healthfirst",
         "id": "7cd8f1f9-6bdd-4838-9642-bc10585cb46f",
         "title": "Data Engineering Intern - Operations Analytics and Reporting",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -360493,7 +360429,7 @@
         "company_name": "SRI International",
         "id": "32f24635-178c-460b-bf0c-42b0531a10e5",
         "title": "RIT Co-op: Test Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -363475,7 +363411,7 @@
         "company_name": "Amp Robotics",
         "id": "54832b66-c358-4fe2-8f83-0c91dd7e1322",
         "title": "Hardware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -365930,7 +365866,7 @@
         "company_name": "Applied Materials",
         "id": "4b046430-c6d8-4677-87fa-118e30bbaecf",
         "title": "Machine Control Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368624,7 +368560,7 @@
         "company_name": "Intel",
         "id": "99d1a2ca-79b1-42f9-ae4d-70a3c348c7eb",
         "title": "Silicon Hardware Engineering Intern Graduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -369325,7 +369261,7 @@
         "company_name": "KLA",
         "id": "26afd2c5-fb6b-46bb-93ce-676fc1af670f",
         "title": "Research Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -400529,7 +400465,7 @@
         "company_name": "United Therapeutics Corporation",
         "id": "4d0d141b-f232-4fd2-ae56-422b0879b11f",
         "title": "Intern Digital Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -412016,7 +411952,7 @@
         "company_name": "Voyager Technologies",
         "id": "5e815519-1228-44f5-b2b3-d2445d48d9f0",
         "title": "Intern - Systems Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -419824,7 +419760,7 @@
         "company_name": "Moderna",
         "id": "e189e027-403f-467c-ba0a-9ab6ba58cae9",
         "title": "Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -422805,7 +422741,7 @@
         "company_name": "KLA",
         "id": "bff83edf-00d8-4123-b887-c1cc3f990c4d",
         "title": "Optical Systems Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -423887,30 +423823,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "QuantCo",
-        "id": "6ae9f4e5-6bce-420b-b285-17a33a0d6355",
-        "title": "Data Science Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755042859,
-        "date_posted": 1753705142,
-        "url": "https://jobs.lever.co/quantco-/09da5ced-a2fc-4cf1-9013-c177bb673e02/apply",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/QuantCo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "PhD"
         ]
     },
     {
