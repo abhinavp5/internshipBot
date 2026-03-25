@@ -179601,7 +179601,7 @@
         "company_name": "PTC",
         "id": "9b5b114b-6b81-4a85-9185-7357ce26e6a5",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -190111,7 +190111,7 @@
         "company_name": "PennState University",
         "id": "f431b8cc-e02e-45da-8f59-49a0324b5d6b",
         "title": "Summer Research Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -335876,7 +335876,7 @@
         "company_name": "Samsung",
         "id": "853b241c-b9cb-4037-870d-e5339475a670",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -387908,7 +387908,7 @@
         "company_name": "Booz Allen",
         "id": "77394ced-581a-4347-9481-9aa434d6c4d9",
         "title": "Financial & Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -420853,7 +420853,7 @@
         "company_name": "Legal & General",
         "id": "f027fbe4-72e6-49e4-8bee-3212aed19c23",
         "title": "Intern Data Programme",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -420899,7 +420899,7 @@
         "company_name": "EBSCO",
         "id": "71778ae7-2c6b-4442-9d45-e8daf5cecaca",
         "title": "Full Stack Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -420943,7 +420943,7 @@
         "company_name": "Genentech",
         "id": "08e8ea31-3f4d-4d04-9313-5849df4099e2",
         "title": "Intern - Channel & Contract Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
