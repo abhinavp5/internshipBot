@@ -280041,7 +280041,7 @@
         "company_name": "Guidehouse",
         "id": "c468cb2d-4db5-47ef-9b85-6d4d7a83ee5b",
         "title": "Intern \u2013 AI & Data - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -288623,7 +288623,7 @@
         "company_name": "Astera Labs",
         "id": "c6061544-90af-4c15-a8d3-b4bfeebd21ea",
         "title": "Performance Analysis Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -307677,7 +307677,7 @@
         "company_name": "Clayton",
         "id": "8fdad8e7-4349-4a81-9a15-995fca69453b",
         "title": "Associate Professional \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -320013,7 +320013,7 @@
         "company_name": "Sony Interactive Entertainment",
         "id": "54ea7551-69f6-4df2-99bc-36065ec1e244",
         "title": "Gameplay Programmer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -373726,7 +373726,7 @@
         "company_name": "CACI",
         "id": "63ac1f28-aab3-4d84-91fa-abb1cf77f121",
         "title": "Software Development Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391095,7 +391095,7 @@
         "company_name": "World Kinect",
         "id": "2a45c40b-9962-46da-ad1f-169df0683982",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -406651,7 +406651,7 @@
         "company_name": "Arch Capital Group",
         "id": "a7b2b82f-dcef-48d1-9de7-5a3667a66828",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -428224,7 +428224,7 @@
         "company_name": "Riverside Research",
         "id": "8a805026-9687-4248-9fe2-941cd2666034",
         "title": "AI/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -428526,7 +428526,7 @@
         "company_name": "Radiance Technologies",
         "id": "5e16084d-34d4-4eae-b04f-b7e4a5ccbcfe",
         "title": "Modeling Engineer Intern - Analytics - Simulation Sciences",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -429725,7 +429725,7 @@
         "company_name": "SoFi",
         "id": "3d2f5d3f-cda7-4f98-b864-3f83c0b033d7",
         "title": "Intern Software Engineer - Asset Movement Gateway",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -429845,7 +429845,7 @@
         "company_name": "Leidos",
         "id": "1df5bd1f-b6c0-4049-ba82-31df763072e3",
         "title": "Data Operations Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -431037,7 +431037,7 @@
         "company_name": "Vishay Intertechnology",
         "id": "85724137-b3f0-43be-a95f-ab4d6936a4ae",
         "title": "R&D Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -431225,7 +431225,7 @@
         "company_name": "Altera Corporation",
         "id": "c9b0e4c0-988d-4923-bfbb-e78247a9125f",
         "title": "FPGA IP and Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -431838,7 +431838,7 @@
         "company_name": "Athena Health",
         "id": "5234705e-9b52-4a98-89ce-ce7d56a0fd05",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -431918,7 +431918,7 @@
         "company_name": "Intel",
         "id": "2f553db0-b169-4fef-b610-43ae8b86b8e5",
         "title": "AI Software Engineering PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -431987,7 +431987,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "3014ff72-0b2b-4229-a246-c65538a51149",
         "title": "Data Science \u2013 Emerging Talent Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -432034,7 +432034,7 @@
         "company_name": "Moog ",
         "id": "8e32a1d0-8c95-48fe-9d4d-07ed11ff873a",
         "title": "Intern \u2013 Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -432058,7 +432058,7 @@
         "company_name": "Loblaw Companies",
         "id": "0bd8210a-8366-4d61-baf7-50c71902cabc",
         "title": "Replenishment Optimization Data & Analytics Co-op Student",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -432167,7 +432167,7 @@
         "company_name": " Otsuka Pharmaceutical",
         "id": "4d2df810-254c-4c8d-be2b-666a16a9896c",
         "title": "AI Systems Engineer Intern - AI Systems Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -432368,7 +432368,7 @@
         "company_name": "Calix",
         "id": "5479ff45-3b7c-4e09-af1a-7b9fb75e1c1e",
         "title": "Software Engineering Intern - Cloud Architecture",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -433013,7 +433013,7 @@
         "company_name": "Finra",
         "id": "5312e9f7-c944-43e7-94cb-b90e05147adf",
         "title": "Graduate Intern - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -433215,7 +433215,7 @@
         "company_name": "Leidos",
         "id": "d80902bc-b546-4fa0-9273-482c80f84401",
         "title": "Agentic AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -433887,7 +433887,7 @@
         "company_name": "Logitech",
         "id": "aaf324d2-ec79-4110-a67e-ffec64fa1d60",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -433935,7 +433935,7 @@
         "company_name": "Regions Bank",
         "id": "9be5b056-aa82-4116-97ae-63fbb64ba78a",
         "title": "ETP Intern/Co-op - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439545,7 +439545,7 @@
         "company_name": "Applied Materials",
         "id": "d83c6657-d691-47a7-bfa4-9d47f4870c97",
         "title": "Computer Science and Algorithms Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -442112,6 +442112,173 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "e0b730ba-4f1b-48f6-ba9f-e99996809328",
+        "title": "AI Researcher",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774420437,
+        "date_posted": 1774420437,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI-Research-Intern---8-months_R_1474619",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "0e93047e-7f08-4d6d-9750-c22f586c8e61",
+        "title": "AI Research Intern - 8 months",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774420436,
+        "date_posted": 1774420436,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI-Research-Intern---8-months_R_1474632",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "09d17377-5621-4d98-92fd-ede3d10b9c59",
+        "title": "AI Research Intern - 8 months",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774420434,
+        "date_posted": 1774420434,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI-Research-Intern---8-months_R_1474762",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Live Nation Entertainment",
+        "id": "de1baf77-c560-468f-a5b0-63221edaedb4",
+        "title": "Data Operations Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774420018,
+        "date_posted": 1774420018,
+        "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Work-From-Home---California/Data-Operations-Intern_JR-88759",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Live Nation Entertainment",
+        "id": "d6a4a9e1-bf9d-476f-ac3a-b441098e8895",
+        "title": "Marketing Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774419991,
+        "date_posted": 1774419991,
+        "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/Marketing-Data-Science-Intern_JR-88765",
+        "locations": [
+            "Remote in USA",
+            "Culver City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Live Nation Entertainment",
+        "id": "966f546b-a717-4d4d-8fa2-8007e8a23ab0",
+        "title": "Marketing Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774422058,
+        "date_posted": 1774422058,
+        "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/Marketing-Analytics-Intern_JR-88731",
+        "locations": [
+            "Culver City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Arkansas",
+        "id": "613121a0-b6ea-469c-bf10-9bb507ad6f4c",
+        "title": "Cosmos Graduate Research Assistant - ML/AI",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1773813929,
+        "date_posted": 1773813929,
+        "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--ML-AI-_R0053896",
+        "locations": [
+            "Little Rock, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
