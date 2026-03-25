@@ -2,75 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Ciena",
-        "id": "2cd5d5fc-61c2-42ad-b056-79b99fa3a9f0",
-        "title": "Embedded Software Engineer \u2013 Co-op",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753721722,
-        "date_posted": 1753721722,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Co-op--Fall-2025---4-16-Months-_R028495",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "date_updated": 1757561379,
-        "url": "https://jobs.lever.co/Arcade/1c849dd0-e3b5-4f73-bb56-1dc159ec6820",
-        "company_name": "Arcade",
-        "title": "Research Engineer Intern, Applied AI",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "terms": [
-            "Fall 2025",
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "aajain2",
-        "id": "2f94c67b-d250-453c-aec1-6a72456ecb0e",
-        "date_posted": 1753724191,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "category": "Data Science, AI & Machine Learning"
-    },
-    {
-        "date_updated": 1753724203,
-        "url": "https://jobs.lever.co/Arcade/07c31ffc-8333-4819-bde3-e2fd4272ad86",
-        "company_name": "Arcade",
-        "title": "Software Engineering Intern",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "terms": [
-            "Fall 2025",
-            "Summer 2026",
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "aajain2",
-        "id": "cfae5044-39c8-4291-8cbb-532effc2c6fe",
-        "date_posted": 1753724203,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Software Engineering"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "NXP Semiconductors",
         "id": "e0d07aa8-10d6-41ba-ac9d-be52f1a304ad",
         "title": "Digital Verification Intern",
@@ -24021,7 +23952,7 @@
         "company_name": "Johnson & Johnson",
         "id": "71e87491-1545-4f98-bfca-5c4330d53e09",
         "title": "Technology 2026 Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -56568,7 +56499,7 @@
         "company_name": "Genuine Parts Company",
         "id": "85af988d-2c72-41e0-9cc0-837d6252313a",
         "title": "Mobile Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -257559,7 +257490,7 @@
         "company_name": "Dairyland Power Cooperative",
         "id": "1ce42b74-12eb-4822-97e8-bf8b7437aa3c",
         "title": "Intern Right of Way GIS - La Crosse - WI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -265483,7 +265414,7 @@
         "company_name": "Apollo Global",
         "id": "da45775b-94ac-4780-b55e-6b440c98e494",
         "title": "2026 Summer Associate \u2013 Investment Portfolio Management & Analytics Intern - Apollo Aligned Alternatives Fund - Aaa",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -291284,7 +291215,7 @@
         "company_name": "Barclays",
         "id": "8e176407-fa40-441f-bca4-6ae410eb5003",
         "title": "Technology Developer Discovery Programme",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -301354,7 +301285,7 @@
         "company_name": "Lloyds Bank",
         "id": "a732c138-a34d-492f-9389-9207a1ea880a",
         "title": "Digital Product Manager Apprentice - Leeds",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -305171,7 +305102,7 @@
         "company_name": "KLA",
         "id": "827935cb-a84f-423e-a6c9-8e9954afd08d",
         "title": "Product Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -323535,7 +323466,7 @@
         "company_name": "Fiserv",
         "id": "6c6314c5-137d-44a9-8a68-f6813aba6fda",
         "title": "Application Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -327201,33 +327132,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "TransMarket Group",
-        "id": "cf412da4-1f1d-43aa-8f7d-135ac859dfdf",
-        "title": "Algorithmic Trader",
-        "active": true,
-        "terms": [
-            "Fall 2026",
-            "Winter 2026",
-            "Spring 2027"
-        ],
-        "date_updated": 1762906337,
-        "date_posted": 1753721607,
-        "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/4749906007?gh_jid=4749906007",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/TransMarket-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -332878,7 +332782,7 @@
         "company_name": "Bernhard",
         "id": "236584d2-6e98-462a-9ae3-8928f03f823e",
         "title": "Business Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344510,7 +344414,7 @@
         "company_name": "CoxHealth",
         "id": "e49bc384-db11-4763-92ca-8772b617413f",
         "title": "Intern Enterprise Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -347351,7 +347255,7 @@
         "company_name": "KLA",
         "id": "4256901b-7076-405d-a57b-2f233c212262",
         "title": "Deep Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -347812,7 +347716,7 @@
         "company_name": "C.H. Guenther",
         "id": "ab66ad8e-a9bc-4e39-9598-3f046760f88b",
         "title": "Sales Insights & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -352840,7 +352744,7 @@
         "company_name": "CAE",
         "id": "57a85a30-1839-4b8b-af86-6fe6a2ea3c99",
         "title": "Integration Specialist Intern Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -360788,7 +360692,7 @@
         "company_name": "AECOM",
         "id": "ce2ade82-5275-4d93-aba5-d76e9d78d9ba",
         "title": "Transit Planning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -380983,7 +380887,7 @@
         "company_name": "Fiserv",
         "id": "59f19602-ff71-4786-8abc-f85b32238bf4",
         "title": "Application Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2027",
@@ -381753,7 +381657,7 @@
         "company_name": "ibotta",
         "id": "9a3a489f-0724-46c3-a5ae-715a9bd8d847",
         "title": "AI Fellow \u2013 Executive Enablement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -392815,7 +392719,7 @@
         "company_name": "Samsung",
         "id": "dc6ffa84-cb63-43d3-bf89-d3e359910859",
         "title": "Software Development Internship - Agentic AI tools",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -393633,7 +393537,7 @@
         "company_name": "Eversource Energy",
         "id": "ef023132-185d-4043-827b-a2a0af40773f",
         "title": "AMI Operations Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -397628,7 +397532,7 @@
         "company_name": "Fiserv",
         "id": "45d3ec8d-d6c0-4c10-91e0-c7b144a3e9be",
         "title": "Intern - Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -398721,7 +398625,7 @@
         "company_name": "Magna International",
         "id": "70f9c9ed-4cc7-473f-945b-d36acd4fc7ec",
         "title": "Student \u2013 Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -401748,7 +401652,7 @@
         "company_name": "Samsung",
         "id": "b8cb4527-b790-40de-b98f-194c5156097e",
         "title": "Intern \u2013 Enterprise DRAM Product Marketing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -402936,7 +402840,7 @@
         "company_name": "Samsung",
         "id": "9cd61934-35ac-4b5f-b3b7-6ce1b44cca0f",
         "title": "DL Gen AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -405331,7 +405235,7 @@
         "company_name": "Autodesk",
         "id": "a63dc25c-7edd-468e-9e61-2f1bf72ac738",
         "title": "Graduate HCI & Vis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -420096,7 +420000,7 @@
         "company_name": "Sony Pictures Entertainment",
         "id": "db3e1e9a-e358-4fb9-81d9-83223c1e727f",
         "title": "Intern \u2013 Data Science - Theatrical Marketing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -435612,7 +435516,7 @@
         "company_name": "Experian",
         "id": "6ef60089-7b41-4cbc-b190-724b8f520050",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -442801,6 +442705,29 @@
             "Cambridge, MA"
         ],
         "company_url": "https://simplify.jobs/c/Draper",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hitachi",
+        "id": "de70e436-4eec-4f37-a74e-708f0c959d2a",
+        "title": "Site Deployment Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1774085049,
+        "date_posted": 1774085049,
+        "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Ottawa/Site-Deployment--Intern--Fall-2026--12months-_R1011993",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hitachi",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
