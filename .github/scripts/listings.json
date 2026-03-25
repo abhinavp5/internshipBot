@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "KeyCorp",
-        "id": "83360f53-a0e3-4a8a-90b3-6441c1c75013",
-        "title": "2026 Summer Analytics and Quantitative Modeling Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754417399,
-        "date_posted": 1753719818,
-        "url": "https://keybank.wd5.myworkdayjobs.com/external_career_site/job/Cleveland-OH/XMLNAME-2026-Summer-Analytics-and-Quantitative-Modeling-Internship---Cleveland_R-33875",
-        "locations": [
-            "Cleveland, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/KeyCorp",
-        "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Ciena",
         "id": "2cd5d5fc-61c2-42ad-b056-79b99fa3a9f0",
@@ -23977,7 +23957,7 @@
         "company_name": "Johnson & Johnson",
         "id": "fae3ac45-3929-4b91-b778-ac0866ea8b29",
         "title": "Technology Fall Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -77253,7 +77233,7 @@
         "company_name": "Marvell",
         "id": "f3935f14-a94b-46e2-b448-a23bd078714d",
         "title": "Application Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -321488,7 +321468,7 @@
         "company_name": "NVIDIA",
         "id": "2ae7aadb-deb2-4a73-bc92-0bcfaef93788",
         "title": "GPU Architect Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -329543,7 +329523,7 @@
         "company_name": "ABB",
         "id": "586b5416-8117-48eb-883a-23e07ed3f57b",
         "title": "AI Developer for Supply Chain Optimization & Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -355061,7 +355041,7 @@
         "company_name": "ABB",
         "id": "fbc2e895-4dc0-411c-8d6b-b158ee8ab3d9",
         "title": "Integrated Motor Drive SW Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -373409,7 +373389,7 @@
         "company_name": "CACI",
         "id": "d7b7e083-a0b3-4ada-82c5-ef64318eab34",
         "title": "AI / Machine Learning Internship - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -377153,7 +377133,7 @@
         "company_name": "ABB",
         "id": "9de484fd-2f68-4d70-8967-3238989fbdeb",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -397531,7 +397511,7 @@
         "company_name": "Johnson & Johnson",
         "id": "c602d102-d38f-45f2-b1d4-7d4b642e0b6c",
         "title": "Product Management VC Co-Op Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -442802,6 +442782,29 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Draper",
+        "id": "08243b88-ca42-4255-a67c-94f14428d46d",
+        "title": "Electronics and Embedded Systems Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774084939,
+        "date_posted": 1774084939,
+        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electronics---Embedded-Systems-Summer-Intern_JR002054",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Draper",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
