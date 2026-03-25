@@ -18475,30 +18475,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "GenBio AI",
-        "id": "00a9d5f7-009d-4c5b-b9b0-b3fca7800635",
-        "title": "Research Engineer Intern",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753702775,
-        "date_posted": 1753702775,
-        "url": "https://jobs.lever.co/genbio/97d1b075-b30a-4ed6-9ba3-d6690a606348/apply",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/GenBio-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Spark Climate Solutions",
         "id": "9cccbe0c-400e-45ba-87a1-465f1f121a14",
         "title": "Computer Vision and Machine Learning Intern",
@@ -207554,7 +207530,7 @@
         "company_name": "Visa",
         "id": "a010f1f2-6a04-4d2b-8281-df27a33235b0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -221736,7 +221712,7 @@
         "company_name": "Charter Manufacturing",
         "id": "3dcdb8bd-29e9-4f1a-a53c-5f14c1a7aa13",
         "title": "Sales & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -285213,7 +285189,7 @@
         "company_name": "Jones Lang LaSalle (JLL)",
         "id": "e51b1899-4751-46a1-9dce-ede6942cf6e4",
         "title": "Technology and Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -326327,7 +326303,7 @@
         "company_name": "Parsons",
         "id": "c7583cf3-72b9-46b9-bd56-ba37b9d206c8",
         "title": "Software Engineer Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -360019,30 +359995,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "GenBio AI",
-        "id": "d1ad6578-aacd-4f48-8fe6-764ea9841a0c",
-        "title": "Research Scientist Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770976739,
-        "date_posted": 1753702777,
-        "url": "https://jobs.lever.co/genbio/7037a809-2f60-4e2a-b329-37cd922a8da7/apply",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/GenBio-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "9b2c8392-e286-400e-95e9-809d118e367e",
         "title": "Benefits Operation Data Analyst Project Intern",
@@ -361434,7 +361386,7 @@
         "company_name": "GE Vernova",
         "id": "0ec6d69f-f4c5-4984-ab6e-6f970b02a043",
         "title": "GE Vernova Grid Solutions \u2013 Hardware Engineering Intern - Critical Infrastructure Communications",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -402109,7 +402061,7 @@
         "company_name": "Ciena",
         "id": "923bb8b0-c2ad-4a5c-bff1-c3d102524c81",
         "title": "NPI Hardware Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -406626,7 +406578,7 @@
         "company_name": "Biogen",
         "id": "69135df1-ca27-44d1-908e-153e283e9b6e",
         "title": "Co-op \u2013 Artificial Intelligence Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -416753,7 +416705,7 @@
         "company_name": "AAA Club Alliance",
         "id": "3e989df5-9ffc-4190-87fe-286380f8672c",
         "title": "Insurance Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -422737,7 +422689,7 @@
         "company_name": "Micron Technology",
         "id": "a22f4411-8406-4456-b15f-8b67567cd5ad",
         "title": "Intern \u2013 Equipment Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -435552,7 +435504,7 @@
         "company_name": "Revvity",
         "id": "487a3c10-5c11-407a-86c1-8319670e936b",
         "title": "Full-Stack AI Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -435991,7 +435943,7 @@
         "company_name": "Magna",
         "id": "c38bb5b6-0652-4f3e-b46a-130303c789ed",
         "title": "Intern Software Engineer - Integration and Test",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -436015,7 +435967,7 @@
         "company_name": "Magna",
         "id": "bdf929b7-851a-4c5a-823d-fea93630de89",
         "title": "Intern \u2013 Engineering ADAS Features",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
