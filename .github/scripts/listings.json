@@ -313731,7 +313731,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "86714f3d-ceae-4a2a-8e81-6d6183fb9e00",
         "title": "Software Designer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -356074,7 +356074,7 @@
         "company_name": "Uber",
         "id": "03fa4121-7ead-480f-b51c-6327e49b457e",
         "title": "PhD Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -397591,7 +397591,7 @@
         "company_name": "TD Bank",
         "id": "bbb8b504-e60b-49db-8914-b4afad0a6c6b",
         "title": "Business Systems Analyst - Preferred Candidate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -433959,7 +433959,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "4b2e19f4-2366-4249-b2ce-e12530a7c77e",
         "title": "Data Scientist/Artificial Intelligence Engineer Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -434008,7 +434008,7 @@
         "company_name": "Bank of Montreal",
         "id": "b51e1b74-198f-40f0-8297-380468b35935",
         "title": "Junior Analyst \u2013 Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -434031,7 +434031,7 @@
         "company_name": "Bank of Montreal",
         "id": "2aad6409-7e45-4f8d-8356-37d8a2fac3b5",
         "title": "Cloud Business & Strategy Analytics Analyst \u2013 Co-op/Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -434076,7 +434076,7 @@
         "company_name": "Ingram Micro",
         "id": "37c6da99-be2e-4b5c-a2e8-4a42f20e27e8",
         "title": "Intern - Applied AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -434097,7 +434097,7 @@
         "company_name": "Ingram Micro",
         "id": "0432cb92-01c0-4019-b6a1-e10ceb47c9d6",
         "title": "Intern - Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -434317,7 +434317,7 @@
         "company_name": "Cooper Companies",
         "id": "3cf0cf72-381b-4a1f-909d-e82619607869",
         "title": "R&D Product Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -434340,7 +434340,7 @@
         "company_name": "Ingram Micro",
         "id": "cd2926f6-489a-48b6-a248-d92e71e3be9c",
         "title": "Intern - Data Science and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -434384,7 +434384,7 @@
         "company_name": "TD Synnex",
         "id": "53bdbce7-fb1b-4e31-a8d2-20e7de47c5c2",
         "title": "Technology Track - AI and Integration Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -434452,7 +434452,7 @@
         "company_name": "Analog Devices",
         "id": "3082b34a-9340-441a-b6dc-eeb536bdd7ad",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -434498,7 +434498,7 @@
         "company_name": "Leidos",
         "id": "3b0faf9f-37ee-4e0d-ace6-d3a042e2c09b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -434521,7 +434521,7 @@
         "company_name": "Ingram Micro",
         "id": "a1a71f01-e7b8-400c-ae72-ed7f248b0a30",
         "title": "Information Systems Intern - Information Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -434783,7 +434783,7 @@
         "company_name": "KLA",
         "id": "74891ef4-f741-48de-9d5f-9ddb67bc3b95",
         "title": "Software Intern - Data & Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -434852,7 +434852,7 @@
         "company_name": "Watts Water",
         "id": "4e66a95d-2217-4c34-b0d9-937d5e5af3d3",
         "title": "Electronics Hardware Developer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -442279,6 +442279,52 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kaiser Permanente",
+        "id": "4dc31953-5b14-42ee-bc48-b2a34897354d",
+        "title": "KP Mobile App Bachelor's Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773700034,
+        "date_posted": 1773700034,
+        "url": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1414278",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kaiser-Permanente",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "6550cd4c-1ede-4aa6-86a8-dcafc8cae505",
+        "title": "Research Scientist Intern - Applied Vision in Augmented Reality - PhD",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773871862,
+        "date_posted": 1773871862,
+        "url": "https://www.metacareers.com/jobs/1134286408770089",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
