@@ -28798,7 +28798,7 @@
         "company_name": "TikTok",
         "id": "177690e4-6703-4698-a2bd-350db211f356",
         "title": "Software Engineer Intern - AI Applications",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -143183,7 +143183,7 @@
         "company_name": "Coinbase",
         "id": "5c28402d-5584-4e5f-8be8-4240f3350e5e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -250094,7 +250094,7 @@
         "company_name": "Zipline",
         "id": "a0b3f572-aa60-4606-b29c-71b25a9f1caf",
         "title": "Embedded Engineering Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -263156,7 +263156,7 @@
         "company_name": "Samsung Research America",
         "id": "bba5c5b2-6284-4f59-b1f9-478c46f31025",
         "title": "Intern - Robot Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -286370,7 +286370,7 @@
         "company_name": "Exiger",
         "id": "30c82b8e-f98b-431a-a1a5-8b463af71cdb",
         "title": "AI Data Engineer Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -287236,7 +287236,7 @@
         "company_name": "Legrand",
         "id": "2fcdb5b2-3237-488b-b786-92839a98d798",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -325471,7 +325471,7 @@
         "company_name": "TikTok",
         "id": "66a75a93-57d4-4872-8163-1dd1b89545f0",
         "title": "Integrity Product & Client Solutions Intern - Business Integrity - Bachelor of Science/Master of Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -361227,7 +361227,7 @@
         "company_name": "LaunchDarkly",
         "id": "6b66196b-e8d6-4422-b721-403e542c1e7c",
         "title": "Fullstack Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -366529,7 +366529,7 @@
         "company_name": "X Development",
         "id": "66d5b6ca-5449-41ef-9809-fc8e189897c8",
         "title": "2026 PhD / Master's Residency - Machine Learning / Software Engineering - Bellwether",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -371057,7 +371057,7 @@
         "company_name": "Kensington",
         "id": "add3fee8-1c10-4ef8-8106-b84ce9383bf8",
         "title": "Travel Product Data & AI Attribution Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392124,7 +392124,7 @@
         "company_name": "Socket",
         "id": "c8e9ee22-f682-4da2-aeae-3db34c2917ec",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -394227,7 +394227,7 @@
         "company_name": "John Deere",
         "id": "e985b38a-0880-45b3-a795-32385b0b0c7e",
         "title": "Part Time Student - Software Engineer - Waterloo, IA, Technology (CA)",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -399103,7 +399103,7 @@
         "company_name": "Mastercard",
         "id": "dd12bd0d-3428-4dfe-b327-515df39b6fce",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -410871,7 +410871,7 @@
         "company_name": "Juniper Square",
         "id": "2287872b-dd52-4164-86fd-344fb5d68a16",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -417159,7 +417159,7 @@
         "company_name": "Johnson & Johnson",
         "id": "69b335c8-4b00-4b2c-998c-8b6a1e3ff9f0",
         "title": "Business Intelligence Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -418700,7 +418700,7 @@
         "company_name": "Chubb",
         "id": "c847e0a1-7e1a-432b-96d3-70f4c371b03a",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -421419,7 +421419,7 @@
         "company_name": "DTCC",
         "id": "fc8986dc-c775-4902-ba84-ffb40e8210bf",
         "title": "IT Risk and Security Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -424762,7 +424762,7 @@
         "company_name": "Gamechanger",
         "id": "d80a81ec-c516-45e6-8461-53b393dbcc6d",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -431176,7 +431176,7 @@
         "company_name": "Tokyo Electron",
         "id": "248a853d-2ae9-4302-8dd4-a13fb3b9fcb0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -431790,7 +431790,7 @@
         "company_name": "Edwards Lifesciences",
         "id": "ea3e8ba9-cc17-4f4f-a6d1-03cbcc20f964",
         "title": "Enterprise Data & AI Integration Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -442017,6 +442017,101 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Live Nation Entertainment",
+        "id": "60efa159-bb0b-4729-8c28-8e647c75ec28",
+        "title": "Marketing Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774420005,
+        "date_posted": 1774420005,
+        "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/Marketing-Analytics-Intern_JR-88755-2",
+        "locations": [
+            "Culver City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Live Nation Entertainment",
+        "id": "4391d7da-b0c1-4339-bc88-3f0212e175d2",
+        "title": "Program Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774419993,
+        "date_posted": 1774419993,
+        "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/Program-Data-Analyst-Intern_JR-88754-2",
+        "locations": [
+            "Culver City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Live Nation Entertainment",
+        "id": "333b6073-b629-47e2-8715-294233516cb1",
+        "title": "Data Analyst Intern - Cyber Security",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774419992,
+        "date_posted": 1774419992,
+        "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/Data-Analyst-Intern---Cyber-Security_JR-88724",
+        "locations": [
+            "Culver City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Live Nation Entertainment",
+        "id": "207bd53b-e153-41c6-a195-ce53e9b2d148",
+        "title": "Marketing Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774419994,
+        "date_posted": 1774419994,
+        "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/Marketing-Data-Science-Intern_JR-88766",
+        "locations": [
+            "Culver City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
