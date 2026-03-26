@@ -153249,7 +153249,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "686e8961-1647-4d30-95e0-0e918028970d",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -193448,7 +193448,7 @@
         "company_name": "Keysight Technologies",
         "id": "7f9582b2-7e37-492f-9e48-cff3471a618f",
         "title": "R&D Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -292237,7 +292237,7 @@
         "company_name": "PennState University",
         "id": "2e17e435-e594-47c6-89d4-9fd698967ff5",
         "title": "Part time Smeal - Computer Science",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -309753,7 +309753,7 @@
         "company_name": "Booz Allen",
         "id": "69d2783d-64a2-41d0-b380-8e7b6dcf7ca7",
         "title": "University \u2013 Games Systems Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -325476,7 +325476,7 @@
         "company_name": "KLA",
         "id": "a7552028-a335-4ab7-afb4-7fb33677ae44",
         "title": "Software Intern - HPC Infrastructure",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -333315,7 +333315,7 @@
         "company_name": "Teledyne",
         "id": "a98099b0-32cb-49db-b321-b3a0f3a1d3c6",
         "title": "NHRC Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -390948,7 +390948,7 @@
         "company_name": "Vantage Data Centers",
         "id": "7dbf87b0-5fc0-4015-947f-d80a709c91bc",
         "title": "Design Management Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -392562,7 +392562,7 @@
         "company_name": "Acuity",
         "id": "07c4b98b-fd30-4fc1-b4e6-1acf18934920",
         "title": "Intern - Product Management - Enterprise Planning & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -410680,7 +410680,7 @@
         "company_name": "Circle",
         "id": "3f2ee60b-2491-47df-84e6-76a49a82c1c8",
         "title": "Intern \u2013 Product Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -417562,7 +417562,7 @@
         "company_name": "Creative Artists Agency",
         "id": "b8589b99-a1f6-4f30-8688-8153990762df",
         "title": "Tech Data Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -421832,7 +421832,7 @@
         "company_name": "Brookhaven Lab",
         "id": "74b0fc23-86a8-4370-9262-ee7acb6a7a48",
         "title": "Student Assistant - Energy Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -424695,7 +424695,7 @@
         "company_name": "ABC Fitness",
         "id": "5b4daf23-05d0-4302-ab7c-e6cc08e9ef12",
         "title": "Product Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -437582,7 +437582,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "56ba15de-15b8-4e26-81f5-65129371b7b8",
         "title": "Co-op: AI & Real-Time Data Monitoring at Bosch EMH Development Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -441886,7 +441886,7 @@
         "company_name": "TNS",
         "id": "3de7ddd4-4951-42b8-97de-864d68e72fb9",
         "title": "Mobile Telecom Applications Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -444275,5 +444275,49 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amentum",
+        "id": "a2061216-0f2d-43e1-8dc2-0b3d872ee650",
+        "title": "Electronics Technician Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774508407,
+        "date_posted": 1774508407,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Crane/Electronics-Technician---Intern_R0155935",
+        "locations": [
+            "Bedford, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "STRS Ohio",
+        "id": "2c501bc7-6de6-4b43-9cf9-5bc81411a079",
+        "title": "Solutions Analyst - ITS Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774510344,
+        "date_posted": 1774510344,
+        "url": "https://strsoh.wd1.myworkdayjobs.com/STRS_Jobs/job/Columbus-Ohio/Solutions-Analyst--ITS-Student_JR100619",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/STRS-Ohio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
