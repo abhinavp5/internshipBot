@@ -1105,26 +1105,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "DataVisor",
-        "id": "0c963e33-ad50-4d13-a647-6fa3fcee563f",
-        "title": "Software Engineer - 3 Months",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753810802,
-        "date_posted": 1753810802,
-        "url": "https://apply.workable.com/datavisor-jobs/j/8C50D4D8CC/apply",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/DataVisor",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1753985972,
         "url": "https://careers-kimley-horn.icims.com/jobs/19367/software-developer-intern/job",
         "company_name": "Kimley Horn",
@@ -2316,26 +2296,6 @@
             "Buffalo, NY"
         ],
         "company_url": "https://simplify.jobs/c/M-And-T-Bank",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "DataVisor",
-        "id": "2a6e2d03-c02a-45f6-88ca-9dfc04c63a7c",
-        "title": "Software Engineer Co-Op Internship Fall 2025",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753810809,
-        "date_posted": 1753810809,
-        "url": "https://apply.workable.com/datavisor-jobs/j/9D69808D1A/apply",
-        "locations": [
-            "Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/DataVisor",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -258530,7 +258490,7 @@
         "company_name": "Armanino",
         "id": "b75a9cc9-eda3-4feb-8f48-af0d40d2d38e",
         "title": "Summer 2026 \u2013 AI Intern - Century City",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -317292,7 +317252,7 @@
         "company_name": "Cummins",
         "id": "f57cf832-36fc-4036-ac61-82ae59f61302",
         "title": "Placement Intern - Sales Application Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -333142,7 +333102,7 @@
         "company_name": "Teledyne",
         "id": "a98099b0-32cb-49db-b321-b3a0f3a1d3c6",
         "title": "NHRC Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -374152,7 +374112,7 @@
         "company_name": "Ivalua",
         "id": "4ccd7e17-69c7-40b4-8b88-689fb5c5537f",
         "title": "Customer Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -403444,7 +403404,7 @@
         "company_name": "Micron Technology",
         "id": "0e15b08e-bbd9-4d45-957d-02e411e46889",
         "title": "Intern Design Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -416225,7 +416185,7 @@
         "company_name": "Netflix",
         "id": "d7f7bb74-5a92-4922-9cdc-052e08d92e7f",
         "title": "Data Visualization Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -423896,7 +423856,7 @@
         "company_name": "iPipeline",
         "id": "fa3174c7-e7c5-43bd-82c1-45bb3e3badaf",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -424011,7 +423971,7 @@
         "company_name": "iPipeline",
         "id": "921236d9-2321-43c5-b503-c8525e972116",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -424942,7 +424902,7 @@
         "company_name": "Elevance Health",
         "id": "994e4bd0-0987-4126-a2fa-f0a9e8aba812",
         "title": "Business Intelligence - Business Intelligence - Analytics Resource Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -425222,7 +425182,7 @@
         "company_name": "EverCommerce",
         "id": "54162b39-6aee-41c4-9c52-e0a376f24789",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -434617,7 +434577,7 @@
         "company_name": "Microsoft",
         "id": "f80ee021-12ab-477e-a5de-dba7e1794937",
         "title": "Software Engineer \u2013 The Coalition: Intern Opportunities",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -438013,7 +437973,7 @@
         "company_name": "Thermo Fisher Scientific",
         "id": "537f466b-5235-411b-a499-e2f6ecf13c58",
         "title": "Product Applications Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439094,7 +439054,7 @@
         "company_name": "DNV",
         "id": "bfbb4bc3-2491-47ab-80f0-9900331242bf",
         "title": "Solar and Storage Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439518,7 +439478,7 @@
         "company_name": "Eversource Energy",
         "id": "059ffc67-c990-4423-a54e-fd4e33c571d8",
         "title": "Intern Data Analyst - Business Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
