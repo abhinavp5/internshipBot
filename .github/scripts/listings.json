@@ -322809,7 +322809,7 @@
         "company_name": "Hitachi",
         "id": "23fdc562-5150-463c-9db8-6953ed2cadcd",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -353687,7 +353687,7 @@
         "company_name": "Texas Instruments",
         "id": "1665e512-5947-40c5-a9aa-823584ba4671",
         "title": "Product Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -414770,7 +414770,7 @@
         "company_name": "Brooks Automation",
         "id": "26de7ea0-52e4-4867-a529-fcc22dec874d",
         "title": "Computer Vision Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -433009,7 +433009,7 @@
         "company_name": "The Trade Desk",
         "id": "40a1bb32-6e80-456b-a78a-1665a74ccbf3",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -433506,7 +433506,7 @@
         "company_name": "Micron Technology",
         "id": "fddbd025-9941-4af5-88cd-f4aa44cc921b",
         "title": "Intern Computer Engineer - AI/ML/LLM",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2026",
