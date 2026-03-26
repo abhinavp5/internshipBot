@@ -426644,7 +426644,7 @@
         "company_name": "Mentis AI",
         "id": "fac200a9-6a19-49d8-8ac0-55d38fef53bf",
         "title": "Private Equity and Growth Equity AI Residency - Frontier AI Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -426969,7 +426969,7 @@
         "company_name": "Mentis AI",
         "id": "161d015d-7f7f-4b19-a326-d56a807b7a60",
         "title": "Private Equity and Growth Equity AI Residency - Frontier AI Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -443465,7 +443465,7 @@
         "company_name": "AspenTech",
         "id": "ff55e758-33ba-4ead-b74c-085689ea95e0",
         "title": "Process Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -444340,5 +444340,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Argonne National Laboratory",
+        "id": "80a6bb0a-0472-4226-b5d2-745d5b0b8492",
+        "title": "Postdoctoral Appointee - MSD Experimental Condensed Matter Physics",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774521966,
+        "date_posted": 1774521966,
+        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---MSD-Experimental-Condensed-Matter-Physics_421675",
+        "locations": [
+            "Woodridge, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
