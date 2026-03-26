@@ -1,45 +1,5 @@
 [
     {
-        "date_updated": 1754477524,
-        "url": "https://job-boards.greenhouse.io/tellius/jobs/4801983007",
-        "company_name": "Tellius",
-        "title": "AI Engineering Intern",
-        "locations": [
-            "Remote"
-        ],
-        "terms": [
-            "Fall 2025"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "maevetellius",
-        "id": "a68a7eb6-6843-4470-9a78-2f594b44b9f2",
-        "date_posted": 1753794282,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Data Science, AI & Machine Learning"
-    },
-    {
-        "date_updated": 1753797508,
-        "url": "https://gnw.wd1.myworkdayjobs.com/en-US/GNW/job/Richmond%2C-Virginia/Genworth-IT-Development-Program-Intern---Summer-2026_REQ-250327?workerSubType=7fa6841689a6106a8c0af76995631b08",
-        "company_name": "Genworth",
-        "title": "IT Development Program Intern",
-        "locations": [
-            "Richmond, VA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "8be12d6b-c211-43e9-ac5e-031fa7bb122b",
-        "date_posted": 1753797508,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Software Engineering"
-    },
-    {
         "date_updated": 1756949361,
         "url": "https://jobs.lever.co/AIFund/08af7df2-3085-4d7b-ad74-10767e2d93db",
         "company_name": "AI Fund",
@@ -476,26 +436,6 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/Hitachi",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Trade Desk",
-        "id": "f7e0be1d-ea87-4940-bc4c-ef214840687d",
-        "title": "2026 Software Engineering Internship",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753797045,
-        "date_posted": 1753797045,
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4784540007",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -99170,7 +99110,7 @@
         "company_name": "BorgWarner",
         "id": "f7dcb909-60db-4e95-920c-0679a423ed91",
         "title": "Electronics Hardware Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -306481,7 +306421,7 @@
         "company_name": "APL Logistics",
         "id": "e0fafefb-cdaa-41d6-ac01-53d66afad28a",
         "title": "Apprentice/Intern - Data Science & BI - Wms",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376657,7 +376597,7 @@
         "company_name": "Mentis AI",
         "id": "19911186-575d-45f6-be14-7d93db376666",
         "title": "Asset Management Professional AI Residency - Frontier AI Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -405908,9 +405848,9 @@
         ]
     },
     {
-        "date_updated": 1772814781,
+        "date_updated": 1774532327,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -406023,9 +405963,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1772815310,
+        "date_updated": 1774532327,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -406070,9 +406010,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1772815447,
+        "date_updated": 1774532327,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -417156,9 +417096,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773323577,
+        "date_updated": 1774532327,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -418505,7 +418445,7 @@
         "company_name": "Oura",
         "id": "dfc2918f-8a24-4fba-91d0-5405ce4492f4",
         "title": "Health Sensing & Systems Hardware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -425537,7 +425477,7 @@
         "company_name": "Franklin Templeton",
         "id": "a11c7740-f6fd-4b38-b0a6-aa03acd286db",
         "title": "Fiduciary Trust AI - Data and Process Optimization",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -427037,7 +426977,7 @@
         "company_name": "CACI",
         "id": "0512cd1a-2692-459d-983d-4fa7b065b172",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -429103,7 +429043,7 @@
         "company_name": "TRUMPF",
         "id": "fcfd9340-e05a-454f-a661-5647895890ea",
         "title": "Marketing Application Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -429151,7 +429091,7 @@
         "company_name": "TRUMPF",
         "id": "33c57d97-7b23-4df3-a882-48a38095f7dd",
         "title": "Technical Sales & Consulting",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -436241,9 +436181,9 @@
         ]
     },
     {
-        "date_updated": 1774256365,
+        "date_updated": 1774532327,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -436287,9 +436227,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1774256810,
+        "date_updated": 1774532327,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -436379,9 +436319,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1774259114,
+        "date_updated": 1774532327,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -436897,7 +436837,7 @@
         "company_name": "Dmg Media",
         "id": "7fcc9910-e01f-4556-81a7-460fcc0c85ed",
         "title": "AI Engineer Intern - Innovation Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -442020,7 +441960,7 @@
         "company_name": "BenchSci",
         "id": "74302b72-f037-40db-a075-c264bdd71eec",
         "title": "BenchSci Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443535,7 +443475,7 @@
         "company_name": "Adobe",
         "id": "94b7c193-cf6a-4919-9e74-cbc506b44428",
         "title": "University Intern - Research Scientist/Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
