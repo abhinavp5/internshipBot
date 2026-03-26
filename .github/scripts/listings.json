@@ -25007,7 +25007,7 @@
         "company_name": "GE Appliances",
         "id": "eee6c9da-def1-454b-8f5d-8acac504abee",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -166306,7 +166306,7 @@
         "company_name": "Paccar",
         "id": "82877554-5b71-4827-bdca-4f616af91e61",
         "title": "Summer 2026 Intern - Product Planning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -277540,7 +277540,7 @@
         "company_name": "Premier",
         "id": "ec9cda6e-feaf-4ca0-a81b-7c4b7184d6dc",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -295537,7 +295537,7 @@
         "company_name": "Microsoft",
         "id": "9785d180-d1f1-4ca5-8aff-7170272d88fc",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -366724,7 +366724,7 @@
         "company_name": "Salesforce",
         "id": "515dcaee-8868-41b8-b43b-1d9f894b1532",
         "title": "Summer 2026 Intern - Product Marketing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -367986,7 +367986,7 @@
         "company_name": "HARMAN International",
         "id": "5e2f2fac-2b21-412a-93f3-701758b241fb",
         "title": "Summer Intern - Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391656,7 +391656,7 @@
         "company_name": "Red Bull",
         "id": "4d70ccf9-3ba3-4cd6-ad7e-d399d0298c03",
         "title": "Field Strategy Insights Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -402157,7 +402157,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "a9863bae-f79f-4ac4-b2cc-4b43f4a2b9fb",
         "title": "Specialist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -417632,7 +417632,7 @@
         "company_name": "Salesforce",
         "id": "f6f19bde-3be3-407e-aba1-a5e385b59df1",
         "title": "Intern - Product Marketing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -426398,7 +426398,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "dedc6f20-394f-488a-9dfa-e783c1a7b292",
         "title": "Computer Specialist",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -432988,7 +432988,7 @@
         "company_name": "Cloudflare",
         "id": "98ad88f5-c362-49d7-bfcb-d15abcd5cd67",
         "title": "Data and Technology \u2013 Operations and AI Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -444316,6 +444316,27 @@
             "Columbus, OH"
         ],
         "company_url": "https://simplify.jobs/c/STRS-Ohio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Penumbra Inc",
+        "id": "bc9f9e33-9d0d-49c9-9af3-bcd92d706d8d",
+        "title": "Vascular Product Marketing Intern - Temporary role",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774514919,
+        "date_posted": 1773093649,
+        "url": "https://jobs.lever.co/penumbrainc/f3a3167e-4661-4b3c-8ff9-86bb1e6dea3c/apply",
+        "locations": [
+            "Alameda, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Penumbra-Inc",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
