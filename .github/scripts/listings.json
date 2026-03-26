@@ -25007,7 +25007,7 @@
         "company_name": "GE Appliances",
         "id": "eee6c9da-def1-454b-8f5d-8acac504abee",
         "title": "Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -276252,7 +276252,7 @@
         "company_name": "FactSet",
         "id": "e0398d7c-c0c4-4bed-b7ee-10c9734f242f",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -438987,7 +438987,7 @@
         "company_name": "Intel",
         "id": "08017b17-c395-4c3d-915e-5ffcf693b012",
         "title": "AI Applied Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
