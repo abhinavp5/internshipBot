@@ -1,118 +1,5 @@
 [
     {
-        "date_updated": 1756949361,
-        "url": "https://jobs.lever.co/AIFund/08af7df2-3085-4d7b-ad74-10767e2d93db",
-        "company_name": "AI Fund",
-        "title": "Full-Stack Engineer Intern",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "1dad2d7b-bd5c-4d6b-be7d-afa82377587a",
-        "date_posted": 1753798997,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "category": "Software Engineering"
-    },
-    {
-        "date_updated": 1755041484,
-        "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR103688",
-        "company_name": "Copart",
-        "title": "Software Engineering Intern",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "1d121ea9-1c36-4ed3-92b8-53ec2b8f7b92",
-        "date_posted": 1753800498,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Software Engineering"
-    },
-    {
-        "date_updated": 1755644959,
-        "url": "https://apply.workable.com/datavisor-jobs/j/8C50D4D8CC/",
-        "company_name": "Datavisor",
-        "title": "Software Engineer",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "a5d6e19b-4e0a-4fbf-972a-0a3fe88f0440",
-        "date_posted": 1753800872,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Software",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "date_updated": 1757385454,
-        "url": "https://jobs.ashbyhq.com/unify/95113ca1-4f4a-4435-8636-5758ce0d155e",
-        "company_name": "Unify",
-        "title": "Software Engineering Intern",
-        "locations": [
-            "San Francisco, CA",
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "8348b8d0-7571-43c9-9c2d-de459ec7aa54",
-        "date_posted": 1753801070,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "category": "Software Engineering"
-    },
-    {
-        "date_updated": 1755793142,
-        "url": "https://careers-gdms.icims.com/jobs/67268/embedded-software-engineering-co-op/job?mobile=false&width=1117&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420",
-        "company_name": "General Dynamics",
-        "title": "Embedded Software Engineering Co-Op",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "eb29a32a-e4c3-4bbc-8c2a-3f2706aaaee7",
-        "date_posted": 1753801436,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "category": "Hardware Engineering"
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Unify",
@@ -299619,7 +299506,7 @@
         "company_name": "Nokia",
         "id": "7d6846fa-a327-4fd8-895b-ea19e267f892",
         "title": "R&D Radio Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -320177,7 +320064,7 @@
         "company_name": "Kroll",
         "id": "6ec40ca1-95e5-4505-aee1-11667fbe29f1",
         "title": "Intern \u2013 Technology - Data Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2027",
@@ -351981,7 +351868,7 @@
         "company_name": "Cotiviti",
         "id": "11b203f4-3d3c-46a5-b9b4-d6165f3b8480",
         "title": "Intern \u2013 Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -367926,7 +367813,7 @@
         "company_name": "HARMAN International",
         "id": "5e2f2fac-2b21-412a-93f3-701758b241fb",
         "title": "Summer Intern - Product Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -391810,7 +391697,7 @@
         "company_name": "Cboe",
         "id": "bb14db70-3892-4452-91f5-90c0f41cacee",
         "title": "Intern Data Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -407207,7 +407094,7 @@
         "company_name": "CACI",
         "id": "bf38b155-333b-47ee-8aef-6a7fc791fecd",
         "title": "Data Analyst / BI Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -414636,7 +414523,7 @@
         "company_name": "Vanguard",
         "id": "bd38f584-facf-43d2-931c-9c24fea63de3",
         "title": "Technology Leadership Program - Investment Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -417523,7 +417410,7 @@
         "company_name": "Graco",
         "id": "005915c9-675f-4056-b4e9-a49ef3e5ead8",
         "title": "Application Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -425128,7 +425015,7 @@
         "company_name": "Horizon Industries",
         "id": "3ee8ce54-a29b-4b55-b4ff-b1df18340fa8",
         "title": "Appian Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -428715,7 +428602,7 @@
         "company_name": "Persistent Systems",
         "id": "8ccb0426-1192-4244-b02f-87736585dbe0",
         "title": "Intern \u2013 Hardware Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -438170,7 +438057,7 @@
         "company_name": "EquipmentShare",
         "id": "32119e72-d727-4b7b-aa5f-5089754e9172",
         "title": "Intern Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -440377,7 +440264,7 @@
         "company_name": "Airbus",
         "id": "719a7a0e-4683-45df-9884-7d961cfee40f",
         "title": "Student AI Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -441935,7 +441822,7 @@
         "company_name": "Sallie Mae",
         "id": "937f4857-f3dc-47cc-9041-c425efc2f1d1",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -444302,6 +444189,202 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Thorlabs",
+        "id": "ff12c2d7-4a17-4e9c-a727-c69ab34e9e19",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774534839,
+        "date_posted": 1774534839,
+        "url": "https://apply.workable.com/thorlabs/j/313D67D856/apply",
+        "locations": [
+            "Branchville, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Thorlabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Sharp Electronics",
+        "id": "1034255c-7a61-4de0-b7fd-fcae014a3824",
+        "title": "Intern Product Manager - Business Products",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774534471,
+        "date_posted": 1774534471,
+        "url": "https://careers-sharpusa.icims.com/jobs/8707/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Paramus, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Sharp-Electronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Applied Materials",
+        "id": "afa9b70e-7a67-4bd1-ac11-e9555a36dbb2",
+        "title": "Computer Science Intern - AI/ML Tools - Bachelor's",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1774538468,
+        "date_posted": 1774538468,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/HuntsvilleAL/XMLNAME-2026-Summer-Computer-Science-Intern--AI-ML-Tools----Bachelor-s--Huntsville--AL-_R2616144-1",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DXC Technology",
+        "id": "e83b1c18-664b-43a5-b2a6-45ae369be556",
+        "title": "DXC Degree Academic Programme - Data/AI",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774538300,
+        "date_posted": 1774538300,
+        "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---HAM---FARNBOROUGH/DXC-Degree-Academic-Programme---Data-AI_51576540",
+        "locations": [
+            "Aldershot, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/DXC-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DXC Technology",
+        "id": "b28b15bb-ff3d-429e-8a79-c4fab3bcca3d",
+        "title": "DXC Degree Apprentice Programme - Data/ AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774538307,
+        "date_posted": 1774538307,
+        "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---HAM---FARNBOROUGH/DXC-Degree-Apprentice-Programme---Data--AI---Farnborough_51576539",
+        "locations": [
+            "Aldershot, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/DXC-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Oshkosh",
+        "id": "fea0482e-b9d1-4b08-8562-7c9d8e41e9f8",
+        "title": "Electrical Design Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774538056,
+        "date_posted": 1774538056,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Pyle-United-Kingdom/Electrical-Design-Apprentice_R45329",
+        "locations": [
+            "Swansea, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Pennsylvania State University",
+        "id": "72636fd7-15a0-474b-8146-e83de77d2b08",
+        "title": "OriginLabs Technician and Lab Monitor",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774538199,
+        "date_posted": 1774538199,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-OriginLabs-Technician-and-Lab-Monitor_REQ_0000076919-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "FMC Corporation",
+        "id": "aa6544d6-458e-4776-8ed6-7a7f37c1a68e",
+        "title": "Market Intelligence & Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774537754,
+        "date_posted": 1774537754,
+        "url": "https://fmc.wd12.myworkdayjobs.com/FMC/job/Philadelphia-Pennsylvania/Market-Intelligence---Data-Analyst-Intern_R-1668",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/FMC-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hitachi",
+        "id": "759f419b-5f10-41a6-8705-c15f4515c31b",
+        "title": "Software Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774537729,
+        "date_posted": 1774537729,
+        "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern--Summer-2026-_R1012230",
+        "locations": [
+            "Scarborough, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hitachi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
