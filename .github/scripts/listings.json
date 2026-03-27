@@ -1,68 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Crowdstrike",
-        "id": "c25d8bdf-7ebf-4d8f-8763-f93229200038",
-        "title": "Frontend Engineer Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753913937,
-        "date_posted": 1753913937,
-        "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Remote/Frontend-Engineer-Intern---Fall-2025--Remote--CAN-_R24199",
-        "locations": [
-            "Remote in USA",
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Crowdstrike",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Baseten",
-        "id": "513fb75b-6101-4a0f-96ad-e809fb8e0916",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755593090,
-        "date_posted": 1753914653,
-        "url": "https://jobs.ashbyhq.com/baseten/4e6757f3-74c0-4d3d-9b0b-eb56ab561c37/application",
-        "locations": [
-            "San Francisco, CA",
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Baseten",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "HarbourVest",
-        "id": "bcf459e6-8c48-4c98-8acc-7425e5de6630",
-        "title": "Portfolio Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754506808,
-        "date_posted": 1753914550,
-        "url": "https://harbourvest.wd5.myworkdayjobs.com/hvp/job/Boston/Portfolio-Analytics-Intern_R1920",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/HarbourVest",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Microchip Technology",
         "id": "be8b60a3-a50d-4a68-b13b-31ddf6a50e32",
@@ -17022,57 +16960,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "DoorDash",
-        "id": "fc51eed0-10fe-458a-b0af-3ac57c0eb56b",
-        "title": "Machine Learning Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753942552,
-        "date_posted": 1753913851,
-        "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7117825",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/DoorDash",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "DoorDash",
-        "id": "4cc9e3b8-1ba7-4b1c-bc37-af455ee3eb4f",
-        "title": "Machine Learning Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1753942554,
-        "date_posted": 1753913850,
-        "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7108147",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/DoorDash",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
             "Master's"
         ]
     },
@@ -144588,7 +144475,7 @@
         "company_name": "Samsung Research America",
         "id": "5163dedf-7257-44da-84d0-e5e129ce5510",
         "title": "2026 Intern - ML/NLP Research - Spring/Summer/Fall",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -245590,7 +245477,7 @@
         "company_name": "Cisco",
         "id": "e2b71342-2453-4de6-841e-ee386d51d726",
         "title": "Software Engineer Embedded/Network Systems 1 - Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -275354,7 +275241,7 @@
         "company_name": "Cisco",
         "id": "11e2588b-9809-4a29-8008-61aadf78a19b",
         "title": "Software Engineer 2 \u2013 Co-op - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -356158,7 +356045,7 @@
         "company_name": "Bose",
         "id": "7ad82b8e-00ae-414a-a576-506b22756b0f",
         "title": "DSP/ML Research Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370435,7 +370322,7 @@
         "company_name": "GE Vernova",
         "id": "9afde047-49cd-4393-a186-a78513ed99a3",
         "title": "GE Vernova",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -386968,7 +386855,7 @@
         "company_name": "Graphcore",
         "id": "23c22952-0eb8-4d58-8ec7-347863fa3de1",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -386992,7 +386879,7 @@
         "company_name": "Graphcore",
         "id": "03d644d7-4610-4e57-ab93-c93a4598f877",
         "title": "Software Engineering Intern - Drivers",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -397630,7 +397517,7 @@
         "company_name": "Stantec",
         "id": "7f5ae97a-68e6-4496-8c27-b40d591cb8bf",
         "title": "GIS Intern - Geospatial Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -431214,7 +431101,7 @@
         "company_name": "Carnegie Mellon University",
         "id": "87999f7f-3a37-40b4-8397-143931d42487",
         "title": "LTI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -431260,7 +431147,7 @@
         "company_name": "Carnegie Mellon University",
         "id": "8a65771e-d5e0-4ed6-9a59-f5a352b79c8b",
         "title": "LTI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439127,7 +439014,7 @@
         "company_name": "Intel",
         "id": "b5f8192d-cd2a-458e-8aa2-87d3001e364b",
         "title": "Compiler Engineering Intern - SYCL Runtime",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -441591,7 +441478,7 @@
         "company_name": "Assurant",
         "id": "8a20d0c9-4155-4299-9842-63d7dd0c3b52",
         "title": "Technical Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -444123,7 +444010,7 @@
         "company_name": "Marqeta",
         "id": "bb21595c-bc72-4b64-9e96-bb9335d6b701",
         "title": "Product Security Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
