@@ -407949,7 +407949,7 @@
         "company_name": "John Deere",
         "id": "aa9ec381-0b23-450f-982c-ff9d230365b0",
         "title": "Part-Time Student - Data Science & Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -428985,7 +428985,7 @@
         "company_name": "Bread Financial",
         "id": "b333e462-a28c-4a74-9135-ef2e9373c46c",
         "title": "Rotational Program Associate - Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -441446,7 +441446,7 @@
         "company_name": "Intel",
         "id": "e7a7a763-164f-49ff-9d71-1acebf603d2b",
         "title": "Graduate AI and GPU Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445692,5 +445692,76 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SiFive",
+        "id": "de32672b-e299-4728-857a-e9714510e0de",
+        "title": "CPU Design Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774591625,
+        "date_posted": 1774591625,
+        "url": "https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/CPU-Design-Intern_R-101043",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SiFive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "NBCUniversal",
+        "id": "d3beceeb-585c-49d6-8478-ae5480fd807f",
+        "title": "Culinary Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774617561,
+        "date_posted": 1774591575,
+        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000117141938",
+        "locations": [
+            "North Hollywood, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/NBCUniversal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rolls-Royce Motorcars",
+        "id": "75cfa15d-4740-4b16-bde7-92b946730038",
+        "title": "Intern Technical Service Electrical or Mechanical & Digitalization",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774617068,
+        "date_posted": 1774591493,
+        "url": "https://jobs.bmwgroup.com/job/Woodcliff-Lake-Intern-Technical-Service-Electrical-or-Mechanical-&-Digitalization-New/1378078933/?ats=successfactors",
+        "locations": [
+            "Paramus, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
