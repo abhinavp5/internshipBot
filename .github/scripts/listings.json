@@ -265266,7 +265266,7 @@
         "company_name": "Modernizing Medicine",
         "id": "050d30bb-b369-4af1-8ffe-6c67ae483fa3",
         "title": "Security Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -320410,7 +320410,7 @@
         "company_name": "TikTok",
         "id": "c52f4de8-efd0-459f-855a-90acdcef5aff",
         "title": "User Experience Strategy & Tool Intern - Business Integrity - 2026 Summer BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -409449,7 +409449,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "aac2a64d-bbaa-45ab-b2fc-db9be329197c",
         "title": "Data and Reporting Analyst Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -434107,7 +434107,7 @@
         "company_name": "PG&E",
         "id": "df3aee23-b527-478b-81ef-421b848acee9",
         "title": "Data Analytics & Quality Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -436306,7 +436306,7 @@
         "company_name": "Torch Technologies",
         "id": "3728fc67-2d01-4ce6-b1b3-adae7f0f3c01",
         "title": "Software Design Engineer Intern \u2013 Returning Interns Only",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -438960,7 +438960,7 @@
         "company_name": "Bank of Montreal",
         "id": "1d03b9eb-f8b7-4e3d-9766-cd65e177e766",
         "title": "Anti-Money Laundering Data Scientist \u2013 Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445445,6 +445445,231 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Valsoft Corporation",
+        "id": "7ab40328-b075-4563-a6d9-cdfe89f0d9b9",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774574100,
+        "date_posted": 1774574100,
+        "url": "https://apply.workable.com/valsoft-corp/j/1A6B77BD9C/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Valsoft-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Roblox",
+        "id": "8c6252a1-56f3-4d68-be7a-ac42326b382a",
+        "title": "Machine Learning Engineer \u2013 Intern - Recommendation Systems",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774586592,
+        "date_posted": 1774574476,
+        "url": "https://careers.roblox.com/jobs/7755263?gh_jid=7755263",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Roblox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Calix",
+        "id": "801cac08-39cb-4df3-8e68-5beed46e6eaf",
+        "title": "Customer Experience Operations and Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774586907,
+        "date_posted": 1774574646,
+        "url": "https://calix.wd1.myworkdayjobs.com/External/job/Remote---North-America/Customer-Experience-Operations-and-Analytics-Intern_R-11544",
+        "locations": [
+            "La Ronge, SK, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Calix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "d2c75dd9-0097-4ea1-8a18-1679f8cffd47",
+        "title": "DevSecOps Software Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774586823,
+        "date_posted": 1774574582,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-REMOTE/DevSecOps-Software-Intern--Summer-2026--Remote-_01830286",
+        "locations": [
+            "Waterbury, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SonoThera",
+        "id": "73449e5e-97ad-4481-8313-ecb472548b5c",
+        "title": "Nucleic Acid Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774574647,
+        "date_posted": 1774574647,
+        "url": "https://job-boards.greenhouse.io/sonothera/jobs/4667479006",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SonoThera",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SonoThera",
+        "id": "35f33404-2f1e-45b9-8c9e-dafa62020f3b",
+        "title": "Protein Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774574647,
+        "date_posted": 1774574647,
+        "url": "https://job-boards.greenhouse.io/sonothera/jobs/4667478006",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SonoThera",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Zayo",
+        "id": "6ba93370-51ff-47ec-9b3b-d20bf83be859",
+        "title": "Metro Dark Fiber Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774574141,
+        "date_posted": 1774574141,
+        "url": "https://zayo.wd1.myworkdayjobs.com/zayo_careers/job/CO---Denver/Metro-Dark-Fiber-Intern_R0016183",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Zayo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Zayo",
+        "id": "b8142b7e-48f2-4f2e-9107-029512a3b86b",
+        "title": "Intern Test and Acceptance",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774585782,
+        "date_posted": 1774574141,
+        "url": "https://zayo.wd1.myworkdayjobs.com/zayo_careers/job/Remote---CO/Intern-Test---Acceptance-1_R0016181",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Zayo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GSK",
+        "id": "2444b834-e484-47cb-a0f5-fd3c08132c77",
+        "title": "Business Intelligence Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774586879,
+        "date_posted": 1774574636,
+        "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Canada---Quebec---Laval/Business-Intelligence-Summer-Student_437838-1",
+        "locations": [
+            "Laval, QC, Canada",
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/GSK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "050ecd14-ccb3-4929-8187-4611f0b072a3",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774574601,
+        "date_posted": 1774574601,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Engineering-Intern--Summer-2026---Onsite-_01833841",
+        "locations": [
+            "Annapolis, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
