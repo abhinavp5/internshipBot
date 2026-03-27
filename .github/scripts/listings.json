@@ -1,33 +1,5 @@
 [
     {
-        "date_updated": 1756119250,
-        "url": "https://www.squarepoint-capital.com/open-opportunities?id=243853",
-        "company_name": "Squarepoint",
-        "title": "Intern Quant Researcher",
-        "locations": [
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2026",
-            "Summer 2025",
-            "Fall 2025",
-            "Winter 2025",
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "90b18f30-a2fb-4d61-9c01-ebce10eeca83",
-        "date_posted": 1753885793,
-        "company_url": "",
-        "is_visible": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "category": "Quantitative Finance"
-    },
-    {
         "date_updated": 1753886304,
         "url": "https://careers.aqr.com/jobs/open-positions/greenwich-ct/2026-portfolio-implementation-trading-and-portfolio-finance-summer-analyst/7022101?gh_jid=7022101#/",
         "company_name": "AQR",
@@ -99367,7 +99339,7 @@
         "company_name": "Goldman Sachs",
         "id": "02da9991-66a0-464f-93e7-538c24d20855",
         "title": "Summer Associate - FICC and Equities - Sales and Trading - Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -164496,7 +164468,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "66abaf64-f127-477f-a2b2-f86f4231a54c",
         "title": "Corporate Parallel Co-op - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -188559,7 +188531,7 @@
         "company_name": "Goldman Sachs",
         "id": "8af59657-21f7-4630-9e93-522da2b4c807",
         "title": "2026 \u2013 Summer Analyst - Americas - New York City Area - FICC and Equities - Sales and Trading - Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -216941,7 +216913,7 @@
         "company_name": "Zoox",
         "id": "a2e37ceb-7776-4bfa-9a11-8c167a2002e2",
         "title": "Machine Learning Engineer Intern - Autonomy Behavior",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -225346,7 +225318,7 @@
         "company_name": "Machina Labs",
         "id": "5d7235e7-0fc2-4adb-8b06-db0592c1b0ff",
         "title": "Frontend Software Engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -226315,7 +226287,7 @@
         "company_name": "NewsBreak",
         "id": "8261c45f-0003-4ded-af10-939ad6ab3ca8",
         "title": "Engineering High-Potential Launch Program Intern to Full-Time Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -248413,7 +248385,7 @@
         "company_name": "Zipline",
         "id": "a5260dea-6b13-420e-9bfa-3a6f0fae5509",
         "title": "System Validation & Automation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -248542,7 +248514,7 @@
         "company_name": "Zipline",
         "id": "601491a4-5de0-4f45-b6eb-40afebbb6a1b",
         "title": "Motor Control Firmware",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -248585,7 +248557,7 @@
         "company_name": "Zipline",
         "id": "12a46539-a1cd-4b1c-bbf4-fc800e0cd9aa",
         "title": "Spatial Planning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -295991,7 +295963,7 @@
         "company_name": "Vendelux",
         "id": "08a8a761-d653-47a6-87d0-fb6aeef65d5e",
         "title": "Part Time Data Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025"
@@ -302878,7 +302850,7 @@
         "company_name": "Airspace Intelligence",
         "id": "732340f6-9e9b-43d0-a57e-fab14dd1c648",
         "title": "Software Engineer Intern - Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -312902,7 +312874,7 @@
         "company_name": "Boston Consulting Group",
         "id": "aba3cf97-4ffd-4dce-876d-ab3305231512",
         "title": "AI Engineer Intern - BCG X",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -312926,7 +312898,7 @@
         "company_name": "Boston Consulting Group",
         "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -362195,7 +362167,7 @@
         "company_name": "Stoke Space",
         "id": "62ea003a-c4c9-4452-8e1d-3de5fc406dd2",
         "title": "Intern - Software",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -365321,7 +365293,7 @@
         "company_name": "Stoke Space",
         "id": "e13f727c-d75a-4a9a-a83d-f55cb0f9b841",
         "title": "Intern - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -388744,7 +388716,7 @@
         "company_name": "Zipline",
         "id": "eab14d03-e340-4e7e-b889-ec0f7a50cdba",
         "title": "Perception Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -391329,7 +391301,7 @@
         "company_name": "Viatris",
         "id": "877ed4dd-09cd-4837-89f5-ee72d21776ee",
         "title": "Intern \u2013 People Insights",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -400034,7 +400006,7 @@
         "company_name": "Field AI",
         "id": "8faaffc1-266b-4097-ad97-28908c11ed82",
         "title": "Field Application Engineer-Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -412959,7 +412931,7 @@
         "company_name": "Assurant",
         "id": "1adb3c50-af75-4061-bec3-5d4885f40b24",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -414551,7 +414523,7 @@
         "company_name": "Zoox",
         "id": "c4909de5-e351-4362-bcfa-9b4ca960316a",
         "title": "Student Worker - Applied AI & LLM Workflows",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -414812,7 +414784,7 @@
         "company_name": "Zoox",
         "id": "f1fefd25-01c5-445f-a372-ed85ad2a2bb4",
         "title": "Part-time Student Worker",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -423131,7 +423103,7 @@
         "company_name": "GE Vernova",
         "id": "b41faabe-195e-4bbc-b66b-4731be577a2f",
         "title": "Controls Application Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -424011,7 +423983,7 @@
         "company_name": "GE Vernova",
         "id": "2bfd1c4d-795c-497f-b0d6-1d455cd67aeb",
         "title": "Controls Application Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -429637,7 +429609,7 @@
         "company_name": "Talkspace",
         "id": "447cca8a-203d-4734-950d-384438326d1b",
         "title": "Marketing Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -433475,7 +433447,7 @@
         "company_name": "Emory University",
         "id": "4af5d856-a22a-44bb-b21a-36c3a49f11a4",
         "title": "Investment Analyst - Emory Investment Management",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -434200,7 +434172,7 @@
         "company_name": "OLG",
         "id": "488ff7bc-1f5b-460a-97a1-b468263db919",
         "title": "Lottery Product & iLottery Marketing Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -439775,7 +439747,7 @@
         "company_name": "CACI",
         "id": "2dee3bda-ef5d-4198-bc35-ee22bbbeca5a",
         "title": "Embedded Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439798,7 +439770,7 @@
         "company_name": "DXC Technology",
         "id": "29e9077a-1f8c-4784-b396-ecf106c85644",
         "title": "DXC Academic Programme Degree Apprenticeship in Data & AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -440440,7 +440412,7 @@
         "company_name": "GE Vernova",
         "id": "7439f59d-7849-4135-905d-ac5f88ad7b9b",
         "title": "Controls Application Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -440463,7 +440435,7 @@
         "company_name": "GE Vernova",
         "id": "5d81b36e-782f-45df-a048-ba3d5bc7a21c",
         "title": "Controls Application Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -441404,7 +441376,7 @@
         "company_name": "DXC Technology",
         "id": "4475bfac-4218-4b36-9bec-5ebb2c6694a0",
         "title": "Degree Apprenticeship in Data & AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -443662,7 +443634,7 @@
         "company_name": "Thorlabs",
         "id": "ff12c2d7-4a17-4e9c-a727-c69ab34e9e19",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -445008,7 +444980,7 @@
         "company_name": "Bank of Montreal",
         "id": "074a664a-2e1d-4f92-bcdf-220a23022a72",
         "title": "Software Developer \u2013 Co-op/Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -445031,7 +445003,7 @@
         "company_name": "Bank of Montreal",
         "id": "7214e29d-faaf-4e62-ade6-72dded419176",
         "title": "Software Developer \u2013 Co-op/Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -445102,7 +445074,7 @@
         "company_name": "Copart",
         "id": "2a29fc45-0277-47ba-80e6-4d49802212d4",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -445334,7 +445306,7 @@
         "company_name": "BECU",
         "id": "db556438-8dd5-4e87-8b34-9e641b77d1aa",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -445453,7 +445425,7 @@
         "company_name": "Valsoft Corporation",
         "id": "7ab40328-b075-4563-a6d9-cdfe89f0d9b9",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -445497,7 +445469,7 @@
         "company_name": "Calix",
         "id": "801cac08-39cb-4df3-8e68-5beed46e6eaf",
         "title": "Customer Experience Operations and Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -445655,7 +445627,7 @@
         "company_name": "RTX",
         "id": "050ecd14-ccb3-4929-8187-4611f0b072a3",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445762,6 +445734,54 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "5f65a98d-7f74-4256-ac22-44ba5c68e076",
+        "title": "Copyright Solution Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774591943,
+        "date_posted": 1774591943,
+        "url": "https://lifeattiktok.com/search/7615924066587232517",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Coherent ",
+        "id": "07ba05d8-6452-43f3-9db5-d83e57a57595",
+        "title": "Intern-Engineering and Technology",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774517066,
+        "date_posted": 1773785891,
+        "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011219",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Coherent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
