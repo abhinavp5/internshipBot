@@ -1,51 +1,5 @@
 [
     {
-        "date_updated": 1756460537,
-        "url": "https://asana.com/jobs/apply/7078152?gh_jid=7078152",
-        "company_name": "Asana",
-        "title": "Data Science Intern",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "polinavishnev",
-        "id": "81e07779-67eb-4cc6-b58d-38fd96a0f54e",
-        "date_posted": 1753897997,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "category": "Data Science, AI & Machine Learning"
-    },
-    {
-        "date_updated": 1756460559,
-        "url": "https://asana.com/jobs/apply/7078192?gh_jid=7078192",
-        "company_name": "Asana",
-        "title": "Data Science Intern",
-        "locations": [
-            "Vancouver, Canada"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "polinavishnev",
-        "id": "2106be07-d00e-471c-82e2-941a6a192557",
-        "date_posted": 1753898058,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "category": "Data Science, AI & Machine Learning"
-    },
-    {
         "date_updated": 1753972941,
         "url": "https://econtrols.applytojob.com/apply/CPny6ePXTz/IoT-Software-Developer-Intern-Summer-2026",
         "company_name": "EControls",
@@ -14248,7 +14202,7 @@
         "company_name": "ByteDance",
         "id": "80d6a52f-8b0e-41cb-9ddd-0c97a3c7e8ec",
         "title": "Research Intern - Infrastructure System Lab",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -14271,7 +14225,7 @@
         "company_name": "ByteDance",
         "id": "7bc2ed3b-fb22-486b-a610-140134aed186",
         "title": "Research Intern - Infrastructure System Lab",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -111705,7 +111659,7 @@
         "company_name": "ByteDance",
         "id": "81a22594-7cb3-4fa8-a10f-7d86bc57fcf6",
         "title": "Research Scientist Intern - AI Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -150413,7 +150367,7 @@
         "company_name": "Waymo",
         "id": "29bfdf79-3266-4090-a984-790802c510f2",
         "title": "2026 Summer Intern - PhD - Software Engineer - Strategic Selection",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -216646,7 +216600,7 @@
         "company_name": "Zoox",
         "id": "a2e37ceb-7776-4bfa-9a11-8c167a2002e2",
         "title": "Machine Learning Engineer Intern - Autonomy Behavior",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -237678,7 +237632,7 @@
         "company_name": "Nokia",
         "id": "44ca0392-6474-41c1-bda5-48317a5983c3",
         "title": "Hardware Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -276537,7 +276491,7 @@
         "company_name": "Premier",
         "id": "ec9cda6e-feaf-4ca0-a81b-7c4b7184d6dc",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -277474,7 +277428,7 @@
         "company_name": "Persistent Systems",
         "id": "e2a13cc4-961d-4677-a829-cc13bf2c1704",
         "title": "Intern Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -278539,7 +278493,7 @@
         "company_name": "Crane Co.",
         "id": "78f24e1e-6674-42e8-8ceb-2de418d6437f",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -283885,7 +283839,7 @@
         "company_name": "Minitab",
         "id": "492a3dbc-a15b-4f39-94a6-a1fd5fccf6c5",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -324221,7 +324175,7 @@
         "company_name": "Rugged Robotics",
         "id": "0a19572c-8a9d-45b6-bf5e-22f814c83ab5",
         "title": "Robotic Software Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -324800,7 +324754,7 @@
         "company_name": "10a Labs",
         "id": "a5675717-baed-4913-a30b-9f333e486d15",
         "title": "Machine Learning Fellowship",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -360139,7 +360093,7 @@
         "company_name": "Interac",
         "id": "eaca6b18-c757-41b6-9e7a-cb9110485af5",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -361996,7 +361950,7 @@
         "company_name": "Bree",
         "id": "42b9b1a6-8748-4194-9d9c-126cb4ae4e38",
         "title": "Co-op & Intern Program - All Roles",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -362786,7 +362740,7 @@
         "company_name": "Bree",
         "id": "6d0eb975-bfcf-4327-a076-0be9f72ce55d",
         "title": "Software Engineer \u2013 Backend Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -362840,7 +362794,7 @@
         "company_name": "Bree",
         "id": "4a9e8628-3761-4043-9b92-bf7c1b24c62a",
         "title": "Software Engineer \u2013 Product / Mobile / Full-Stack Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -377178,7 +377132,7 @@
         "company_name": "Booz Allen",
         "id": "0193a7e2-b138-464b-a8fe-dbdd8f569dbf",
         "title": "University Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -402969,7 +402923,7 @@
         "company_name": "Avnet",
         "id": "e528a9ce-a538-4ad5-b90a-bb08035e95ea",
         "title": "Orderiq Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -403159,7 +403113,7 @@
         "company_name": "Avnet",
         "id": "0d5c7974-921c-4e98-ab17-d2e0747a6597",
         "title": "Orderiq Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -442534,7 +442488,7 @@
         "company_name": "Daimler Truck",
         "id": "ebf86021-363f-4991-b697-5e4d27a93e7e",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443881,7 +443835,7 @@
         "company_name": "Amentum",
         "id": "db865730-2111-47c7-8ff6-a6cef7590bf2",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445089,7 +445043,7 @@
         "company_name": "Applied Materials",
         "id": "6f0a65e5-a954-40aa-b9c9-d00ef4edcdab",
         "title": "Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
