@@ -216941,7 +216941,7 @@
         "company_name": "Zoox",
         "id": "a2e37ceb-7776-4bfa-9a11-8c167a2002e2",
         "title": "Machine Learning Engineer Intern - Autonomy Behavior",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -248413,7 +248413,7 @@
         "company_name": "Zipline",
         "id": "a5260dea-6b13-420e-9bfa-3a6f0fae5509",
         "title": "System Validation & Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -248542,7 +248542,7 @@
         "company_name": "Zipline",
         "id": "601491a4-5de0-4f45-b6eb-40afebbb6a1b",
         "title": "Motor Control Firmware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -248585,7 +248585,7 @@
         "company_name": "Zipline",
         "id": "12a46539-a1cd-4b1c-bbf4-fc800e0cd9aa",
         "title": "Spatial Planning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -290750,7 +290750,7 @@
         "company_name": "Thales",
         "id": "f4093381-2837-4523-b1dc-6205c3ca83b0",
         "title": "2026 Engineering Student Placement - Electronics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -295318,7 +295318,7 @@
         "company_name": "Northrop Grumman",
         "id": "e0c0e8b2-faf6-43ee-bb9c-09e3a9f66eb8",
         "title": "Principal Systems Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -295991,7 +295991,7 @@
         "company_name": "Vendelux",
         "id": "08a8a761-d653-47a6-87d0-fb6aeef65d5e",
         "title": "Part Time Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025"
@@ -337894,7 +337894,7 @@
         "company_name": "Roche",
         "id": "5d91a247-5d2c-41bf-aeb6-b7e05cf46792",
         "title": "2026 Summer Intern - Finance Insights and Data Analyst - Pleasanton",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -388744,7 +388744,7 @@
         "company_name": "Zipline",
         "id": "eab14d03-e340-4e7e-b889-ec0f7a50cdba",
         "title": "Perception Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -429637,7 +429637,7 @@
         "company_name": "Talkspace",
         "id": "447cca8a-203d-4734-950d-384438326d1b",
         "title": "Marketing Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -432752,7 +432752,7 @@
         "company_name": "The Walt Disney Company",
         "id": "69c9e76c-100d-491a-a9e8-f29fce18781f",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -433243,7 +433243,7 @@
         "company_name": "The Walt Disney Company",
         "id": "7b2c4ebe-530c-44ef-a5d9-6d698b578398",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -433380,7 +433380,7 @@
         "company_name": "DevRev",
         "id": "a54a37a2-0188-4d45-9847-8f39a4c61ca1",
         "title": "Member of Technical Staff Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -434200,7 +434200,7 @@
         "company_name": "OLG",
         "id": "488ff7bc-1f5b-460a-97a1-b468263db919",
         "title": "Lottery Product & iLottery Marketing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -436446,7 +436446,7 @@
         "company_name": "Norfolk Southern",
         "id": "b98420ba-d552-42a3-b01f-4972527616b4",
         "title": "Digital & Tech Data Visualization Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439798,7 +439798,7 @@
         "company_name": "DXC Technology",
         "id": "29e9077a-1f8c-4784-b396-ecf106c85644",
         "title": "DXC Academic Programme Degree Apprenticeship in Data & AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -440127,7 +440127,7 @@
         "company_name": "SitusAMC",
         "id": "5ca2ca06-7310-4881-9348-2e63a388d54f",
         "title": "Intern Data & Imaging Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -441404,7 +441404,7 @@
         "company_name": "DXC Technology",
         "id": "4475bfac-4218-4b36-9bec-5ebb2c6694a0",
         "title": "Degree Apprenticeship in Data & AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443662,7 +443662,7 @@
         "company_name": "Thorlabs",
         "id": "ff12c2d7-4a17-4e9c-a727-c69ab34e9e19",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445453,7 +445453,7 @@
         "company_name": "Valsoft Corporation",
         "id": "7ab40328-b075-4563-a6d9-cdfe89f0d9b9",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
