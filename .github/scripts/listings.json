@@ -8796,7 +8796,7 @@
         "company_name": "Adobe",
         "id": "0deb1be4-864f-4b1e-b532-19c144d341f9",
         "title": "2026 Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -225346,7 +225346,7 @@
         "company_name": "Machina Labs",
         "id": "5d7235e7-0fc2-4adb-8b06-db0592c1b0ff",
         "title": "Frontend Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -255842,7 +255842,7 @@
         "company_name": "Modernizing Medicine",
         "id": "6216f384-f993-45c1-856e-79e0089f3d81",
         "title": "Software Architect Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -270289,7 +270289,7 @@
         "company_name": "CSAA Insurance Group",
         "id": "2d8e2870-24a4-4c95-b2c6-fe8b5f45b9bb",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -309221,7 +309221,7 @@
         "company_name": "Vendelux",
         "id": "58ae974d-ee3d-44c5-bcbd-c75bfd65521d",
         "title": "Tech Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2025"
@@ -310418,7 +310418,7 @@
         "company_name": "BP",
         "id": "a04117ae-b5ac-41ed-b6e4-b865a19989c9",
         "title": "Summer Internship - Technology - Geospatial",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -312902,7 +312902,7 @@
         "company_name": "Boston Consulting Group",
         "id": "aba3cf97-4ffd-4dce-876d-ab3305231512",
         "title": "AI Engineer Intern - BCG X",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -312926,7 +312926,7 @@
         "company_name": "Boston Consulting Group",
         "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -335949,7 +335949,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "d8dc5c28-c65b-4b8b-a6f1-27e0c10b6a26",
         "title": "Data Platforms Engineering Grad Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -362195,7 +362195,7 @@
         "company_name": "Stoke Space",
         "id": "62ea003a-c4c9-4452-8e1d-3de5fc406dd2",
         "title": "Intern - Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -365321,7 +365321,7 @@
         "company_name": "Stoke Space",
         "id": "e13f727c-d75a-4a9a-a83d-f55cb0f9b841",
         "title": "Intern - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -414551,7 +414551,7 @@
         "company_name": "Zoox",
         "id": "c4909de5-e351-4362-bcfa-9b4ca960316a",
         "title": "Student Worker - Applied AI & LLM Workflows",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -414812,7 +414812,7 @@
         "company_name": "Zoox",
         "id": "f1fefd25-01c5-445f-a372-ed85ad2a2bb4",
         "title": "Part-time Student Worker",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -419210,7 +419210,7 @@
         "company_name": "Repsol",
         "id": "cde5b7b6-4350-462e-b1e7-b3390ccf6aa2",
         "title": "Subsurface Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -431884,7 +431884,7 @@
         "company_name": "The Walt Disney Company",
         "id": "650c07b8-e500-464e-878a-ea2a73d18e23",
         "title": "AI Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -432631,7 +432631,7 @@
         "company_name": "The Walt Disney Company",
         "id": "4441e7d9-a3e4-4a32-a02d-be92e024be25",
         "title": "AI Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437431,7 +437431,7 @@
         "company_name": "Flextronics International",
         "id": "8c7a12c3-f6b5-4871-bf87-c03c30d80e48",
         "title": "Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445102,7 +445102,7 @@
         "company_name": "Copart",
         "id": "2a29fc45-0277-47ba-80e6-4d49802212d4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445497,7 +445497,7 @@
         "company_name": "Calix",
         "id": "801cac08-39cb-4df3-8e68-5beed46e6eaf",
         "title": "Customer Experience Operations and Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445671,5 +445671,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Newsela",
+        "id": "f3181ca1-d854-4e30-925c-61bcff3a9569",
+        "title": "Impact Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774574777,
+        "date_posted": 1774574777,
+        "url": "https://job-boards.greenhouse.io/newsela/jobs/7702405",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Newsela",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
