@@ -217289,7 +217289,7 @@
         "company_name": "Cisco",
         "id": "cdb1294e-74ca-496d-8b2e-58dcbda9d67f",
         "title": "Hardware Engineer 1 - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -218164,7 +218164,7 @@
         "company_name": "Cisco",
         "id": "6e891cb1-1cbd-4d19-a472-949beff3a81b",
         "title": "Hardware Engineer 1",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -326903,7 +326903,7 @@
         "company_name": "Magna",
         "id": "3776ff99-9fad-48fb-b0e7-f3ee9a5cb1c5",
         "title": "Student - Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
