@@ -1,33 +1,5 @@
 [
     {
-        "date_updated": 1755782563,
-        "url": "https://jobs.ashbyhq.com/allium/5d697ce5-b820-45c0-a101-86a05e1fb15e",
-        "company_name": "Allium",
-        "title": "Engineering Intern - AI",
-        "locations": [
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2026",
-            "Summer 2025",
-            "Fall 2025",
-            "Winter 2025",
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "d1ae8439-77a5-4545-a92d-a994cfe2603a",
-        "date_posted": 1753895888,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Data Science, AI & Machine Learning",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1756460537,
         "url": "https://asana.com/jobs/apply/7078152?gh_jid=7078152",
         "company_name": "Asana",
@@ -17239,29 +17211,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Sezzle",
-        "id": "17f81185-2cb2-4e3d-a36f-3765e76a1fe8",
-        "title": "Product Intern - Quality & Feature Validation",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753894106,
-        "date_posted": 1753894105,
-        "url": "https://job-boards.greenhouse.io/sezzle/jobs/6542816003",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sezzle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -278011,7 +277960,7 @@
         "company_name": "KLA",
         "id": "6d5dd94f-5ebb-43bd-b9ee-ded0ecd21256",
         "title": "Product Development Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -303757,7 +303706,7 @@
         "company_name": "KLA",
         "id": "68a5c4c4-0281-4735-9b76-9aa50bcaed3a",
         "title": "Product Development Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -390572,7 +390521,7 @@
         "company_name": "Red Bull",
         "id": "cbbec3de-b748-4fbd-8f85-f4cee59223c2",
         "title": "Ecommerce Category Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -434282,7 +434231,7 @@
         "company_name": "Redhorse",
         "id": "3d3a91db-16ba-4ae3-8d62-07a6760c0e4e",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437046,7 +436995,7 @@
         "company_name": "GSK",
         "id": "5653b1d1-7109-4f79-bc4a-024d934a0fcc",
         "title": "Insights & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
