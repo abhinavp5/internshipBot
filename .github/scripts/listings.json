@@ -824,26 +824,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "AppLovin",
-        "id": "791b1718-d06b-413e-afa6-f462e66de6c5",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753980490,
-        "date_posted": 1753980490,
-        "url": "https://boards.greenhouse.io/applovin/jobs/4552288006",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/AppLovin",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "BorgWarner",
         "id": "33987f80-ae9c-4965-b728-c5695237c165",
@@ -365531,7 +365511,7 @@
         "company_name": "Okta",
         "id": "19984a65-1fe1-452c-b8cc-a5fc4a85bac5",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
