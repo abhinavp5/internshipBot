@@ -620,27 +620,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "DotDash Meredith",
-        "id": "acb8c9a5-09d5-4a77-9d59-725ff8b89efb",
-        "title": "Software Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1753989430,
-        "date_posted": 1753989430,
-        "url": "https://meredith.wd5.myworkdayjobs.com/en-US/EXT/job/Alberta-CAN-Remote/Software-Developer-Intern_JR14724",
-        "locations": [
-            "Alberta, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/DotDash-Meredith",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Hudl",
         "id": "26f248b0-f4d4-422a-92d1-ffeef39806be",
