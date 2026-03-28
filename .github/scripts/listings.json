@@ -207629,7 +207629,7 @@
         "company_name": "Zoox",
         "id": "4b3af933-e5d9-4dfd-b141-ddaad9769cb3",
         "title": "Motion Planning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -334773,7 +334773,7 @@
         "company_name": "Sharp Electronics",
         "id": "03e119ef-f26f-4b47-b102-4347145c6ff5",
         "title": "Intern Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -402221,7 +402221,7 @@
         "company_name": "Gulfstream",
         "id": "18163d8e-dfa4-46a9-a66d-4b989ff9cdc7",
         "title": "Collegiate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -427100,7 +427100,7 @@
         "company_name": "Public Service Enterprise Group",
         "id": "0bf428ae-cfce-4133-b8cd-91fd4d39a862",
         "title": "Technical Intern - Nuclear Innovation Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -436871,7 +436871,7 @@
         "company_name": "T-Mobile",
         "id": "15202e29-af2a-44c7-bea2-6207a9f115a8",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445116,6 +445116,74 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Lendbuzz",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American University",
+        "id": "2c008acc-002e-4c36-9e12-97d50a1dfaa9",
+        "title": "Data Assistant - Student - Federal Work Study",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774689349,
+        "date_posted": 1774649062,
+        "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Data-Assistant--Student---FWS-_R4082",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ChampionX",
+        "id": "fe1d8359-c446-49b6-b698-de81d386e18e",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774688848,
+        "date_posted": 1774688848,
+        "url": "https://championx.wd1.myworkdayjobs.com/championx_external/job/USA---Tennessee---Knoxville/Intern_R00135420",
+        "locations": [
+            "Knoxville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/ChampionX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "019e1d7d-c282-436e-b4f7-a5a717536dd9",
+        "title": "ADAS Hardware Optics Development Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774688654,
+        "date_posted": 1774649221,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000117325527",
+        "locations": [
+            "Plymouth, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
