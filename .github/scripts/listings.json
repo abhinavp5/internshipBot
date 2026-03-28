@@ -401804,7 +401804,7 @@
         "company_name": "Ciena",
         "id": "a47e9e90-7a0e-425b-9cb3-99611a4fb6b9",
         "title": "Photonic Hardware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445236,6 +445236,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rocket Mortgage",
+        "id": "1dbafedb-9843-40dc-9e04-f8aff6b1face",
+        "title": "Data Analyst & Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774649159,
+        "date_posted": 1774649159,
+        "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Remote---California/Data-Analyst---Engineer-Intern---Summer-2026_R-081926",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Mortgage",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
