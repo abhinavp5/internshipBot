@@ -151542,7 +151542,7 @@
         "company_name": "Altera Corporation",
         "id": "2882a9a0-b1c1-488a-b75c-a5e7bcb5a6ef",
         "title": "Internship - FPGA Hardware Design Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -170231,7 +170231,7 @@
         "company_name": "PennState University",
         "id": "2c4a4350-f766-4583-92db-fbe8316598ea",
         "title": "Part Time \u2013 Internship - Physics",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -286869,7 +286869,7 @@
         "company_name": "Marsh",
         "id": "61c905e5-2281-4abd-afcc-83089ab79869",
         "title": "Oliver Wyman - Data & Analytics Research Fellowship - Newcastle upon Tyne",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -334574,7 +334574,7 @@
         "company_name": "Gulfstream",
         "id": "d68fe1f6-46b6-4f87-bdb7-8e42664bc9dd",
         "title": "Collegiate Associate Intern - IT",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -377079,7 +377079,7 @@
         "company_name": "First American",
         "id": "5a71a69d-be0f-40e0-aba6-20e079f77877",
         "title": "Business Systems Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -388941,7 +388941,7 @@
         "company_name": "Microchip Technology",
         "id": "5ed8e3cf-83d7-49b8-92f5-0f29ba50e40a",
         "title": "Intern \u2013 Administrative - Finance: Data Analysis and Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -398440,7 +398440,7 @@
         "company_name": "Autodesk",
         "id": "8a79d6f6-cc7b-488b-917f-377de5413492",
         "title": "Intern AI Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -400318,7 +400318,7 @@
         "company_name": "Caliber",
         "id": "8e7adf05-ebe4-4e1a-80cb-04e022b78fc2",
         "title": "Technician Apprentice Program \u2013 Body Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -414797,7 +414797,7 @@
         "company_name": "Northrop Grumman",
         "id": "4b3ff341-926d-40cd-9f89-3a52df428b20",
         "title": "Intern Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -416146,7 +416146,7 @@
         "company_name": "Healthfirst",
         "id": "0f4e3b78-c374-4405-9084-cf9f6f138ebc",
         "title": "Application Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -420231,7 +420231,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "8f47f913-b0a5-44a3-b3f6-518091d53bd8",
         "title": "Structural Technician",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -420967,7 +420967,7 @@
         "company_name": "University of Texas - Austin",
         "id": "ca17dddd-7ae5-4247-af34-2c3f6fb482a9",
         "title": "Applied Sports Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -425856,7 +425856,7 @@
         "company_name": "IDEXX",
         "id": "81b4d3f0-dae8-4fb3-88b2-44cf521eea88",
         "title": "Enterprise Cloud Spend Optimization Intern - Finops",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -433343,7 +433343,7 @@
         "company_name": "The Walt Disney Company",
         "id": "0add4719-4056-4255-9113-6898de232eaa",
         "title": "Software Engineer Intern - Data Products",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -436043,7 +436043,7 @@
         "company_name": "Pennsylvania State University",
         "id": "47999105-f836-49ed-9ce5-0cb2205b08d8",
         "title": "Part-Time Research Assistant - Meteorology & Atmospheric Science",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -436848,7 +436848,7 @@
         "company_name": "T-Mobile",
         "id": "1521fad0-f1cf-4bae-bff3-b51d5a0ce1ce",
         "title": "Software Engineering ServiceNow Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -438037,7 +438037,7 @@
         "company_name": "Moderna",
         "id": "cdcd177d-b4dc-4ee0-afb1-2cc96af4d805",
         "title": "Data Analytics Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -441008,7 +441008,7 @@
         "company_name": "Fiserv",
         "id": "d013e0e3-a075-42e4-9e03-017cef9409cc",
         "title": "Corporate Intern Program-Application Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -444435,7 +444435,7 @@
         "company_name": "Roblox",
         "id": "8c6252a1-56f3-4d68-be7a-ac42326b382a",
         "title": "Machine Learning Engineer \u2013 Intern - Recommendation Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445026,6 +445026,101 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Altera Corporation",
+        "id": "dc37eea0-7f2c-442b-b5e9-647f2c094cb2",
+        "title": "Embedded Solutions Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774684297,
+        "date_posted": 1774649113,
+        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Embedded-Solutions-Intern_R02265",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Altera-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TSC",
+        "id": "470cb7e1-316c-41ae-9225-f938e330c8dc",
+        "title": "Hardware Engineer Co-Op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774683791,
+        "date_posted": 1774649006,
+        "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Plymouth-MA/Hardware-Engineering-Summer-Co-Op_JR2480",
+        "locations": [
+            "Plymouth, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/3d3125df-3bbc-48fc-993c-8e2d0db65649",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Information Technology",
+        "id": "83205539-3575-4881-92eb-7fe6de6983e8",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774683902,
+        "date_posted": 1774649034,
+        "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NY-Albany/Summer-2026-Software-Developer--Intern-_RQ216769",
+        "locations": [
+            "Albany, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GDIT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lendbuzz",
+        "id": "7d05483c-a853-48de-a66f-9952bbcb47cf",
+        "title": "Machine Learning Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774683961,
+        "date_posted": 1774649185,
+        "url": "https://jobs.lever.co/lendbuzz/4b8de709-3ea9-4fe9-844d-77aa95e8476f/apply",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lendbuzz",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
