@@ -16373,29 +16373,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Other",
-        "company_name": "National Indemnity Company",
-        "id": "a26c244e-a5be-4f50-8f58-dde1d6747116",
-        "title": "Systems Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1753987482,
-        "date_posted": 1753987482,
-        "url": "https://nationalindemnity.wd5.myworkdayjobs.com/en-US/NICO/job/Omaha-NE/Systems-Intern_R14117-1",
-        "locations": [
-            "Omaha, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/National-Indemnity-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Spark Climate Solutions",
         "id": "9cccbe0c-400e-45ba-87a1-465f1f121a14",
@@ -401684,7 +401661,7 @@
         "company_name": "Ciena",
         "id": "a47e9e90-7a0e-425b-9cb3-99611a4fb6b9",
         "title": "Photonic Hardware Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -445270,6 +445247,31 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Cloudflare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KBR",
+        "id": "26ab9571-34e4-43fb-b869-594777c284f4",
+        "title": "Mission Technology Solutions \u2013 Win/Loss Intelligence & Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774660152,
+        "date_posted": 1774660152,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/San-Diego-California/Mission-Technology-Solutions--MTS----Win-Loss-Intelligence---Data-Analytics-Intern_R2121065",
+        "locations": [
+            "Washington, DC",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KBR",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
