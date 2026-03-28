@@ -105,26 +105,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Wealth.com",
-        "id": "3b9c9e36-fa52-4dd0-9a56-09a52dfd6e31",
-        "title": "Applied Scientist - AI/ML",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754506591,
-        "date_posted": 1753978307,
-        "url": "https://jobs.lever.co/WealthFinancialTechnologies/84c7ccc3-774c-47e3-a0e6-696a5e99f537/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Wealth",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Medtronic",
         "id": "65cba1ba-e064-47df-85a7-e8ae7fa2d2d3",
@@ -247156,7 +247136,7 @@
         "company_name": "General Motors",
         "id": "4983bc36-345d-49ee-ad79-7c92c9e7a0c8",
         "title": "Intern - Autonomous Driving - Simulation Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -432390,7 +432370,7 @@
         "company_name": "DriveWealth",
         "id": "24ea6e61-9ca2-4a1a-963c-611e998bdc83",
         "title": "AI Consulting Associate Program \u2013 Engineering Intern - AI CAP",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437592,7 +437572,7 @@
         "company_name": "American Tower",
         "id": "07a045a0-d912-4349-b7e9-44073a572458",
         "title": "Technology Enablement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445349,5 +445329,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "800f2df7-f887-41a3-b493-1d92879cb03f",
+        "title": "Applied Scientist",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774659966,
+        "date_posted": 1774659966,
+        "url": "https://amazon.jobs/en/jobs/10378626/applied-scientist",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
