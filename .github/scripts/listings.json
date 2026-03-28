@@ -303753,7 +303753,7 @@
         "company_name": "KLA",
         "id": "87a9a681-3f10-4286-adea-87711c73410f",
         "title": "AI Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -386348,7 +386348,7 @@
         "company_name": "Graphcore",
         "id": "03d644d7-4610-4e57-ab93-c93a4598f877",
         "title": "Software Engineering Intern - Drivers",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -432182,7 +432182,7 @@
         "company_name": "DriveWealth",
         "id": "c3a00f66-e578-4e28-a5d1-3eca458fbd7b",
         "title": "AI Consulting Associate Program \u2013 Product Intern - AI CAP",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445325,6 +445325,102 @@
             "California"
         ],
         "company_url": "https://simplify.jobs/c/Level-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TSC",
+        "id": "a8caa7b4-ea47-4164-ab82-f49522604ec5",
+        "title": "Computer Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774732512,
+        "date_posted": 1774649005,
+        "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Plymouth-MA/Computer-Engineering-Summer-Co-Op_JR2481",
+        "locations": [
+            "Plymouth, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/3d3125df-3bbc-48fc-993c-8e2d0db65649",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Zoox",
+        "id": "55b38e8f-6718-4bc6-ba26-fa6df327bc0d",
+        "title": "Part-Time Student Worker - Test Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774648973,
+        "date_posted": 1774648973,
+        "url": "https://jobs.lever.co/zoox/d3e43085-86b6-4cfb-8348-d9fd8ca8dfb2/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "fbd525c8-76a4-420b-ad53-054c9645b8f8",
+        "title": "Intern - Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774732497,
+        "date_posted": 1774660235,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Boulder/Intern---Engineer_R983-26",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MSX International",
+        "id": "819b73f5-a024-4b68-aa4d-8b3a2786c59e",
+        "title": "Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774699303,
+        "date_posted": 1774699303,
+        "url": "https://jobs.smartrecruiters.com/MSXInternational/3743990012354026",
+        "locations": [
+            "Southfield, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/MSX-International",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
