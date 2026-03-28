@@ -139182,7 +139182,7 @@
         "company_name": "Shield AI",
         "id": "ebaa9281-76b7-4260-8c4c-d74ad4291ffc",
         "title": "Hardware Test Engineering Intern/Co-op - Electrical Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -288090,7 +288090,7 @@
         "company_name": "ByteDance",
         "id": "b159e82d-ecc8-436c-bbc2-4fbd3391aa58",
         "title": "Research Scientist Graduate - Infrastructure System Lab",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -288137,7 +288137,7 @@
         "company_name": "ByteDance",
         "id": "8729abb6-1be5-4621-a820-94797a46cb08",
         "title": "Research Scientist Graduate - Infrastructure System Lab",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -312255,7 +312255,7 @@
         "company_name": "Gulfstream",
         "id": "075a3585-2d3e-44b7-9290-9f189d9c4ed9",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334682,7 +334682,7 @@
         "company_name": "Gulfstream",
         "id": "947cfb93-4d25-4e51-b0a1-0dd95f8375ad",
         "title": "Fall 2026 \u2013 Collegiate Intern - Ief - Stress Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -389570,7 +389570,7 @@
         "company_name": "TikTok",
         "id": "db493703-64fb-4667-b168-8669d472e24e",
         "title": "Brand Ads Product Manager Graduate - Creative and Brand Innovation - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -402388,7 +402388,7 @@
         "company_name": "Agility Robotics",
         "id": "1d331314-9e95-4d2d-a875-4e75013a3817",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -440822,7 +440822,7 @@
         "company_name": "Norfolk Southern",
         "id": "00898076-fb59-4ee7-a189-77ff2143664f",
         "title": "Digital & Technology Gen AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -442644,7 +442644,7 @@
         "company_name": "Sharp Electronics",
         "id": "1034255c-7a61-4de0-b7fd-fcae014a3824",
         "title": "Intern Product Manager - Business Products",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443048,7 +443048,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "fdc3cd2a-7252-4a0a-9875-230e758dcf8e",
         "title": "Software Developer - Trade Finance and Internal Positions - Campus Hire",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -445184,6 +445184,30 @@
             "Plymouth, MI"
         ],
         "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zip",
+        "id": "5c3babf9-78e2-4c0e-a438-60625697bea7",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1774649286,
+        "date_posted": 1774649286,
+        "url": "https://jobs.ashbyhq.com/zip/caa5ba75-3b38-4d29-88cd-69a90b01fd6f/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Zip",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
