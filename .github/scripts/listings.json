@@ -560,27 +560,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Nokia",
-        "id": "b3bc92a2-8c8d-4ef2-a6aa-f5b0a9656c96",
-        "title": "Software Dev AI/ML Co-op",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1754002831,
-        "date_posted": 1754002831,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22882",
-        "locations": [
-            "Naperville, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Palantir",
         "id": "b087999c-e99d-4ecb-bb33-4b37e4be0a5e",
         "title": "Software Engineer \u2013 Internship - Production Infrastructure",
@@ -617,26 +596,6 @@
         "company_url": "https://simplify.jobs/c/Penn-State",
         "is_visible": true,
         "sponsorship": "U.S. Citizenship is Required"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Hudl",
-        "id": "26f248b0-f4d4-422a-92d1-ffeef39806be",
-        "title": "Marketing Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754506381,
-        "date_posted": 1753999699,
-        "url": "https://job-boards.greenhouse.io/hudl/jobs/7116298",
-        "locations": [
-            "Lincoln, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/Hudl",
-        "is_visible": true,
-        "sponsorship": "Offers Sponsorship"
     },
     {
         "source": "Simplify",
@@ -720,26 +679,6 @@
         "company_url": "https://simplify.jobs/c/DV-Trading",
         "is_visible": true,
         "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "BorgWarner",
-        "id": "33987f80-ae9c-4965-b728-c5695237c165",
-        "title": "Data Science Intern - Year-Round",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754506262,
-        "date_posted": 1754002374,
-        "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Data-Science-Intern--Year-Round-_R2025-2865",
-        "locations": [
-            "Auburn Hills, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/BorgWarner",
-        "is_visible": true,
-        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -1010,26 +949,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/CSC",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SciPlay",
-        "id": "0e5be3f3-9aef-4846-a5fa-96c2d03e6da9",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754505043,
-        "date_posted": 1754001026,
-        "url": "https://lnw.wd5.myworkdayjobs.com/en-US/SciPlayExternalCareersSite/job/Cedar-Falls-IA/Software-Engineering-Intern_R320481",
-        "locations": [
-            "Cedar Falls, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/bdee93c8-46ab-46b3-8a3e-c03916910ae2",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -177004,27 +176923,6 @@
             "Reston, VA"
         ],
         "company_url": "https://simplify.jobs/c/ICF-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Vera Institute of Justice",
-        "id": "06a2e04a-c6bf-49cb-a9c7-a6b6be02c798",
-        "title": "Spring 2026 \u2013 Research Intern - Vera Louisiana",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1761514721,
-        "date_posted": 1754002235,
-        "url": "https://job-boards.greenhouse.io/verainstituteofjustice/jobs/4592397005",
-        "locations": [
-            "New Orleans, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/VeraInstitute",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -386324,7 +386222,7 @@
         "company_name": "Graphcore",
         "id": "23c22952-0eb8-4d58-8ec7-347863fa3de1",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
