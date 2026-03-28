@@ -499,7 +499,7 @@
         "company_name": "ByteDance",
         "id": "e0a535f5-af94-4bd1-857b-d90b51b54e2c",
         "title": "Backend Software Engineer Intern - Global E-Commerce",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -195525,7 +195525,7 @@
         "company_name": "KLA",
         "id": "6c852574-de52-4d2b-bb2e-34c823825d59",
         "title": "Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -247952,7 +247952,7 @@
         "company_name": "Samsung Research America",
         "id": "9e526384-3d8b-4539-ab24-847a6231ca0e",
         "title": "Intern - Computer Vision/AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -249855,7 +249855,7 @@
         "company_name": "Intuitive Surgical",
         "id": "1b70190a-925e-4ddf-9856-46887661f3c8",
         "title": "Manufacturing Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -270615,7 +270615,7 @@
         "company_name": "Nokia",
         "id": "d9957029-b1b8-4ed7-b55b-aa54c694a64a",
         "title": "Data fabric and network automation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -270734,7 +270734,7 @@
         "company_name": "Nokia",
         "id": "07fbfa12-146f-44d8-b2a4-0b9cbc242672",
         "title": "Security Software Developer Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -292615,52 +292615,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "d06c4b1a-d837-4488-8f49-4b31c23f52c1",
-        "title": "Student Researcher - Multiple Teams",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1753929907,
-        "date_posted": 1753929907,
-        "url": "https://jobs.bytedance.com/en/position/7533020375207479570/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "7585aef2-eec8-4fe1-9ec2-271782dbbadc",
-        "title": "Student Researcher - Seed LLM Horizon - Memory",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1753929907,
-        "date_posted": 1753929907,
-        "url": "https://jobs.bytedance.com/en/position/7533025573287954695/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Auctane",
         "id": "9a4bb2dd-90a7-47b4-bbc8-f65bfe3a038b",
         "title": "Data Engineering Intern",
@@ -293669,7 +293623,7 @@
         "company_name": "Cohere",
         "id": "5df12005-e047-41d9-b511-73c3303154c1",
         "title": "Intern Technical Staff - Sovereign AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -309764,7 +309718,7 @@
         "company_name": "KLA",
         "id": "a8743ac5-a6a8-4ed3-94e5-b377893b2291",
         "title": "Algorithms/Machine Learning Engineering Intern - Multi-Modalities",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -356504,7 +356458,7 @@
         "company_name": "Robert Half",
         "id": "1e360475-c6b5-4da5-b6e2-a01e0e532de6",
         "title": "Software Engineer Virtual Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391923,7 +391877,7 @@
         "company_name": "LAIKA Studios",
         "id": "57e10796-8fd9-428a-97bd-e442be2c7518",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -425898,7 +425852,7 @@
         "company_name": "Zayo",
         "id": "90c483c0-5cb2-4bf2-aa91-74d8bba0bbf1",
         "title": "Intern \u2013 Revenue Retention & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -436457,7 +436411,7 @@
         "company_name": "Pinterest",
         "id": "f08c95c8-68ab-46b1-a8bf-714af3156c17",
         "title": "Apprentice Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445041,6 +444995,52 @@
             "Manassas, VA"
         ],
         "company_url": "https://simplify.jobs/c/WR-Berkley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "SanMar",
+        "id": "f98e1010-e11e-4b1a-89b0-c241c9502c4a",
+        "title": "Global Sourcing Intern - Product Development",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774648999,
+        "date_posted": 1774648999,
+        "url": "https://boards.greenhouse.io/sanmar/jobs/5092073007",
+        "locations": [
+            "King County, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SanMar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Legal & General",
+        "id": "ebe93664-526d-4016-aa66-93329c38fc1e",
+        "title": "Intern Onetech Services",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774667423,
+        "date_posted": 1774649036,
+        "url": "https://jobs.smartrecruiters.com/LegalAndGeneral/744000117360110",
+        "locations": [
+            "Brighton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Legal-And-General",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
