@@ -1,65 +1,5 @@
 [
     {
-        "date_updated": 1753985972,
-        "url": "https://careers-kimley-horn.icims.com/jobs/19367/software-developer-intern/job",
-        "company_name": "Kimley Horn",
-        "title": "Software Developer Intern",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "polinavishnev",
-        "id": "23f9b154-2ee9-47f4-b87d-25c5c8aec18c",
-        "date_posted": 1753985972,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Software Engineering"
-    },
-    {
-        "date_updated": 1754477433,
-        "url": "https://jobs.ashbyhq.com/atomicsemi/68fba2a4-ca8c-448c-ad39-4d12b26a93e5",
-        "company_name": "Atomic Semi",
-        "title": "Full Stack Software Engineering Intern - Fall",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "terms": [
-            "Fall 2025"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "polinavishnev",
-        "id": "e07eb3f7-bf2c-45a6-bf96-116fc88bb677",
-        "date_posted": 1753986055,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Software Engineering"
-    },
-    {
-        "date_updated": 1754274551,
-        "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/Software-Developer-Associate--Intern-_RQ204199",
-        "company_name": "GDIT",
-        "title": "Software Developer Associate (Intern)",
-        "locations": [
-            "Bossier City, LA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "polinavishnev",
-        "id": "f2f1c82c-371f-4e92-92b1-0e1b75e9819c",
-        "date_posted": 1753986313,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Software Engineering"
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Chase",
@@ -445310,6 +445250,30 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cloudflare",
+        "id": "568effcf-219b-4256-9c04-6e7ded19c1a9",
+        "title": "DCSC Automation Coordinator Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774650145,
+        "date_posted": 1774650145,
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/7751595",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cloudflare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
             "Master's"
         ]
     }
