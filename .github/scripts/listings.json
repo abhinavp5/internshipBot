@@ -16274,29 +16274,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Roku",
-        "id": "d9e4de67-83a7-4c7e-becf-25942774cff4",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1754751680,
-        "date_posted": 1754003175,
-        "url": "https://www.weareroku.com/jobs/6580293?gh_jid=6580293",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Roku",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Other",
         "company_name": "Virtua Health",
         "id": "2b3be301-d9a8-41a8-8e7b-0f4d1173e3d6",
@@ -358689,7 +358666,7 @@
         "company_name": "Parsons",
         "id": "de67e366-eae4-4622-b8b8-76500a0f0f62",
         "title": "Space Ops Software/ML Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
