@@ -171,7 +171,7 @@
         "company_name": "ByteDance",
         "id": "6ab6835f-e402-420e-b119-a7c369286ab4",
         "title": "Frontend Software Engineer Intern - Global E-Commerce",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -476,7 +476,7 @@
         "company_name": "ByteDance",
         "id": "24de70ea-fa26-48ab-8ce5-dcdcfbf45b7a",
         "title": "Backend Software Engineer Intern - Global E-Commerce",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -247466,7 +247466,7 @@
         "company_name": "Zipline",
         "id": "a5260dea-6b13-420e-9bfa-3a6f0fae5509",
         "title": "System Validation & Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -247595,7 +247595,7 @@
         "company_name": "Zipline",
         "id": "601491a4-5de0-4f45-b6eb-40afebbb6a1b",
         "title": "Motor Control Firmware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -247638,7 +247638,7 @@
         "company_name": "Zipline",
         "id": "12a46539-a1cd-4b1c-bbf4-fc800e0cd9aa",
         "title": "Spatial Planning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262050,7 +262050,7 @@
         "company_name": "State Street",
         "id": "b39ea14b-f5b8-4035-99e6-df3b86d5c4f0",
         "title": "State Street Enterprise Risk Management \u2013 Credit Risk Analytics Internship - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -283888,7 +283888,7 @@
         "company_name": "Scientific Research Corporation",
         "id": "f80b92f8-f2ce-44ed-93e9-f358c3f610fb",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -365000,7 +365000,7 @@
         "company_name": "Samsung",
         "id": "167e12f3-f476-4ba4-98a0-c0773e64412a",
         "title": "Supply Chain Analytics Intern - AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -387705,7 +387705,7 @@
         "company_name": "Zipline",
         "id": "eab14d03-e340-4e7e-b889-ec0f7a50cdba",
         "title": "Perception Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -412323,7 +412323,7 @@
         "company_name": "Agility Robotics",
         "id": "5166efda-4ad9-4015-8cdb-f9bb2d45cbbb",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -433745,7 +433745,7 @@
         "company_name": "The Walt Disney Company",
         "id": "cdc20f83-4bb1-4a6e-bc12-338186119d8d",
         "title": "Walt Disney Animation Studios Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -434182,7 +434182,7 @@
         "company_name": "The Walt Disney Company",
         "id": "87d2128b-3848-4972-9409-546b9c3669b4",
         "title": "Software Engineering Intern - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -435060,7 +435060,7 @@
         "company_name": "MSX International",
         "id": "714e1baa-85de-44d3-ab08-cdb2902b4476",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -435127,7 +435127,7 @@
         "company_name": "MSX International",
         "id": "62cb8d34-d2cb-4d28-87a5-cfe2f3fd7dba",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -436967,7 +436967,7 @@
         "company_name": "IBM",
         "id": "05e4181e-7b50-44c1-972d-0f0705cb6504",
         "title": "Application Developer Intern - Oracle Middleware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437688,7 +437688,7 @@
         "company_name": "Legal & General",
         "id": "b847b777-849b-4d09-a54f-f808e130c281",
         "title": "Intern - Onetech Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -438438,7 +438438,7 @@
         "company_name": "MedElite",
         "id": "b60a28f7-2c84-4260-b52c-7b28bf0dd82c",
         "title": "Software Engineering & Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439236,7 +439236,7 @@
         "company_name": "Agility Robotics",
         "id": "dbab9534-ffeb-4462-a0c2-9c229bdd111f",
         "title": "Robot Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -440938,7 +440938,7 @@
         "company_name": "Booz Allen",
         "id": "289a8e8b-f79e-441b-aa15-354875b80a70",
         "title": "University Applied AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -442891,7 +442891,7 @@
         "company_name": "Norfolk Southern",
         "id": "17f3ff9e-f8d2-4ea0-b9a6-96fd676f13a8",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443992,7 +443992,7 @@
         "company_name": "Bank of Montreal",
         "id": "7214e29d-faaf-4e62-ade6-72dded419176",
         "title": "Software Developer \u2013 Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -444063,7 +444063,7 @@
         "company_name": "Copart",
         "id": "2a29fc45-0277-47ba-80e6-4d49802212d4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -444965,7 +444965,7 @@
         "company_name": "Legal & General",
         "id": "ebe93664-526d-4016-aa66-93329c38fc1e",
         "title": "Intern Onetech Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445129,7 +445129,7 @@
         "company_name": "American University",
         "id": "2c008acc-002e-4c36-9e12-97d50a1dfaa9",
         "title": "Data Assistant - Student - Federal Work Study",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
