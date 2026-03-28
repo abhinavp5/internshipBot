@@ -1,48 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "T. Rowe Price",
-        "id": "8ee5b986-8499-4a01-9c96-f6ff2ed6ebe8",
-        "title": "Software Engineering Internship",
-        "active": false,
-        "terms": [
-            "Winter 2025",
-            "Spring 2026"
-        ],
-        "date_updated": 1753943555,
-        "date_posted": 1753943555,
-        "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/XMLNAME-2026-Global-Technology-Software-Engineering-Internship_77527",
-        "locations": [
-            "Owings Mills, MD",
-            "Baltimore, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/t-rowe-price",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "T. Rowe Price",
-        "id": "7e554010-b9ad-4be3-b642-5b4a13ed6298",
-        "title": "2026 Global Trading Internship Program",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2027"
-        ],
-        "date_updated": 1753943545,
-        "date_posted": 1753943545,
-        "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2026-Global-Trading-Internship-Program_77576",
-        "locations": [
-            "Baltimore, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/t-rowe-price",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1753985972,
         "url": "https://careers-kimley-horn.icims.com/jobs/19367/software-developer-intern/job",
         "company_name": "Kimley Horn",
@@ -51804,7 +51761,7 @@
         "company_name": "Allegion",
         "id": "9b0cc5dd-ca6c-45a3-8ff3-bc10b0f22e41",
         "title": "Summer Intern - Firmware Engineer - Advanced Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -188044,28 +188001,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "GPTZero",
-        "id": "32af4f08-a443-4590-929d-499a162e8900",
-        "title": "Software Engineering Intern - Machine Learning - Design",
-        "active": true,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1755340018,
-        "date_posted": 1753945525,
-        "url": "https://jobs.ashbyhq.com/GPTZero/e1f12af2-d017-4fca-a9af-99431d989d53/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/GPTZero",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Waystar",
         "id": "61df5c32-4411-44f5-944c-7eacf6644404",
         "title": "Application Engineer: Co-Op",
@@ -271651,7 +271586,7 @@
         "company_name": "Premier",
         "id": "1f221518-4ce9-41a4-88ca-239caf041624",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -290647,7 +290582,7 @@
         "company_name": "PennState University",
         "id": "2e17e435-e594-47c6-89d4-9fd698967ff5",
         "title": "Part time Smeal - Computer Science",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -303943,7 +303878,7 @@
         "company_name": "KLA",
         "id": "9cb8cf2f-70d6-45ba-9122-7f3cf2073ca0",
         "title": "Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -321858,7 +321793,7 @@
         "company_name": "Faith Technologies",
         "id": "402f7836-cf2e-4a1d-be74-172f88fd27b4",
         "title": "Electrical Product Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -325454,7 +325389,7 @@
         "company_name": "Fidelity Investments",
         "id": "9af2b479-ce6b-4409-a89d-701644cff541",
         "title": "Intern Data Science and Optimization",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -342329,7 +342264,7 @@
         "company_name": "Bio-Techne",
         "id": "1295652a-c213-44e0-8b93-42d92e64fe3c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -386839,7 +386774,7 @@
         "company_name": "Motorola",
         "id": "8dcfd788-29c8-495e-a076-cf873ee35d94",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -398179,7 +398114,7 @@
         "company_name": "Calix",
         "id": "8105e208-5f23-469c-97fd-68c9ebab193b",
         "title": "Optical Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -414716,7 +414651,7 @@
         "company_name": "Netflix",
         "id": "d7f7bb74-5a92-4922-9cdc-052e08d92e7f",
         "title": "Data Visualization Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -420129,7 +420064,7 @@
         "company_name": "Rocket Mortgage",
         "id": "a078cb23-0c9b-4e15-8914-a34e123aed1c",
         "title": "Apparel Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -420901,7 +420836,7 @@
         "company_name": "Pennsylvania State University",
         "id": "dd9d5a44-e764-4be3-96b4-70cce622eb27",
         "title": "Part-Time Laboratory Assistants - Department of Statistics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -422712,7 +422647,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "bec5b67e-72e7-4d19-996b-860ea1746778",
         "title": "Cryptography Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -432177,7 +432112,7 @@
         "company_name": "Northrop Grumman",
         "id": "914d3aec-ff96-418e-a886-d30d686215f4",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -438526,7 +438461,7 @@
         "company_name": "SS&C",
         "id": "4261438c-b2b0-4cdc-a13d-9642454eef75",
         "title": "Intern \u2013 Technical",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -438616,7 +438551,7 @@
         "company_name": "Dallas College",
         "id": "05b45fd6-9242-4831-9e4b-a3d4e4ff7f88",
         "title": "SAS Intern-2",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -444105,7 +444040,7 @@
         "company_name": "Boston Medical Center",
         "id": "e241c4ef-b96a-4637-83ba-819edf108e4e",
         "title": "Data Science Intern - Hematology/Oncology Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
