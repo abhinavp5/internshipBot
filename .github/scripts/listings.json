@@ -170047,7 +170047,7 @@
         "company_name": "PennState University",
         "id": "2c4a4350-f766-4583-92db-fbe8316598ea",
         "title": "Part Time \u2013 Internship - Physics",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -445425,6 +445425,77 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Armada",
+        "id": "cba4f37b-ad17-4701-9bcf-9714681a05ad",
+        "title": "Software Engineer Intern - Unpaid",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774649908,
+        "date_posted": 1774649908,
+        "url": "https://job-boards.greenhouse.io/armada/jobs/5164595008",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Armada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Samba TV",
+        "id": "746a61fa-c0f4-4b45-a8e4-b03b631c13da",
+        "title": "Measurement Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774659982,
+        "date_posted": 1774659982,
+        "url": "https://jobs.lever.co/sambatv/13212eae-ab99-4a4e-b2f6-25ac12816893/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/SambaTV",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Palmetto Clean Technology",
+        "id": "1e8b0f3c-63ee-46fd-95de-70e1bf7a7560",
+        "title": "CX AI Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774650077,
+        "date_posted": 1774650077,
+        "url": "https://job-boards.greenhouse.io/palmettocleantech/jobs/5168758008",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palmetto-Clean-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
