@@ -445305,5 +445305,49 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "8fac4464-6436-44ee-a24a-e7794208b55b",
+        "title": "Electrical Engineering Intern - Hardware Test",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774708463,
+        "date_posted": 1774649250,
+        "url": "https://jobs.lever.co/shieldai/1c88f1db-4372-42a7-a0a4-0fa1919be3de/apply",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "10a Labs",
+        "id": "a1bc5739-2d47-4f6c-8627-5b11e873e160",
+        "title": "Engineering Fellow",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774708229,
+        "date_posted": 1774649393,
+        "url": "https://job-boards.greenhouse.io/10alabs/jobs/4203095009",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/10a-Labs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
