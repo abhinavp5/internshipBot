@@ -445261,5 +445261,49 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Tonal",
+        "id": "d05c625e-d58d-432a-8916-5f8851466875",
+        "title": "Product Management Intern - Retail Sales & Demo Conversion",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774649274,
+        "date_posted": 1774649274,
+        "url": "https://jobs.ashbyhq.com/tonal/cf73d31d-c250-425b-9748-01a7dbc47406/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Tonal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "5e4dccbf-7520-40d3-b547-7a2f044e4417",
+        "title": "Part-Time Research Assistant - Farooque/Saha - AI in Education Project",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774649389,
+        "date_posted": 1774649389,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant---Farooque-Saha---AI-in-Education-Project_REQ_0000076925-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
