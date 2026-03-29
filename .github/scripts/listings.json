@@ -1,50 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Chase",
-        "id": "61a2608b-35e4-4743-bdc4-763b642e1dab",
-        "title": "2026 Data Science Analyst Program \u2013 Summer Analyst",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754032803,
-        "date_posted": 1754032803,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/jobs/job/210648373",
-        "locations": [
-            "Delaware",
-            "Dallas, TX",
-            "Chicago, IL",
-            "Columbus, OH",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Chase",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Chase",
-        "id": "2a36841c-b128-4f9b-a663-04fe307327c2",
-        "title": "2026 Software Engineer Program \u2013 Summer Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754274872,
-        "date_posted": 1754032808,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/jobs/job/210650080",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Chase",
-        "is_visible": true,
-        "sponsorship": "Does Not Offer Sponsorship"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Medtronic",
         "id": "65cba1ba-e064-47df-85a7-e8ae7fa2d2d3",
@@ -16370,29 +16326,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cotiviti",
-        "id": "e91361ee-1440-4c6e-9bc4-d79612385f59",
-        "title": "Temporary Intern - Generative AI Research Engineer",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1754031462,
-        "date_posted": 1754031462,
-        "url": "https://careers-cotiviti.icims.com/jobs/15661/job",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cotiviti",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
         ]
     },
     {
@@ -35949,7 +35882,7 @@
         "company_name": "GE Healthcare",
         "id": "3053145a-30f3-49ae-8c17-77ba332c8e11",
         "title": "Edison Engineering Development Program Internship - Hardware",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -338849,7 +338782,7 @@
         "company_name": "Samsung",
         "id": "afa194d3-d9cb-4cde-99b0-2d17e31ee37c",
         "title": "E-Commerce Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343807,7 +343740,7 @@
         "company_name": "Samsung",
         "id": "9cc80f56-8151-4f62-a1fb-fea04a44ec30",
         "title": "AI Applications Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379255,7 +379188,7 @@
         "company_name": "Bank of Montreal",
         "id": "4bb35b52-61bb-450e-ba8c-83f61bf42dc2",
         "title": "Data Analyst \u2013 Co-op/Intern - Anti Money Laundering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380794,7 +380727,7 @@
         "company_name": "Samsung",
         "id": "73dead25-c7c9-420f-a820-f963831882e5",
         "title": "Engineering Intern - Associate RAN Virtualization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -406187,7 +406120,7 @@
         "company_name": "Madison Energy Infrastructure",
         "id": "52c899c7-5608-4a11-821d-29de0716fe70",
         "title": "Digital Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439736,7 +439669,7 @@
         "company_name": "Torch Technologies",
         "id": "11e94799-7f1b-4fcc-987b-b1e0796514c0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445439,6 +445372,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MSX International",
+        "id": "939b5468-ec40-4176-9e84-66cf3d968048",
+        "title": "Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774699290,
+        "date_posted": 1774699290,
+        "url": "https://jobs.smartrecruiters.com/MSXInternational/3743990012354126",
+        "locations": [
+            "Southfield, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/MSX-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
