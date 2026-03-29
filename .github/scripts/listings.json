@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "PennState University",
-        "id": "9b3a298c-8894-407e-bb7b-b72434713c39",
-        "title": "Embedded Systems and Hardware Co-Op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754509412,
-        "date_posted": 1754055979,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2",
-        "locations": [
-            "Warminster, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "ByteDance",
         "id": "6ab6835f-e402-420e-b119-a7c369286ab4",
@@ -343,193 +323,6 @@
         "company_url": "https://simplify.jobs/c/ByteDance",
         "is_visible": true,
         "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Jump Trading",
-        "id": "dc377bc8-2dda-40b8-87af-873d80d8980a",
-        "title": "Campus Quantitative Researcher \u2013 Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754508377,
-        "date_posted": 1754056323,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6758938",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Jump-Trading",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "1db08df4-23e3-427d-b70e-dab6dd910782",
-        "title": "Software Engineer \u2013 Internship - Infrastructure",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754504797,
-        "date_posted": 1754055704,
-        "url": "https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "a7141d7b-1a29-4ce4-9635-9412583c6a96",
-        "title": "AI/ML Research and Development Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Spring 2025",
-            "Summer 2025"
-        ],
-        "date_updated": 1754055962,
-        "date_posted": 1754055962,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/AI-ML-Research-and-Development-Intern_REQ_0000064471-1",
-        "locations": [
-            "State College, PA",
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Otis",
-        "id": "0dde2b0d-74e5-4394-8832-154407fa73ed",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754058574,
-        "date_posted": 1754058574,
-        "url": "https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/OT494-5FS---Farmington-CT-5-Farm-Springs-Farmington-CT-06032-USA/Software-Engineering-Intern_20140057",
-        "locations": [
-            "Farmington, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Otis",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "6dd1a9b0-0256-45ec-944a-7a3019907002",
-        "title": "Computer Programming Research and Development Intern",
-        "active": false,
-        "terms": [
-            "Spring 2025",
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1754055928,
-        "date_posted": 1754055928,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Computer-Programming-Research-and-Development-Intern_REQ_0000065066-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Otis",
-        "id": "fc5686b0-c829-4dfa-b045-deaf05e76adc",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754058574,
-        "date_posted": 1754058574,
-        "url": "https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/OT494-5FS---Farmington-CT-5-Farm-Springs-Farmington-CT-06032-USA/Software-Engineering-Intern_20140058",
-        "locations": [
-            "Farmington, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Otis",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "PennState University",
-        "id": "aed32cf0-efc1-4370-be34-e08e7c8cfb66",
-        "title": "Agile Methods Management Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Spring 2025",
-            "Summer 2025"
-        ],
-        "date_updated": 1754055945,
-        "date_posted": 1754055945,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Agile-Methods-Management-Intern_REQ_0000058000-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "b087999c-e99d-4ecb-bb33-4b37e4be0a5e",
-        "title": "Software Engineer \u2013 Internship - Production Infrastructure",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754504865,
-        "date_posted": 1754055699,
-        "url": "https://jobs.lever.co/palantir/bc5c4098-07d5-49ed-a398-a27e6191aa30/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "749e1c58-7fba-43b1-b44c-f82ec21546ae",
-        "title": "Navigation \u2013 And Controls Co-Op - Estimation",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754506089,
-        "date_posted": 1754055962,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Navigation--Estimation--and-Controls-Co-Op_REQ_0000066565-1",
-        "locations": [
-            "Warminster, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required"
     },
     {
         "source": "Simplify",
@@ -103095,52 +102888,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Palantir",
-        "id": "4696ce14-3ae8-4ed6-80e1-61072ce87544",
-        "title": "Forward Deployed Software Engineer Intern - UK Government",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1758556487,
-        "date_posted": 1754055690,
-        "url": "https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "930b6c2c-a5c0-4871-a545-bf43ae8c31a9",
-        "title": "Software Engineer \u2013 Internship",
-        "active": true,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1754055695,
-        "date_posted": 1754055695,
-        "url": "https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Verizon Communications",
         "id": "a1f6c567-e298-4858-b782-21a41ee75548",
         "title": "Global Solutions Intern - Technology Solutions",
@@ -149594,30 +149341,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Jump Trading",
-        "id": "18a3b897-7d72-4255-9c88-02bda3774294",
-        "title": "Campus Quantitative Researcher Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1758585004,
-        "date_posted": 1754056326,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7126724",
-        "locations": [
-            "London, UK",
-            "Paris, France"
-        ],
-        "company_url": "https://simplify.jobs/c/Jump-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Lenovo",
         "id": "ecd2ffb3-8b8f-4e1f-8169-290a2876c1a3",
@@ -187528,27 +187251,6 @@
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Engineering-Research-Intern_REQ_0000057488-1",
         "locations": [
             "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "f431b8cc-e02e-45da-8f59-49a0324b5d6b",
-        "title": "Summer Research Associate",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1754055897,
-        "date_posted": 1754055897,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Summer-Research-Associate_REQ_0000067968-1",
-        "locations": [
-            "Pennsylvania"
         ],
         "company_url": "https://simplify.jobs/c/Penn-State",
         "is_visible": true,
@@ -410474,7 +410176,7 @@
         "company_name": "Cadence Design Systems",
         "id": "51d2b518-8a4c-4a03-bcfb-e1d13172cd6e",
         "title": "LLM/ML Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
