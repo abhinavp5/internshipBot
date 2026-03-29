@@ -445129,7 +445129,7 @@
         "company_name": "University of Arkansas",
         "id": "ad639ce0-562f-40b2-8d29-ea4c866cea6e",
         "title": "Cosmos Graduate Research Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -445140,6 +445140,55 @@
             "Little Rock, AR"
         ],
         "company_url": "https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "UiPath",
+        "id": "f5e38bba-d081-4d39-a3ed-4b2770e4ead1",
+        "title": "Applied Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774649302,
+        "date_posted": 1774649302,
+        "url": "https://jobs.ashbyhq.com/uipath/d934d6a2-750a-485d-a23c-51bc1f65fb6e/application",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/UiPath",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "1db08df4-23e3-427d-b70e-dab6dd910782",
+        "title": "Software Engineer \u2013 Internship - Infrastructure",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1761869810,
+        "date_posted": 1761869810,
+        "url": "https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
