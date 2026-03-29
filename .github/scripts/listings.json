@@ -333144,7 +333144,7 @@
         "company_name": "Samsung",
         "id": "f6b1ac51-957f-4ef1-b770-36823e576b19",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -349535,7 +349535,7 @@
         "company_name": "Samsung",
         "id": "fc226ef2-f279-4807-b6a0-de786fc9349e",
         "title": "A Series Smartphone Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437704,7 +437704,7 @@
         "company_name": "Moderna",
         "id": "cdcd177d-b4dc-4ee0-afb1-2cc96af4d805",
         "title": "Data Analytics Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -437774,7 +437774,7 @@
         "company_name": "Gen",
         "id": "79178dea-ae11-4f4a-a4d5-cbc6f0b299a6",
         "title": "Intern - Product Management - Marketplace / Auto Vertical",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
