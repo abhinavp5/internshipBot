@@ -398827,27 +398827,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Allium",
-        "id": "07f3b181-c4d0-4e58-afd6-36cfe0189518",
-        "title": "Generalist Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1772703388,
-        "date_posted": 1754070403,
-        "url": "https://jobs.ashbyhq.com/allium/8f86b4af-6e4d-42ab-ab6d-6155443542d3/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Allium",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Field AI",
         "id": "89115513-4549-4b36-8c92-3e19b77adf9e",
@@ -431090,7 +431069,7 @@
         "company_name": "Northrop Grumman",
         "id": "914d3aec-ff96-418e-a886-d30d686215f4",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
