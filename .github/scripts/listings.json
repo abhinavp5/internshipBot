@@ -204169,7 +204169,7 @@
         "company_name": "Teledyne",
         "id": "689d2320-97b9-49eb-910e-901bc1a4fb98",
         "title": "Computer Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -206607,7 +206607,7 @@
         "company_name": "Zoox",
         "id": "4b3af933-e5d9-4dfd-b141-ddaad9769cb3",
         "title": "Motion Planning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -245295,7 +245295,7 @@
         "company_name": "Zscaler",
         "id": "a2998d79-04b1-4f48-b7ff-7bdb8c5643d2",
         "title": "Product Operations Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -296623,27 +296623,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Prime Intellect",
-        "id": "902601f2-1bdb-4415-ba8f-5f932c389ce0",
-        "title": "Intern",
-        "active": true,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1762921632,
-        "date_posted": 1754074437,
-        "url": "https://jobs.ashbyhq.com/PrimeIntellect/486b3511-7128-46f9-93a5-fc1d748d8852/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Prime-Intellect",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -422162,7 +422141,7 @@
         "company_name": "Trane Technologies",
         "id": "a06b88f1-7eb4-4694-956f-84f45c6c3d8b",
         "title": "Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -435113,7 +435092,7 @@
         "company_name": "Booz Allen",
         "id": "5118959e-05ac-49c3-83b3-95c83e0fa264",
         "title": "Data Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -437418,7 +437397,7 @@
         "company_name": "SS&C",
         "id": "4261438c-b2b0-4cdc-a13d-9642454eef75",
         "title": "Intern \u2013 Technical",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -444870,6 +444849,31 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Becton Dickinson",
+        "id": "0aa90784-d129-4480-827e-cdd3987afbd5",
+        "title": "Marketing Intern - Innovation Marketing Team",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1774693344,
+        "date_posted": 1774693344,
+        "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-RI---Warwick/Marketing-Intern--Innovation-Marketing-Team_R-536632-1",
+        "locations": [
+            "Warwick, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA"
         ]
     }
 ]
