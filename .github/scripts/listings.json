@@ -226103,7 +226103,7 @@
         "company_name": "Danaher Corporation",
         "id": "c6bc22a9-d004-4b34-87f5-1865b6969d41",
         "title": "Hardware Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -245237,7 +245237,7 @@
         "company_name": "General Motors",
         "id": "18453d33-690b-4db4-b88d-268765e694bb",
         "title": "Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -255695,7 +255695,7 @@
         "company_name": "General Motors",
         "id": "e1d80878-0c90-440d-a097-fa70b5e4b876",
         "title": "2026 Summer Intern - Software Engineer - Dynamics & Controls",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -275318,7 +275318,7 @@
         "company_name": "Thomson Reuters",
         "id": "46339e2a-a055-40e1-bbdf-4dceded6cfa0",
         "title": "Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -435332,7 +435332,7 @@
         "company_name": "Auto Club Group ",
         "id": "9058bd48-ead5-4099-9e33-8fe166581c87",
         "title": "Innovation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -445347,6 +445347,74 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "SpyCloud",
+        "id": "29bc94fb-7827-4030-b09b-3d7641fe810c",
+        "title": "Product Manager Intern - AI Ops",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774742834,
+        "date_posted": 1774649966,
+        "url": "https://job-boards.greenhouse.io/spycloud/jobs/7679387003",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/SpyCloud",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kensington",
+        "id": "72aea97b-e76e-4dbd-afc3-9caf09aaec3b",
+        "title": "Intern Frontend Developer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774747570,
+        "date_posted": 1774649613,
+        "url": "https://job-boards.greenhouse.io/kensingtontours/jobs/5091736007",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kensington",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wounded Warrior Project",
+        "id": "c805681f-733c-420b-b1ab-8252b0adfe27",
+        "title": "Intern \u2013 Business Systems Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774746170,
+        "date_posted": 1774649033,
+        "url": "https://woundedwarriorproject.wd5.myworkdayjobs.com/wwp/job/Jacksonville-FL/Intern---Business-Systems-Anaylst_R14182",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Wounded-Warrior-Project",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
