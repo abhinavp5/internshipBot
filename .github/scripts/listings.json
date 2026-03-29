@@ -16374,30 +16374,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Other",
-        "company_name": "IJM",
-        "id": "3a08c9ee-5729-4991-831b-becb68612410",
-        "title": "IT Operations Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1754005077,
-        "date_posted": 1754005077,
-        "url": "https://ijm.wd5.myworkdayjobs.com/careers-ijm/job/District-of-Columbia---Hybrid/IT-Operations-Intern---Spring-2026_R-02000",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/IJM",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Cotiviti",
         "id": "e91361ee-1440-4c6e-9bc4-d79612385f59",
