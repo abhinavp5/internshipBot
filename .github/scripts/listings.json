@@ -2,46 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "ByteDance",
-        "id": "6ab6835f-e402-420e-b119-a7c369286ab4",
-        "title": "Frontend Software Engineer Intern - Global E-Commerce",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754062321,
-        "date_posted": 1754062321,
-        "url": "https://jobs.bytedance.com/en/position/7533346008655825159/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "082ca7b9-5288-4b74-98f7-b5c17bef229f",
-        "title": "Software Development Engineer in Test Intern - Global E-Commerce",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754062868,
-        "date_posted": 1754062868,
-        "url": "https://jobs.bytedance.com/en/position/7533346574367377672/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "HPR (Hyannis Port Research)",
         "id": "3f55a41c-bd7c-4855-83ca-36cd58dfe0ea",
         "title": "Software Engineering Intern",
@@ -276356,7 +276316,7 @@
         "company_name": "GlobalFoundries",
         "id": "aaa52361-272d-4413-9076-7e2642ad1081",
         "title": "IP Design Engineering Intern - Design Verification Winter/Spring 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -303026,7 +302986,7 @@
         "company_name": "Trane Technologies",
         "id": "5837269a-ba0f-44f7-8bde-5df11b902c3b",
         "title": "Energy Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -420603,7 +420563,7 @@
         "company_name": "DotDash Meredith",
         "id": "3c86989c-765a-4a9a-8376-eb58809091a4",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
