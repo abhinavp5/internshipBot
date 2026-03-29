@@ -2,47 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "HPR (Hyannis Port Research)",
-        "id": "3f55a41c-bd7c-4855-83ca-36cd58dfe0ea",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754274730,
-        "date_posted": 1754066819,
-        "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/6667961003",
-        "locations": [
-            "Needham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/HyannisPortResearch",
-        "is_visible": true,
-        "sponsorship": "Does Not Offer Sponsorship"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Vanguard",
-        "id": "6feb48ea-78ab-4a85-ab90-66862ecc00a6",
-        "title": "IT Co-Op",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1754066456,
-        "date_posted": 1754066456,
-        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Charlotte-NC/Fall-Winter-2025-IT-Co-Op_168888",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Vanguard",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "SEL",
         "id": "4e16d5dc-8fd7-4b4e-a047-d2a34d3d4566",
         "title": "Software Engineer Intern",
@@ -187173,27 +187132,6 @@
             "State College, PA"
         ],
         "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "HPR (Hyannis Port Research)",
-        "id": "cd8be661-f9c2-4163-9acb-c5c796f84a64",
-        "title": "FPGA Engineer Intern - FPGA",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761934301,
-        "date_posted": 1754066802,
-        "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/6667886003",
-        "locations": [
-            "Needham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/HyannisPortResearch",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
