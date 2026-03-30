@@ -97105,33 +97105,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "JP Morgan Chase",
-        "id": "51f6703c-fb9c-4edb-b010-0eff94f7126f",
-        "title": "Analytics Solutions Summer Associate - Focused Analytics Solutions Team - Analytics Solutions",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758370515,
-        "date_posted": 1754091485,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210649056",
-        "locations": [
-            "Plano, TX",
-            "Chicago, IL",
-            "Columbus, OH",
-            "Wilmington, DE"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Other",
         "company_name": "Boston Scientific",
         "id": "5fa5a2d1-aa8a-4dcd-8c7d-2d38a80e93c1",
@@ -330146,7 +330119,7 @@
         "company_name": "Avathon",
         "id": "2164a5af-267c-4dbf-94fd-aa9a78ffcc06",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -386050,7 +386023,7 @@
         "company_name": "Fidelity Investments",
         "id": "cead6d6a-500b-466c-ab3c-d72e13cbcc26",
         "title": "Co-op \u2013 Advanced Data Analytics and Insights",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -405433,7 +405406,7 @@
         "company_name": "Cummins",
         "id": "30c97095-a14c-4e0c-a3c0-dc01829a6784",
         "title": "Degree Apprenticeship - Data Scientist Level 6",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -410507,7 +410480,7 @@
         "company_name": "Trane Technologies",
         "id": "e651c39f-47c7-45b4-849c-468bd4658f61",
         "title": "Retail Operations Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -426762,7 +426735,7 @@
         "company_name": "Vishay Intertechnology",
         "id": "a333aff4-7be4-464c-9dbb-f9c5a9a291f6",
         "title": "Design Drafter Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -435991,7 +435964,7 @@
         "company_name": "Legal & General",
         "id": "b847b777-849b-4d09-a54f-f808e130c281",
         "title": "Intern - Onetech Services",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -444265,6 +444238,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "8f57dc5c-4b8f-4053-a70d-735ad8ebe0a2",
+        "title": "Data Integration Development Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1774833429,
+        "date_posted": 1774649327,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Data-Integration-Development-Intern_R-00179443",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
