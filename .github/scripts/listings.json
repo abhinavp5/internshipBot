@@ -336630,7 +336630,7 @@
         "company_name": "Crum & Forster Insurance",
         "id": "8f979997-efe1-4294-bd3f-7a156071f693",
         "title": "Product Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -444358,7 +444358,7 @@
         "company_name": "NXP Semiconductors",
         "id": "cc8a3e73-c5d8-4b9c-9e9f-6e399c6c34aa",
         "title": "Semiconductor Packaging Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445083,5 +445083,27 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Red Bull Advanced Technologies",
+        "id": "43e6575b-da65-4836-a587-44e3b54bb26b",
+        "title": "Level 3 Metrology Apprentice",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1774844896,
+        "date_posted": 1773411733,
+        "url": "https://redbulltechnology.wd3.myworkdayjobs.com/RB_Racing/job/Milton-Keynes/Quality-Engineering-Apprentice_R0007261-1",
+        "locations": [
+            "Milton Keynes, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Bull-Advanced-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
