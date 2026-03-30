@@ -143919,7 +143919,7 @@
         "company_name": "Philips",
         "id": "3ac955f3-6b56-432c-b7d1-3bd37ccf2d36",
         "title": "Co-op-Data Engineer-Reedsville - PA-January-June 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -332929,7 +332929,7 @@
         "company_name": "Sharp Electronics",
         "id": "03e119ef-f26f-4b47-b102-4347145c6ff5",
         "title": "Intern Product Manager",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -337522,7 +337522,7 @@
         "company_name": "Trane Technologies",
         "id": "ab28eb51-82ff-4788-97cb-35c9c5404696",
         "title": "Business Systems Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -337590,7 +337590,7 @@
         "company_name": "Samsung",
         "id": "f3097326-3f83-4862-bb24-2d27ba0f304b",
         "title": "Software Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -388331,7 +388331,7 @@
         "company_name": "Generate Biomedicines",
         "id": "7cdc0d1f-531e-4bd7-ac9d-1c579061b982",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -409606,9 +409606,9 @@
         ]
     },
     {
-        "date_updated": 1773228985,
+        "date_updated": 1774873042,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -409652,9 +409652,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773229251,
+        "date_updated": 1774873042,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -410458,7 +410458,7 @@
         "company_name": "Agility Robotics",
         "id": "5166efda-4ad9-4015-8cdb-f9bb2d45cbbb",
         "title": "AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -432976,9 +432976,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1774262477,
+        "date_updated": 1774873042,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -436288,7 +436288,7 @@
         "company_name": "Gen",
         "id": "20ce3c0b-56f9-44c4-8a4b-8812e3cff26e",
         "title": "Intern Marketing Data Science & Experimentation - MoneyLion - Fintech",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -441502,7 +441502,7 @@
         "company_name": "Fresenius Medical Care",
         "id": "035609e7-39c7-410f-946e-151cc0ea5a08",
         "title": "R&D Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443192,7 +443192,7 @@
         "company_name": "TSC",
         "id": "470cb7e1-316c-41ae-9225-f938e330c8dc",
         "title": "Hardware Engineer Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -444424,5 +444424,284 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "date_updated": 1774873240,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/piaggiofastforward/jobs/6751147",
+        "company_name": "Piaggio Fast Forward",
+        "title": "Robotics and AI Co-op",
+        "locations": [
+            "Boston, MA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "1a14340b-56d9-42b1-914e-3451ce51c054",
+        "date_posted": 1774873240,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774873467,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.ashbyhq.com/farsight/096cdc49-06ae-4724-8f46-c58184e98334",
+        "company_name": "Farsight",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "7e20f9b3-005a-49be-b68a-51027abfaa7f",
+        "date_posted": 1774873435,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774873639,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Danvers-Massachusetts-United-States-of-America/Software-Testing-Co-Op---Fall-2026_R-057551",
+        "company_name": "Johnson & Johnson",
+        "title": "Software Testing Co-Op",
+        "locations": [
+            "Danvers, MA"
+        ],
+        "terms": [
+            "Fall 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "2226016a-fcac-4e14-a61c-cab14caba462",
+        "date_posted": 1774873639,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774873990,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7676466003",
+        "company_name": "Varda Space",
+        "title": "Flight Software (C++) Internship",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "terms": [
+            "Fall 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "044d297e-5c26-4fda-9b4a-ad59e2fef7cb",
+        "date_posted": 1774873990,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774874833,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.smartrecruiters.com/RedBull/b0db20c3-80cd-4a14-b542-140aaca93ed6",
+        "company_name": "Red Bull",
+        "title": "Internship, Data Science",
+        "locations": [
+            "East Hanover, NJ"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "7320921d-0d65-4df4-bd89-a73dcfea54e8",
+        "date_posted": 1774874833,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774874928,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.ashbyhq.com/cyvl/c1223ae0-c2fd-4ea3-af8e-ecd07822a9a5",
+        "company_name": "AI Intern to the CEO",
+        "title": "CYVL",
+        "locations": [
+            "Boston, MA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "ce1aa933-2715-4f8c-a2c3-f66332889d6a",
+        "date_posted": 1774874928,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774875046,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://luzco.applytojob.com/apply/OHwY6sYgEt/AI-Solutions-CoOp",
+        "company_name": "LUZCO",
+        "title": "AI Solutions Co-Op",
+        "locations": [
+            "Maplewood, MO"
+        ],
+        "terms": [
+            "Fall 2026",
+            "Spring 2026",
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "52f8e2b2-238a-4c78-9863-954c36103e39",
+        "date_posted": 1774875046,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774875159,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://job-boards.greenhouse.io/msfcareers/jobs/4993728008",
+        "company_name": "Doctors Without Borders",
+        "title": "Data Science Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "9eb5db83-d537-441b-9c55-31a3f7b3746b",
+        "date_posted": 1774875159,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774875307,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://deka.applytojob.com/apply/ky7RvFYoQW/Machine-Learning-Internship-Generative-AI-And-Computer-VisionSummer-2026",
+        "company_name": "DEKA Research & Development",
+        "title": "Machine Learning- Internship- Generative AI and Computer Vision",
+        "locations": [
+            "Manchester, NH"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "f1ee2b6f-76ce-4238-aa6a-1df9ba9a3491",
+        "date_posted": 1774875307,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774875478,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=5826778004",
+        "company_name": "Agility",
+        "title": "Robotics Software Engineering Intern",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "89fe530e-aa66-4e4d-9a3d-9ce16562a41f",
+        "date_posted": 1774875478,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774875704,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jci.wd5.myworkdayjobs.com/en-US/jci/job/Milwaukee-Wisconsin-United-States-of-America/Software-Engineering-Intern_WD30264038",
+        "company_name": "Johnson Controls",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "9647ddea-ae50-456a-b0f1-21676fd496b7",
+        "date_posted": 1774875704,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774875824,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://situsamc.wd1.myworkdayjobs.com/en-US/situsamc/job/Remote/Intern---AI-Software-Development-Team_JR02562",
+        "company_name": "SitusAMC",
+        "title": "Intern - AI Software Development Team",
+        "locations": [
+            "Remote in US"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "d6737fae-2535-4b76-b693-3713c0dc4b0e",
+        "date_posted": 1774875824,
+        "company_url": "",
+        "is_visible": true
     }
 ]
