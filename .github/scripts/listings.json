@@ -282200,7 +282200,7 @@
         "company_name": "Scientific Research Corporation",
         "id": "f80b92f8-f2ce-44ed-93e9-f358c3f610fb",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -445059,6 +445059,29 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Booz Allen",
+        "id": "6eaee25d-c08c-4688-9b8a-5f02c1c27f81",
+        "title": "University Data Scientist",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774844924,
+        "date_posted": 1771689753,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Data-Scientist_R0233012",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
