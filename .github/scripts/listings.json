@@ -228528,7 +228528,7 @@
         "company_name": "Honeywell",
         "id": "f7010739-ab5a-4c21-9567-55dba60a5f05",
         "title": "Intern Bachelors Embedded Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -323545,7 +323545,7 @@
         "company_name": "Fidelity Investments",
         "id": "9af2b479-ce6b-4409-a89d-701644cff541",
         "title": "Intern Data Science and Optimization",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -383251,7 +383251,7 @@
         "company_name": "Fidelity Investments",
         "id": "157957e6-b0e3-4514-b270-eb678b3c50c6",
         "title": "Co-Op \u2013 Risk Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -385882,7 +385882,7 @@
         "company_name": "Fidelity Investments",
         "id": "cead6d6a-500b-466c-ab3c-d72e13cbcc26",
         "title": "Co-op \u2013 Advanced Data Analytics and Insights",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -409797,7 +409797,7 @@
         "company_name": "The Walt Disney Company",
         "id": "aa36d9e6-ea1f-4a00-ab6d-8ec4183394cd",
         "title": "Decision Science Graduate Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -410433,7 +410433,7 @@
         "company_name": "KION Group",
         "id": "8eb44b0c-8d8e-4bd2-88d0-51fb9b03511c",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -442104,7 +442104,7 @@
         "company_name": "Bank of Montreal",
         "id": "074a664a-2e1d-4f92-bcdf-220a23022a72",
         "title": "Software Developer \u2013 Co-op/Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -442127,7 +442127,7 @@
         "company_name": "Bank of Montreal",
         "id": "7214e29d-faaf-4e62-ade6-72dded419176",
         "title": "Software Developer \u2013 Co-op/Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -442198,7 +442198,7 @@
         "company_name": "Copart",
         "id": "2a29fc45-0277-47ba-80e6-4d49802212d4",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -442430,7 +442430,7 @@
         "company_name": "BECU",
         "id": "db556438-8dd5-4e87-8b34-9e641b77d1aa",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -442593,7 +442593,7 @@
         "company_name": "Calix",
         "id": "801cac08-39cb-4df3-8e68-5beed46e6eaf",
         "title": "Customer Experience Operations and Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -442985,7 +442985,7 @@
         "company_name": "Leidos",
         "id": "5fd83f6a-a041-434a-b1b0-254c3e83cb8b",
         "title": "Data Science / Decision Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443264,7 +443264,7 @@
         "company_name": "American University",
         "id": "2c008acc-002e-4c36-9e12-97d50a1dfaa9",
         "title": "Data Assistant - Student - Federal Work Study",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -443563,7 +443563,7 @@
         "company_name": "Kinaxis",
         "id": "56af5c93-ff4a-4acf-9ef2-a61291dc9b09",
         "title": "Intern Developer - Front End Technologies",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -443984,7 +443984,7 @@
         "company_name": "University of Arkansas",
         "id": "ad639ce0-562f-40b2-8d29-ea4c866cea6e",
         "title": "Cosmos Graduate Research Assistant",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -444105,7 +444105,7 @@
         "company_name": "Leidos",
         "id": "8f57dc5c-4b8f-4053-a70d-735ad8ebe0a2",
         "title": "Data Integration Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
