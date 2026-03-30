@@ -245119,7 +245119,7 @@
         "company_name": "General Motors",
         "id": "a5945f9d-f7da-4cf3-ad1a-eb952a00856e",
         "title": "Intern - Simulation Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -324995,7 +324995,7 @@
         "company_name": "Bio-Techne",
         "id": "ccb82baf-56bc-44a5-a824-6d8619d22235",
         "title": "Marketing Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -358436,7 +358436,7 @@
         "company_name": "ABB",
         "id": "949bf08f-4bbb-49cd-a9c1-48c57235243c",
         "title": "AI Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -375606,7 +375606,7 @@
         "company_name": "Legal & General",
         "id": "4757ce71-7596-4e48-9db1-aaa09920727c",
         "title": "Apprenticeship - Software Engineering L6 Programme - Cardiff",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -396596,7 +396596,7 @@
         "company_name": "Autodesk",
         "id": "8a79d6f6-cc7b-488b-917f-377de5413492",
         "title": "Intern AI Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -405566,7 +405566,7 @@
         "company_name": "Arrowstreet Capital",
         "id": "a6a63e14-a943-495b-adea-9b4ad9c3cb88",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -412932,7 +412932,7 @@
         "company_name": "Northrop Grumman",
         "id": "4b3ff341-926d-40cd-9f89-3a52df428b20",
         "title": "Intern Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -422271,7 +422271,7 @@
         "company_name": "Micron Technology",
         "id": "b9cfdf6a-6e65-4ead-a9f7-faddbafd9e7d",
         "title": "Intern \u2013 GQ Reliability Methods",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -423991,7 +423991,7 @@
         "company_name": "IDEXX",
         "id": "81b4d3f0-dae8-4fb3-88b2-44cf521eea88",
         "title": "Enterprise Cloud Spend Optimization Intern - Finops",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -433262,7 +433262,7 @@
         "company_name": "MSX International",
         "id": "62cb8d34-d2cb-4d28-87a5-cfe2f3fd7dba",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -443729,7 +443729,7 @@
         "company_name": "MSX International",
         "id": "819b73f5-a024-4b68-aa4d-8b3a2786c59e",
         "title": "Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445105,5 +445105,49 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hudl",
+        "id": "856cdec2-0bd6-446a-bef0-a13c17b4de4e",
+        "title": "Intern \u2013 Hardware Operatons",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774736590,
+        "date_posted": 1774736590,
+        "url": "https://job-boards.greenhouse.io/hudl/jobs/7746558",
+        "locations": [
+            "Lincoln, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Hudl",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Guidepoint",
+        "id": "1cc2e7b5-56fd-4faf-8fc6-92d912684f54",
+        "title": "Healthcare Data Analyst",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774649882,
+        "date_posted": 1774649882,
+        "url": "https://job-boards.greenhouse.io/guidepoint/jobs/8433429002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Guidepoint",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
