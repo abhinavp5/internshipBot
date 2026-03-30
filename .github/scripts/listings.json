@@ -104125,7 +104125,7 @@
         "company_name": "JP Morgan Chase",
         "id": "09167fcd-e620-4ed6-966f-245c7f4420d1",
         "title": "Machine Learning Summer Associate - Machine Learning Center of Excellence",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -149296,7 +149296,7 @@
         "company_name": "Brevan Howard",
         "id": "a9835d89-5fa0-44f4-b509-98fb54769c7b",
         "title": "AI/ML/Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -291804,7 +291804,7 @@
         "company_name": "Velera",
         "id": "e5ecd4a8-1bf6-4bb8-b8ce-4b6f79f5d3b9",
         "title": "Intern \u2013 Product Manager Fraud",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -316646,7 +316646,7 @@
         "company_name": "Kroll",
         "id": "6ec40ca1-95e5-4505-aee1-11667fbe29f1",
         "title": "Intern \u2013 Technology - Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2027",
@@ -349526,7 +349526,7 @@
         "company_name": "EBSCO",
         "id": "7401d8e4-c056-4698-b8a9-9aa957a16507",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -359522,7 +359522,7 @@
         "company_name": "SWBC",
         "id": "7369e519-bfb3-4295-a8a9-7dc178c02d7a",
         "title": "Application Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -373066,7 +373066,7 @@
         "company_name": "Mentis AI",
         "id": "19911186-575d-45f6-be14-7d93db376666",
         "title": "Asset Management Professional AI Residency - Frontier AI Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -402986,7 +402986,7 @@
         "company_name": "Weiss Asset Management",
         "id": "1b705ddd-4f92-4904-b702-24602cc70f76",
         "title": "Quantitative Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -411810,7 +411810,7 @@
         "company_name": "Howmet Aerospace",
         "id": "71eff25f-0b46-4aaa-b627-e67bd5fd0f40",
         "title": "Manufacturing Data Analyst - Training Program",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -424429,7 +424429,7 @@
         "company_name": "Qorvo",
         "id": "954d0990-1e73-4e51-bf70-e4b1976c4ec6",
         "title": "Mechanical CAD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -426288,7 +426288,7 @@
         "company_name": "Cooper Companies",
         "id": "bb7d93c3-d976-472d-85f1-c975b48a34e9",
         "title": "Pricing Analytics \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -426617,7 +426617,7 @@
         "company_name": "Vishay Intertechnology",
         "id": "85724137-b3f0-43be-a95f-ab4d6936a4ae",
         "title": "R&D Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -426828,7 +426828,7 @@
         "company_name": "BlueRock Therapeutics",
         "id": "98df5633-f479-4bb2-ba84-e7f3cb416fe1",
         "title": "Co-Op \u2013 Lab Operations & GMP Facilities",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -433330,7 +433330,7 @@
         "company_name": "Extreme Networks",
         "id": "1d89e24b-43e1-4f1d-8ea0-cdf20414bfbb",
         "title": "Intern - Hardware Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -440866,7 +440866,7 @@
         "company_name": "Oshkosh",
         "id": "fea0482e-b9d1-4b08-8562-7c9d8e41e9f8",
         "title": "Electrical Design Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -442727,7 +442727,7 @@
         "company_name": "GSK",
         "id": "2444b834-e484-47cb-a0f5-fd3c08132c77",
         "title": "Business Intelligence Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -442962,7 +442962,7 @@
         "company_name": "United Parcel Service (UPS)",
         "id": "2cee4259-420e-407a-8d4e-530a3210a353",
         "title": "Co-op Web Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -442985,7 +442985,7 @@
         "company_name": "Leidos",
         "id": "5fd83f6a-a041-434a-b1b0-254c3e83cb8b",
         "title": "Data Science / Decision Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443215,7 +443215,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "83205539-3575-4881-92eb-7fe6de6983e8",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443656,7 +443656,7 @@
         "company_name": "TSC",
         "id": "a8caa7b4-ea47-4164-ab82-f49522604ec5",
         "title": "Computer Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -444703,5 +444703,362 @@
         "date_posted": 1774875824,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Becton Dickinson",
+        "id": "819c6b5c-bcbd-4e40-af06-3bba92f13d41",
+        "title": "MMS R&D Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774880461,
+        "date_posted": 1774879761,
+        "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---San-Diego-Bldg-AB/MMS-R-D-Engineering-Intern_R-541540",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boston Medical Center",
+        "id": "0d7e2d38-b91a-4f39-8c96-c3c4b6995940",
+        "title": "Software Developer Intern - Infectious Diseases Research",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774880898,
+        "date_posted": 1774879599,
+        "url": "https://bmc.wd1.myworkdayjobs.com/BMC/job/Boston/Software-Developer-Student-Intern--Infectious-Diseases-Research_47533-1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Medical-Center",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Realtor.com",
+        "id": "e72c1669-574b-428b-851d-dd0b70925dc7",
+        "title": "Intern Data Scientist",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774881003,
+        "date_posted": 1774880004,
+        "url": "https://boards.greenhouse.io/rdccareers/jobs/7652491003",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Realtordotcom",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Tencent",
+        "id": "af95d6fa-a950-44de-8595-03fd5064f90b",
+        "title": "Product Manager Intern - Influencer Marketing",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774880461,
+        "date_posted": 1774879652,
+        "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/Product-Manager-Intern--Influencer-Marketing_R107233-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tencent",
+        "id": "59170534-b94f-4fea-bcf9-fe7345b8e3ba",
+        "title": "Data Science Intern - Influencer Marketing AI Application",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774880461,
+        "date_posted": 1774879654,
+        "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/Data-Analyst-Intern_R107228",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Takeda",
+        "id": "33c84689-0cd3-4205-8cbc-764c2c445043",
+        "title": "Documentation & Artificial Intelligence Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774880904,
+        "date_posted": 1774879722,
+        "url": "https://takeda.wd3.myworkdayjobs.com/external/job/USA---GA---Social-Circle---Hwy-278/XMLNAME-2026-US-Summer-Internship-Program--Documentation---Artificial-Intelligence-Intern_R0166868",
+        "locations": [
+            "Monroe, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Takeda",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tencent",
+        "id": "a55022d4-282c-481c-8e9f-8133ccf3797a",
+        "title": "Data Science Intern - Influencer Marketing AI Application",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774880461,
+        "date_posted": 1774879667,
+        "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/Netherlands-Amsterdam/Data-Science-Intern--Influencer-Marketing-AI-Application_R107228",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bernhard",
+        "id": "634a4cb8-e990-41e5-acd8-9be5c85b85e6",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774880741,
+        "date_posted": 1774879484,
+        "url": "https://careers-enfra.icims.com/jobs/9613/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Little Rock, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Bernhard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Enbridge",
+        "id": "32677a39-f1eb-4718-9e7e-f44a0cb1d8fb",
+        "title": "Engineer in Training 1",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774881002,
+        "date_posted": 1774879703,
+        "url": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/North-York-ON-CAN/Engineer-in-Training-I_70734-1",
+        "locations": [
+            "North York, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Enbridge",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CommScope",
+        "id": "21d19613-b9a6-40b0-8916-e7a987717433",
+        "title": "Intern IT Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774880461,
+        "date_posted": 1774879592,
+        "url": "https://jobs.commscope.com/job/Claremont-Intern-IT-Data-Analytics-Intern-Nort/1377746900/?ats=successfactors",
+        "locations": [
+            "Hickory, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/CommScope",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Swift",
+        "id": "a39eab08-4d52-43f4-9b61-72788da20cba",
+        "title": "Identity & Access Management Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774880461,
+        "date_posted": 1774879645,
+        "url": "https://swift.wd3.myworkdayjobs.com/join-swift/job/Tysons-United-States/Identity---Access-Management-Product-Manager-Intern_2025-15134",
+        "locations": [
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Swift",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Tencent",
+        "id": "913eaf20-831b-4d28-8c6d-ee7a39c25422",
+        "title": "Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Winter 2016",
+            "Spring 2016",
+            "Summer 2016",
+            "Fall 2016",
+            "Winter 2017",
+            "Spring 2017",
+            "Summer 2017",
+            "Fall 2017"
+        ],
+        "date_updated": 1774880461,
+        "date_posted": 1774879660,
+        "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/Product-Manager-Intern_R107232-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Tencent",
+        "id": "72bd8a68-5540-439b-b77b-724e6c606226",
+        "title": "Product Manager Intern - Influencer Marketing",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774880461,
+        "date_posted": 1774879652,
+        "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/Netherlands-Amsterdam/Product-Manager-Intern--Influencer-Marketing_R107233",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Snyk",
+        "id": "311e3e17-72ef-40c5-9bce-2e719a0ea22b",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774880461,
+        "date_posted": 1774879651,
+        "url": "https://snyk.wd103.myworkdayjobs.com/External/job/United-Kingdom---London-Office/Software-Engineer-Intern_JR100496",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Snyk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Tencent",
+        "id": "3089d18c-a621-44c5-b220-b487e1db1731",
+        "title": "Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Winter 2016",
+            "Spring 2016",
+            "Summer 2016",
+            "Fall 2016",
+            "Winter 2017",
+            "Spring 2017",
+            "Summer 2017",
+            "Fall 2017"
+        ],
+        "date_updated": 1774880461,
+        "date_posted": 1774879650,
+        "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/Netherlands-Amsterdam/Product-Manager-Intern_R107232",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
