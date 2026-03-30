@@ -245907,7 +245907,7 @@
         "company_name": "Zipline",
         "id": "601491a4-5de0-4f45-b6eb-40afebbb6a1b",
         "title": "Motor Control Firmware",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -245950,7 +245950,7 @@
         "company_name": "Zipline",
         "id": "12a46539-a1cd-4b1c-bbf4-fc800e0cd9aa",
         "title": "Spatial Planning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -385861,7 +385861,7 @@
         "company_name": "Zipline",
         "id": "eab14d03-e340-4e7e-b889-ec0f7a50cdba",
         "title": "Perception Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -395735,7 +395735,7 @@
         "company_name": "GE Vernova",
         "id": "1098ce7b-395b-4b20-8035-499cba8a8ab0",
         "title": "GE Vernova Digital Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -418057,7 +418057,7 @@
         "company_name": "Canadian Tire",
         "id": "bb09b5b8-edb3-426f-b1d8-261cb35b89d1",
         "title": "Innovation & Testing Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -442104,7 +442104,7 @@
         "company_name": "Bank of Montreal",
         "id": "074a664a-2e1d-4f92-bcdf-220a23022a72",
         "title": "Software Developer \u2013 Co-op/Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -442127,7 +442127,7 @@
         "company_name": "Bank of Montreal",
         "id": "7214e29d-faaf-4e62-ade6-72dded419176",
         "title": "Software Developer \u2013 Co-op/Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -442430,7 +442430,7 @@
         "company_name": "BECU",
         "id": "db556438-8dd5-4e87-8b34-9e641b77d1aa",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -442593,7 +442593,7 @@
         "company_name": "Calix",
         "id": "801cac08-39cb-4df3-8e68-5beed46e6eaf",
         "title": "Customer Experience Operations and Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -442616,7 +442616,7 @@
         "company_name": "RTX",
         "id": "d2c75dd9-0097-4ea1-8a18-1679f8cffd47",
         "title": "DevSecOps Software Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -442985,7 +442985,7 @@
         "company_name": "Leidos",
         "id": "5fd83f6a-a041-434a-b1b0-254c3e83cb8b",
         "title": "Data Science / Decision Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
