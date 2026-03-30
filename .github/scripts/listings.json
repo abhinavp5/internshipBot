@@ -2691,7 +2691,7 @@
         "company_name": "Ramp",
         "id": "6b976321-b3f1-4529-bee1-b8c1d3ed433e",
         "title": "Software Engineer Internship - IOS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -220359,7 +220359,7 @@
         "company_name": "Federal Home Loan Bank of Indianapolis",
         "id": "b1765739-ede5-4423-ba81-b5a5be4f7924",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -261682,7 +261682,7 @@
         "company_name": "CommScope",
         "id": "024f513e-a182-4abc-b8b4-d4f397ff65de",
         "title": "Intern-Field Application Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -263163,7 +263163,7 @@
         "company_name": "Qorvo",
         "id": "0c6398a0-2cb5-4f82-81ca-ed1dbb7a407e",
         "title": "Characterization Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -343286,7 +343286,7 @@
         "company_name": "BJ's Wholesale Club",
         "id": "a8e9f351-e86c-4bdb-ab96-8b7a1edb4463",
         "title": "Pricing Analytics Intern - Pricing Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344956,7 +344956,7 @@
         "company_name": "Thomson Reuters",
         "id": "134dc290-9896-4790-b038-36357937a7e3",
         "title": "Applied Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -362229,7 +362229,7 @@
         "company_name": "X Development",
         "id": "2031a9c3-b403-4541-a72c-5cece1ef4757",
         "title": "PhD Residency - Knowledge Graph - Operations Research and Reinforcement Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -370807,7 +370807,7 @@
         "company_name": "Fresenius Kabi",
         "id": "6196f334-4c03-4aaa-bc19-c1fad8f0771b",
         "title": "Intern \u2013 Research & Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371058,7 +371058,7 @@
         "company_name": "Micron Technology",
         "id": "7ecaa01c-0823-4bbd-86bd-84f4802fe304",
         "title": "Intern Technology - Amais",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371128,7 +371128,7 @@
         "company_name": "Micron Technology",
         "id": "2af57892-a43d-4045-ab0d-0945633d5bc1",
         "title": "Intern \u2013 Technology - Amais",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -384930,7 +384930,7 @@
         "company_name": "Motorola",
         "id": "8dcfd788-29c8-495e-a076-cf873ee35d94",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -390402,7 +390402,7 @@
         "company_name": "Micron Technology",
         "id": "ac30ed2f-1bd9-4fed-9948-e8f2bf8f9946",
         "title": "Intern \u2013 Design Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -391911,7 +391911,7 @@
         "company_name": "Kaiser Permanente",
         "id": "bae1bd2e-cd57-45a5-9560-a7d5d95ba73c",
         "title": "Applied Data Analytics Bachelor's Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -393981,7 +393981,7 @@
         "company_name": "Scout Motors",
         "id": "6f72277a-6508-41a3-9638-5fc79dc5c1ea",
         "title": "Intern \u2013 Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -400968,7 +400968,7 @@
         "company_name": "Skechers",
         "id": "ef73f9ff-57d1-484e-aaf6-c35c0727b2f9",
         "title": "Full Stack & GenAI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -415311,7 +415311,7 @@
         "company_name": "BorgWarner",
         "id": "40f63796-ad46-4f2f-8be2-b72378a6b961",
         "title": "Emotor Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -426686,7 +426686,7 @@
         "company_name": "CME Group",
         "id": "671f1023-fb0b-4ac0-9be8-bbe18eeaa544",
         "title": "Risk Policy Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -429872,7 +429872,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "ccb5db4c-e6e0-44cf-b73a-1b3a96166319",
         "title": "Artificial Intelligence/Machine Learning Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -434155,7 +434155,7 @@
         "company_name": "Fiserv",
         "id": "8cd514ab-cf38-4b8f-a7ea-81ddf5de54f0",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439405,7 +439405,7 @@
         "company_name": "Becton Dickinson",
         "id": "a724ec6c-b8dc-4bf8-90ac-cb58cd7efaa3",
         "title": "Product Marketing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -440979,7 +440979,7 @@
         "company_name": "Cirrus Logic",
         "id": "e266847e-7fd9-4d08-b846-56ae0dae2ed4",
         "title": "Intern - Formal Verification",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
