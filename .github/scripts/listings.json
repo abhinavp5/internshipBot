@@ -6095,7 +6095,7 @@
         "company_name": "Notion",
         "id": "d2e75901-15a0-4ebf-9226-2a7f4e1091f4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -59634,7 +59634,7 @@
         "company_name": "Scale AI",
         "id": "da699324-d94b-4a48-8186-7adbce31f5f4",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -164630,7 +164630,7 @@
         "company_name": "Micron Technology",
         "id": "c26a571e-368d-4417-93cf-ea815ee4921f",
         "title": "Intern \u2013 NAND Storage Strategic Roadmap Planning & Client SSD TPM",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -236583,7 +236583,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "35134aea-ef14-4672-9681-342367e41372",
         "title": "LLM & Agentic AI R&D Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -258974,7 +258974,7 @@
         "company_name": "Microsoft",
         "id": "30c64921-31cb-49f0-81a2-62d478fd7259",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -275781,7 +275781,7 @@
         "company_name": "Exiger",
         "id": "7a0f8a48-a87c-4ff8-9867-0e4bc89a050f",
         "title": "Trade Intelligence Analyst Intern - Government Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -329747,7 +329747,7 @@
         "company_name": "Teledyne",
         "id": "7c709b68-35ac-4b0b-aa27-72cb53da18af",
         "title": "NHRC Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -359312,7 +359312,7 @@
         "company_name": "Stoke Space",
         "id": "62ea003a-c4c9-4452-8e1d-3de5fc406dd2",
         "title": "Intern - Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -362438,7 +362438,7 @@
         "company_name": "Stoke Space",
         "id": "e13f727c-d75a-4a9a-a83d-f55cb0f9b841",
         "title": "Intern - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -364582,7 +364582,7 @@
         "company_name": "Genworth Financial",
         "id": "b1b2d904-8c37-45ff-be02-7533210bcfe2",
         "title": "Data Analytics Internship - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368656,7 +368656,7 @@
         "company_name": "Kinaxis",
         "id": "b3d39fa7-7259-4de8-b7bc-4f555e8110a7",
         "title": "Co-Op/ Intern AI/ ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -398521,7 +398521,7 @@
         "company_name": "Span",
         "id": "f016124d-313d-4560-b882-6728c76f27be",
         "title": "Hardware Test Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -401779,7 +401779,7 @@
         "company_name": "Guidewire",
         "id": "71cabcc0-9fe8-4f15-88f0-9f5d4b45545b",
         "title": "Front-End Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -402822,7 +402822,7 @@
         "company_name": "Clockwork Systems",
         "id": "28c3f0f4-dac2-4dc6-8f7c-f3cbebccf835",
         "title": "Systems Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -405286,7 +405286,7 @@
         "company_name": "Tekton",
         "id": "71c4fe6c-a57b-4e7a-adb1-092655b1ea5c",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -409031,7 +409031,7 @@
         "company_name": "Cadence Design Systems",
         "id": "51d2b518-8a4c-4a03-bcfb-e1d13172cd6e",
         "title": "LLM/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -410005,7 +410005,7 @@
         "company_name": "Guidewire",
         "id": "3c7a2512-c6b9-481a-ad48-58c081ee5025",
         "title": "AI Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -414632,7 +414632,7 @@
         "company_name": "StockX",
         "id": "fe7b90e8-a2c2-433c-9418-e9d70227f9a8",
         "title": "Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -415897,7 +415897,7 @@
         "company_name": "StockX",
         "id": "799b6c63-1dd1-464c-896e-04dba97b1b31",
         "title": "Software Engineering Intern - DRC Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -436196,7 +436196,7 @@
         "company_name": "Philips",
         "id": "c961d0da-7528-4a78-9a29-a4f573e4d2c3",
         "title": "Intern Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -440208,7 +440208,7 @@
         "company_name": "Western Alliance",
         "id": "8bc3d7ec-c8f0-4ba5-9b41-d471f022a2c3",
         "title": "Intern - Computer Science Majors",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -440931,7 +440931,7 @@
         "company_name": "Hitachi",
         "id": "759f419b-5f10-41a6-8705-c15f4515c31b",
         "title": "Software Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
