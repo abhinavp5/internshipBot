@@ -347634,7 +347634,7 @@
         "company_name": "Veolia",
         "id": "34601653-4ffe-439e-8f13-df6b64bd349d",
         "title": "Apprentice Service Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364951,7 +364951,7 @@
         "company_name": "Moog ",
         "id": "29db59d0-1628-439f-a06a-b122ec32765b",
         "title": "Intern \u2013 Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -366528,7 +366528,7 @@
         "company_name": "Intuitive Surgical",
         "id": "f53c44cf-5dd3-42ac-bd9e-ab680d5d8f96",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -366549,7 +366549,7 @@
         "company_name": "Apex Clean Energy",
         "id": "90670473-7b13-49c8-9a67-54fbebe00872",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368226,7 +368226,7 @@
         "company_name": "Codeage",
         "id": "272cb1de-278a-45fe-87a1-7215f39bdd32",
         "title": "Web Developer Intern - Wordpress and Woocommerce",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -384395,7 +384395,7 @@
         "company_name": "Treehouse Strategy and Communications",
         "id": "b600dad5-41be-4e3a-b112-014756cf39ab",
         "title": "Web Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -384441,7 +384441,7 @@
         "company_name": "Treehouse Strategy and Communications",
         "id": "48f0a75b-3d75-48cf-a815-99fc9273b7e9",
         "title": "Python Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -385346,7 +385346,7 @@
         "company_name": "Kioxia",
         "id": "814fc4b3-0f73-4a75-a397-f6c5f9720d98",
         "title": "Full Stack Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -395279,7 +395279,7 @@
         "company_name": "Kioxia",
         "id": "cada7d39-4d7c-42a5-ab3d-10e28b7e2b27",
         "title": "Product Line Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -395349,7 +395349,7 @@
         "company_name": "Veolia",
         "id": "704ddbc1-116c-4f00-8ee4-12d843ecb5f6",
         "title": "Drupal Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -404465,7 +404465,7 @@
         "company_name": "Veolia",
         "id": "b1106c69-a152-4478-85a9-e787410cd535",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -405330,7 +405330,7 @@
         "company_name": "Kioxia",
         "id": "59c5557b-cffd-4bca-b416-fb2841ef4930",
         "title": "Technical Product Marketing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -405447,7 +405447,7 @@
         "company_name": "Veolia",
         "id": "0448e3fe-5ff4-4808-b1fc-a5bfc27d2d33",
         "title": "AI Engineering Intern - LLM",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -408863,7 +408863,7 @@
         "company_name": "Kioxia",
         "id": "8ac73d51-1f47-4635-af71-a02661d0284c",
         "title": "Innovation Lab Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -421976,7 +421976,7 @@
         "company_name": "The Federal Reserve System",
         "id": "0c86cfb3-6d20-4de6-a83a-ca0b297c4b54",
         "title": "Supervision \u2013 And Statistics Intern - Credit Risk",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -425655,7 +425655,7 @@
         "company_name": "Centrica",
         "id": "1815ec3f-37b8-4e78-a16c-824e9570d442",
         "title": "Commodity Trading Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -429632,7 +429632,7 @@
         "company_name": "Moog ",
         "id": "88339180-5b4d-4b42-b9dd-bcf30f443e94",
         "title": "Intern Hardware Design Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -432018,7 +432018,7 @@
         "company_name": "City of Philadelphia",
         "id": "899ff696-2738-416a-bdb8-37302b4588fb",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -433750,7 +433750,7 @@
         "company_name": "Fresenius Medical Care",
         "id": "de2841a3-61ba-4e45-a2c7-6b6e107d47a8",
         "title": "Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -436436,7 +436436,7 @@
         "company_name": "Fiserv",
         "id": "36d876ee-2ff0-44d2-8bde-f32318335a09",
         "title": "Intern Program - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439591,7 +439591,7 @@
         "company_name": "AECOM",
         "id": "1a556e1c-d39b-48d8-95e1-1284bd664a3c",
         "title": "Asset Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -446991,5 +446991,166 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1774935842,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-revolutioncompany.icims.com/jobs/2869/full-stack-developer-intern/job",
+        "company_name": "Revolution",
+        "title": "Full Stack Developer Intern",
+        "locations": [
+            "Dallas. TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "03e55a45-ecf9-4f94-9dad-35e6e3f65220",
+        "date_posted": 1774935842,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774936000,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-biorad.icims.com/jobs/38316/test-engineering-intern-%28software%29/job",
+        "company_name": "Bio-Rad Laboratories",
+        "title": "Test Engineering Intern (Software)",
+        "locations": [
+            "Hercules, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "3a4c6dff-d288-40a5-a26e-551d641cf3aa",
+        "date_posted": 1774936000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774936113,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.ashbyhq.com/embedding-vc/eaf10b14-03ef-412c-b0f0-78900f0a213c",
+        "company_name": "Creatify",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "2d6c607d-d59a-4790-aac5-ec410e6ffe63",
+        "date_posted": 1774936113,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774936203,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://palomarproducts.applytojob.com/apply/NO42sUcZ9h/Software-Engineering-Intern-Onsite",
+        "company_name": "Palomar Products",
+        "title": "Software Engineering Intern - Onsite",
+        "locations": [
+            "Rancho Santa Margarita, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "387670fa-5bb3-484a-93ec-2d4ab8b0f1cb",
+        "date_posted": 1774936203,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774936363,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-revolutioncompany.icims.com/jobs/2868/ai-engineer-intern/job",
+        "company_name": "Revolution",
+        "title": "AI Engineer Intern",
+        "locations": [
+            "Terre Haute, IN"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "42c6fccb-baa0-4279-94e0-1b72f361244b",
+        "date_posted": 1774936363,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774936488,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://apply.workable.com/terabase-energy/j/5CDBB58919/",
+        "company_name": "Terabase",
+        "title": "Robotics & Autonomy Engineering Intern",
+        "locations": [
+            "Davis, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "2b5f6473-3e69-4c88-b370-2c7dfffe24c6",
+        "date_posted": 1774936488,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774936575,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-gotyto.icims.com/jobs/1794/ai-ml-engineering-intern/job",
+        "company_name": "TALON",
+        "title": "AI/ML Engineering Intern",
+        "locations": [
+            "Reston, VA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "ca11c9e4-b199-436a-9c72-5c8e97d13880",
+        "date_posted": 1774936575,
+        "company_url": "",
+        "is_visible": true
     }
 ]
