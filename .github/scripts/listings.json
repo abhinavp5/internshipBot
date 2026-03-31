@@ -241889,7 +241889,7 @@
         "company_name": "Nokia",
         "id": "7f6e95f6-60be-41e6-b5bc-5c87b50cc1fe",
         "title": "AI/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -290293,7 +290293,7 @@
         "company_name": "AG Technologies",
         "id": "4c2a06a5-34c5-42d1-8fe5-aaa3af7a86bd",
         "title": "Java Networking Training and Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -362345,7 +362345,7 @@
         "company_name": "3S Business Corporation",
         "id": "963e9570-553a-495b-86bd-f38700c97580",
         "title": "ABAP Training and Placement - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -368790,7 +368790,7 @@
         "company_name": "Deegit",
         "id": "256798fe-4039-417e-ba1c-2b3b647041de",
         "title": "Oracle Fusion Middleware - Oracle Fusion Middleware",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -375903,7 +375903,7 @@
         "company_name": "Jobs for Humanity",
         "id": "a12394d5-cf24-4163-b933-f97a81581b85",
         "title": "Artificial Intelligence Manager",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -378807,7 +378807,7 @@
         "company_name": "Proximate Technologies",
         "id": "5c8636dd-9a87-4f4e-b8d5-4feb37823af0",
         "title": ".Net",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -383251,7 +383251,7 @@
         "company_name": "Fidelity Investments",
         "id": "157957e6-b0e3-4514-b270-eb678b3c50c6",
         "title": "Co-Op \u2013 Risk Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -413216,7 +413216,7 @@
         "company_name": "Netflix",
         "id": "3128bce7-bcb8-4994-9982-0fa22f75bdff",
         "title": "Analytics Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -428018,7 +428018,7 @@
         "company_name": "Assent",
         "id": "9875af04-6db2-435e-b420-9ca4d4690f43",
         "title": "AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -433262,7 +433262,7 @@
         "company_name": "MSX International",
         "id": "62cb8d34-d2cb-4d28-87a5-cfe2f3fd7dba",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437080,7 +437080,7 @@
         "company_name": "Electronic Arts",
         "id": "dd0303b3-f849-4eec-bfce-a1dd1ec3a1fe",
         "title": "Software Engineer Intern ML AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -440404,7 +440404,7 @@
         "company_name": "Wabtec",
         "id": "72a2e330-7f0e-4f36-ac82-676cafd5b25e",
         "title": "Digital Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445201,7 +445201,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "3d5988e9-36ab-411f-a2f0-f41f274d8460",
         "title": "Artificial Intelligence / Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -446522,7 +446522,7 @@
         "company_name": "Leidos",
         "id": "688c5270-347a-4004-9505-05f9c95342dc",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -447621,6 +447621,75 @@
             "Manassas, VA"
         ],
         "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "192119b0-b2e4-4624-b920-70f27d272be9",
+        "title": "ETAS Documentation User Experience Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774981261,
+        "date_posted": 1772234159,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000111894341",
+        "locations": [
+            "York, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Berkshire Hathaway Energy",
+        "id": "13a714f5-027b-4b8e-be94-64ba849ff5a6",
+        "title": "Intern \u2013 Corp IT - Grid Operations Applications",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1774954621,
+        "date_posted": 1766444785,
+        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003904",
+        "locations": [
+            "Davenport, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Artech Information System",
+        "id": "238b7e68-cc82-4e02-bf45-3c6569892070",
+        "title": "Marketing Campaign Specialist",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774953654,
+        "date_posted": 1755312390,
+        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/111268494",
+        "locations": [
+            "Western Springs, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Artech-Information-System",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
