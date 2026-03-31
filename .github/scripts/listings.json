@@ -149085,7 +149085,7 @@
         "company_name": "Solidigm",
         "id": "107bfc32-911d-4af7-864d-280513dbd04d",
         "title": "Undergraduate Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -203148,7 +203148,7 @@
         "company_name": "Analog Devices",
         "id": "edb955fc-c1a5-4e4c-be99-a55c8b8cc5e1",
         "title": "Systems Integration Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -227248,7 +227248,7 @@
         "company_name": "Netflix",
         "id": "accebcd7-6b51-4a70-8f9e-3a082565ac5f",
         "title": "Analytics Engineering Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -249234,7 +249234,7 @@
         "company_name": "Berkshire Hathaway Energy",
         "id": "5ba2e47b-a26b-4890-b316-f575d9ec65fd",
         "title": "Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -254518,7 +254518,7 @@
         "company_name": "General Motors",
         "id": "d24c381b-3736-473f-8be7-77e6904ff85d",
         "title": "AI/ML Intern - Model Scaling Foundations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -293379,7 +293379,7 @@
         "company_name": "AG Technologies",
         "id": "85b23b36-83c2-44f4-b200-5f0c67e51103",
         "title": "Free training and placement for OPT students",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -365447,7 +365447,7 @@
         "company_name": "BCforward",
         "id": "46a77194-f12c-4547-8132-1cdef59fbcb7",
         "title": "VNF Systems Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -375627,7 +375627,7 @@
         "company_name": "Louis Dreyfus Company",
         "id": "21d12b5b-effa-466d-bc77-27a0cc8334d6",
         "title": "Trader Trainee Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -385882,7 +385882,7 @@
         "company_name": "Fidelity Investments",
         "id": "cead6d6a-500b-466c-ab3c-d72e13cbcc26",
         "title": "Co-op \u2013 Advanced Data Analytics and Insights",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -408450,7 +408450,7 @@
         "company_name": "Udemy",
         "id": "bf3d94cf-527f-4b11-9317-c3ed73869526",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -416517,7 +416517,7 @@
         "company_name": "University of Rochester",
         "id": "1a800c78-70d2-40fc-883b-3c8004d402b2",
         "title": "Co-op Research Student 1",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -429796,7 +429796,7 @@
         "company_name": "Veeva Systems",
         "id": "3b354067-5ca8-4600-8479-511988cd8a3a",
         "title": "Intern Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -437489,7 +437489,7 @@
         "company_name": "Western Digital",
         "id": "35e75bcb-b881-40ed-8ab0-915e8611c4c0",
         "title": "Intern - Failure Analysis Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439287,7 +439287,7 @@
         "company_name": "Western Digital",
         "id": "7b181b24-a2b7-432b-80d8-2b072d48a486",
         "title": "Intern - Software Engineer - Web/App Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -440458,7 +440458,7 @@
         "company_name": "Wabtec",
         "id": "dfbb7b84-14b2-48c8-8364-fea1561a1fee",
         "title": "Firmware Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -442104,7 +442104,7 @@
         "company_name": "Bank of Montreal",
         "id": "074a664a-2e1d-4f92-bcdf-220a23022a72",
         "title": "Software Developer \u2013 Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -444868,7 +444868,7 @@
         "company_name": "Bernhard",
         "id": "634a4cb8-e990-41e5-acd8-9be5c85b85e6",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -447287,5 +447287,49 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comtech",
+        "id": "126d88e3-b139-4f05-a819-7867cd679fde",
+        "title": "Software Development Engineer in Test",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774951827,
+        "date_posted": 1771571680,
+        "url": "https://jobs.smartrecruiters.com/ComtechLLC2/743999653824310",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comtech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "690caaed-b4ea-4781-8be9-4791871640d5",
+        "title": "Graduate Placement - Product Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774949401,
+        "date_posted": 1762536322,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000089046325",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
