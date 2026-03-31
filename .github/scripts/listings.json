@@ -27955,7 +27955,7 @@
         "company_name": "Crowe",
         "id": "28b72824-0e7c-4d50-b9ad-4b1cc17aeb96",
         "title": "Technology and Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -254408,7 +254408,7 @@
         "company_name": "General Motors",
         "id": "89e0e415-3436-4d61-b994-2ec30f21b5ce",
         "title": "Intern \u2013 AI/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -255617,7 +255617,7 @@
         "company_name": "General Motors",
         "id": "8bb28d7a-1978-404e-8794-44f266c0c365",
         "title": "AI/ML Intern - Structured Perception",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -283782,7 +283782,7 @@
         "company_name": "AECOM",
         "id": "7fd15692-8277-45ab-86de-1a81741bd5c6",
         "title": "Industrial Placement Student - London / St Albans - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -283805,7 +283805,7 @@
         "company_name": "AECOM",
         "id": "1cdbfa40-e899-4412-be5f-495b9d12dbba",
         "title": "Industrial Placement Student - London / St Albans - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -366528,7 +366528,7 @@
         "company_name": "Intuitive Surgical",
         "id": "f53c44cf-5dd3-42ac-bd9e-ab680d5d8f96",
         "title": "Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -366549,7 +366549,7 @@
         "company_name": "Apex Clean Energy",
         "id": "90670473-7b13-49c8-9a67-54fbebe00872",
         "title": "Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -368226,7 +368226,7 @@
         "company_name": "Codeage",
         "id": "272cb1de-278a-45fe-87a1-7215f39bdd32",
         "title": "Web Developer Intern - Wordpress and Woocommerce",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -384395,7 +384395,7 @@
         "company_name": "Treehouse Strategy and Communications",
         "id": "b600dad5-41be-4e3a-b112-014756cf39ab",
         "title": "Web Design Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -384441,7 +384441,7 @@
         "company_name": "Treehouse Strategy and Communications",
         "id": "48f0a75b-3d75-48cf-a815-99fc9273b7e9",
         "title": "Python Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -385346,7 +385346,7 @@
         "company_name": "Kioxia",
         "id": "814fc4b3-0f73-4a75-a397-f6c5f9720d98",
         "title": "Full Stack Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -395279,7 +395279,7 @@
         "company_name": "Kioxia",
         "id": "cada7d39-4d7c-42a5-ab3d-10e28b7e2b27",
         "title": "Product Line Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -395349,7 +395349,7 @@
         "company_name": "Veolia",
         "id": "704ddbc1-116c-4f00-8ee4-12d843ecb5f6",
         "title": "Drupal Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -404465,7 +404465,7 @@
         "company_name": "Veolia",
         "id": "b1106c69-a152-4478-85a9-e787410cd535",
         "title": "AI Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -405330,7 +405330,7 @@
         "company_name": "Kioxia",
         "id": "59c5557b-cffd-4bca-b416-fb2841ef4930",
         "title": "Technical Product Marketing Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -405447,7 +405447,7 @@
         "company_name": "Veolia",
         "id": "0448e3fe-5ff4-4808-b1fc-a5bfc27d2d33",
         "title": "AI Engineering Intern - LLM",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -408863,7 +408863,7 @@
         "company_name": "Kioxia",
         "id": "8ac73d51-1f47-4635-af71-a02661d0284c",
         "title": "Innovation Lab Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -416423,7 +416423,7 @@
         "company_name": "MultiCare Health System",
         "id": "2a7c618f-f52a-4be7-9b1f-8bd1ad03211f",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -432018,7 +432018,7 @@
         "company_name": "City of Philadelphia",
         "id": "899ff696-2738-416a-bdb8-37302b4588fb",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -437629,7 +437629,7 @@
         "company_name": "Live Nation Entertainment",
         "id": "4391d7da-b0c1-4339-bc88-3f0212e175d2",
         "title": "Program Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437820,7 +437820,7 @@
         "company_name": "Live Nation Entertainment",
         "id": "966f546b-a717-4d4d-8fa2-8007e8a23ab0",
         "title": "Marketing Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439143,7 +439143,7 @@
         "company_name": "Fiserv",
         "id": "d013e0e3-a075-42e4-9e03-017cef9409cc",
         "title": "Corporate Intern Program-Application Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -447152,5 +447152,75 @@
         "date_posted": 1774936575,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Kioxia",
+        "id": "07dcd9ab-7a10-476a-8d5c-4165c4cfeffe",
+        "title": "Customer Qualification Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774939544,
+        "date_posted": 1773180349,
+        "url": "https://jobs.smartrecruiters.com/Kioxia/744000113747607",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kioxia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pindrop",
+        "id": "130fec81-b89c-4600-9a10-f14b05aabe66",
+        "title": "Research Scientist Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774939861,
+        "date_posted": 1774937737,
+        "url": "https://www.pindrop.com/careers/job-title/?gh_jid=7767791",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pindrop",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intuitive Surgical",
+        "id": "300b6224-0725-45ae-8185-62a8eb9616c3",
+        "title": "FPGA Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774939141,
+        "date_posted": 1773882324,
+        "url": "https://jobs.smartrecruiters.com/Intuitive/744000115534863",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
