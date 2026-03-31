@@ -290614,7 +290614,7 @@
         "company_name": "AG Technologies",
         "id": "b18b3506-e44a-480b-9aeb-b7a747708038",
         "title": "Java Training and Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -293403,7 +293403,7 @@
         "company_name": "AG Technologies",
         "id": "6ab16a7a-991a-4ed0-a531-176f48887aea",
         "title": "Java/UI/ OBIEE/ETL training opportunity for OPT",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -398474,7 +398474,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "8e99d220-942c-4e35-a1bf-3cd80e4553be",
         "title": "AI and SW Development Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -410768,7 +410768,7 @@
         "company_name": "Advanced Energy",
         "id": "84924f39-d06e-489d-b6e0-e8ce17182a62",
         "title": "Intern Firmware Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -433913,7 +433913,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "b62401d1-cd44-4e60-8a94-8b41648010d5",
         "title": "Engineering Intern - Vehicle Motion",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -435985,7 +435985,7 @@
         "company_name": "Stellant Systems",
         "id": "03180447-eec8-406c-8b22-f715177141c8",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -441729,7 +441729,7 @@
         "company_name": "VaynerMedia",
         "id": "2c90a7a6-5f26-4e50-a8e4-aa46cb2c01c7",
         "title": "Resident \u2013 Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -443915,7 +443915,7 @@
         "company_name": "MSX International",
         "id": "939b5468-ec40-4176-9e84-66cf3d968048",
         "title": "Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -444105,7 +444105,7 @@
         "company_name": "Leidos",
         "id": "8f57dc5c-4b8f-4053-a70d-735ad8ebe0a2",
         "title": "Data Integration Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -445619,7 +445619,7 @@
         "company_name": "Sandisk",
         "id": "0fd07c05-ad78-48bd-9ce0-2f3c8eed72d5",
         "title": "Intern Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -446590,7 +446590,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "dcf89d7a-d002-4879-bd6f-e2248f9d087f",
         "title": "Large Language Model & Agentic AI Research and Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -447693,5 +447693,96 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kanshe Infotech",
+        "id": "54e820f7-54bf-4eb6-a9e1-237375f17ed5",
+        "title": "Data Analyst Training",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774949401,
+        "date_posted": 1755206268,
+        "url": "https://jobs.smartrecruiters.com/KansheInfotech/744000066239321",
+        "locations": [
+            "Newark, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Kanshe-Infotech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Smiths Detection Group",
+        "id": "d1f027c7-e72c-4c6c-a50a-72c7414864b9",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774981621,
+        "date_posted": 1773092975,
+        "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000113583967",
+        "locations": [
+            "Gunpowder, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Smiths-Detection-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "11651fd8-4d51-435d-a7e3-7f3ae3eb863f",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774990801,
+        "date_posted": 1772666249,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000112742294",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Collabera",
+        "id": "b20574ff-dda7-4dfd-900f-ed174650a565",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774962181,
+        "date_posted": 1771572011,
+        "url": "https://jobs.smartrecruiters.com/Collabera2/82528810",
+        "locations": [
+            "Olathe, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Collabera",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
