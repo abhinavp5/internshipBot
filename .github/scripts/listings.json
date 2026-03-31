@@ -15202,29 +15202,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sony",
-        "id": "210207e6-30d3-4af1-8144-e51978e1b349",
-        "title": "Research Intern on Generative AI for Content Creation",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1759739902,
-        "date_posted": 1754261275,
-        "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Research-Intern-on-Generative-AI-for-Content-Creation_JR-117631",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Sony",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1755638663,
         "url": "https://job-boards.greenhouse.io/figma/jobs/5602159004?gh_jid=5602159004",
         "company_name": "Figma",
@@ -368906,7 +368883,7 @@
         "company_name": "Redwood Materials",
         "id": "96d3fe76-fad4-48a2-969a-bd2d8871c9c1",
         "title": "Energy Optimization Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -429422,7 +429399,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "61eae924-0d99-4803-ac36-c6e9b65c4247",
         "title": "Service Department Market Research & Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -429796,7 +429773,7 @@
         "company_name": "Veeva Systems",
         "id": "3b354067-5ca8-4600-8479-511988cd8a3a",
         "title": "Intern Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -430594,7 +430571,7 @@
         "company_name": "Legal & General",
         "id": "e38862f8-5e36-4ddd-aeef-b3a611edb598",
         "title": "Apprenticeship - Data Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -430615,7 +430592,7 @@
         "company_name": "Legal & General",
         "id": "d85e1cea-1c35-4b60-952c-fcdc31dfc3c4",
         "title": "Intern - Data Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -430636,7 +430613,7 @@
         "company_name": "Legal & General",
         "id": "7681daf6-476d-4024-b826-0e2c0e1d1ffa",
         "title": "Apprenticeship - Data Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
