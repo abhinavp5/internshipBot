@@ -264515,7 +264515,7 @@
         "company_name": "Verisk",
         "id": "aea7da28-3df5-4b5b-a9f2-d98641564aea",
         "title": "Business Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379636,7 +379636,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "05cbad4e-9069-4cf2-8926-a96ae257a852",
         "title": "Wireless Sensing Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -381387,7 +381387,7 @@
         "company_name": "Sajix",
         "id": "65ccd1b8-214b-4942-a9c7-6247cea6feb2",
         "title": "Data Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -384867,7 +384867,7 @@
         "company_name": "USM Business Systems",
         "id": "2e5faa04-6c45-47f0-b267-e6afb75d640c",
         "title": "Front End with PHP - Need GC and USC",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -430615,7 +430615,7 @@
         "company_name": "Legal & General",
         "id": "d85e1cea-1c35-4b60-952c-fcdc31dfc3c4",
         "title": "Intern - Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -447603,5 +447603,26 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "USM Business Systems",
+        "id": "10fd1f55-da69-47fe-9aab-74af4f789977",
+        "title": "Perl Programmer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774985850,
+        "date_posted": 1772205253,
+        "url": "https://jobs.smartrecruiters.com/USM2/114562596",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/USM-Business-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
