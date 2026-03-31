@@ -13399,7 +13399,7 @@
         "company_name": "TikTok",
         "id": "e007b472-502b-4768-aacc-1dc8fef84704",
         "title": "Machine Learning Scientist Intern - Tiktok-Recommendation - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -137415,7 +137415,7 @@
         "company_name": "Verisk",
         "id": "ecb94eb4-b635-42ef-b619-ef0c10dfd6eb",
         "title": "Internship Program - Data & Analytics Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -263272,7 +263272,7 @@
         "company_name": "Analog Devices",
         "id": "df7e3f52-6d31-429e-8f8d-8d70d5bd87b7",
         "title": "Product Applications Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -290245,7 +290245,7 @@
         "company_name": "AG Technologies",
         "id": "c3c51bf5-ef10-49b8-8e19-744ad074dc32",
         "title": "Java training and placemnt",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -290317,7 +290317,7 @@
         "company_name": "AG Technologies",
         "id": "74fa10b6-ccb0-4618-aae4-267efdd58bcc",
         "title": "OBIEE/SCCM/Microstrategy training cum placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -290546,7 +290546,7 @@
         "company_name": "AG Technologies",
         "id": "7c21c471-f3ad-4265-a007-8a9363b7e4ab",
         "title": "OBIEE/Salesforce/Networking training and placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -368722,7 +368722,7 @@
         "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
         "id": "ba0a49ef-4bd9-4560-9b08-20305e2461db",
         "title": "Student 2 - Information Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -369892,7 +369892,7 @@
         "company_name": "Veolia",
         "id": "24f88975-124b-41d4-b094-37f0474c6e62",
         "title": "Drupal Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -375541,7 +375541,7 @@
         "company_name": "Infojini",
         "id": "ba7781d0-c294-42f8-8255-596388700098",
         "title": "GIS Intern Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -375996,7 +375996,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "03e1a37a-8cb0-441d-8634-30c094baf508",
         "title": "Predictive Science Academic Alliance Program 4 Student Intern - Psaap IV",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376020,7 +376020,7 @@
         "company_name": "University of Wyoming",
         "id": "64a91e7e-1b95-42ad-a900-e1d38ac2de7d",
         "title": "Work Study Posn Student - UWIN Makerspace Tech - Academic Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -378593,7 +378593,7 @@
         "company_name": "Mattel",
         "id": "7602a1e4-8129-4d88-962a-a2f5d20bba38",
         "title": "IT Undergraduate Industrial Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -395349,7 +395349,7 @@
         "company_name": "Veolia",
         "id": "704ddbc1-116c-4f00-8ee4-12d843ecb5f6",
         "title": "Drupal Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -413426,9 +413426,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773322863,
+        "date_updated": 1774960588,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -426133,7 +426133,7 @@
         "company_name": "CACI",
         "id": "ebc66629-12b6-4962-a99b-ad81b9895c75",
         "title": "Optical Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -426178,7 +426178,7 @@
         "company_name": "EverCommerce",
         "id": "0039d39e-329f-4993-8270-56e38e85b4c7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -429422,7 +429422,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "61eae924-0d99-4803-ac36-c6e9b65c4247",
         "title": "Service Department Market Research & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -430594,7 +430594,7 @@
         "company_name": "Legal & General",
         "id": "e38862f8-5e36-4ddd-aeef-b3a611edb598",
         "title": "Apprenticeship - Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -432270,7 +432270,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "30e88412-67d6-46ad-80ea-426f97d5d4ed",
         "title": "Data Analytics Intern - Engineering & SAP Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -432953,9 +432953,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1774262356,
+        "date_updated": 1774960588,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -439614,7 +439614,7 @@
         "company_name": "Mediaocean",
         "id": "11cb815c-1c72-44d9-b745-17f16e9797c6",
         "title": "Prisma Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -441638,7 +441638,7 @@
         "company_name": "Boston Medical Center",
         "id": "541808c2-9262-40bc-86bf-7dc3618c2dac",
         "title": "Data Science Intern - Hematology/Oncology Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445868,7 +445868,7 @@
         "company_name": "Granite Construction",
         "id": "5628f91e-9bde-4281-9e4f-af0144726d32",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -446498,7 +446498,7 @@
         "company_name": "Intel",
         "id": "6a40e399-38fe-4af4-912c-422ae7e40dca",
         "title": "Market Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -446753,7 +446753,7 @@
         "company_name": "Myriad Genetics",
         "id": "bb027426-0ba1-43aa-8038-f73bc6bcf086",
         "title": "Software Engineer Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -446846,7 +446846,7 @@
         "company_name": "Myriad Genetics",
         "id": "0a453355-5ded-48dc-b1dc-22662e9ebe38",
         "title": "Software Engineer Architect \u2013 Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -447326,6 +447326,144 @@
             "Edinburgh, UK"
         ],
         "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Berkshire Hathaway Energy",
+        "id": "6a00ff77-bbde-494b-9141-baef23b88062",
+        "title": "Systems & Development Analyst",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774954373,
+        "date_posted": 1761526933,
+        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003773",
+        "locations": [
+            "Des Moines, IA",
+            "Richmond, VA",
+            "Omaha, NE",
+            "Sioux City, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Benchling",
+        "id": "13ca75f9-0d76-4939-882e-23456998a4c0",
+        "title": "Software Engineer - Full Stack - Admin & Identity Platform",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774960019,
+        "date_posted": 1771380824,
+        "url": "https://jobs.ashbyhq.com/benchling/982241d9-e79f-4d68-9b3d-ac4bd5940456/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Benchling",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Markon",
+        "id": "1a72d0f7-526b-463c-8209-75ab158715c5",
+        "title": "Software Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774949401,
+        "date_posted": 1769728431,
+        "url": "https://careers-markon.icims.com/jobs/8067/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Odenton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Markon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Global Channel Management",
+        "id": "dac2d80d-c906-4d8a-ac41-194f649beda9",
+        "title": "Data Analyst Lead",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774962361,
+        "date_posted": 1771859604,
+        "url": "https://jobs.smartrecruiters.com/GlobalChannelManagementInc/111343214",
+        "locations": [
+            "Mason, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Channel-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ask IT Consulting",
+        "id": "9860f868-b5e0-487c-be22-480db99136e1",
+        "title": "Geographic Information System Specialist",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774960070,
+        "date_posted": 1771485066,
+        "url": "https://jobs.smartrecruiters.com/AskITConsulting/743999654653329",
+        "locations": [
+            "Little Rock, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Ask-IT-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Eurofins",
+        "id": "4cebd7e3-5455-4983-b475-3512278305c2",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774954621,
+        "date_posted": 1767977283,
+        "url": "https://jobs.smartrecruiters.com/Eurofins/744000102593098",
+        "locations": [
+            "Hayward, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Eurofins",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
