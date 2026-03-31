@@ -63203,7 +63203,7 @@
         "company_name": "Waystar",
         "id": "ba8d05d3-31be-43bb-9836-af3aabd50e91",
         "title": "Data Analyst Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -358609,7 +358609,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "8e0f3b8c-d34b-49cf-a3e2-3021bcc5ae60",
         "title": "Manufacturing Engineer Intern - Electrical Testing Support",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -427170,7 +427170,7 @@
         "company_name": "Cooper Standard",
         "id": "2b904d47-aef4-4b31-8a17-a532557f1f89",
         "title": "AWS AI Research and Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -433890,7 +433890,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "b62401d1-cd44-4e60-8a94-8b41648010d5",
         "title": "Engineering Intern - Vehicle Motion",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -434755,7 +434755,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "95ee222b-93f0-4d86-bbf6-2f99d0ab9b03",
         "title": "Sensor Fusion Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -435658,7 +435658,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "7db44a74-212d-4a55-bb6b-28f784175f3d",
         "title": "Vision-Language-Action Models",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -435800,7 +435800,7 @@
         "company_name": "Legal & General",
         "id": "b847b777-849b-4d09-a54f-f808e130c281",
         "title": "Intern - Onetech Services",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -435823,7 +435823,7 @@
         "company_name": "Benjamin Moore",
         "id": "954bf559-e653-4514-9c61-291ac32ab883",
         "title": "Procurement & Contract Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -435869,7 +435869,7 @@
         "company_name": "Benjamin Moore",
         "id": "67065952-4819-4b58-86c1-a51d0db4bc6a",
         "title": "Front End Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -435962,7 +435962,7 @@
         "company_name": "Stellant Systems",
         "id": "03180447-eec8-406c-8b22-f715177141c8",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -447830,6 +447830,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "645a0630-afe3-4f79-94b0-d46adee09a0f",
+        "title": "Biosensor Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774985941,
+        "date_posted": 1774391047,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000116483627",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
