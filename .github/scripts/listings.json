@@ -98391,7 +98391,7 @@
         "company_name": "Berkshire Hathaway Energy",
         "id": "6ee1d636-52a6-4812-8f5b-83ce50d7e576",
         "title": "Intern - Data Science - Generation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -279719,7 +279719,7 @@
         "company_name": "True Manufacturing",
         "id": "595af2fe-bf17-4e13-b7ca-239c441864ed",
         "title": "Business Intelligence Co-op - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -290454,7 +290454,7 @@
         "company_name": "AG Technologies",
         "id": "21bb76de-f51b-48bd-ab45-dbe9ba607cbd",
         "title": "Training and Placement on Java/J2EE/Hadoop",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -313684,7 +313684,7 @@
         "company_name": "The Walt Disney Company",
         "id": "33ec7092-02be-4b35-a74c-a3b421658fda",
         "title": "WDI Show Control Hardware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -375446,7 +375446,7 @@
         "company_name": "Horizon Technologies",
         "id": "361da9d6-0536-41d6-9bde-f66cb07f52f6",
         "title": "Online Training and Placements on Adobe CQ5 and PEGA",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -384462,7 +384462,7 @@
         "company_name": "System Canada Technologies",
         "id": "81b72524-e10f-42f3-86d8-df1c26df9947",
         "title": "Build Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -384888,7 +384888,7 @@
         "company_name": "USM Business Systems",
         "id": "12258b3c-e67f-40fc-a43c-171a1013e6b0",
         "title": "Hardware Product Test",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -405354,7 +405354,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "6f5ed5d6-2e9b-422f-84b5-1aa09f5c4ee0",
         "title": "Vision-Language-Navigation Systems for ADAS \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -407622,7 +407622,7 @@
         "company_name": "S&C Electric Company",
         "id": "81335bc3-1b7e-41fd-b1aa-a30b978545fd",
         "title": "Data Analyst - Sales Support",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -408450,7 +408450,7 @@
         "company_name": "Udemy",
         "id": "bf3d94cf-527f-4b11-9317-c3ed73869526",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -410722,7 +410722,7 @@
         "company_name": "Smiths Detection Group",
         "id": "d6995a66-6162-42e8-b156-b4b54f44949a",
         "title": "Imaging and Algorithms Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -410768,7 +410768,7 @@
         "company_name": "Advanced Energy",
         "id": "84924f39-d06e-489d-b6e0-e8ce17182a62",
         "title": "Intern Firmware Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -416423,7 +416423,7 @@
         "company_name": "MultiCare Health System",
         "id": "2a7c618f-f52a-4be7-9b1f-8bd1ad03211f",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -417581,7 +417581,7 @@
         "company_name": "Continental",
         "id": "04f98a3c-826d-444b-b8d9-dfc2ab8b7d74",
         "title": "Intern \u2013 Engineering Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -417850,7 +417850,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "05f35073-76d6-4d7c-ae1b-14b1e450319b",
         "title": "Artificial Intelligence / Machine Learning: Foundation Models Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -422390,7 +422390,7 @@
         "company_name": "Guidewire",
         "id": "148a72b7-bc13-4b01-a17e-84eb6dd9858c",
         "title": "Services Solutions Technical Architect Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -422482,7 +422482,7 @@
         "company_name": "Solidigm",
         "id": "afef3506-ad91-464c-a16e-ecdaad773232",
         "title": "Talent Acquisition Data Engineering & Analytics Graduate Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -424336,7 +424336,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "e78dd672-c760-4dd7-8944-a502b0ec28fd",
         "title": "Co-op - Powertrain Testing",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -425402,7 +425402,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "c76731fb-7fe6-4695-af55-0427643c0aa1",
         "title": "Intern Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -428018,7 +428018,7 @@
         "company_name": "Assent",
         "id": "9875af04-6db2-435e-b420-9ca4d4690f43",
         "title": "AI Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -435892,7 +435892,7 @@
         "company_name": "Benjamin Moore",
         "id": "67065952-4819-4b58-86c1-a51d0db4bc6a",
         "title": "Front End Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -442386,7 +442386,7 @@
         "company_name": "Legal & General",
         "id": "83bf6d96-1450-4da5-9d46-f6d15d3b75f2",
         "title": "Intern Data Governance Programme",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443984,7 +443984,7 @@
         "company_name": "University of Arkansas",
         "id": "ad639ce0-562f-40b2-8d29-ea4c866cea6e",
         "title": "Cosmos Graduate Research Assistant",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -444173,7 +444173,7 @@
         "company_name": "Metrolinx",
         "id": "b8148330-202e-48dd-99e1-03049c61e10f",
         "title": "Co-op/Intern Student - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -446956,7 +446956,7 @@
         "company_name": "GoDaddy",
         "id": "10c67a70-3879-4890-90f2-60b3d9e4e148",
         "title": "Trainee \u2013 Product Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -447779,6 +447779,76 @@
             "Olathe, KS"
         ],
         "company_url": "https://simplify.jobs/c/Collabera",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "d06e8be9-9b12-4e67-8920-ccafea81c7fe",
+        "title": "Co-op - Preamp Characterization - Electronics Design Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774992470,
+        "date_posted": 1773094952,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000113394627",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sandisk",
+        "id": "73da8d26-c2a8-4b79-828c-e139e594d966",
+        "title": "Intern \u2013 SSD System Design Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774981261,
+        "date_posted": 1772244524,
+        "url": "https://jobs.smartrecruiters.com/Sandisk/744000111948180",
+        "locations": [
+            "Longmont, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Sandisk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SA Technologies",
+        "id": "40b3806c-fa11-45ec-b641-43558f1402ee",
+        "title": "Python Developer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774975681,
+        "date_posted": 1772090307,
+        "url": "https://jobs.smartrecruiters.com/SATechnologiesInc4/84631481",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/SA-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
