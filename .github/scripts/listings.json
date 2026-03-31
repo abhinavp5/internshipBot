@@ -114261,7 +114261,7 @@
         "company_name": "Macy's",
         "id": "93aa192f-2350-42cd-8674-02e3b7cf4a57",
         "title": "Business Operations Intern/Co-op - Product Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -289647,7 +289647,7 @@
         "company_name": "Verisk",
         "id": "c67a13f0-09f1-4760-b30a-c7e9cf8c9df2",
         "title": "Data Science Participant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -290269,7 +290269,7 @@
         "company_name": "AG Technologies",
         "id": "efa00ce6-88f6-498e-bd45-d23e949cefdb",
         "title": "Java/WAS Training",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -407622,7 +407622,7 @@
         "company_name": "S&C Electric Company",
         "id": "81335bc3-1b7e-41fd-b1aa-a30b978545fd",
         "title": "Data Analyst - Sales Support",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -425402,7 +425402,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "c76731fb-7fe6-4695-af55-0427643c0aa1",
         "title": "Intern Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
