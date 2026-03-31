@@ -212637,7 +212637,7 @@
         "company_name": "Berkshire Hathaway Energy",
         "id": "b0417830-1c04-4f1c-9ccc-d11260782322",
         "title": "Intern Renewable Generation Performance Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -224183,7 +224183,7 @@
         "company_name": "Berkshire Hathaway Energy",
         "id": "3761275b-2cba-4885-93f9-c8b39f6cafdd",
         "title": "Intern \u2013 Data Science - Operations Sustainment",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -227248,7 +227248,7 @@
         "company_name": "Netflix",
         "id": "accebcd7-6b51-4a70-8f9e-3a082565ac5f",
         "title": "Analytics Engineering Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -249234,7 +249234,7 @@
         "company_name": "Berkshire Hathaway Energy",
         "id": "5ba2e47b-a26b-4890-b316-f575d9ec65fd",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -254362,7 +254362,7 @@
         "company_name": "General Motors",
         "id": "daa520e2-7f5c-42ac-aaf8-dbf92d9faca1",
         "title": "2026 Summer Intern \u2013 AI/ML Intern - Vision Language Model/Action - Masters",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -279719,7 +279719,7 @@
         "company_name": "True Manufacturing",
         "id": "595af2fe-bf17-4e13-b7ca-239c441864ed",
         "title": "Business Intelligence Co-op - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -290200,7 +290200,7 @@
         "company_name": "Artech Information System",
         "id": "766c0cdc-92c7-4e72-b7a4-d7aa7c932599",
         "title": "Data Center Technician",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -290245,7 +290245,7 @@
         "company_name": "AG Technologies",
         "id": "c3c51bf5-ef10-49b8-8e19-744ad074dc32",
         "title": "Java training and placemnt",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -290409,7 +290409,7 @@
         "company_name": "AG Technologies",
         "id": "24cf8400-23e1-4d98-8001-043beff7a1ca",
         "title": "Java OBIEE Training and Placement Opportunity - OBIEE - Java",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -290454,7 +290454,7 @@
         "company_name": "AG Technologies",
         "id": "21bb76de-f51b-48bd-ab45-dbe9ba607cbd",
         "title": "Training and Placement on Java/J2EE/Hadoop",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -290478,7 +290478,7 @@
         "company_name": "Kanshe Infotech",
         "id": "282bfc90-cc00-417a-b8ba-93ce5629f51b",
         "title": "Generative AI Training",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -290523,7 +290523,7 @@
         "company_name": "AG Technologies",
         "id": "b5c4c3b9-e3e6-4358-8813-1f0bce543b0f",
         "title": "Free Training and Placement Weblogic/Devops/Java",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -290570,7 +290570,7 @@
         "company_name": "Prosidian Consulting",
         "id": "71cf4be6-3a6e-4091-a8ba-fbf8ab118a9f",
         "title": "GIS Specialist - Technician - Levels 1 and 2",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -293379,7 +293379,7 @@
         "company_name": "AG Technologies",
         "id": "85b23b36-83c2-44f4-b200-5f0c67e51103",
         "title": "Free training and placement for OPT students",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -358632,7 +358632,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "8e0f3b8c-d34b-49cf-a3e2-3021bcc5ae60",
         "title": "Manufacturing Engineer Intern - Electrical Testing Support",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -362391,7 +362391,7 @@
         "company_name": "3S Business Corporation",
         "id": "3ecfbad3-fa97-43e0-b3ef-81467ecd2985",
         "title": "Graduate Training and Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -378666,7 +378666,7 @@
         "company_name": "Cisco",
         "id": "fa84649f-3632-46fe-b8fa-0d64d7bc0e0e",
         "title": "AI Research Scientist 2 \u2013 Intern - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379636,7 +379636,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "05cbad4e-9069-4cf2-8926-a96ae257a852",
         "title": "Wireless Sensing Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -381296,7 +381296,7 @@
         "company_name": "SA Technologies",
         "id": "a9f5d23f-ff43-4ef0-a2a8-8a5fe0d54297",
         "title": "GIS Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -381387,7 +381387,7 @@
         "company_name": "Sajix",
         "id": "65ccd1b8-214b-4942-a9c7-6247cea6feb2",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -381410,7 +381410,7 @@
         "company_name": "Sajix",
         "id": "2ee71f7d-72b1-4059-8bac-ab051417fc0f",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -384867,7 +384867,7 @@
         "company_name": "USM Business Systems",
         "id": "2e5faa04-6c45-47f0-b267-e6afb75d640c",
         "title": "Front End with PHP - Need GC and USC",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -405354,7 +405354,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "6f5ed5d6-2e9b-422f-84b5-1aa09f5c4ee0",
         "title": "Vision-Language-Navigation Systems for ADAS \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -407205,7 +407205,7 @@
         "company_name": "Toyota Research Institute",
         "id": "52ef763e-56a4-457e-9389-d44064765144",
         "title": "Human-Centered AI Intern - Behavioral Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -431971,7 +431971,7 @@
         "company_name": "PG&E",
         "id": "5172c1cd-00a8-44a8-9174-b9c1ba0396e6",
         "title": "EPSS Systems & Data Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -435681,7 +435681,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "7db44a74-212d-4a55-bb6b-28f784175f3d",
         "title": "Vision-Language-Action Models",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -435823,7 +435823,7 @@
         "company_name": "Legal & General",
         "id": "b847b777-849b-4d09-a54f-f808e130c281",
         "title": "Intern - Onetech Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443563,7 +443563,7 @@
         "company_name": "Kinaxis",
         "id": "56af5c93-ff4a-4acf-9ef2-a61291dc9b09",
         "title": "Intern Developer - Front End Technologies",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445338,7 +445338,7 @@
         "company_name": "Sandisk",
         "id": "2d7bc18f-11ef-4379-8166-b19e202ab5f1",
         "title": "Intern \u2013 Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445823,7 +445823,7 @@
         "company_name": "Metrolinx",
         "id": "aa06dcbb-a3b3-4e46-9bed-3258cad77034",
         "title": "Intern/Co-op Student - PRESTO Asset and Inventory Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -446614,7 +446614,7 @@
         "company_name": "The Walt Disney Company",
         "id": "aafc39d6-9072-4a6c-a500-fa118d1d79e0",
         "title": "Decision Science Product Graduate Associate - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -447220,6 +447220,29 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AG Technologies",
+        "id": "7eb12e17-a02c-4034-9e66-f5f09bd96b60",
+        "title": "DevOps Java WebLogic Training and Placement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1774949923,
+        "date_posted": 1754995252,
+        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/103546037",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AG-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "Master's"
         ]
     }
