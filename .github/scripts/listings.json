@@ -1,66 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Figure AI",
-        "id": "ac59c3ae-5e3c-4bda-8430-cb6498abf63c",
-        "title": "Developer Productivity Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1754345553,
-        "date_posted": 1754345553,
-        "url": "https://job-boards.greenhouse.io/figureai/jobs/4589908006",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/04cbb102-51d9-4ce2-a4d8-38a82f8ea8e5",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "U.S. Bank",
-        "id": "036fbedd-299d-4b1b-b760-4e3aeb1164a9",
-        "title": "Capital Markets Summer Intern-Investment Grade Sales & Trading",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754346472,
-        "date_posted": 1754346472,
-        "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Charlotte-NC/XMLNAME-2026-Capital-Markets-Summer-Intern--Investment-Grade-Sales---Trading_2025-0018375",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/US-Bank",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Rockwell Automation",
-        "id": "c3f5016e-69ca-46fb-92b8-73f66b983257",
-        "title": "Co-op \u2013 Firmware Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755050465,
-        "date_posted": 1754347367,
-        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Cambridge-Ontario-Canada/Co-op--Firmware-Engineering_R25-6419-1",
-        "locations": [
-            "Cambridge, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Altruist",
         "id": "9de70e7d-a843-4ce3-91a4-2fe8688bc1c3",
@@ -15027,29 +14967,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "b61934f8-6d35-44ab-a28d-32ab706e6e16",
-        "title": "Privacy/Security in LLM-Driven Agentic Systems PhD Internship",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1754345244,
-        "date_posted": 1754345244,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Privacy-Security-in-LLM-Driven-Agentic-Systems-PhD-Internship-w--Dr-Sharma_REQ_0000067719",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
         ]
     },
     {
@@ -47433,7 +47350,7 @@
         "company_name": "AeroVironment",
         "id": "da96de85-470d-452c-8908-6c56b5075701",
         "title": "Embedded Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -72769,7 +72686,7 @@
         "company_name": "W.R. Berkley",
         "id": "72f18cb6-cac7-4d9a-9e85-1723cd610d38",
         "title": "AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -141319,7 +141236,7 @@
         "company_name": "Genesis Therapeutics",
         "id": "bad2d8b6-b1b0-4ab5-9744-4a26231ad124",
         "title": "ML Research Intern - PhD - 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -217440,7 +217357,7 @@
         "company_name": "JP Morgan Chase",
         "id": "327f743f-815c-42c6-8798-60053cb38018",
         "title": "Machine Learning Engineer - Asset Wealth Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -225060,7 +224977,7 @@
         "company_name": "Commerce Bank",
         "id": "55ae411f-f717-4de9-a6da-edf811e4bf91",
         "title": "Intern IT",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -260084,7 +260001,7 @@
         "company_name": "TD Bank",
         "id": "5d9d7a27-887b-410a-97a3-bbc737bc9039",
         "title": "Software Engineer Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -283404,7 +283321,7 @@
         "company_name": "Anthropic",
         "id": "8a17a8bb-179e-4026-be78-6324749ad898",
         "title": "Anthropic AI Security Fellow",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -283964,48 +283881,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Jane Street",
-        "id": "d4596a52-7b73-4726-8ed3-6c6f2666980e",
-        "title": "FPGA Engineer",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1762905884,
-        "date_posted": 1754346492,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/8062422002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Jane-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jane Street",
-        "id": "1b0227ca-92b8-4cf5-b742-9834bda85cc3",
-        "title": "Linux Engineer",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1754346504,
-        "date_posted": 1754346504,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/8062886002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Jane-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -287333,7 +287208,7 @@
         "company_name": "Franklin Templeton",
         "id": "f177af55-e84e-41e5-8c9c-db4ae2fdf16b",
         "title": "Investment Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -297347,7 +297222,7 @@
         "company_name": "PennState University",
         "id": "b6b8dd22-f294-47a1-9c2d-8035fdf6b62b",
         "title": "Conservation GIS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -303437,7 +303312,7 @@
         "company_name": "Premier",
         "id": "5f1461f2-fadb-475f-a956-52cc275ed044",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -305135,7 +305010,7 @@
         "company_name": "Copeland",
         "id": "eee694f2-b9a9-4348-b317-953f373fff7b",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -343028,7 +342903,7 @@
         "company_name": "Samsung Research America",
         "id": "9a6ce746-823a-4eab-b475-f87733cc8775",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -348169,7 +348044,7 @@
         "company_name": "Cotiviti",
         "id": "11b203f4-3d3c-46a5-b9b4-d6165f3b8480",
         "title": "Intern \u2013 Data Scientist",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -349688,7 +349563,7 @@
         "company_name": "Microchip Technology",
         "id": "ac10fab9-ee1a-4dc5-9a5c-e7f54bc60b16",
         "title": "Intern-Engineering - Software AI/ML",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -362875,7 +362750,7 @@
         "company_name": "Samsung",
         "id": "167e12f3-f476-4ba4-98a0-c0773e64412a",
         "title": "Supply Chain Analytics Intern - AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364670,7 +364545,7 @@
         "company_name": "Moog ",
         "id": "29db59d0-1628-439f-a06a-b122ec32765b",
         "title": "Intern \u2013 Product Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -370453,7 +370328,7 @@
         "company_name": "Ivalua",
         "id": "4ccd7e17-69c7-40b4-8b88-689fb5c5537f",
         "title": "Customer Application Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -374698,7 +374573,7 @@
         "company_name": "Global Partners",
         "id": "ca0bc21d-83d2-4d98-8755-eed51baa8c9f",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389525,7 +389400,7 @@
         "company_name": "Citco",
         "id": "f2f720ff-852f-44ac-8765-6e5d89ab46b3",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -389832,7 +389707,7 @@
         "company_name": "AtkinsR\u00e9alis",
         "id": "48c51db1-7aeb-45ae-beb3-6c8a82e7b5d8",
         "title": "Functional Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -390238,7 +390113,7 @@
         "company_name": "Micron Technology",
         "id": "222e019e-5683-48e8-878e-b7dfa5b5098c",
         "title": "Intern \u2013 Validation Strategy AI/ML",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -392346,7 +392221,7 @@
         "company_name": "ASM Global",
         "id": "60bdef1d-571d-4869-88d3-ec21747a38c4",
         "title": "Hospitality and Merchandise Insights Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -399098,7 +398973,7 @@
         "company_name": "Meta",
         "id": "f81cf816-0677-4b12-9b45-45d17749b87a",
         "title": "Research Scientist Intern - Msl",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -402657,7 +402532,7 @@
         "company_name": "Zebra Technologies",
         "id": "7b417a7c-d197-466d-9061-43ed9e5ba852",
         "title": "Intern - Software Engineer - Corporate and Business Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -423915,7 +423790,7 @@
         "company_name": "Stewart",
         "id": "958af74d-7213-4ce6-8852-568156d2d702",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -438377,7 +438252,7 @@
         "company_name": "Al Warren Oil Company",
         "id": "c7f2e562-9c39-4b5a-9d95-89b86d3e4a4b",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445752,7 +445627,7 @@
         "company_name": " RGA Reinsurance Company",
         "id": "9fde599a-537c-4ada-8ffe-14d053a55dbe",
         "title": "Intern - Global Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450358,5 +450233,50 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Fermilab",
+        "id": "ad98b9f4-a874-4a23-aaea-636856dbd774",
+        "title": "VALOR Apprenticeship",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1775083861,
+        "date_posted": 1775081382,
+        "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/VALOR-Apprenticeship_R_009428",
+        "locations": [
+            "Batavia, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Fermilab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "b61934f8-6d35-44ab-a28d-32ab706e6e16",
+        "title": "Privacy and Security in LLM-Driven Agentic Systems PhD Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1771686750,
+        "date_posted": 1771686750,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Privacy-Security-in-LLM-Driven-Agentic-Systems-PhD-Internship-w--Dr-Sharma_REQ_0000067719",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
