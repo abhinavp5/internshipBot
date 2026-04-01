@@ -411816,7 +411816,7 @@
         "company_name": "Centerfield",
         "id": "00b51e12-96a6-40b6-ae66-0024b4fe02db",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -436196,7 +436196,7 @@
         "company_name": "The Walt Disney Company",
         "id": "95b82ede-27bb-4cbf-b094-f0f512a68b6a",
         "title": "Graduate Associate - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -436242,7 +436242,7 @@
         "company_name": "The Walt Disney Company",
         "id": "644ed101-2fd7-4b57-b989-2ebb5ac4988e",
         "title": "Graduate Associate - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -437126,7 +437126,7 @@
         "company_name": "The Walt Disney Company",
         "id": "382a6b76-e85e-41de-ad33-13ba6435cd72",
         "title": "WDI Software Developer Intern-Art and Media Pipeline - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437150,7 +437150,7 @@
         "company_name": "The Walt Disney Company",
         "id": "0a56fa78-f8eb-486a-a341-25160685d820",
         "title": "WDI Software Developer Intern-Art and Media Pipeline",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -438702,7 +438702,7 @@
         "company_name": "Cloud SynApps",
         "id": "fa454dd2-084e-4dbe-adfa-d64e0df04ff0",
         "title": "Salesforce Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -439358,7 +439358,7 @@
         "company_name": "Mediaocean",
         "id": "1d3b902c-d3fc-4ccd-90d0-dbd848117de6",
         "title": "Core Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -446431,7 +446431,7 @@
         "company_name": "Microchip Technology",
         "id": "8ce99f32-4c8a-454b-a997-08b37a93228c",
         "title": "Intern Engineer - Test Systems Group Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -447341,7 +447341,7 @@
         "company_name": "Benchling",
         "id": "13ca75f9-0d76-4939-882e-23456998a4c0",
         "title": "Software Engineer - Full Stack - Admin & Identity Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
