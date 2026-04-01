@@ -1,27 +1,5 @@
 [
     {
-        "date_updated": 1754416513,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Internship-Program---Summer-2026_R218710-1",
-        "company_name": "Capital One",
-        "title": "Technology Internship Program - Summer 2026",
-        "locations": [
-            "McLean, VA",
-            "Richmond, VA",
-            "Plano, TX"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "hamim23z",
-        "id": "8cbfccf6-8a38-46e4-9bfc-540dfef9f371",
-        "date_posted": 1754330783,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Software Engineering"
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Figure AI",
@@ -58156,7 +58134,7 @@
         "company_name": "Waymo",
         "id": "44067d74-7242-4076-a5ef-fcef52a0c07d",
         "title": "2026 Summer Intern - PhD - Perception - Computer Vision/Deep Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -164630,7 +164608,7 @@
         "company_name": "Oracle",
         "id": "f0a3b99d-efee-42c1-9e6f-b481f64babf1",
         "title": "Advanced Degree Software Engineer Intern - Fusion",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2026",
@@ -184617,7 +184595,7 @@
         "company_name": "Geico",
         "id": "ae89dd78-8ed6-4a2b-9be6-9434d12fe864",
         "title": "Business Strategy and Analytics Intern - Hybrid",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -223746,7 +223724,7 @@
         "company_name": "Oracle",
         "id": "39df2cd1-fd1c-4a63-b340-35a8a8847f17",
         "title": "PhD Applied Scientist Intern - Oracle Health & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -277574,7 +277552,7 @@
         "company_name": "Oracle",
         "id": "8ab86722-154d-495d-b0f3-1bfb1664006b",
         "title": "PhD Applied Scientist Intern - Oracle Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -284105,7 +284083,7 @@
         "company_name": "Oracle",
         "id": "6045cd6f-9993-4728-9b93-29f984d8e3f1",
         "title": "OCI GenAI PhD Applied Scientist \u2013 Full-time Intern Conversion - OCI GenAI Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -284973,7 +284951,7 @@
         "company_name": "Oracle",
         "id": "2a174ecc-736d-49a5-9e8e-7e8f41ad712b",
         "title": "Java Software Engineer - Oracle Health and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -286028,7 +286006,7 @@
         "company_name": "Oracle",
         "id": "2f667cc3-b05b-422c-99a8-91f78ea99adc",
         "title": "Undergrad Software Engineer - Oracle Health and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -294384,7 +294362,7 @@
         "company_name": "Oracle",
         "id": "df5832a8-819a-4e07-80d4-e5bf43ac6672",
         "title": "Product Manager \u2013 Full Time Intern Conversion - Netsuite",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -305157,7 +305135,7 @@
         "company_name": "Copeland",
         "id": "eee694f2-b9a9-4348-b317-953f373fff7b",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -314893,7 +314871,7 @@
         "company_name": "Haven Studios",
         "id": "305fa189-d568-4988-8ea3-e922530e216e",
         "title": "Gameplay Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -377340,7 +377318,7 @@
         "company_name": "Fidelity Investments",
         "id": "e91af3d7-7cc5-4797-a760-ba58ee43dbd5",
         "title": "Co-op Software Full Stack Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -382796,7 +382774,7 @@
         "company_name": "Fidelity Investments",
         "id": "8370e913-a003-4662-9d8a-ec1b842bc3cb",
         "title": "Co-Op Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389947,7 +389925,7 @@
         "company_name": "Fidelity Investments",
         "id": "f98f660c-62e5-4c2a-b6bf-f64db5ed05d9",
         "title": "Co-op \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389971,7 +389949,7 @@
         "company_name": "Fidelity Investments",
         "id": "f75e4ec4-0968-4633-89fc-a6e27142584e",
         "title": "Intern/Co-op Software Full Stack Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -402438,7 +402416,7 @@
         "company_name": "Precisely",
         "id": "0489b52c-4566-4386-bddd-6f094c08b5a2",
         "title": "Full Stack Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -403162,7 +403140,7 @@
         "company_name": "Fifth Third Bank",
         "id": "f76d3d89-baa2-41a5-93e9-576124cded17",
         "title": "Intern - CIB Sales and Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -407245,7 +407223,7 @@
         "company_name": "Autodesk",
         "id": "4aecc7b9-d290-4475-9793-cd304ed28e67",
         "title": "Intern \u2013 Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -417091,7 +417069,7 @@
         "company_name": "NXP Semiconductors",
         "id": "27bd1a26-3534-4bb7-9ecb-f94466794101",
         "title": "Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -425046,7 +425024,7 @@
         "company_name": "SoFi",
         "id": "3d2f5d3f-cda7-4f98-b864-3f83c0b033d7",
         "title": "Intern Software Engineer - Asset Movement Gateway",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -432168,7 +432146,7 @@
         "company_name": "Varex Imaging Corporation",
         "id": "14bf95b8-9848-4aa1-b73a-2c5fc0ea5fd7",
         "title": "Business Intelligence Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -433806,7 +433784,7 @@
         "company_name": "Blue Cross Blue Shield",
         "id": "33585886-83e5-4152-ad37-aabc470f0421",
         "title": "Associate Intern - Marketing Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -438489,7 +438467,7 @@
         "company_name": "Altom Transport",
         "id": "df45d4a3-5d7f-4545-8157-8d60942948d0",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -438675,7 +438653,7 @@
         "company_name": "Altom Transport",
         "id": "0dc8f4ab-51da-4df0-9156-1ab95bc32f17",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -444942,7 +444920,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "3d5988e9-36ab-411f-a2f0-f41f274d8460",
         "title": "Artificial Intelligence / Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -448606,7 +448584,7 @@
         "company_name": "Brain Corp",
         "id": "1aba4673-e14a-4754-856d-275c3d2cada4",
         "title": "Intern - Software Engineer - Autonomy",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -448696,7 +448674,7 @@
         "company_name": "SoFi",
         "id": "888295f9-a263-4d99-a0fa-aa8eb4b8da7b",
         "title": "Intern Software Engineer - Collections",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -448983,7 +448961,7 @@
         "company_name": "AAA Club Alliance",
         "id": "25b349b7-c755-4cab-9c5e-9ca2a51f1a69",
         "title": "Insurance Team Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
