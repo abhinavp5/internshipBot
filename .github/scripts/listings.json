@@ -375,68 +375,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Capital One",
-        "id": "419d9be9-13fc-4bf5-a9e0-2ce445b05c04",
-        "title": "Technology Internship Program",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754319120,
-        "date_posted": 1754319120,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Internship-Program---Summer-2026_R218710-1",
-        "locations": [
-            "Plano, TX",
-            "McLean, VA",
-            "Richmond, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Talos Trading",
-        "id": "71884059-5839-4c65-bbe7-441bc1910c93",
-        "title": "Software Engineer Intern - Backend",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1754316760,
-        "date_posted": 1754316760,
-        "url": "https://jobs.ashbyhq.com/Talos-Trading/fcd4b58b-19fc-47f2-8c7a-a9aa149ebeb1/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Talos-Trading",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Talos Trading",
-        "id": "15be289a-4a3a-491e-a351-0bbbf5650273",
-        "title": "Software Engineer Intern - Backend",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1754316761,
-        "date_posted": 1754316761,
-        "url": "https://jobs.ashbyhq.com/Talos-Trading/f3d358c4-54e2-4cc8-afe2-8474fa13320b/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Talos-Trading",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Talos Trading",
         "id": "fab5ee9d-4888-4646-bf42-3b3c990a10db",
         "title": "Software Engineer Intern - Front-End",
@@ -15010,30 +14948,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Talos Trading",
-        "id": "87617ddf-64a8-4d76-b693-5da1af59b817",
-        "title": "Quantitative Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1754401741,
-        "date_posted": 1754316771,
-        "url": "https://jobs.ashbyhq.com/Talos-Trading/0c150c16-ed0e-4f21-81d6-e85f67437f00/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Talos-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -33486,7 +33400,7 @@
         "company_name": "American Express",
         "id": "aba87d08-1d33-49c8-9641-f2d665bef101",
         "title": "New York, NY",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -67152,7 +67066,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "55439046-9072-4b50-83f3-d273f0ff46db",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -100119,7 +100033,7 @@
         "company_name": "Leidos",
         "id": "0f43d7bb-9f44-4ec0-9cfe-721d7d264ada",
         "title": "Systems Integration and Software Engineer Intern - Transportation Solutions - Air Traffic Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -284116,115 +284030,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Jane Street",
-        "id": "355cea68-3fff-4846-b9fb-5bcef24617e2",
-        "title": "Sales and Trading",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1763511427,
-        "date_posted": 1754316528,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/8084942002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Jane-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Jane Street",
-        "id": "2231e412-c199-4be9-8b7b-033410c10b4a",
-        "title": "Quantitative Researcher",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1754316525,
-        "date_posted": 1754316525,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/8017833002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Jane-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Jane Street",
-        "id": "51a1cf90-7f58-4de4-9539-4eeb5baa44fd",
-        "title": "Quantitative Trader",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1754316523,
-        "date_posted": 1754316523,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/8008382002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Jane-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jane Street",
-        "id": "6df80d78-14ae-4275-890a-35c9b9e03e06",
-        "title": "Software Engineer",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1762817660,
-        "date_posted": 1754316528,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/7961782002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Jane-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Jane Street",
-        "id": "4a1e1d07-47d1-42b4-9fef-d6ec6838950e",
-        "title": "Machine Learning Researcher",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1768261152,
-        "date_posted": 1754316514,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/8061093002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Jane-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Jane Street",
         "id": "d4596a52-7b73-4726-8ed3-6c6f2666980e",
@@ -306832,7 +306637,7 @@
         "company_name": "First Canadian Title",
         "id": "7233b85e-0786-4130-b5db-061f4b1958a2",
         "title": "Summer Student - Application Development",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -315033,7 +314838,7 @@
         "company_name": "Premier",
         "id": "3c70382b-08af-4c80-99c1-ffe630d39bc7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -327189,7 +326994,7 @@
         "company_name": "G-Research",
         "id": "8bdb6de2-e464-4497-9430-b1907061cbde",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -354251,7 +354056,7 @@
         "company_name": "Carter's",
         "id": "0fcfd3eb-83bc-4c07-a98a-e202d1cd1bab",
         "title": "Analytics & Reporting Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -378316,7 +378121,7 @@
         "company_name": "Rochester Regional Health",
         "id": "a50e4caf-7051-4d1d-b3b1-268fd1f33d40",
         "title": "RIT Co-op: Information Systems & Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -381788,7 +381593,7 @@
         "company_name": "Audax Group",
         "id": "7878456f-48e8-4b94-9525-2e3d433621df",
         "title": "Business Intelligence Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -403748,7 +403553,7 @@
         "company_name": "Applied Materials",
         "id": "a505afc0-9048-468a-b972-04c0048aff2b",
         "title": "AI/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -407692,7 +407497,7 @@
         "company_name": "Definity Financial",
         "id": "7ecc5378-127d-4e47-adeb-8f9fc25a59aa",
         "title": "AI & Cloud Platforms \u2013 Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -433262,7 +433067,7 @@
         "company_name": "Dmg Media",
         "id": "7fcc9910-e01f-4556-81a7-460fcc0c85ed",
         "title": "AI Engineer Intern - Innovation Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -434710,7 +434515,7 @@
         "company_name": "Leidos",
         "id": "8f6432fb-5778-4247-a6be-0b1a18529765",
         "title": "Process Mining Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -437013,7 +436818,7 @@
         "company_name": "Haven Studios",
         "id": "df5a8d39-d85a-43d8-89fc-c0c1d9117e92",
         "title": "Autotest Programmer Intern - Autotest",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -438204,7 +438009,7 @@
         "company_name": "CoStar Group",
         "id": "29fdf9b6-13fb-43ff-ba50-6bea339a9119",
         "title": "Quantitative Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439197,7 +439002,7 @@
         "company_name": "Assurant",
         "id": "bd2b9c25-9b76-4c58-97d0-219910c94b67",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -442127,7 +441932,7 @@
         "company_name": "CSL",
         "id": "83cd3e34-b8ba-4692-8298-b670d8a5b283",
         "title": "AI & Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -448107,7 +447912,7 @@
         "company_name": "Eversource Energy",
         "id": "25542a75-6108-4431-a9cf-a37b1b032fa7",
         "title": "AMI Data Strategist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -448291,7 +448096,7 @@
         "company_name": "Hello Fresh",
         "id": "63b30524-c519-4c3d-ab78-7d1d0cfbb85d",
         "title": "Supply Chain Data & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -448909,7 +448714,7 @@
         "company_name": "Omnicom Health",
         "id": "b5466547-86bb-4ad0-94df-d881649e170a",
         "title": "Bold Beginners Full Stack Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -449029,7 +448834,7 @@
         "company_name": "Omnicom Health",
         "id": "19975c7c-22c3-41ce-af83-eee984d606c7",
         "title": "Bold Beginners Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -449403,7 +449208,7 @@
         "company_name": "Dick's Sporting Goods",
         "id": "43b7b89e-2678-4e37-bbd7-d43415e9c5bf",
         "title": "Software Engineer Intern - Revenue Growth",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450256,5 +450061,365 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Trane Technologies",
+        "id": "7d8a07e4-0435-4236-852b-9ff0999f509b",
+        "title": "Technical Applications and HW Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775055421,
+        "date_posted": 1775052588,
+        "url": "https://careers.tranetechnologies.com/global/en/job/92600686",
+        "locations": [
+            "Manchester, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Trane-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mackenzie Investments",
+        "id": "3b266cfd-1e98-499f-a061-b2484df1a56d",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1775054395,
+        "date_posted": 1775052521,
+        "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5852/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mackenzie-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Trane Technologies",
+        "id": "f7819eb2-6492-4917-b03e-b820f9de56b7",
+        "title": "Retail Operations Analyst Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1775054723,
+        "date_posted": 1775052577,
+        "url": "https://careers.tranetechnologies.com/global/en/job/92601553",
+        "locations": [
+            "Winona, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Trane-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Blue Cross and Blue Shield of Rhode Island",
+        "id": "79885675-dbf2-41a2-9d40-d71ba32cd984",
+        "title": "Clinical Affairs and Quality Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775053801,
+        "date_posted": 1775052573,
+        "url": "https://bcbsri.wd1.myworkdayjobs.com/BCBSRICareers/job/US-RI-500-Exchange/Clinical-Affairs-and-Quality-Intern---Summer-2026_JR100257",
+        "locations": [
+            "Providence, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Cross-And-Blue-Shield-Of-Rhode-Island",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Trane Technologies",
+        "id": "5a535b94-7745-4153-b402-3d690acce01b",
+        "title": "Software & Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775054779,
+        "date_posted": 1775052585,
+        "url": "https://careers.tranetechnologies.com/global/en/job/92602131",
+        "locations": [
+            "Huntersville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Trane-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Reply",
+        "id": "3953acc1-ae65-4b4f-a26b-e627fdcb91d2",
+        "title": "Industry Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775053801,
+        "date_posted": 1775052382,
+        "url": "https://jobs.lever.co/reply/aec47b06-f377-4721-b60c-c2d3d393386f/apply",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Reply",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Trane Technologies",
+        "id": "391b24ee-5f39-403d-9503-2f307f96793b",
+        "title": "Energy Analyst",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775054796,
+        "date_posted": 1775052588,
+        "url": "https://careers.tranetechnologies.com/global/en/job/92507459",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Trane-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Prysmian Cables & Systems",
+        "id": "837d0894-41e4-4a17-8c09-02226b94a980",
+        "title": "Placement Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775053801,
+        "date_posted": 1775052513,
+        "url": "https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Wrexham/Placement-Student---Polymer-Materials-Research---Development-Engineer_R-30802",
+        "locations": [
+            "Northwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/de2a7df6-c0fa-4813-9fba-f1d7a2fb0149",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HEXAWARE",
+        "id": "3b2df1b1-de52-40af-b5e6-97ad417126f1",
+        "title": "Intern Data Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775053801,
+        "date_posted": 1775052371,
+        "url": "https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/623864",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/HEXAWARE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Legal & General",
+        "id": "2da6ec02-a946-424c-a1be-f94841dd0bc1",
+        "title": "Industry Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775054305,
+        "date_posted": 1775052259,
+        "url": "https://jobs.smartrecruiters.com/LegalAndGeneral/744000118114698",
+        "locations": [
+            "Brighton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Legal-And-General",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Octopus Energy",
+        "id": "84417381-1f77-4bc5-a7bc-8e4a185af99e",
+        "title": "Octopus in Colour Intern - Mobile Engineering",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1775054294,
+        "date_posted": 1775052473,
+        "url": "https://jobs.lever.co/octoenergy/7b884be5-d0f3-4fcb-b222-8a61a0ac9bdf/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Octopus-energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welocalize",
+        "id": "5688263e-4d2c-427e-a597-e6bc10e89aab",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775053801,
+        "date_posted": 1775052160,
+        "url": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/US-remote/Data-Science-Intern_R0007551",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Harris Computer",
+        "id": "55cedef8-4aea-4517-a0c3-bff8a1a8d152",
+        "title": "Software Developer Trainee",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775053801,
+        "date_posted": 1775052499,
+        "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---UK/Software-Developer-Trainee_R0040907",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Harris-Computer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Legal & General",
+        "id": "3e066289-8345-4f58-a9f9-6a634ee87222",
+        "title": "Industry Year Intern - Reinsurance Analyst",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775054359,
+        "date_posted": 1775052257,
+        "url": "https://jobs.smartrecruiters.com/LegalAndGeneral/744000118117852",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Legal-And-General",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "2f74665e-1fcb-4552-af99-acea73016963",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775054339,
+        "date_posted": 1775052395,
+        "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-Summer---CLAO--Data-Analysis-Intern--4-Months-_R-0000165760",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Octopus Energy",
+        "id": "129f351e-d779-4847-843a-66c6248b53b4",
+        "title": "Octopus In Colour Intern - Forecasting Data Scientist",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775054385,
+        "date_posted": 1775052492,
+        "url": "https://jobs.lever.co/octoenergy/868f6dce-afb4-4d91-bdb5-eff2ad649a9a/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Octopus-energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
