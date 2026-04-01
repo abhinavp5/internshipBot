@@ -1,26 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "33b518b6-1cbc-425a-97c4-8fd3bca72a6b",
-        "title": "Solutions Lab Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1754325216,
-        "date_posted": 1754325216,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23146",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1754416513,
         "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Internship-Program---Summer-2026_R218710-1",
         "company_name": "Capital One",
@@ -174055,7 +174034,7 @@
         "company_name": "Oracle",
         "id": "dd084546-befe-4b45-bece-72e0767438ac",
         "title": "OCI GenAI PhD Research Intern \u2013 Return Internship - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Summer 2026"
@@ -217266,7 +217245,7 @@
         "company_name": "Oracle",
         "id": "bf3df0a0-8eef-4591-a296-25341e323a59",
         "title": "Java Software Engineer Intern - Oracle Health & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -385644,7 +385623,7 @@
         "company_name": "Fidelity Investments",
         "id": "cead6d6a-500b-466c-ab3c-d72e13cbcc26",
         "title": "Co-op \u2013 Advanced Data Analytics and Insights",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -414164,7 +414143,7 @@
         "company_name": "Becton Dickinson",
         "id": "2d08275a-11dc-4125-945e-d4d7c5887b29",
         "title": "Intern \u2013 R&D Intern - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -429986,7 +429965,7 @@
         "company_name": "Bloomberg Philanthropies",
         "id": "8c8d1041-a773-4a28-90c1-c3f9b41d238e",
         "title": "AI Agent Development & Data Collection Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -440241,7 +440220,7 @@
         "company_name": "Wabtec",
         "id": "b02819c0-6540-479a-92ce-47679a4c03db",
         "title": "Intern \u2013 Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -449140,7 +449119,7 @@
         "company_name": "Dusty Robotics",
         "id": "007c7101-37e4-42f7-8e04-aa325c021900",
         "title": "Fullstack Software Engineering Intern - Web Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
