@@ -1,79 +1,5 @@
 [
     {
-        "date_updated": 1754663912,
-        "url": "https://nbtbancorp.wd12.myworkdayjobs.com/en-US/epic/job/Rochester-New-York/Student-Associate---Software-Engineer---EPIC_JR3617",
-        "company_name": "EPIC",
-        "title": "Student Associate - Software Engineer",
-        "locations": [
-            "Rochester, NY"
-        ],
-        "terms": [
-            "Spring 2026",
-            "Winter 2026",
-            "Winter 2025",
-            "Fall 2025",
-            "Summer 2025",
-            "Summer 2026"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "68a97b61-7e02-4e63-b578-00bb0a61420e",
-        "date_posted": 1754377883,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Software Engineering"
-    },
-    {
-        "date_updated": 1757544016,
-        "url": "https://jobs.lever.co/convergentresearch/ae2f38c7-804e-45e0-b4c5-b5c666698d30",
-        "company_name": "Cultivarium",
-        "title": "Computer Vision and Machine Learning Intern",
-        "locations": [
-            "Watertown, MA"
-        ],
-        "terms": [
-            "Spring 2026",
-            "Winter 2026",
-            "Winter 2025",
-            "Fall 2025",
-            "Summer 2026",
-            "Summer 2025"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "f0046d13-bf59-4933-8985-28efd75937d9",
-        "date_posted": 1754378083,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "category": "Data Science, AI & Machine Learning"
-    },
-    {
-        "date_updated": 1754663970,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cyber-Security-Internship-Program---Summer-2026_R218613-1",
-        "company_name": "Capital One",
-        "title": "Cyber Security Internship Program",
-        "locations": [
-            "Mclean, VA",
-            "Plano, TX"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "7dc4bfa6-d1e8-466a-983a-3f81f926fe65",
-        "date_posted": 1754378177,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Software Engineering"
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "ByteDance",
@@ -305542,7 +305468,7 @@
         "company_name": "Cisco",
         "id": "3de06565-f7a3-414f-88fb-8883ab1c50a8",
         "title": "Software Engineer Security & Automation 1 - Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -349151,7 +349077,7 @@
         "company_name": "Microchip Technology",
         "id": "ac10fab9-ee1a-4dc5-9a5c-e7f54bc60b16",
         "title": "Intern-Engineering - Software AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389943,7 +389869,7 @@
         "company_name": "The Boeing Company",
         "id": "90e7bfdc-ceb5-4058-b062-f04e28008199",
         "title": "Millennium Space Systems Intern Program \u2013 Circuit and System Reliability Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389989,7 +389915,7 @@
         "company_name": "The Boeing Company",
         "id": "7d9ee752-a247-486f-b125-88a4909ae730",
         "title": "Millennium Space Systems Intern Program \u2013 Circuit and System Reliability Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -451851,6 +451777,52 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "df437fd6-a79e-4a55-b3f4-3c4a4c1b61a3",
+        "title": "Industrial Placement Intern - Continuous Improvement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775111201,
+        "date_posted": 1775110069,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/GB-SAY-AYRSHIRE-001--1-Dow-Ave--ROHR-AERO-SRVCS/Industrial-Placement--Summer----Continuous-Improvement_01833090",
+        "locations": [
+            "Girvan, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BillionToOne",
+        "id": "81efd219-5558-42a5-8226-3adb72e17e94",
+        "title": "AI Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775111041,
+        "date_posted": 1775111038,
+        "url": "https://job-boards.greenhouse.io/billiontoone/jobs/4680728005",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/BillionToOne",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
