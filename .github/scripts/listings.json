@@ -1,229 +1,5 @@
 [
     {
-        "date_updated": 1754754902,
-        "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-FL-Tampa/GDIT-Summer-Internship-Program---Summer-2026-Data-Science-Associate-Internship_RQ204451",
-        "company_name": "GDIT",
-        "title": "Data Science Associate Internship",
-        "locations": [
-            "Tampa, FL"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "a8a5d903-3816-4142-91fb-af11a6cfc7d9",
-        "date_posted": 1754358265,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Data Science, AI & Machine Learning"
-    },
-    {
-        "date_updated": 1754663442,
-        "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2026-Artificial-Intelligence-Machine-Learning-Associate-Internship_RQ204448",
-        "company_name": "GDIT",
-        "title": "Data Science Associate Internship",
-        "locations": [
-            "Tampa, FL"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "b4731746-4ba2-4ce8-8a7f-fd25038f9f74",
-        "date_posted": 1754358352,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Data Science, AI & Machine Learning"
-    },
-    {
-        "date_updated": 1754360452,
-        "url": "https://job-boards.greenhouse.io/figureai/jobs/4573642006",
-        "company_name": "Figure",
-        "title": "Robotics Integration Intern",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "terms": [
-            "Fall 2025"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "8d6422b1-7e8b-416d-aba0-b3495599c4c5",
-        "date_posted": 1754360452,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Hardware Engineering"
-    },
-    {
-        "date_updated": 1757544048,
-        "url": "https://copart.wd12.myworkdayjobs.com/en-US/Copart/details/Mobile-Developer-Intern--AI---ML-_JR104180?workerSubType=642abc1e87ca10098af3a23fe5090000",
-        "company_name": "Copart",
-        "title": "Mobile Developer Intern (AI / ML)",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "terms": [
-            "Spring 2026",
-            "Winter 2026",
-            "Winter 2025",
-            "Fall 2025",
-            "Summer 2025",
-            "Summer 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "d58a564c-660e-449b-a599-258bfde7cf25",
-        "date_posted": 1754360615,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "category": "Data Science, AI & Machine Learning"
-    },
-    {
-        "date_updated": 1754360793,
-        "url": "https://careers.newyorklife.com/careers?query=%23Techcampus&location=any&pid=30149944&domain=newyorklife.com&sort_by=relevance",
-        "company_name": "New York Life",
-        "title": "Technology Analyst Intern",
-        "locations": [
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "5f43856c-3bde-465b-bd43-9778ad86133d",
-        "date_posted": 1754360793,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Software Engineering"
-    },
-    {
-        "date_updated": 1755498859,
-        "url": "https://jobs.ashbyhq.com/baseten/4e6757f3-74c0-4d3d-9b0b-eb56ab561c37",
-        "company_name": "Baseten",
-        "title": "Software Engineering Intern",
-        "locations": [
-            "New York, NY",
-            "San Francisco, CA"
-        ],
-        "terms": [
-            "Spring 2026",
-            "Winter 2026",
-            "Winter 2025",
-            "Fall 2025",
-            "Summer 2025",
-            "Summer 2026"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "f0f2ef0d-a3cb-4c08-8af4-fbc26cb9fa85",
-        "date_posted": 1754360928,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Software Engineering"
-    },
-    {
-        "date_updated": 1754505204,
-        "url": "https://job-boards.greenhouse.io/applovin/jobs/4552288006?gh_jid=4552288006",
-        "company_name": "AppLovin",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "Remote"
-        ],
-        "terms": [
-            "Spring 2026",
-            "Winter 2026",
-            "Winter 2025",
-            "Fall 2025",
-            "Summer 2025",
-            "Summer 2026"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "15d2967a-2539-49a5-8d33-c4b4b7f4ba45",
-        "date_posted": 1754361386,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Software Engineering"
-    },
-    {
-        "date_updated": 1754363934,
-        "url": "https://lifeattiktok.com/search/7533029779479791890",
-        "company_name": "TikTok",
-        "title": "Software Engineer Intern (TikTok-Intelligent Creation - Generative AI and Graphics)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "9cb12f36-6168-4a9b-a830-a3b05b7b80b4",
-        "date_posted": 1754363934,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Data Science, AI & Machine Learning"
-    },
-    {
-        "date_updated": 1754363985,
-        "url": "https://lifeattiktok.com/search/7533388869200333074",
-        "company_name": "TikTok",
-        "title": "Software Engineer Intern (Data Ecosystem)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "Simplify",
-        "id": "104ba742-a080-4cfc-a787-389a4b2623c4",
-        "date_posted": 1754363985,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Software Engineering"
-    },
-    {
-        "date_updated": 1754364082,
-        "url": "https://job-boards.greenhouse.io/marqueeig1/jobs/8102318002",
-        "company_name": "Marquee Insurance Group",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "Charleston, SC"
-        ],
-        "terms": [
-            "Spring 2026",
-            "Winter 2026",
-            "Winter 2025",
-            "Fall 2025",
-            "Summer 2025",
-            "Summer 2026"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "10c6a34e-045d-49ae-8c16-438ff31f6929",
-        "date_posted": 1754364082,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Software Engineering"
-    },
-    {
         "date_updated": 1754663912,
         "url": "https://nbtbancorp.wd12.myworkdayjobs.com/en-US/epic/job/Rochester-New-York/Student-Associate---Software-Engineer---EPIC_JR3617",
         "company_name": "EPIC",
@@ -14779,77 +14555,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Altruist",
-        "id": "dc236617-5440-44b9-8219-e76b9dbc3416",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756118448,
-        "date_posted": 1754364178,
-        "url": "https://altruist.com/join-altruist/5601855004?gh_jid=5601855004",
-        "locations": [
-            "San Francisco, CA",
-            "Culver City, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Altruist",
-        "id": "bdda83b1-bf4f-413b-9ece-02cde61de2e4",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756118648,
-        "date_posted": 1754364180,
-        "url": "https://altruist.com/join-altruist/5601854004?gh_jid=5601854004",
-        "locations": [
-            "San Francisco, CA",
-            "Culver City, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "PIMCO",
-        "id": "7fa4fada-81d2-480e-b806-86ce10f29f1c",
-        "title": "2025 Summer Internship - Product Analyst",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1754363818,
-        "date_posted": 1754363818,
-        "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2025-Summer-Internship---Product-Analyst--London_R104485",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/PIMCO",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -139655,7 +139360,7 @@
         "company_name": "TikTok",
         "id": "6e022cc4-fb18-4de2-be2a-2e3f1dc7a776",
         "title": "Data Scientist Intern - Tiktok Shop User Product Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -185055,7 +184760,7 @@
         "company_name": "Haize Labs",
         "id": "01b73789-a55c-4227-864d-4e1c9f06b059",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -240659,7 +240364,7 @@
         "company_name": "Leidos",
         "id": "ea9c64db-2da3-4386-bef4-e5bb8e359972",
         "title": "Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -240979,7 +240684,7 @@
         "company_name": "Westinghouse Electric Company",
         "id": "ac486ca5-0d2d-4fd6-b18b-7ba0dc289662",
         "title": "Risk Analysis Co-Op 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -285604,7 +285309,7 @@
         "company_name": "Huntsman",
         "id": "3b4fe0ef-9c0c-4322-b5c1-11a510585186",
         "title": "IT - Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -319118,7 +318823,7 @@
         "company_name": "TikTok",
         "id": "d651c0af-65df-48fa-ba84-b826ef333d96",
         "title": "Product Manager Intern - Ads Attribution and Measurement Product - 2026 Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -342831,7 +342536,7 @@
         "company_name": "BJ's Wholesale Club",
         "id": "3f5d6ed9-76be-4227-bc0b-27ef724452bf",
         "title": "Content Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -349767,7 +349472,7 @@
         "company_name": "ASSA ABLOY",
         "id": "710ad42a-9ac1-413e-bc82-a798cbf2cf16",
         "title": "Data Process Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392104,7 +391809,7 @@
         "company_name": "ASM Global",
         "id": "60bdef1d-571d-4869-88d3-ec21747a38c4",
         "title": "Hospitality and Merchandise Insights Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -423697,7 +423402,7 @@
         "company_name": "Stewart",
         "id": "520ada41-32e7-44c6-a26b-c4f06efe4241",
         "title": "Business Systems Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445816,7 +445521,7 @@
         "company_name": "RTX",
         "id": "f3752aeb-71c6-495a-a079-75ee5cbd91ed",
         "title": "Firmware Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -451660,7 +451365,7 @@
         "company_name": "Intel",
         "id": "31b39da1-0ced-4787-b2b3-4a9985bc7b44",
         "title": "AI Software Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -451891,6 +451596,237 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KLA",
+        "id": "cefc8d76-1d63-40ce-8a0b-5f29b9a3ecdc",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775092321,
+        "date_posted": 1775091999,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Marketing-Analyst-Intern_2533113",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "MiQ",
+        "id": "4b3adfd6-d66c-4e08-bcd9-a85d64b76b2c",
+        "title": "Trading Fellow",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775092321,
+        "date_posted": 1775092195,
+        "url": "https://miqdigital.wd3.myworkdayjobs.com/MiQ_Careers/job/Los-Angeles/Trading-Fellow_JR100218",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/MiQ",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Antora Energy",
+        "id": "959e31ab-c7ea-4f1a-b37b-d2fe87c8f02a",
+        "title": "Heat-to-Power Techno-Economic Analysis Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775092321,
+        "date_posted": 1775092306,
+        "url": "https://job-boards.greenhouse.io/antora/jobs/5842669004",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Antora-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "S&P Global ",
+        "id": "8942b192-80d1-4d07-b4ce-3d7e11370153",
+        "title": "Software Engineering Intern - Commercial Technology",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775092321,
+        "date_posted": 1775092170,
+        "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Software-Engineering-Intern--Commercial-Technology_326692-2",
+        "locations": [
+            "Hyderabad, Telangana, India",
+            "Chennai, Tamil Nadu, India",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/SP-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AAA Club Alliance",
+        "id": "87dc69e3-66dc-4f70-85a9-05564763f5ea",
+        "title": "Insurance Classic Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775092321,
+        "date_posted": 1775091993,
+        "url": "https://ace.wd5.myworkdayjobs.com/careers/job/Coppell-TX/Insurance-Classic-Intern_JR202635721",
+        "locations": [
+            "Coppell, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AAA-Club-Alliance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "MiQ",
+        "id": "5eb64506-0403-4f6f-86a4-36dede49f4ba",
+        "title": "Product Fellow",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775092321,
+        "date_posted": 1775092195,
+        "url": "https://miqdigital.wd3.myworkdayjobs.com/MiQ_Careers/job/New-York/Product-Fellow_JR100213",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/MiQ",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sarasota County",
+        "id": "08c870fa-9a2a-4718-a772-5d10cc91d885",
+        "title": "Web Development / SharePoint Design Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775092620,
+        "date_posted": 1775091934,
+        "url": "https://scgov.wd5.myworkdayjobs.com/SCGOV/job/Cattleman/Web-Development---SharePoint-Design-Intern---Onsite-Summer-2026-Internship_R20666",
+        "locations": [
+            "Sarasota, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Sarasota-County",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KLA",
+        "id": "7ba32745-72ee-4dd0-8caf-92b6b8ab7ed7",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775092321,
+        "date_posted": 1775092031,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Marketing-Analyst-Intern_2533113-1",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Applied Materials",
+        "id": "15f6858f-e8d7-4897-9ace-2e9574051dd5",
+        "title": "AI Application Engineer for Quantum Development Intern - Masters/PhD",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775092321,
+        "date_posted": 1775092254,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-Application-Enginer-for-Quantum-Development-Intern--Masters-PhD---Santa-Clara--CA-_R2616483",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Marriott Vacations Worldwide",
+        "id": "63851754-b0dd-4819-a303-e4d65c63031c",
+        "title": "Data & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775092648,
+        "date_posted": 1775092196,
+        "url": "https://mymvw.wd5.myworkdayjobs.com/mvw/job/MVW-Headquarters/Data---Analytics-Internship---Summer-2026---Orlando--FL_JR89259",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Marriott-Vacations-Worldwide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
