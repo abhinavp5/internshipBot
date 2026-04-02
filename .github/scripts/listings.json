@@ -260298,7 +260298,7 @@
         "company_name": "Nutanix",
         "id": "b0100e7e-c9a3-4daa-ac98-1d7a8f5091c0",
         "title": "Software Engineering Intern - Undergrad ONLY - Distributed systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -368879,7 +368879,7 @@
         "company_name": "Kaiser Permanente",
         "id": "7eb3bd05-1064-47f2-8983-b03f10fa86ef",
         "title": "Data Analyst/Programmer Master's Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -417894,7 +417894,7 @@
         "company_name": "Microchip Technology",
         "id": "7561c6ee-9dce-4d3c-a9b1-5c303010772b",
         "title": "Engineering Month Student Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -426899,7 +426899,7 @@
         "company_name": "Ibility",
         "id": "bb4618a1-bc16-44a6-8b65-98acd7119b4a",
         "title": "Data Analytics Associate Fellowship",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -442671,7 +442671,7 @@
         "company_name": "Kinaxis",
         "id": "56af5c93-ff4a-4acf-9ef2-a61291dc9b09",
         "title": "Intern Developer - Front End Technologies",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -444976,7 +444976,7 @@
         "company_name": "Granite Construction",
         "id": "5628f91e-9bde-4281-9e4f-af0144726d32",
         "title": "Business Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -445399,7 +445399,7 @@
         "company_name": "Airgas",
         "id": "33c96e1e-ba9a-4600-a17f-3351f4d0b2f3",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -445722,7 +445722,7 @@
         "company_name": "The Walt Disney Company",
         "id": "aafc39d6-9072-4a6c-a500-fa118d1d79e0",
         "title": "Decision Science Product Graduate Associate - AI",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -445933,7 +445933,7 @@
         "company_name": "Toyota Research Institute",
         "id": "8ff9b4c4-05af-4f81-9617-cbdc968a6737",
         "title": "AI Research Intern - Wellbeing - Communities & Organizations",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -446472,7 +446472,7 @@
         "company_name": "Benchling",
         "id": "13ca75f9-0d76-4939-882e-23456998a4c0",
         "title": "Software Engineer - Full Stack - Admin & Identity Platform",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -447399,7 +447399,7 @@
         "company_name": "GEHA",
         "id": "bace08a0-91db-4961-9dd8-92c3167d174e",
         "title": "Intern \u2013 Dental Clinical & Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -449239,7 +449239,7 @@
         "company_name": "Octopus Energy",
         "id": "52477347-67fa-444b-ba31-4770207c2acb",
         "title": "Octopus in Colour Intern - Backend Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -449306,7 +449306,7 @@
         "company_name": "Rockwell Automation",
         "id": "514d23a9-435e-44f4-a1cb-6cb7b04a098e",
         "title": "Apprentice Repair Technician",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -449327,7 +449327,7 @@
         "company_name": "Jackson",
         "id": "e35a65cd-2c08-454a-9d26-364b01659668",
         "title": "Strategic Support Associate - Service Desk",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -449394,7 +449394,7 @@
         "company_name": "Trane Technologies",
         "id": "7d8a07e4-0435-4236-852b-9ff0999f509b",
         "title": "Technical Applications and HW Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -449485,7 +449485,7 @@
         "company_name": "Trane Technologies",
         "id": "5a535b94-7745-4153-b402-3d690acce01b",
         "title": "Software & Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -449622,7 +449622,7 @@
         "company_name": "Octopus Energy",
         "id": "84417381-1f77-4bc5-a7bc-8e4a185af99e",
         "title": "Octopus in Colour Intern - Mobile Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -450098,7 +450098,7 @@
         "company_name": "Oklahoma State Government",
         "id": "78b98bdc-93b8-40eb-a25b-d64210672c5b",
         "title": "Applications Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -451842,6 +451842,123 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/b41d30d5-14c9-4328-9741-f8a45e378976",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GEHA",
+        "id": "8697f149-f398-43d5-8696-75330b1b252f",
+        "title": "Full Stack Developer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775125394,
+        "date_posted": 1774994790,
+        "url": "https://geha.wd5.myworkdayjobs.com/en-US/GEHACareers/job/Remote/Intern---Full-Stack-Developer_R-005245",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/b41d30d5-14c9-4328-9741-f8a45e378976",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Berkshire Hathaway Energy",
+        "id": "f0865c39-c2d0-4de6-9758-7218853be989",
+        "title": "Software Engineer 1",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775122561,
+        "date_posted": 1775052369,
+        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10004645",
+        "locations": [
+            "Des Moines, IA",
+            "Richmond, VA",
+            "Reno, NV",
+            "Sioux City, IA",
+            "Davenport, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Thermo Fisher Scientific",
+        "id": "e81b17bf-6d9c-4069-a079-83bc244eaa90",
+        "title": "Engineering Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775124655,
+        "date_posted": 1774649237,
+        "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hillsboro-Oregon-USA/Winter-Engineering-Co-Op_R-01329364",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Snowflake",
+        "id": "427afc02-f659-4fae-85b1-318a967d24b0",
+        "title": "Order to Cash",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775122561,
+        "date_posted": 1771888760,
+        "url": "https://jobs.ashbyhq.com/snowflake/26316468-f156-40e1-b037-db3337d5fe4c/application",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "f8d81dd0-84d1-4cde-90aa-a9fb470f17be",
+        "title": "Systems Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775123641,
+        "date_posted": 1765988629,
+        "url": "https://careers-gdms.icims.com/jobs/70181/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
