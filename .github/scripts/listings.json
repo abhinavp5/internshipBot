@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "174a07c8-fbf8-4230-a424-5d346a3ca5ba",
-        "title": "Software Engineer Intern - Payment Architecture - Global Payment",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1754410021,
-        "date_posted": 1754410021,
-        "url": "https://jobs.bytedance.com/en/position/7533369790536141063/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Motorola",
         "id": "212dc499-a662-4704-9d3b-ac2080f5586a",
