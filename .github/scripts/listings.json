@@ -447214,7 +447214,7 @@
         "company_name": "Paccar",
         "id": "486e5722-063b-445e-8da2-c24e94945032",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -447515,7 +447515,7 @@
         "company_name": "Equip Health",
         "id": "049e336c-28fd-46ed-9e81-a25323e6f810",
         "title": "Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450098,7 +450098,7 @@
         "company_name": "Oklahoma State Government",
         "id": "78b98bdc-93b8-40eb-a25b-d64210672c5b",
         "title": "Applications Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
