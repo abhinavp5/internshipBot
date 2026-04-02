@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Motorola",
-        "id": "212dc499-a662-4704-9d3b-ac2080f5586a",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755050480,
-        "date_posted": 1754413489,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Software-Engineer-Intern_R56319",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Palantir",
         "id": "bd5985bd-7c09-4dfe-b27f-46d6f0d3418a",
@@ -73381,7 +73361,7 @@
     {
         "date_updated": 1757669614,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -424441,7 +424421,7 @@
         "company_name": "Authentic",
         "id": "9eca7e3d-5f9d-43e2-b529-96963abee3b0",
         "title": "Digital Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450490,7 +450470,7 @@
         "company_name": "TD Bank",
         "id": "eaa6d630-f67f-4bdb-b4ab-fc4cf611266e",
         "title": "AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
