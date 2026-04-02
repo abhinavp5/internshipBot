@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "bd5985bd-7c09-4dfe-b27f-46d6f0d3418a",
-        "title": "Forward Deployed Software Engineer \u2013 Internship - Commercial",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755594700,
-        "date_posted": 1754429794,
-        "url": "https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Chicago Trading Company",
         "id": "51309188-7d62-41e9-9fbe-d02b155f9d0d",
@@ -14417,29 +14397,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Jumio",
-        "id": "4b79ca57-07ae-49ee-b41d-681a8edaff4e",
-        "title": "Research Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1754430319,
-        "date_posted": 1754430319,
-        "url": "https://job-boards.greenhouse.io/jumio/jobs/4583466005",
-        "locations": [
-            "Lenexa, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/Jumio",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
         ]
     },
     {
