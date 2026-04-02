@@ -15854,7 +15854,7 @@
         "company_name": "Vanguard",
         "id": "3012d6f2-e64e-456a-8b95-aa1b9ee3f94c",
         "title": "Application Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -251879,7 +251879,7 @@
         "company_name": "Crane Co.",
         "id": "16532752-edcd-4d51-b75f-798ae474270b",
         "title": "Hardware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -414804,7 +414804,7 @@
         "company_name": "Belk",
         "id": "a707626d-9074-4ad8-bbc6-076223466c35",
         "title": "Retail Development Program - Software Engineering - Front-End",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -440092,7 +440092,7 @@
         "company_name": "FMC Corporation",
         "id": "aa6544d6-458e-4776-8ed6-7a7f37c1a68e",
         "title": "Market Intelligence & Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443120,7 +443120,7 @@
         "company_name": "Moog ",
         "id": "46cc6019-d91a-4c22-bd2b-227a908ecd97",
         "title": "Intern \u2013 Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -451827,6 +451827,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "104ba742-a080-4cfc-a787-389a4b2623c4",
+        "title": "Software Engineer Intern - Data Ecosystem",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1761915240,
+        "date_posted": 1761915240,
+        "url": "https://lifeattiktok.com/search/7533388869200333074",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
