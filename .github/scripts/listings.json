@@ -184760,7 +184760,7 @@
         "company_name": "Haize Labs",
         "id": "01b73789-a55c-4227-864d-4e1c9f06b059",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -214650,7 +214650,7 @@
         "company_name": "Cisco",
         "id": "0fdfda06-d9eb-48c2-b935-b4da3ff0f844",
         "title": "Software Engineer Data/AI/Intelligent Systems 1 - Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -215267,7 +215267,7 @@
         "company_name": "Cisco",
         "id": "e0ae2e2d-f58f-4959-aedd-99834d332128",
         "title": "Software Engineer Embedded/Network Systems 1 - Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -251879,7 +251879,7 @@
         "company_name": "Crane Co.",
         "id": "16532752-edcd-4d51-b75f-798ae474270b",
         "title": "Hardware Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -259589,7 +259589,7 @@
         "company_name": "TD Bank",
         "id": "5d9d7a27-887b-410a-97a3-bbc737bc9039",
         "title": "Software Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -310080,7 +310080,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "140886bc-fadc-4d64-80f0-a6b8fc95e9b0",
         "title": "Corporate Intern - Digital and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -342536,7 +342536,7 @@
         "company_name": "BJ's Wholesale Club",
         "id": "3f5d6ed9-76be-4227-bc0b-27ef724452bf",
         "title": "Content Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -427086,7 +427086,7 @@
         "company_name": "Magna",
         "id": "d637340d-7270-47f2-9a2d-005e1fe8f869",
         "title": "AI CAD Research Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -438820,7 +438820,7 @@
         "company_name": "Prairie View A&M University",
         "id": "ac232ad2-7c35-4c99-b80e-bf6c834529dd",
         "title": "Student Hourly Assistant - Data Analysis - Credit Center",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
