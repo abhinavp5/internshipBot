@@ -135804,7 +135804,7 @@
         "company_name": "General Motors",
         "id": "6c43b7e6-b33c-491e-bcd0-f6a363450901",
         "title": "Co-Op - Software Developer - Virtualization and SIL Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -204995,7 +204995,7 @@
         "company_name": "AvicenaTech",
         "id": "428754ac-c863-471a-a763-3fcf03cb6b46",
         "title": "Software Intern for System Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -214131,7 +214131,7 @@
         "company_name": "Cisco",
         "id": "4dae6ba7-9a7b-4938-b50e-1fed56ecd99e",
         "title": "ASIC Design Verification Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -259874,7 +259874,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Nutanix",
-        "id": "b0100e7e-c9a3-4daa-ac98-1d7a8f5091c0",
+        "id": "4517181b-c420-4514-a0df-1059ec52b260",
         "title": "Software Engineering Intern - Undergrad ONLY - Distributed systems",
         "active": true,
         "terms": [
@@ -291931,7 +291931,7 @@
         "company_name": "ByteDance",
         "id": "b3b1ff92-09f1-405b-a03c-9c57c3b74030",
         "title": "Student Researcher - Seed - LLM Model",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -305023,7 +305023,7 @@
         "company_name": "Cisco",
         "id": "3de06565-f7a3-414f-88fb-8883ab1c50a8",
         "title": "Software Engineer Security & Automation 1 - Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -336533,7 +336533,7 @@
         "company_name": "Paccar",
         "id": "cb725b48-7a2f-43b6-aeec-fa2cd46489f7",
         "title": "Software Engineering Intern - Powertrain Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -337708,7 +337708,7 @@
         "company_name": "Paccar",
         "id": "a32d171a-be3b-437d-b7c1-73ba2d4f83f0",
         "title": "Engine Systems Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -359145,7 +359145,7 @@
         "company_name": "Werfen",
         "id": "cb487fd5-335f-4f43-8235-79365844ae57",
         "title": "Intern \u2013 Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -359215,7 +359215,7 @@
         "company_name": "Werfen",
         "id": "612d8cb3-42dd-4c64-baa7-6376eb5ef1de",
         "title": "Intern \u2013 Hardware Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -405115,7 +405115,7 @@
         "company_name": "Juniper Square",
         "id": "2287872b-dd52-4164-86fd-344fb5d68a16",
         "title": "AI Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -409703,7 +409703,7 @@
         "company_name": "Applied Materials",
         "id": "f67d9b4f-525b-485d-8afe-a01564ac2912",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -417949,7 +417949,7 @@
         "company_name": "The Federal Reserve System",
         "id": "e101d805-293c-49f2-a24e-5ce987ed7770",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -420616,7 +420616,7 @@
         "company_name": "The Federal Reserve System",
         "id": "0c86cfb3-6d20-4de6-a83a-ca0b297c4b54",
         "title": "Supervision \u2013 And Statistics Intern - Credit Risk",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -425373,7 +425373,7 @@
         "company_name": "Talkspace",
         "id": "447cca8a-203d-4734-950d-384438326d1b",
         "title": "Marketing Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -427301,7 +427301,7 @@
         "company_name": "Fortinet",
         "id": "b875b713-f8fe-4100-b1c9-4534e4a4cd55",
         "title": "Applied AI Engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -444508,7 +444508,7 @@
         "company_name": "Granite Construction",
         "id": "5628f91e-9bde-4281-9e4f-af0144726d32",
         "title": "Business Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -444931,7 +444931,7 @@
         "company_name": "Airgas",
         "id": "33c96e1e-ba9a-4600-a17f-3351f4d0b2f3",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -445254,7 +445254,7 @@
         "company_name": "The Walt Disney Company",
         "id": "aafc39d6-9072-4a6c-a500-fa118d1d79e0",
         "title": "Decision Science Product Graduate Associate - AI",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -447024,7 +447024,7 @@
         "company_name": "Primerica",
         "id": "4b7c9982-3aa3-451e-a803-105beff584cf",
         "title": "Application Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -448859,7 +448859,7 @@
         "company_name": "Jackson",
         "id": "e35a65cd-2c08-454a-9d26-364b01659668",
         "title": "Strategic Support Associate - Service Desk",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -448970,7 +448970,7 @@
         "company_name": "Trane Technologies",
         "id": "f7819eb2-6492-4917-b03e-b820f9de56b7",
         "title": "Retail Operations Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -449017,7 +449017,7 @@
         "company_name": "Trane Technologies",
         "id": "5a535b94-7745-4153-b402-3d690acce01b",
         "title": "Software & Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -449064,7 +449064,7 @@
         "company_name": "Trane Technologies",
         "id": "391b24ee-5f39-403d-9503-2f307f96793b",
         "title": "Energy Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -449490,7 +449490,7 @@
         "company_name": "Nightwing Intelligence Solutions",
         "id": "0dbfef88-8c21-4091-a7fa-8adc657aab44",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -449859,7 +449859,7 @@
         "company_name": "Intel",
         "id": "99a0edb6-8c24-46ec-ad69-0339ffc2b910",
         "title": "PDK Runset Development Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -450185,7 +450185,7 @@
         "company_name": "Elevance Health",
         "id": "ec436044-864c-4691-8a9e-1ab4e2d9834a",
         "title": "Commercial Product Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -451270,7 +451270,7 @@
         "company_name": "Marriott Vacations Worldwide",
         "id": "63851754-b0dd-4819-a303-e4d65c63031c",
         "title": "Data & Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -452022,7 +452022,7 @@
         "company_name": "Primerica",
         "id": "83d31ca5-416a-4db1-8e9e-618f6b8dde0d",
         "title": "Data Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -452365,7 +452365,7 @@
         "company_name": "Leidos",
         "id": "5b00de02-9188-415f-8fd4-dac0a5d22949",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -453009,7 +453009,7 @@
         "company_name": "General Motors",
         "id": "8ed97ced-31a2-4cc5-9180-1a33c8cf4e7e",
         "title": "Software Developer \u2013 Co-Op - Advanced AI & Simulation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -453351,6 +453351,103 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Charles River Analytics",
+        "id": "bc65be34-3d28-49bd-8446-2ea08205a291",
+        "title": "Scientist Intern - Human Computer Interaction",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775210413,
+        "date_posted": 1775081199,
+        "url": "https://cra.com/job-listings/job?gh_jid=7772938",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Charles-River-Analytics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Philips",
+        "id": "d658b127-b563-4ec2-913c-d3f00465615b",
+        "title": "Intern/Co-op Software Ultrasound R&D Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1775210380,
+        "date_posted": 1775052580,
+        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/CO-OP---Software-Ultrasound-R-D-Engineer--Cambridge--MA-June-December-2026_579890",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Philips",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "X Development",
+        "id": "ea676687-2aed-4508-ba3d-fc66f2c21586",
+        "title": "PhD / Master\u2019s Residency - Revolutionary Nanodevice Measurement and Characterization - Early Stage Project",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775210406,
+        "date_posted": 1774055363,
+        "url": "https://x.company/careers/8472640002?gh_jid=8472640002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/X-Development",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "586d8296-0f48-4db0-9891-97a6b0754f98",
+        "title": "Field Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775212226,
+        "date_posted": 1775178460,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice--San-Antonio--TX-_R4035111-1",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's",
+            "Certificate"
         ]
     }
 ]
