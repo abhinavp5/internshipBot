@@ -1,25 +1,5 @@
 [
     {
-        "date_updated": 1754500959,
-        "url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3",
-        "company_name": "Palantir",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "kenchung285",
-        "id": "e96f4d5d-e95d-4172-b530-37f903a17500",
-        "date_posted": 1754500959,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Software Engineering"
-    },
-    {
         "date_updated": 1754505435,
         "url": "https://jobs.ashbyhq.com/gimlet/23e10dd6-e7c5-43f0-b14e-54ab999fccd9",
         "company_name": "Gimlet Labs",
@@ -423143,7 +423123,7 @@
         "company_name": "Ivo",
         "id": "3e694132-9f2d-457f-ae93-3fb2ee212c7b",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439671,7 +439651,7 @@
         "company_name": "Western Digital",
         "id": "8d94e146-65e2-47c4-b9c8-32a940f5bb4f",
         "title": "Intern - Test Development Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -447231,7 +447211,7 @@
         "company_name": "TSC",
         "id": "81097fa8-eed1-4674-b8d3-0e3716894c7e",
         "title": "Electrical/Computer Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -451111,7 +451091,7 @@
         "company_name": "S&P Global ",
         "id": "8942b192-80d1-4d07-b4ce-3d7e11370153",
         "title": "Software Engineering Intern - Commercial Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
