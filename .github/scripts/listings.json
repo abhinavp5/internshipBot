@@ -187763,7 +187763,7 @@
         "company_name": "Salesforce",
         "id": "b476d6e3-d5b0-4179-8453-71f2a34f632e",
         "title": "Summer 2026 Intern-Tableau Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -214947,7 +214947,7 @@
         "company_name": "Cisco",
         "id": "d2da749a-84bb-4e0f-a8bd-b7dfebc60ba7",
         "title": "Hardware Engineer 2",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -239287,7 +239287,7 @@
         "company_name": "Westinghouse Electric Company",
         "id": "fbc42e47-c91a-478c-b817-80757f77e9ba",
         "title": "Risk Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -362946,7 +362946,7 @@
         "company_name": "HARMAN International",
         "id": "907eaf7b-2a88-4894-acd6-ad8973500e41",
         "title": "Intern - AI/Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -398024,7 +398024,7 @@
         "company_name": "Peraton",
         "id": "e4fb07eb-c8db-4fd1-bd65-21c8c6fb185d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -425880,7 +425880,7 @@
         "company_name": "Amentum",
         "id": "6e1e8603-085f-45f4-bc9e-5a132a3da604",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -447552,7 +447552,7 @@
         "company_name": "Omnicom Health",
         "id": "b5466547-86bb-4ad0-94df-d881649e170a",
         "title": "Bold Beginners Full Stack Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -453428,6 +453428,144 @@
             "Master's",
             "Associate's",
             "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "cff66d97-15ea-4059-ad7d-2e44518b8595",
+        "title": "Data Integration Development Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1775227217,
+        "date_posted": 1775225476,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Data-Integration-Development-Intern_R-00179956-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Interdigital",
+        "id": "769cd552-cfd3-4f19-be8c-43ed9f454f5d",
+        "title": "Generative AI Implementation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775226421,
+        "date_posted": 1775225283,
+        "url": "https://interdigital.wd5.myworkdayjobs.com/InterDigital_Intern/job/Conshohocken-PA/Generative-AI-Implementation-Intern_REQ26-1093",
+        "locations": [
+            "Conshohocken, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Interdigital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Onto Innovation",
+        "id": "f2a2ded2-d68e-48f3-93f7-97c6a629d121",
+        "title": "Optical Systems Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775226677,
+        "date_posted": 1775225249,
+        "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Milpitas-CA/Optical-Systems-Engineer-Internship_R-5704",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Onto-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Atos",
+        "id": "43582307-c893-42b4-b42d-a3c849db7ab8",
+        "title": "Apprentice D&AI Resource",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1775226421,
+        "date_posted": 1775225214,
+        "url": "https://jobs.atos.net/job/London-Apprentice-D&AI-Resource/1380728533/?ats=successfactors",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Atos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Onto Innovation",
+        "id": "42eb9ca4-e623-450e-aa88-5198ab970eef",
+        "title": "Applications Systems Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775226664,
+        "date_posted": 1775225249,
+        "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Milpitas-CA/Applications-Systems-Engineer-Internship_R-5705",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Onto-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Salesforce",
+        "id": "1aa662ef-b4e7-4286-9f3a-dfd9f9055bef",
+        "title": "Intern-Tableau Research",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775226711,
+        "date_posted": 1775225133,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2026-Intern--Tableau-Research_JR316308-1",
+        "locations": [
+            "Palo Alto, CA",
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
