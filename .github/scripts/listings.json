@@ -417481,7 +417481,7 @@
         "company_name": "Amentum",
         "id": "ddeb69f0-1e8c-47ab-b00d-eab358d080df",
         "title": "Electronics Technician Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439250,7 +439250,7 @@
         "company_name": "Amentum",
         "id": "a2061216-0f2d-43e1-8dc2-0b3d872ee650",
         "title": "Electronics Technician Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
