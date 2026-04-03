@@ -160415,7 +160415,7 @@
         "company_name": "Qualcomm",
         "id": "5e9ba39f-338b-4b11-a5a5-0c275ee82bca",
         "title": "Automotive Engineering Internship - Interim Engineering Intern - SW - QCT Engineering Mgmt - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -411572,7 +411572,7 @@
         "company_name": "Northrop Grumman",
         "id": "4b3ff341-926d-40cd-9f89-3a52df428b20",
         "title": "Intern Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
