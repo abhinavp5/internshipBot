@@ -204155,7 +204155,7 @@
         "company_name": "Marvell",
         "id": "e2f1c032-3220-4337-ba0b-f2a4cbb3119b",
         "title": "Firmware Engineering Intern - Bachelor's Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -334887,7 +334887,7 @@
         "company_name": "Parallel Web Systems",
         "id": "7c4eb84e-e594-4a6c-9973-2235f95e371e",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -358681,7 +358681,7 @@
         "company_name": "Marvell",
         "id": "37acdb0b-ab7f-4a83-ae61-a768b015eb6f",
         "title": "Firmware Engineering Intern - Bachelor's Degree",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -415090,7 +415090,7 @@
         "company_name": "Locus Robotics",
         "id": "81229238-b3b5-4e1e-9a04-d90e9a826775",
         "title": "Product Quality Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -441280,7 +441280,7 @@
         "company_name": "SonoThera",
         "id": "35f33404-2f1e-45b9-8c9e-dafa62020f3b",
         "title": "Protein Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -449839,7 +449839,7 @@
         "company_name": "Intel",
         "id": "99a0edb6-8c24-46ec-ad69-0339ffc2b910",
         "title": "PDK Runset Development Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -451732,7 +451732,7 @@
         "company_name": "Revvity",
         "id": "f6ba72bf-2e9a-46c2-8f38-da3c829a5998",
         "title": "AI Intern Global Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
