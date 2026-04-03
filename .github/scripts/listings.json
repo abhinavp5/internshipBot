@@ -1,25 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "28443410-8587-45ee-93eb-e6a3250f2e60",
-        "title": "Software Development Engineer in Test Intern - Global E-Commerce",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754456986,
-        "date_posted": 1754456986,
-        "url": "https://jobs.bytedance.com/en/position/7533352137058011399/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1754479401,
         "url": "https://jobs.ashbyhq.com/Talos-Trading/2db01769-8f00-4652-b790-b7cff80bc891",
         "company_name": "Talos Trading",
@@ -14078,75 +14058,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "e2d41b14-59db-4672-9f9a-725a92a18e84",
-        "title": "Machine Learning Engineer Intern - E-commerce-Supply Chain & Logistics",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754458075,
-        "date_posted": 1754458075,
-        "url": "https://jobs.bytedance.com/en/position/7535156966491146503/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "915f6350-f12a-4cc2-8752-5a0516583603",
-        "title": "Machine Learning Engineer Intern - E-commerce-Conversational AI - 2026 Start - PhD",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1754457497,
-        "date_posted": 1754457497,
-        "url": "https://jobs.bytedance.com/en/position/7535156928172132626/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "bbd24773-539e-4f70-9245-01fd1010e720",
-        "title": "Machine Learning Engineer Intern - E-commerce-Supply Chain & Logistics",
-        "active": true,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1754455181,
-        "date_posted": 1754455181,
-        "url": "https://jobs.bytedance.com/en/position/7535159416719591687/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
             "PhD"
         ]
     },
@@ -289457,29 +289368,6 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ByteDance",
-        "id": "3e9f3931-e1ff-463a-9425-8093358f7aa0",
-        "title": "Student Researcher - Multiple Teams",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1764158745,
-        "date_posted": 1754456652,
-        "url": "https://jobs.bytedance.com/en/position/7530340275005278482/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
         "id": "1c0ef532-045d-408b-8050-2c81bcbdec3f",
         "title": "Student Researcher - Seed Vision - World Models for Video Generation",
         "active": false,
@@ -342705,29 +342593,6 @@
         "degrees": [
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Trumid",
-        "id": "ab0d2c75-cacc-43e3-8909-073f67b040e2",
-        "title": "Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770421177,
-        "date_posted": 1754459374,
-        "url": "https://job-boards.greenhouse.io/trumid/jobs/6672765003",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Trumid",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -397207,7 +397072,7 @@
         "company_name": "Argonne National Laboratory",
         "id": "388c47b2-0f3a-4b7a-bbdb-555b5216262a",
         "title": "Applied Artificial Intelligence & Autonomous Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -420069,7 +419934,7 @@
         "company_name": "GE Vernova",
         "id": "abada4a1-1d55-4e09-b9e1-67b3acc676ba",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -421304,7 +421169,7 @@
         "company_name": "GE Vernova",
         "id": "bedeaf16-9723-45d3-a09b-c3e19898982d",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -428948,7 +428813,7 @@
         "company_name": "Northrop Grumman",
         "id": "814779b8-23af-45d5-bf28-9d3d1dd8fbd9",
         "title": "Data Insight Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -429022,7 +428887,7 @@
         "company_name": "Northrop Grumman",
         "id": "914d3aec-ff96-418e-a886-d30d686215f4",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -430678,7 +430543,7 @@
         "company_name": "Johnson & Johnson",
         "id": "a911246b-65bf-4e55-9da4-67b7f953997d",
         "title": "Research Intern AI/ML & DH",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -430793,7 +430658,7 @@
         "company_name": "City of Philadelphia",
         "id": "899ff696-2738-416a-bdb8-37302b4588fb",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -432793,7 +432658,7 @@
         "company_name": "General Motors",
         "id": "4f505a04-59a0-465c-8523-37e0e512530c",
         "title": "Chassis Controls Software Developer \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -440348,7 +440213,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "f2adc3a8-c6be-4210-b023-7d471cbed984",
         "title": "Wealth Management \u2013 Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -441067,7 +440932,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "49e46bfc-5b9e-4551-8b1e-f1581061c563",
         "title": "Wealth Management \u2013 Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -442948,7 +442813,7 @@
         "company_name": "Metrolinx",
         "id": "b8148330-202e-48dd-99e1-03049c61e10f",
         "title": "Co-op/Intern Student - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453438,6 +453303,29 @@
         "degrees": [
             "Bachelor's",
             "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "bbd24773-539e-4f70-9245-01fd1010e720",
+        "title": "Machine Learning Engineer Intern - E-commerce-Supply Chain & Logistics - 2026 Start",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1761868878,
+        "date_posted": 1761868878,
+        "url": "https://jobs.bytedance.com/en/position/7535159416719591687/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "PhD"
         ]
     }
