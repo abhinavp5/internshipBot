@@ -1,25 +1,5 @@
 [
     {
-        "date_updated": 1754505435,
-        "url": "https://jobs.ashbyhq.com/gimlet/23e10dd6-e7c5-43f0-b14e-54ab999fccd9",
-        "company_name": "Gimlet Labs",
-        "title": "Software Engineer - Intern",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "cbbaa1ac-f761-4ffa-a4bc-707d8e6ef385",
-        "date_posted": 1754505435,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Software Engineering"
-    },
-    {
         "date_updated": 1754527584,
         "url": "https://jobs.ashbyhq.com/Talos-Trading/0c150c16-ed0e-4f21-81d6-e85f67437f00",
         "company_name": "Talos Trading",
@@ -34174,7 +34154,7 @@
         "company_name": "The Travelers Companies",
         "id": "2e60abe0-d339-41b5-b09b-8434f679cec2",
         "title": "Business Insights & Analytics Leadership Development Program \u2013 Geospatial Intern - BI&a Ldp",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -46278,7 +46258,7 @@
         "company_name": "DriveTime",
         "id": "428826a7-ec28-4d3e-8f9e-1128b4c972a3",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -99058,7 +99038,7 @@
         "company_name": "Jade Global",
         "id": "e90ddb6c-173a-4eb0-8dd0-675d14c5f873",
         "title": "Data/Ai Engineer Intern - Data & AI Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -172960,7 +172940,7 @@
         "company_name": "GE Vernova",
         "id": "aaf9224e-d8cf-4599-874a-15d2b37b3f58",
         "title": "GE Vernova Prompt Engineering Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -198107,7 +198087,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "7615cfa2-56ef-49e0-8817-60db45705e9f",
         "title": "Engineering Intern - Software and Systems Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -216409,7 +216389,7 @@
         "company_name": "JP Morgan Chase",
         "id": "327f743f-815c-42c6-8798-60053cb38018",
         "title": "Machine Learning Engineer - Asset Wealth Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -279443,7 +279423,7 @@
         "company_name": "NVIDIA",
         "id": "7ca29a65-af5e-4a95-85ec-7c17b3a2478b",
         "title": "Performance Engineering Intern - Deep Learning and HPC - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332888,7 +332868,7 @@
         "company_name": "Rocket Companies",
         "id": "30ffa74b-09c6-4b26-a07d-1afb832511ac",
         "title": "Data Analyst Intern - Summer 2026 - Windsor','On",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344394,7 +344374,7 @@
         "company_name": "HARMAN International",
         "id": "8d903f6d-fd69-4381-b440-e1bf7d609708",
         "title": "Summer Intern - Product Management - Two Wheeler Telematics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -347285,7 +347265,7 @@
         "company_name": "CoorsTek",
         "id": "fadd996d-c540-4e77-a916-c03573b45525",
         "title": "Data and Analytics Intern 2",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -347833,7 +347813,7 @@
         "company_name": "Varex Imaging Corporation",
         "id": "f610e7da-c3a0-43b8-a059-61f198bd4fa4",
         "title": "Computer Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376939,7 +376919,7 @@
         "company_name": "Rochester Regional Health",
         "id": "a50e4caf-7051-4d1d-b3b1-268fd1f33d40",
         "title": "RIT Co-op: Information Systems & Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -382309,7 +382289,7 @@
         "company_name": "NVIDIA",
         "id": "ced42f63-f0f9-4864-b10b-006aa9cbd0ea",
         "title": "Developer Technology Intern - AI - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389143,7 +389123,7 @@
         "company_name": "Premier",
         "id": "5fb91b0e-9e5e-4b47-bb3e-f99e7a427e3d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -405897,7 +405877,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "aa34086b-15f8-4b0d-8f89-328690e51c37",
         "title": "Data Analytics Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -415208,7 +415188,7 @@
         "company_name": "Nokia",
         "id": "e6c6b93c-4a04-40fd-9786-52a5b2247cf8",
         "title": "Software Developer AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -415232,7 +415212,7 @@
         "company_name": "Nokia",
         "id": "cfe92505-02cc-419a-96a0-0b81e099942c",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -416228,7 +416208,7 @@
         "company_name": "Premera Blue Cross",
         "id": "9cc576bd-bbe5-4751-836d-96a2333eacab",
         "title": "Claims Information Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -421011,7 +420991,7 @@
         "company_name": "Sierra Space",
         "id": "04c6d907-67f2-4251-a099-b6c29de310b1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -425518,7 +425498,7 @@
         "company_name": "Sierra Space",
         "id": "3da84b1f-abcd-4475-ac04-fc4157857a5f",
         "title": "AI Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439714,7 +439694,7 @@
         "company_name": "Premier",
         "id": "10c56a91-28d5-4510-94a7-45c187686f61",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443423,7 +443403,7 @@
         "company_name": "Takeda",
         "id": "33c84689-0cd3-4205-8cbc-764c2c445043",
         "title": "Documentation & Artificial Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -446593,7 +446573,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "eea65412-f5fd-4e49-8ceb-2115db3a11bd",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -446937,7 +446917,7 @@
         "company_name": "Fresenius Medical Care",
         "id": "624e6c61-b3b3-454a-9c8d-141acbfd0148",
         "title": "GenAI Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -449567,7 +449547,7 @@
         "company_name": "CliftonLarsonAllen",
         "id": "89bc0f14-7e6a-48ec-bd2b-aa26fd4acfd2",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
