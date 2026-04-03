@@ -32866,7 +32866,7 @@
 <td>AI/ML Intern 🇺🇸</td>
 <td>Dayton, OH</td>
 <td>🔒</td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong>esVolta</strong></td>
@@ -51462,7 +51462,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/American-Express?utm_source=GHList&utm_medium=company">American Express</a></strong></td>
+<td>↳</td>
 <td>Campus Graduate Intern Program - Data Management - Technology</td>
 <td>NYC</td>
 <td>🔒</td>
