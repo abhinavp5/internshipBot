@@ -254112,7 +254112,7 @@
         "company_name": "Applied Materials",
         "id": "3985aee6-05da-4f99-a262-b06f74bf34bb",
         "title": "Product Marketing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343030,7 +343030,7 @@
         "company_name": "Resmed",
         "id": "111227cc-4a41-4f41-ab54-96b2d0a6c569",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -446907,7 +446907,7 @@
         "company_name": "Hancock Whitney",
         "id": "c162f6b2-8947-47b9-b05c-f91c5d93b84e",
         "title": "Intern-Payments - Products & Marketing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -447859,7 +447859,7 @@
         "company_name": "Torch Technologies",
         "id": "40ead807-c92d-4388-bc6b-4dc7547768f7",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453327,6 +453327,30 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zscaler",
+        "id": "e8640409-5d58-42d8-85dc-c690bee4195f",
+        "title": "Marketing Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775197441,
+        "date_posted": 1775197049,
+        "url": "https://job-boards.greenhouse.io/zscaler/jobs/5098819007",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zscaler",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
