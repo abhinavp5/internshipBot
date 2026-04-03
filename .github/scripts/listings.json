@@ -1,81 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Moog Inc",
-        "id": "f64afbd4-decb-48c2-843c-156da8aeee65",
-        "title": "Intern \u2013 Artificial Intelligence",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1754437877,
-        "date_posted": 1754437877,
-        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Artificial-Intelligence_R-25-13375",
-        "locations": [
-            "Boston, NY",
-            "Buffalo, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Moog-Inc",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Alliaxis",
-        "id": "9186b9ce-15bc-4f7f-8581-953ff5f5e67b",
-        "title": "Manufacturing Excellence Co-op Student",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755045146,
-        "date_posted": 1754440664,
-        "url": "https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/CA---Oakville-3---Office/Manufacturing-Excellence-Co-op-Student_R-52959-1",
-        "locations": [
-            "Oakville, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Alliaxis",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Medtronic",
-        "id": "805ac1da-8344-4d6e-a9c3-a460012b5898",
-        "title": "Engineering Intern Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754443736,
-        "date_posted": 1754443736,
-        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2026---Candidates-Attending-2025-SHPE-National-Convention_R41073-1",
-        "locations": [
-            "Boston, MA",
-            "Orange, CA",
-            "Santa Rosa, CA",
-            "Irvine, CA",
-            "Santa Clara, CA",
-            "Tempe, AZ",
-            "Ann Arbor, MI",
-            "Memphis, TN",
-            "Fort Worth, TX",
-            "North Haven, CT",
-            "Lafayette, CO",
-            "Minneapolis, MN",
-            "Newton, MA",
-            "Jacksonville, FL",
-            "Boulder, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Medtronic",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "BNY",
         "id": "12e63b57-6972-4f3f-99e0-533473d5a6a8",
@@ -156885,7 +156810,7 @@
         "company_name": "Subaru",
         "id": "25d89059-4fc0-4e60-ba9b-f0b4f61c1c11",
         "title": "Intern \u2013 Connected Vehicle",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -161402,7 +161327,7 @@
         "company_name": "Vizient ",
         "id": "de9d924e-1c67-45bf-9980-6fd0cf7a79a5",
         "title": "Summer Intern - Delivery Operations and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -226232,7 +226157,7 @@
         "company_name": "Nokia",
         "id": "7b118f9d-f5a3-494f-964a-3ced53aeceb8",
         "title": "Bell Labs Machine Learning and AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -321927,7 +321852,7 @@
         "company_name": "Air Liquide",
         "id": "fae7d517-265e-418f-a031-17eeabca49a0",
         "title": "AI and Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -334043,7 +333968,7 @@
         "company_name": "Johnson Controls",
         "id": "9e761b4f-5564-43ed-933b-fd87ef822d35",
         "title": "Nextgen Hardware Engineer - Fire Suppression",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -369674,7 +369599,7 @@
         "company_name": "Ivalua",
         "id": "4ccd7e17-69c7-40b4-8b88-689fb5c5537f",
         "title": "Customer Application Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -373123,7 +373048,7 @@
         "company_name": "BeOne",
         "id": "72116a5b-1c35-44b3-998c-043a43492e22",
         "title": "Summer Internship: AI & People Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -378273,7 +378198,7 @@
         "company_name": "Handshake",
         "id": "1c6e1b27-ec0b-45ef-a51b-48d0682e30d1",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -384098,7 +384023,7 @@
         "company_name": "Cisco",
         "id": "c58a8a91-6421-4ed5-844b-c8eda99fcdb7",
         "title": "AI/ML Modeling Engineer 2 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -399980,7 +399905,7 @@
         "company_name": "Lloyds Bank",
         "id": "a09f6e40-9f02-4eaa-93a1-125763abe34c",
         "title": "Digital Product Manager Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -429256,7 +429181,7 @@
         "company_name": "Hearst",
         "id": "f42af8b5-5a53-47e1-aa9b-eb82942548d2",
         "title": "Intern Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439654,7 +439579,7 @@
         "company_name": "Penumbra Inc",
         "id": "bc9f9e33-9d0d-49c9-9af3-bcd92d706d8d",
         "title": "Vascular Product Marketing Intern - Temporary role",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -441579,7 +441504,7 @@
         "company_name": "SonoThera",
         "id": "73449e5e-97ad-4481-8313-ecb472548b5c",
         "title": "Nucleic Acid Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443045,7 +442970,7 @@
         "company_name": "Leidos",
         "id": "8f57dc5c-4b8f-4053-a70d-735ad8ebe0a2",
         "title": "Data Integration Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -444030,7 +443955,7 @@
         "company_name": "Red Bull Advanced Technologies",
         "id": "43e6575b-da65-4836-a587-44e3b54bb26b",
         "title": "Level 3 Metrology Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -447186,7 +447111,7 @@
         "company_name": "Fortinet",
         "id": "f3ee1a1d-1a37-4ba5-975e-626ae038e53b",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -449341,7 +449266,7 @@
         "company_name": "Reply",
         "id": "3953acc1-ae65-4b4f-a26b-e627fdcb91d2",
         "title": "Industry Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -451189,7 +451114,7 @@
         "company_name": "SpecterOps",
         "id": "c094fdb1-4559-4900-8211-e02b66a4c543",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -451456,7 +451381,7 @@
         "company_name": "AAA Club Alliance",
         "id": "87dc69e3-66dc-4f70-85a9-05564763f5ea",
         "title": "Insurance Classic Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -452006,7 +451931,7 @@
         "company_name": "Trane Technologies",
         "id": "9f3bf395-82b3-4aca-aa85-81dcb403de68",
         "title": "Analytics & Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453309,7 +453234,7 @@
         "company_name": "General Motors",
         "id": "8ed97ced-31a2-4cc5-9180-1a33c8cf4e7e",
         "title": "Software Developer \u2013 Co-Op - Advanced AI & Simulation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453324,6 +453249,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tencent",
+        "id": "bc612c22-c8e7-4600-8997-9c17274a0566",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775179518,
+        "date_posted": 1775178476,
+        "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Analyst-Intern_R107236",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
