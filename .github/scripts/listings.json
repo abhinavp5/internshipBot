@@ -3,26 +3,6 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "TikTok",
-        "id": "e4a1dec1-6384-4c57-bbae-d21f3902bfed",
-        "title": "Software Engineer Intern - Recommendation Infrastructure",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754577313,
-        "date_posted": 1754577313,
-        "url": "https://lifeattiktok.com/search/7533035030336538887",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
         "id": "d1fc867c-fcf9-4e18-9a5e-951ac63739e7",
         "title": "Software Development Engineer in Test Intern - Tiktok-Privacy and Security-Business Risk Integrated Control - 2026 Summer - BS/MS",
         "active": false,
@@ -33037,7 +33017,7 @@
         "company_name": "NVIDIA",
         "id": "80d4362c-c9ea-4e6c-9f9b-109740bd3291",
         "title": "Hardware Verification",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -157601,7 +157581,7 @@
         "company_name": "BorgWarner",
         "id": "c2926a50-b1e7-4657-8142-4825e17f90ac",
         "title": "eHardware Engineer Intern - Electrical Engineering - Power Electronics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -436571,7 +436551,7 @@
         "company_name": "Hitachi",
         "id": "70be837e-b0ee-4fbf-9648-fd8ccff54247",
         "title": "Site Deployment Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2026",
@@ -438898,7 +438878,7 @@
         "company_name": "Zayo",
         "id": "6ba93370-51ff-47ec-9b3b-d20bf83be859",
         "title": "Metro Dark Fiber Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -447297,7 +447277,7 @@
         "company_name": "Primerica",
         "id": "f25b87a3-62a0-4afa-8f6f-1948dfbdf34b",
         "title": "Architecture Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -451427,7 +451407,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Robert Bosch Venture Capital",
-        "id": "9e11eafe-8841-4101-83e0-3108dca46692",
+        "id": "6eafb4a5-073a-4068-833b-4c7c80a6721b",
         "title": "Graduate Specialist Program - Design Engineering",
         "active": true,
         "terms": [
@@ -453123,6 +453103,53 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorola",
+        "id": "905c17f5-b0a8-40ec-bcd1-c70ae19f5560",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775312461,
+        "date_posted": 1775311576,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-Engineering-Intern---Summer-2026_R63617",
+        "locations": [
+            "Allen, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "LivaNova",
+        "id": "e2d6d929-2607-404b-9236-5d8d27a6c02e",
+        "title": "Product Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1775296802,
+        "date_posted": 1775295352,
+        "url": "https://livanova.wd5.myworkdayjobs.com/search/job/Houston-Texas-United-States/Product-Development-Intern_JR-14216",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/LivaNova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
