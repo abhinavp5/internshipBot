@@ -1,46 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "d1fc867c-fcf9-4e18-9a5e-951ac63739e7",
-        "title": "Software Development Engineer in Test Intern - Tiktok-Privacy and Security-Business Risk Integrated Control - 2026 Summer - BS/MS",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754579094,
-        "date_posted": 1754579094,
-        "url": "https://lifeattiktok.com/search/7533137928836778247",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "52df9eb2-8317-4575-8acb-3a5483ca3148",
-        "title": "Machine Learning Engineer Intern - Monetization Technology - Ads Creative - BS/MS",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754580201,
-        "date_posted": 1754580201,
-        "url": "https://lifeattiktok.com/search/7532464949135313159",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "03a0765c-185c-440c-9ffe-b0f967866d34",
@@ -72,26 +32,6 @@
         "date_updated": 1754582759,
         "date_posted": 1754582759,
         "url": "https://lifeattiktok.com/search/7533135081482324231",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "a786835d-c5d4-4a8e-87bb-0dda464edc80",
-        "title": "Backend Software Engineer Intern - Tiktok-Growth-Innovative Growth - 2026 Summer - BS/MS",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754580618,
-        "date_posted": 1754580618,
-        "url": "https://lifeattiktok.com/search/7532750976021973256",
         "locations": [
             "San Jose, CA"
         ],
@@ -11493,30 +11433,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "42e37931-a099-446c-a920-c903b21b7e18",
-        "title": "Data Scientist Intern - E-commerce Governance Algorithms - PhD",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1754580616,
-        "date_posted": 1754580616,
-        "url": "https://lifeattiktok.com/search/7397455406417463603",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
         ]
     },
     {
@@ -162770,7 +162686,7 @@
         "company_name": "Genuine Parts Company",
         "id": "a0817273-da03-4ada-a1a9-df724e119949",
         "title": "Marketing Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -414912,7 +414828,7 @@
         "company_name": "Mercer University",
         "id": "3e2b4643-2499-4dcf-9b55-63147971c70b",
         "title": "Research Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -415257,7 +415173,7 @@
         "company_name": "Pennsylvania State University",
         "id": "3fd26c4a-edba-4a9c-bd38-a70b7316190c",
         "title": "Part Time \u2013 Student - Science - Engineering and Technology Research Assistantship",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -434786,7 +434702,7 @@
         "company_name": "Hitachi",
         "id": "de70e436-4eec-4f37-a74e-708f0c959d2a",
         "title": "Site Deployment Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -440418,7 +440334,7 @@
         "company_name": "PG&E",
         "id": "dd128eb0-69f8-42df-a534-832c43426d70",
         "title": "Non-destructive Examination Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
