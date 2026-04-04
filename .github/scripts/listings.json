@@ -1,96 +1,5 @@
 [
     {
-        "date_updated": 1755783388,
-        "url": "https://jobs.ashbyhq.com/confluent/d9ebd50b-967e-4f35-8ebd-f0ce2705136a",
-        "company_name": "Confluent",
-        "title": "Software Engineering Intern",
-        "locations": [
-            "Austin, TX"
-        ],
-        "terms": [
-            "Spring 2026",
-            "Winter 2026",
-            "Winter 2025",
-            "Fall 2025",
-            "Summer 2025",
-            "Summer 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "bf8470b1-93c2-48a9-aa09-782423815cbb",
-        "date_posted": 1754541165,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "category": "Software Engineering"
-    },
-    {
-        "date_updated": 1754541336,
-        "url": "https://job-boards.greenhouse.io/figureai/jobs/4590429006",
-        "company_name": "Figure",
-        "title": "Firmware Engineer Intern",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "terms": [
-            "Fall 2025"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "Simplify",
-        "id": "08b13424-cf12-4e7b-a1e4-522ce7650ba2",
-        "date_posted": 1754541336,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Hardware Engineering"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sun Life",
-        "id": "c50ebc9c-7897-4b8b-b752-549a304b94f5",
-        "title": "Digital Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754541717,
-        "date_posted": 1754541717,
-        "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Digital-Analytics-Intern--Summer-2026-_JR00114466",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Sun-Life",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "date_updated": 1755864669,
-        "url": "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Buffalo-NY/Intern--Artificial-Intelligence_R-25-13375",
-        "company_name": "Moog",
-        "title": "Artificial Intelligence",
-        "locations": [
-            "Buffalo, NY"
-        ],
-        "terms": [
-            "Fall 2025"
-        ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "9ece024e-719a-4e8c-9953-c15309d1ac94",
-        "date_posted": 1754543314,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "category": "Data Science, AI & Machine Learning"
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Jump Trading",
@@ -13858,77 +13767,6 @@
             "Framingham, MA"
         ],
         "company_url": "https://simplify.jobs/c/Sanofi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Sensata",
-        "id": "427626a1-d94c-4df9-8714-04eebb92d6aa",
-        "title": "Product Marketing Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754544194,
-        "date_posted": 1754544194,
-        "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Attleboro-Massachusetts/Product-Marketing-Intern---Summer-2026_IRC95849",
-        "locations": [
-            "Attleboro, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/sensata-tech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Verkada",
-        "id": "b66e093a-9496-4ee9-bdc4-f0d74d753383",
-        "title": "Technical Support Engineering Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1754704311,
-        "date_posted": 1754543243,
-        "url": "https://job-boards.greenhouse.io/verkada/jobs/4784615007",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Verkada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Labelbox",
-        "id": "e8396bd8-b008-4e88-84bf-351e2abc0ff2",
-        "title": "Applied Research Intern",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1754541563,
-        "date_posted": 1754541563,
-        "url": "https://job-boards.greenhouse.io/labelbox/jobs/4820677007",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Labelbox",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -100666,29 +100504,6 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Databricks",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Squarepoint Capital",
-        "id": "3ec91fbf-4e9b-4ad8-a8e9-0878aa80cad8",
-        "title": "Intern Software Developer - Winter 2026",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1757460763,
-        "date_posted": 1754541962,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6201998",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Squarepoint-Capital",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -308902,7 +308717,7 @@
         "company_name": "ASSA ABLOY",
         "id": "3924f93e-81f6-4cf4-b4c9-f160bdb0181b",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -453093,7 +452908,7 @@
         "company_name": "The Walt Disney Company",
         "id": "8787ceff-74b8-4602-95bb-51cd259b9b76",
         "title": "Ad Sales Advanced Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -454061,7 +453876,7 @@
         "company_name": "Alcon",
         "id": "75131389-b6bd-42fc-b1aa-197685944de1",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
