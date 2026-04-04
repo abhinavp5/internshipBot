@@ -1,46 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "03a0765c-185c-440c-9ffe-b0f967866d34",
-        "title": "Data Scientist Intern - Tiktok-Search",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754581395,
-        "date_posted": 1754581395,
-        "url": "https://lifeattiktok.com/search/7533404377287280903",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "68dcbaba-eb3e-4777-a533-89191abfbb44",
-        "title": "Software Development Engineer in Test Intern - Tiktok-Growth",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754582759,
-        "date_posted": 1754582759,
-        "url": "https://lifeattiktok.com/search/7533135081482324231",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "TikTok",
         "id": "0a5fd6e7-ade3-4274-a5f9-6aa271173b89",
@@ -354,26 +314,6 @@
         "date_updated": 1754587730,
         "date_posted": 1754587730,
         "url": "https://lifeattiktok.com/search/7473342040157194514",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "193fc4e6-659b-47ef-a4e3-7c2df938dc1c",
-        "title": "Software Engineer Intern - Data Arch - Shorttext Rec - BS/MS",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754583146,
-        "date_posted": 1754583146,
-        "url": "https://lifeattiktok.com/search/7535250563514059016",
         "locations": [
             "San Jose, CA"
         ],
@@ -11596,30 +11536,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "TikTok",
-        "id": "1bcd3465-b546-42a8-9813-1f4dcf98bde9",
-        "title": "Product Manager Intern - Tiktok-Pgc - BS/MS",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1754581077,
-        "date_posted": 1754581077,
-        "url": "https://lifeattiktok.com/search/7472458529434618130",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -125642,7 +125558,7 @@
         "company_name": "Micron Technology",
         "id": "f0c29fd0-1ea9-4f12-add1-a79917d7db9b",
         "title": "Product Test Development Engineer Intern - Test Solutions Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -285281,7 +285197,7 @@
         "company_name": "PennState University",
         "id": "93e31f52-b295-4716-b995-5a264d81eb8c",
         "title": "Research Associate",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -301507,7 +301423,7 @@
         "company_name": "PennState University",
         "id": "a0ac07b2-42d3-4e54-9325-aaa9caf4438a",
         "title": "Undergraduate Cartographer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -320647,7 +320563,7 @@
         "company_name": "KBR",
         "id": "2ad92c9f-2e27-4013-8d04-9148a09c7b29",
         "title": "National Security Solutions Technical Intern - Nss",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -354549,7 +354465,7 @@
         "company_name": "ABB",
         "id": "949bf08f-4bbb-49cd-a9c1-48c57235243c",
         "title": "AI Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -360831,7 +360747,7 @@
         "company_name": "Harris Computer",
         "id": "48f24e12-da76-4efa-8a76-7fa53e9c2cb0",
         "title": "Product Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -371418,7 +371334,7 @@
         "company_name": "Robert Half",
         "id": "36d71d1b-f9ad-47c9-8a47-051ed55117bd",
         "title": "Software Engineer Marketing Web Applications Virtual Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -394963,7 +394879,7 @@
         "company_name": "Samsung",
         "id": "6fce6f39-cf66-4002-97e7-6fddf1ea56f1",
         "title": "Deep Learning Innovation Modeling Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -399233,7 +399149,7 @@
         "company_name": "Universal Music Group Careers",
         "id": "b3f7be74-2470-40bd-899b-6ad4739d78fc",
         "title": "Universal Music Group Creative & Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -399648,7 +399564,7 @@
         "company_name": "Cboe",
         "id": "313555a4-caa7-4fcf-bbc2-3080e16fc088",
         "title": "Intern \u2013 Dpe",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -400942,7 +400858,7 @@
         "company_name": "Amentum",
         "id": "b01e6f6a-e3d7-4cb8-b46e-e019428878fb",
         "title": "Software Programmer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -403181,7 +403097,7 @@
         "company_name": "Circle",
         "id": "3f2ee60b-2491-47df-84e6-76a49a82c1c8",
         "title": "Intern \u2013 Product Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -406168,7 +406084,7 @@
         "company_name": "Assurant",
         "id": "1adb3c50-af75-4061-bec3-5d4885f40b24",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -409211,7 +409127,7 @@
         "company_name": "Thales",
         "id": "f5bb15c2-a5c9-4488-96a3-27b94b792423",
         "title": "Co-op Software Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -409305,7 +409221,7 @@
         "company_name": "Netflix",
         "id": "5a49546c-a59a-411c-8310-ac0a51676d7e",
         "title": "Video Algorithms Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -410938,7 +410854,7 @@
         "company_name": "Leidos",
         "id": "9455d0d5-4ce7-4b79-8000-d09d06943854",
         "title": "Computer Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -418013,7 +417929,7 @@
         "company_name": "State Street",
         "id": "b6cd5bdd-172e-4abc-be0c-306e588dcc8a",
         "title": "Alpha Inkind Product Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -418384,7 +418300,7 @@
         "company_name": "Micron Technology",
         "id": "b9cfdf6a-6e65-4ead-a9f7-faddbafd9e7d",
         "title": "Intern \u2013 GQ Reliability Methods",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -418828,7 +418744,7 @@
         "company_name": "Synchrony Financial",
         "id": "3eadb789-e235-4431-bdee-27b1798d3bd8",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -418988,7 +418904,7 @@
         "company_name": "Synchrony Financial",
         "id": "c117df2d-7240-4ae6-823b-2d8a7537bde6",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -423189,7 +423105,7 @@
         "company_name": "Micron Technology",
         "id": "8a407090-101b-47b2-9d4c-cd73f47d592c",
         "title": "Intern Automotive Product Global Quality",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -431535,7 +431451,7 @@
         "company_name": "Group 1001",
         "id": "1e6d3e36-8681-4782-ab12-4606266febcc",
         "title": "Reinsurance Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -431606,7 +431522,7 @@
         "company_name": "Johnson & Johnson",
         "id": "792af229-ec6f-4e81-8fed-4d7f746ede7c",
         "title": "Performance Evaluation R&D",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -436937,7 +436853,7 @@
         "company_name": "DXC Technology",
         "id": "e83b1c18-664b-43a5-b2a6-45ae369be556",
         "title": "DXC Degree Academic Programme - Data/AI",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -437002,7 +436918,7 @@
         "company_name": "Pennsylvania State University",
         "id": "72636fd7-15a0-474b-8146-e83de77d2b08",
         "title": "OriginLabs Technician and Lab Monitor",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -438148,7 +438064,7 @@
         "company_name": "Pennsylvania State University",
         "id": "f183876e-be48-443e-9adf-15012b5acef1",
         "title": "Research and Development Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -444173,7 +444089,7 @@
         "company_name": "Leonardo",
         "id": "551ecd08-4ab5-4e8f-8f4a-c1ab0e92851f",
         "title": "Manufacturing Technician Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -446560,7 +446476,7 @@
         "company_name": "Prysmian Cables & Systems",
         "id": "837d0894-41e4-4a17-8c09-02226b94a980",
         "title": "Placement Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -446897,7 +446813,7 @@
         "company_name": "MiQ",
         "id": "383495db-de3d-41db-9608-c48d58ff211a",
         "title": "Trading Fellow",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -446942,7 +446858,7 @@
         "company_name": "MiQ",
         "id": "1811d5ab-d642-4e1f-9080-83b787834ee1",
         "title": "Trading Fellow - Trading Department",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -448558,7 +448474,7 @@
         "company_name": "MiQ",
         "id": "4b3adfd6-d66c-4e08-bcd9-a85d64b76b2c",
         "title": "Trading Fellow",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -448652,7 +448568,7 @@
         "company_name": "MiQ",
         "id": "5eb64506-0403-4f6f-86a4-36dede49f4ba",
         "title": "Product Fellow",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -449292,7 +449208,7 @@
         "company_name": "GE Aerospace",
         "id": "607f759e-177a-4433-a809-342a7f6e4380",
         "title": "Manufacturing Technician Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -450090,7 +450006,7 @@
         "company_name": "Cambium Learning Group",
         "id": "dda85c22-0f15-46e8-9178-01a304befc73",
         "title": "Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -450363,7 +450279,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "051a1824-b077-4b20-b0d5-1ef7327150fc",
         "title": "Tax Innovation Product Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -450461,7 +450377,7 @@
         "company_name": "Gentex Corporation",
         "id": "a32e899c-4373-4704-84e2-a5787e163381",
         "title": "Corporate Forecasting Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -451090,7 +451006,7 @@
         "company_name": "EisnerAmper",
         "id": "176e568e-c9cb-452a-be7b-cec303ae13aa",
         "title": "AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -451967,7 +451883,7 @@
         "company_name": "Jabil",
         "id": "248d759d-f4b5-4b5b-b6d3-f708781272ba",
         "title": "Supply Chain Data Analysis Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -453067,5 +452983,146 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA",
+        "id": "fa0a37e6-9b57-4e97-969a-645c75207b01",
+        "title": "System Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775294821,
+        "date_posted": 1775294571,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/System-Engineering-Intern_2532514",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "52df9eb2-8317-4575-8acb-3a5483ca3148",
+        "title": "Machine Learning Engineer Intern - Monetization Technology - Ads Creative",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1761902294,
+        "date_posted": 1761902294,
+        "url": "https://lifeattiktok.com/search/7532464949135313159",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "62b7336b-ede6-4401-9114-3446ab8691df",
+        "title": "NPI Process and Tooling Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775301301,
+        "date_posted": 1775299763,
+        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Corvallis-Oregon-United-States-of-America/NPI-Process-and-Tooling-Engineer_3158575",
+        "locations": [
+            "Corvallis, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Appliances",
+        "id": "a4d76612-8c17-43cd-ae7e-d0bcebd21928",
+        "title": "Engineering Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1775303474,
+        "date_posted": 1775299204,
+        "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Spring-2027_REQ-24836",
+        "locations": [
+            "Calhoun, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Appliances",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Viavi Solutions",
+        "id": "87038396-7c1b-4246-9ad9-8b94a90b878c",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775302741,
+        "date_posted": 1775300473,
+        "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Chandler-AZ-USA/Engineering-Intern_260004229-1",
+        "locations": [
+            "Germantown, MD",
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Viavi-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Caterpillar Inc.",
+        "id": "e4a9cd5c-c3aa-48be-a157-12ddd0b2f0ef",
+        "title": "Instrumentation Lab Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775303571,
+        "date_posted": 1775297685,
+        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Green-Valley-Arizona/TPG-Instrumentation-Lab-Apprentice_R0000360299",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
