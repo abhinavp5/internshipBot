@@ -10880,30 +10880,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "KBR",
-        "id": "08f7fdf4-cd86-45ca-a938-2f5e5867aa8a",
-        "title": "Cybersecurity Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1754608303,
-        "date_posted": 1754608303,
-        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/North-Charleston-South-Carolina/Cybersecurity-Intern_R2110418",
-        "locations": [
-            "North Charleston, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/KBR",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1755638663,
         "url": "https://job-boards.greenhouse.io/figma/jobs/5602159004?gh_jid=5602159004",
         "company_name": "Figma",
@@ -452683,5 +452659,32 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ramp",
+        "id": "673559f4-3da3-4a62-9726-bee7fcf9a3c7",
+        "title": "Software Engineer Intern - Android",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1773391073,
+        "date_posted": 1761872581,
+        "url": "https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b/application",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Ramp",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
     }
 ]
