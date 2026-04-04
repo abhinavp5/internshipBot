@@ -1,70 +1,5 @@
 [
     {
-        "date_updated": 1754527584,
-        "url": "https://jobs.ashbyhq.com/Talos-Trading/0c150c16-ed0e-4f21-81d6-e85f67437f00",
-        "company_name": "Talos Trading",
-        "title": "Quantitative Analyst Intern",
-        "locations": [
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "ad5ce389-551e-4be7-bebd-a09b9b49cad8",
-        "date_posted": 1754527293,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Quantitative Finance"
-    },
-    {
-        "date_updated": 1754527811,
-        "url": "https://jobs.ashbyhq.com/Talos-Trading/f3d358c4-54e2-4cc8-afe2-8474fa13320b",
-        "company_name": "Talos Trading",
-        "title": "Software Engineer Intern, Backend, Dealer",
-        "locations": [
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "293a4f93-8d58-4676-b1cb-e4b7b013b734",
-        "date_posted": 1754527485,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Software Engineering"
-    },
-    {
-        "date_updated": 1754528171,
-        "url": "https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Data-Science-Intern--Year-Round-_R2025-2865",
-        "company_name": "BorgWarner",
-        "title": "Data Science Intern",
-        "locations": [
-            "Auburn Hills, MI"
-        ],
-        "terms": [
-            "Summer 2026",
-            "Summer 2025",
-            "Fall 2025",
-            "Winter 2025",
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "88d1b7c8-562e-40c3-8671-3d8b11ad7cbc",
-        "date_posted": 1754528171,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Data Science, AI & Machine Learning"
-    },
-    {
         "date_updated": 1755783388,
         "url": "https://jobs.ashbyhq.com/confluent/d9ebd50b-967e-4f35-8ebd-f0ce2705136a",
         "company_name": "Confluent",
@@ -135744,7 +135679,7 @@
         "company_name": "General Motors",
         "id": "6c43b7e6-b33c-491e-bcd0-f6a363450901",
         "title": "Co-Op - Software Developer - Virtualization and SIL Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -204718,7 +204653,7 @@
         "company_name": "Zoox",
         "id": "4b3af933-e5d9-4dfd-b141-ddaad9769cb3",
         "title": "Motion Planning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -369314,7 +369249,7 @@
         "company_name": "Ivalua",
         "id": "4ccd7e17-69c7-40b4-8b88-689fb5c5537f",
         "title": "Customer Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -389008,7 +388943,7 @@
         "company_name": "Alamar Biosciences",
         "id": "99db6323-8006-488b-9e17-fbe31b29b6e0",
         "title": "Internship - System Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -414863,7 +414798,7 @@
         "company_name": "Roku",
         "id": "a50d6643-55b3-4cd5-a8dc-1983b0fa73f8",
         "title": "Software Engineer Intern - Streaming Media",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -429687,7 +429622,7 @@
         "company_name": "Impiricus",
         "id": "a51651ef-323e-4a64-afea-c7ab40c14f60",
         "title": "Software Engineer Intern - Full Stack",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -430200,7 +430135,7 @@
         "company_name": "Impiricus",
         "id": "b4ea56db-dcfd-4479-8dde-abdf95b8431d",
         "title": "Intern Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -431464,7 +431399,7 @@
     {
         "date_updated": 1774262037,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -441219,7 +441154,7 @@
         "company_name": "SonoThera",
         "id": "73449e5e-97ad-4481-8313-ecb472548b5c",
         "title": "Nucleic Acid Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450055,7 +449990,7 @@
         "company_name": "Nokia",
         "id": "7334f23c-fedb-41d2-b61c-e4fe48046df7",
         "title": "Lab Assistant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
