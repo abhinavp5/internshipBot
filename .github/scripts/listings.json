@@ -1,128 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "112df575-454c-4b9a-a2fb-361285005df7",
-        "title": "Software Engineer Intern - Applied Machine Learning-Enterprise - BS/MS",
-        "active": true,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1754586916,
-        "date_posted": 1754586916,
-        "url": "https://jobs.bytedance.com/en/position/7534883498658629906/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "ee35cb24-d8bf-41d7-881e-48ebd011cddc",
-        "title": "Frontend Engineer Intern - Tiktok-Pgc - BS/MS",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754587122,
-        "date_posted": 1754587122,
-        "url": "https://lifeattiktok.com/search/7533095458232584466",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "a98716d0-1a11-46aa-8405-a3bd382945db",
-        "title": "Data Scientist Intern - E-commerce Governance Algorithms - BS/MS",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1754587123,
-        "date_posted": 1754587123,
-        "url": "https://lifeattiktok.com/search/7397455103747836210",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "f97d5112-4d44-4d70-99fc-ae9bca3a3f3d",
-        "title": "Frontend Engineer Intern - Tiktok-Search-Client",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754587120,
-        "date_posted": 1754587120,
-        "url": "https://lifeattiktok.com/search/7533783305126365448",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "c3bf7441-29b9-4a6d-a6bf-4282eb67e697",
-        "title": "Data Engineer Intern - E-commerce",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754587105,
-        "date_posted": 1754587105,
-        "url": "https://lifeattiktok.com/search/7534818364393654535",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "1d911c19-b885-4882-8d83-25a72a50e653",
-        "title": "Machine Learning Engineer Intern - Tiktok-Engine and Tools-3D graphics - 2026 Start - PhD",
-        "active": true,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1754587128,
-        "date_posted": 1754587128,
-        "url": "https://lifeattiktok.com/search/7532735339883710728",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "TikTok",
         "id": "5cbd37d5-9572-4786-9044-4a223471831e",
@@ -136,26 +14,6 @@
         "url": "https://lifeattiktok.com/search/7494134428059814152",
         "locations": [
             "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "85c7ef68-e176-469b-920b-6d6e0dfda0e3",
-        "title": "Software Engineer Intern - Trust and Safety-Engineer-AI Safety - 2026 Summer - BS/MS",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754587125,
-        "date_posted": 1754587125,
-        "url": "https://lifeattiktok.com/search/7527618943449909522",
-        "locations": [
-            "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
         "is_visible": true,
@@ -234,26 +92,6 @@
         "date_updated": 1754590227,
         "date_posted": 1754590227,
         "url": "https://lifeattiktok.com/search/7532748736225904903",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "238bfcec-42a1-494c-902c-67cf488d9005",
-        "title": "Software Engineer Intern - Ads Infra",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1754587730,
-        "date_posted": 1754587730,
-        "url": "https://lifeattiktok.com/search/7473342040157194514",
         "locations": [
             "San Jose, CA"
         ],
@@ -11407,52 +11245,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "fc8938a2-d02c-4389-8545-89cb6d6ca294",
-        "title": "Machine Learning Engineer Intern - Search E-commerce",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1754587130,
-        "date_posted": 1754587130,
-        "url": "https://lifeattiktok.com/search/7478106048383387911",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "TikTok",
-        "id": "5cf82c4f-5a66-4561-b619-c5dd19499153",
-        "title": "Product Manager Intern - Tiktok-Product-Content Ecosystem - MBA",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1754587125,
-        "date_posted": 1754587125,
-        "url": "https://lifeattiktok.com/search/7479131428598270216",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "MBA"
         ]
     },
     {
@@ -26328,7 +26120,7 @@
         "company_name": "Thomson Reuters",
         "id": "786f8fa0-7272-4fb8-bfdb-3ef84ae35916",
         "title": "Applied Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -93159,7 +92951,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "bbe5b5aa-3fd1-464c-a4d2-d4280818c0f9",
         "title": "Tax LLM Associate - Industry Tax Practice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -342893,7 +342685,7 @@
         "company_name": "KBR",
         "id": "93eb8bdd-1b74-4345-9aa8-6b080bf41c61",
         "title": "National Security Solutions \u2013 Internship \u2013 AI/ML Intern - Nss",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -357733,7 +357525,7 @@
         "company_name": "KBR",
         "id": "17eec869-95ad-44ee-909c-3cba8515d24c",
         "title": "National Security Solutions Generative AI Intern - Nss",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -361041,7 +360833,7 @@
         "company_name": "Saputo",
         "id": "7d064906-9334-4522-a2ea-2847db03120e",
         "title": "Intern \u2013 IT Enterprise Application - Manufacturing",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -399209,7 +399001,7 @@
         "company_name": "Proofpoint",
         "id": "a6bf94ab-46b4-42ac-b07d-71a02b2e7d3e",
         "title": "Backend Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -411141,7 +410933,7 @@
         "company_name": "ARRAY Technologies",
         "id": "c0a99d97-e051-4402-8b54-1f0d6a98c204",
         "title": "Product Management Intern - Product Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -416150,7 +415942,7 @@
         "company_name": "Sprinklr",
         "id": "8af1b618-93c9-4f63-a1ae-56bf8efbc475",
         "title": "Product Operations Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -425510,7 +425302,7 @@
         "company_name": "Lumentum",
         "id": "1741895f-568a-40c4-8755-f9af222a6b7b",
         "title": "Data Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -431275,7 +431067,7 @@
         "company_name": "CACI",
         "id": "d2bf58e9-7388-48cf-9a5a-a7851ddbeba6",
         "title": "AI/ML Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -432861,7 +432653,7 @@
         "company_name": "Boston Dynamics",
         "id": "d0e42e49-dc6f-435f-91e8-92baed78a547",
         "title": "Software Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -433074,7 +432866,7 @@
         "company_name": "Applied Materials",
         "id": "a3c5aed7-4000-47f3-b2fe-cf11f354915f",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -433228,7 +433020,7 @@
         "company_name": "FOX",
         "id": "c43d7a41-3691-4536-ac03-0645408cef8d",
         "title": "Software Engineer - FOX Forward Deployed",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -433295,7 +433087,7 @@
         "company_name": "FOX",
         "id": "451bdc5d-773f-496c-87ed-61afdcb06de6",
         "title": "Machine Learning Engineer - FOX Forward Deployed",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -434446,7 +434238,7 @@
         "company_name": "DXC Technology",
         "id": "4475bfac-4218-4b36-9bec-5ebb2c6694a0",
         "title": "Degree Apprenticeship in Data & AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -434467,7 +434259,7 @@
         "company_name": "DXC Technology",
         "id": "0e8484cc-b698-43a8-9651-2b23b065b37b",
         "title": "DXC Academic Programme \u2013 Modern Apprenticeship in Data & AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -436791,7 +436583,7 @@
         "company_name": "DXC Technology",
         "id": "b28b15bb-ff3d-429e-8a79-c4fab3bcca3d",
         "title": "DXC Degree Apprentice Programme - Data/ AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -437310,7 +437102,7 @@
         "company_name": "Amentum",
         "id": "0b809852-efeb-44c7-accd-cd14a68b9435",
         "title": "Intern Atmospheric Data Quality",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -437333,7 +437125,7 @@
         "company_name": "KION Group",
         "id": "a287f369-f000-40d6-95b3-410ac3419650",
         "title": "AMR Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -442260,7 +442052,7 @@
         "company_name": "Moog ",
         "id": "1c3a0963-973f-478f-a615-1014558068a1",
         "title": "Intern - Test Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -448623,7 +448415,7 @@
         "company_name": "RTX",
         "id": "df437fd6-a79e-4a55-b3f4-3c4a4c1b61a3",
         "title": "Industrial Placement Intern - Continuous Improvement",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -449947,7 +449739,7 @@
         "company_name": "Pennsylvania State University",
         "id": "abe842d3-09d3-408c-a257-c5f79f1866bf",
         "title": "Liberatory Tech Undergraduate Research Assistant",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -450688,7 +450480,7 @@
         "company_name": "Philips",
         "id": "d658b127-b563-4ec2-913c-d3f00465615b",
         "title": "Intern/Co-op Software Ultrasound R&D Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -453065,5 +452857,53 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lowe's ",
+        "id": "3d78503d-c126-4019-84f7-1c588ed78516",
+        "title": "Associate AI Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775302277,
+        "date_posted": 1775299338,
+        "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Associate-AI-Engineer---Launchpad_JR-02449005",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Lowes",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Bootcamp",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hitachi",
+        "id": "da381839-45f1-492c-83ef-635ca1d1a9c9",
+        "title": "Site Deployment Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775303236,
+        "date_posted": 1775297538,
+        "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Montreal/Site-Deployment--Intern-4-Months-_R1012175",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hitachi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
