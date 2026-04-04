@@ -67769,7 +67769,7 @@
 <td>Data Scientist Intern - Tiktok-Product-Data Science - 2026 Summer - PhD 🎓</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 </tbody>
 </table>
