@@ -1,66 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "0a5fd6e7-ade3-4274-a5f9-6aa271173b89",
-        "title": "Software Engineer Intern - Tiktok Intelligent Creation Effects - 2026 Summer - BS/MS",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754584659,
-        "date_posted": 1754584659,
-        "url": "https://lifeattiktok.com/search/7532759383232858376",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "1ddbd636-21b3-49e9-8dbf-f6ae0898ddad",
-        "title": "Software Engineer Intern - Applied Machine Learning-Enterprise",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754584624,
-        "date_posted": 1754584624,
-        "url": "https://jobs.bytedance.com/en/position/7533042683796097298/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "785b994d-44ef-428e-9446-ee6b6de6ae43",
-        "title": "Backend Software Engineer Intern - Tiktok-Social-User and Relation - 2026 Summer - BS/MS",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755592664,
-        "date_posted": 1754584665,
-        "url": "https://lifeattiktok.com/search/7533130855972702472",
-        "locations": [
-            "Los Angeles, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "112df575-454c-4b9a-a2fb-361285005df7",
@@ -11513,29 +11453,6 @@
         "sponsorship": "Other",
         "degrees": [
             "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "1a3ff0e5-3781-4cab-9116-769df11e2a79",
-        "title": "Data Scientist Intern - Tiktok-Product-Data Science - 2026 Summer - PhD",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754584404,
-        "date_posted": 1754584404,
-        "url": "https://lifeattiktok.com/search/7533020328604649746",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
         ]
     },
     {
@@ -204113,7 +204030,7 @@
         "company_name": "Apex Fintech Solutions",
         "id": "94e64928-b15c-4dca-95a0-37ad8f59c0f0",
         "title": "Software Engineering Intern - Trading",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -207919,7 +207836,7 @@
         "company_name": "Apex Fintech Solutions",
         "id": "5a122b4e-b3dc-427c-a4b0-6c312c10bf5e",
         "title": "Software Engineering Intern - Securities Lending",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -226088,7 +226005,7 @@
         "company_name": "Nidec",
         "id": "1f44f8c5-693c-4bb5-bb74-4ef477ca176e",
         "title": "Test Lab Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -283135,7 +283052,7 @@
         "company_name": "PennState University",
         "id": "0229b183-a876-44d7-8a2f-fbc0e8e32dd2",
         "title": "Research Assistant",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -297740,7 +297657,7 @@
         "company_name": "Marvell",
         "id": "19adb890-3588-42e8-ac86-3d099f703889",
         "title": "Applied Machine Learning Scientist Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -301704,7 +301621,7 @@
         "company_name": "Nasdaq",
         "id": "9087153e-0263-4083-bcaa-8046fa8bd7b0",
         "title": "Data & AI Innovation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -326873,7 +326790,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "f1fc604d-ff25-4883-a36a-ff5da7395175",
         "title": "Wireless Driver Development Intern - \u00c9t\u00e9 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -360271,7 +360188,7 @@
         "company_name": "Harris Computer",
         "id": "c866a75b-eb60-4020-b474-9a072fdcfcbc",
         "title": "Business Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -385858,7 +385775,7 @@
         "company_name": "Robert Half",
         "id": "f29b8c1d-b2ea-4bae-85ad-691372143c84",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -386211,7 +386128,7 @@
         "company_name": "Fidelity Investments",
         "id": "fe7bb8a8-5407-4d88-abca-757fab6a92db",
         "title": "Co-Op Data Scientist",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -387613,7 +387530,7 @@
         "company_name": "New York Post Holdings",
         "id": "6a6f7212-29b1-4c46-a3a8-e6b40bdea784",
         "title": "Data Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -388309,7 +388226,7 @@
         "company_name": "New York Post Holdings",
         "id": "1b01667f-e5c3-4425-aa73-4c5d306b179f",
         "title": "Newsroom Products & Innovation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -399707,7 +399624,7 @@
         "company_name": "NVIDIA",
         "id": "181efc87-4416-4f47-9372-960dc7a5280d",
         "title": "AI for Chip Design Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -416928,7 +416845,7 @@
         "company_name": "Starz",
         "id": "f1f4963b-bdbe-4d7d-8189-3ea0014cd978",
         "title": "Starz Intern - Content Insights",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -422481,7 +422398,7 @@
         "company_name": "BiblioCommons",
         "id": "88723f26-6330-404d-81c3-2a991d39e31e",
         "title": "Junior Full Stack Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -424870,7 +424787,7 @@
         "company_name": "Ensemble Health Partners",
         "id": "53d6f59a-95c8-4057-acc8-ce4bbb0a64a1",
         "title": "Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -426322,7 +426239,7 @@
         "company_name": "Nasdaq",
         "id": "0a550658-a8b9-4db5-bd0d-57e79e759816",
         "title": "Product Owner Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -427624,7 +427541,7 @@
         "company_name": "Magna",
         "id": "bdf929b7-851a-4c5a-823d-fea93630de89",
         "title": "Intern \u2013 Engineering ADAS Features",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -432923,7 +432840,7 @@
         "company_name": "DXC Technology",
         "id": "29e9077a-1f8c-4784-b396-ecf106c85644",
         "title": "DXC Academic Programme Degree Apprenticeship in Data & AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -435836,7 +435753,7 @@
         "company_name": "S&P Global ",
         "id": "1ac72a84-80cb-46ce-9f18-2bae6cbce1ca",
         "title": "Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -436722,7 +436639,7 @@
         "company_name": "STRS Ohio",
         "id": "2c501bc7-6de6-4b43-9cf9-5bc81411a079",
         "title": "Solutions Analyst - ITS Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -438967,7 +438884,7 @@
         "company_name": "Elekta",
         "id": "459bb927-ae37-4264-a562-2ea17d90c0ce",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -441253,7 +441170,7 @@
         "company_name": "Argonne National Laboratory",
         "id": "1a027c82-7ca8-41b7-b35d-28f459d356a6",
         "title": "Database Operations & Reporting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -444917,7 +444834,7 @@
         "company_name": "Leidos",
         "id": "f9035064-fb5f-4d04-b70f-866765fbb4eb",
         "title": "Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -448051,7 +447968,7 @@
         "company_name": "MiQ",
         "id": "ccd9baf0-5732-4fa9-a5a0-6cda39b67b13",
         "title": "Trading Fellow",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -449185,7 +449102,7 @@
         "company_name": "The Hartford ",
         "id": "702fe8a6-5012-4884-8b53-d9c383b53361",
         "title": "Intern Data - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -450096,7 +450013,7 @@
         "company_name": "Cambium Learning Group",
         "id": "8b820e3a-e99e-45ae-bb4a-b00ac84d105d",
         "title": "Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -453124,5 +453041,29 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "193fc4e6-659b-47ef-a4e3-7c2df938dc1c",
+        "title": "Software Engineer Intern - Data Arch - Shorttext Rec",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1761911429,
+        "date_posted": 1761911429,
+        "url": "https://lifeattiktok.com/search/7535250563514059016",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
