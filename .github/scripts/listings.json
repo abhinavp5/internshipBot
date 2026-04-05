@@ -8955,52 +8955,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "95e3c9c0-9eb4-4f92-8241-651ae8f2f18b",
-        "title": "Student Researcher Intern - AI-Native Databases - PhD",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754630333,
-        "date_posted": 1754630333,
-        "url": "https://jobs.bytedance.com/en/position/7535880188522498322/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "95bff5d6-2d2e-4405-81bd-8eb074204651",
-        "title": "Machine Learning Engineer Intern - E-commerce-Recommendation",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1754630260,
-        "date_posted": 1754630260,
-        "url": "https://jobs.bytedance.com/en/position/7535159557922048274/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
         "date_updated": 1755638663,
         "url": "https://job-boards.greenhouse.io/figma/jobs/5602159004?gh_jid=5602159004",
         "company_name": "Figma",
@@ -432166,7 +432120,7 @@
         "company_name": "Bank of Montreal",
         "id": "c4175aa0-8acf-4042-97f2-91a111b641fd",
         "title": "Technology Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -435641,7 +435595,7 @@
         "company_name": "AeroVironment",
         "id": "bc20527a-06d5-40f5-bbb9-95a498ad1b6a",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439195,7 +439149,7 @@
         "company_name": "Metrolinx",
         "id": "aa06dcbb-a3b3-4e46-9bed-3258cad77034",
         "title": "Intern/Co-op Student - PRESTO Asset and Inventory Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
