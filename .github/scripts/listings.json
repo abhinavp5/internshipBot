@@ -1,172 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Dow Chemical Company",
-        "id": "446a8c72-ac30-4831-b0f1-8854e2c06eb8",
-        "title": "Data Engineer Internship Spring 2026",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1754610891,
-        "date_posted": 1754610891,
-        "url": "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Kankakee-IL-USA/Data-Engineer-Internship-Spring-2026-at-the-Dow-Delivery-Center-at-UIUC--Champaign--IL-_R2061990",
-        "locations": [
-            "Urbana, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Dow-Chemical-Company",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cognitiv",
-        "id": "feaf73fb-5980-43ec-bcea-9143c578ca0d",
-        "title": "Machine Learning Engineer Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1754612099,
-        "date_posted": 1754612099,
-        "url": "https://jobs.lever.co/cognitiv/e5efa188-f16b-4715-b90c-77049ba2603d/apply",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cognitiv",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "e3119991-3859-4734-936c-1cc1c8296582",
-        "title": "Software Developer Co-op",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1754611840,
-        "date_posted": 1754611840,
-        "url": "https://jobs.intuit.com/job/toronto/software-developer-co-op-fall-2025/27595/82936409280",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "09f7e50b-2449-4e7e-8eb4-6a125a224464",
-        "title": "Mobile Software Developer Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755595133,
-        "date_posted": 1754611837,
-        "url": "https://jobs.intuit.com/job/toronto/mobile-software-developer-co-op-4-months/27595/82954044144",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ConocoPhillips",
-        "id": "91933386-a7d0-4948-8805-be44737f7c17",
-        "title": "Intern \u2013 Land GIS Analyst",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754614784,
-        "date_posted": 1754614784,
-        "url": "https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Land-GIS-Analyst-2026_REQ-005138",
-        "locations": [
-            "Midland, TX",
-            "Houston, TX",
-            "Bartlesville, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/ConocoPhillips",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ConocoPhillips",
-        "id": "364cc17f-e247-44bc-a2be-c9f6fb91e0a7",
-        "title": "Intern \u2013 Land Administration GIS",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754614786,
-        "date_posted": 1754614786,
-        "url": "https://conocophillips.wd1.myworkdayjobs.com/External/job/Bartlesville-OK/Intern--Land-Administration-GIS-2026_REQ-005151",
-        "locations": [
-            "Bartlesville, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/ConocoPhillips",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Intellistack",
-        "id": "56fff996-d51d-4446-82cd-3489a318d443",
-        "title": "AI Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755590288,
-        "date_posted": 1754614445,
-        "url": "https://jobs.ashbyhq.com/Intellistack/0b5662ad-85ac-4d15-a291-f66b396d6c68/application",
-        "locations": [
-            "San Francisco, CA",
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Intellistack",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Hudson River Trading",
-        "id": "8267bdf4-b0c6-4073-871b-6799c86aac52",
-        "title": "Algorithm Trader \u2013 Internship - Quantitative Trader",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756119207,
-        "date_posted": 1754618266,
-        "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7063975",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Holman",
         "id": "a30a12b7-787e-4469-a9d5-7dd10d2717c4",
@@ -10753,126 +10587,6 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Hudson River Trading",
-        "id": "0cd300f3-f862-42e3-8a3f-269dff1846e7",
-        "title": "Algorithm Development \u2013 PhD Internship - Quant Research",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756119128,
-        "date_posted": 1754618271,
-        "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7142685",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Breeze Airways",
-        "id": "51086c32-d714-4b60-ac5c-2ee448032dbc",
-        "title": "Information Security Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1754618002,
-        "date_posted": 1754618002,
-        "url": "https://job-boards.greenhouse.io/breezeairways/jobs/6672481003",
-        "locations": [
-            "Cottonwood Heights, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Breeze-Airways",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Figure AI",
-        "id": "5770a1de-e3f8-442a-ac69-1479e2d0ca6e",
-        "title": "IT Operations Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1754617598,
-        "date_posted": 1754617598,
-        "url": "https://job-boards.greenhouse.io/figureai/jobs/4591074006",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/04cbb102-51d9-4ce2-a4d8-38a82f8ea8e5",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "996cda36-fd22-4f10-9eab-57e9f187b6df",
-        "title": "Software Engineer Intern - AI-Native Databases - PhD",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754611982,
-        "date_posted": 1754611982,
-        "url": "https://jobs.bytedance.com/en/position/7535580386719992082/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Dow Chemical Company",
-        "id": "7744dec5-19ce-4d3a-8c36-7aca246a784a",
-        "title": "2025 \u2013 2026 Campus Internship - Digital Innovation - Cross-functional - Ph.D",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1754610948,
-        "date_posted": 1754610948,
-        "url": "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/XMLNAME-2025-2026-Campus-Internship---Digital-Innovation---Cross-functional--PhD-_R2061666",
-        "locations": [
-            "Houston, TX",
-            "Remote in USA",
-            "Phoenixville, PA",
-            "Bay City, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Dow-Chemical-Company",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -196449,34 +196163,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Blue Origin",
-        "id": "b0945aae-3e1e-4a40-b029-65b6ecbe1ef0",
-        "title": "Intern Conversion: Early Career - Systems Engineer I",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1762919880,
-        "date_posted": 1754610263,
-        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Intern-Conversion---Early-Career--Systems-Engineer-I_R54007",
-        "locations": [
-            "Seattle, WA",
-            "LA",
-            "Merritt Island, FL",
-            "Arlington, VA",
-            "Reston, VA",
-            "Denver, CO",
-            "Huntsville, AL",
-            "Van Horn, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Blue-Origin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Draper",
         "id": "400f04cf-689e-4372-884c-5770609cbe3f",
         "title": "Cable Harnessing and Interconnect Intern",
@@ -368504,7 +368190,7 @@
         "company_name": "Hearst",
         "id": "1cee6851-93cf-4f5a-84bc-2f4eb7ea6f5c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -449074,7 +448760,7 @@
         "company_name": "Nutanix",
         "id": "8b29d600-51aa-47cf-b5ab-0d144dcc8665",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -449459,7 +449145,7 @@
         "company_name": "Nutanix",
         "id": "c13093e5-74a8-4e96-9052-711f26c8a837",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -449857,7 +449543,7 @@
         "company_name": "The Walt Disney Company",
         "id": "8787ceff-74b8-4602-95bb-51cd259b9b76",
         "title": "Ad Sales Advanced Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
