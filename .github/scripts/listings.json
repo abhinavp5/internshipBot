@@ -7906,29 +7906,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Wells Fargo",
-        "id": "950ce3e6-b73f-4acd-91e3-2dc724d51766",
-        "title": "Quantitative Analytics Summer Internship Risk Analytics and Decision Science - Masters - Early Careers",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754775494,
-        "date_posted": 1754775494,
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2026-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Science--Masters----Early-Careers_R-481505",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Wells-Fargo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1755638663,
         "url": "https://job-boards.greenhouse.io/figma/jobs/5602159004?gh_jid=5602159004",
         "company_name": "Figma",
@@ -97466,7 +97443,7 @@
         "company_name": "Oshkosh",
         "id": "e2b34e08-9dba-4614-8c34-8bfb4d66917e",
         "title": "Data Engineer Intern - Advanced Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -256852,7 +256829,7 @@
         "company_name": "Astranis",
         "id": "46e72733-f94f-4d17-8176-44ec8d567ca1",
         "title": "CAD Engineer/Librarian Associate - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -288727,7 +288704,7 @@
         "company_name": "Hitachi",
         "id": "e3d2586b-44a3-4396-b64c-c88a86d29e87",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -320945,7 +320922,7 @@
         "company_name": "Rheem",
         "id": "181e1ab7-c5e9-4b1f-99df-377099f36c6b",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -345328,7 +345305,7 @@
         "company_name": "Kaiser Permanente",
         "id": "0f91a405-afc7-497f-97c8-31878cda4b4f",
         "title": "AI Bachelor's Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -359283,7 +359260,7 @@
         "company_name": "IXL Learning",
         "id": "1130353c-c0ce-4455-b19f-49c65ba0b0c9",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -390425,7 +390402,7 @@
         "company_name": "Trumid",
         "id": "96dc8a21-39ce-468e-89bd-9d6361de03ae",
         "title": "AI Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -401581,7 +401558,7 @@
         "company_name": "Orion Steel Group",
         "id": "dd0bd5dd-65a4-4366-bfbf-f95e7686aac1",
         "title": "Inventory Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -414710,7 +414687,7 @@
         "company_name": "Freese and Nichols",
         "id": "9a6f3330-4a2d-4b00-817d-f339a1e4bc50",
         "title": "Intern - GIS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -428377,7 +428354,7 @@
         "company_name": "Moderna",
         "id": "cdcd177d-b4dc-4ee0-afb1-2cc96af4d805",
         "title": "Data Analytics Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -431448,7 +431425,7 @@
         "company_name": "Primetals Technologies",
         "id": "9b0fea06-837c-4e3f-b1ce-3f3f413162bd",
         "title": "Digital Support Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -432663,7 +432640,7 @@
         "company_name": "Wabtec",
         "id": "dfbb7b84-14b2-48c8-8364-fea1561a1fee",
         "title": "Firmware Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -443010,7 +442987,7 @@
         "company_name": "Ryan",
         "id": "1bf7155b-048e-4a38-9d6d-c316bcd4108e",
         "title": "Intern - AI Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443216,7 +443193,7 @@
         "company_name": "Best Egg",
         "id": "5d7cbb04-442c-4821-9a07-7956389c7d1d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -444248,7 +444225,7 @@
         "company_name": "Ryan",
         "id": "b3aa8baa-5a10-4023-a16d-388ddcab7c3b",
         "title": "Intern - AI Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445839,7 +445816,7 @@
         "company_name": "KLA",
         "id": "ff8bda54-f141-48b3-86b4-a123ff020d20",
         "title": "Digital Transformation & AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -446296,7 +446273,7 @@
         "company_name": "SoFi",
         "id": "45352dd1-397a-473e-a292-0079148605aa",
         "title": "Intern Software Engineer - Crypto",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -446408,7 +446385,7 @@
         "company_name": "AtkinsR\u00e9alis",
         "id": "9ca26e15-af64-42a5-910b-628c5fe66591",
         "title": "Intern Data Analyst and Support",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
