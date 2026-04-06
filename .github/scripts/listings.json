@@ -358520,7 +358520,7 @@
         "company_name": "Acuity",
         "id": "638ce949-dc18-4972-a9aa-ffecd30076d0",
         "title": "Summer Internship - Product Management Technology - Finance & Accounting",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -373899,7 +373899,7 @@
         "company_name": "KBR",
         "id": "de4f89fd-5ce6-4881-8f56-58406558115e",
         "title": "National Security Solutions Intern - Nss",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -444011,7 +444011,7 @@
         "company_name": "Brown & Brown Insurance",
         "id": "c491371e-2470-4f57-81d0-87f018f250c4",
         "title": "Technology Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -446507,7 +446507,7 @@
         "company_name": "Cloudflare",
         "id": "52e7a29c-bb91-4fe3-8f65-57227508e5a8",
         "title": "Automation Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -447021,7 +447021,7 @@
         "company_name": "Leidos",
         "id": "cff66d97-15ea-4059-ad7d-2e44518b8595",
         "title": "Data Integration Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -449166,7 +449166,7 @@
         "company_name": "KLA",
         "id": "fa0a37e6-9b57-4e97-969a-645c75207b01",
         "title": "System Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
