@@ -205168,7 +205168,7 @@
         "company_name": "Tenstorrent",
         "id": "a2e9c468-c260-4bcf-be60-6531bf349118",
         "title": "Intellectual Property \u2013 Product Management Intern - Ip",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -250211,7 +250211,7 @@
         "company_name": "Great American Insurance Company",
         "id": "3c413731-de31-457a-983a-02b18a56f901",
         "title": "Data Science Intern - Great American Risk Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -325157,7 +325157,7 @@
         "company_name": "Sharp Electronics",
         "id": "03e119ef-f26f-4b47-b102-4347145c6ff5",
         "title": "Intern Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
