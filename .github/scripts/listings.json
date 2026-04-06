@@ -381566,7 +381566,7 @@
         "company_name": "Artisan Partners",
         "id": "f66f51f7-1001-4c85-bc20-7f4e47a8c581",
         "title": "Software Developer Intern - Business Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -406725,7 +406725,7 @@
         "company_name": "Planet",
         "id": "7f5cec61-7031-41cc-aed7-34039fa7431d",
         "title": "Intern \u2013 Edge Compute",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -430659,7 +430659,7 @@
         "company_name": "Micron Technology",
         "id": "c95d2cdc-76f3-4a67-8951-56ce4572cbb6",
         "title": "Intern \u2013 Smart Manufacturing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450644,5 +450644,32 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "686e276d-49c6-45d3-8197-15cf65299b77",
+        "title": "Field Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775470811,
+        "date_posted": 1775295205,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice--Louisville--KY--Columbus--OH-_R4035200-2",
+        "locations": [
+            "Louisville, KY",
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's",
+            "Certificate"
+        ]
     }
 ]
