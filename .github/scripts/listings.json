@@ -71430,7 +71430,7 @@
         "company_name": "Lennox International",
         "id": "d9f6353f-0308-4922-8282-37ce74b6b4f8",
         "title": "Embedded Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -404329,7 +404329,7 @@
         "company_name": "Ultra",
         "id": "6bc1c8b6-0834-4f96-82c5-b54ba9ce08d8",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
