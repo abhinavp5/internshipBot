@@ -49639,7 +49639,7 @@
         "company_name": "Figma",
         "id": "e6109e46-4542-49dc-bcb8-534ae4e9ae18",
         "title": "Software Engineer Intern - Developer Tools",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -350275,7 +350275,7 @@
         "company_name": "Parspec",
         "id": "c7f59c23-d84d-44b1-bdd0-ed7f523ca97b",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -361769,7 +361769,7 @@
         "company_name": "Kaiser Permanente",
         "id": "e6915106-8e3f-4e5d-bd5d-ccbdaef16738",
         "title": "AI Tools Master%27s Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -384837,7 +384837,7 @@
         "company_name": "Bose",
         "id": "f0030814-36dc-43bb-9abf-b2032829a1e1",
         "title": "Data Science Co-Op - NLP & GenAI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391447,7 +391447,7 @@
         "company_name": "Antora Energy",
         "id": "4e650812-53f5-427f-abdf-132ef773af76",
         "title": "Power Supply Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437915,7 +437915,7 @@
         "company_name": "The Walt Disney Company",
         "id": "6955145c-2e43-4298-ae8d-0bc96b00549e",
         "title": "Decision Science Product Graduate Associate - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -438452,7 +438452,7 @@
         "company_name": "Moog ",
         "id": "1c3a0963-973f-478f-a615-1014558068a1",
         "title": "Intern - Test Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -438752,7 +438752,7 @@
         "company_name": "The Walt Disney Company",
         "id": "aafc39d6-9072-4a6c-a500-fa118d1d79e0",
         "title": "Decision Science Product Graduate Associate - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -450519,7 +450519,7 @@
         "company_name": "Daktronics",
         "id": "01dc3eb8-c766-4b3d-90c3-77fda5a55c03",
         "title": "Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
