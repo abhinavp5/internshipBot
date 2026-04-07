@@ -7173,7 +7173,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Cirrus-Logic?utm_source=GHList&utm_medium=company">Cirrus Logic</a></strong></td>
 <td>Spring Intern - Software Engineer - AI/ML 🎓</td>
 <td>Austin, TX</td>
 <td>Winter 2025</td>
