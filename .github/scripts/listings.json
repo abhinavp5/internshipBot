@@ -210570,7 +210570,7 @@
         "company_name": "Cisco",
         "id": "6a91c760-f98f-4dc4-b54f-6990f529b91d",
         "title": "Software Consulting Engineer 1 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -350226,7 +350226,7 @@
         "company_name": "Oshkosh",
         "id": "a6042f17-b332-4466-a1c9-5191bd0522b8",
         "title": "Testing & Development Rotational Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -379235,7 +379235,7 @@
         "company_name": "Microchip Technology",
         "id": "5ed8e3cf-83d7-49b8-92f5-0f29ba50e40a",
         "title": "Intern \u2013 Administrative - Finance: Data Analysis and Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -421212,7 +421212,7 @@
         "company_name": "Sony Music Entertainment",
         "id": "9540bdea-655a-401d-bc5a-6d94910fb6c4",
         "title": "A&R Academy - Ministry of Sound",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -442378,7 +442378,7 @@
         "company_name": "CME Group",
         "id": "d8421101-5075-44e6-859c-9b2f6112b3d7",
         "title": "Data Services Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445956,7 +445956,7 @@
         "company_name": "KLA",
         "id": "8aa0d4ce-b797-49fc-ae55-84a3464562b5",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -446044,7 +446044,7 @@
         "company_name": "KLA",
         "id": "861b3050-f9b0-487f-a90e-0329f60e2ab0",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450563,7 +450563,7 @@
         "company_name": "Bank of Montreal",
         "id": "2098c76f-827c-4e78-beb4-5746aa90d5c9",
         "title": "Software Engineer - Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -452286,7 +452286,7 @@
         "company_name": "AAA Club Alliance",
         "id": "4b808fb3-d935-4fcf-bf03-a7b7547702d4",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -452452,7 +452452,7 @@
         "company_name": "AAA Club Alliance",
         "id": "040241e3-2e92-46bc-9f2d-c819e18a8747",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -452498,7 +452498,7 @@
         "company_name": "SiFive",
         "id": "8f0a2481-9a0d-4d28-a673-4468d83fb632",
         "title": "Interm Firesim development",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
