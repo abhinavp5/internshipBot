@@ -146014,29 +146014,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Abdiel Capital",
-        "id": "09aa62d2-0f70-4f04-8e77-8ab911ec9a15",
-        "title": "Summer 2026 Investment Analyst",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761271162,
-        "date_posted": 1754830539,
-        "url": "https://job-boards.greenhouse.io/abdielcapital/jobs/6512067003",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Abdiel-Capital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Blue Cross Blue Shield of Michigan",
         "id": "7bed6701-3bc5-495c-be36-a83f0ed9284a",
@@ -300137,7 +300114,7 @@
         "company_name": "Autodesk",
         "id": "3c72bcab-2a9f-4f27-ac99-7c57f60d086b",
         "title": "Intern Full Stack Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -323481,7 +323458,7 @@
         "company_name": "Confluent",
         "id": "2c205577-98ac-44aa-95a6-3ab4bc21d478",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2027",
@@ -362872,7 +362849,7 @@
         "company_name": "Ivalua",
         "id": "4ccd7e17-69c7-40b4-8b88-689fb5c5537f",
         "title": "Customer Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -364526,7 +364503,7 @@
         "company_name": "Roku",
         "id": "a1503017-1892-4478-a53e-8e271ea4bb95",
         "title": "Software Engineer Intern - Full Stack",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -382320,7 +382297,7 @@
         "company_name": "Fidelity Investments",
         "id": "fe7bb8a8-5407-4d88-abca-757fab6a92db",
         "title": "Co-Op Data Scientist",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -409232,7 +409209,7 @@
         "company_name": "GE Healthcare",
         "id": "575196b0-8a54-4f60-b515-c6a6f828818d",
         "title": "AI Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -411515,7 +411492,7 @@
         "company_name": "GE Healthcare",
         "id": "895184aa-5171-43c5-ac84-0ee5622a3645",
         "title": "Surgery Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -426072,7 +426049,7 @@
         "company_name": "Slate Auto",
         "id": "6ccc8117-c144-490e-aa03-162d21d2d88b",
         "title": "Body Systems Intern - Exteriors",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -429242,7 +429219,7 @@
         "company_name": "Westinghouse Electric Company",
         "id": "1f278309-70ae-4a32-9684-00be05e60870",
         "title": "APX Strategy Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -436919,7 +436896,7 @@
         "company_name": "Tencent",
         "id": "af95d6fa-a950-44de-8595-03fd5064f90b",
         "title": "Product Manager Intern - Influencer Marketing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -436940,7 +436917,7 @@
         "company_name": "Tencent",
         "id": "59170534-b94f-4fea-bcf9-fe7345b8e3ba",
         "title": "Data Science Intern - Influencer Marketing AI Application",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -436985,7 +436962,7 @@
         "company_name": "Tencent",
         "id": "a55022d4-282c-481c-8e9f-8133ccf3797a",
         "title": "Data Science Intern - Influencer Marketing AI Application",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437129,7 +437106,7 @@
         "company_name": "Tencent",
         "id": "72bd8a68-5540-439b-b77b-724e6c606226",
         "title": "Product Manager Intern - Influencer Marketing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -440219,7 +440196,7 @@
         "company_name": "Qorvo",
         "id": "6f12a924-ce85-4457-b17f-c0d3a7da455e",
         "title": "Applications Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443218,7 +443195,7 @@
         "company_name": "Primerica",
         "id": "f25b87a3-62a0-4afa-8f6f-1948dfbdf34b",
         "title": "Architecture Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -443448,7 +443425,7 @@
         "company_name": "Tencent",
         "id": "62aeaffe-5de1-4404-9dd4-1a8ac33df25e",
         "title": "Tencent Cloud CPaaS Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445520,7 +445497,7 @@
         "company_name": "Primerica",
         "id": "83d31ca5-416a-4db1-8e9e-618f6b8dde0d",
         "title": "Data Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -446857,7 +446834,7 @@
         "company_name": "Charles River Analytics",
         "id": "bc65be34-3d28-49bd-8446-2ea08205a291",
         "title": "Scientist Intern - Human Computer Interaction",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450820,7 +450797,7 @@
         "company_name": "Ribbon",
         "id": "7e4f3b74-aa0c-4c11-b562-670b69e48e1d",
         "title": "Unix/Linux Systems Engineer \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450955,7 +450932,7 @@
         "company_name": "BP",
         "id": "4091db2a-5784-49d5-8b77-f17fe7c69abd",
         "title": "Intern - Subsurface Technology Petrophysicist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -451469,7 +451446,7 @@
         "company_name": "T1D Exchange",
         "id": "d87f42d0-dba3-4469-aaef-0e9ddf6af6b6",
         "title": "QI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -451516,7 +451493,7 @@
         "company_name": "Fidelity Investments",
         "id": "4dc2b5fa-03ba-44a4-ae7f-1958e3d44407",
         "title": "Co-op \u2013 Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -452665,7 +452642,7 @@
         "company_name": "SiFive",
         "id": "20b07139-5b6f-4f2a-b807-446f62276e8e",
         "title": "Intern Firesim Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -452726,6 +452703,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Strategic Education",
+        "id": "1e5f8c0d-d2fe-4a7e-ada4-34182af11713",
+        "title": "AI Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775557801,
+        "date_posted": 1775294943,
+        "url": "https://strayer.wd1.myworkdayjobs.com/en-US/SEI/job/Minneapolis-MN/UI-Product-Development-Intern_R29539",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/c37aef6c-b4ea-4d9f-a94f-9ecdc9ce90f6",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
