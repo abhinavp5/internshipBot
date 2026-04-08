@@ -341209,7 +341209,7 @@
         "company_name": "Unisys",
         "id": "f32b3fa0-86d1-4e9a-b547-042bc72766a7",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -345123,7 +345123,7 @@
         "company_name": "Dover",
         "id": "f41e35b6-44a6-49c2-abfe-054b4a3bbdf0",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -345646,7 +345646,7 @@
         "company_name": "Magnet Forensics",
         "id": "a243a7cd-fdee-4510-9b16-5aadbd5159fc",
         "title": "Cloud Finops Co-op - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -374019,7 +374019,7 @@
         "company_name": "Cambridge Mobile Telematics",
         "id": "86055d93-aed7-4989-bae5-ddcf1a6ef699",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -378791,7 +378791,7 @@
         "company_name": "KLA",
         "id": "2d6136ee-ec1f-4006-ad08-f2259c41fc2b",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379428,7 +379428,7 @@
         "company_name": "Vantage Data Centers",
         "id": "ccbc31c1-4ec1-4a51-839d-48cbdbf187a8",
         "title": "Design Management Intern Tool Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -404613,7 +404613,7 @@
         "company_name": "Western Digital",
         "id": "4e77ff67-2e6a-4599-81af-8642b9826d26",
         "title": "Intern - Failure Analysis Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -412298,7 +412298,7 @@
         "company_name": "SOTI",
         "id": "fba6db2c-f7c1-4422-98ec-b2d6c526dbb4",
         "title": "Associate Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -413875,7 +413875,7 @@
         "company_name": "EverCommerce",
         "id": "ab82a933-e2de-4b32-9741-3d623948b5ae",
         "title": "Everpro \u2013 AI Platform Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -415449,7 +415449,7 @@
         "company_name": "EverCommerce",
         "id": "9622d654-b6c2-447c-bbca-fa6dd92f3727",
         "title": "Evercommerce \u2013 Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -429604,7 +429604,7 @@
         "company_name": "Western Digital",
         "id": "35e75bcb-b881-40ed-8ab0-915e8611c4c0",
         "title": "Intern - Failure Analysis Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -430365,7 +430365,7 @@
         "company_name": "Freese and Nichols",
         "id": "63c0a5f6-30ea-42f2-a4b0-90eb78ecb0f9",
         "title": "Part-Time Intern - Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443471,7 +443471,7 @@
         "company_name": "The Walt Disney Company",
         "id": "2011eb95-a283-481b-be50-770b04ba5753",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -445567,7 +445567,7 @@
         "company_name": "Thermo Fisher Scientific",
         "id": "2a58ea24-1e4e-4b81-ac71-9a5264fc01fb",
         "title": "Instrument Control Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450635,7 +450635,7 @@
         "company_name": "Acxiom",
         "id": "7767120c-03d5-45ca-9f0d-5f85254a6a3c",
         "title": "Intern \u2013 Data Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450659,7 +450659,7 @@
         "company_name": "CACI",
         "id": "48bc9a35-8905-4b5d-a08b-d58cb138ff49",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -454873,5 +454873,310 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ryder System",
+        "id": "f7775466-b51a-4351-b3ec-09b5386df295",
+        "title": "Data Services Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775658961,
+        "date_posted": 1775657210,
+        "url": "https://ryder.wd5.myworkdayjobs.com/RyderCareers/job/USA---Miami-FL-33178/Data-Services-Intern_R164266",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Ryder-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Environmental Defense Fund",
+        "id": "d3915e71-0d92-4aae-b984-7124782830df",
+        "title": "Louisiana Coasts & Watersheds Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775658961,
+        "date_posted": 1775657383,
+        "url": "https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Washington-DC/XMLNAME---Louisiana-Coasts---Watersheds-Intern-_REQ-002441",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Environmental-Defense-Fund",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Anduril",
+        "id": "c8b058b2-70da-4aab-8e96-24437b6ecfb5",
+        "title": "Software Engineer Intern - Anduril Frontier Systems",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775659681,
+        "date_posted": 1775657472,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5029463007",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "a4e95bd4-033c-46e7-a2a0-0a2083f4d136",
+        "title": "Raytheon Intern - Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1775659438,
+        "date_posted": 1775657307,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-DULLES-760--22260-Pacific-Blvd--BLDG-60/XMLNAME-2027-Raytheon-Intern---Software-Engineer---CO-PA-TX-VA--Onsite-_01836026",
+        "locations": [
+            "Aurora, CO",
+            "State College, PA",
+            "Richardson, TX",
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PlayStation",
+        "id": "90f9615f-ed3e-411e-90a8-afc2d4f1c036",
+        "title": "Payment Analyst \u2013 Apprenticeship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775659681,
+        "date_posted": 1775657576,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5863234004",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PlayStation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ryder System",
+        "id": "f807c6c3-7467-4a4d-a8a0-000382b22dd5",
+        "title": "AI Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775658961,
+        "date_posted": 1775657210,
+        "url": "https://ryder.wd5.myworkdayjobs.com/RyderCareers/job/USA---Remote-FL/AI-Intern_R167426-1",
+        "locations": [
+            "Florida"
+        ],
+        "company_url": "https://simplify.jobs/c/Ryder-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lumentum",
+        "id": "7beb33af-5be1-4554-9353-7543c6e10d4f",
+        "title": "HR AI Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775658961,
+        "date_posted": 1775657337,
+        "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/HR-AI-Analytics-Intern_2026484",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lumentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Delta Dental",
+        "id": "325fd0cb-a6c0-4bca-9cc8-4d6416f1ddac",
+        "title": "Intern - Application Developer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775659399,
+        "date_posted": 1775657299,
+        "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101251",
+        "locations": [
+            "East Lansing, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Delta-Dental",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Moog ",
+        "id": "25721fcd-2ca1-4c3b-910e-376382f7b928",
+        "title": "Intern Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775659445,
+        "date_posted": 1775657308,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-17015",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Moog",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CAE",
+        "id": "7224e144-d142-442c-acfb-0b73760ef5c9",
+        "title": "Database Administrator / Data Engineer COOP",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775659361,
+        "date_posted": 1775657128,
+        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Tampa/DBA---Data-Engineering-COOP_120899",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/CAE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Perplexity AI",
+        "id": "50476edb-b428-4583-901b-6dc310fab018",
+        "title": "Intern - Search Machine Learning Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775659594,
+        "date_posted": 1775657416,
+        "url": "https://jobs.ashbyhq.com/Perplexity/71168628-1998-47d3-87a9-be7bc56a430d/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PerplexityAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Moog ",
+        "id": "d5f2326a-be05-413c-a10d-bcd2c71e31d4",
+        "title": "Intern Development & Additive Manufacturing - Fastworks",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1775659248,
+        "date_posted": 1775657304,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Development---Additive-Manufacturing---FastWorks_R-26-16033",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Moog",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Pendar Technologies",
+        "id": "11fd3cf1-3d8b-4ead-aaed-afd071a5fbcf",
+        "title": "Intern/Co-op Software Engineer for Photonic Process Automation",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1775659212,
+        "date_posted": 1772666903,
+        "url": "https://job-boards.greenhouse.io/pendartechnologies/jobs/5140898008",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pendar-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
