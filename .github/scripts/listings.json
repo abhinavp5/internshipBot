@@ -92327,7 +92327,7 @@
         "company_name": "GE Vernova",
         "id": "82063866-11bd-4f94-abc7-647f89e3f06b",
         "title": "Product Management Intern - Critical Infrastructure Communications",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -136941,7 +136941,7 @@
         "company_name": "GE Vernova",
         "id": "9b04f078-6dca-4cf6-abc2-0e5265a91923",
         "title": "GE Vernova Sustainability AI Solutions Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -141248,7 +141248,7 @@
         "company_name": "Appian",
         "id": "11026353-57cd-48cd-8ff2-73abe5427edd",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -207688,7 +207688,7 @@
         "company_name": "Waymo",
         "id": "077d6a87-731c-4926-9d4c-f88a4570f78a",
         "title": "Intern - ML Training Infra and Efficiency",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -212996,7 +212996,7 @@
         "company_name": "Inmar Intelligence",
         "id": "5d413856-2e2b-4e65-a4e5-56d79fa84653",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -230569,7 +230569,7 @@
         "company_name": "Microsoft",
         "id": "b0acc125-b7cf-4826-ab75-c548f7fbdd9f",
         "title": "Research Intern - AI Inference Architecture",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -281531,7 +281531,7 @@
         "company_name": "Ford Motor Company",
         "id": "7919d847-4760-481e-895d-6167221b0875",
         "title": "Student Worker Program - Embedded Application Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -310511,7 +310511,7 @@
         "company_name": "Rockwell Automation",
         "id": "0f58c065-3746-44a7-913b-d9e5f20f1a4c",
         "title": "Co-op \u2013 Business Operation - Motion Control",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -316903,7 +316903,7 @@
         "company_name": "Blue Origin",
         "id": "233d66ad-4a80-427f-82c4-30f4c32a3571",
         "title": "Harnessing Technician Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -323123,7 +323123,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "e9f7f180-d848-4e57-b492-4ec7526b1e65",
         "title": "Post Doc Research Associate - Networking and Distributed Systems Lab",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -339243,7 +339243,7 @@
         "company_name": "Arcadis",
         "id": "d959730d-bb9c-44f1-930d-8bdf1d5d2241",
         "title": "Transportation Planning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -357190,7 +357190,7 @@
         "company_name": "Saputo",
         "id": "7d064906-9334-4522-a2ea-2847db03120e",
         "title": "Intern \u2013 IT Enterprise Application - Manufacturing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -360582,7 +360582,7 @@
         "company_name": "Micron Technology",
         "id": "1302cb69-e719-4d0c-84b5-22a97dfc1994",
         "title": "Intern \u2013 Asic Gen-AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -370573,7 +370573,7 @@
         "company_name": "Argonne National Laboratory",
         "id": "4adb61e2-758b-40fd-a194-c58e67345917",
         "title": "Nuclear Facility Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -374504,7 +374504,7 @@
         "company_name": "AeroVect",
         "id": "f33b4aa7-54da-421a-99fe-65907bb7047a",
         "title": "Developer Productivity Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -381335,7 +381335,7 @@
         "company_name": "Waymo",
         "id": "bdf20dea-f9f9-4e72-b03f-86da9665f11d",
         "title": "Intern - ML Runtime and Deployment",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -388159,7 +388159,7 @@
         "company_name": "HARMAN International",
         "id": "4b2cb465-5a38-4aac-bfe9-4ab0499bfb7e",
         "title": "Intern - HMI Domain",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -396631,7 +396631,7 @@
         "company_name": "Rigetti",
         "id": "9afba09d-4857-49e1-95ef-78015f4488d4",
         "title": "Intern Project: Josephson Junction Yield & Data Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -403271,7 +403271,7 @@
         "company_name": "Micron Technology",
         "id": "54716e4e-1859-47c3-84ff-25c57350f92f",
         "title": "Hardware Automation Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -407432,7 +407432,7 @@
         "company_name": "Savannah River National Laboratory",
         "id": "e86987dc-d2fb-4b0a-a7fa-26f82731ee00",
         "title": "Machine Learning and Unconventional Computing Paradigms ASPIRE Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -409770,7 +409770,7 @@
         "company_name": "Valeo",
         "id": "f9320506-58f1-42d8-8d2c-54fc574f191a",
         "title": "Resident Lighting Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -410175,7 +410175,7 @@
         "company_name": "PHINIA",
         "id": "bb29700d-bb34-4b09-8523-a88619e27507",
         "title": "Marketing Coordinator",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -414831,7 +414831,7 @@
         "company_name": "Synchrony Financial",
         "id": "544a3e80-5bad-4e1d-957b-0235f0ff23a7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -414970,7 +414970,7 @@
         "company_name": "Synchrony Financial",
         "id": "c117df2d-7240-4ae6-823b-2d8a7537bde6",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -424683,7 +424683,7 @@
         "company_name": "AirCapture",
         "id": "e816626b-6017-4dd5-8087-ddec19f44acd",
         "title": "Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -435986,7 +435986,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "0fd887b4-89e4-4fdb-8f84-96c3b11e5ff6",
         "title": "Software Developer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443152,7 +443152,7 @@
         "company_name": "Inmar Intelligence",
         "id": "f3c9e0b6-1d45-4bb0-a60a-8dc6323ee656",
         "title": "Data Analyst Intern - AI & Chatbot Optimization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -446487,7 +446487,7 @@
         "company_name": "Tencent",
         "id": "bc612c22-c8e7-4600-8997-9c17274a0566",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -448940,7 +448940,7 @@
         "company_name": "Rockwell Automation",
         "id": "376c80b1-b9f4-4e5d-978a-3f771d45dcf3",
         "title": "Business Operation - Motion Control",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -452103,7 +452103,7 @@
         "company_name": "Intapp",
         "id": "3c959951-e2bc-48b7-8bee-d9f71e821969",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -454148,7 +454148,7 @@
         "company_name": "ArteraAI",
         "id": "67b8def9-d3cf-4e13-b958-aa3819036d34",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
