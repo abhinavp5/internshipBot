@@ -330342,7 +330342,7 @@
         "company_name": "Auctor",
         "id": "5a48777f-0af6-4e37-b9d2-1766b5c02ea2",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -382297,7 +382297,7 @@
         "company_name": "Fidelity Investments",
         "id": "fe7bb8a8-5407-4d88-abca-757fab6a92db",
         "title": "Co-Op Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -413921,7 +413921,7 @@
         "company_name": "Sun Life",
         "id": "28ed6ebe-eb8c-400b-af6a-76c61c45dbc1",
         "title": "Student Campaign Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -442854,7 +442854,7 @@
         "company_name": "Moog ",
         "id": "a9ef2ccf-58e9-4192-b47b-4cb0fd668858",
         "title": "Intern Design Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443660,7 +443660,7 @@
         "company_name": "Elevance Health",
         "id": "ec436044-864c-4691-8a9e-1ab4e2d9834a",
         "title": "Commercial Product Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
