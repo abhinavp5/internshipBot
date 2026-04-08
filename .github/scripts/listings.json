@@ -352893,7 +352893,7 @@
         "company_name": "Texas A&M International University",
         "id": "104bd659-f2e0-4f27-a8ac-b831d30a49e6",
         "title": "Undergraduate Research Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -406021,7 +406021,7 @@
         "company_name": "Leonardo",
         "id": "2474aece-168b-4d04-94b1-6ba93b5741de",
         "title": "Software Graduate Apprentice - Test Systems - Test Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
