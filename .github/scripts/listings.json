@@ -409304,7 +409304,7 @@
         "company_name": "Premera Blue Cross",
         "id": "5e8a1b79-526c-48d2-b4d2-8f72aa24233e",
         "title": "Systems Analyst GenAI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -436311,7 +436311,7 @@
         "company_name": "JP Morgan Chase",
         "id": "d6c30ab4-e60a-4234-a43e-ce7c8fe10952",
         "title": "Data Analytics/Business Intelligence/Process Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -454644,5 +454644,76 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tessera Labs",
+        "id": "5023b582-d7cc-49cf-9ae0-49dca04f35b1",
+        "title": "Software Engineering Intern - Frontend",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775629261,
+        "date_posted": 1775628495,
+        "url": "https://jobs.ashbyhq.com/tessera-labs/4614d053-2c8f-4317-8cd2-1d1290721b06/application",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tessera-Labs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LMI ",
+        "id": "b4af7487-860d-4d23-825b-6a638dcf0981",
+        "title": "Data & Financial Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775629261,
+        "date_posted": 1775628284,
+        "url": "https://careers-lmi.icims.com/jobs/13868/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/LMI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "00b962ad-7300-4a69-b5ea-dc0b7bad5669",
+        "title": "Security Engineering Project - Watermark",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775629599,
+        "date_posted": 1775628547,
+        "url": "https://jobs.bytedance.com/en/position/7625759034518128901/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
