@@ -1,25 +1,5 @@
 [
     {
-        "date_updated": 1754929539,
-        "url": "https://ats.rippling.com/rippling/jobs/ee1ec0b1-9a55-408d-979d-9c74f257e9ea",
-        "company_name": "Rippling",
-        "title": "Machine Learning Engineer Intern",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "terms": [
-            "Winter 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "00f215b2-7f30-4521-a54a-2cb75eb46389",
-        "date_posted": 1754929475,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Data Science, AI & Machine Learning"
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Capital One",
