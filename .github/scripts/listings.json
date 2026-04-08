@@ -268648,7 +268648,7 @@
         "company_name": "Adobe",
         "id": "4fd37336-7c2b-426a-a4c1-0ca3a6274a80",
         "title": "Intern - Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -322144,7 +322144,7 @@
         "company_name": "Resmed",
         "id": "c101fce7-ac62-4733-8c0d-4d8aa89c31f0",
         "title": "Software Engineer Intern - Goscripts",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -324049,7 +324049,7 @@
         "company_name": "Samsung",
         "id": "28f80276-2a3c-4c90-9345-b67a76f2bb7f",
         "title": "Product Management Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -357405,7 +357405,7 @@
         "company_name": "Proofpoint",
         "id": "7f01ca9f-cff9-4d5f-8062-362e9edb7c57",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -412504,7 +412504,7 @@
         "company_name": "Cambridge Mobile Telematics",
         "id": "46bc7451-9c27-4556-acc2-3a8b15c03343",
         "title": "Software Engineer Intern - Backend",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -414577,7 +414577,7 @@
         "company_name": "Solidigm",
         "id": "afef3506-ad91-464c-a16e-ecdaad773232",
         "title": "Talent Acquisition Data Engineering & Analytics Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -419617,7 +419617,7 @@
         "company_name": "Amentum",
         "id": "21cd1f89-1f27-4391-81a1-dfb663603a50",
         "title": "Process Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -427776,7 +427776,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "7db44a74-212d-4a55-bb6b-28f784175f3d",
         "title": "Vision-Language-Action Models",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443129,7 +443129,7 @@
         "company_name": "Altom Transport",
         "id": "1f2dbc24-0cc2-4b84-b93a-650c21b2b73f",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443428,7 +443428,7 @@
         "company_name": "Altom Transport",
         "id": "4613db52-a9c6-4368-9491-0e41da7183b0",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -444091,7 +444091,7 @@
         "company_name": "Micron Technology",
         "id": "ffa7189e-af6f-4dc3-8253-abf4b3058b55",
         "title": "Intern \u2013 Computer Engineer - AI/ML/LLM",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -447237,7 +447237,7 @@
         "company_name": "Rubrik",
         "id": "63dd1c15-1305-4a72-b33b-1a913bb1c6c8",
         "title": "AI Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450708,7 +450708,7 @@
         "company_name": "DNV",
         "id": "a4678341-a73b-4379-abff-6475074d2843",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -451587,7 +451587,7 @@
         "company_name": "CACI",
         "id": "e3e364a3-d700-444d-8f4b-f5e935c11b70",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -451725,7 +451725,7 @@
         "company_name": "Construction Resources",
         "id": "35dce245-f8fb-4e1f-9021-1a62bc4e962f",
         "title": "Web / Full-Stack Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
