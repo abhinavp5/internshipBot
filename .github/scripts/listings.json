@@ -29027,7 +29027,7 @@
         "company_name": "NVIDIA",
         "id": "fa62e711-af00-4269-b218-1f6d7b45bc95",
         "title": "NVIDIA 2026 Internships: PhD Generative AI Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -79930,7 +79930,7 @@
         "company_name": "BNY",
         "id": "6f4a62ed-143c-40c8-bcf1-9f1bdf687a8d",
         "title": "2026 BNY Summer Internship Program - Engineering Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -79976,7 +79976,7 @@
         "company_name": "BNY",
         "id": "2e2d395b-f9c3-4ce9-a740-e54895c9c7fc",
         "title": "2026 BNY Summer Internship Program - Engineering Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -237734,7 +237734,7 @@
         "company_name": "General Motors",
         "id": "5803f9bc-8ae8-4932-a0d2-dcf7112dae7a",
         "title": "Intern \u2013 AI/ML Software Engineering Intern - Simulation Core",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -266345,7 +266345,7 @@
         "company_name": "Red Hat",
         "id": "eff28cc3-7ade-4574-b78e-11e814c08e83",
         "title": "Machine Learning Systems Research Intern - PhD - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -411424,7 +411424,7 @@
         "company_name": "The Federal Reserve System",
         "id": "e101d805-293c-49f2-a24e-5ce987ed7770",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -423222,7 +423222,7 @@
         "company_name": "Impiricus",
         "id": "a51651ef-323e-4a64-afea-c7ab40c14f60",
         "title": "Software Engineer Intern - Full Stack",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -423735,7 +423735,7 @@
         "company_name": "Impiricus",
         "id": "b4ea56db-dcfd-4479-8dde-abdf95b8431d",
         "title": "Intern Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -424999,7 +424999,7 @@
     {
         "date_updated": 1774262037,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -434754,7 +434754,7 @@
         "company_name": "SonoThera",
         "id": "73449e5e-97ad-4481-8313-ecb472548b5c",
         "title": "Nucleic Acid Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -438406,7 +438406,7 @@
         "company_name": "Airgas",
         "id": "33c96e1e-ba9a-4600-a17f-3351f4d0b2f3",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -451722,7 +451722,7 @@
         "company_name": "Cloudflare",
         "id": "3ca6e66a-5140-4923-aad8-d77ebdc9635e",
         "title": "Technical Innovation Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
