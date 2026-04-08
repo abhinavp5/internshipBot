@@ -253372,7 +253372,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Nutanix",
-        "id": "4517181b-c420-4514-a0df-1059ec52b260",
+        "id": "b0100e7e-c9a3-4daa-ac98-1d7a8f5091c0",
         "title": "Software Engineering Intern - Undergrad ONLY - Distributed systems",
         "active": true,
         "terms": [
@@ -415237,7 +415237,7 @@
         "company_name": "Waters Corporation",
         "id": "1b51b17f-c352-46f3-a0a3-43fa74806371",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -435678,7 +435678,7 @@
         "company_name": "Kinaxis",
         "id": "56af5c93-ff4a-4acf-9ef2-a61291dc9b09",
         "title": "Intern Developer - Front End Technologies",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437983,7 +437983,7 @@
         "company_name": "Granite Construction",
         "id": "5628f91e-9bde-4281-9e4f-af0144726d32",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -441286,7 +441286,7 @@
         "company_name": "Skyscanner",
         "id": "df80f515-4dc0-4430-bf47-74850d5fc678",
         "title": "Engineering Graduate Programme",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -442401,7 +442401,7 @@
         "company_name": "Trane Technologies",
         "id": "7d8a07e4-0435-4236-852b-9ff0999f509b",
         "title": "Technical Applications and HW Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -442492,7 +442492,7 @@
         "company_name": "Trane Technologies",
         "id": "5a535b94-7745-4153-b402-3d690acce01b",
         "title": "Software & Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -445956,7 +445956,7 @@
         "company_name": "Magna",
         "id": "7dc2e2fc-62c7-404e-b61b-f9b8ac587aa2",
         "title": "Intern Validation Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -454715,5 +454715,118 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "date_updated": 1775645242,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-urbanscience.icims.com/jobs/5169/software-engineering-intern--summer-2026---detroit%2c-mi/job",
+        "company_name": "Urban Science",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "5444dedd-bd6e-4b62-959f-21f6dc2ca6ac",
+        "date_posted": 1775645242,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Speechmatics",
+        "id": "3b40046d-a077-41b3-a665-23d474155787",
+        "title": "Software Engineer - Futurevoices",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775644201,
+        "date_posted": 1775599540,
+        "url": "https://job-boards.eu.greenhouse.io/speechmatics/jobs/4834542101",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Speechmatics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "date_updated": 1775646677,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://external-canoncareers.icims.com/jobs/34090/software-intern/job",
+        "company_name": "Canon",
+        "title": "Software Intern",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "23f03587-d1ec-4156-bd12-6919cd67c504",
+        "date_posted": 1775646677,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1775646936,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.lever.co/go-cloudforce/a6fc45dd-d6e8-484f-8254-1b1f69dff362",
+        "company_name": "Cloudforce",
+        "title": "Cloud Solutions Intern",
+        "locations": [
+            "National Harbor, Maryland"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "ddf83ab4-5c6c-4801-b63a-692b115f69b9",
+        "date_posted": 1775646936,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1775647598,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.lever.co/go-cloudforce/cf2f1855-3ad7-4d4a-a100-2e627f703af4",
+        "company_name": "Cloudforce",
+        "title": "AI Agent Builder Intern",
+        "locations": [
+            "National Harbor, MD"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "c635048f-2bb2-4949-b1ab-bd8c0d76ec14",
+        "date_posted": 1775647598,
+        "company_url": "",
+        "is_visible": true
     }
 ]
