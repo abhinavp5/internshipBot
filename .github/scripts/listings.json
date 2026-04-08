@@ -54700,7 +54700,7 @@
         "company_name": "Eventual",
         "id": "bde8e834-f6bb-46a7-8b69-4f9d89c8e268",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343024,7 +343024,7 @@
         "company_name": "The Walt Disney Company",
         "id": "ca086a90-f905-497f-9336-e594763749b5",
         "title": "Finance and Analytics Intern - Summer/Fall 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -344233,7 +344233,7 @@
         "company_name": "Applied Materials",
         "id": "418177d1-160d-4c1e-86c6-746ac524a732",
         "title": "Etch Service Business Focal - Team: Etch Service Business",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -396421,7 +396421,7 @@
         "company_name": "GTS",
         "id": "bfbb5494-b63d-4b3c-b654-d577d955d1cb",
         "title": "Quantitative Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -402622,7 +402622,7 @@
         "company_name": "Zip",
         "id": "12d498a8-9fd2-460d-9713-976a323ca0ef",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -404255,7 +404255,7 @@
         "company_name": "Mass General Brigham",
         "id": "942cf121-673f-456c-afa7-a75ed1576ede",
         "title": "Digital Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -404399,7 +404399,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "da338d40-4321-4f20-897e-8079d85ece33",
         "title": "Hardware Engineering \u2013 Radio Frequency Intern - HP IQ",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -409304,7 +409304,7 @@
         "company_name": "Premera Blue Cross",
         "id": "5e8a1b79-526c-48d2-b4d2-8f72aa24233e",
         "title": "Systems Analyst GenAI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -413385,7 +413385,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "fee39cac-9618-4bee-8ac5-0353cd9987f6",
         "title": "Hardware Engineering \u2013 Radio Frequency Intern - HP IQ",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -435005,7 +435005,7 @@
         "company_name": "Coherent ",
         "id": "07ba05d8-6452-43f3-9db5-d83e57a57595",
         "title": "Intern-Engineering and Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -440154,7 +440154,7 @@
         "company_name": "Red Bull Advanced Technologies",
         "id": "63ca7689-4c09-4971-a680-4b3f49e5166e",
         "title": "Model Maker Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -440590,7 +440590,7 @@
         "company_name": "Cooper Companies",
         "id": "9b07b41f-07af-4b35-913c-3b38ab0f9d33",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -446600,7 +446600,7 @@
         "company_name": "Amazon",
         "id": "c2d688dd-c73c-4cd7-b9d4-84921ec7f6fb",
         "title": "Intern Economics - Return and Recommerce Economics Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -454456,6 +454456,191 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Attentive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "22f15cd1-e579-45e8-8385-94a5f1ee1773",
+        "title": "Discrete Graphics Power Delivery Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775612881,
+        "date_posted": 1775610551,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Discrete-Graphics-Power-Delivery-Intern_JR0282669",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Rockwell Automation",
+        "id": "e9610b49-5e32-4309-90fc-9bd9b8c66bad",
+        "title": "Intern Digital Client",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775612162,
+        "date_posted": 1775610507,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Digital-Client_R26-1872-1",
+        "locations": [
+            "Mequon, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ATPCO",
+        "id": "89eeb8dd-a98a-478f-880b-8f419a639c50",
+        "title": "Data Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775612252,
+        "date_posted": 1775610228,
+        "url": "https://jobs.smartrecruiters.com/ATPCO1/744000119253267",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Smith+Nephew",
+        "id": "72fc10fd-93cb-41e6-88fa-cab7f7733033",
+        "title": "Intern Data Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775611801,
+        "date_posted": 1775610355,
+        "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Oklahoma-City-OK/Intern-Data-Analytics--Oklahoma-City-_R89648",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Smith-Nephew",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SoFi",
+        "id": "5d18abf8-350a-4818-ae4c-c488b835f551",
+        "title": "Intern \u2013 Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775611801,
+        "date_posted": 1775611431,
+        "url": "https://www.sofi.com/careers/sofi-university/7581753003?gh_jid=7581753003",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/SoFi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sono Bello",
+        "id": "501de5f6-a3e7-4de1-85c1-435178e210ee",
+        "title": "Intern SharePoint & Knowledge Management",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775612210,
+        "date_posted": 1775610758,
+        "url": "https://job-boards.greenhouse.io/sonobello/jobs/5180293008",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sono-Bello",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Rockwell Automation",
+        "id": "4ecba065-c50e-4c3e-9c98-aa500be8597e",
+        "title": "Intern Digital Client",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775612164,
+        "date_posted": 1775610458,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/Intern--Digital-Client_R26-1872",
+        "locations": [
+            "Mequon, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Legrand North America",
+        "id": "2eaad985-e5f2-4ae1-9fc5-c8046ef59583",
+        "title": "Applied Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775611801,
+        "date_posted": 1775610435,
+        "url": "https://jobs-legrand.icims.com/jobs/9986/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Syracuse, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Legrand-North-America",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
