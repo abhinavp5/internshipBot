@@ -129462,7 +129462,7 @@
         "company_name": "General Motors",
         "id": "6c43b7e6-b33c-491e-bcd0-f6a363450901",
         "title": "Co-Op - Software Developer - Virtualization and SIL Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -165147,7 +165147,7 @@
         "company_name": "QuEra Computing",
         "id": "351302b5-0a0b-4057-ac80-49fb586424e6",
         "title": "Internship - Scientific Software and Compilation",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -171210,7 +171210,7 @@
         "company_name": "KION",
         "id": "52d96781-c1fe-49a5-b6dc-6a5f4d23400f",
         "title": "Software Engineer Intern - Software Execution",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -182146,7 +182146,7 @@
         "company_name": "Adobe",
         "id": "51561d32-a2b4-4f87-b84d-77219edd63b8",
         "title": "2026 AI/ML Intern - Machine Learning Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -217782,7 +217782,7 @@
         "company_name": "Colliers",
         "id": "b545458a-51b1-4ea4-a2e1-dd740a02773d",
         "title": "Data Governance Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -224236,7 +224236,7 @@
         "company_name": "Cisco",
         "id": "aacdbbaf-a5cc-4079-a368-0ef4edd79fac",
         "title": "Data Science Analyst 1 \u2013 Intern - United States",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -262261,7 +262261,7 @@
         "company_name": "Nex",
         "id": "c7bb513f-9068-435e-8898-0b270891b8e6",
         "title": "Software Engineer Intern - Game Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -300071,7 +300071,7 @@
         "company_name": "Amentum",
         "id": "66b496d1-46f6-4e98-85ae-a9d51d0e5e90",
         "title": "Software Programmer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -309089,7 +309089,7 @@
         "company_name": "LMI ",
         "id": "6733555f-9ee9-4e61-98d6-6430f675caff",
         "title": "Data Science-Intern - FIU Students",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -320493,7 +320493,7 @@
         "company_name": "Four Hands",
         "id": "a34e3c52-febe-47f3-b601-360b6164f37c",
         "title": "Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -325895,7 +325895,7 @@
         "company_name": "Vanderlande Industries",
         "id": "9119d819-f765-470b-9809-a5a294485ed4",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -330478,7 +330478,7 @@
         "company_name": "Stantec",
         "id": "82155bdc-6115-4f9e-8007-b55bb43ffcbc",
         "title": "Environmental Services Intern - Remediation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -339611,7 +339611,7 @@
         "company_name": "GE Vernova",
         "id": "3a1d87a2-8fe7-49a1-974a-4073fa0de999",
         "title": "GE Vernova Robotics \u2013 Computer Vision-Perception Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -345973,7 +345973,7 @@
         "company_name": "Bose",
         "id": "3d3c878e-6b5d-480f-810f-e0c9f405b931",
         "title": "Software Engineer Co-op - Audio Tech",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -359536,7 +359536,7 @@
         "company_name": "Resmed",
         "id": "a1e39a74-ebbb-412c-9ee0-747cbf45e709",
         "title": "Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -361096,7 +361096,7 @@
         "company_name": "Artisan Partners",
         "id": "475df9c0-6a23-4168-bf00-5d39ec5d6ffe",
         "title": "Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -365229,7 +365229,7 @@
         "company_name": "W.W. Grainger",
         "id": "a58a4269-5490-4ec9-a256-e1a7fdddbb3d",
         "title": "Business Analytics Intern - Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -391205,7 +391205,7 @@
         "company_name": "Meta",
         "id": "adc9aab9-e110-490e-ad68-8b58ca94ac12",
         "title": "Research Scientist Intern - Meta Recommendation Systems - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -402721,7 +402721,7 @@
         "company_name": "Parallel Systems",
         "id": "2677834b-4abd-4f6b-971e-74c865c261c7",
         "title": "Vehicle Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -403204,7 +403204,7 @@
         "company_name": "Fiserv",
         "id": "a6c670d3-9e8d-4382-974c-1194ae13e9ea",
         "title": "Technology \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -409094,7 +409094,7 @@
         "company_name": "Lumentum",
         "id": "0d443784-9358-4429-a0a9-93736ea1d0cc",
         "title": "Optical Component Evaluation Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -414905,7 +414905,7 @@
         "company_name": "Synchrony Financial",
         "id": "c792e5ef-cb27-4635-9e25-b7bf004fbbf1",
         "title": "Emerging Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -423202,7 +423202,7 @@
         "company_name": "Impiricus",
         "id": "a51651ef-323e-4a64-afea-c7ab40c14f60",
         "title": "Software Engineer Intern - Full Stack",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -423715,7 +423715,7 @@
         "company_name": "Impiricus",
         "id": "b4ea56db-dcfd-4479-8dde-abdf95b8431d",
         "title": "Intern Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -433939,7 +433939,7 @@
         "company_name": "ChargePoint",
         "id": "6e817af3-9bd7-4f2f-99a2-8a008ff1c959",
         "title": "Hardware Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -436361,7 +436361,7 @@
         "company_name": "Brooks Running",
         "id": "6c5d2e63-e8da-4db2-8f68-cf8525570a4f",
         "title": "Run Perception Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -444935,7 +444935,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "f8d81dd0-84d1-4cde-90aa-a9fb470f17be",
         "title": "Systems Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -447072,7 +447072,7 @@
         "company_name": "EisnerAmper",
         "id": "176e568e-c9cb-452a-be7b-cec303ae13aa",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -454446,7 +454446,7 @@
         "company_name": "Intel",
         "id": "22f15cd1-e579-45e8-8385-94a5f1ee1773",
         "title": "Discrete Graphics Power Delivery Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -455158,5 +455158,145 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citizens Financial Group",
+        "id": "d0d32d83-d567-4765-ada6-589505cd5997",
+        "title": "Software Engineer Intern \u2013 Enterprise Technology & Security",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775688891,
+        "date_posted": 1775686061,
+        "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/45976",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Citizens-Financial-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Altera Corporation",
+        "id": "b056623e-9940-4a94-a393-666bb28be180",
+        "title": "FPGA Tools Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775688133,
+        "date_posted": 1775686013,
+        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/FPGA-Tools-Engineer---Intern_R02343",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Altera-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Veolia",
+        "id": "2c89e0f2-d2c0-4f60-b816-9042bb184caa",
+        "title": "GIS & Asset Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775688670,
+        "date_posted": 1775686001,
+        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000119443867",
+        "locations": [
+            "New City, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Veolia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "0da4f21e-5ea5-4043-ae33-afe7b0d69088",
+        "title": "Surgery Field Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775688952,
+        "date_posted": 1775686068,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Raleigh-Durham-Area--NC-_R4039150-1",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Fresenius Medical Care",
+        "id": "cd8d5f39-c21f-4e74-b11c-2ef8928b462b",
+        "title": "Mechanical Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775688330,
+        "date_posted": 1775686133,
+        "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Mechanical-Co-op_R0240646-1",
+        "locations": [
+            "Andover, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fresenius",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Axos Bank",
+        "id": "41348f44-133d-4162-82a0-1a13a3c4c775",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775687950,
+        "date_posted": 1775686017,
+        "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Software-Development-Intern---Summer-2026_JR3504",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Axos-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
