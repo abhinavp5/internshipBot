@@ -1,70 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Radiant",
-        "id": "85fc699f-b0bb-47b1-9967-ec53e94deac1",
-        "title": "Internship - Software Engineering",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755033315,
-        "date_posted": 1755033315,
-        "url": "https://job-boards.greenhouse.io/radiant/jobs/4591921005",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Radiant",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Capital One",
-        "id": "2d64ad09-45f3-41ed-83d4-34d2bc305a9d",
-        "title": "Former Discover Intern - Data Analyst Associate",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1755032839,
-        "date_posted": 1755032839,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Former-Discover-Intern--Data-Analyst-Associate---2026_R221876-1",
-        "locations": [
-            "McLean, VA",
-            "Richmond, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Capital One",
-        "id": "a2f002eb-5013-4a4b-9fb4-3401655cd29c",
-        "title": "Former Discover Intern - Technology Development Program Associate",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1755032827,
-        "date_posted": 1755032827,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Former-Discover-Intern--Technology-Development-Program-Associate---February-2026_R221902-1",
-        "locations": [
-            "Plano, TX",
-            "McLean, VA",
-            "Richmond, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1758244936,
         "url": "https://www.shopify.com/careers/usa-engineering-internships-summer-2026-usa_b2dbdf1e-ab44-46ed-9a11-69a1a1e4b20c?fbclid=PAZXh0bgNhZW0CMTEAAacZmDKBbpt6Eic3DYCTf372rK812Efp_FC9Sle8J1TgYhTmQa52d0muxM0Vtg_aem_NgJJWd_yRRfgPncN8pXvNw",
         "company_name": "Shopify",
@@ -179,27 +114,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nokia",
-        "id": "a6fc5f38-1fa8-4f07-b8ad-d03b96d9cee9",
-        "title": "Database Software Developer Co-op",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1755031467,
-        "date_posted": 1755031467,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23202",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other"
     },
     {
         "date_updated": 1755871678,
@@ -7236,29 +7150,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/88fbdc8d-eccd-485a-9602-7764b6491648",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "CDW Corporation",
-        "id": "86972217-3ae0-4b27-b13f-a4fb8f808d6f",
-        "title": "On Campus Internship",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755032372,
-        "date_posted": 1755032372,
-        "url": "https://cdw.wd5.myworkdayjobs.com/careers/job/Remote--USA/On-Campus-Internship---University-of-Notre-Dame_R24_00001786",
-        "locations": [
-            "South Bend, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/CDW-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -177858,28 +177749,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Wabtec",
-        "id": "6552aea7-d64a-4712-8795-0fedf9435a02",
-        "title": "Summer 2026 Engineering Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761469884,
-        "date_posted": 1755030927,
-        "url": "https://wabtec.wd1.myworkdayjobs.com/en-US/wabtec_careers/job/Erie-PA/Summer-2026-Engineering-Internship_R0101041",
-        "locations": [
-            "Erie, PA",
-            "Grove City, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Wabtec",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Dow Chemical Company",
         "id": "9db87fa6-fa09-452c-b6eb-cfd7ea1697cb",
@@ -337962,7 +337831,7 @@
         "company_name": "Resmed",
         "id": "649487ad-9748-454f-b006-8c80c75e37f5",
         "title": "Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Summer 2026",
@@ -370821,7 +370690,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "05cbad4e-9069-4cf2-8926-a96ae257a852",
         "title": "Wireless Sensing Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -428674,7 +428543,7 @@
         "company_name": "Western Digital",
         "id": "35e75bcb-b881-40ed-8ab0-915e8611c4c0",
         "title": "Intern - Failure Analysis Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -455440,7 +455309,7 @@
         "company_name": "AAA Club Alliance",
         "id": "2d5e2f1f-10d4-4f00-b3cb-a04b6b824d05",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
