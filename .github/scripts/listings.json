@@ -7597,31 +7597,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Applied Materials",
-        "id": "39220aa2-8bec-4338-be87-bffe28230922",
-        "title": "Physicist/Scientist Co-Op - PhD",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1754993538,
-        "date_posted": 1754993538,
-        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2025-Fall---Physicist-Scientist-Co-Op_R2515150",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
         "date_updated": 1755638663,
         "url": "https://job-boards.greenhouse.io/figma/jobs/5602159004?gh_jid=5602159004",
         "company_name": "Figma",
@@ -129193,7 +129168,7 @@
         "company_name": "General Motors",
         "id": "6c43b7e6-b33c-491e-bcd0-f6a363450901",
         "title": "Co-Op - Software Developer - Virtualization and SIL Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -228785,7 +228760,7 @@
         "company_name": "Washpost",
         "id": "788dea8e-d7aa-47dd-9532-990b8c505f13",
         "title": "Intern - Android App Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -237391,7 +237366,7 @@
         "company_name": "General Motors",
         "id": "5803f9bc-8ae8-4932-a0d2-dcf7112dae7a",
         "title": "Intern \u2013 AI/ML Software Engineering Intern - Simulation Core",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -282313,77 +282288,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "46056ee4-33eb-4bd5-94b0-9c211ad9c9fa",
-        "title": "Java Training and Placement",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1762907797,
-        "date_posted": 1754995360,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/103866458",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "b5c4c3b9-e3e6-4358-8813-1f0bce543b0f",
-        "title": "Free Training and Placement Weblogic/Devops/Java",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1761832578,
-        "date_posted": 1754995225,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/113276373",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AG Technologies",
-        "id": "7c21c471-f3ad-4265-a007-8a9363b7e4ab",
-        "title": "OBIEE/Salesforce/Networking training and placement",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1761829567,
-        "date_posted": 1754995199,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/112846510",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "dfe51c88-ebee-4cf9-8f30-b4f757a59b81",
@@ -285255,30 +285159,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AG Technologies",
-        "id": "1011d053-c9f8-4129-a340-462eef2242fa",
-        "title": "OBIEE/Salesforce/Networking training and placement",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1761829719,
-        "date_posted": 1754995282,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/105683018",
-        "locations": [
-            "Chesterfield, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -294664,7 +294544,7 @@
         "company_name": "Tencent",
         "id": "275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni-Modal",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -296039,7 +295919,7 @@
         "company_name": "KLA",
         "id": "81974415-b148-4b5f-a2b3-88490d3920e7",
         "title": "Marketing/Applications Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -315249,7 +315129,7 @@
         "company_name": "Fidelity Investments",
         "id": "9af2b479-ce6b-4409-a89d-701644cff541",
         "title": "Intern Data Science and Optimization",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -315751,7 +315631,7 @@
         "company_name": "Cisco",
         "id": "d2dcfe14-a4bb-40cf-b495-040de5de1c91",
         "title": "Software Engineer 1 - Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -367930,7 +367810,7 @@
         "company_name": "Brex",
         "id": "afd26269-ca6f-47e8-8959-cc00bcbe099a",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -384308,7 +384188,7 @@
         "company_name": "ASM Global",
         "id": "60bdef1d-571d-4869-88d3-ec21747a38c4",
         "title": "Hospitality and Merchandise Insights Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -394332,7 +394212,7 @@
         "company_name": "Golden Hippo",
         "id": "a2f45ba2-6fb1-4b0d-a314-863da536b02b",
         "title": "Web Production Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -395195,7 +395075,7 @@
         "company_name": "Precisely",
         "id": "a31a077f-9996-403f-89a6-41f253df1a29",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -400407,7 +400287,7 @@
         "company_name": "Skydio",
         "id": "3d3eba3b-a0db-48ff-995b-7d2e3a395346",
         "title": "Manufacturing Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -406599,7 +406479,7 @@
         "company_name": "Pathos",
         "id": "d45c4020-8afa-4fe7-bd48-63b97cf8eb74",
         "title": "Applied Scientist, Oncology Foundation Model",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -410490,7 +410370,7 @@
         "company_name": "Magna",
         "id": "7bac57bb-c122-4094-9de3-8bc9984f259f",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -410990,7 +410870,7 @@
         "company_name": "The Federal Reserve System",
         "id": "e101d805-293c-49f2-a24e-5ce987ed7770",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -423252,7 +423132,7 @@
         "company_name": "Magna",
         "id": "c38bb5b6-0652-4f3e-b46a-130303c789ed",
         "title": "Intern Software Engineer - Integration and Test",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -423301,7 +423181,7 @@
         "company_name": "Impiricus",
         "id": "b4ea56db-dcfd-4479-8dde-abdf95b8431d",
         "title": "Intern Data Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -434274,7 +434154,7 @@
         "company_name": "Calix",
         "id": "801cac08-39cb-4df3-8e68-5beed46e6eaf",
         "title": "Customer Experience Operations and Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -437972,7 +437852,7 @@
         "company_name": "Airgas",
         "id": "33c96e1e-ba9a-4600-a17f-3351f4d0b2f3",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -438906,29 +438786,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "7eb12e17-a02c-4034-9e66-f5f09bd96b60",
-        "title": "DevOps Java WebLogic Training and Placement",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1774949923,
-        "date_posted": 1754995252,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/103546037",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Atria Group",
         "id": "c0b02d06-d718-4cda-8337-9d34d85cf921",
@@ -439045,7 +438902,7 @@
         "company_name": "Benchling",
         "id": "13ca75f9-0d76-4939-882e-23456998a4c0",
         "title": "Software Engineer - Full Stack - Admin & Identity Platform",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -442105,7 +441962,7 @@
         "company_name": "Trane Technologies",
         "id": "391b24ee-5f39-403d-9503-2f307f96793b",
         "title": "Energy Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -442151,7 +442008,7 @@
         "company_name": "HEXAWARE",
         "id": "3b2df1b1-de52-40af-b5e6-97ad417126f1",
         "title": "Intern Data Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -442395,7 +442252,7 @@
         "company_name": "X Development",
         "id": "6cd096ef-09c5-46de-958f-ae4dffbabfa9",
         "title": "Residency - Agentic AI Resident - Moonshot Tools & Infrastructure",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -442967,7 +442824,7 @@
         "company_name": "Microsoft",
         "id": "83ddf672-7d1b-4ee4-b62b-63ee6d6c4396",
         "title": "Research Intern - Foundation Models and Agentic Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -445522,7 +445379,7 @@
         "company_name": "Magna",
         "id": "7dc2e2fc-62c7-404e-b61b-f9b8ac587aa2",
         "title": "Intern Validation Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -446729,7 +446586,7 @@
         "company_name": "Microsoft",
         "id": "4590da8c-866b-4a49-b418-33f140d82933",
         "title": "Research Intern - Inference Economics and Human Agency",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -448199,7 +448056,7 @@
         "company_name": "Rogers Behavioral Health",
         "id": "6ee7b98c-ff40-48fa-9739-71119f369879",
         "title": "Therapist \u2013 PHP/Iop",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -450476,7 +450333,7 @@
         "company_name": "Airbnb",
         "id": "58ab1d98-8715-4e60-af06-6f14c673f333",
         "title": "Engineering Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -450847,7 +450704,7 @@
         "company_name": "Alcami",
         "id": "44331501-d820-4cd0-a7c5-5d0e66ec76ed",
         "title": "AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -453365,7 +453222,7 @@
         "company_name": "Empower AI",
         "id": "6eb26908-472b-41d4-bef8-42e60ad9387c",
         "title": "AI/ML Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -453480,7 +453337,7 @@
         "company_name": "Parsons",
         "id": "2be6870c-a277-4a88-bdb6-f48d27d72e24",
         "title": "AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -453758,7 +453615,7 @@
         "company_name": "The Walt Disney Company",
         "id": "5ca83943-41bb-42f5-a8a1-e79c31c861ad",
         "title": "Machine Learning Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -453781,7 +453638,7 @@
         "company_name": "The Walt Disney Company",
         "id": "110e77b8-8424-4e83-8dbc-a857d684a7a1",
         "title": "Machine Learning Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -453850,7 +453707,7 @@
         "company_name": "RTX",
         "id": "4d564f8c-7a9d-4fa9-98e9-c11b1affba7b",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -454401,7 +454258,7 @@
         "company_name": "Johnson & Johnson",
         "id": "d47324b7-d641-49cc-a2ec-d45062c0f7d8",
         "title": "Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -454545,7 +454402,7 @@
         "company_name": "PlayStation",
         "id": "90f9615f-ed3e-411e-90a8-afc2d4f1c036",
         "title": "Payment Analyst \u2013 Apprenticeship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -455336,7 +455193,7 @@
         "company_name": "APEX Analytix",
         "id": "f8061283-7836-4832-afc5-5784772d0a48",
         "title": "NET Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -455659,7 +455516,7 @@
         "company_name": "Nightwing Intelligence Solutions",
         "id": "55556c00-eb17-46a0-8914-66a19318e0f3",
         "title": "Radio Frequency Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -456365,6 +456222,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cloudflare",
+        "id": "05e0144d-4638-4675-a404-a01fc305640b",
+        "title": "Global Customer Services \u2013 AI Builder Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775728989,
+        "date_posted": 1775726376,
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/7736663",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cloudflare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
