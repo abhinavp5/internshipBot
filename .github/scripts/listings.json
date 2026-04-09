@@ -50377,7 +50377,7 @@
         "company_name": "Rockwell Automation",
         "id": "85050e01-dde9-447d-b45e-5baa77a6801a",
         "title": "Co-op \u2013 Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -219881,7 +219881,7 @@
         "company_name": "Cisco",
         "id": "63762f49-2a9d-4e37-ab44-6148be49061c",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -340148,7 +340148,7 @@
         "company_name": "Unisys",
         "id": "f32b3fa0-86d1-4e9a-b547-042bc72766a7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -386932,7 +386932,7 @@
         "company_name": "Etsy",
         "id": "974db7e2-3822-4490-bd40-83e33a782853",
         "title": "Research PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389416,7 +389416,7 @@
         "company_name": " CCC Intelligent Solutions",
         "id": "9d68073a-5ae2-45fe-9c8f-ec1b5492ec6f",
         "title": "Software Engineer Intern - Payments",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -401082,7 +401082,7 @@
         "company_name": "Rockwell Automation",
         "id": "37fc632e-6336-4237-8134-acb3e3918173",
         "title": "Co-op Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -402209,7 +402209,7 @@
         "company_name": "McKesson",
         "id": "7a58474f-241c-42cf-a20a-075e80c190c5",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -438892,7 +438892,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "645a0630-afe3-4f79-94b0-d46adee09a0f",
         "title": "Biosensor Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -451244,7 +451244,7 @@
         "company_name": "Bot Auto",
         "id": "6b78598b-9686-4b1e-a553-ebd30b33fc48",
         "title": "Intern Software Engineer - Autonomous Driving Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
