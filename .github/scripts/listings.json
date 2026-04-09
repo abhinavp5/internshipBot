@@ -250503,7 +250503,7 @@
         "company_name": "Moog ",
         "id": "902b8b1a-da34-460c-b602-70fcf572731a",
         "title": "Engineering Undergraduate Internships 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -261013,7 +261013,7 @@
         "company_name": "Nokia",
         "id": "7c2ac4ba-e03b-403c-8444-8a711ed6af39",
         "title": "R&D Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -261129,7 +261129,7 @@
         "company_name": "Nokia",
         "id": "03aad435-7d35-4fbe-bf67-913a1a88bddf",
         "title": "Research and Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -307104,7 +307104,7 @@
         "company_name": "Cadence Design Systems",
         "id": "4c60848e-7b81-4b2a-8923-ccedba10f057",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -308088,7 +308088,7 @@
         "company_name": "Cadence Design Systems",
         "id": "f889f2ef-75e3-4114-8d7a-3a72695caa19",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -406089,7 +406089,7 @@
         "company_name": "Schnucks",
         "id": "b186af68-c4dc-4916-9a23-72ef818d86c9",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -426457,7 +426457,7 @@
         "company_name": "Cadence Design Systems",
         "id": "ab45ee72-f433-401d-8c78-0dd29796d60d",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -427124,7 +427124,7 @@
         "company_name": "Cadence Design Systems",
         "id": "fff2f429-e143-43e0-9c0c-a6a376a294ea",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -447354,7 +447354,7 @@
         "company_name": "Moog ",
         "id": "2900b28a-f110-4184-ad8b-f5e4af5bf155",
         "title": "Intern Test Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -456306,7 +456306,7 @@
         "company_name": "Bloom Energy",
         "id": "02109679-9dff-4178-927a-aca6b573bca1",
         "title": "Economics Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -456689,5 +456689,26 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tandem Diabetes Care",
+        "id": "3d3c84a4-42aa-4981-ba2e-f8cb88cdd251",
+        "title": "Agentic AI Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775697670,
+        "date_posted": 1775696758,
+        "url": "https://tandemdiabetes.wd12.myworkdayjobs.com/tandemdiabetes/job/California---Barnes/Agentic-AI-Analytics-Intern_JR100980-1",
+        "locations": [
+            "Del Mar, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tandem-Diabetes-Care",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
