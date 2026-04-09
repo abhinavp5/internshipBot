@@ -1,45 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GE Appliances",
-        "id": "276fca10-5c8d-4a4f-9b01-170901106898",
-        "title": "Digital Technology Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755050412,
-        "date_posted": 1754985258,
-        "url": "https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Decatur-AL/Digital-Technology-Intern_REQ-23268-1",
-        "locations": [
-            "Decatur, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Appliances",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NBCUniversal",
-        "id": "bb764a46-d2b4-494f-9c39-9021e1c09ff9",
-        "title": "Data Analytics Intern - Academic Year",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755050397,
-        "date_posted": 1754985131,
-        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000073817555",
-        "locations": [
-            "Needham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/NBCUniversal",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1757559373,
         "url": "https://jobs.ashbyhq.com/notion/3e56e35b-f35b-4b1a-ba2b-0ccdc6f60421",
         "company_name": "Notion",
@@ -282585,53 +282545,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "b18b3506-e44a-480b-9aeb-b7a747708038",
-        "title": "Java Training and Placement",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1762910378,
-        "date_posted": 1754987321,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/102308948",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "72f07201-45ea-4185-a053-da8110d93e86",
-        "title": "OBIEE/ ETL/ Java job opportunity for OPT/CPT",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1761831526,
-        "date_posted": 1754987310,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/104090307",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "dfe51c88-ebee-4cf9-8f30-b4f757a59b81",
@@ -384556,7 +384469,7 @@
         "company_name": "ASM Global",
         "id": "60bdef1d-571d-4869-88d3-ec21747a38c4",
         "title": "Hospitality and Merchandise Insights Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437502,7 +437415,7 @@
         "company_name": "PG&E",
         "id": "20d30050-f9f1-404e-aaa4-f51d7b167ac9",
         "title": "Engineering Assistant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
