@@ -1,28 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Capital One",
-        "id": "f3e90278-9a1e-48a7-aca8-0572d97968c0",
-        "title": "Former Discover Intern - Technology Development Program Associate",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1754972005,
-        "date_posted": 1754972005,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Former-Discover-Intern--Technology-Development-Program-Associate---August-2026_R221899-1",
-        "locations": [
-            "Plano, TX",
-            "McLean, VA",
-            "Richmond, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "HNTB",
         "id": "d9271d06-8ee9-41ec-8e10-3e9cae792197",
@@ -40534,7 +40512,7 @@
         "company_name": "Decagon",
         "id": "22b12d3a-66fd-4e76-9d5b-deac02ba86d6",
         "title": "Agent Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -409514,7 +409492,7 @@
         "company_name": "ICF International",
         "id": "c6210168-1efa-4263-99f7-f0ed2a3f0f51",
         "title": "Intern - Technology & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445570,7 +445548,7 @@
         "company_name": "GE Healthcare",
         "id": "1d4a8f0a-2dc3-45ae-8743-882b4adc59f4",
         "title": "AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -452878,7 +452856,7 @@
         "company_name": "Moog ",
         "id": "71c0a97c-d53c-49c4-9e1e-d4d75eea9ce4",
         "title": "Intern - Design Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453301,7 +453279,7 @@
         "company_name": "Fiserv",
         "id": "33f69b4f-f9be-4583-8dfb-9e7d7e595d1b",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
