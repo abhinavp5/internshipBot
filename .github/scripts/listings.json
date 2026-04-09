@@ -1,66 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Xylem",
-        "id": "3cfd22a3-7aac-4e87-9e19-2701bbbf0aef",
-        "title": "Data Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755050425,
-        "date_posted": 1755027666,
-        "url": "https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Mississauga/Data-Engineer-Intern_R43581",
-        "locations": [
-            "Mississauga, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Xylem",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "ccd9f420-e266-4129-8725-492d70b95d5d",
-        "title": "3D Avatar Research and Development Intern - PICO Perception",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755029021,
-        "date_posted": 1755029021,
-        "url": "https://jobs.bytedance.com/en/position/7535957617782147336/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cotiviti",
-        "id": "3d0a232d-9aa7-4e00-a5f3-9b83b0e5dc21",
-        "title": "Intern \u2013 Technology Research Assistant/Analyst",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755050451,
-        "date_posted": 1755030150,
-        "url": "https://careers-cotiviti.icims.com/jobs/16226/job",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cotiviti",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Radiant",
         "id": "85fc699f-b0bb-47b1-9967-ec53e94deac1",
@@ -7323,30 +7263,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Bristol Myers Squibb",
-        "id": "f92a6652-a828-4407-b347-cd9a73eba7b4",
-        "title": "Technology Rotational Development Program Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755029753,
-        "date_posted": 1755029753,
-        "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Technology-Rotational-Development-Program-Intern-Summer-2026_R1594265",
-        "locations": [
-            "Princeton, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Bristol-Myers-Squibb",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "MBA"
         ]
     },
     {
@@ -93910,30 +93826,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ekimetrics",
-        "id": "97964cb8-fdda-4a97-a78d-19c194e59388",
-        "title": "Internship in Strategy and Data Science - Multiple Teams",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1758376208,
-        "date_posted": 1755028539,
-        "url": "https://jobs.lever.co/ekimetrics/d8f0b664-ad5b-4111-a1dc-a8143934bf24/apply",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Ekimetrics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
             "Master's"
         ]
     },
@@ -282021,27 +281913,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Kanshe Infotech",
-        "id": "282bfc90-cc00-417a-b8ba-93ce5629f51b",
-        "title": "Generative AI Training",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1755029062,
-        "date_posted": 1755029062,
-        "url": "https://jobs.smartrecruiters.com/KansheInfotech/744000072092977",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Kanshe-Infotech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "dfe51c88-ebee-4cf9-8f30-b4f757a59b81",
         "title": "Student Researcher - Multiple Teams",
@@ -339084,7 +338955,7 @@
         "company_name": "Prolaio",
         "id": "0d47434c-eb91-4572-8f01-bd1fd48cc09b",
         "title": "Mobile Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -453735,7 +453606,7 @@
         "company_name": "SoFi",
         "id": "5d18abf8-350a-4818-ae4c-c488b835f551",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -455913,7 +455784,7 @@
         "company_name": "Trane Technologies",
         "id": "4e27b302-b661-4e1d-ac6d-1b4931f4114d",
         "title": "Analytics & Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -456210,6 +456081,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ekimetrics",
+        "id": "97964cb8-fdda-4a97-a78d-19c194e59388",
+        "title": "6 months Internship in Strategy & Data Science - New York",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1764755615,
+        "date_posted": 1764691488,
+        "url": "https://jobs.lever.co/ekimetrics/d8f0b664-ad5b-4111-a1dc-a8143934bf24/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Ekimetrics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
