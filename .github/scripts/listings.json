@@ -1,69 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Blizzard Entertainment",
-        "id": "19386311-1ca8-4bba-83eb-fcb40c8fe75b",
-        "title": "Graphics Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1755001032,
-        "date_posted": 1755001032,
-        "url": "https://activision.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Graphics-Engineering-Intern_R025849",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Blizzard-Entertainment",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Citadel Securities",
-        "id": "1a44500b-c841-4121-ad65-9ed0746573db",
-        "title": "Software Engineer \u2013 Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755595219,
-        "date_posted": 1755002960,
-        "url": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-europe/",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Citadel-Securities",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "date_updated": 1755007169,
-        "url": "https://www.databricks.com/company/careers/university-recruiting/data-science-intern-2026-start-6866538002?gh_jid=6866538002",
-        "company_name": "Databricks",
-        "title": "Data Science Intern",
-        "locations": [
-            "Mountain View, CA",
-            "San Francisco, CA"
-        ],
-        "terms": [
-            "Summer 2026",
-            "Spring 2026",
-            "Winter 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "e55c7b8e-c0cf-4693-b3ec-b426279d2557",
-        "date_posted": 1755007169,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Data Science, AI & Machine Learning"
-    },
-    {
         "date_updated": 1755007340,
         "url": "https://job-boards.greenhouse.io/motional/jobs/6670062003",
         "company_name": "Motional AD",
@@ -35456,7 +35392,7 @@
         "company_name": "CAI",
         "id": "1269277f-b0a8-43e8-8964-d1e90b88abe0",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -294544,7 +294480,7 @@
         "company_name": "Tencent",
         "id": "275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni-Modal",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -315129,7 +315065,7 @@
         "company_name": "Fidelity Investments",
         "id": "9af2b479-ce6b-4409-a89d-701644cff541",
         "title": "Intern Data Science and Optimization",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -405318,7 +405254,7 @@
         "company_name": "Schnucks",
         "id": "ca862c32-e69f-41b2-95f6-bff01432530c",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -410370,7 +410306,7 @@
         "company_name": "Magna",
         "id": "7bac57bb-c122-4094-9de3-8bc9984f259f",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -423132,7 +423068,7 @@
         "company_name": "Magna",
         "id": "c38bb5b6-0652-4f3e-b46a-130303c789ed",
         "title": "Intern Software Engineer - Integration and Test",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -424445,7 +424381,7 @@
     {
         "date_updated": 1774262037,
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "degrees": [
             "Bachelor's"
         ],
@@ -429050,7 +428986,7 @@
         "company_name": "Western Digital",
         "id": "35e75bcb-b881-40ed-8ab0-915e8611c4c0",
         "title": "Intern - Failure Analysis Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -439922,7 +439858,7 @@
         "company_name": "Primerica",
         "id": "4b7c9982-3aa3-451e-a803-105beff584cf",
         "title": "Application Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -442388,7 +442324,7 @@
         "company_name": "Nightwing Intelligence Solutions",
         "id": "0dbfef88-8c21-4091-a7fa-8adc657aab44",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -446185,7 +446121,7 @@
         "company_name": "Microsoft",
         "id": "1ca6773c-4121-4812-9507-100fc99ae9a6",
         "title": "Research Intern - AI Frontiers - Reasoning & Agentic Models",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -451449,7 +451385,7 @@
         "company_name": "DNV",
         "id": "ca56c125-7f3b-4324-b18b-5f2e4715760b",
         "title": "Software Engineer Intern - MLOps - LLM & Agent Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -452181,7 +452117,7 @@
         "company_name": "Calix",
         "id": "13747c15-1e1b-465b-8be9-10b2a22c9381",
         "title": "AI / Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453661,7 +453597,7 @@
         "company_name": "Leidos",
         "id": "cc1ee5e6-7f30-46af-b844-8ecb07e44dc0",
         "title": "Object-Oriented Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
