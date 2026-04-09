@@ -1,46 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "KBR",
-        "id": "24769184-a13a-4468-8fbe-e74dd1085b13",
-        "title": "Software/Firmware Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755050492,
-        "date_posted": 1755018344,
-        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Moffett-Field-California/Software-Firmware-Development-Intern_R2110543",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/KBR",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RESPEC",
-        "id": "acfedfcf-7ac4-41b9-928a-b9eac0724b0e",
-        "title": "Student Software Engineering Intern",
-        "active": true,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1755166259,
-        "date_posted": 1755021484,
-        "url": "https://jobs.smartrecruiters.com/RESPECInc/744000012676985",
-        "locations": [
-            "Albuquerque, NM"
-        ],
-        "company_url": "https://simplify.jobs/c/RESPEC",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Xylem",
         "id": "3cfd22a3-7aac-4e87-9e19-2701bbbf0aef",
@@ -39167,7 +39127,7 @@
         "company_name": "Seven Research",
         "id": "53251689-34f9-4e14-8fd1-42cda602bfe4",
         "title": "Quantitative Researcher \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -129597,7 +129557,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "009ac07c-a134-4bf4-afd5-aa6d0cea5bfc",
         "title": "Software Development Engineer in Test Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -221536,7 +221496,7 @@
         "company_name": "Tenstorrent",
         "id": "b654d596-e009-4b53-b6e0-26e27207ff3f",
         "title": "Software Engineer \u2013 Metal Runtime Intern/PEY - Metal Runtime",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -247421,7 +247381,7 @@
         "company_name": "Geotab",
         "id": "61f97e44-d95e-48ce-a70f-b570ffa0cb23",
         "title": "Embedded Developer Intern - Vehicle Data Development & Tooling - Summer/May 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -252584,7 +252544,7 @@
         "company_name": "Geotab",
         "id": "754b709e-1b21-4ab7-ab1f-cc3dcc25f901",
         "title": "Embedded Developer Intern - Oracle - Summer/May 2026','Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -325200,7 +325160,7 @@
         "company_name": "Veeva Systems",
         "id": "4eb51ea8-dd1b-411e-a2fe-38296f1ee412",
         "title": "Intern Software Engineer - Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -338917,7 +338877,7 @@
         "company_name": "GE Vernova",
         "id": "07e46998-8894-4a27-8ef0-f09a14ae6e09",
         "title": "Robotics \u2013 Inspection Intern - Computer Vision",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364420,7 +364380,7 @@
         "company_name": "Mentis AI",
         "id": "19911186-575d-45f6-be14-7d93db376666",
         "title": "Asset Management Professional AI Residency - Frontier AI Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389410,7 +389370,7 @@
         "company_name": "Roku",
         "id": "046d0cdb-8261-4fb0-82bc-ee061f91fce5",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -402838,7 +402798,7 @@
         "company_name": "Scout Motors",
         "id": "0d0893bc-1cc1-47fe-9115-a7673f32bc01",
         "title": "Intern \u2013 Brand & Strategy - Product Marketing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -405635,7 +405595,7 @@
         "company_name": "Healthfirst",
         "id": "0f4e3b78-c374-4405-9084-cf9f6f138ebc",
         "title": "Application Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -406953,7 +406913,7 @@
         "company_name": "NXP Semiconductors",
         "id": "ee07551d-5fed-493f-9ef6-a2e344c7f8bf",
         "title": "Product Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -422209,7 +422169,7 @@
         "company_name": "SharkNinja",
         "id": "6722dd58-8645-41d0-a69d-5817c382e9a3",
         "title": "App Product Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -424639,7 +424599,7 @@
         "company_name": "Dmg Media",
         "id": "7fcc9910-e01f-4556-81a7-460fcc0c85ed",
         "title": "AI Engineer Intern - Innovation Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -433529,7 +433489,7 @@
         "company_name": "Boston Medical Center",
         "id": "e241c4ef-b96a-4637-83ba-819edf108e4e",
         "title": "Data Science Intern - Hematology/Oncology Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -451055,7 +451015,7 @@
         "company_name": "Leidos",
         "id": "8924b42b-aa63-4ee4-a0bd-440108656848",
         "title": "External Technology Engineering Intern - External Technology Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -454424,7 +454384,7 @@
         "company_name": "Altera Corporation",
         "id": "b056623e-9940-4a94-a393-666bb28be180",
         "title": "FPGA Tools Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -455838,7 +455798,7 @@
         "company_name": "Booz Allen",
         "id": "fd824818-bd9d-4166-8d13-84e74e90e32f",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
