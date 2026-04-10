@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nokia",
-        "id": "ff58d3ad-8682-4ba8-9364-8d427ce7df7b",
-        "title": "Firmware Engineering Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1755071002,
-        "date_posted": 1755071002,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22974",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Tower Research Capital",
         "id": "e7e30283-df3c-4082-b2b8-84380b809798",
@@ -6739,52 +6718,6 @@
             "Redmond, WA"
         ],
         "company_url": "https://simplify.jobs/c/Meta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "BGE",
-        "id": "7eae5b2b-0a10-4a17-8379-1b0cdf3cde52",
-        "title": "Katy \u2013 Internship - IT Solutions",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755069848,
-        "date_posted": 1755069848,
-        "url": "https://job-boards.greenhouse.io/bgeinc/jobs/4821354008",
-        "locations": [
-            "Katy, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/BGE",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "0a90cc5a-fb4b-4372-8b29-7882203bb4e1",
-        "title": "Researcher Intern - Vision and Graphics - PhD",
-        "active": true,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1755070658,
-        "date_posted": 1755070658,
-        "url": "https://jobs.bytedance.com/en/position/7528196025854380306/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
