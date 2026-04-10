@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": " CCC Intelligent Solutions",
-        "id": "1d03240a-7916-421b-b354-cd16f85f6ed5",
-        "title": "AI Enablement Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755166371,
-        "date_posted": 1755113501,
-        "url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/AI-Enablement-Intern_0014102",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/CCC-Intelligent-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Citadel",
         "id": "1ea0ca0e-e61d-4b8d-92fd-4a97c6ba9d82",
@@ -6631,32 +6611,6 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Meta",
-        "id": "63c2dba9-dfdb-4cbe-b33a-74cb419ed766",
-        "title": "Research Scientist Intern - Computational Optics & Optimization - PhD",
-        "active": false,
-        "terms": [
-            "Winter 2025",
-            "Spring 2025",
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1755517008,
-        "date_posted": 1755113550,
-        "url": "https://www.metacareers.com/jobs/1771169327119860",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Meta",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -234476,7 +234430,7 @@
         "company_name": "Cisco",
         "id": "e2b71342-2453-4de6-841e-ee386d51d726",
         "title": "Software Engineer Embedded/Network Systems 1 - Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -354932,7 +354886,7 @@
         "company_name": "HARMAN International",
         "id": "5e2f2fac-2b21-412a-93f3-701758b241fb",
         "title": "Summer Intern - Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -411132,7 +411086,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "fb2f2efb-9947-4817-9c95-55b9f9a7a0a0",
         "title": "Software Engineer Intern - Cloud Services - HP IQ",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -450262,7 +450216,7 @@
         "company_name": "Mass General Brigham",
         "id": "3ee4259e-a12c-4e74-ac34-cbb2097539b1",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
