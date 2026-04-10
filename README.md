@@ -1313,7 +1313,7 @@
 <td>Mobile Telecom Applications Intern</td>
 <td>Seattle, WA</td>
 <td><div align="center"><a href="https://tnsi.wd1.myworkdayjobs.com/Search/job/USA---Seattle/Mobile-Telecom-Applications-Intern_R2851?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3de7ddd4-4951-42b8-97de-864d68e72fb9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Arcesium?utm_source=GHList&utm_medium=company">Arcesium</a></strong></td>
@@ -1719,7 +1719,7 @@
 <td>Software Engineer Intern</td>
 <td>Eagan, MN</td>
 <td><div align="center"><a href="https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Software-Engineer-Intern_JREQ199322?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/830cb4ae-23a6-42a2-81d9-3c2124d958ed?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>22d</td>
+<td>23d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Judi-Health?utm_source=GHList&utm_medium=company">Judi Health</a></strong></td>
@@ -1915,28 +1915,28 @@
 <td>Cryptography Intern</td>
 <td>Bristol, UK</td>
 <td><div align="center"><a href="https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Bristol-Bristol-City-of-United-Kingdom/Cryptography-Intern_UNI3783-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bec5b67e-72e7-4d19-996b-860ea1746778?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer Intern - Cloud Services - HP IQ 🎓</td>
 <td>SF</td>
 <td><div align="center"><a href="https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineer-Intern--Cloud-Services---HP-IQ_3160773-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/fb2f2efb-9947-4817-9c95-55b9f9a7a0a0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Starz?utm_source=GHList&utm_medium=company">Starz</a></strong></td>
 <td>Starz Intern - Software Developer</td>
 <td>Remote in USA</td>
 <td><div align="center"><a href="https://starz.wd5.myworkdayjobs.com/Starz/job/US-Remote/STARZ-Intern--Software-Development_JR100319?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f67b677f-7145-4c44-a198-40105d0b81e4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Starz Intern - Software Development-Streaming Video</td>
 <td>Remote in USA</td>
 <td><div align="center"><a href="https://starz.wd5.myworkdayjobs.com/Starz/job/US-Remote/STARZ-Intern--Software-Development-Streaming-Video_JR100333?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f2559d55-5ec3-417b-a6b5-eb63cab66a7b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sprinklr?utm_source=GHList&utm_medium=company">Sprinklr</a></strong></td>
@@ -5705,7 +5705,7 @@
 <td>Tech & Data Intern</td>
 <td>Leicester, UK</td>
 <td><div align="center"><a href="https://theaccessgroup.wd103.myworkdayjobs.com/Access_Group_External_Careers/job/Loughborough-Headquarters/Tech---Data-Summer-Intern_JR003341-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/237d2976-7eca-4598-bbb1-64b5af986916?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Commonwealth-Of-Massachusetts?utm_source=GHList&utm_medium=company">Commonwealth of Massachusetts</a></strong></td>
@@ -6445,14 +6445,14 @@
 <td>Starz Intern - Content Insights</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://starz.wd5.myworkdayjobs.com/Starz/job/New-York-NY/STARZ-Intern--Content-Insights_JR100336?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f1f4963b-bdbe-4d7d-8189-3ea0014cd978?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Starz Intern - Data Products & Engineering</td>
 <td>Remote in USA</td>
 <td><div align="center"><a href="https://starz.wd5.myworkdayjobs.com/Starz/job/US-Remote/STARZ-Intern--Data-Products---Engineering_JR100318?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c92e5011-0bea-4189-96e4-498f5bb18211?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/88a12762-7571-4b02-ab44-d4b76f06a26a?utm_source=GHList&utm_medium=company">First Quality</a></strong></td>
@@ -6606,7 +6606,7 @@
 <td>Intern – AI for Global Clinical and Medical Affairs 🎓</td>
 <td>Andover, MA</td>
 <td><div align="center"><a href="https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern--AI-for-Global-Clinical-and-Medical-Affairs_R87647?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4c7ebfb9-f755-40cc-a2c9-be8b33bd7cec?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
@@ -9718,14 +9718,14 @@
 <td>Software Engineering Intern - HP IQ</td>
 <td>SF</td>
 <td><div align="center"><a href="https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences---HP-IQ_3160497-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/75573ad8-3596-44a9-b8b0-4cb038c496e5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Browser Software Engineer Intern</td>
 <td>Cambridge, UK</td>
 <td><div align="center"><a href="https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Cambridge-Cambridgeshire-United-Kingdom/Browser-Software-Engineer-Intern_3160410-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/68e0f4f7-a759-4ad0-b621-9e31a714f39f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/GE-Vernova?utm_source=GHList&utm_medium=company">GE Vernova</a></strong></td>
@@ -9963,7 +9963,7 @@
 <td>Software Programmer Intern</td>
 <td>Detroit, MI</td>
 <td><div align="center"><a href="https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MI-Detroit/Software-Programmer-Intern_R0156070?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/7b46dfd9-ac35-43d9-8122-0f857f8e4f79?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>30d</td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Trackonomy?utm_source=GHList&utm_medium=company">Trackonomy</a></strong></td>
