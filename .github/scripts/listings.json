@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Tower Research Capital",
-        "id": "e7e30283-df3c-4082-b2b8-84380b809798",
-        "title": "Stagiaire en d\u00e9veloppement de logiciels \u2013 / Software Developer Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755107034,
-        "date_posted": 1755107034,
-        "url": "https://www.tower-research.com/open-positions/?gh_jid=6653745",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": " CCC Intelligent Solutions",
         "id": "1d03240a-7916-421b-b354-cd16f85f6ed5",
@@ -38456,7 +38436,7 @@
         "company_name": "Seven Research",
         "id": "bd7fc029-b360-4fd7-995a-82be679b5e8d",
         "title": "Algorithmic Developer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -50040,7 +50020,7 @@
         "company_name": "Parsons",
         "id": "ad280531-5ecc-4640-8f18-e3afb6a8533e",
         "title": "Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -72755,7 +72735,7 @@
         "company_name": "Rockwell Automation",
         "id": "fa47f32e-2252-4be0-a856-17a674d74c62",
         "title": "Intern \u2013 Innovation Platform Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -306895,7 +306875,7 @@
         "company_name": "KLA",
         "id": "c25c0ca0-1e70-4a9e-b029-88d22e97ceaf",
         "title": "Full Stack Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -317673,7 +317653,7 @@
         "company_name": "Graco",
         "id": "e9960664-f45c-4989-b382-d44e3fcefe23",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -355621,7 +355601,7 @@
         "company_name": "Alo Yoga",
         "id": "d708447c-e146-4c6f-8719-ccfa25587818",
         "title": "BI Reporting & Visualization Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -359995,7 +359975,7 @@
         "company_name": "Tatari",
         "id": "50135f1a-9498-4765-9372-41b2bc4d28e1",
         "title": "Data Science Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -360134,7 +360114,7 @@
         "company_name": "Tatari",
         "id": "2fe32561-8f69-4ff7-8abf-30f20aed122a",
         "title": "Data Science Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -360157,7 +360137,7 @@
         "company_name": "Tatari",
         "id": "1fbd80ac-f4b8-4bee-9dd8-7ff445fc9148",
         "title": "Data Science Analyst \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -411405,7 +411385,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "75573ad8-3596-44a9-b8b0-4cb038c496e5",
         "title": "Software Engineering Intern - HP IQ",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -432147,7 +432127,7 @@
         "company_name": "Centific",
         "id": "9ac10260-5a38-4306-a14f-6233a9f24656",
         "title": "Research Intern - Applied Reinforcement Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -436196,7 +436176,7 @@
         "company_name": "Salesforce",
         "id": "1260864e-1ee3-4b7b-b53c-5eb48e66ca86",
         "title": "Scholar - Futureforce Tech Launchpad",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -440703,7 +440683,7 @@
         "company_name": "State Street",
         "id": "8b37d536-42f6-4d16-b47b-e250182e3793",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -440791,7 +440771,7 @@
         "company_name": "State Street",
         "id": "39616439-f1d8-426e-b63b-f1f51d96b2bc",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -454090,7 +454070,7 @@
         "company_name": "Intel",
         "id": "98aec3ab-3b3a-4c4d-bdc1-71de5ed9d79a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -456640,7 +456620,7 @@
         "company_name": "Booz Allen",
         "id": "3f6c770b-2275-4830-b752-52fd14579f8e",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -457712,6 +457692,31 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tower Research Capital",
+        "id": "e7e30283-df3c-4082-b2b8-84380b809798",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765446584,
+        "date_posted": 1761878281,
+        "url": "https://www.tower-research.com/open-positions/?gh_jid=6653745",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
