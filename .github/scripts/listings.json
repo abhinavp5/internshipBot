@@ -180154,7 +180154,7 @@
         "company_name": "CIBC",
         "id": "9fa12f71-5e6c-4d4d-b67c-7082ebfb45c3",
         "title": "Summer Intern - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -206410,7 +206410,7 @@
         "company_name": "Cisco",
         "id": "4dae6ba7-9a7b-4938-b50e-1fed56ecd99e",
         "title": "ASIC Design Verification Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -265126,7 +265126,7 @@
         "company_name": "Red Hat",
         "id": "eff28cc3-7ade-4574-b78e-11e814c08e83",
         "title": "Machine Learning Systems Research Intern - PhD - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -406419,7 +406419,7 @@
         "company_name": "BeOne",
         "id": "e8c852af-5074-4a34-a258-1771fad8d041",
         "title": "Business Intelligence and Reporting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -430565,7 +430565,7 @@
         "company_name": "CIBC",
         "id": "a6711ccf-ecad-4e69-81e6-72f79c6e02cf",
         "title": "Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -432029,7 +432029,7 @@
         "company_name": "Amentum",
         "id": "0b809852-efeb-44c7-accd-cd14a68b9435",
         "title": "Intern Atmospheric Data Quality",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -432280,7 +432280,7 @@
         "company_name": "AXS",
         "id": "bd2d9395-a6c1-4993-9c65-0c8aafaec2f7",
         "title": "Intern - Product Management - AXS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -436767,7 +436767,7 @@
         "company_name": "State Street",
         "id": "7a65aa84-c8c2-4215-8306-b65f46bfc303",
         "title": "State Street Audit Team - Integrated Audit Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437071,7 +437071,7 @@
         "company_name": "State Street",
         "id": "aac98a1a-b36f-47c2-b379-95f862c78c72",
         "title": "State Street Audit Team - Data Analytics Program Support Specialist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -456547,7 +456547,7 @@
         "company_name": "Intel",
         "id": "7fe0b03f-b129-4c49-81f6-74d472f69ccc",
         "title": "Physical Design Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -457481,6 +457481,54 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Workato",
+        "id": "9192d236-f16d-4cf9-8ba9-11e6e202a763",
+        "title": "Intern AI Engineering",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2027"
+        ],
+        "date_updated": 1775802944,
+        "date_posted": 1775802076,
+        "url": "https://job-boards.greenhouse.io/workato/jobs/8492935002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Workato",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "d6bac751-7058-4ed0-98bf-bebbffe2e038",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775802912,
+        "date_posted": 1775800971,
+        "url": "https://careers-gdms.icims.com/jobs/71986/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
