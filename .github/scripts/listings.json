@@ -21,47 +21,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Citadel",
-        "id": "78885859-7ae3-42cc-a2db-f5d8aff6bfc7",
-        "title": "Investment & Trading \u2013 Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755166226,
-        "date_posted": 1755113465,
-        "url": "https://www.citadel.com/careers/details/investment-trading-intern-europe/",
-        "locations": [
-            "London, UK",
-            "Paris, France"
-        ],
-        "company_url": "https://simplify.jobs/c/Citadel",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Trade Desk",
-        "id": "dec4fd9e-09b9-487f-9890-d5445f7be779",
-        "title": "2026 Data Science Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755166238,
-        "date_posted": 1755112908,
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4793185007",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Citadel",
         "id": "1ea0ca0e-e61d-4b8d-92fd-4a97c6ba9d82",
@@ -187308,7 +187267,7 @@
         "company_name": "Lightmatter",
         "id": "a491e0cb-aa12-4524-8d2a-7f11a0e1c2f9",
         "title": "Machine Learning Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -219904,7 +219863,7 @@
         "company_name": "PTC",
         "id": "a1750e2f-6fcd-4ace-88a0-e649c5e1e57d",
         "title": "Servicemax Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -224691,7 +224650,7 @@
         "company_name": "Cisco",
         "id": "7462efbc-f039-4632-a600-7230c301607d",
         "title": "Software Engineer Full Stack & Application Development 1 \u2013 Intern - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -249303,7 +249262,7 @@
         "company_name": "Motional",
         "id": "aa2f05e7-38f2-4372-b732-ae42030fe60c",
         "title": "Intern - Master of Science/Doctor of Philosophy - Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -267316,7 +267275,7 @@
         "company_name": "StepStone Group",
         "id": "561590d3-7c62-4b35-a7c3-8c3116377508",
         "title": "AI Initiatives PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -285198,7 +285157,7 @@
         "company_name": "Michael Baker International",
         "id": "072daa2a-d4a2-4fc7-8a02-aeb0bb65898b",
         "title": "GIS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -296600,7 +296559,7 @@
         "company_name": "Rocket Companies",
         "id": "5a1768e9-2a3e-4d9f-a7be-a87d458d41be",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -304810,7 +304769,7 @@
         "company_name": "KLA",
         "id": "d56a26a8-0995-4d18-a766-a72b6e4598b5",
         "title": "Full Stack Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -314648,7 +314607,7 @@
         "company_name": "Cisco",
         "id": "d2dcfe14-a4bb-40cf-b495-040de5de1c91",
         "title": "Software Engineer 1 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -400560,7 +400519,7 @@
         "company_name": "Rockwell Automation",
         "id": "51fb9701-1b5e-44a1-8ef5-90abe6dcb804",
         "title": "Intern \u2013 Innovation Platform Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -403149,7 +403108,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "ba837d82-cce0-48fc-8602-8c2c0cbb94d3",
         "title": "Software Engineer Intern - Cloud Services - HP IQ",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -418216,7 +418175,7 @@
         "company_name": "Loblaw Companies",
         "id": "0bd8210a-8366-4d61-baf7-50c71902cabc",
         "title": "Replenishment Optimization Data & Analytics Co-op Student",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -428662,7 +428621,7 @@
         "company_name": "Hitachi Energy",
         "id": "b01dff5b-67bf-4521-a819-7f93f45ef6c1",
         "title": "Software Engineer Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -435872,7 +435831,7 @@
         "company_name": "Salesforce",
         "id": "63e0c1db-4c86-4f11-a46e-464cdbc34e7a",
         "title": "Scholar - Futureforce Tech Launchpad",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -452464,7 +452423,7 @@
         "company_name": "YMCA of Metropolitan Atlanta",
         "id": "1dd6db34-b39c-4e4a-8981-35453fd003b6",
         "title": "Analytics Intern - HR & Finance",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453952,7 +453911,7 @@
         "company_name": "Cambridge Mobile Telematics",
         "id": "8217d7cf-6148-47c5-86cf-69160dbbb714",
         "title": "Customer Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
