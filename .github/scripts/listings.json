@@ -6522,82 +6522,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Capital One",
-        "id": "6c8ee6ed-a86a-41d4-9681-3e49eb43810b",
-        "title": "Current PhD \u2013 Applied Research Internship Program",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756118554,
-        "date_posted": 1755121600,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--Applied-Research-Internship-Program---Summer-2026_R218606-1",
-        "locations": [
-            "Cambridge, MA",
-            "San Jose, CA",
-            "McLean, VA",
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Capital One",
-        "id": "e996ece3-bf1c-47c0-a2d2-ebfc763b61a3",
-        "title": "Former Discover Intern - Product Development Program Associate",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755121588,
-        "date_posted": 1755121588,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Former-Discover-Intern--Product-Development-Program-Associate---2026_R221886-1",
-        "locations": [
-            "Plano, TX",
-            "McLean, VA",
-            "Richmond, VA",
-            "Chicago, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "f1526646-4e0f-4501-b158-b8d7eb77bf4e",
-        "title": "Software Engineer Intern - Applied Machine Learning-Enterprise",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755629168,
-        "date_posted": 1755120671,
-        "url": "https://jobs.bytedance.com/en/position/7533045355162044690/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
         "date_updated": 1755638663,
         "url": "https://job-boards.greenhouse.io/figma/jobs/5602159004?gh_jid=5602159004",
         "company_name": "Figma",
@@ -152158,7 +152082,7 @@
         "company_name": "S&P Global ",
         "id": "510d652a-ece4-46d0-8578-dbe9ab9538cf",
         "title": "Product Specialist Intern - ETF & Benchmark Solutions - Early Careers",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -281157,27 +281081,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Kanshe Infotech",
-        "id": "f5a03c31-c505-40e3-941e-d930656ab40e",
-        "title": "Data Science Training",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1755122028,
-        "date_posted": 1755122028,
-        "url": "https://jobs.smartrecruiters.com/KansheInfotech/744000066239385",
-        "locations": [
-            "Lexington, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/Kanshe-Infotech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "dfe51c88-ebee-4cf9-8f30-b4f757a59b81",
         "title": "Student Researcher - Multiple Teams",
@@ -285511,7 +285414,7 @@
         "company_name": "Nuro",
         "id": "18a624bc-e62c-4d76-aaf6-65e370ec28bc",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -328420,7 +328323,7 @@
         "company_name": "Microsoft",
         "id": "13315c7e-4bad-41ff-b68b-3882d6cb7904",
         "title": "Research Intern - Natural Language Processing for Healthcare",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -386282,7 +386185,7 @@
         "company_name": "Tidal Financial Group",
         "id": "28980bb2-8297-4ddd-aaf3-bee2a69fd238",
         "title": "Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -416879,7 +416782,7 @@
         "company_name": "Eversource Energy",
         "id": "cf2451f5-3325-4c03-beb9-f8bd7d9fd540",
         "title": "Engineering Intern: Asset Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443423,7 +443326,7 @@
         "company_name": "L3Harris Technologies",
         "id": "b2889c0c-89b8-47c8-8118-6387e39aebe3",
         "title": "Embedded Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -448694,7 +448597,7 @@
         "company_name": "Mass General Brigham",
         "id": "32b4d461-0d52-4afe-bbb7-3eaa3d62c25a",
         "title": "Data Science Research Intern - Dept. of Newborn Medicine",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453427,7 +453330,7 @@
         "company_name": "Pendar Technologies",
         "id": "11fd3cf1-3d8b-4ead-aaed-afd071a5fbcf",
         "title": "Intern/Co-op Software Engineer for Photonic Process Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
