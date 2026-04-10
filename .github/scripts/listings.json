@@ -2,28 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Draper",
-        "id": "6e0b3522-9bfc-4f8e-87a3-dee67de1655d",
-        "title": "Optics-Physics Sensor Engineering Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1755062498,
-        "date_posted": 1755062498,
-        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Co-op_JR001535",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Draper",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Nokia",
         "id": "ff58d3ad-8682-4ba8-9364-8d427ce7df7b",
         "title": "Firmware Engineering Co-op/Intern",
@@ -6811,83 +6789,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Capital One",
-        "id": "712139b2-cfd7-4510-a04f-ad0a45f6def6",
-        "title": "Current PhD \u2013 Data Science Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756118508,
-        "date_posted": 1755062545,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-PhD---Data-Science-Internship---Summer-2026_R218625-1",
-        "locations": [
-            "Cambridge, MA",
-            "San Francisco, CA",
-            "San Jose, CA",
-            "Plano, TX",
-            "McLean, VA",
-            "Richmond, VA",
-            "Chicago, IL",
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Salesforce",
-        "id": "323995e6-d6bf-4bbf-9b1c-8537815f436e",
-        "title": "Summer 2026 Intern - Product Growth",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756118881,
-        "date_posted": 1755062464,
-        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Summer-2026-Intern---Product-Growth_JR307642-1",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Salesforce",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "HD Supply",
-        "id": "f3205736-6f35-46d6-bb02-f17647ebb2a6",
-        "title": "Summer 2026 Intern - Information Technology",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755062229,
-        "date_posted": 1755062229,
-        "url": "https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Summer-2026-Intern---Information-Technology_R25003763",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/HD-Supply",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -264591,7 +264492,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "084ac518-11fc-44ef-b897-ca2b1ba08407",
         "title": "Computational Materials Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -292130,7 +292031,7 @@
         "company_name": "General Motors",
         "id": "1c85f503-11a5-432a-bcf1-090083e9b0d9",
         "title": "Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -322764,7 +322665,7 @@
         "company_name": "Vanderlande Industries",
         "id": "e15bf92d-c163-4369-91e6-c1fdc802b7e4",
         "title": "Controls Support Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -401873,7 +401774,7 @@
         "company_name": "Fiserv",
         "id": "a6c670d3-9e8d-4382-974c-1194ae13e9ea",
         "title": "Technology \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -431767,7 +431668,7 @@
         "company_name": "AEG",
         "id": "adac0a95-7a5b-48c6-8ab8-aae345d20768",
         "title": "Intern - Product Management - AXS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -438321,29 +438222,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "f4e48d96-7488-40c3-9854-9f56d12b5d4d",
-        "title": "DevOps Java WebLogic Training and Placement",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1774950256,
-        "date_posted": 1755062388,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/112610441",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -449628,7 +449506,7 @@
         "company_name": "T-Mobile",
         "id": "a67c76ba-ef31-4aca-a16a-6fbe6e729fcf",
         "title": "Strategic Workforce Planning & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -449769,7 +449647,7 @@
         "company_name": "Bank of Montreal",
         "id": "0e9ec2c8-0931-432d-a602-784f319e01d8",
         "title": "Commercial Operations & Delivery Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -452886,7 +452764,7 @@
         "company_name": "RTX",
         "id": "4d564f8c-7a9d-4fa9-98e9-c11b1affba7b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -456311,7 +456189,7 @@
         "company_name": "Fiserv",
         "id": "cbe986fd-32b4-4255-8849-1b595d798b76",
         "title": "Application Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -456428,7 +456306,7 @@
         "company_name": "CVS Health",
         "id": "4c5398d9-de17-4823-9ff9-f31b2d6ae9b3",
         "title": "Data Science Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -456900,7 +456778,7 @@
         "company_name": "Maersk",
         "id": "fc7fb0ee-744a-47a6-8068-a22b49d58ee4",
         "title": "Insights and Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -457041,7 +456919,7 @@
         "company_name": "Athena Health",
         "id": "ae4a7e9b-35eb-4e24-8880-632bcba4dc6a",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
