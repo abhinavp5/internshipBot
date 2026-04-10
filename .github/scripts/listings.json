@@ -445129,7 +445129,7 @@
         "company_name": "Marathon Fusion",
         "id": "84664a1e-f4f3-4084-a0ae-e34ca1f5e6a8",
         "title": "Experiment Controls Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445576,7 +445576,7 @@
         "company_name": "Microsoft",
         "id": "4590da8c-866b-4a49-b418-33f140d82933",
         "title": "Research Intern - Inference Economics and Human Agency",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -451898,7 +451898,7 @@
         "company_name": "Mackenzie Investments",
         "id": "87774f4b-fa0a-4e18-a66c-3f978225409d",
         "title": "Intern Investment Management-MAS",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Winter 2026"
@@ -452605,7 +452605,7 @@
         "company_name": "The Walt Disney Company",
         "id": "5ca83943-41bb-42f5-a8a1-e79c31c861ad",
         "title": "Machine Learning Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -452628,7 +452628,7 @@
         "company_name": "The Walt Disney Company",
         "id": "110e77b8-8424-4e83-8dbc-a857d684a7a1",
         "title": "Machine Learning Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -452651,7 +452651,7 @@
         "company_name": "Leidos",
         "id": "cc1ee5e6-7f30-46af-b844-8ecb07e44dc0",
         "title": "Object-Oriented Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -453248,7 +453248,7 @@
         "company_name": "Johnson & Johnson",
         "id": "d47324b7-d641-49cc-a2ec-d45062c0f7d8",
         "title": "Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -454090,7 +454090,7 @@
         "company_name": "Intel",
         "id": "98aec3ab-3b3a-4c4d-bdc1-71de5ed9d79a",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -454183,7 +454183,7 @@
         "company_name": "APEX Analytix",
         "id": "f8061283-7836-4832-afc5-5784772d0a48",
         "title": "NET Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -455314,7 +455314,7 @@
         "company_name": "Concept Plus",
         "id": "3d769e29-eb7f-4837-b610-30202d50bb80",
         "title": "AI Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -455503,7 +455503,7 @@
         "company_name": "Cadence Design Systems",
         "id": "ca2f8795-1a8b-4c23-bb64-8bee9efa92d1",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -455732,7 +455732,7 @@
         "company_name": "Cadence Design Systems",
         "id": "6d509452-87e1-4cc9-b7f2-51bbc97a53ab",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -455799,7 +455799,7 @@
         "company_name": "Layer Health",
         "id": "20a07b51-c992-4140-9487-01cbf0e66fef",
         "title": "Data/Analytics Engineering Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -456097,7 +456097,7 @@
         "company_name": "BeOne",
         "id": "20735ac4-fbb9-4238-ae59-2068f5967ccb",
         "title": "Data Infrastructure Validation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -456311,7 +456311,7 @@
         "company_name": "Toshiba Global Commerce",
         "id": "2eecbbe5-be6c-48e5-874c-42850c183a88",
         "title": "Agentic Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -456735,7 +456735,7 @@
         "company_name": "Cypress Creek Renewables",
         "id": "bfd60e8f-ca28-4657-a8bd-a54571f61a04",
         "title": "AI Automation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -457528,6 +457528,27 @@
             "Letchworth Garden City, UK"
         ],
         "company_url": "https://simplify.jobs/c/Pearson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NOV",
+        "id": "10dcbc02-0cdb-4de8-9af9-66df2c03fca0",
+        "title": "Electrical Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775814849,
+        "date_posted": 1775686066,
+        "url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/40521",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/NOV",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
