@@ -38433,7 +38433,7 @@
         "company_name": "Seven Research",
         "id": "e1fc4e73-902b-46f8-a226-2051c83aaee7",
         "title": "Deep Learning Researcher \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -61113,7 +61113,7 @@
         "company_name": "Avis Budget Group",
         "id": "d4e99e58-257c-436c-b6f2-c3be0109fd49",
         "title": "Accelerate Transformation Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -128272,7 +128272,7 @@
         "company_name": "General Motors",
         "id": "6c43b7e6-b33c-491e-bcd0-f6a363450901",
         "title": "Co-Op - Software Developer - Virtualization and SIL Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -221707,7 +221707,7 @@
         "company_name": "Tencent",
         "id": "2962898c-fae7-45cf-9285-736c2c1b01bc",
         "title": "Data Product Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -236448,7 +236448,7 @@
         "company_name": "General Motors",
         "id": "5803f9bc-8ae8-4932-a0d2-dcf7112dae7a",
         "title": "Intern \u2013 AI/ML Software Engineering Intern - Simulation Core",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -244850,7 +244850,7 @@
         "company_name": "Xometry",
         "id": "15135fd4-c189-452d-85b3-c47d9910f030",
         "title": "Product Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -249367,7 +249367,7 @@
         "company_name": "Motional",
         "id": "0c1a9ae1-0575-4e87-8cf4-3de0612a5c2b",
         "title": "Intern - MS/PhD - Behaviors",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -257036,7 +257036,7 @@
         "company_name": "Cell Signaling Technology",
         "id": "3322e033-ef25-4248-b020-c4dc975fd614",
         "title": "Automation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -280150,7 +280150,7 @@
         "company_name": "PennState University",
         "id": "2753bbb8-8695-46ca-9ab3-062953b9c0c0",
         "title": "Part-Time Research Assistants-Statistics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -338209,7 +338209,7 @@
         "company_name": "Samsung",
         "id": "0f38aeb7-e4c4-4265-9612-11f188cdc8a5",
         "title": "Data Analytics Intern - Retail Performance",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -384442,7 +384442,7 @@
         "company_name": "LSEG",
         "id": "d58da08d-daf6-4012-ad6f-0075665e6562",
         "title": "Degree Apprenticeship - Engineering - Nottingham Office",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -392917,9 +392917,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1772814901,
+        "date_updated": 1775834862,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -396091,7 +396091,7 @@
         "company_name": "Expedia Group",
         "id": "dd7d72ef-f16d-48b3-a01e-b83c73c840ab",
         "title": "MBA Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -408494,7 +408494,7 @@
         "company_name": "Mentis AI",
         "id": "db48219d-7ae9-4353-8796-e999177780c8",
         "title": "Private Equity & Growth Equity \u2013 AI Residency - Frontier AI Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -416513,9 +416513,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773845725,
+        "date_updated": 1775834862,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -418236,7 +418236,7 @@
         "company_name": "Loblaw Companies",
         "id": "0bd8210a-8366-4d61-baf7-50c71902cabc",
         "title": "Replenishment Optimization Data & Analytics Co-op Student",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -419027,9 +419027,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773909378,
+        "date_updated": 1775834862,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -421705,7 +421705,7 @@
         "company_name": "Impiricus",
         "id": "a51651ef-323e-4a64-afea-c7ab40c14f60",
         "title": "Software Engineer Intern - Full Stack",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -422218,7 +422218,7 @@
         "company_name": "Impiricus",
         "id": "b4ea56db-dcfd-4479-8dde-abdf95b8431d",
         "title": "Intern Data Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -423296,9 +423296,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1774257593,
+        "date_updated": 1775834862,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -423482,7 +423482,7 @@
     {
         "date_updated": 1774262037,
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "degrees": [
             "Bachelor's"
         ],
@@ -433237,7 +433237,7 @@
         "company_name": "SonoThera",
         "id": "73449e5e-97ad-4481-8313-ecb472548b5c",
         "title": "Nucleic Acid Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -435379,7 +435379,7 @@
         "company_name": "Tencent",
         "id": "af95d6fa-a950-44de-8595-03fd5064f90b",
         "title": "Product Manager Intern - Influencer Marketing",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -435589,7 +435589,7 @@
         "company_name": "Tencent",
         "id": "72bd8a68-5540-439b-b77b-724e6c606226",
         "title": "Product Manager Intern - Influencer Marketing",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -437591,9 +437591,9 @@
         "degrees": []
     },
     {
-        "date_updated": 1774935842,
+        "date_updated": 1775834862,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -437683,9 +437683,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1774936363,
+        "date_updated": 1775834862,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -439207,7 +439207,7 @@
         "company_name": "Hootsuite",
         "id": "39539b3a-31e3-4cc3-985f-a7c77134c2e2",
         "title": "Co-op/Intern - Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -448718,9 +448718,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1775480146,
+        "date_updated": 1775834862,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -452508,7 +452508,7 @@
         "company_name": "CME Group",
         "id": "56ae60a3-da6b-407b-a4bc-e550bb8393c9",
         "title": "Quant Risk Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -455799,7 +455799,7 @@
         "company_name": "Layer Health",
         "id": "20a07b51-c992-4140-9487-01cbf0e66fef",
         "title": "Data/Analytics Engineering Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -456239,7 +456239,7 @@
         "company_name": "CVS Health",
         "id": "4c5398d9-de17-4823-9ff9-f31b2d6ae9b3",
         "title": "Data Science Graduate Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -456311,7 +456311,7 @@
         "company_name": "Toshiba Global Commerce",
         "id": "2eecbbe5-be6c-48e5-874c-42850c183a88",
         "title": "Agentic Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -457575,6 +457575,143 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Octopus Energy",
+        "id": "a02605a9-5690-46b4-a310-79bfa8d9cdf4",
+        "title": "Octopus In Colour Intern - Flexibility - Data",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775831945,
+        "date_posted": 1775830292,
+        "url": "https://jobs.lever.co/octoenergy/15798f86-55b1-4d45-b543-0aab77950756/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Octopus-energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Tencent",
+        "id": "b8d8e6f4-168d-4714-ac46-4356d22ef0a3",
+        "title": "Data Product Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775831409,
+        "date_posted": 1775830202,
+        "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/Data-Product-Intern_R106486-2",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cummins",
+        "id": "a931a581-749c-46b2-9290-036d3b52589f",
+        "title": "School to Work - Sales Process Optimization",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775831894,
+        "date_posted": 1775829909,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2427994",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vertiv",
+        "id": "8b791e4a-4f7f-4bbf-a711-3f4efb7116bf",
+        "title": "Intern-Test Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775831409,
+        "date_posted": 1775830208,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20266963",
+        "locations": [
+            "Delaware",
+            "Ohio"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vertiv",
+        "id": "67f6bb70-c86c-4564-b004-ae28c5b84c0a",
+        "title": "Intern-Test Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775831409,
+        "date_posted": 1775830208,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20266962",
+        "locations": [
+            "Delaware",
+            "Ohio"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Flagship Pioneering",
+        "id": "b449c672-d40b-4f35-bb45-518f70b51d69",
+        "title": "Digital Tools & AI Builder CMC Techops Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775831864,
+        "date_posted": 1775830010,
+        "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8499501002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/FlagshipPioneering",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
