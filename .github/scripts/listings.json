@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Citadel",
-        "id": "1ea0ca0e-e61d-4b8d-92fd-4a97c6ba9d82",
-        "title": "Software Engineer \u2013 Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755166402,
-        "date_posted": 1755117174,
-        "url": "https://www.citadel.com/careers/details/software-engineer-intern-europe/",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Citadel",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Kodiak Robotics",
         "id": "4702b97e-44a0-4576-a028-50a9fe02887c",
@@ -120610,7 +120590,7 @@
         "company_name": "Salesforce",
         "id": "9f667973-2421-4526-bf73-3103d394756f",
         "title": "Intern - AI Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -177183,27 +177163,6 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Atomic-Semi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Montenson",
-        "id": "33129e1e-f652-4cee-8c96-690452e84742",
-        "title": "Sustainability Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755118819,
-        "date_posted": 1755118819,
-        "url": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19457",
-        "locations": [
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Montenson",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -254815,7 +254774,7 @@
         "company_name": "KBR",
         "id": "4f91a80f-6de3-4fed-b5d5-91aaedbd79c1",
         "title": "National Security Solutions Intern - Positioning - Navigation and Timing",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -307394,7 +307353,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "ccd71198-61f7-4cdd-9be6-a0bfda36060b",
         "title": "Product Development - Tech & Engineering Fellow",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -404634,7 +404593,7 @@
         "company_name": "Salesforce",
         "id": "01c91d29-446f-42d7-9443-d6e88f5d0cb6",
         "title": "Intern - AI Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453491,7 +453450,7 @@
         "company_name": "Citizens Financial Group",
         "id": "d0d32d83-d567-4765-ada6-589505cd5997",
         "title": "Software Engineer Intern \u2013 Enterprise Technology & Security",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -454122,7 +454081,7 @@
         "company_name": "Acxiom",
         "id": "ea30fd9f-89c2-425b-b00f-90ba16f6d5e9",
         "title": "Intern Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
