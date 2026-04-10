@@ -121204,7 +121204,7 @@
         "company_name": "Q2",
         "id": "9dff3d0b-e08b-45f1-884f-a943560fded0",
         "title": "Intern/Co-op - Software Engineering - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -246825,7 +246825,7 @@
         "company_name": "Carbon Direct",
         "id": "dd7cdc9a-5390-45ae-aee1-09d55a0ccc21",
         "title": "Industrial Decarbonization Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -391326,7 +391326,7 @@
         "company_name": "Blue Sky Innovators",
         "id": "7c6ce81f-93d1-46b9-a710-cd27563baf97",
         "title": "Radio Frequency Machine Learning \u2013 Product Workflow Intern - Radio Frequency Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -449641,7 +449641,7 @@
         "company_name": "Pennsylvania State University",
         "id": "f45e0825-f01b-4116-9999-60986ea7229d",
         "title": "Part-Time Research Assistant - Computer Science and Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
