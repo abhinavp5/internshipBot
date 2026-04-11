@@ -19713,7 +19713,7 @@
         "company_name": "DriveTime",
         "id": "d1a25725-dd02-45e2-bc1c-586df9c8de7f",
         "title": "Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -27011,7 +27011,7 @@
         "company_name": "NVIDIA",
         "id": "538cc622-8968-40d4-958f-cd02287b0926",
         "title": "NVIDIA Internships: PhD Graphics and Simulation Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -158695,7 +158695,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "97f0e4c1-6281-4a57-a4c1-92bbefb829b8",
         "title": "Relationship Manager \u2013 Business Markets Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -235352,7 +235352,7 @@
         "company_name": "General Motors",
         "id": "5803f9bc-8ae8-4932-a0d2-dcf7112dae7a",
         "title": "Intern \u2013 AI/ML Software Engineering Intern - Simulation Core",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -242751,7 +242751,7 @@
         "company_name": "Crane Co.",
         "id": "03f529ba-ec2e-4f9c-91f6-058feebe17d8",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -279996,218 +279996,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "d7e04b90-49d1-4d5c-812e-f202a359d4e0",
-        "title": "Java WAS Training and Placement",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1762909602,
-        "date_posted": 1755195254,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/101894009",
-        "locations": [
-            "Chesterfield, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "c3c51bf5-ef10-49b8-8e19-744ad074dc32",
-        "title": "Java training and placemnt",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1761837896,
-        "date_posted": 1755195252,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/101597821",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "efa00ce6-88f6-498e-bd45-d23e949cefdb",
-        "title": "Java/WAS Training",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1762907371,
-        "date_posted": 1755195155,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/102091028",
-        "locations": [
-            "Chesterfield, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "4c2a06a5-34c5-42d1-8fe5-aaa3af7a86bd",
-        "title": "Java Networking Training and Placement",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1762912149,
-        "date_posted": 1755195195,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/102049244",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AG Technologies",
-        "id": "74fa10b6-ccb0-4618-aae4-267efdd58bcc",
-        "title": "OBIEE/SCCM/Microstrategy training cum placement",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1761826329,
-        "date_posted": 1755194898,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/108357454",
-        "locations": [
-            "Chesterfield, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "2a401ac2-04fc-4fd1-a911-6848907f1086",
-        "title": "Java/OBIEE/Salesforce training and placement",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1761836672,
-        "date_posted": 1755194954,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/104283899",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "1aa9ea8e-69a0-4a1f-8218-896f37e50b3c",
-        "title": "Free training and placement on Java/OBIEE/Salesforce",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1761835272,
-        "date_posted": 1755194915,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/105608940",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "3d10bf9e-5fd4-4c7e-81ff-0b176d5d1380",
-        "title": "WebLogic Training and Placement",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1762910694,
-        "date_posted": 1755194788,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/113047155",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "24cf8400-23e1-4d98-8001-043beff7a1ca",
-        "title": "Java OBIEE Training and Placement Opportunity - OBIEE - Java",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1762907987,
-        "date_posted": 1755194592,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999656325164",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "dfe51c88-ebee-4cf9-8f30-b4f757a59b81",
@@ -282899,53 +282687,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "85b23b36-83c2-44f4-b200-5f0c67e51103",
-        "title": "Free training and placement for OPT students",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1761836379,
-        "date_posted": 1755195036,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/103273865",
-        "locations": [
-            "Chesterfield, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "6ab16a7a-991a-4ed0-a531-176f48887aea",
-        "title": "Java/UI/ OBIEE/ETL training opportunity for OPT",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1761835352,
-        "date_posted": 1755194979,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/103941299",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
         ]
     },
     {
@@ -292508,7 +292249,7 @@
         "company_name": "Crane Co.",
         "id": "e1a136c3-4711-4a47-95f3-8ecca8e01f58",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -309286,7 +309027,7 @@
         "company_name": "Equifax",
         "id": "48dd6a63-40af-40ff-9a7d-14897fd0a342",
         "title": "Data & Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -313049,7 +312790,7 @@
         "company_name": "Fidelity Investments",
         "id": "9af2b479-ce6b-4409-a89d-701644cff541",
         "title": "Intern Data Science and Optimization",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -324302,7 +324043,7 @@
         "company_name": "Aptiv",
         "id": "0dfe4571-b0d5-4c35-9e7b-1f5f01fc2fa2",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -396846,7 +396587,7 @@
         "company_name": "Techtronic Industries",
         "id": "03ab4d41-5cba-45c5-8db8-f4a6b4ccb687",
         "title": "Lab Power Platform Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -404559,7 +404300,7 @@
         "company_name": "KBR",
         "id": "6fc0d2a2-7de1-419b-920a-14bf98720a7d",
         "title": "National Security Solutions Computer Science Intern - NSS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -413449,7 +413190,7 @@
         "company_name": "Curtiss-Wright Corporation",
         "id": "88dbfcd3-f781-4e4f-b020-3947ae63a162",
         "title": "Software Development Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -416557,7 +416298,7 @@
         "company_name": "Micron Technology",
         "id": "8a407090-101b-47b2-9d4c-cd73f47d592c",
         "title": "Intern Automotive Product Global Quality",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -421101,7 +420842,7 @@
         "company_name": "Impiricus",
         "id": "b4ea56db-dcfd-4479-8dde-abdf95b8431d",
         "title": "Intern Data Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -428002,7 +427743,7 @@
         "company_name": "DXC Technology",
         "id": "0e8484cc-b698-43a8-9651-2b23b065b37b",
         "title": "DXC Academic Programme \u2013 Modern Apprenticeship in Data & AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -435349,7 +435090,7 @@
         "company_name": "Granite Construction",
         "id": "5628f91e-9bde-4281-9e4f-af0144726d32",
         "title": "Business Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -437632,30 +437373,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "206b63e8-1f82-49a4-909a-fc8d38ec4f41",
-        "title": "Training and Placement Java Informatica Fullstack",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1775001830,
-        "date_posted": 1755194987,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/103962489",
-        "locations": [
-            "Chesterfield, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Fortinet",
         "id": "f3ee1a1d-1a37-4ba5-975e-626ae038e53b",
@@ -439020,29 +438737,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "280c4a01-3a80-4b46-9f84-0b61c26a60e6",
-        "title": ".NET Developer",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1775001286,
-        "date_posted": 1755195704,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/85322004",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -442067,7 +441761,7 @@
         "company_name": "RTX",
         "id": "df437fd6-a79e-4a55-b3f4-3c4a4c1b61a3",
         "title": "Industrial Placement Intern - Continuous Improvement",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -443367,7 +443061,7 @@
         "company_name": "Cambium Learning Group",
         "id": "dda85c22-0f15-46e8-9178-01a304befc73",
         "title": "Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -443457,7 +443151,7 @@
         "company_name": "Cambium Learning Group",
         "id": "8b820e3a-e99e-45ae-bb4a-b00ac84d105d",
         "title": "Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -448533,7 +448227,7 @@
         "company_name": "State Street",
         "id": "8bf9a8b1-3e57-4359-9ab7-fcbeb945f496",
         "title": "State Street Product Tean \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -449043,7 +448737,7 @@
         "company_name": "Blue Origin",
         "id": "24c3cf5f-3449-4969-9036-a9b2b1f4b390",
         "title": "Test Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -450384,7 +450078,7 @@
         "company_name": "GE Vernova",
         "id": "b999705a-0da3-486f-bf67-52950468bbe9",
         "title": "GE Vernova Grid Automation Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -450689,7 +450383,7 @@
         "company_name": "Amcor",
         "id": "3188abf7-31cd-4e4e-9bc5-6f2627402f5b",
         "title": "Business Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -451097,7 +450791,7 @@
         "company_name": "Progyny",
         "id": "454fcc90-e99e-4e05-aa6a-3aeb81ed6ae4",
         "title": "Clinical Programs-Product Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -451881,7 +451575,7 @@
         "company_name": "Rockwell Automation",
         "id": "4ecba065-c50e-4c3e-9c98-aa500be8597e",
         "title": "Intern Digital Client",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -454502,7 +454196,7 @@
         "company_name": "GE Healthcare",
         "id": "c59fb9ed-4bc1-4a72-8116-4e699ada8ba1",
         "title": "Engineering Co-op/Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -454775,7 +454469,7 @@
         "company_name": "Dover",
         "id": "578c668f-4f65-4ae0-9506-ee59bed1421c",
         "title": "Engineer \u2013 Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -455784,7 +455478,7 @@
         "company_name": "Sun Life",
         "id": "d8d7010d-4ab5-45be-8b7e-5a1e4d5fe44b",
         "title": "Student Associate Software Engineer - AI",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -455968,7 +455662,7 @@
         "company_name": "NVIDIA",
         "id": "a43abe5d-5216-4e83-aba1-d2afc823a8de",
         "title": "Technical Product Manager Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -456236,7 +455930,7 @@
         "company_name": "KION Group",
         "id": "1680943d-a300-4222-ba19-0cd414184bea",
         "title": "RSD Intern - Test Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -456332,7 +456026,7 @@
         "company_name": "Orion Innovation",
         "id": "75e0d373-e3e1-40d3-9411-6679b0c8e350",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -456633,7 +456327,7 @@
         "company_name": "Applied Materials",
         "id": "cb6980de-69ce-46b2-b8b3-82e43f57dec7",
         "title": "Intern Opportunity: Computational Materials Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -456840,7 +456534,7 @@
         "company_name": "Global Infrastructure",
         "id": "afd23ce0-8699-4767-a8a7-fe835376e876",
         "title": "Alternative Delivery Project Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -457284,7 +456978,7 @@
         "company_name": "City of Baltimore",
         "id": "9697eb76-e168-40a2-a876-51836ff3db8b",
         "title": "Digital Services Engineering Intern - Ncs - Bcit",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -457720,7 +457414,7 @@
         "company_name": "City of Baltimore",
         "id": "200f8955-4abb-452a-862f-32d025d0bb68",
         "title": "Data Science & Analytics Intern - Ncs - Bcit",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
