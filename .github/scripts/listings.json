@@ -1,175 +1,5 @@
 [
     {
-        "date_updated": 1755167523,
-        "url": "https://job-boards.greenhouse.io/domo/jobs/7099526",
-        "company_name": "Domo",
-        "title": "Software Engineer",
-        "locations": [
-            "American Fork, UT"
-        ],
-        "terms": [
-            "Spring 2026",
-            "Winter 2026",
-            "Winter 2025",
-            "Fall 2025",
-            "Summer 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "fe4e7ffc-53c2-47b3-a6c2-9a3877197d7e",
-        "date_posted": 1755167523,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Software Engineering"
-    },
-    {
-        "date_updated": 1755167694,
-        "url": "https://halma.wd3.myworkdayjobs.com/en-US/halma/job/Rochester/Software-Engineering-Co-op_JR25_000871",
-        "company_name": "Ocean Optics",
-        "title": "Software Engineering Co-op",
-        "locations": [
-            "Rochester, NY"
-        ],
-        "terms": [
-            "Spring 2026",
-            "Winter 2026",
-            "Winter 2025",
-            "Fall 2025",
-            "Summer 2025"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "6262d9ea-74a7-4f1b-9808-0f793754f7f2",
-        "date_posted": 1755167694,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Software Engineering"
-    },
-    {
-        "date_updated": 1755167776,
-        "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/7073180",
-        "company_name": "PDT Partners",
-        "title": "Software Engineering Internship",
-        "locations": [
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "a2911035-3a66-4719-ab56-55f7c142ce93",
-        "date_posted": 1755167776,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Software Engineering"
-    },
-    {
-        "date_updated": 1755223866,
-        "url": "https://ncino.wd5.myworkdayjobs.com/en-US/nCinoCareers/job/US---Utah---Lehi/Part-time-Software-Engineer-Intern_R5724",
-        "company_name": "nCino",
-        "title": "Part-time Software Engineer Intern",
-        "locations": [
-            "Lehi, UT"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "Simplify",
-        "id": "8fdfa7b0-df95-4009-a3b8-e433466c825f",
-        "date_posted": 1755167935,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Software Engineering"
-    },
-    {
-        "date_updated": 1756201860,
-        "url": "https://gdmissionsystems.com/careers/intern-engineer-ft-wayne-in-usa-2025-66946-opportunity",
-        "company_name": "General Dynamics",
-        "title": "Intern Engineer",
-        "locations": [
-            "Fort Wayne, IN"
-        ],
-        "terms": [
-            "Spring 2026",
-            "Winter 2026",
-            "Winter 2025",
-            "Fall 2025",
-            "Summer 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "7f91410f-24f0-4287-bcd9-74fca28fce4d",
-        "date_posted": 1755168209,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Software Engineering",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "date_updated": 1757544471,
-        "url": "https://job-boards.eu.greenhouse.io/nice/jobs/4654114101?gh_jid=4654114101",
-        "company_name": "NiCE",
-        "title": "AI Solutions Intern",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "terms": [
-            "Spring 2026",
-            "Winter 2026",
-            "Winter 2025",
-            "Fall 2025",
-            "Summer 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "a03759ad-6326-43a2-9b9e-1b1a4207bd8a",
-        "date_posted": 1755168311,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Data Science, AI & Machine Learning",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "date_updated": 1756460512,
-        "url": "https://www.jumptrading.com/careers/7141699/?gh_jid=7141699",
-        "company_name": "Jump Trading",
-        "title": "Campus AI Researcher (Intern)",
-        "locations": [
-            "Chicago, IL",
-            "New York, NY"
-        ],
-        "terms": [
-            "Spring 2026",
-            "Winter 2026",
-            "Winter 2025",
-            "Fall 2025",
-            "Summer 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "bd019fd0-d553-4104-99db-ccd9a77311e4",
-        "date_posted": 1755169190,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Data Science, AI & Machine Learning",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1756476629,
         "url": "https://www.jumptrading.com/careers/6916776/?gh_jid=6916776",
         "company_name": "Jump Trading",
@@ -180170,7 +180000,7 @@
         "company_name": "Adobe",
         "id": "51561d32-a2b4-4f87-b84d-77219edd63b8",
         "title": "2026 AI/ML Intern - Machine Learning Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -342362,7 +342192,7 @@
         "company_name": "GE Healthcare",
         "id": "fa66d570-2fe6-4db7-9981-3709f765e872",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -411767,7 +411597,7 @@
         "company_name": "State Street",
         "id": "b6cd5bdd-172e-4abc-be0c-306e588dcc8a",
         "title": "Alpha Inkind Product Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -418324,7 +418154,7 @@
         "company_name": "GE Vernova",
         "id": "c567dc0a-4c8b-4aa0-8308-9dca7f6c5f6d",
         "title": "Embedded Systems / Firmware Engineering Intern-1",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -423244,7 +423074,7 @@
         "company_name": "Lumentum",
         "id": "54ff19d4-157b-460b-89d3-0646814d5bda",
         "title": "Failure Analysis and New Product Qualification Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -424827,7 +424657,7 @@
         "company_name": "Signet Jewelers",
         "id": "18e30750-a690-4f6c-9128-1b2d90b99f8a",
         "title": "Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -428141,7 +427971,7 @@
         "company_name": "TNS",
         "id": "3de7ddd4-4951-42b8-97de-864d68e72fb9",
         "title": "Mobile Telecom Applications Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -428892,7 +428722,7 @@
         "company_name": "Booz Allen",
         "id": "48b0dea4-e8c3-4717-ae7c-cb620f9da079",
         "title": "Applied AI Software Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -431029,7 +430859,7 @@
         "company_name": "Vantage Data Centers",
         "id": "0d340c70-4463-4a66-ad05-b6675b5b25be",
         "title": "Energy Systems Modeling Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -440605,7 +440435,7 @@
         "company_name": "MiQ",
         "id": "1811d5ab-d642-4e1f-9080-83b787834ee1",
         "title": "Trading Fellow - Trading Department",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -443617,7 +443447,7 @@
         "company_name": "Magna",
         "id": "7dc2e2fc-62c7-404e-b61b-f9b8ac587aa2",
         "title": "Intern Validation Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
