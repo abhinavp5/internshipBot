@@ -1,28 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Regal Rexnord",
-        "id": "8e5afc51-e33d-4302-8aeb-102811b40f6d",
-        "title": "Application Engineer Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755864700,
-        "date_posted": 1755149115,
-        "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Application-Engineer-Co-op_R25_04012",
-        "locations": [
-            "Vandalia, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/37e0cd83-539e-4474-a63a-abc8ce7b4694",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1755155751,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1860947",
         "company_name": "Microsoft",
@@ -6276,81 +6253,6 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/0f4fe506-1c1d-46c7-a262-7130b3738b9b",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Tutor Perini Corporation",
-        "id": "76a35f28-9d68-490b-bddf-3a7df6aa2b0d",
-        "title": "Data Security and Categorization Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755149614,
-        "date_posted": 1755149614,
-        "url": "https://tutorperini.wd12.myworkdayjobs.com/external/job/Henderson-NV-/Data-Security-and-Categorization-Intern_JR100737",
-        "locations": [
-            "Henderson, NV"
-        ],
-        "company_url": "https://simplify.jobs/c/2b84bc4f-aff6-498f-b5c7-311bab931da4",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Pentair",
-        "id": "bac6a7e3-f4d9-4fa1-b09c-e27adbea0976",
-        "title": "IT and Cybersecurity Leadership Development Internship Program",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755148169,
-        "date_posted": 1755148169,
-        "url": "https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/IT-and-Cybersecurity-Leadership-Development-Internship-Program---Summer-2026_R21707",
-        "locations": [
-            "Golden Valley, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/a02f5a45-8b2b-4dd2-82af-d41f4f51a371",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Pentair",
-        "id": "78f15bcd-0850-44c4-a406-24bbebc08e2a",
-        "title": "Product Management Leadership Development Internship Program",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755148151,
-        "date_posted": 1755148151,
-        "url": "https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Product-Management-Leadership-Development-Internship-Program---Summer-2026_R21710",
-        "locations": [
-            "Apex, NC",
-            "Madison, WI",
-            "Chicago, IL",
-            "Charlotte, NC",
-            "Milwaukee, WI",
-            "Minneapolis, MN",
-            "Golden Valley, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/a02f5a45-8b2b-4dd2-82af-d41f4f51a371",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -262877,7 +262779,7 @@
         "company_name": "Sherwin-Williams",
         "id": "b8cdf017-bc5f-486d-a33a-6508df706ec6",
         "title": "Product Marketing Co-op Interior Architectural Paint",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -433008,7 +432910,7 @@
         "company_name": "Rolls-Royce Motorcars",
         "id": "75cfa15d-4740-4b16-bde7-92b946730038",
         "title": "Intern Technical Service Electrical or Mechanical & Digitalization",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437036,7 +436938,7 @@
         "company_name": "GoDaddy",
         "id": "921b28fb-70ac-42e6-a6ae-4be2681b4c58",
         "title": "Trainee Data Storytelling and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -452912,7 +452814,7 @@
         "company_name": "RTX",
         "id": "a4e95bd4-033c-46e7-a2a0-0a2083f4d136",
         "title": "Raytheon Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -455786,7 +455688,7 @@
         "company_name": "CVS Health",
         "id": "4c5398d9-de17-4823-9ff9-f31b2d6ae9b3",
         "title": "Data Science Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -457318,7 +457220,7 @@
         "company_name": "Applied Materials",
         "id": "cb6980de-69ce-46b2-b8b3-82e43f57dec7",
         "title": "Intern Opportunity: Computational Materials Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
