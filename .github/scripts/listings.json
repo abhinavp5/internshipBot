@@ -1,46 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nelnet",
-        "id": "b98d72ab-224e-4b09-a98c-8075d615fdad",
-        "title": "Intern \u2013 Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755223954,
-        "date_posted": 1755145746,
-        "url": "https://nelnet.wd1.myworkdayjobs.com/mynelnet/job/Lincoln-NE/Intern---Software-Engineer_R21509",
-        "locations": [
-            "Lincoln, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/3f188829-d8f5-44a4-aa08-07856114fe30",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "insightsoftware",
-        "id": "e1fb60fb-25e2-4b31-ac25-3bbd657d0316",
-        "title": "Data & Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755223824,
-        "date_posted": 1755146914,
-        "url": "https://jobs.smartrecruiters.com/Insightsoftware/744000062500486",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Insightsoftware",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Regal Rexnord",
         "id": "8e5afc51-e33d-4302-8aeb-102811b40f6d",
@@ -287903,7 +287863,7 @@
         "company_name": "Fiserv",
         "id": "60afcc6b-8fa5-4bfe-8310-51c5cb70bb58",
         "title": "Corporate Internship Program - Product Management - Berkeley Heights NJ",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2027",
@@ -359977,7 +359937,7 @@
         "company_name": "Kaiser Permanente",
         "id": "7eb3bd05-1064-47f2-8983-b03f10fa86ef",
         "title": "Data Analyst/Programmer Master's Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -395424,7 +395384,7 @@
         "company_name": "ASSA ABLOY",
         "id": "f90eb4cc-e5d8-40d3-8db4-4d87cd903d45",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -433769,7 +433729,7 @@
         "company_name": "Kinaxis",
         "id": "56af5c93-ff4a-4acf-9ef2-a61291dc9b09",
         "title": "Intern Developer - Front End Technologies",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -435893,7 +435853,7 @@
         "company_name": "Mackenzie Investments",
         "id": "ef927ba3-1d81-4aa0-b3c7-cbd44f6f7d70",
         "title": "Intern - Investment Management - Fundamental Equity Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437118,7 +437078,7 @@
         "company_name": "GoDaddy",
         "id": "1de82141-d20a-4e12-8b80-a08b04c261fc",
         "title": "Trainee \u2013 Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -438125,27 +438085,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "US Tech Solutions",
-        "id": "67853ac8-aa15-41c8-b9dd-6c79d1ab8aea",
-        "title": "Engineer 1",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1775001301,
-        "date_posted": 1755143250,
-        "url": "https://jobs.smartrecruiters.com/USTechSolutions2/91434413",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/US-Tech-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -448561,7 +448500,7 @@
         "company_name": "Bank of Montreal",
         "id": "2098c76f-827c-4e78-beb4-5746aa90d5c9",
         "title": "Software Engineer - Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
