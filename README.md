@@ -459,14 +459,14 @@
 <td>Cloud Solutions Intern 🛂</td>
 <td>National Harbor, Maryland</td>
 <td><div align="center"><a href="https://jobs.lever.co/go-cloudforce/a6fc45dd-d6e8-484f-8254-1b1f69dff362?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong>Canon</strong></td>
 <td>Software Intern 🛂</td>
 <td>Irvine, CA</td>
 <td><div align="center"><a href="https://external-canoncareers.icims.com/jobs/34090/software-intern/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong>Urban Science</strong></td>
@@ -1649,7 +1649,7 @@
 <td>Cloud Tech Support Engineer - Co-op 🛂</td>
 <td>Boston, MA</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/wasabi/jobs/5151302008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Synchrony-Financial?utm_source=GHList&utm_medium=company">Synchrony Financial</a></strong></td>
@@ -1726,7 +1726,7 @@
 <td>Cryptography Intern</td>
 <td>Bristol, UK</td>
 <td><div align="center"><a href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Bristol-Bristol-City-of-United-Kingdom/Cryptography-Intern_UNI3783?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6b9f952f-6c7f-4f42-9550-02f262022c0a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Neuralink?utm_source=GHList&utm_medium=company">Neuralink</a></strong></td>
@@ -3263,7 +3263,7 @@
 <td>Product Marketing Intern</td>
 <td>Austin, TX<br>Chicago, IL<br>NYC</td>
 <td><div align="center"><a href="https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Product-Marketing-Intern_JR104050?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a53a8bff-e1b5-4d8e-a942-8291d20896c3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Snyk?utm_source=GHList&utm_medium=company">Snyk</a></strong></td>
@@ -3976,7 +3976,7 @@
 <td>AI Agent Builder Intern 🛂</td>
 <td>National Harbor, MD</td>
 <td><div align="center"><a href="https://jobs.lever.co/go-cloudforce/cf2f1855-3ad7-4d4a-a100-2e627f703af4?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company">ByteDance</a></strong></td>
@@ -5495,7 +5495,7 @@
 <td>AI Development Intern</td>
 <td>Napa, CA</td>
 <td><div align="center"><a href="https://jobs.lever.co/redwoodcu/ce0e574c-846e-44c6-8b81-cde55886d8c5?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Synchrony-Financial?utm_source=GHList&utm_medium=company">Synchrony Financial</a></strong></td>
