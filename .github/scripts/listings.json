@@ -235412,7 +235412,7 @@
         "company_name": "General Motors",
         "id": "5803f9bc-8ae8-4932-a0d2-dcf7112dae7a",
         "title": "Intern \u2013 AI/ML Software Engineering Intern - Simulation Core",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -323341,7 +323341,7 @@
         "company_name": "Vanderlande Industries",
         "id": "9119d819-f765-470b-9809-a5a294485ed4",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -350319,7 +350319,7 @@
         "company_name": "Texas A&M International University",
         "id": "104bd659-f2e0-4f27-a8ac-b831d30a49e6",
         "title": "Undergraduate Research Assistant",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -421161,7 +421161,7 @@
         "company_name": "Impiricus",
         "id": "b4ea56db-dcfd-4479-8dde-abdf95b8431d",
         "title": "Intern Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -446131,7 +446131,7 @@
         "company_name": "Leonardo",
         "id": "9953f9cb-be32-4a67-b5fb-4c63e192fa0c",
         "title": "Electronic Engineering MEng Placement",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
