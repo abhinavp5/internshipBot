@@ -5496,29 +5496,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "TD Bank",
-        "id": "9af0210d-7be7-4c2e-b21f-d9c15e3ed802",
-        "title": "Global Markets Intern/Co-op - Quantitative Engineering Development",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755206305,
-        "date_posted": 1755206305,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Global-Markets-Intern-Co-op---Quantitative-Engineering-Development_R_1438567",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1755638663,
         "url": "https://job-boards.greenhouse.io/figma/jobs/5602159004?gh_jid=5602159004",
         "company_name": "Figma",
@@ -436292,27 +436269,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Kanshe Infotech",
-        "id": "07a5ff16-9935-4009-9cd2-32e9eb46b712",
-        "title": "Python Fullstack Training",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1774953001,
-        "date_posted": 1755206272,
-        "url": "https://jobs.smartrecruiters.com/KansheInfotech/744000066239151",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Kanshe-Infotech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Comtech",
         "id": "126d88e3-b139-4f05-a819-7867cd679fde",
         "title": "Software Development Engineer in Test",
@@ -436689,27 +436645,6 @@
             "Western Springs, IL"
         ],
         "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Kanshe Infotech",
-        "id": "54e820f7-54bf-4eb6-a9e1-237375f17ed5",
-        "title": "Data Analyst Training",
-        "active": true,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1774949401,
-        "date_posted": 1755206268,
-        "url": "https://jobs.smartrecruiters.com/KansheInfotech/744000066239321",
-        "locations": [
-            "Newark, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Kanshe-Infotech",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
