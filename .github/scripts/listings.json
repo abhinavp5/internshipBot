@@ -2,46 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "KeyCorp",
-        "id": "d7c27e55-5d95-4a37-9112-7d2e20e52e4f",
-        "title": "2026 Summer Key's Technology \u2013 Internship - Operations & Services - Data Track",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755182699,
-        "date_posted": 1755182699,
-        "url": "https://keybank.wd5.myworkdayjobs.com/external_career_site/job/Brooklyn-OH/XMLNAME-2026-Summer-Key-s-Technology--Operations---Services--Data-Track--Internship---Cleveland_R-33880",
-        "locations": [
-            "Brooklyn, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/KeyCorp",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "KeyCorp",
-        "id": "b898c057-356e-473d-902b-7a385c7281c9",
-        "title": "2026 Summer Key's Technology \u2013 Internship - Operations & Services - Technology Track",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755591737,
-        "date_posted": 1755182691,
-        "url": "https://keybank.wd5.myworkdayjobs.com/external_career_site/job/Brooklyn-OH/XMLNAME-2026-Summer-Key-s-Technology--Operations---Services--Technology-Track--Internship---Cleveland_R-33877",
-        "locations": [
-            "Brooklyn, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/KeyCorp",
-        "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Draper",
         "id": "03401322-87dd-48d6-811c-4baf37dd0a2e",
         "title": "Data Analysis Intern",
@@ -157533,7 +157493,7 @@
         "company_name": "Oshkosh",
         "id": "a1170046-c2c3-488f-8d40-7af852884933",
         "title": "Telematics Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -407002,7 +406962,7 @@
         "company_name": "Rockwell Automation",
         "id": "5d4bd766-3c07-453f-bec3-1437e2b15fd6",
         "title": "Intern \u2013 Power Hardware Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -408350,7 +408310,7 @@
         "company_name": "Magna",
         "id": "7bac57bb-c122-4094-9de3-8bc9984f259f",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -410396,7 +410356,7 @@
         "company_name": "Starz",
         "id": "f67b677f-7145-4c44-a198-40105d0b81e4",
         "title": "Starz Intern - Software Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -410766,7 +410726,7 @@
         "company_name": "Accuray",
         "id": "b78af2bb-f010-4a36-99cc-2e8451422b34",
         "title": "Business Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -430234,7 +430194,7 @@
         "company_name": "STRS Ohio",
         "id": "2c501bc7-6de6-4b43-9cf9-5bc81411a079",
         "title": "Solutions Analyst - ITS Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -432180,7 +432140,7 @@
         "company_name": "SonoThera",
         "id": "73449e5e-97ad-4481-8313-ecb472548b5c",
         "title": "Nucleic Acid Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -441872,7 +441832,7 @@
         "company_name": "KLA",
         "id": "cefc8d76-1d63-40ce-8a0b-5f29b9a3ecdc",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -442246,7 +442206,7 @@
         "company_name": "Thermo Fisher Scientific",
         "id": "e81b17bf-6d9c-4069-a079-83bc244eaa90",
         "title": "Engineering Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -445968,7 +445928,7 @@
         "company_name": "Rogers Behavioral Health",
         "id": "6ee7b98c-ff40-48fa-9739-71119f369879",
         "title": "Therapist \u2013 PHP/Iop",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
