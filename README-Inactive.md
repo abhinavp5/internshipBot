@@ -5996,7 +5996,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Ensora-Health?utm_source=GHList&utm_medium=company">Ensora Health</a></strong></td>
 <td>Software Engineer Intern</td>
 <td><details><summary><strong>33 locations</strong></summary>Concord, NH<br>Mississippi<br>Texas<br>Tennessee<br>Indiana<br>Alabama<br>NYC<br>South Dakota<br>Florida<br>South Carolina<br>Kentucky<br>Maryland<br>North Dakota<br>Rhode Island<br>New Mexico<br>Waterbury, CT<br>Ohio<br>Louisiana<br>Minnesota<br>Wisconsin<br>Missouri<br>Kansas<br>Michigan<br>Jackson Township, NJ<br>Illinois<br>Pennsylvania<br>Delaware<br>Virginia<br>Massachusetts<br>Georgia<br>Iowa<br>Maine<br>North Carolina</details></td>
 <td>🔒</td>
@@ -18750,7 +18750,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/IEX?utm_source=GHList&utm_medium=company">IEX</a></strong></td>
 <td>Cyber Security Engineer Intern - Information Security</td>
 <td>NYC</td>
 <td>🔒</td>
