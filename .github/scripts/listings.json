@@ -213907,7 +213907,7 @@
         "company_name": "SummitTX",
         "id": "ca26cf7a-7321-4233-b5b3-6f2382e54079",
         "title": "Research Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -235055,7 +235055,7 @@
         "company_name": "General Motors",
         "id": "5803f9bc-8ae8-4932-a0d2-dcf7112dae7a",
         "title": "Intern \u2013 AI/ML Software Engineering Intern - Simulation Core",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -420009,7 +420009,7 @@
         "company_name": "Impiricus",
         "id": "a51651ef-323e-4a64-afea-c7ab40c14f60",
         "title": "Software Engineer Intern - Full Stack",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -441901,7 +441901,7 @@
         "company_name": "GE Aerospace",
         "id": "607f759e-177a-4433-a809-342a7f6e4380",
         "title": "Manufacturing Technician Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -453993,7 +453993,7 @@
         "company_name": "Layer Health",
         "id": "20a07b51-c992-4140-9487-01cbf0e66fef",
         "title": "Data/Analytics Engineering Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
