@@ -1,86 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "1f0023d8-0bb1-4476-9c42-26c5487c0fc6",
-        "title": "2025 Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755298112,
-        "date_posted": 1755298112,
-        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-New-York-Rome/XMLNAME-2025-Software-Engineer-Intern---Rome--NY-_R10204079",
-        "locations": [
-            "Rome, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "7b42a423-a7a9-4a0c-9d06-1febef6f1933",
-        "title": "Software Engineer Intern - Edge Platform",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755297887,
-        "date_posted": 1755297887,
-        "url": "https://jobs.bytedance.com/en/position/7538121437628221703/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "4a0ce674-2654-4f36-875c-9dc3145edb17",
-        "title": "Software Engineer Intern - Relational Database",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755297879,
-        "date_posted": 1755297879,
-        "url": "https://jobs.bytedance.com/en/position/7535874373627971848/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Atomic Semi",
-        "id": "3b896ce5-4e65-4264-8794-611e8c42f2d4",
-        "title": "Embedded Software Engineering Intern - Winter",
-        "active": false,
-        "terms": [
-            "Winter 2024"
-        ],
-        "date_updated": 1755297351,
-        "date_posted": 1755297351,
-        "url": "https://jobs.ashbyhq.com/atomicsemi/13e95284-dbcf-4cf2-8151-c9687dfc1889/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Atomic-Semi",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "GE Vernova",
         "id": "376e0186-7335-4062-a867-ed14c6d78206",
@@ -102,46 +22,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hewlett Packard Enterprise",
-        "id": "70bba92f-73c2-4227-bd7f-581e73f55e97",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755298787,
-        "date_posted": 1755298787,
-        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineering-Intern_1192961",
-        "locations": [
-            "Spring, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nuro",
-        "id": "ee4d3442-846c-47b6-92ac-14448b24e980",
-        "title": "Systems Engineering Intern - Scenario Taxonomy",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755298670,
-        "date_posted": 1755298670,
-        "url": "https://nuro.ai/careersitem?gh_jid=7169069",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nuro",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Prosidian Consulting",
         "id": "dcb43b20-f4ea-42c4-8b16-e25c67d6321b",
@@ -158,46 +38,6 @@
             "Charlotte, NC"
         ],
         "company_url": "https://simplify.jobs/c/ProSidian-Consulting",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Fannie Mae",
-        "id": "a346eab8-ea29-4146-a595-25eee688a407",
-        "title": "Campus \u2013 Intern - Data Science - Analytics and Modeling Program",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755298828,
-        "date_posted": 1755298828,
-        "url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Midtown-Center/Campus---Data-Science--Analytics-and-Modeling-Program--Intern_JR1260",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Fannie-Mae",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Mosaic",
-        "id": "5cb339fd-a86b-43f7-80fa-6910fd76b40d",
-        "title": "Operations Technology Co-Op/Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755297226,
-        "date_posted": 1755297226,
-        "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Operations-Technology-Co-Op-Intern---Summer-2026_60324",
-        "locations": [
-            "Tampa, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Mosaic",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -3495,53 +3335,6 @@
     {
         "source": "Simplify",
         "category": "Other",
-        "company_name": "MUFG",
-        "id": "9e56fdc4-3192-4bbf-af20-e84cc1de15ad",
-        "title": "2026 Summer Analyst Program: Information Technology",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755297299,
-        "date_posted": 1755297299,
-        "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Tempe-AZ/XMLNAME-2026-Summer-Analyst-Program--Information-Technology---Tempe--AZ_10072144-WD-1",
-        "locations": [
-            "Tempe, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/MUFG",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Ontario Teachers' Pension Plan",
-        "id": "32a5bfe9-2407-4825-a1ef-e52c26471ee0",
-        "title": "Intern \u2013 Application Support",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Summer 2027"
-        ],
-        "date_updated": 1755297546,
-        "date_posted": 1755297546,
-        "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Application-Support--May-2026---16-months-_6589",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
         "company_name": "Diamondback Energy",
         "id": "fb413274-1819-42df-a054-e12293775e9c",
         "title": "IT Summer Intern",
@@ -3616,33 +3409,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Uline",
-        "id": "623af4df-d592-4271-84fe-a128de161037",
-        "title": "Product Management Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755297931,
-        "date_posted": 1755297931,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Internship---Summer-2026_R256041",
-        "locations": [
-            "Waukegan, IL",
-            "Milwaukee, WI",
-            "Pleasant Prairie, WI",
-            "Morton Grove, IL",
-            "Kenosha, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -455497,5 +455263,89 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dover",
+        "id": "c1c89ac1-ac60-4e37-8436-39602922318c",
+        "title": "Engineer \u2013 Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776032474,
+        "date_posted": 1776031507,
+        "url": "https://careers.dovercorporation.com/job/Austin-Engineer,-Software-Intern-TX-78728/1382944933/?ats=successfactors",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/511130a6-b974-4ccb-a78b-14049de141bb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dover",
+        "id": "b3e4302a-a5b5-4c4b-b685-7b1fc8d137c0",
+        "title": "Engineer \u2013 Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776032474,
+        "date_posted": 1776031507,
+        "url": "https://careers.dovercorporation.com/job/Austin-Engineer,-Software-Intern-TX-78728/1382944733/?ats=successfactors",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/511130a6-b974-4ccb-a78b-14049de141bb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Dover",
+        "id": "67222ead-872c-45a8-94bc-08aa9adb832c",
+        "title": "Engineer \u2013 Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776032474,
+        "date_posted": 1776031508,
+        "url": "https://careers.dovercorporation.com/job/Austin-Engineer,-Software-Intern-TX-78728/1382945133/?ats=successfactors",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/511130a6-b974-4ccb-a78b-14049de141bb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dover",
+        "id": "3bce78ba-507a-4501-aefc-bef80427bc02",
+        "title": "Engineer \u2013 Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776032474,
+        "date_posted": 1776031508,
+        "url": "https://careers.dovercorporation.com/job/Austin-Engineer,-Software-Intern-TX-78728/1382944833/?ats=successfactors",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/511130a6-b974-4ccb-a78b-14049de141bb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
