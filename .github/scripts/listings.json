@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GE Vernova",
-        "id": "376e0186-7335-4062-a867-ed14c6d78206",
-        "title": "GE Vernova Engineering Intern Artificial Intelligence Tool Developer",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Winter 2026"
-        ],
-        "date_updated": 1755298886,
-        "date_posted": 1755298886,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-Engineering-Intern-Artificial-Intelligence-Tool-Developer---2026-Spring_R5015736-1",
-        "locations": [
-            "Schenectady, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Prosidian Consulting",
-        "id": "dcb43b20-f4ea-42c4-8b16-e25c67d6321b",
-        "title": "Apprenticeship Data Analyst",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755299327,
-        "date_posted": 1755299327,
-        "url": "https://jobs.smartrecruiters.com/prosidianconsulting/743999686536316",
-        "locations": [
-            "Washington, DC",
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/ProSidian-Consulting",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "ByteDance",
         "id": "177bb84f-7b60-4fcb-9b6c-41d6de9f102f",
@@ -2920,31 +2878,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Hartford Financial Services",
-        "id": "5c246b68-5eaf-4fdb-9eae-2851f24c2613",
-        "title": "Fall Intern - Data Science",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755299721,
-        "date_posted": 1755299721,
-        "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Fall-Intern--Data-Science_R2522021",
-        "locations": [
-            "Chicago, IL",
-            "Hartford, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Hartford-Financial-Services",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "5c61efbc-fdc1-47b4-8054-73c9fbcb4be7",
         "title": "Machine Learning Engineer Intern - Tiktok Short Video Content Understanding/Multimodal Recommendation",
@@ -3325,85 +3258,6 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Diamondback Energy",
-        "id": "fb413274-1819-42df-a054-e12293775e9c",
-        "title": "IT Summer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755299790,
-        "date_posted": 1755299790,
-        "url": "https://diamondbackenergy.wd12.myworkdayjobs.com/DBE/job/Oklahoma-City-OK/XMLNAME-2026-IT-Summer-Intern_R100298",
-        "locations": [
-            "Oklahoma City, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/Diamondback-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Adobe",
-        "id": "f65a97ce-acdb-4f60-a4e0-a4a7b7a66fcb",
-        "title": "AI/ML Intern - Machine Learning Engineer",
-        "active": true,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1756118589,
-        "date_posted": 1755299289,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R158493",
-        "locations": [
-            "Seattle, WA",
-            "San Francisco, CA",
-            "Austin, TX",
-            "San Jose, CA",
-            "Waltham, MA",
-            "New York, NY",
-            "Lehi, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "GE Vernova",
-        "id": "d1f13d1a-7b5e-4cbd-b7ab-177d17dc3684",
-        "title": "GE Vernova Grid Automation Product Management Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1755298882,
-        "date_posted": 1755298882,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Grid-Automation-Product-Management-Intern---Spring-Summer-2026_R5017903-2",
-        "locations": [
-            "Rochester, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -173567,69 +173421,6 @@
             "Cincinnati, OH"
         ],
         "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Tencent",
-        "id": "61928166-a9f9-49af-9c21-57d6637d7ead",
-        "title": "3D Model and Scene Generation Algorithm Research Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1755300639,
-        "date_posted": 1755300639,
-        "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/XMLNAME-3D-Model-and-Scene-Generation-Algorithm-Research-Intern_R105940-2",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Tencent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Goldman Sachs",
-        "id": "9d952e14-ba40-4839-abed-81c950324b39",
-        "title": "2026 \u2013 Summer Associate - Americas - Dallas Metro Area - Asset and Wealth Management Quantitative Strats",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761838624,
-        "date_posted": 1755300375,
-        "url": "https://higher.gs.com/roles/152566?type=students",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Heidelberg Materials",
-        "id": "8a669fa4-8fce-4ba6-b748-ed47839b7486",
-        "title": "Digital Insight Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1755299552,
-        "date_posted": 1755299552,
-        "url": "https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Irving-TX/Digital-Insight-Intern_JR10009421",
-        "locations": [
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Heidelberg-Materials",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
