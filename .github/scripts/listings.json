@@ -184766,7 +184766,7 @@
         "company_name": "Takeda",
         "id": "4be9ebac-6af0-4f42-895a-cabeb56fcf0c",
         "title": "Analytical Development Mass Spectrometry Informatics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -441901,7 +441901,7 @@
         "company_name": "GE Aerospace",
         "id": "607f759e-177a-4433-a809-342a7f6e4380",
         "title": "Manufacturing Technician Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -451744,7 +451744,7 @@
         "company_name": "Moog ",
         "id": "d5f2326a-be05-413c-a10d-bcd2c71e31d4",
         "title": "Intern Development & Additive Manufacturing - Fastworks",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
