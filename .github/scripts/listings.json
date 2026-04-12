@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NXP Semiconductors",
-        "id": "51a27002-0cc8-4eb9-bfb3-d69fa784ab95",
-        "title": "Data Science / Structured Problem Solving Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755293189,
-        "date_posted": 1755293189,
-        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Data-Science---Structured-Problem-Solving-Intern---Fall-2025_R-10059789",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/91edf47c-f010-430e-8558-5c1fbb365984",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "ByteDance",
         "id": "a8e74e82-891f-4ce9-9759-3376c8dea0b6",
@@ -488,47 +468,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "cf3b2175-fef3-4491-be0d-bddb34d2dc35",
-        "title": "Software Engineer Intern - Financial Product - Global Payment",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755291832,
-        "date_posted": 1755291832,
-        "url": "https://jobs.bytedance.com/en/position/7533002244305848584/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Hitachi",
-        "id": "657f21d2-8d39-4d31-a185-7d00152348b2",
-        "title": "PMO Analyst and Business Intelligence Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Spring 2026"
-        ],
-        "date_updated": 1755292725,
-        "date_posted": 1755292725,
-        "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/PMO-Analyst-and-Business-Intelligence-Intern_R1010308",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Hitachi",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Fundamental Research Labs",
         "id": "d0f37477-e67e-4555-b132-301c5a4ee167",
@@ -775,90 +714,6 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/ConnectPrep",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Goldman Sachs",
-        "id": "a01bad01-4a56-48f2-be0f-426a8738c83a",
-        "title": "2026 \u2013 Summer Analyst - FICC and Equities - Sales and Trading - Quantitative Strats",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755293452,
-        "date_posted": 1755293452,
-        "url": "https://higher.gs.com/roles/152578?type=students",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/1e8c5083-a2a3-4cb5-b517-47da9c7a9da2",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Interactions",
-        "id": "40200897-470d-489a-bb5c-646de6cdd4a2",
-        "title": "Artificial Intelligence Analyst Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755292323,
-        "date_posted": 1755292323,
-        "url": "https://interactions.wd1.myworkdayjobs.com/en-US/Interactions/job/United-States---Remote/Artificial-Intelligence-Analyst-Intern_R0002002",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Interactions",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Uline",
-        "id": "2b2c1f42-0190-40a2-88e2-9314a7cda022",
-        "title": "Software Developer Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755292066,
-        "date_posted": 1755292066,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Developer-Internship---Summer-2026_R256032",
-        "locations": [
-            "Waukegan, IL",
-            "Milwaukee, WI",
-            "Pleasant Prairie, WI",
-            "Morton Grove, IL",
-            "Kenosha, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/656d9cca-8674-4b7c-ad5f-f7298d72e103",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "BlackEdge Capital",
-        "id": "e4fed01c-f35c-456d-bea5-212f9386d27c",
-        "title": "Quantitative Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755565603,
-        "date_posted": 1755293016,
-        "url": "https://job-boards.greenhouse.io/blackedgecapital/jobs/4596128005",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/BlackEdge-Capital",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -3630,29 +3485,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Other",
-        "company_name": "Tencent",
-        "id": "18a7b5ce-fd54-4b6f-bc2d-e220c38500de",
-        "title": "IT Engineer Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755782484,
-        "date_posted": 1755292969,
-        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/IT-Engineer-Intern_R105820",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Tencent",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Microsoft",
         "id": "0cb67049-fb37-4915-af85-43e51833fa61",
@@ -3923,30 +3755,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Mosaic",
-        "id": "e346a375-dfcc-402c-9e85-ab4f40f27992",
-        "title": "Information Technology Cybersecurity Engineering Co-Op/Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1755291873,
-        "date_posted": 1755291873,
-        "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Informational-Technology-Cybersecurity-Co-Op-Intern---Spring-2026_60299",
-        "locations": [
-            "Brandon, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Mosaic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -4318,29 +4126,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Thales",
-        "id": "cbaf22a2-49ef-4886-8b8c-f4bc8a92ad52",
-        "title": "Intern \u2013 Trainer - Cybersecurity",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755293209,
-        "date_posted": 1755293209,
-        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Fredericton---Knowledge-Park/Intern---Trainer--Cybersecurity-_R0293845",
-        "locations": [
-            "Fredericton, NB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Thales",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -273801,30 +273586,6 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Atlassian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "2a990ef9-e3ea-4528-a014-01eb03578f74",
-        "title": "Graduate Software Engineer - Edge Platform",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1763115183,
-        "date_posted": 1755292877,
-        "url": "https://jobs.bytedance.com/en/position/7538120693880834322/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
