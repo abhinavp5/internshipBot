@@ -1,68 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Brunswick",
-        "id": "678d4019-7221-4f9b-a4d1-dbab1501f754",
-        "title": "Front-End Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025",
-            "Spring 2025"
-        ],
-        "date_updated": 1755290731,
-        "date_posted": 1755290731,
-        "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Front-End-Development-Intern_JR-047199",
-        "locations": [
-            "Urbana, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/a93a0fb2-e10a-434c-a88c-a639748677a4",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Link Logistics",
-        "id": "55c25f29-d66f-41c5-b049-6cc111eb5323",
-        "title": "Research & Analytics Summer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1755290784,
-        "date_posted": 1755290784,
-        "url": "https://linklogistics.wd5.myworkdayjobs.com/en-US/Link/job/New-York-New-York/Research---Analytics-Summer-Intern_JR101481",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/6239df36-c310-4d81-9f43-abc34b0fc63e",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "GlobalFoundries",
-        "id": "dab37c8a-b85b-43a1-8756-6f237583bdc2",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755290999,
-        "date_posted": 1755290999,
-        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Software-Engineering-Intern--Summer-2026-_JR-2502857",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/GlobalFoundries",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "NXP Semiconductors",
         "id": "51a27002-0cc8-4eb9-bfb3-d69fa784ab95",
@@ -4014,29 +3952,6 @@
     {
         "source": "Simplify",
         "category": "Product",
-        "company_name": "Goldman Sachs",
-        "id": "3faca5bc-b341-4b90-8a19-e565fe16486e",
-        "title": "2026 \u2013 Summer Analyst - Wealth Management - Product Management",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755291439,
-        "date_posted": 1755291439,
-        "url": "https://higher.gs.com/roles/150629?type=students",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/1e8c5083-a2a3-4cb5-b517-47da9c7a9da2",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
         "company_name": "TikTok",
         "id": "b68df86b-5d86-439f-8b8a-eb9b15e9ddf3",
         "title": "Product Manager Intern - Tiktok-Pgc - BS/MS",
@@ -4430,52 +4345,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "88789b47-9fb6-403c-bad2-041cccae3d74",
-        "title": "Research Intern - SDN Traffic Intelligence & Control - PhD",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755290745,
-        "date_posted": 1755290745,
-        "url": "https://jobs.bytedance.com/en/position/7537161497627281682/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "de5074f8-86bf-493d-b154-08ce9f1f4a9c",
-        "title": "Researcher Intern - Virtual Network",
-        "active": true,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755290012,
-        "date_posted": 1755290012,
-        "url": "https://jobs.bytedance.com/en/position/7537163899668531474/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
         ]
     },
     {
@@ -83566,33 +83435,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Brunswick",
-        "id": "d2b4cdc0-b44d-4cf1-b6a3-2a3f1aa13a5a",
-        "title": "Controls & Dynamics Intern",
-        "active": false,
-        "terms": [
-            "Spring 2025",
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1758279541,
-        "date_posted": 1755290883,
-        "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Controls---Dynamics-Intern_JR-047198",
-        "locations": [
-            "Urbana, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Brunswick",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
         "date_updated": 1759960438,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -86061,32 +85903,6 @@
         "sponsorship": "Other",
         "degrees": [
             "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Goldman Sachs",
-        "id": "02da9991-66a0-464f-93e7-538c24d20855",
-        "title": "Summer Associate - FICC and Equities - Sales and Trading - Quantitative Strats",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758384290,
-        "date_posted": 1755291444,
-        "url": "https://higher.gs.com/roles/152573?type=students",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "MBA",
-            "PhD",
-            "JD",
-            "MD"
         ]
     },
     {
@@ -174865,48 +174681,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "ac5c5f08-da14-42de-b7aa-0d532145eefa",
-        "title": "Research Scientist Intern - Biomolecular Structure Foundation Models - Seed AI-for-Science - 2026 Start - PhD",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1755290007,
-        "date_posted": 1755290007,
-        "url": "https://jobs.bytedance.com/en/position/7537827352539547912/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Citadel",
-        "id": "265f4b8d-6afd-4040-acda-09cd946b68db",
-        "title": "Sector Data Associate \u2013 Intern - US",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761860881,
-        "date_posted": 1755290504,
-        "url": "https://www.citadel.com/careers/details/sector-data-associate-intern-us/",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Citadel",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
