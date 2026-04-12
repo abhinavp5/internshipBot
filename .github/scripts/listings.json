@@ -457421,5 +457421,53 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nebius",
+        "id": "6364799b-c10e-4f4f-8cd0-740fadbce721",
+        "title": "AI Researcher",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1775987111,
+        "date_posted": 1774574703,
+        "url": "https://careers.nebius.com/?gh_jid=4812140101",
+        "locations": [
+            "Europe",
+            "La Ronge, SK, Canada",
+            "Berlin, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/Nebius",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Parsons",
+        "id": "b0765f9a-486a-4128-979c-3cd1149f3f3d",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775985850,
+        "date_posted": 1775984616,
+        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CA-Camarillo/Software-Engineer-Intern_R179340-1",
+        "locations": [
+            "Camarillo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Parsons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
