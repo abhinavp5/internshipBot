@@ -231606,7 +231606,7 @@
         "company_name": "General Motors",
         "id": "5803f9bc-8ae8-4932-a0d2-dcf7112dae7a",
         "title": "Intern \u2013 AI/ML Software Engineering Intern - Simulation Core",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -231834,7 +231834,7 @@
         "company_name": "General Motors",
         "id": "000848a2-c7a7-49f1-af93-0068bd5e68d3",
         "title": "2026 Summer Intern - AI/ML Software Engineer - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -255395,7 +255395,7 @@
         "company_name": "Genentech",
         "id": "97619c38-15f8-400f-a75c-36cbdccee7a4",
         "title": "2026 Summer Intern - Gcs Aidd",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -350194,7 +350194,7 @@
         "company_name": "Moog ",
         "id": "f8eae464-d6ed-4ea3-b547-b300c18601de",
         "title": "Intern \u2013 Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -435030,7 +435030,7 @@
         "company_name": "Roku",
         "id": "a43a6779-1921-4ecc-9e8f-e319b884bdf8",
         "title": "Software Engineer Intern - Embedded Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -438454,7 +438454,7 @@
         "company_name": "Hawk-Eye Innovations",
         "id": "2fe24239-0f96-428c-a705-c9547f005e55",
         "title": "College Sports Systems Technician",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -438499,7 +438499,7 @@
         "company_name": "Hawk-Eye Innovations",
         "id": "ee1ded09-1735-43f7-b45f-398d43f50c1d",
         "title": "College Sports Systems Technician",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -438703,7 +438703,7 @@
         "company_name": "Hawk-Eye Innovations",
         "id": "00c44977-4fce-411f-a465-9764389338d5",
         "title": "College Sports Systems Technician",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -439205,7 +439205,7 @@
         "company_name": "Hawk-Eye Innovations",
         "id": "91076758-af0b-4cc5-b83a-502412a27fbb",
         "title": "College Sports Systems Technician",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -443450,7 +443450,7 @@
         "company_name": "The Walt Disney Company",
         "id": "7a7405cf-34cf-4c12-af91-a9d398652be1",
         "title": "Revenue Planning & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -453903,7 +453903,7 @@
         "company_name": "Intel",
         "id": "3e394c36-8da5-4c27-bf62-4c58ea81a857",
         "title": "CPU Verification Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -454530,5 +454530,166 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1776068694,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jbb.applytojob.com/apply/SCtkdVCvur/Software-Engineering-Intern",
+        "company_name": "JB&B",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "5eab8b50-11eb-463a-9918-f693b94ccd2d",
+        "date_posted": 1776068694,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776069239,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4056745",
+        "company_name": "System Automation",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Remote in US"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "8e3a591d-76d3-43be-a196-ad518e330ef1",
+        "date_posted": 1776069239,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776069480,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1195/software-development-intern",
+        "company_name": "Sandhills Global",
+        "title": "Software Development Intern",
+        "locations": [
+            "Lincoln, NE"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "c59aa3f2-08bd-413a-a82e-29840631cfd4",
+        "date_posted": 1776069480,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776069597,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3772852",
+        "company_name": "Arrow International",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Las Vegas, NV"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "b18e4b3b-369a-4075-9992-60432561f6d0",
+        "date_posted": 1776069597,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776069858,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.paycomonline.net/v4/ats/web.php/portal/4689D9AB2F6F99AD5F352379B206FD14/jobs/497616",
+        "company_name": "HealthStream",
+        "title": "Intern, Software Developer",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "6a107277-e440-4924-bcd2-aa6e97178f2a",
+        "date_posted": 1776069858,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776069985,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-americas.hyundai.com/hatci/job/Superior-Charter-Township-Infotainment-Software-Engineering-Intern-%28Internship-Summer-2026%29-MI-48198/1335957800",
+        "company_name": "Hyundai Motor Company",
+        "title": "Infotainment Software Engineering Intern",
+        "locations": [
+            "Superior Charter Township, MI"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "af182cdf-8e6f-4c4a-90e7-4adf88584023",
+        "date_posted": 1776069985,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776070106,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://careers.amperecomputing.com/jobs/17398918-technical-intern-compiler-software",
+        "company_name": "Ampere",
+        "title": "Technical Intern, Compiler Software",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "9ae96148-b56b-474f-91f7-30d7014076f0",
+        "date_posted": 1776070106,
+        "company_url": "",
+        "is_visible": true
     }
 ]
