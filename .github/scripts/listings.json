@@ -1,45 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ConnectPrep",
-        "id": "77cb3c56-8756-48cd-a185-c345440af69c",
-        "title": "Data Analyst Internship",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755321145,
-        "date_posted": 1755321145,
-        "url": "https://apply.workable.com/connectprep/j/DFBFC5045A/apply",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/ConnectPrep",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ConnectPrep",
-        "id": "18a96e4c-2f48-4388-a17b-3127e516ed49",
-        "title": "Data Analyst Internship",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755321143,
-        "date_posted": 1755321143,
-        "url": "https://apply.workable.com/connectprep/j/80CC49930B/apply",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/ConnectPrep",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1755419208,
         "url": "https://careers.adobe.com/us/en/job/ADOBUSR158493EXTERNALENUS/2026-AI-ML-Intern-Machine-Learning-Engineer",
         "company_name": "Adobe",
@@ -406858,7 +406818,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "d4419ac6-1d72-4e13-9251-023583b00982",
         "title": "Digital Product Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -421432,7 +421392,7 @@
         "company_name": "Salt Lake County",
         "id": "ef21d190-a954-40a8-9947-966c37055927",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -431619,7 +431579,7 @@
         "company_name": "Xcel Energy",
         "id": "3a6e1e15-b0c4-48d7-98ae-51b9da8a6fe1",
         "title": "Planning and Process Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -431809,7 +431769,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "d0d43596-9fb2-4ff5-9472-b8ecdb95e33c",
         "title": "Relationship Manager Business Markets Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -433310,7 +433270,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "815e39c5-e290-4139-a8e5-919e64d03626",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -436213,7 +436173,7 @@
         "company_name": "Oklahoma State Government",
         "id": "78b98bdc-93b8-40eb-a25b-d64210672c5b",
         "title": "Applications Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450335,7 +450295,7 @@
         "company_name": "GE Healthcare",
         "id": "c59fb9ed-4bc1-4a72-8116-4e699ada8ba1",
         "title": "Engineering Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -451994,7 +451954,7 @@
         "company_name": "RTX",
         "id": "41ec2536-ba2b-49ed-a69a-7dade8fccbf8",
         "title": "Intern - Digital Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -454038,7 +453998,7 @@
         "company_name": "CoorsTek",
         "id": "15aced23-28d6-42cd-8fdd-bd680d750720",
         "title": "Computational Materials Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -454454,5 +454414,121 @@
         "date_posted": 1776054371,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "02cbd3c8-3951-45a7-be4b-34ae152828c1",
+        "title": "Distribution & Geospatial Intelligence Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1776061994,
+        "date_posted": 1776060463,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Distribution---Geospatial-Intelligence-Intern-Co-op--FALL-2026-_R_1482578",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "22871a29-e77a-4908-ac2b-4ce135fbd3dd",
+        "title": "AI2 Applied Machine Learning Scientist Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1776062168,
+        "date_posted": 1776060464,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Applied-Machine-Learning-Scientist-Co-op-Intern_R_1482685",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "21653ce1-3a9d-477e-91b4-2a052d25c013",
+        "title": "AI2 Data Science Co-op/Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1776061456,
+        "date_posted": 1776060463,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Data-Science-Co-op-Intern--FALL-2026-_R_1482876",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "9bc3c495-1a18-43bb-9d53-4a0287fc1efa",
+        "title": "Data Analytics & Insights Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1776061456,
+        "date_posted": 1776060463,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/Data-Analytics---Insights-Intern-Co-op--FALL-2026-_R_1480700",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "577756ad-9d10-49f6-ac97-e0b741914a7c",
+        "title": "Risk Management \u2013 Market Risk and Collateral Risk Analytics Intern/Co-op - Prime Brokerage",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1776061456,
+        "date_posted": 1776060464,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Risk-Management---Prime-Brokerage---Market-Risk-and-Collateral-Risk-Analytics-Intern-Co-op--Fall-2026-_R_1481288",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
