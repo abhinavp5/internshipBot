@@ -10562,7 +10562,7 @@
         "company_name": "Integra FEC",
         "id": "cb3ccfe8-f92f-419f-9c6d-cc27581e0c17",
         "title": "Summer \u2013 Data Scientist Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -10658,7 +10658,7 @@
         "company_name": "Integra FEC",
         "id": "f33fda29-ae17-406e-a534-61199ec17a81",
         "title": "Summer \u2013 Data Scientist Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -123686,7 +123686,7 @@
         "company_name": "General Motors",
         "id": "6c43b7e6-b33c-491e-bcd0-f6a363450901",
         "title": "Co-Op - Software Developer - Virtualization and SIL Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -210458,7 +210458,7 @@
         "company_name": "SummitTX",
         "id": "ca26cf7a-7321-4233-b5b3-6f2382e54079",
         "title": "Research Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -241782,7 +241782,7 @@
         "company_name": "Geotab",
         "id": "a4d3cbd7-a394-4cb6-9048-1a90b1e5bc66",
         "title": "Embedded Developer Intern - Pipeline Automation - Summer/May 2026 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -263029,7 +263029,7 @@
         "company_name": "Veeva Systems",
         "id": "953b3a18-4e7e-4d20-99f9-cb3fd5c7d56f",
         "title": "Intern Software Engineer - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -269783,7 +269783,7 @@
         "company_name": "Anthropic",
         "id": "8a17a8bb-179e-4026-be78-6324749ad898",
         "title": "Anthropic AI Security Fellow",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -359809,7 +359809,7 @@
         "company_name": "IMC Trading",
         "id": "823db458-31ee-4535-b206-f36bc89e6596",
         "title": "2026 Launchpad Quant Trading Program",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -384445,7 +384445,7 @@
         "company_name": "ASSA ABLOY",
         "id": "dc0921b6-93e5-4438-bf26-791f1012082a",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -416491,7 +416491,7 @@
         "company_name": "Impiricus",
         "id": "a51651ef-323e-4a64-afea-c7ab40c14f60",
         "title": "Software Engineer Intern - Full Stack",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -417004,7 +417004,7 @@
         "company_name": "Impiricus",
         "id": "b4ea56db-dcfd-4479-8dde-abdf95b8431d",
         "title": "Intern Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -418268,7 +418268,7 @@
     {
         "date_updated": 1774262037,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -425426,7 +425426,7 @@
         "company_name": "The Health Management Academy ",
         "id": "ca0d630f-15a3-4423-aab5-452b426b4c82",
         "title": "Intern - AI & Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -430142,7 +430142,7 @@
         "company_name": "Realtor.com",
         "id": "e72c1669-574b-428b-851d-dd0b70925dc7",
         "title": "Intern Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437319,7 +437319,7 @@
         "company_name": "RTX",
         "id": "602db81a-f1d0-4d26-8d0e-6349b681662f",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -449644,7 +449644,7 @@
         "company_name": "Echodyne",
         "id": "27a52339-e836-418f-9347-ec3fda8d8f2c",
         "title": "Intern Data Engineer/Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450966,7 +450966,7 @@
         "company_name": "Toshiba Global Commerce",
         "id": "2eecbbe5-be6c-48e5-874c-42850c183a88",
         "title": "Agentic Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -451088,7 +451088,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "ebb4ca1a-bd11-49fb-b26e-744b9c4f3207",
         "title": "3D Vision and Scene Understanding \u2013 AI Research & Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -451856,7 +451856,7 @@
         "company_name": "Anthropic",
         "id": "0d633297-0371-40a5-bcfe-d66992c2ba79",
         "title": "Anthropic Fellows Program - ML Systems & Performance",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -451880,7 +451880,7 @@
         "company_name": "Fortive",
         "id": "7f4d8db4-5dbf-47d2-9aff-53399e10da7c",
         "title": "AI / Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -452004,7 +452004,7 @@
         "company_name": "Anthropic",
         "id": "0d4ecc36-f29c-4669-acc0-ccbfbdf04c9a",
         "title": "Anthropic Fellows Program - AI Safety",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -455260,5 +455260,29 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "EQ Bank",
+        "id": "04d028c2-711a-4166-88c0-4e3473cb1410",
+        "title": "Applied AI Experimentation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776117790,
+        "date_posted": 1776117757,
+        "url": "https://jobs.lever.co/eqbank/1541dde4-1549-4163-87c7-59c3101aee96/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/EQ-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
