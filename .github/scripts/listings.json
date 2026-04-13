@@ -218128,7 +218128,7 @@
         "company_name": "Cisco",
         "id": "aacdbbaf-a5cc-4079-a368-0ef4edd79fac",
         "title": "Data Science Analyst 1 \u2013 Intern - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -357817,7 +357817,7 @@
         "company_name": "Beta Technologies",
         "id": "39ee1894-8701-4475-96df-dde3bd659cf0",
         "title": "BETA Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -390950,7 +390950,7 @@
         "company_name": "Arrowstreet Capital",
         "id": "a6a63e14-a943-495b-adea-9b4ad9c3cb88",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -403234,7 +403234,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "05f35073-76d6-4d7c-ae1b-14b1e450319b",
         "title": "Artificial Intelligence / Machine Learning: Foundation Models Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
