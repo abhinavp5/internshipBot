@@ -175202,7 +175202,7 @@
         "company_name": "Salesforce",
         "id": "b476d6e3-d5b0-4179-8453-71f2a34f632e",
         "title": "Summer 2026 Intern-Tableau Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -437881,7 +437881,7 @@
         "company_name": "BillionToOne",
         "id": "81efd219-5558-42a5-8226-3adb72e17e94",
         "title": "AI Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -440113,7 +440113,7 @@
         "company_name": "Salesforce",
         "id": "1aa662ef-b4e7-4286-9f3a-dfd9f9055bef",
         "title": "Intern-Tableau Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -443911,7 +443911,7 @@
         "company_name": "Moog ",
         "id": "0cf45f8e-ee9a-4102-adce-9e4d03198706",
         "title": "Intern Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -447118,7 +447118,7 @@
         "company_name": "Cerence",
         "id": "7f74e92e-37c7-462d-aef8-472468418e4f",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
