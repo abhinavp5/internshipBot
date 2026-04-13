@@ -429673,7 +429673,7 @@
         "company_name": "Mohawk",
         "id": "435eb7f4-e807-4f17-9901-9ab2dd0a43a9",
         "title": "Technical Coordinator",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -440395,7 +440395,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "6eafb4a5-073a-4068-833b-4c7c80a6721b",
         "title": "Graduate Specialist Program - Design Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -454850,5 +454850,343 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "University of Virginia",
+        "id": "a4ec3387-2133-4020-8ec4-33c398fb8027",
+        "title": "Prairielearn Assessment Support Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776088991,
+        "date_posted": 1776088897,
+        "url": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/PrairieLearn-Assessment-Support-Assistant--Student-Wage-_R0081985",
+        "locations": [
+            "Charlottesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Virginia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CAE",
+        "id": "592c59c2-2f72-4cef-9f27-f712d315816e",
+        "title": "R&D Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776090969,
+        "date_posted": 1776089179,
+        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Tampa/R-D-Software-Engineer-Co-op_121119",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/CAE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "4598e1fc-f3f2-4a9c-87b6-15c1c6bdae41",
+        "title": "ISRM Data & Analytics GEM Fellow",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776091796,
+        "date_posted": 1776089361,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/ISRM-2026-Data---Analytics-GEM-Fellow_R-067835",
+        "locations": [
+            "Bridgewater Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Healthesystems",
+        "id": "3d110dc0-a777-4a41-97cf-3dd9540d5188",
+        "title": "Information Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776091861,
+        "date_posted": 1776089915,
+        "url": "https://www.healthesystems.com/unassigned/careers-list?gh_jid=7695699003",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/011c5ba5-1f20-4299-bb8b-8695532d9915",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Healthesystems",
+        "id": "cf57314a-913c-4098-ab82-a42e48130da3",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776091905,
+        "date_posted": 1776089915,
+        "url": "https://www.healthesystems.com/unassigned/careers-list?gh_jid=7695344003",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/011c5ba5-1f20-4299-bb8b-8695532d9915",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Octopus Energy",
+        "id": "66f84f81-03a3-4edc-ae9c-6fe30f96da70",
+        "title": "Octopus In Colour Intern - Flexibility - Data",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776091847,
+        "date_posted": 1776089420,
+        "url": "https://jobs.lever.co/octoenergy/5c5ab1bd-53a6-4f69-a3fb-54b739c93f63/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Octopus-energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Magna",
+        "id": "4c01f6a7-3975-481a-86b8-0ceefa8f7e14",
+        "title": "Software Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776091847,
+        "date_posted": 1776089291,
+        "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Newmarket-Ontario-CA/Software-Engineering-Co-op_R00238361",
+        "locations": [
+            "Newmarket, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Magna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA",
+        "id": "8f3014a5-ba80-4fc3-ae56-54b97e21bca3",
+        "title": "System Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776090969,
+        "date_posted": 1776089214,
+        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/System-Engineering-Intern_2532514-1",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "ef9e51ce-49b3-4f58-b773-8c8288cf7ad1",
+        "title": "Computer Vision/Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776091921,
+        "date_posted": 1776089457,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Computer-Vision-Machine-Learning-Intern_R-00180501",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MSX International",
+        "id": "76360717-c141-4dda-8deb-21c0a547eade",
+        "title": "Computer Science Intern - Data Analytics Team",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776090969,
+        "date_posted": 1776089193,
+        "url": "https://jobs.smartrecruiters.com/MSXInternational/3743990012567501",
+        "locations": [
+            "Troy, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/MSX-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MSX International",
+        "id": "ccfe801a-f3ca-4053-8a0d-296b3c36793d",
+        "title": "Computer Science Intern - Data Analytics Team",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776090969,
+        "date_posted": 1776089193,
+        "url": "https://jobs.smartrecruiters.com/MSXInternational/3743990012567422",
+        "locations": [
+            "Troy, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/MSX-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "66fc574c-25d1-493f-a5e8-d59b63230540",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1776091855,
+        "date_posted": 1776089460,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Development-Intern_R-00180628",
+        "locations": [
+            "Gaithersburg, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Menasha Corporation",
+        "id": "5dc05332-a934-4a18-aa74-2b46587b6bc4",
+        "title": "Packaging Structural Design Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776091694,
+        "date_posted": 1776089304,
+        "url": "https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Brampton-Ontario/Packaging-Structural-Design-Intern-12--Month-Contract_R13541",
+        "locations": [
+            "Brampton, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Menasha-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Duke Energy",
+        "id": "45d0eb72-6047-4e68-b4e1-f409373aa191",
+        "title": "Agile Operations Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776091823,
+        "date_posted": 1776089427,
+        "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Agile-Operations-Summer-2026-Intern_R39205",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Duke-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "02565f6e-3d2f-4610-99f3-f93ffa6af89c",
+        "title": "Epidemiology and Data Management Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1776091832,
+        "date_posted": 1776089459,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Epidemiology-and-Data-Management-Intern_R-00180498",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
