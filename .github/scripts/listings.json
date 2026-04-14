@@ -10261,7 +10261,7 @@
         "company_name": "Integra FEC",
         "id": "cb3ccfe8-f92f-419f-9c6d-cc27581e0c17",
         "title": "Summer \u2013 Data Scientist Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -10357,7 +10357,7 @@
         "company_name": "Integra FEC",
         "id": "f33fda29-ae17-406e-a534-61199ec17a81",
         "title": "Summer \u2013 Data Scientist Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -210157,7 +210157,7 @@
         "company_name": "SummitTX",
         "id": "ca26cf7a-7321-4233-b5b3-6f2382e54079",
         "title": "Research Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -311855,7 +311855,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "c6a73327-b71f-4714-8701-dd9bc03fbbfa",
         "title": "Summer 2026 Software Developer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376370,7 +376370,7 @@
         "company_name": "Leonardo",
         "id": "95869ecc-6fd7-4b30-b5c0-6791135fdc57",
         "title": "Summer Placement Test Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -410223,7 +410223,7 @@
         "company_name": "CSL",
         "id": "b6fae392-7fe9-433f-9ff9-3beb8557c195",
         "title": "Business Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -417967,7 +417967,7 @@
     {
         "date_updated": 1774262037,
         "sponsorship": "Other",
-        "active": false,
+        "active": true,
         "degrees": [
             "Bachelor's"
         ],
@@ -423969,7 +423969,7 @@
         "company_name": "Moog ",
         "id": "79020f6b-ecd9-4b7b-856d-f9af4fec97e7",
         "title": "Intern \u2013 Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -446343,7 +446343,7 @@
         "company_name": "Copeland",
         "id": "367fa995-b035-4af6-9193-39a71d569ed6",
         "title": "Technician Student - Technician Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -455365,7 +455365,7 @@
         "company_name": "Commvault",
         "id": "8ccd49a7-b8a1-4aa8-843d-8ce7dbd3db68",
         "title": "AI & Support Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -456825,5 +456825,252 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Xylem",
+        "id": "f395a0cf-3059-4cc5-986d-ca495b48dbca",
+        "title": "Application Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776177913,
+        "date_posted": 1776175705,
+        "url": "https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Cheektowaga-New-York/Application-Engineer---Intern_R47633",
+        "locations": [
+            "Cheektowaga, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Xylem",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Magna",
+        "id": "3f093007-2f47-4f2c-aba0-c6d606ac5f1e",
+        "title": "Infrared Imaging & Algorithms Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776178479,
+        "date_posted": 1776175685,
+        "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Intern---Engineering_R00235409",
+        "locations": [
+            "Goleta, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Magna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Global",
+        "id": "fce0cd36-aadf-4cec-8d4e-290ab0668349",
+        "title": "Data & Audience Planning Executive",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776177913,
+        "date_posted": 1776175481,
+        "url": "https://thisisglobal.wd3.myworkdayjobs.com/Global/job/Leicester-Square---London/Data---Audience-Planning-Executive_R0009249",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Magna",
+        "id": "ae910e57-cf15-4cec-a809-ca5d3d76d269",
+        "title": "Infrared Systems & Test Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776178517,
+        "date_posted": 1776175687,
+        "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Goleta-California-US/Intern---Engineering_R00235410",
+        "locations": [
+            "Goleta, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Magna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PHINIA",
+        "id": "f62a6cc8-186a-451b-a238-63a2cf46dc75",
+        "title": "AI Agent Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776180071,
+        "date_posted": 1776175870,
+        "url": "https://phinia.wd5.myworkdayjobs.com/PHINIA_Careers/job/Auburn-Hills-PHINIA-WHQ---Michigan---USA/AI-Agent-Developer-Intern_R2026-0276",
+        "locations": [
+            "Auburn Hills, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/PHINIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "c5b0c052-03c1-4d8f-ac53-7defdeadc3ce",
+        "title": "Wealth Management \u2013 Data Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776179020,
+        "date_posted": 1776175817,
+        "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/OWEN-SOUND-Ontario-Canada/Wealth-Management--Summer-Data-Analyst_R-0000167845",
+        "locations": [
+            "Port Elgin, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "a5d91301-e718-478d-bebe-b7a9a00c73c8",
+        "title": "Part-Time Research Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776180071,
+        "date_posted": 1776175819,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant---Astronomy-Department_REQ_0000077435-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Corewell Health",
+        "id": "795d83ad-9fce-482f-bd01-f1cba7ba7911",
+        "title": "Integrated Data Analytics Population Health Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776178529,
+        "date_posted": 1776175787,
+        "url": "https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Integrated-Data-Analytics-Population-Health-Internship_R210707",
+        "locations": [
+            "Grand Rapids, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Corewell-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fairstone Financial",
+        "id": "e133cd49-7e18-4ca6-9cbc-83faa8ce85cb",
+        "title": "Co-op Student - AI Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776177913,
+        "date_posted": 1776175440,
+        "url": "https://fairstone.wd3.myworkdayjobs.com/FairstoneCareers/job/Toronto-Ontario/Co-op-Student--AI-engineer_R24608",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Fairstone-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "607850c1-83af-4cf7-911c-8cec77b0d583",
+        "title": "Research Assistant in Securing Autonomous AI Agents",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776178595,
+        "date_posted": 1776175819,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Research-Assistant-in-Securing-Autonomous-AI-Agents-w--Dr-Liu_REQ_0000077394-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Climate Corps",
+        "id": "78365270-7513-47e2-8d11-c03caa6d5ab5",
+        "title": "Energy Efficiency Associate",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776177913,
+        "date_posted": 1774965925,
+        "url": "https://job-boards.greenhouse.io/cc/jobs/5170312008",
+        "locations": [
+            "Carson, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Climate-Corps",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
