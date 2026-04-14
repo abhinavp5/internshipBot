@@ -162186,7 +162186,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "df1e827e-ce84-4b0e-9898-fcfee0d18261",
         "title": "SW Engineer Intern - ",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -186909,7 +186909,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "0eeea078-6073-46e3-b12c-bfc910963f95",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -427744,7 +427744,7 @@
         "company_name": "SonoThera",
         "id": "73449e5e-97ad-4481-8313-ecb472548b5c",
         "title": "Nucleic Acid Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
