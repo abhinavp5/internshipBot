@@ -397480,7 +397480,7 @@
         "company_name": "Air Liquide",
         "id": "9a50b998-0876-4fd2-8ae4-caf81a03f2ab",
         "title": "VIE Product Management NCE",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -451856,7 +451856,7 @@
         "company_name": "Anthropic",
         "id": "0d633297-0371-40a5-bcfe-d66992c2ba79",
         "title": "Anthropic Fellows Program - ML Systems & Performance",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
