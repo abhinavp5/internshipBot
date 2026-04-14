@@ -1,28 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Arcade AI",
-        "id": "68ed1c26-8144-4fa7-89c5-bb2627babeb7",
-        "title": "Software Engineer Intern - Frontend",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1755439949,
-        "date_posted": 1755439949,
-        "url": "https://jobs.lever.co/Arcade/7fa8337b-07e3-4f34-824d-1e4dbed3e5fe/apply",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Arcade-AI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Skyworks",
         "id": "bfa0423f-2419-40fe-8e8a-a0348cbb53ca",
@@ -10283,7 +10261,7 @@
         "company_name": "Integra FEC",
         "id": "cb3ccfe8-f92f-419f-9c6d-cc27581e0c17",
         "title": "Summer \u2013 Data Scientist Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -10379,7 +10357,7 @@
         "company_name": "Integra FEC",
         "id": "f33fda29-ae17-406e-a534-61199ec17a81",
         "title": "Summer \u2013 Data Scientist Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -181143,7 +181121,7 @@
         "company_name": "Docugami",
         "id": "e6eb833f-8ff9-4da8-98de-2001135f3e0b",
         "title": "Data Science PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -210179,7 +210157,7 @@
         "company_name": "SummitTX",
         "id": "ca26cf7a-7321-4233-b5b3-6f2382e54079",
         "title": "Research Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -230665,7 +230643,7 @@
         "company_name": "Realtor.com",
         "id": "f5cb18e2-3850-42cc-890c-694531a9eee3",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -268128,7 +268106,7 @@
         "company_name": "Scientific Research Corporation",
         "id": "f80b92f8-f2ce-44ed-93e9-f358c3f610fb",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -281149,7 +281127,7 @@
         "company_name": "Ocean Optics",
         "id": "64546e1b-efb3-47dd-ab14-47d3044ccfa4",
         "title": "Student Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -295077,7 +295055,7 @@
         "company_name": "Oracle",
         "id": "9365c88f-0e14-4ef1-9b85-02f866792573",
         "title": "Data Center Oracle Pathways Trainee",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -347894,7 +347872,7 @@
         "company_name": "Amazon",
         "id": "2c78d5df-2090-4cba-974c-dbfd42aea222",
         "title": "Data Engineer Internship - UK - Amazon University Talent Acquisition','Auta",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -351609,7 +351587,7 @@
         "company_name": "UiPath",
         "id": "a22a52a0-4d50-4e2d-baf6-eb69ac766040",
         "title": "Automation Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -383257,7 +383235,7 @@
         "company_name": "CWS",
         "id": "52ec14b1-35e6-43a9-9413-256a4e2b04fd",
         "title": "Working Student Business Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -390671,7 +390649,7 @@
         "company_name": "Arrowstreet Capital",
         "id": "a6a63e14-a943-495b-adea-9b4ad9c3cb88",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -391557,7 +391535,7 @@
         "company_name": "Leidos",
         "id": "c7259ed0-61bb-4242-9cb9-07c112d9776a",
         "title": "Cyber AI/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -400883,7 +400861,7 @@
         "company_name": "Notability",
         "id": "898d61d9-04a3-488d-9b29-1dba8555f65a",
         "title": "Android Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -406212,7 +406190,7 @@
         "company_name": "GE Vernova",
         "id": "2bfd1c4d-795c-497f-b0d6-1d455cd67aeb",
         "title": "Controls Application Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -413946,7 +413924,7 @@
         "company_name": "Ensemble Health Partners",
         "id": "53d6f59a-95c8-4057-acc8-ce4bbb0a64a1",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -417989,7 +417967,7 @@
     {
         "date_updated": 1774262037,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -422641,7 +422619,7 @@
         "company_name": "GE Vernova",
         "id": "7439f59d-7849-4135-905d-ac5f88ad7b9b",
         "title": "Controls Application Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -422664,7 +422642,7 @@
         "company_name": "GE Vernova",
         "id": "5d81b36e-782f-45df-a048-ba3d5bc7a21c",
         "title": "Controls Application Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445761,7 +445739,7 @@
         "company_name": "GE Vernova",
         "id": "9f237286-3621-4e5c-8509-c77ca8f623dd",
         "title": "NPI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445831,7 +445809,7 @@
         "company_name": "GE Vernova",
         "id": "74d99883-4d6b-4975-8a56-a04937c481fa",
         "title": "NPI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445946,7 +445924,7 @@
         "company_name": "GE Vernova",
         "id": "aeec5d6e-cfae-4531-8de0-0c79c20fd3d7",
         "title": "NPI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445969,7 +445947,7 @@
         "company_name": "GE Vernova",
         "id": "1d635293-ddf9-46fa-9707-869f3bc5c8b7",
         "title": "NPI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453555,7 +453533,7 @@
         "company_name": "Northrop Grumman",
         "id": "e364f68b-6065-45ec-be02-2db34b5f57d8",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -455801,7 +455779,7 @@
         "company_name": "Seurat Technologies",
         "id": "2f2d9d04-515f-4465-9d5e-1d77f78fab54",
         "title": "Electro Optics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -455825,7 +455803,7 @@
         "company_name": "Seurat Technologies",
         "id": "29102340-c880-4172-9db3-bea0b7b2079b",
         "title": "Electro Optics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -456094,7 +456072,7 @@
         "company_name": "Dick's Sporting Goods",
         "id": "00a69742-65c8-476c-a718-98534e3db7bb",
         "title": "Android Software Engineer Intern - Stats & Insights",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -456459,7 +456437,7 @@
         "company_name": "New Balance",
         "id": "35bb23c2-3693-46ef-831b-546dedfeace2",
         "title": "Lifestyle Footwear Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
