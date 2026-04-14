@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Skyworks",
-        "id": "bfa0423f-2419-40fe-8e8a-a0348cbb53ca",
-        "title": "Timing Customer Applications Summer Intern - Hardware - May-Aug",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755450135,
-        "date_posted": 1755450135,
-        "url": "https://careers.skyworksinc.com/job/Austin-Timing-Customer-Applications-Summer-Intern-(Hardware)-May'26-Aug-'26-TX-73301/1317296000/?ats=successfactors",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Skyworks",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Skyworks",
         "id": "f7b026da-f688-4cd7-85aa-3dca44f0300b",
@@ -23157,7 +23137,7 @@
         "company_name": "NVIDIA",
         "id": "cef272b2-b67a-439d-a923-35698b97ab44",
         "title": "Internships: Deep Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -319626,7 +319606,7 @@
         "company_name": "Interdigital",
         "id": "7f003c72-c48c-4d9a-af23-666abbce760c",
         "title": "Intern Integerized AI-based Video Compression Models",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -437745,7 +437725,7 @@
         "company_name": "Camping World",
         "id": "d6535b43-3971-44e3-ae3f-8ce4b5b95a4e",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -446320,7 +446300,7 @@
         "company_name": "Western Digital",
         "id": "b4c8a0a6-8b3e-4272-a649-2860c3865e2a",
         "title": "Intern - HAMR Component Testing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
