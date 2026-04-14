@@ -60129,7 +60129,7 @@
         "company_name": "Emerson Electric",
         "id": "a711ec8a-3320-479f-88cf-a451952e8f9c",
         "title": "Software Engineering Co-op - June-Dec",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -213669,7 +213669,7 @@
         "company_name": "Field AI",
         "id": "5e08ce2e-62e0-4bfe-a230-069592c99573",
         "title": "Field Application Engineer-Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -266506,7 +266506,7 @@
         "company_name": "Field AI",
         "id": "e98f2c1d-a1ba-418f-872e-547a9a973a13",
         "title": "Field Application Engineer / Intern - Mineral - Virginia",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -345355,7 +345355,7 @@
         "company_name": "Optiver",
         "id": "a26f6d73-48d5-49fa-b869-6426bd8284a6",
         "title": "Imperial Trading Academy",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -356071,7 +356071,7 @@
         "company_name": "QuidelOrtho",
         "id": "710bf8ff-96b0-4d2e-8f9f-35721f9d6e7d",
         "title": "Global Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364073,7 +364073,7 @@
         "company_name": "Transcarent",
         "id": "576d4925-2af7-42ed-ba93-6a5d50a92e81",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -397480,7 +397480,7 @@
         "company_name": "Air Liquide",
         "id": "9a50b998-0876-4fd2-8ae4-caf81a03f2ab",
         "title": "VIE Product Management NCE",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -447422,7 +447422,7 @@
         "company_name": "Western Digital",
         "id": "1535fa08-e8d1-4a45-bb30-4d572bdc4955",
         "title": "Intern - Surface Science & Analytical Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450870,7 +450870,7 @@
         "company_name": "Bot Auto",
         "id": "7d21d415-d47c-4e23-844f-3c1b4bf5ab82",
         "title": "Intern Software Engineer-Operation Platforms",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450989,7 +450989,7 @@
         "company_name": "Bot Auto",
         "id": "14335cf1-85f0-4051-b9ce-2dd8f32263b2",
         "title": "Intern Software Engineer-AI Agents",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -456682,6 +456682,98 @@
             "Binghamton, NY"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Astera Labs",
+        "id": "eb46660c-1c96-46c6-b136-93026bb56187",
+        "title": "Hardware Lab Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776129854,
+        "date_posted": 1776129112,
+        "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4674649005",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AsteraLabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "S&P Global ",
+        "id": "ce132c3f-1fa7-4782-9ab5-64f452d94dfe",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776129854,
+        "date_posted": 1776128869,
+        "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Michigan-US/Product-Management-Intern--Early-Careers-_327951-1",
+        "locations": [
+            "Southfield, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/SP-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "New Balance",
+        "id": "35bb23c2-3693-46ef-831b-546dedfeace2",
+        "title": "Lifestyle Footwear Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776130194,
+        "date_posted": 1776128940,
+        "url": "https://newbalance.wd1.myworkdayjobs.com/careers/job/Boston-MA-Headquarters---NB/Lifestyle-Footwear-Internship_R39429",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/New-Balance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LabCorp",
+        "id": "db35b004-8aaa-4a73-bc80-49b9cda228b6",
+        "title": "Lab AI Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776130218,
+        "date_posted": 1776128977,
+        "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/USA---CA---San-Diego---13112-Evening-Creek-Drive/Intern-Lab-Artificial-Intelligence---Hybrid_2612506",
+        "locations": [
+            "SF",
+            "LA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LabCorp",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
