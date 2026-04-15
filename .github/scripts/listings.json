@@ -1,28 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ecolab",
-        "id": "c8f7bdbe-3548-4a34-9594-9a5f978e8bd2",
-        "title": "Digital Technology Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755540278,
-        "date_posted": 1755540278,
-        "url": "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Digital-Technology-Intern_R00272283-1",
-        "locations": [
-            "Naperville, IL",
-            "Eagan, MN",
-            "St Paul, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Ecolab",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Freddie Mac",
         "id": "af7d41dc-2d3c-4dca-beaf-64e822c257f2",
@@ -1776,30 +1754,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Royal Bank of Canada",
-        "id": "8dc36f44-8e42-43b7-a638-668afafd18b3",
-        "title": "AI Model Risk Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1755541177,
-        "date_posted": 1755541177,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Winter---GRM--AI-Model-Risk-Intern--4-Months-_R-0000137702",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -78974,7 +78928,7 @@
         "company_name": "Allegion",
         "id": "87ba0184-9d90-49dd-bb68-4066c3ed9f64",
         "title": "Summer Intern - Software Engineering - Platform Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -199598,7 +199552,7 @@
         "company_name": "Oshkosh",
         "id": "85787b3e-a5d3-4777-8516-d6fc04aac06a",
         "title": "Autonomy Engineer Intern-Motion Planning",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -243245,7 +243199,7 @@
         "company_name": "Amazon",
         "id": "e21e162d-7316-4d6c-bc9c-e83d805129cb",
         "title": "2026 Applied Science Internship - Recommender Systems/ Information Retrieval - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -243828,7 +243782,7 @@
         "company_name": "Moog ",
         "id": "902b8b1a-da34-460c-b602-70fcf572731a",
         "title": "Engineering Undergraduate Internships 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -266562,7 +266516,7 @@
         "company_name": "Parsons",
         "id": "6fa082ec-eda1-4bf9-ab28-82cd83bfcce0",
         "title": "Computer Vision / Robotics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -306540,7 +306494,7 @@
         "company_name": "KLA Corporation",
         "id": "ea8180c5-2127-4cf8-bea0-585d560c671f",
         "title": "Software Intern - HPC Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -306725,7 +306679,7 @@
         "company_name": "KLA",
         "id": "a7552028-a335-4ab7-afb4-7fb33677ae44",
         "title": "Software Intern - HPC Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -325331,7 +325285,7 @@
         "company_name": "Applied Materials",
         "id": "f262a608-7bc2-44bf-98a0-7fc9feeda54e",
         "title": "Data Science Analyst Intern - BS/MBA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -340209,7 +340163,7 @@
         "company_name": "Guggenheim",
         "id": "c228d673-30bd-41eb-bfc7-6da22d9a40bf",
         "title": "Quantitative Investment Analyst - Total Return Team",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -361576,7 +361530,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "5ddf1550-48bf-4f4c-a147-e21871657c06",
         "title": "Data Science Maintenance Support Emerging Talent Intern - Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -361976,7 +361930,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "c051baf9-2908-42d6-83b8-cbab2fbbc595",
         "title": "Data Analyst \u2013 Emerging Talent Intern - Power - Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368597,7 +368551,7 @@
         "company_name": "Vertex Pharmaceuticals",
         "id": "81122ed8-a80a-4cc9-ab12-2421adfcb632",
         "title": "Intern - Statistical Programming - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -405762,7 +405716,7 @@
         "company_name": "Jackson",
         "id": "b2b4ebdd-5f3d-4b94-87e7-cb1cdf8bba2f",
         "title": "Strategic Support Associate - Data and Artificial Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -408785,7 +408739,7 @@
         "company_name": "Curtiss-Wright Corporation",
         "id": "88dbfcd3-f781-4e4f-b020-3947ae63a162",
         "title": "Software Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -411963,7 +411917,7 @@
         "company_name": "Vertex Pharmaceuticals",
         "id": "831a767e-f5db-4d45-93f7-52ab7cb3426e",
         "title": "Statistical Programming Intern - Statistical Programming - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -419527,7 +419481,7 @@
         "company_name": "Rexford Industrial",
         "id": "a9e083bf-3e7b-4af5-85f8-937a002cc72f",
         "title": "Technology Intern - Power BI and Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -426227,7 +426181,7 @@
         "company_name": "Assurant",
         "id": "b974d054-a8f8-4229-b732-788ce6539c2d",
         "title": "AI Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -438731,7 +438685,7 @@
         "company_name": "Magna",
         "id": "ec3cac5c-7672-450c-b171-165713f01225",
         "title": "Intern Engineering Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443275,7 +443229,7 @@
         "company_name": "State Street",
         "id": "98c6016e-d517-4b53-82d6-2a5f81af314a",
         "title": "State Street \u2013 Alpha Data Services Intern - Product Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445869,7 +445823,7 @@
         "company_name": "Xylem",
         "id": "bd5fa550-cd5d-43be-92c2-69757791859a",
         "title": "Business Operations & Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -448480,7 +448434,7 @@
         "company_name": "Altom Transport",
         "id": "eb2f6024-3e87-435f-8dc5-177776c80c06",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -448503,7 +448457,7 @@
         "company_name": "Al Warren Oil Company",
         "id": "d73b1e38-392a-4a2f-8a4d-ce5dd9e8f8d7",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -449170,7 +449124,7 @@
         "company_name": "Altom Transport",
         "id": "cbad1a17-ce7f-4c99-8b66-61424dee5dc3",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -449567,7 +449521,7 @@
         "company_name": "Aquabyte",
         "id": "d3dd1e8d-fc35-4f92-b655-d2e7ceda4d1c",
         "title": "Computer Vision Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -455718,7 +455672,7 @@
         "company_name": "BlueScope",
         "id": "81932360-7db4-4aeb-8297-7ac5e24a4515",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -457045,7 +456999,7 @@
         "company_name": "Leidos",
         "id": "5c952f8e-2ead-4591-bf9f-a6941992abd5",
         "title": "Business Systems AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -458375,7 +458329,7 @@
         "company_name": "Uline",
         "id": "bb943695-4c72-49a8-ae96-172fe5e8f219",
         "title": "Product Marketing Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -458539,7 +458493,7 @@
         "company_name": "The Walt Disney Company",
         "id": "ff164755-ff58-45ac-90a8-70a1d019cc3d",
         "title": "WDI Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
