@@ -1,66 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Fifth Third Bank",
-        "id": "44587ed0-f143-410d-8239-4639e344102e",
-        "title": "Software Engineer Co-op - Enterprise Finance Applications",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1755551709,
-        "date_posted": 1755551709,
-        "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-op---Enterprise-Finance-Applications---Spring-2026_R61148",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Fifth Third Bank",
-        "id": "f3998e30-d49b-453e-9af6-14f7e4a7db1e",
-        "title": "Enterprise Data Office Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755552569,
-        "date_posted": 1755552569,
-        "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Enterprise-Data-Office-Co-op---Summer-2026_R61094",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Hewlett Packard Enterprise",
-        "id": "c1f8e0c0-bb5d-43ae-9c09-9f6771d7b602",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755552590,
-        "date_posted": 1755552590,
-        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Intern_1192965",
-        "locations": [
-            "Spring, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Royal Bank of Canada",
         "id": "c485228d-2853-49cc-8840-6c2e55f270ea",
@@ -700,26 +640,6 @@
             "Elyria, OH"
         ],
         "company_url": "https://simplify.jobs/c/Emerson-Electric",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Fifth Third Bank",
-        "id": "9f42792e-7698-40f3-ae98-e34722295fc3",
-        "title": "Enterprise Data Office Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1755551713,
-        "date_posted": 1755551713,
-        "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Enterprise-Data-Office-Co-op---Spring-2026---Cincinnati_R61093",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -171464,29 +171384,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Ameren",
-        "id": "867fff21-7470-465c-8eaf-f1223bbb6bbe",
-        "title": "Environmental Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026",
-            "Winter 2026"
-        ],
-        "date_updated": 1761862344,
-        "date_posted": 1755550591,
-        "url": "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Environmental-Co-op_031625-2",
-        "locations": [
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Ameren",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Procter & Gamble (P&G)",
         "id": "574255ac-8c4c-4e64-8dfd-1ceefaad30a0",
         "title": "Procter & Gamble \u2013 Consumer & Market Knowledge: Analytics & Insights Internship - Advanced Analytics - Summer 2026",
@@ -180821,7 +180718,7 @@
         "company_name": "Tenstorrent",
         "id": "04d6022b-f6b3-4f0f-a2be-7a9d9a80e998",
         "title": "RISC-V CPU Microarchitecture / RTL Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -321689,7 +321586,7 @@
         "company_name": "Red Ventures",
         "id": "0ec0a1e0-09f4-443b-ba6e-f391b282c7eb",
         "title": "2026 Launch Program: Associate Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -328644,7 +328541,7 @@
         "company_name": "Etched.ai",
         "id": "1677419e-8d02-4e05-b049-cd051f2b1b28",
         "title": "Chipsim Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -415854,7 +415751,7 @@
         "company_name": "The Walt Disney Company",
         "id": "008cad80-afe4-4365-a74f-21d9b5166b4c",
         "title": "Software Engineer Intern - Data Products",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -430640,7 +430537,7 @@
         "company_name": "SentinelOne",
         "id": "0ec61d69-3f31-4ff6-9ea0-9dd4d1818bd2",
         "title": "AI/ML Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -444512,7 +444409,7 @@
         "company_name": "Actian",
         "id": "0a3cfdba-5d01-4016-adcb-3cb7f7c906bd",
         "title": "AI Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -454466,7 +454363,7 @@
         "company_name": "The Boyd Group",
         "id": "16f88e39-ef34-4427-8615-b793d8d44b75",
         "title": "Operations Data & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -457512,7 +457409,7 @@
         "company_name": "Ontic",
         "id": "0a13af6d-1aeb-457f-a15c-e5fcd55d6a4c",
         "title": "Analytics & AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
