@@ -1,28 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Walt Disney Company",
-        "id": "7660e5d2-40da-4127-b60b-36490497ad02",
-        "title": "Walt Disney World Transportation Logistics & Analytics Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1755522659,
-        "date_posted": 1755522659,
-        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Transportation-Logistics---Analytics-Intern--Spring-2026_10129286",
-        "locations": [
-            "Celebration, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Ecolab",
         "id": "c8f7bdbe-3548-4a34-9594-9a5f978e8bd2",
@@ -2182,7 +2160,7 @@
         "company_name": "Palantir",
         "id": "2c1046a7-cf40-410a-bf96-843e6e4db629",
         "title": "Software Engineer \u2013 Internship - Production Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -2251,7 +2229,7 @@
         "company_name": "Palantir",
         "id": "4b0a0a22-ba97-43e6-b131-336344fb7fe6",
         "title": "Software Engineer \u2013 Internship - Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -10132,7 +10110,7 @@
         "company_name": "Integra FEC",
         "id": "cb3ccfe8-f92f-419f-9c6d-cc27581e0c17",
         "title": "Summer \u2013 Data Scientist Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -10228,7 +10206,7 @@
         "company_name": "Integra FEC",
         "id": "f33fda29-ae17-406e-a534-61199ec17a81",
         "title": "Summer \u2013 Data Scientist Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -123225,7 +123203,7 @@
         "company_name": "General Motors",
         "id": "6c43b7e6-b33c-491e-bcd0-f6a363450901",
         "title": "Co-Op - Software Developer - Virtualization and SIL Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -209997,7 +209975,7 @@
         "company_name": "SummitTX",
         "id": "ca26cf7a-7321-4233-b5b3-6f2382e54079",
         "title": "Research Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -231145,7 +231123,7 @@
         "company_name": "General Motors",
         "id": "5803f9bc-8ae8-4932-a0d2-dcf7112dae7a",
         "title": "Intern \u2013 AI/ML Software Engineering Intern - Simulation Core",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -231373,7 +231351,7 @@
         "company_name": "General Motors",
         "id": "000848a2-c7a7-49f1-af93-0068bd5e68d3",
         "title": "2026 Summer Intern - AI/ML Software Engineer - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -328647,7 +328625,7 @@
         "company_name": "Cisco",
         "id": "7d8ca33a-b804-42d2-bbf1-8f48fe6d8f34",
         "title": "Internet Measurement Research Intern - BGP Research Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -345569,7 +345547,7 @@
         "company_name": "Steampunk",
         "id": "932540ca-27ec-4a09-b371-643eee2032d8",
         "title": "Data Scientist Intern - Data Exploitation and AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -366947,7 +366925,7 @@
         "company_name": "Palantir",
         "id": "33da215d-313a-45b7-8ad3-bde21b250ffe",
         "title": "Software Engineer Internship - Production Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -366968,7 +366946,7 @@
         "company_name": "Palantir",
         "id": "0d20db7c-197a-4ec4-91c2-a72684374d51",
         "title": "Software Engineer Internship - Production Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -412693,7 +412671,7 @@
         "company_name": "Spot & Tango",
         "id": "11566f6d-b2bd-4ff2-a16c-a79ddb0652fd",
         "title": "Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -412783,7 +412761,7 @@
         "company_name": "ALKU",
         "id": "058c3286-4841-4f1e-accb-b29805ef050d",
         "title": "Full Stack Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -416030,7 +416008,7 @@
         "company_name": "Impiricus",
         "id": "a51651ef-323e-4a64-afea-c7ab40c14f60",
         "title": "Software Engineer Intern - Full Stack",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -416543,7 +416521,7 @@
         "company_name": "Impiricus",
         "id": "b4ea56db-dcfd-4479-8dde-abdf95b8431d",
         "title": "Intern Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -427789,7 +427767,7 @@
         "company_name": "TikTok",
         "id": "5f65a98d-7f74-4256-ac22-44ba5c68e076",
         "title": "Copyright Solution Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -428954,7 +428932,7 @@
         "company_name": "Palantir",
         "id": "1db08df4-23e3-427d-b70e-dab6dd910782",
         "title": "Software Engineer \u2013 Internship - Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -433267,7 +433245,7 @@
         "company_name": "DotDash Meredith",
         "id": "81f52416-3f49-42a8-bb82-4310c44dbc96",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437282,7 +437260,7 @@
         "company_name": "Sarasota County",
         "id": "08c870fa-9a2a-4718-a772-5d10cc91d885",
         "title": "Web Development / SharePoint Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -442088,7 +442066,7 @@
         "company_name": "RTX",
         "id": "86ac54ba-e408-483b-9198-286ba5650195",
         "title": "Industrial Intern - Rapid Prototyping",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -450505,7 +450483,7 @@
         "company_name": "Toshiba Global Commerce",
         "id": "2eecbbe5-be6c-48e5-874c-42850c183a88",
         "title": "Agentic Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -457924,7 +457902,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "39d054b3-c9e5-4cab-8223-725f2b4f2cc5",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -458319,7 +458297,7 @@
         "company_name": "BlackSky",
         "id": "990eaf01-a65f-406d-9ca6-0eb7e16aec79",
         "title": "Geospatial Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
