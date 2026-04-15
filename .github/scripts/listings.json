@@ -224490,7 +224490,7 @@
         "company_name": "Microsoft",
         "id": "11153c03-4606-48df-adf3-b6b54aa7a6d1",
         "title": "Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -294657,7 +294657,7 @@
         "company_name": "Woven",
         "id": "ee5c8306-67a2-470a-86b7-40d200446c5b",
         "title": "Data Scientist Intern - Ego and Ado Decision",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -348154,7 +348154,7 @@
         "company_name": "Salesforce",
         "id": "515dcaee-8868-41b8-b43b-1d9f894b1532",
         "title": "Summer 2026 Intern - Product Marketing",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -370836,7 +370836,7 @@
         "company_name": "Graybar",
         "id": "08eb912a-97c1-4611-ad9e-7f9f423ff560",
         "title": "Summer 2026 Intern - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370882,7 +370882,7 @@
         "company_name": "Zipline",
         "id": "eab14d03-e340-4e7e-b889-ec0f7a50cdba",
         "title": "Perception Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391153,7 +391153,7 @@
         "company_name": "AEG",
         "id": "6a3ea12d-90e8-4023-82fd-9962c4f7aaf2",
         "title": "Intern - Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -399041,7 +399041,7 @@
         "company_name": "Salesforce",
         "id": "f6f19bde-3be3-407e-aba1-a5e385b59df1",
         "title": "Intern - Product Marketing",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -448358,7 +448358,7 @@
         "company_name": "Applied Materials",
         "id": "99537c8f-cdb8-4eb3-a903-8f135c47db9b",
         "title": "Data Science / Optimization Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -457509,7 +457509,7 @@
         "company_name": "Intel",
         "id": "ddeef692-d25b-4f47-b196-0a9506a10490",
         "title": "Silicon Engineering Undergraduate Intern - Custom ASIC",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -457697,7 +457697,7 @@
         "company_name": "GE Healthcare",
         "id": "cb6e1b5c-357d-4931-be72-dacd8c38aa0a",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -458456,5 +458456,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SDSU Research Foundation",
+        "id": "2a5aea19-0653-4d8a-a99e-d73c3a3fe3bc",
+        "title": "NIWC \u2013 Undergraduate Student 3",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776217237,
+        "date_posted": 1776214998,
+        "url": "https://careers-sdsurf.icims.com/jobs/20220/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SDSU-Research-Foundation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
