@@ -6,17 +6,17 @@
 
 ---
 
-### Browse 12063 Inactive Internship Roles by Category
+### Browse 12049 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3913)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3907)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (854)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (853)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5341)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5337)
 
-📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (318)
+📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (317)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (1637)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (1635)
 
 ---
 
@@ -17294,7 +17294,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Oracle?utm_source=GHList&utm_medium=company">Oracle</a></strong></td>
 <td>Undergraduate Applications Developer Intern - OPMO - Consumer Industries</td>
 <td>Remote in USA</td>
 <td>🔒</td>
@@ -21575,14 +21575,14 @@
 <td>Software Engineer Internship - Summer 2026 🎓</td>
 <td>Atlanta, GA</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Cybersecurity Internship</td>
 <td>Atlanta, GA</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
@@ -27435,48 +27435,6 @@
 <td>Sunnyvale, CA</td>
 <td>🔒</td>
 <td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Chamberlain-Group?utm_source=GHList&utm_medium=company">Chamberlain Group</a></strong></td>
-<td>Intern – Myq Middleware</td>
-<td>Western Springs, IL</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Intern – Myq Middleware</td>
-<td>Western Springs, IL</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Intern – Myq Front End Developer - Android or iOS</td>
-<td>Western Springs, IL</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Freddie-Mac?utm_source=GHList&utm_medium=company">Freddie Mac</a></strong></td>
-<td>Technology Intern</td>
-<td>McLean, VA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/GE-Appliances?utm_source=GHList&utm_medium=company">GE Appliances</a></strong></td>
-<td>Software Engineering Co-op</td>
-<td>Louisville, KY</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Procter-Gamble-Company?utm_source=GHList&utm_medium=company">Procter & Gamble (P&G)</a></strong></td>
-<td>IT Engineering Internships</td>
-<td>Cincinnati, OH</td>
-<td>🔒</td>
-<td>8mo</td>
 </tr>
 </tbody>
 </table>
@@ -33469,13 +33427,6 @@
 <td>San Jose, CA</td>
 <td>🔒</td>
 <td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Procter-Gamble-Company?utm_source=GHList&utm_medium=company">Procter & Gamble (P&G)</a></strong></td>
-<td>Project & Product Manager Internships</td>
-<td>Cincinnati, OH</td>
-<td>🔒</td>
-<td>8mo</td>
 </tr>
 </tbody>
 </table>
@@ -65326,7 +65277,7 @@
 <td>Analytics/Data Science Undergraduate Internship</td>
 <td>Atlanta, GA</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Highmark-Health?utm_source=GHList&utm_medium=company">Highmark Health</a></strong></td>
@@ -67674,7 +67625,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/The-Toro-Company?utm_source=GHList&utm_medium=company">The Toro Company</a></strong></td>
+<td>↳</td>
 <td>QMS Intern - The Toro Company</td>
 <td>Bloomington, MN</td>
 <td>🔒</td>
@@ -70865,34 +70816,6 @@
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Altice-USA?utm_source=GHList&utm_medium=company">Altice USA</a></strong></td>
-<td>Data Analytics Intern</td>
-<td>Long Island City, Queens, NY</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Analytical-Mechanics-Associates?utm_source=GHList&utm_medium=company">Analytical Mechanics Associates</a></strong></td>
-<td>Disaster Response Coordination System Intern</td>
-<td>Hampton, VA</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Procter-Gamble-Company?utm_source=GHList&utm_medium=company">Procter & Gamble (P&G)</a></strong></td>
-<td>Data – & Data Engineering Internships - Analytics</td>
-<td>Cincinnati, OH</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Research & Development Engineer Intern May 2026 - Associate Scientist - Freshmen - Sophomores - And Juniors</td>
-<td>Sharonville, OH<br>Mason, OH<br>Cincinnati, OH</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -73130,13 +73053,6 @@
 <td><strong><a href="https://simplify.jobs/c/ChicagoTradingCo?utm_source=GHList&utm_medium=company">Chicago Trading Company</a></strong></td>
 <td>Quant Trading Internship</td>
 <td>London, UK</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Freddie-Mac?utm_source=GHList&utm_medium=company">Freddie Mac</a></strong></td>
-<td>Capital Markets Intern</td>
-<td>McLean, VA</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
@@ -82514,32 +82430,32 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/L3Harris-Technologies?utm_source=GHList&utm_medium=company">L3Harris Technologies</a></strong></td>
 <td>Software Engineering Intern</td>
 <td>Palm Bay, FL</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineering Intern</td>
 <td>Palm Bay, FL</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineering Intern</td>
 <td>Melbourne, FL</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company">Motorola</a></strong></td>
 <td>Software Engineering Summer Internship</td>
 <td>Plantation, FL</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/L3Harris-Technologies?utm_source=GHList&utm_medium=company">L3Harris Technologies</a></strong></td>
@@ -84605,20 +84521,6 @@
 <td>Seattle, WA</td>
 <td>🔒</td>
 <td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Procter-Gamble-Company?utm_source=GHList&utm_medium=company">Procter & Gamble (P&G)</a></strong></td>
-<td>Site Digital IT Manager Internships</td>
-<td>Cincinnati, OH</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Wabtec?utm_source=GHList&utm_medium=company">Wabtec</a></strong></td>
-<td>Summer 2026 Digital Internship</td>
-<td><details><summary><strong>9 locations</strong></summary>Germantown, MD<br>Villanova, PA<br>Melbourne, FL<br>Fort Worth, TX<br>Norcross, GA<br>Jacksonville, FL<br>Erie, PA<br>Cedar Rapids, IA<br>Grove City, PA</details></td>
-<td>🔒</td>
-<td>8mo</td>
 </tr>
 </tbody>
 </table>
