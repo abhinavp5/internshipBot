@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "WEC Energy Group",
-        "id": "a66bb355-5de2-4615-8542-b8693dee0449",
-        "title": "Power Generation Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Summer 2026"
-        ],
-        "date_updated": 1755625195,
-        "date_posted": 1755625195,
-        "url": "https://careers.wecenergygroup.com/We_Energies/job/Milwaukee-Power-Generation-Data-Analyst-Intern-WI-53203/1318168900/?ats=successfactors",
-        "locations": [
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/WEC-Energy-Group",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Skyworks",
         "id": "1161a0e6-4941-44f8-91db-1045105adb12",
@@ -222,29 +201,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "J.M. Smucker",
-        "id": "b87f1d77-7f4e-4816-a39d-5eace4a0adf0",
-        "title": "Information Services Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755625102,
-        "date_posted": 1755625102,
-        "url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Information-Services-Intern--Summer-2026_114171",
-        "locations": [
-            "Massillon, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/JM-Smucker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -14651,7 +14607,7 @@
         "company_name": "CACI",
         "id": "04bdcb46-76de-40ed-be2e-dd10a0779a98",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -37582,7 +37538,7 @@
         "company_name": "Meta",
         "id": "43783fe0-be84-499a-a4c1-efe4b82c9ff1",
         "title": "Research Scientist Intern - Audio - Machine Learning and Computer Vision - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -43786,7 +43742,7 @@
         "company_name": "HP IQ",
         "id": "68331d84-27ea-4b83-9a3e-20bbf6f2edec",
         "title": "Software Engineering Intern - Device Experiences",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -112486,7 +112442,7 @@
         "company_name": "Dow Jones",
         "id": "1baea694-9ff2-4064-8404-d766e2af77f4",
         "title": "Data Analyst Intern - OPIS Strategic Insights Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -190038,7 +189994,7 @@
         "company_name": "ServiceNow",
         "id": "fe202bbe-116f-4d30-9f05-c0d6c14b47fc",
         "title": "Senior Product Marketing Specialist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -222463,7 +222419,7 @@
         "company_name": "Microsoft",
         "id": "11153c03-4606-48df-adf3-b6b54aa7a6d1",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -255516,7 +255472,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "46b631d1-002a-470e-97c7-246c09eaf8a8",
         "title": "Linux Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -265202,7 +265158,7 @@
         "company_name": "Audax Group",
         "id": "06ca0d73-414f-480a-8db1-b1946ed159f5",
         "title": "Data Engineer \u2013 Business Solutions Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -299222,7 +299178,7 @@
         "company_name": "DraftKings",
         "id": "1595737b-3737-44cb-b53e-91dbb579d910",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -333013,7 +332969,7 @@
         "company_name": "Root Access",
         "id": "46d8ea72-a093-44d9-b439-d83a7d79ccf5",
         "title": "Machine Learning Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -335674,7 +335630,7 @@
         "company_name": "Varian",
         "id": "55b71c8e-2094-4f81-8498-c0db8e064ab0",
         "title": "Nuclear Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -347365,7 +347321,7 @@
         "company_name": "HARMAN International",
         "id": "6bf25707-5905-462a-9c14-0246bd0b66bc",
         "title": "Summer Intern - Product Management - Connectivity Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -351995,7 +351951,7 @@
         "company_name": "Artisan Partners",
         "id": "475df9c0-6a23-4168-bf00-5d39ec5d6ffe",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -356929,7 +356885,7 @@
         "company_name": "Magna",
         "id": "21158728-7655-48fe-b9f5-6b482280fd39",
         "title": "Benchmarking and Product Line Engineering Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -372985,7 +372941,7 @@
         "company_name": "GE Healthcare",
         "id": "2f3a9d78-9fee-400c-aec0-d1da2007c054",
         "title": "Dow Skillbridge Product Manager - Bellevue - WA",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -375835,7 +375791,7 @@
         "company_name": "Flagship Pioneering",
         "id": "14d3b175-c800-42b7-91c3-841e370e4a8c",
         "title": "IT Automation Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -387774,7 +387730,7 @@
         "company_name": "American Cancer Society Cancer Action Network ",
         "id": "2f269078-7971-4b5c-8630-183ef0c2fb8d",
         "title": "ACS CAN Impact Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -387846,7 +387802,7 @@
         "company_name": "American Cancer Society",
         "id": "014de6a7-7be4-4dd4-9b67-7e3b727d42fc",
         "title": "ACS CAN Impact Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -390038,7 +389994,7 @@
         "company_name": "Amazon",
         "id": "0c5a0f23-8175-4d54-8f71-99db02aa84c4",
         "title": "Applied Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -424933,7 +424889,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "1b55e4c6-d1d8-4f1d-afbc-52357b131ae9",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -447394,7 +447350,7 @@
         "company_name": "Tandem Diabetes Care",
         "id": "3d3c84a4-42aa-4981-ba2e-f8cb88cdd251",
         "title": "Agentic AI Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -447579,7 +447535,7 @@
         "company_name": "Concept Plus",
         "id": "3d769e29-eb7f-4837-b610-30202d50bb80",
         "title": "AI Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -452512,7 +452468,7 @@
         "company_name": "Johnson & Johnson",
         "id": "4598e1fc-f3f2-4a9c-87b6-15c1c6bdae41",
         "title": "ISRM Data & Analytics GEM Fellow",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -452715,7 +452671,7 @@
         "company_name": "Leidos",
         "id": "66fc574c-25d1-493f-a5e8-d59b63230540",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -454140,7 +454096,7 @@
         "company_name": "RTX",
         "id": "4dc43463-1be0-40e1-bf21-31cc23023f22",
         "title": "Production Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -454163,7 +454119,7 @@
         "company_name": "Carrier Global",
         "id": "24f30c8f-9bf0-4ee5-abc4-6e2ad18864ed",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -456480,7 +456436,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "0ca482e3-1eca-40bc-bd77-c8e3aaaf6832",
         "title": "Systems Intern - Cybersecurity and Linux Administration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -457062,7 +457018,7 @@
         "company_name": "Comcast",
         "id": "5f40a550-e476-4289-a246-9316ccb0ea3c",
         "title": "Comcast Global Audit Data Solutions \u2013 Data Architecture and Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2026",
