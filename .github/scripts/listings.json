@@ -297708,7 +297708,7 @@
         "company_name": "TikTok",
         "id": "9ae17953-0076-4002-836b-5fa77a168c24",
         "title": "Data Scientist Intern - Vod Data - 2026 Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -307845,7 +307845,7 @@
         "company_name": "Johnson & Johnson",
         "id": "34ed787e-f0db-415c-be45-e34765fffe85",
         "title": "Post Approval Lifecycle Management Oncology and Artificial Intelligence Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -341288,7 +341288,7 @@
         "company_name": "Oshkosh",
         "id": "a6042f17-b332-4466-a1c9-5191bd0522b8",
         "title": "Testing & Development Rotational Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -350567,7 +350567,7 @@
         "company_name": "First American",
         "id": "0a9ec94e-fd09-447c-810c-6712e3a6b2bf",
         "title": "Product Operations",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -363735,7 +363735,7 @@
         "company_name": "RTX",
         "id": "b26b6e02-b563-49f7-8a2b-404d1a65778d",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -458621,6 +458621,52 @@
         "url": "https://jobs.bytedance.com/en/position/7537118884496312584/detail",
         "locations": [
             "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "1ec0a2b6-2cc9-4667-b452-854d4f0c6865",
+        "title": "AI Vision Research Scientist Intern - Global Tech Research Program - PhD",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776324782,
+        "date_posted": 1776323173,
+        "url": "https://jobs.bytedance.com/en/position/7629159699020024069/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "1b59e09e-ab8d-40f0-ab29-f6a0a5ad3ade",
+        "title": "Research Scientist Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776324782,
+        "date_posted": 1776323180,
+        "url": "https://jobs.bytedance.com/en/position/7629159746370406661/detail",
+        "locations": [
+            "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/ByteDance",
         "is_visible": true,
