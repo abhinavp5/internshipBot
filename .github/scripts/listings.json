@@ -217664,7 +217664,7 @@
         "company_name": "Cisco",
         "id": "7462efbc-f039-4632-a600-7230c301607d",
         "title": "Software Engineer Full Stack & Application Development 1 \u2013 Intern - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -270279,7 +270279,7 @@
         "company_name": "Rilla",
         "id": "f8ee9d50-8053-4172-9f64-534bc078ef70",
         "title": "Software Engineer Intern \u2013 2027 Graduates",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -365491,7 +365491,7 @@
         "company_name": "Trimble",
         "id": "7b79e563-8c19-4e85-b321-4b1e7a1fc750",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391996,7 +391996,7 @@
         "company_name": "Tencent",
         "id": "66572abf-79bc-4959-81dc-2d51e16c64a4",
         "title": "Hunyuan Multimodal Reinforcement Learning Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -420328,7 +420328,7 @@
         "company_name": "The Walt Disney Company",
         "id": "382a6b76-e85e-41de-ad33-13ba6435cd72",
         "title": "WDI Software Developer Intern-Art and Media Pipeline - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -421973,7 +421973,7 @@
         "company_name": "Bank of Montreal",
         "id": "c4175aa0-8acf-4042-97f2-91a111b641fd",
         "title": "Technology Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -433308,7 +433308,7 @@
         "company_name": "Trane Technologies",
         "id": "f7819eb2-6492-4917-b03e-b820f9de56b7",
         "title": "Retail Operations Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -446633,7 +446633,7 @@
         "company_name": "APEX Analytix",
         "id": "f8061283-7836-4832-afc5-5784772d0a48",
         "title": "NET Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -458674,5 +458674,29 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Overview Energy",
+        "id": "cde1a46d-0ae8-42f0-8c3b-4884133610da",
+        "title": "Hardware Development Intern - Electrical",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776334321,
+        "date_posted": 1772752433,
+        "url": "https://jobs.ashbyhq.com/overviewenergy/46f967f0-65a6-4e76-9869-f10468cdb13e/application",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Overview-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
