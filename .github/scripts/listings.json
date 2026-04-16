@@ -1,26 +1,5 @@
 [
     {
-        "date_updated": 1755594678,
-        "url": "https://careers.datadoghq.com/detail/7127832/?gh_jid=7127832",
-        "company_name": "Datadog",
-        "title": "Product Management Intern",
-        "locations": [
-            "New York, NY"
-        ],
-        "terms": [
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "26f81b94-8d18-462b-97df-91b074f04852",
-        "date_posted": 1755594678,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Product Management"
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "WEC Energy Group",
@@ -368358,7 +368337,7 @@
         "company_name": "Cisco",
         "id": "c58a8a91-6421-4ed5-844b-c8eda99fcdb7",
         "title": "AI/ML Modeling Engineer 2 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -414307,7 +414286,7 @@
         "company_name": "Impiricus",
         "id": "a51651ef-323e-4a64-afea-c7ab40c14f60",
         "title": "Software Engineer Intern - Full Stack",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -424024,7 +424003,7 @@
         "company_name": "DXC Technology",
         "id": "e83b1c18-664b-43a5-b2a6-45ae369be556",
         "title": "DXC Degree Academic Programme - Data/AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -426464,7 +426443,7 @@
         "company_name": "American University",
         "id": "2c008acc-002e-4c36-9e12-97d50a1dfaa9",
         "title": "Data Assistant - Student - Federal Work Study",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -449044,7 +449023,7 @@
         "company_name": "Pennsylvania State University",
         "id": "b97ddabb-63b9-42c8-bd9e-a063e1f84d82",
         "title": "Geospatial Engineering Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450867,7 +450846,7 @@
         "company_name": "Moog ",
         "id": "10f946fe-c9d7-45f1-bcb6-91e9a23a8cb9",
         "title": "Intern \u2013 Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453685,7 +453664,7 @@
         "company_name": "Microchip Technology",
         "id": "2a601c62-8d11-4f91-ba97-26cda5f5061d",
         "title": "Engineering Intern - Data Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -455312,7 +455291,7 @@
         "company_name": "CoStar Group",
         "id": "2d18cd9c-c153-4852-94b5-24a58e1a04bd",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -456017,7 +455996,7 @@
         "company_name": "Ascensus",
         "id": "0ba925d8-f316-4dcf-90c1-050b5c19ba81",
         "title": "Product & Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -458674,5 +458653,26 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "New Lantern",
+        "id": "36c6049a-d5b2-4e24-9714-5db445af995f",
+        "title": "New Grad Olympics Intern - Software Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776330070,
+        "date_posted": 1776291021,
+        "url": "https://jobs.ashbyhq.com/newlantern/cb64f26f-93ec-4fcd-a9be-5ba75687f987/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/New-Lantern",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
