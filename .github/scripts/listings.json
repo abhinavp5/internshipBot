@@ -1,54 +1,5 @@
 [
     {
-        "date_updated": 1755637840,
-        "url": "https://job-boards.greenhouse.io/figma/jobs/5623087004?gh_jid=5623087004",
-        "company_name": "Figma",
-        "title": "Data Engineer Intern",
-        "locations": [
-            "San Francisco, CA",
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "source": "chinenyeenete",
-        "id": "8c081963-9765-423e-bb50-0c58e9d77e35",
-        "date_posted": 1755637840,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Data Science, AI & Machine Learning"
-    },
-    {
-        "date_updated": 1755638663,
-        "url": "https://job-boards.greenhouse.io/figma/jobs/5602159004?gh_jid=5602159004",
-        "company_name": "Figma",
-        "title": "Software Engineering Intern",
-        "locations": [
-            "San Francisco, CA",
-            "New York, NY"
-        ],
-        "terms": [
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "source": "chinenyeenete",
-        "id": "2512ffa8-e22c-43b5-9b7d-65a74477180b",
-        "date_posted": 1755638663,
-        "company_url": "",
-        "is_visible": true,
-        "category": "Software Engineering"
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Royal Caribbean Group",
@@ -173939,7 +173890,7 @@
         "company_name": "Saviynt",
         "id": "51910658-333e-4c82-8899-29c3b4bdb64b",
         "title": "Software Engineering R&D \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -184571,7 +184522,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "0eeea078-6073-46e3-b12c-bfc910963f95",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -241779,7 +241730,7 @@
         "company_name": "Motional",
         "id": "3a2b196a-03b4-4f67-8176-15858e9163ef",
         "title": "Intern - Perception",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -302195,7 +302146,7 @@
         "company_name": "Samsung Research America",
         "id": "298cb522-59b5-4e20-946f-dd0f582d9f14",
         "title": "2026 Intern - Software Engineer - Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -347185,7 +347136,7 @@
         "company_name": "Vantage Data Centers",
         "id": "313cd63c-9398-4af6-a005-71532245e8da",
         "title": "Cost Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391451,7 +391402,7 @@
         "company_name": "Ensono",
         "id": "0d2b7f28-8b4e-4d0e-9e59-70ea01196733",
         "title": "Data Center Infrastructure Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -423027,7 +422978,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "c415e69d-7780-4afc-8b67-d52df5dfcc37",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -426827,7 +426778,7 @@
         "company_name": "Ramp",
         "id": "39ae9c3c-4474-4565-b0b3-897552f89b41",
         "title": "Software Engineer Intern - Frontend",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -429951,7 +429902,7 @@
         "company_name": "Intuitive Surgical",
         "id": "300b6224-0725-45ae-8185-62a8eb9616c3",
         "title": "FPGA Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445804,7 +445755,7 @@
         "company_name": "Hearst",
         "id": "50b56cca-4019-4619-829d-fcbeba0a105f",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
