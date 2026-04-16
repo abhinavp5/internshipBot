@@ -294,29 +294,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Boston Consulting Group",
-        "id": "67d271be-f609-4c24-b87d-3575787ab288",
-        "title": "BCG X AI Engineer Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755655434,
-        "date_posted": 1755614899,
-        "url": "https://careers.bcg.com/global/en/job/52453",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1755638663,
         "url": "https://job-boards.greenhouse.io/figma/jobs/5602159004?gh_jid=5602159004",
         "company_name": "Figma",
@@ -133266,30 +133243,6 @@
         "degrees": [
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Boston Consulting Group",
-        "id": "502917c2-1890-4d56-9c5c-ac941efd78f2",
-        "title": "Data Scientist Internship - Bcg X",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1758587120,
-        "date_posted": 1755613586,
-        "url": "https://careers.bcg.com/global/en/job/52455",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -330834,7 +330787,7 @@
         "company_name": "Waters Corporation",
         "id": "837dbf78-42b4-4316-b11c-33bee224f2ac",
         "title": "IT Intern \u2013 Data Engineer - Data Platforms & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -341080,7 +341033,7 @@
         "company_name": "Waters Corporation",
         "id": "c2ed2d9f-86fe-4bd0-a632-01cf69b67b92",
         "title": "Intern Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -374327,7 +374280,7 @@
         "company_name": "Leonardo",
         "id": "dc31b4c1-4868-465c-beed-13f5b8da21da",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -406424,7 +406377,7 @@
         "company_name": "The Federal Reserve System",
         "id": "8a24e794-67c1-4356-be83-ef7cbfbecd13",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -435377,7 +435330,7 @@
         "company_name": "KLA",
         "id": "cefc8d76-1d63-40ce-8a0b-5f29b9a3ecdc",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -447817,7 +447770,7 @@
         "company_name": "Sparksoft",
         "id": "92a2528a-e204-4a3d-a973-8c96db0503e8",
         "title": "Data Science-Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453156,7 +453109,7 @@
         "company_name": "EyeSouth Partners",
         "id": "35897dd9-eddc-460f-ae63-77bffb080976",
         "title": "Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -458698,5 +458651,416 @@
         "date_posted": 1776348212,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1776348303,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://ptc.wd1.myworkdayjobs.com/en-US/ptc/job/Boston-MA-USA/Software-Engineer-Intern_JR111950",
+        "company_name": "PTC",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Boston, MA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "c221bd68-f7c2-4be8-bfe6-daa9264499a5",
+        "date_posted": 1776348303,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776348372,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://tricentis.wd1.myworkdayjobs.com/en-US/tricentis_careers/job/Austin-Texas/Software-Engineering-Intern_JR105664",
+        "company_name": "Tricentis",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Austin, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "113394a5-5cd3-4648-a5c6-0af03db6bff2",
+        "date_posted": 1776348372,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776348459,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-jointcommission.icims.com/jobs/7225/software-development-internship/job",
+        "company_name": "Joint Commission",
+        "title": "Software Development Internship",
+        "locations": [
+            "Oakbrook Terrace, IL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "6cb5f130-705e-4860-ab8f-44deecdcbb00",
+        "date_posted": 1776348459,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776348535,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.smartrecruiters.com/TheNielsenCompany/2fc0f14c-a4f3-4768-9881-0a181061a224",
+        "company_name": "Nielsen",
+        "title": "Cloud Resilience & Security Automation Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "119b0717-1a41-4e9a-a5e1-24d90c66c404",
+        "date_posted": 1776348535,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776348693,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jabil.wd5.myworkdayjobs.com/en-US/jabil_careers/job/Austin-TX/Cloud---Infrastructure-Manufacturing-Test-Developer-Intern_J2446133",
+        "company_name": "Jabil",
+        "title": "Cloud & Infrastructure Manufacturing Test Developer Intern",
+        "locations": [
+            "Austin, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "0bc6ef68-bb7b-4c31-a7fa-0194aaff7ef8",
+        "date_posted": 1776348693,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776348743,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jabil.wd5.myworkdayjobs.com/en-US/jabil_careers/job/Austin-TX/Cloud---Infrastructure-Manufacturing-Test-Developer-Intern_J2446137",
+        "company_name": "Jabil",
+        "title": "Cloud & Infrastructure Manufacturing Test Developer Intern",
+        "locations": [
+            "Austin, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "30a5bcb7-1006-4e43-97d5-582c77c8c809",
+        "date_posted": 1776348743,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776348770,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jabil.wd5.myworkdayjobs.com/en-US/jabil_careers/job/Austin-TX/Cloud---Infrastructure-Manufacturing-Test-Developer-Intern_J2446136",
+        "company_name": "Jabil",
+        "title": "Cloud & Infrastructure Manufacturing Test Developer Intern",
+        "locations": [
+            "Austin, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "af87dc53-fbd9-4c1b-8e09-01ae13509ca3",
+        "date_posted": 1776348770,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776349097,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://external-canoncareers.icims.com/jobs/34092/software-intern/job",
+        "company_name": "Canon",
+        "title": "Software Intern",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "fba057be-0297-4b93-a9a2-b7a65a1a309e",
+        "date_posted": 1776349097,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776349211,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://arrcusinc.applytojob.com/apply/83oGigKKrr/InternNetworking-Software-Development-Engineer-2026",
+        "company_name": "Arrcus",
+        "title": "Intern-Networking Software Development Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "41b013aa-877e-4080-98d4-98b373c0b983",
+        "date_posted": 1776349211,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776349392,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://scentair.applytojob.com/apply/biM9pB8qhL/Technology-Data-Science-Intern-ScentAir-Charlotte-NC",
+        "company_name": "ScentAir",
+        "title": "Technology & Data Science Intern",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "d4b91c09-3e18-431b-b681-81888ed08483",
+        "date_posted": 1776349392,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776349544,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.smartrecruiters.com/TheNielsenCompany/6f74ca95-24db-47c7-8306-2429031bee8c",
+        "company_name": "Nielsen",
+        "title": "Information Security AI Strategy Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "962f8dd7-11a9-44be-ac89-c33c3c8fb2b2",
+        "date_posted": 1776349477,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776349646,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.lever.co/lexeotx/6d02ad76-f9c2-4660-8f29-7ad6f23b3d31",
+        "company_name": "Lexeo Therapeutics",
+        "title": "AI/ML Clinical Data Science Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "afcd8bc1-a2bf-4b15-92e6-454d03adcd71",
+        "date_posted": 1776349646,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "dc774ae5-09fb-49c9-a4e7-3114989146c5",
+        "title": "Intern Model-Based Systems Engineer",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1776349324,
+        "date_posted": 1776348602,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Intern-Model-Based-Systems-Engineer_R-00180969",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vanguard",
+        "id": "9cc347bd-af8e-4ca6-b674-3f83aa6aebbf",
+        "title": "Technology \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776348907,
+        "date_posted": 1776348557,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Manchester-United-Kingdom/Technology--IST--Internship---Summer-2026_175112-1",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanguard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "2222d329-8520-475c-9e11-140ecb64352c",
+        "title": "Research and Development Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776348766,
+        "date_posted": 1776348501,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-and-Development-Engineer-Intern_REQ_0000077096-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ascensus",
+        "id": "1144cf0a-d7dc-4e78-b36d-8ccaba9d92e7",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1776348361,
+        "date_posted": 1776348336,
+        "url": "https://ascensushr.wd1.myworkdayjobs.com/ascensuscareers/job/Newton-MA/Data-Analyst-Intern_R0021284",
+        "locations": [
+            "Newton, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ascensus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Global",
+        "id": "921ae9ef-7841-447b-8519-b10390f2f100",
+        "title": "Data Strategy Executive Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776348714,
+        "date_posted": 1776348304,
+        "url": "https://thisisglobal.wd3.myworkdayjobs.com/Global/job/Leicester-Square---London/Data-Strategy-Executive_R0009327",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "c21c3255-d86f-42aa-a383-8549577d7d88",
+        "title": "Raytheon Part Time Co-op - Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776349971,
+        "date_posted": 1776348498,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/XMLNAME-2026-Raytheon-Part-Time-Co-op---Software--Engineer--Remote-_01838516",
+        "locations": [
+            "Aurora, CO",
+            "State College, PA",
+            "Richardson, TX",
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
