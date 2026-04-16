@@ -797,29 +797,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Anduril",
-        "id": "c21b04fe-29ad-4078-9ab0-fe132833c029",
-        "title": "Operations Analyst Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755609634,
-        "date_posted": 1755609634,
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4829860007",
-        "locations": [
-            "Newport Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Anduril",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Integra FEC",
         "id": "7a995379-3bba-4bca-ad03-0ea5adaf5f38",
         "title": "Spring \u2013 Data Analyst Intern",
@@ -88928,7 +88905,7 @@
         "company_name": "Barry's",
         "id": "1343957a-ad99-4bd9-ab97-c4208e7810fe",
         "title": "Undergraduate Summer Scholar, Data Analyst - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -185303,7 +185280,7 @@
         "company_name": "Verisk",
         "id": "4710c48e-bf56-463f-9d48-bc540ed0fd4e",
         "title": "Intern - Platform Support Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -357998,7 +357975,7 @@
         "company_name": "Circle K",
         "id": "7e7a435c-b67f-4fbb-b143-2b0018edd36a",
         "title": "Data Science Intern - Global Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -412601,7 +412578,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "61eae924-0d99-4803-ac36-c6e9b65c4247",
         "title": "Service Department Market Research & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -433287,7 +433264,7 @@
         "company_name": "Mackenzie Investments",
         "id": "3b266cfd-1e98-499f-a061-b2484df1a56d",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -441545,7 +441522,7 @@
         "company_name": "CACI",
         "id": "3ede0854-639f-4e82-a04e-ea8f1beb0a44",
         "title": "Test Engineering Electrical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -449967,7 +449944,7 @@
         "company_name": "Pearson",
         "id": "14b2bb6d-74c1-4dac-9870-336d43169a16",
         "title": "Intelligence Data Analyst Apprenticeship Coach",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -452673,7 +452650,7 @@
         "company_name": "CAE",
         "id": "592c59c2-2f72-4cef-9f27-f712d315816e",
         "title": "R&D Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -455314,7 +455291,7 @@
         "company_name": "W.R. Berkley",
         "id": "79424eb9-df1b-4e7b-9f57-b871e6d96002",
         "title": "Automation Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -456762,7 +456739,7 @@
         "company_name": "Tencent",
         "id": "6b4d8345-e963-4503-9cfd-00c53161f3e5",
         "title": "IT Application Developer \u2013 Intern - AI-Driven IT Ops",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -457846,7 +457823,7 @@
         "company_name": "UMB",
         "id": "65a39a19-bd4b-444b-864d-759abe77894c",
         "title": "AI Intern - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -458698,5 +458675,28 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "date_updated": 1776348212,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Intern---Software-Systems-Engineer_R0159110",
+        "company_name": "Amentum",
+        "title": "Intern - Software Systems Engineer",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "166cfacc-357f-46b3-88ae-394bee4d703b",
+        "date_posted": 1776348212,
+        "company_url": "",
+        "is_visible": true
     }
 ]
