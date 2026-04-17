@@ -1,103 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Blizzard Entertainment",
-        "id": "1584fc93-77a7-42ee-9192-74c39f836282",
-        "title": "AI Localization Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1755726064,
-        "date_posted": 1755726064,
-        "url": "https://activision.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/AI-Localization-Intern_R025877",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Blizzard-Entertainment",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Vanguard",
-        "id": "3012d6f2-e64e-456a-8b95-aa1b9ee3f94c",
-        "title": "Application Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755864176,
-        "date_posted": 1755725975,
-        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/Application-Engineer--RESTRICTED-to-current-Co-ops-and-Interns-Only----2026-Start-Date_168684",
-        "locations": [
-            "Malvern, PA",
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Vanguard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Chicago Trading Company",
-        "id": "e14e17a5-21e7-4bfe-beb6-8548f8724b53",
-        "title": "Quant Trading Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755727006,
-        "date_posted": 1755727006,
-        "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4599853005",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ChicagoTradingCo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "MRI Software",
-        "id": "24744d56-3852-4eb5-9be4-d7063911867b",
-        "title": "Fall Intern - Data Management",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755726570,
-        "date_posted": 1755726570,
-        "url": "https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Georgia-Remote/Fall-Intern--Data-Management_R-105632",
-        "locations": [
-            "Georgia",
-            "Ohio"
-        ],
-        "company_url": "https://simplify.jobs/c/MRI-Software",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "ATPCO",
         "id": "b9ff9dbe-58f4-4164-969f-8602ed8532da",
@@ -249617,7 +249520,7 @@
         "company_name": "K-Love",
         "id": "63d1f56e-7d0c-46d2-a86a-e3fd55cf1f6e",
         "title": "Mobile/TV Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -289204,7 +289107,7 @@
         "company_name": "Amentum",
         "id": "66b496d1-46f6-4e98-85ae-a9d51d0e5e90",
         "title": "Software Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -313755,7 +313658,7 @@
         "company_name": "Uber",
         "id": "7805dd52-c181-44d4-9ff6-4c18803132da",
         "title": "PhD Scientist Intern - US",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343409,7 +343312,7 @@
         "company_name": "X Development",
         "id": "3821cd2f-bd7f-4fbd-b581-c95fe14e8563",
         "title": "2026 PhD Residency - Computer Vision - Tapestry",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -345946,7 +345849,7 @@
         "company_name": "Harris Computer",
         "id": "48f24e12-da76-4efa-8a76-7fa53e9c2cb0",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -388456,7 +388359,7 @@
         "company_name": "Amentum",
         "id": "7b46dfd9-ac35-43d9-8122-0f857f8e4f79",
         "title": "Software Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -411024,7 +410927,7 @@
         "company_name": "Veeva Systems",
         "id": "3b354067-5ca8-4600-8479-511988cd8a3a",
         "title": "Intern Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -416141,7 +416044,7 @@
         "company_name": "Zayo",
         "id": "6104ca70-2b98-4f5c-a937-ec030a54ef22",
         "title": "ServiceNow Intern - Service Order Management - TSM & GenAI Enablement",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -416164,7 +416067,7 @@
         "company_name": "Zayo",
         "id": "53a70680-b10a-458c-a45a-291a960b08f6",
         "title": "Intern \u2013 Data Governance",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -433846,7 +433749,7 @@
         "company_name": "Snowflake",
         "id": "427afc02-f659-4fae-85b1-318a967d24b0",
         "title": "Order to Cash",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -434752,7 +434655,7 @@
         "company_name": "Leidos",
         "id": "5b00de02-9188-415f-8fd4-dac0a5d22949",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -440124,7 +440027,7 @@
         "company_name": "Western Digital",
         "id": "e27450d1-7319-4fe5-8f7b-487166e0373b",
         "title": "Intern - Modeling and Simulation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453247,7 +453150,7 @@
         "company_name": "Intertek",
         "id": "446c442d-721c-468b-b1b5-9b2f50d2a5bd",
         "title": "Electrical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
