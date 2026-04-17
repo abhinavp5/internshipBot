@@ -334408,7 +334408,7 @@
         "company_name": "GE Healthcare",
         "id": "fa66d570-2fe6-4db7-9981-3709f765e872",
         "title": "Product Manager Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -400581,7 +400581,7 @@
         "company_name": "Netflix",
         "id": "fc46917a-fedc-492c-ac7f-58cce1ccaa06",
         "title": "Internet Measurement Research Intern - Openconnect Distributed Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -410731,7 +410731,7 @@
         "company_name": "Geotab",
         "id": "93b9e696-bf84-478d-aaf6-b63704f87417",
         "title": "Vehicle Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -444432,7 +444432,7 @@
         "company_name": "Johnson & Johnson",
         "id": "d47324b7-d641-49cc-a2ec-d45062c0f7d8",
         "title": "Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -451724,7 +451724,7 @@
         "company_name": "Magna",
         "id": "cb857a6c-6db1-4b1f-a428-c2dbe8249e4f",
         "title": "Destruct Lab Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -455563,7 +455563,7 @@
         "company_name": "Public Service Enterprise Group",
         "id": "f9280019-0754-4e7d-9b25-c9afe4176a8d",
         "title": "Technical Intern - Benchmarking Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
