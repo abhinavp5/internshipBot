@@ -218,55 +218,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Royal Bank of Canada",
-        "id": "cb14b367-7719-46b8-9851-0c4fdb4e1774",
-        "title": "Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1755708546,
-        "date_posted": 1755708546,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Winter---GRM--Data-Analyst-Intern--8-Months-_R-0000138061",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/de12bd0c-8c45-4a57-8bc7-a686a35ac41f",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Walmart",
-        "id": "97f5271a-6f51-445c-bdfb-0151680f0764",
-        "title": "Senior Data Assurance Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1755707788,
-        "date_posted": 1755707788,
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2025-Intern-Conversion--2026-FT-Senior-Data-Assurance-Engineer_R-2251611",
-        "locations": [
-            "Bentonville, AR"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "ATPCO",
         "id": "b9ff9dbe-58f4-4164-969f-8602ed8532da",
@@ -331551,7 +331502,7 @@
         "company_name": "Alloy Enterprises",
         "id": "20e75e3c-a1b6-4268-a0b1-076d4838fe54",
         "title": "Co-Op \u2013 Software Engineer - Fall 2026 - July-December",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342547,7 +342498,7 @@
         "company_name": "Major League Baseball",
         "id": "113e5619-020a-45d2-94c0-5506231fe2b0",
         "title": "Data Operator",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -346463,7 +346414,7 @@
         "company_name": "Robert Half",
         "id": "26ec482d-03d3-4825-bb92-da331706896a",
         "title": "Generative AI Engineer Virtual Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392161,7 +392112,7 @@
         "company_name": "Amazon",
         "id": "018a4204-85d4-40e0-ac22-5c17ef3b1a46",
         "title": "Junior Software Development Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -409348,7 +409299,7 @@
         "company_name": "ALKU",
         "id": "058c3286-4841-4f1e-accb-b29805ef050d",
         "title": "Full Stack Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -410746,7 +410697,7 @@
         "company_name": "Rakuten Advertising",
         "id": "2383b843-69f4-464c-9533-85f1021d8688",
         "title": "Intern Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -421295,7 +421246,7 @@
         "company_name": "S&P Global ",
         "id": "1ac72a84-80cb-46ce-9f18-2bae6cbce1ca",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -459187,7 +459138,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "205920ef-f5dd-453a-809f-a906cf70b46f",
         "title": "Salesforce Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
