@@ -1,155 +1,5 @@
 [
     {
-        "date_updated": 1755782194,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers.cargill.com/en/job/atlanta/software-engineer-intern-summer-2026-atlanta-ga/23251/85180324464",
-        "company_name": "Cargill",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "0c455cfa-eaa1-4ad8-ba55-43850a899e97",
-        "date_posted": 1755680707,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1755782733,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/figma/jobs/5614980004",
-        "company_name": "Figma",
-        "title": "Data Science Intern",
-        "locations": [
-            "San Francisco, CA",
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "99d08aec-4300-4ff4-b7a5-9ff782263595",
-        "date_posted": 1755680941,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1755681110,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/figma/jobs/5616453004",
-        "company_name": "Figma",
-        "title": "Product Design Intern",
-        "locations": [
-            "San Francisco, CA",
-            "New York, NY"
-        ],
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "category": "Other",
-        "source": "AlmondCroffle",
-        "id": "bc7b875f-fda2-4ea8-8c95-34c44be93c6c",
-        "date_posted": 1755681110,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1755681191,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/figma/jobs/5617444004",
-        "company_name": "Figma",
-        "title": "Product Research Intern",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "terms": [
-            "Summer 2026",
-            "Winter 2026",
-            "Spring 2026",
-            "Fall 2026"
-        ],
-        "category": "Other",
-        "source": "AlmondCroffle",
-        "id": "c01e0a6d-5266-4269-9475-e60797f4f5f2",
-        "date_posted": 1755681191,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1755681330,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers.qorvo.com/job/Greensboro-Software-Characterization-Engineering-Intern-NC-27409/1318261400",
-        "company_name": "Qorvo",
-        "title": "Software Characterization Engineering Intern",
-        "locations": [
-            "Greensboro, NC"
-        ],
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Fall 2025",
-            "Summer 2026"
-        ],
-        "category": "Hardware Engineering",
-        "source": "AlmondCroffle",
-        "id": "5e0838e2-664a-40e0-8e4c-d49b1f3896f2",
-        "date_posted": 1755681330,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1757037759,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://seagatecareers.com/job/Shakopee-Summer-Intern-Software-Engineer-MN/1318324100",
-        "company_name": "Seagate",
-        "title": "Software Engineer",
-        "locations": [
-            "Shakopee, MN"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "f97ea670-3357-438e-ab4e-203b032c7255",
-        "date_posted": 1755681520,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "date_updated": 1757984516,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -83895,7 +83745,7 @@
         "company_name": "Leidos",
         "id": "0f43d7bb-9f44-4ec0-9cfe-721d7d264ada",
         "title": "Systems Integration and Software Engineer Intern - Transportation Solutions - Air Traffic Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -116139,7 +115989,7 @@
         "company_name": "The Voleon Group",
         "id": "a3a2857b-a272-40e8-9547-2fda16a8cebb",
         "title": "Research Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -274798,7 +274648,7 @@
         "company_name": "TikTok",
         "id": "89f594f1-36b8-4da1-a6b7-4c345fc51e0b",
         "title": "Frontend Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -387164,7 +387014,7 @@
         "company_name": "Magna",
         "id": "6ac7c03f-fa0a-4a73-90e0-86cf65de7d4c",
         "title": "Computer Vision AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -399157,7 +399007,7 @@
         "company_name": "GE Healthcare",
         "id": "575196b0-8a54-4f60-b515-c6a6f828818d",
         "title": "AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -400731,7 +400581,7 @@
         "company_name": "Netflix",
         "id": "fc46917a-fedc-492c-ac7f-58cce1ccaa06",
         "title": "Internet Measurement Research Intern - Openconnect Distributed Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -413170,7 +413020,7 @@
         "company_name": "Impiricus",
         "id": "a51651ef-323e-4a64-afea-c7ab40c14f60",
         "title": "Software Engineer Intern - Full Stack",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -413683,7 +413533,7 @@
         "company_name": "Impiricus",
         "id": "b4ea56db-dcfd-4479-8dde-abdf95b8431d",
         "title": "Intern Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -424565,7 +424415,7 @@
         "company_name": "Varian",
         "id": "a6520e04-3e0e-4d2a-9d7e-72129d861658",
         "title": "Materials Development and Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -424656,7 +424506,7 @@
         "company_name": "Calix",
         "id": "801cac08-39cb-4df3-8e68-5beed46e6eaf",
         "title": "Customer Experience Operations and Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -426396,7 +426246,7 @@
         "company_name": "DataRobot",
         "id": "06cbc73c-5566-416f-b82c-e45ed6cb7811",
         "title": "Applied Data Science Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -427566,7 +427416,7 @@
         "company_name": "Lumentum",
         "id": "6dee769b-b874-4086-8f5a-aa42688b1f90",
         "title": "Failure Analysis and New Product Qualification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -427931,7 +427781,7 @@
         "company_name": "Granite Construction",
         "id": "5628f91e-9bde-4281-9e4f-af0144726d32",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -433172,7 +433022,7 @@
         "company_name": "Tencent",
         "id": "62aeaffe-5de1-4404-9dd4-1a8ac33df25e",
         "title": "Tencent Cloud CPaaS Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437597,7 +437447,7 @@
         "company_name": "Trane Technologies",
         "id": "b2caadce-6eeb-4eb8-8571-477e8b7bca43",
         "title": "Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443436,7 +443286,7 @@
         "company_name": "Applied Materials",
         "id": "825f911f-7df6-493e-a496-4f5ec7670058",
         "title": "AI Algorithm \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -448209,7 +448059,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "8f1a9c98-cc02-4c65-ba54-152488d37e0a",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -449567,7 +449417,7 @@
         "company_name": "University Corporation for Atmospheric Research",
         "id": "01b9adfc-aded-41bf-91d4-d72a5a8dd33f",
         "title": "CGD Software Engineering Student Assistant 2",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -449705,7 +449555,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "3a1af616-a7b5-4b9e-b27f-9e10a270072f",
         "title": "Digital Engineering Software Developer Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -457544,7 +457394,7 @@
         "company_name": "New Lantern",
         "id": "36c6049a-d5b2-4e24-9714-5db445af995f",
         "title": "New Grad Olympics Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -459420,7 +459270,7 @@
         "company_name": "ByteDance",
         "id": "88cb681d-481d-4dfd-b2b1-e0f3f2cc4b48",
         "title": "AI Vision Research Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
