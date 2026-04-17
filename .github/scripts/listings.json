@@ -2,126 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Uline",
-        "id": "540dad64-d8ed-4353-81d7-ac3eb11e8cc5",
-        "title": "Database Administrator Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755722773,
-        "date_posted": 1755722773,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Database-Administrator-Internship---Summer-2026_R256303",
-        "locations": [
-            "Waukegan, IL",
-            "Milwaukee, WI",
-            "Pleasant Prairie, WI",
-            "Morton Grove, IL",
-            "Kenosha, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Seagate Technology ",
-        "id": "adb0210a-18d3-43e3-b82b-b3ebb9bf0635",
-        "title": "Summer Intern - Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1755722007,
-        "date_posted": 1755722007,
-        "url": "https://seagatecareers.com/job/Shakopee-Summer-Intern-Software-Engineer-MN/1318324100/?ats=successfactors",
-        "locations": [
-            "Shakopee, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Seagate-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Qorvo",
-        "id": "193d969e-779a-4ee4-8839-c966f62e133f",
-        "title": "Software Characterization Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755864207,
-        "date_posted": 1755723113,
-        "url": "https://careers.qorvo.com/job/Greensboro-Software-Characterization-Engineering-Intern-NC-27409/1318261400/?ats=successfactors",
-        "locations": [
-            "Greensboro, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Qorvo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Qorvo",
-        "id": "0b84bb8c-8183-45cf-a573-ebd2e7e0c2a4",
-        "title": "Product Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755864500,
-        "date_posted": 1755723105,
-        "url": "https://careers.qorvo.com/job/Greensboro-Product-Engineering-Intern-NC-27409/1318501700/?ats=successfactors",
-        "locations": [
-            "Greensboro, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Qorvo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "U.S. Bank",
-        "id": "63c885f6-871b-4d77-b71b-fff1e7a78ae4",
-        "title": "Product Management Summer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755724452,
-        "date_posted": 1755724452,
-        "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2026-Product-Management-Summer-Intern_2025-0020361",
-        "locations": [
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/US-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Blizzard Entertainment",
         "id": "1584fc93-77a7-42ee-9192-74c39f836282",
         "title": "AI Localization Intern",
@@ -78774,7 +78654,7 @@
         "company_name": "Micron Technology",
         "id": "02b0dda9-236c-4be9-8daa-f10d4c355fc9",
         "title": "Intern \u2013 SSD Firmware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -79618,34 +79498,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Marsh",
-        "id": "af4a575e-30d1-4176-8730-8e49d66a7155",
-        "title": "Research Associate - NERA",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758309362,
-        "date_posted": 1755723945,
-        "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/NERA-Research-Associate--Summer-2026-Grads---Multiple-Locations-_R_320675-2",
-        "locations": [
-            "Washington, DC",
-            "SF",
-            "Chicago, IL",
-            "NYC",
-            "White Plains, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/55341c12-8fd6-4cce-8472-d15c4a3ab583",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -155160,7 +155012,7 @@
         "company_name": "UC Health",
         "id": "31cbbfdb-c914-4a34-aca1-6b2d6bfd63f4",
         "title": "Digital Health Systems Co-op Student",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -168436,48 +168288,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Nominal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Qorvo",
-        "id": "cac6f432-a6dc-47fc-b7cf-cfeeafe7df68",
-        "title": "Customer Engineering Intern - ",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1756371603,
-        "date_posted": 1755723121,
-        "url": "https://careers.qorvo.com/job/Richardson-Customer-Engineering-Intern-TX-75081/1318620200/?ats=successfactors",
-        "locations": [
-            "Richardson, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Qorvo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "WEC Energy Group",
-        "id": "c012603d-a740-4787-9cfc-8e3e26ba8159",
-        "title": "Intern \u2013 Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761839334,
-        "date_posted": 1755722640,
-        "url": "https://careers.wecenergygroup.com/We_Energies/job/Milwaukee-Intern-Analytics-WI-53203/1318644000/?ats=successfactors",
-        "locations": [
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/WEC-Energy-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -182469,7 +182279,7 @@
         "company_name": "Lightmatter",
         "id": "03797ae7-246b-48c4-bd96-4ac150c9e63a",
         "title": "Package Layout Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -183703,27 +183513,6 @@
             "Portage, MI"
         ],
         "company_url": "https://simplify.jobs/c/Stryker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Qorvo",
-        "id": "55c51a6e-6642-45c2-8949-62816c235d1d",
-        "title": "Test Engineering Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1756379794,
-        "date_posted": 1755723110,
-        "url": "https://careers.qorvo.com/job/Greensboro-Test-Engineering-Intern-NC-27409/1318501900/?ats=successfactors",
-        "locations": [
-            "Greensboro, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Qorvo",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -228235,7 +228024,7 @@
         "company_name": "Zipline",
         "id": "12a46539-a1cd-4b1c-bbf4-fc800e0cd9aa",
         "title": "Spatial Planning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -357733,7 +357522,7 @@
         "company_name": "Primetals Technologies",
         "id": "2310d0c9-8dfa-472a-8cc0-0dbfac6bd667",
         "title": "Full Stack Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -404585,7 +404374,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "059d4161-68c9-4a55-a7e6-aa46eab2df8e",
         "title": "Intern Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -420890,7 +420679,7 @@
         "company_name": "EquipmentShare",
         "id": "36506978-5c77-49ef-a928-ab2b4d3bd76c",
         "title": "Intern: Financial Systems Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -423189,7 +422978,7 @@
         "company_name": "GE Vernova",
         "id": "0523a323-b67a-4551-8854-ea53fe710b22",
         "title": "GE Vernova Advanced Research \u2013 Computer Vision Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -442372,7 +442161,7 @@
         "company_name": "GE Vernova",
         "id": "2902ddbe-e755-4e22-b0b3-6e4be6d53070",
         "title": "PhD Research Fellow",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -455343,7 +455132,7 @@
         "company_name": "Leidos",
         "id": "25264f34-5c3a-4902-a939-12d77d6105c8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -457329,7 +457118,7 @@
         "company_name": "Ascensus",
         "id": "1144cf0a-d7dc-4e78-b36d-8ccaba9d92e7",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -457604,7 +457393,7 @@
         "company_name": "RTX",
         "id": "22042e2f-9390-46f1-a3bb-decd1d8bb242",
         "title": "Intern - Software Designer - Web based Tool Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
