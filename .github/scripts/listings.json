@@ -1,30 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "TikTok",
-        "id": "09e14f9b-7d96-47a1-a06a-94bb760acbd8",
-        "title": "Product Manager Intern - Tiktok LIVE-Recommend Product",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755649317,
-        "date_posted": 1755649317,
-        "url": "https://lifeattiktok.com/search/7538065288156809479",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Tencent",
         "id": "4abe20f7-ff1f-4abb-b3c8-057f1c812bc9",
@@ -345888,7 +345864,7 @@
         "company_name": "First American",
         "id": "3ade6359-6897-4493-b0a1-0ae38c91676d",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -357463,7 +357439,7 @@
         "company_name": "Robert Half",
         "id": "36d71d1b-f9ad-47c9-8a47-051ed55117bd",
         "title": "Software Engineer Marketing Web Applications Virtual Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -416567,7 +416543,7 @@
         "company_name": "Proofpoint",
         "id": "5ef50a91-16cf-48e5-9c12-f0e73efd7f87",
         "title": "Agentic AI Workflows Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -425981,7 +425957,7 @@
         "company_name": "SpyCloud",
         "id": "29bc94fb-7827-4030-b09b-3d7641fe810c",
         "title": "Product Manager Intern - AI Ops",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -438617,7 +438593,7 @@
         "company_name": "Hitachi",
         "id": "20db2bc7-8d7c-4d5c-94ff-27efcdac3c3c",
         "title": "Engineering Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -458071,7 +458047,7 @@
         "company_name": "Global",
         "id": "921ae9ef-7841-447b-8519-b10390f2f100",
         "title": "Data Strategy Executive Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -458972,7 +458948,7 @@
         "company_name": "Live Oak Bank",
         "id": "6466092f-a026-4fa9-a4b4-4eaf2f121c69",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -459305,5 +459281,255 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "QuEra Computing",
+        "id": "e3eb5203-9de0-43d6-87c3-16cc6647ffae",
+        "title": "Intern - Data Management",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776389090,
+        "date_posted": 1776388868,
+        "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5191391008",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/QuEra-Computing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Baxter International",
+        "id": "ade05a2b-7d26-4d85-bdca-77c15476218a",
+        "title": "R&D Embedded Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776388681,
+        "date_posted": 1776387965,
+        "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Raleigh-North-Carolina/Intern--R-D-Embedded-Software_JR-200229-1",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Baxter-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uhaul",
+        "id": "a466f73f-e126-4b3b-8d17-99b8346e13a7",
+        "title": "Android Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776388321,
+        "date_posted": 1776388290,
+        "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Android-Developer-Intern_R242635",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Uhaul",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uhaul",
+        "id": "6b877f44-0b3f-46c1-a867-bd6706c63d23",
+        "title": "iOS Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776388437,
+        "date_posted": 1776388289,
+        "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/iOS-Developer-Intern_R242642",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Uhaul",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Baxter International",
+        "id": "88fa3d7e-dd6b-40d7-af52-54e56da8af4e",
+        "title": "Embedded Software R&D Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776388553,
+        "date_posted": 1776387968,
+        "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Raleigh-North-Carolina/Intern--Embedded-Software-R-D_JR-200230-1",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Baxter-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Context",
+        "id": "26fdb601-e0f4-4074-8616-d16bfbb4f7b9",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776388424,
+        "date_posted": 1776388276,
+        "url": "https://jobs.ashbyhq.com/context/1c657ebf-3842-4ca4-ab55-54ffaf1e49d8/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Context",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zoox",
+        "id": "dd218532-4e19-4d36-a609-048a006390f1",
+        "title": "Software Engineer Intern - Perception Data",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776388321,
+        "date_posted": 1776388155,
+        "url": "https://jobs.lever.co/zoox/15aa4a31-81e0-4f7a-b9d9-5bc64eb2afb8/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "3b9705b9-3ad7-4c77-97aa-e51cc37e4a70",
+        "title": "Speech Processing / ASR for Low-Resource Languages Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776388480,
+        "date_posted": 1776388181,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/XMLNAME---Intern---Speech-Processing---ASR-for-Low-Resource-Languages-_R-00181128",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Anthropic",
+        "id": "f7c3a13d-abc8-415d-9306-adab0b428a40",
+        "title": "Anthropic STEM Fellow Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776388335,
+        "date_posted": 1776388004,
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5189848008",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Anthropic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "88cb681d-481d-4dfd-b2b1-e0f3f2cc4b48",
+        "title": "AI Vision Research Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776388321,
+        "date_posted": 1776388145,
+        "url": "https://jobs.bytedance.com/en/position/7629166796528535813/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cisco",
+        "id": "1e4c86f4-30ef-4912-80b7-f718f39d3688",
+        "title": "AI/ML Modeling Engineer 2 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776388411,
+        "date_posted": 1776388275,
+        "url": "https://careers.cisco.com/global/en/job/2009059",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
