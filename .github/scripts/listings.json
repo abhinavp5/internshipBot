@@ -195,30 +195,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "EQ Bank",
-        "id": "ee2141d8-d512-4e80-b190-260617207628",
-        "title": "Commercial Analytics Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1755704759,
-        "date_posted": 1755704759,
-        "url": "https://jobs.lever.co/eqbank/4bf6bb9b-76dc-4eff-8978-b8d8708f550a/apply",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/EQ-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "MRI Software",
         "id": "24744d56-3852-4eb5-9be4-d7063911867b",
         "title": "Fall Intern - Data Management",
@@ -6147,31 +6123,6 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cummins",
-        "id": "c2a6b01f-8a1d-4d77-8749-50dc29b691fe",
-        "title": "School To Work \u2013 Intern - Software Validation - Electrification and Controls",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1756196227,
-        "date_posted": 1755706411,
-        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/2418383",
-        "locations": [
-            "Troy, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Cummins",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
