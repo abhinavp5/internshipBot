@@ -1,218 +1,5 @@
 [
     {
-        "date_updated": 1757984516,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.ashbyhq.com/cocodelivery/16c75d81-08af-4d95-8dfe-15fc0516b57a",
-        "company_name": "COCO Robotics",
-        "title": "ML Engineer Internship",
-        "locations": [
-            "Los Angeles, CA"
-        ],
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Fall 2025",
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "82cb4a58-7bb5-4860-b77a-141136f2bed3",
-        "date_posted": 1755695074,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1756201796,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/asteraearlycareer/jobs/4598303005",
-        "company_name": "Astera Labs",
-        "title": "Applied AI Engineer Intern",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "terms": [
-            "Fall 2025",
-            "Fall 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "5640e43e-ae0c-4712-9d7a-078a09af6d93",
-        "date_posted": 1755695170,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1755782208,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://joinbytedance.com/search/7537121176616847624",
-        "company_name": "ByteDance",
-        "title": "Research Intern (IaaS AI Infra)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Fall 2025",
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "2c3d75c8-f66c-4baf-a852-655eabd2068c",
-        "date_posted": 1755695481,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1755782421,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://joinbytedance.com/search/7537118884496312584",
-        "company_name": "ByteDance",
-        "title": "Research Intern (IaaS AI Infra)",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Fall 2025",
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "f0694642-879b-4cd5-bd5e-45dc35bbabcb",
-        "date_posted": 1755695626,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1755695787,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://joinbytedance.com/search/7540025509111990546",
-        "company_name": "ByteDance",
-        "title": "Research Intern (RDMA/High Speed Network)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Fall 2025",
-            "Summer 2026"
-        ],
-        "category": "Other",
-        "source": "AlmondCroffle",
-        "id": "7d111830-0e1e-414b-ac2d-f3e29b7f88ef",
-        "date_posted": 1755695787,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1755782391,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://joinbytedance.com/search/7539991964504017170",
-        "company_name": "ByteDance",
-        "title": "Research Intern (AI/LLM Network)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Fall 2025",
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "ee53bda4-539c-415b-8cc6-cd6ffeba8181",
-        "date_posted": 1755695918,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1755782458,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://joinbytedance.com/search/7539992380817639687",
-        "company_name": "ByteDance",
-        "title": "Research Intern (AI/LLM Network)",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Fall 2025",
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "feecfe41-1528-4e5e-af25-edad4e3c9fbf",
-        "date_posted": 1755695996,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1756201898,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25024741",
-        "company_name": "Emerson",
-        "title": "Software Development Co-op",
-        "locations": [
-            "Elyria, OH"
-        ],
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Fall 2025",
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "17503340-ead6-4146-bf1b-022d9b580585",
-        "date_posted": 1755696231,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Capital One",
@@ -7499,7 +7286,7 @@
         "company_name": "Integra FEC",
         "id": "f33fda29-ae17-406e-a534-61199ec17a81",
         "title": "Summer \u2013 Data Scientist Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -120496,7 +120283,7 @@
         "company_name": "General Motors",
         "id": "6c43b7e6-b33c-491e-bcd0-f6a363450901",
         "title": "Co-Op - Software Developer - Virtualization and SIL Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391152,7 +390939,7 @@
         "company_name": "M&G",
         "id": "5f129450-352a-48c1-b5a9-246d39241e63",
         "title": "Finance Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -406157,7 +405944,7 @@
         "company_name": "Ryder System",
         "id": "3a05ac30-fadb-4547-a53f-f58bcd91d16d",
         "title": "Intern \u2013 Application Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -424182,7 +423969,7 @@
         "company_name": "AeroVironment",
         "id": "bc20527a-06d5-40f5-bbb9-95a498ad1b6a",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -427441,7 +427228,7 @@
         "company_name": "Boston Properties",
         "id": "3d84f211-67ed-4c81-a5c9-34f1bc6cb2bc",
         "title": "IT Data Services Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -433591,7 +433378,7 @@
         "company_name": "ITC Federal",
         "id": "2be207ae-b91f-4c93-80de-135fea7e0fb6",
         "title": "Intern - AI/LLM Development - Growth Solutions Architecture Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -447306,7 +447093,7 @@
         "company_name": "Fiserv",
         "id": "cbe986fd-32b4-4255-8849-1b595d798b76",
         "title": "Application Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -451703,7 +451490,7 @@
         "company_name": "Leidos",
         "id": "02565f6e-3d2f-4610-99f3-f93ffa6af89c",
         "title": "Epidemiology and Data Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -453036,7 +452823,7 @@
         "company_name": "Becton Dickinson",
         "id": "8b9af2b7-1757-49ca-9b1e-37e7e3ea3f4b",
         "title": "Product Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -456029,7 +455816,7 @@
         "company_name": "The Boyd Group",
         "id": "e447ac1c-1962-49c7-89cc-7147986e0095",
         "title": "Operations Data & Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -456210,7 +455997,7 @@
         "company_name": "The Boyd Group",
         "id": "b6a20ac8-9523-4afb-ae2c-02d4b71ae7c9",
         "title": "Procurement Data & Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -459465,6 +459252,73 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/Coherent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pennsylvania State University",
+        "id": "8b16adc7-b949-4184-9ba5-920c3300ca37",
+        "title": "Lab Assistant Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776435304,
+        "date_posted": 1776434865,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Lab-Assistant_REQ_0000077553-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Menasha Corporation",
+        "id": "55b7e4d2-68c7-4187-bc16-9e2f56c43236",
+        "title": "Packaging Structural Design Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776434941,
+        "date_posted": 1776434829,
+        "url": "https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Brampton-Ontario/Packaging-Structural-Design-Intern---12-Month-Contract_R13613-1",
+        "locations": [
+            "Brampton, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Menasha-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Berkshire Hathaway Energy",
+        "id": "e9e8f99e-8394-4f89-a4db-5815ce0c5792",
+        "title": "Corporate Applications Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776435114,
+        "date_posted": 1776434754,
+        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10004817",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
