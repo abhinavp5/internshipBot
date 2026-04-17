@@ -1,76 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Tencent",
-        "id": "4abe20f7-ff1f-4abb-b3c8-057f1c812bc9",
-        "title": "Motion Generation Algorithm Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755782801,
-        "date_posted": 1755670232,
-        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/UK-London/Motion-Generation-Algorithm-Intern_R105947",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Tencent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Truist",
-        "id": "ea19b811-d38b-4e17-a2fe-5ae97da9a10b",
-        "title": "2026 Technology and Innovation Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755671502,
-        "date_posted": 1755671502,
-        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2026-Technology-and-Innovation-Internship_R0105789-1",
-        "locations": [
-            "Charlotte, NC",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Truist",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cadence Solutions",
-        "id": "0c7a2fad-67b3-4a71-9e8c-a57abfd3d62b",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755673558,
-        "date_posted": 1755673558,
-        "url": "https://job-boards.greenhouse.io/cadencesolutions/jobs/4427513006",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1755782194,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -368414,7 +368343,7 @@
         "company_name": "Cisco",
         "id": "3b853e00-94b3-4325-913f-05c049893cd5",
         "title": "AI/ML Modeling Engineer 1 2 Intern - United States",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -403964,7 +403893,7 @@
         "company_name": "Gen",
         "id": "ce3dcfbd-86bd-46b5-a6fc-639f4341929d",
         "title": "Intern - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -407463,7 +407392,7 @@
         "company_name": "Dordt University",
         "id": "bb92bc87-4a8a-489c-b71c-269f42f8171b",
         "title": "AI & Automation Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -418260,7 +418189,7 @@
         "company_name": "Gen",
         "id": "f20d065e-33ce-43be-9ec7-919b26553d10",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -440638,7 +440567,7 @@
         "company_name": "CACI",
         "id": "1b14ff21-12be-411a-965e-6eabffad3321",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -441241,7 +441170,7 @@
         "company_name": "CACI",
         "id": "db7af9a5-4a5a-4433-a406-8adb7ce0f1c3",
         "title": "Embedded Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443664,7 +443593,7 @@
         "company_name": "Cadence Design Systems",
         "id": "a81e52a9-b99a-4142-a9b5-c66ee68704fd",
         "title": "Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -456942,7 +456871,7 @@
         "company_name": "Moog ",
         "id": "7c029c6a-1c83-46c4-937a-dca6d5545b73",
         "title": "Hardware Design Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -457476,7 +457405,7 @@
         "company_name": "Applied Materials",
         "id": "9b1fe967-f7f6-4164-a3b0-495ff23f191b",
         "title": "Software Engineer Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -459530,6 +459459,98 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "55c29391-7472-4e4d-a26f-2f38c7efc55e",
+        "title": "Research Scientist Intern - E-commerce Recommendation - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776406389,
+        "date_posted": 1776406269,
+        "url": "https://lifeattiktok.com/search/7629188397976586501",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "74c89fde-4677-4b10-b706-43f45065e8e4",
+        "title": "Research Scientist Intern - E-commerce Recommendation - LLM Applications",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776406603,
+        "date_posted": 1776406270,
+        "url": "https://lifeattiktok.com/search/7629187524074342709",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "0774f31a-26bd-433d-bc51-3d4bbb820b0d",
+        "title": "Research Scientist Intern - TikTok Search / Generative AI - LLM",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1776406681,
+        "date_posted": 1776406269,
+        "url": "https://lifeattiktok.com/search/7629250876813642037",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Revvity",
+        "id": "08f71030-18c7-45c1-854d-1869ede00c6f",
+        "title": "Web and Marketing Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776406235,
+        "date_posted": 1776406090,
+        "url": "https://revvity.wd103.myworkdayjobs.com/External/job/Waltham/Intern---Web-and-Marketing_JR-044137",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Revvity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
