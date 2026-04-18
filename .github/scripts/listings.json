@@ -1,244 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "ATPCO",
-        "id": "b9ff9dbe-58f4-4164-969f-8602ed8532da",
-        "title": "Product Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755864231,
-        "date_posted": 1755735615,
-        "url": "https://jobs.smartrecruiters.com/ATPCO1/744000077230020",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "VSP Vision",
-        "id": "5e414025-405e-43eb-95f3-f2cf8f903086",
-        "title": "Apprentice Software Engineer - Java - Angular - React",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755864151,
-        "date_posted": 1755739866,
-        "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Apprentice-Software-Engineer---Java--Angular--React_R-8434",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/VSP-Vision",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "WEC Energy Group",
-        "id": "92de49d6-b2a8-4397-9b7a-f837fa53301a",
-        "title": "Intern \u2013 Data Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755739820,
-        "date_posted": 1755739820,
-        "url": "https://careers.wecenergygroup.com/job/Milwaukee-Intern-Data-Analytics-WI-53203/1318868600/?ats=successfactors",
-        "locations": [
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/WEC-Energy-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Skyworks",
-        "id": "6cb4a55a-fda3-4499-8a7b-625fb2d24773",
-        "title": "Product Engineering Co-Op",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1759948582,
-        "date_posted": 1755740919,
-        "url": "https://careers.skyworksinc.com/job/Irvine-Product-Engineering-Co-Op-(WinterSpring-2026)-CA-92602/1318899800/?ats=successfactors",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Skyworks",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Brookfield Properties",
-        "id": "9b8b9ee0-b01b-4315-a0ef-bbf4e6817100",
-        "title": "Data Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755864391,
-        "date_posted": 1755740476,
-        "url": "https://brookfield.wd5.myworkdayjobs.com/brookfieldproperties/job/Charleston-South-Carolina/Data-Engineering-Intern_R2045434",
-        "locations": [
-            "Charleston, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Brookfield-Properties",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Draper",
-        "id": "c1f37ea6-a226-4e89-af49-ba5361006f17",
-        "title": "Device Physics & Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755864466,
-        "date_posted": 1755741475,
-        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Device-Physics---Engineering-Intern_JR001684",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Draper",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Data Science, AI & Machine Learning",
-        "company_name": "Cisco",
-        "id": "dc1f6c17-5e19-4b7d-9365-fedeed4af6b0",
-        "title": "Data Analyst I \u2013 Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Fall 2025",
-            "Summer 2026"
-        ],
-        "date_updated": 1756117599,
-        "date_posted": 1755741301,
-        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Data-Analyst-I-Intern-United-States/1449162",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cisco",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Data Science, AI & Machine Learning",
-        "company_name": "WeRide",
-        "id": "08ab1083-f977-4e20-95a6-c89556b7f931",
-        "title": "Data Scientist",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755783358,
-        "date_posted": 1755741252,
-        "url": "https://jobs.lever.co/weride/339696d7-10bf-4f62-a74b-bc24b59e1826/apply",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/WeRide",
-        "is_visible": true,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Navy Federal",
-        "id": "3b0c249b-04e7-48ef-af6d-6c40087e9b0e",
-        "title": "Intern \u2013 Year Round - Voice Infrastructure",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Summer 2025",
-            "Fall 2025",
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1755864593,
-        "date_posted": 1755742375,
-        "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/26430",
-        "locations": [
-            "Pensacola, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Navy-Federal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Trade Desk",
-        "id": "4801b49c-dd4e-4300-8dd4-e5f03fee8dd4",
-        "title": "2026 Data Science Internship",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755864370,
-        "date_posted": 1755742196,
-        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4822859007",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Standard Aero",
         "id": "aea390e2-cf6b-471c-833a-4261520b1219",
@@ -73583,7 +73345,7 @@
         "company_name": "Waymo",
         "id": "c835d99e-941b-411f-8870-6e551b007f2b",
         "title": "Intern - PhD - Machine Learning Engineer - Simulation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -239759,7 +239521,7 @@
         "company_name": "DataVisor",
         "id": "24d66e61-af55-4d53-aff1-c6ba867f23ea",
         "title": "AI/Machine Learning Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -350012,7 +349774,7 @@
         "company_name": "Redwood Materials",
         "id": "96d3fe76-fad4-48a2-969a-bd2d8871c9c1",
         "title": "Energy Optimization Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -395855,7 +395617,7 @@
         "company_name": "Lucid Motors",
         "id": "98e5b8db-356f-415c-bd38-1e77b817dd5f",
         "title": "Intern \u2013 Embedded Firmware Engineer - Battery Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -436922,7 +436684,7 @@
         "company_name": "Securitas",
         "id": "fb68609e-4629-46a5-bb48-28b682c697a7",
         "title": "Intern AI & Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -459826,6 +459588,94 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uhaul",
+        "id": "87b65abc-d25d-4dca-b903-c4fe0183cc4f",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776474760,
+        "date_posted": 1776474582,
+        "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Software-Development-Summer-Intern_R242785",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Uhaul",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Revvity",
+        "id": "21d14c6c-2787-4f56-86ff-46c310b69bf3",
+        "title": "Full-Stack AI Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776474541,
+        "date_posted": 1776474481,
+        "url": "https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044247",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Revvity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Aramark",
+        "id": "fc600555-5838-472c-94d5-bfe89af6e7d0",
+        "title": "ASU Sustainability Data Analysis Student Manager ASU Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776474469,
+        "date_posted": 1776474339,
+        "url": "https://aramarkcareers.com/UnitedStates/job/Tempe-ASU-Sustainability-Data-Analysis-Student-Mgr_-ASU-AZ-85281/1383573200/?ats=successfactors",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Aramark",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ActBlue",
+        "id": "5257e64a-5716-49d4-a67d-3b9ae85a2ae9",
+        "title": "Full time Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776475541,
+        "date_posted": 1776475413,
+        "url": "https://www.actblue.com/careers/available-positions/?gh_jid=8430069002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/ActBlue",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
