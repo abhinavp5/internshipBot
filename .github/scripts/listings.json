@@ -175023,7 +175023,7 @@
         "company_name": "Leidos",
         "id": "1b89031e-7b1f-455d-8cee-925b84440adc",
         "title": "AI Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -263649,7 +263649,7 @@
         "company_name": "Autodesk",
         "id": "030b5630-aec5-4865-a5f3-282b61a0a822",
         "title": "Intern AI Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Summer 2026"
@@ -326262,7 +326262,7 @@
         "company_name": "ZOLL Medical Corporation",
         "id": "e63c440b-587a-489b-9689-a222ac968a6b",
         "title": "Test Development Engineer Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -340033,7 +340033,7 @@
         "company_name": "SWBC",
         "id": "98fc61fd-a3b6-41c3-bd5f-20d2f0f39969",
         "title": "ETL Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -343136,7 +343136,7 @@
         "company_name": "Proofpoint",
         "id": "0f8ff6f7-a204-427a-bb97-2d46968edcfa",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -345229,7 +345229,7 @@
         "company_name": "First American",
         "id": "4981b772-baf1-4484-a97d-60c8bb6aaa71",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -366838,7 +366838,7 @@
         "company_name": "First American",
         "id": "e16044c0-f629-4515-860b-713bbea3aed0",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -373443,7 +373443,7 @@
         "company_name": "BeOne",
         "id": "abd5aa45-2d5a-4bdc-9e59-dbc695c816a3",
         "title": "Data Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -399506,7 +399506,7 @@
         "company_name": "Pennsylvania State University",
         "id": "dd9d5a44-e764-4be3-96b4-70cce622eb27",
         "title": "Part-Time Laboratory Assistants - Department of Statistics",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -399552,7 +399552,7 @@
         "company_name": "Pennsylvania State University",
         "id": "a29766ff-554e-4aea-82d5-a2a52d9a3c9c",
         "title": "Part-Time Research Assistant/Programmer - Yanxi Liu",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -402435,7 +402435,7 @@
         "company_name": "State Street",
         "id": "b6cd5bdd-172e-4abc-be0c-306e588dcc8a",
         "title": "Alpha Inkind Product Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -420103,7 +420103,7 @@
         "company_name": "First American",
         "id": "b92efb9c-6bdb-42c3-9373-4fdb5cb96b1f",
         "title": "AI/Data Science Graduate Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -432260,7 +432260,7 @@
         "company_name": "Oregon State Government",
         "id": "fc09641e-cac8-4e2a-830d-c509e3eaf75b",
         "title": "Research Intern - Student Professional/Technical Worker",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -436233,7 +436233,7 @@
         "company_name": "Blue Origin",
         "id": "03c43a01-72d0-4a6a-b59c-eb1a99da5701",
         "title": "Artificial Intelligence / Machine Learning Intern \u2013 Graduate Student",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -439572,7 +439572,7 @@
         "company_name": "CACI",
         "id": "3b5c05ed-7734-4e6d-93ee-59ca3367d96b",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -442041,7 +442041,7 @@
         "company_name": "Progyny",
         "id": "454fcc90-e99e-4e05-aa6a-3aeb81ed6ae4",
         "title": "Clinical Programs-Product Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -443054,7 +443054,7 @@
         "company_name": "Johnson & Johnson",
         "id": "d47324b7-d641-49cc-a2ec-d45062c0f7d8",
         "title": "Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -447410,7 +447410,7 @@
         "company_name": "Tencent",
         "id": "b8d8e6f4-168d-4714-ac46-4356d22ef0a3",
         "title": "Data Product Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -447716,7 +447716,7 @@
         "company_name": "iHeartMedia",
         "id": "49613dd4-fb5f-4115-8ed3-d156ed4dc3ff",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -454695,7 +454695,7 @@
         "company_name": "SS&C",
         "id": "39100a1d-782d-44bd-bd44-de6db5c3cfd5",
         "title": "Software Engineer Intern \u2013 Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -454786,7 +454786,7 @@
         "company_name": "RTX",
         "id": "4f8a2318-6724-4db4-ba07-ad3d2f4ea716",
         "title": "Pratt & Whitney Future Ready Lab Intern - F135 Program Digital Solutions",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -456383,7 +456383,7 @@
         "company_name": "Vanguard",
         "id": "9cc347bd-af8e-4ca6-b674-3f83aa6aebbf",
         "title": "Technology \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -459627,6 +459627,50 @@
             "State College, PA"
         ],
         "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Unisys",
+        "id": "d70d4c4f-f216-471e-a37d-152ffd6f18cb",
+        "title": "Banco de Talentos J\u00f3venes Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776532523,
+        "date_posted": 1776525911,
+        "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Bogota-DC-Colombia/Banco-de-Talentos-Jvenes---UIS-Colombia_REQ563731",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Unisys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tencent",
+        "id": "4fb49ee0-e5a2-41bd-a97c-eec22d7f6177",
+        "title": "Software Engineering Intern - Backend Development",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776532321,
+        "date_posted": 1776528604,
+        "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/Software-Engineering-Intern--Backend-Development_R107174",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
