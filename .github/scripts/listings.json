@@ -1,124 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Standard Aero",
-        "id": "aea390e2-cf6b-471c-833a-4261520b1219",
-        "title": "Application Developer APEX \u2013 Co-Op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756214622,
-        "date_posted": 1755744517,
-        "url": "https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/jobs/job/7692",
-        "locations": [
-            "St. John's, NL, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Standard-Aero",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "IXL Learning",
-        "id": "6b1467ff-b2ab-402b-9cf0-7586e9bfdf02",
-        "title": "Software Engineer \u2013 Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1755744073,
-        "date_posted": 1755744073,
-        "url": "https://www.ixl.com/company/jobs?gh_jid=8128624002",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/IXL-Learning",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Hewlett Packard Enterprise",
-        "id": "229cf625-4db7-450e-8d2f-ce97ca2b8605",
-        "title": "AI Customer Engagement Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755864347,
-        "date_posted": 1755744797,
-        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Andover-Massachusetts-United-States-of-America/AI-Customer-Engagement-Analyst-Intern_1192735",
-        "locations": [
-            "Andover, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "IXL Learning",
-        "id": "0ba5dd03-320f-4d68-8fc7-318124a13594",
-        "title": "Software Engineer \u2013 Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1755746533,
-        "date_posted": 1755746533,
-        "url": "https://www.ixl.com/company/jobs?gh_jid=8128629002",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/IXL-Learning",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "842eeaa7-8339-4abb-a6f4-9191ab423265",
-        "title": "NW Automation Practice Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1755751540,
-        "date_posted": 1755751540,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23792",
-        "locations": [
-            "Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1758583337,
         "sponsorship": "Other",
         "active": true,
@@ -444853,7 +444734,7 @@
         "company_name": "BDO Canada",
         "id": "5d5d5a1e-8891-4c06-8383-c7cfad4c6689",
         "title": "Co-op Intern - Indirect Tax",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -446261,7 +446142,7 @@
         "company_name": "Fiserv",
         "id": "cbe986fd-32b4-4255-8849-1b595d798b76",
         "title": "Application Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -448830,7 +448711,7 @@
         "company_name": "EXL",
         "id": "b4e5d089-614c-49a2-89db-ae63de31cd87",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -459680,6 +459561,34 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Trade Desk",
+        "id": "4801b49c-dd4e-4300-8dd4-e5f03fee8dd4",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1776091062,
+        "date_posted": 1774390104,
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4822859007",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/281371f9-4ed3-4440-876f-4bbeaa0d50e0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
