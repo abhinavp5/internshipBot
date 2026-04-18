@@ -167794,27 +167794,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nominal",
-        "id": "d9046b45-7ba3-4b63-bae6-dca53ebd6f8e",
-        "title": "Software Engineer \u2013 Internship - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755953907,
-        "date_posted": 1755754474,
-        "url": "https://jobs.lever.co/nominal/f2673e2a-381e-49eb-bb34-7633ac0d5ea4/apply",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Nominal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "WEC Energy Group",
         "id": "fe84a48d-73ae-4e2b-9e21-2c47b8660fe4",
@@ -447054,7 +447033,7 @@
         "company_name": "Rolls-Royce Motorcars",
         "id": "056e9dff-5488-43f3-9a4a-c3c60b211167",
         "title": "Intern Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
