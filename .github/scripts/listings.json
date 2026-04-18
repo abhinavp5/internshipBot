@@ -4583,7 +4583,7 @@
         "company_name": "GE Appliances",
         "id": "eee6c9da-def1-454b-8f5d-8acac504abee",
         "title": "Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -77982,7 +77982,7 @@
         "company_name": "Micron Technology",
         "id": "02b0dda9-236c-4be9-8daa-f10d4c355fc9",
         "title": "Intern \u2013 SSD Firmware",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -85074,7 +85074,7 @@
         "company_name": "Zillow",
         "id": "ca5eca0a-9078-4ac7-9951-872de0a08817",
         "title": "AI Applied Scientist - PhD Intern - Next-Gen Agentic and Multi-Modal Home Exploration Experience",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -233969,7 +233969,7 @@
         "company_name": "Genmab",
         "id": "e0774945-3249-448e-99d9-8c572c9bafa4",
         "title": "Translational Imaging & Multi-Omics Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -269573,7 +269573,7 @@
         "company_name": "Baird",
         "id": "d22030d5-5e64-4d91-b663-f87e7db4b721",
         "title": "Institutional Equities Sales & Trading Shadow Week - May 2026 - Milwaukee",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -309028,7 +309028,7 @@
         "company_name": "MiTek",
         "id": "d5dd7f0d-3771-4c01-920f-900fdcf4ec74",
         "title": "Marketing Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -318853,7 +318853,7 @@
         "company_name": "Draper",
         "id": "e5f6ef9a-56db-4752-868f-397513cc5ffa",
         "title": "Optics-Physics Sensor Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -345866,7 +345866,7 @@
         "company_name": "Viavi Solutions",
         "id": "0d526fdf-c1fd-4520-871e-003a9bd618f7",
         "title": "Hardware Engineering Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -371753,7 +371753,7 @@
         "company_name": "BeOne",
         "id": "5d1c624a-4ec5-49cf-813e-b6a71d2773ec",
         "title": "Summer Internship: Data Insights AI Summer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -384116,7 +384116,7 @@
         "company_name": "Magna",
         "id": "c81b895f-184a-4958-849f-7eefb3b329e5",
         "title": "Student Engineering Software",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -397510,7 +397510,7 @@
         "company_name": "Lumentum",
         "id": "11ac0edd-49f5-4715-a266-ee1ebcae4aa9",
         "title": "Manufacturing Data Analytics Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -401665,7 +401665,7 @@
         "company_name": "ABC Fitness",
         "id": "0e0ea5b8-069c-4228-8efe-d7f24e46b948",
         "title": "Product Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -405472,7 +405472,7 @@
         "company_name": "University of Texas at Austin",
         "id": "2dd0b1c8-8e4d-4979-bb80-ad3d04eb2f48",
         "title": "Undergraduate Research Assistant",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -406524,7 +406524,7 @@
         "company_name": "Thomson Reuters",
         "id": "830cb4ae-23a6-42a2-81d9-3c2124d958ed",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -414624,7 +414624,7 @@
         "company_name": "Shake Shack",
         "id": "2e27e17c-6816-481b-86d0-6a70c67df36a",
         "title": "Intern Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -414713,7 +414713,7 @@
         "company_name": "Pennsylvania State University",
         "id": "47999105-f836-49ed-9ce5-0cb2205b08d8",
         "title": "Part-Time Research Assistant - Meteorology & Atmospheric Science",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -422570,7 +422570,7 @@
         "company_name": "Pennsylvania State University",
         "id": "f183876e-be48-443e-9adf-15012b5acef1",
         "title": "Research and Development Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -423330,7 +423330,7 @@
         "company_name": "SiFive",
         "id": "de32672b-e299-4728-857a-e9714510e0de",
         "title": "CPU Design Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -437295,7 +437295,7 @@
         "company_name": "KLA",
         "id": "fa0a37e6-9b57-4e97-969a-645c75207b01",
         "title": "System Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -441328,7 +441328,7 @@
         "company_name": "GE Vernova",
         "id": "b999705a-0da3-486f-bf67-52950468bbe9",
         "title": "GE Vernova Grid Automation Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -447671,7 +447671,7 @@
         "company_name": "Booz Allen",
         "id": "9e5bd018-9e21-4945-b793-54423feefcd2",
         "title": "AI Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2028"
         ],
@@ -449642,7 +449642,7 @@
         "company_name": "TD Bank",
         "id": "9bc3c495-1a18-43bb-9d53-4a0287fc1efa",
         "title": "Data Analytics & Insights Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -453931,7 +453931,7 @@
         "company_name": "BlackSky",
         "id": "990eaf01-a65f-406d-9ca6-0eb7e16aec79",
         "title": "Geospatial Analysis Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -456674,7 +456674,7 @@
         "company_name": "SS&C",
         "id": "e9a8e5b7-de09-4cc0-b403-ec4941673d07",
         "title": "Quantitative Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -459862,6 +459862,115 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Caterpillar Inc.",
+        "id": "190db6df-4089-4e76-862c-7ad6ec9f69d1",
+        "title": "Global Engine Development Engineering Apprenticeship Level 3 Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1776528308,
+        "date_posted": 1776523552,
+        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Stafford-United-Kingdom/Global-Engine-Development-Engineering-Apprenticeship-Level-3_R0000363459",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "First Quality",
+        "id": "7ea40557-ad86-4448-a1e4-e0d607b9a78e",
+        "title": "Product Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776521882,
+        "date_posted": 1776521733,
+        "url": "https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-PA-McElhattan/Product-Development-Intern_R10169",
+        "locations": [
+            "Pennsylvania"
+        ],
+        "company_url": "https://simplify.jobs/c/88a12762-7571-4b02-ab44-d4b76f06a26a",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "a91a327a-440b-4f53-b087-4536d201af26",
+        "title": "Part-Time Research Positions-Nuclear Engineering Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776525300,
+        "date_posted": 1776523384,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Positions--Nuclear-Engineering_REQ_0000064875-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ENOVIS",
+        "id": "b83032ad-683d-4476-b644-dbf6ef1f71dd",
+        "title": "Product Development Co-Op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776521521,
+        "date_posted": 1776521414,
+        "url": "https://enovis.wd5.myworkdayjobs.com/en-US/enovis/job/USA-Georgia-Atlanta/Product-Development-Co-Op_R0031502",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/572291ba-c453-4709-8614-8b784da19fdd",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Draper",
+        "id": "b12a4678-179a-4a27-8f26-27c0449849e3",
+        "title": "Software Modeling \u2013 & Validation Co-op - Analysis",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776521341,
+        "date_posted": 1776521330,
+        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Software-Modeling--Analysis----Validation-Co-op_JR002218",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Draper",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
