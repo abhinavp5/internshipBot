@@ -212100,7 +212100,7 @@
         "company_name": "Adobe",
         "id": "0b791aea-83e2-45e1-8816-12ef84c88842",
         "title": "Intern - AEM Customer Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -306103,7 +306103,7 @@
         "company_name": "Bio-Techne",
         "id": "dbaad178-19b0-427f-b027-f037bfeb6427",
         "title": "Target Analysis/Antibody Business Unit Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -344589,7 +344589,7 @@
         "company_name": "Primetals Technologies",
         "id": "c0250734-0629-4315-b64d-278efe1b1e86",
         "title": "Software Development & Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368484,7 +368484,7 @@
         "company_name": "Tatari",
         "id": "e8889127-074f-47a2-98fd-6aeb3b8207b1",
         "title": "Data Science BI \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368532,7 +368532,7 @@
         "company_name": "Tatari",
         "id": "4afc0f33-4767-4d87-a235-e4b68e860d33",
         "title": "Data Science Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -378440,7 +378440,7 @@
         "company_name": "Primetals Technologies",
         "id": "c1d14607-dc2d-43d5-b0cc-ec19246f49f4",
         "title": "Technical Writing Intern - Engineering and Mobile Repair",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -384831,7 +384831,7 @@
         "company_name": "MKS Instruments",
         "id": "020a68d5-1915-4aa2-bb90-70f7bec49728",
         "title": "Engineering/Development Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -398546,7 +398546,7 @@
         "company_name": "Amentum",
         "id": "9160c875-19f5-4fb0-a6aa-062d76b9cb73",
         "title": "Engineering Data Tools Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -404554,7 +404554,7 @@
         "company_name": "Meta",
         "id": "f8d37956-48c3-49bf-bc07-ece917d6ae7c",
         "title": "Research Scientist Intern - PyTorch Compiler",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -416975,7 +416975,7 @@
         "company_name": "Transcarent",
         "id": "7b26d62b-d4b4-40b8-96dc-89efac5961e6",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -442770,7 +442770,7 @@
         "company_name": "Lumentum",
         "id": "d45edc3f-b35a-44a8-b00e-41b24ea0c957",
         "title": "Optical Verification Technician Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -453686,7 +453686,7 @@
         "company_name": "Vertiv",
         "id": "cdbf5adb-4014-45f8-b08a-2c5bc8c14900",
         "title": "Computer Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -458826,7 +458826,7 @@
         "company_name": "Intel",
         "id": "61442256-7ed1-45ea-9092-6bb314cfb597",
         "title": "Agentic AI Software Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -459629,6 +459629,207 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Five9",
+        "id": "102ef8d1-0595-4884-b877-089b1bab5d0e",
+        "title": "Software Developer AI Insights Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776464641,
+        "date_posted": 1776464541,
+        "url": "https://www.five9.com/about/careers/job-detail?gh_jid=5973615004",
+        "locations": [
+            "San Ramon, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Five9",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leonardo",
+        "id": "95a7f8ea-f634-4c74-8aa5-295d9a7e6058",
+        "title": "Manufacturing Technical Apprentice Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776463900,
+        "date_posted": 1776463619,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Manufacturing-Technical-Apprentice_R0022492-1",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leonardo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "dc7fbb19-7aa9-4961-aa14-8b7c84dcb959",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776464642,
+        "date_posted": 1776463862,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering-Intern_R-00181087",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "c507ac9c-6dda-469d-bf3e-70c27c7ce99c",
+        "title": "Quantitative Trader Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1776463951,
+        "date_posted": 1776463561,
+        "url": "https://careers-sig.icims.com/jobs/10717/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ardmore, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "df01ceeb-8afc-4e66-a4e3-e9c83b794ae0",
+        "title": "Junior Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1776464556,
+        "date_posted": 1776463863,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Jr-Software-Engineer-Intern_R-00181194",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zoox",
+        "id": "ac36eb28-5686-4b68-9306-f223f4ec97a8",
+        "title": "PhD Research Intern - Physical AI in Perception",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776463741,
+        "date_posted": 1776463684,
+        "url": "https://jobs.lever.co/zoox/aab5dc76-6ee6-419c-90ce-4a852d9fdeec/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hermeus",
+        "id": "9919b96c-27c4-49a4-a9da-7617dc78cefe",
+        "title": "Modeling & Simulation Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1776464328,
+        "date_posted": 1776463723,
+        "url": "https://jobs.lever.co/hermeus/49f7cf3f-bf66-44ca-bf97-ee0f7180a68d/apply",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hermeus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CDW Corporation",
+        "id": "6357866d-3ab5-4b3d-b66a-b5bd1b8dca67",
+        "title": "AI Enablement Intern",
+        "active": false,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776463741,
+        "date_posted": 1776463590,
+        "url": "https://cdw.wd5.myworkdayjobs.com/careers/job/Toronto---West-Mall---ON/AI-Enablement-Intern_R26_00001522",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CDW-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "2ca93576-cce2-4c0b-91a9-bf5631545b17",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776464618,
+        "date_posted": 1776463863,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering-Intern_R-00181070",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
