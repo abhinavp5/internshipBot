@@ -1,152 +1,5 @@
 [
     {
-        "date_updated": 1755784995,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://churchdwight.wd1.myworkdayjobs.com/en-US/chdcareers/job/USA-Ewing-NJ/XMLNAME-2026-Master-s-Data-Science-Co-op_R2025-14136",
-        "company_name": "Church & Dwight",
-        "title": "Master's Data Science Co-op",
-        "locations": [
-            "Ewing, NJ"
-        ],
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "abe2309c-b33c-417a-afec-387d562c88f2",
-        "date_posted": 1755784995,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1760393253,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Multifamily-Software-Development-Intern_JR15981",
-        "company_name": "Freddie Mac",
-        "title": "Multifamily Software Development Intern",
-        "locations": [
-            "McLean, VA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "f05314a8-0cb3-4cac-9b38-ef78ce4ce564",
-        "date_posted": 1755785170,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1755871638,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Data-Engineer-Intern_R99561",
-        "company_name": "RELX",
-        "title": "Data Engineer Intern",
-        "locations": [
-            "Alpharetta, GA"
-        ],
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Fall 2025",
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "b1648b1d-3f06-480c-9f81-424c47c3a7b1",
-        "date_posted": 1755785352,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1757543665,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://globusmedical.wd5.myworkdayjobs.com/en-US/gmed_careers/job/Methuen-MA/Co-Op_JR104162",
-        "company_name": "Globus Medical",
-        "title": "Software Engineer Co-Op",
-        "locations": [
-            "Methuen, MA"
-        ],
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Fall 2025",
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "51357e2a-7728-48f8-8d8a-1c9053e63ee4",
-        "date_posted": 1755785537,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1757037718,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://apply.workable.com/al-warren-oil-company-inc/j/BF3D5FB442/",
-        "company_name": "Al Warren Oil Company",
-        "title": "Software Developer",
-        "locations": [
-            "Bensenville, IL"
-        ],
-        "terms": [
-            "Fall 2025"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "dd6b89c3-497d-4326-85cd-4174f9bccd46",
-        "date_posted": 1755785629,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1758671208,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://www.ixl.com/company/careers?gh_jid=8128629002",
-        "company_name": "IXL Learning",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "charliec05",
-        "id": "d72bb524-0cc1-426e-9be8-40ead983aed5",
-        "date_posted": 1755785687,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Geico",
@@ -6403,7 +6256,7 @@
         "company_name": "Integra FEC",
         "id": "f33fda29-ae17-406e-a534-61199ec17a81",
         "title": "Summer \u2013 Data Scientist Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -51914,7 +51767,7 @@
         "company_name": "KLA",
         "id": "621d8a9b-9609-45e9-b8be-2a06366dcd4d",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -197416,7 +197269,7 @@
         "company_name": "KLA",
         "id": "ab4c8b22-eb4c-4db4-b864-e00c70e031be",
         "title": "Advanced Algorithm Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -227109,7 +226962,7 @@
         "company_name": "General Motors",
         "id": "88e8805e-8f1f-412a-9a73-bd823e8e7035",
         "title": "Intern AI/ML Software Engineering Intern - Simulation Core - Master's",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -286144,7 +285997,7 @@
         "company_name": "Copeland",
         "id": "eee694f2-b9a9-4348-b317-953f373fff7b",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -290512,7 +290365,7 @@
         "company_name": "Bio-Techne",
         "id": "a10019f8-0091-4ddf-bcc3-50f6e8162de6",
         "title": "Product Manager Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -304473,7 +304326,7 @@
         "company_name": "First Canadian Title",
         "id": "2497f5fa-ec27-4a8b-9304-0f027e85f262",
         "title": "Summer Student - IT RPA",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -314111,7 +313964,7 @@
         "company_name": "Bio-Techne",
         "id": "ed7e3cbd-95c3-4285-b9fe-f5ee2a3c9878",
         "title": "Hardware Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -319000,7 +318853,7 @@
         "company_name": "Draper",
         "id": "e9b86fb9-0372-4f03-8939-148253dcaa57",
         "title": "Software Modeling and Validation Intern - Analysis",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -320350,7 +320203,7 @@
         "company_name": "University of Texas - Austin",
         "id": "6e5cee30-3f8a-404e-961c-556ec227c185",
         "title": "Resa 1 - Texus",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -339189,7 +339042,7 @@
         "company_name": "ABB",
         "id": "58bcc774-c99f-4d7a-91d0-b316f3ee7d87",
         "title": "Agentic AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -341483,7 +341336,7 @@
         "company_name": "Texas A&M International University",
         "id": "104bd659-f2e0-4f27-a8ac-b831d30a49e6",
         "title": "Undergraduate Research Assistant",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -384453,7 +384306,7 @@
         "company_name": "Zoetis",
         "id": "6aeac4ff-9a0b-4910-83bb-d504dceb1a9e",
         "title": "Global Commercial ZTD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -390620,7 +390473,7 @@
         "company_name": "University of Virginia",
         "id": "a62dfb13-45ba-49b3-8af7-cabc661b195b",
         "title": "Darden Technical Research Assistant",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -393897,7 +393750,7 @@
         "company_name": "Netflix",
         "id": "5a49546c-a59a-411c-8310-ac0a51676d7e",
         "title": "Video Algorithms Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -397776,7 +397629,7 @@
         "company_name": "Draper",
         "id": "ec963f16-c7f2-4759-acbc-6b09accb9141",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -398997,7 +398850,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "6b9f952f-6c7f-4f42-9550-02f262022c0a",
         "title": "Cryptography Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -404878,7 +404731,7 @@
         "company_name": "University of Arkansas",
         "id": "b9bcf351-5da5-411a-9194-d85ff25786a8",
         "title": "Graduate Assistant - Information Science",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -405708,7 +405561,7 @@
         "company_name": "University of Texas at Austin",
         "id": "06ba6a6e-e713-450a-b464-1f3ebcc67afc",
         "title": "Undergraduate Research Assistant",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -412325,7 +412178,7 @@
         "company_name": "Impiricus",
         "id": "b4ea56db-dcfd-4479-8dde-abdf95b8431d",
         "title": "Intern Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -413316,7 +413169,7 @@
         "company_name": "University of Virginia",
         "id": "eb8f3c86-1e89-4140-8b0f-06ec150fff3c",
         "title": "Statlab Graduate Associate - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -414836,7 +414689,7 @@
         "company_name": "Genmab",
         "id": "a78e6eff-bb2f-4fbb-8a59-69444525ad41",
         "title": "Global Data Governance Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -415462,7 +415315,7 @@
         "company_name": "Shake Shack",
         "id": "ad0cbbe3-4acc-46d5-a5a6-e23f559178ad",
         "title": "Intern \u2013 AI Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -424131,7 +423984,7 @@
         "company_name": "Pennsylvania State University",
         "id": "5e4dccbf-7520-40d3-b547-7a2f044e4417",
         "title": "Part-Time Research Assistant - Farooque/Saha - AI in Education Project",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -438722,7 +438575,7 @@
         "company_name": "University of Virginia",
         "id": "3e05ba21-dfb7-4545-9f4c-cb1ec8241137",
         "title": "Data Engineering Student Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -446287,7 +446140,7 @@
         "company_name": "Toshiba Global Commerce",
         "id": "2eecbbe5-be6c-48e5-874c-42850c183a88",
         "title": "Agentic Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450178,7 +450031,7 @@
         "company_name": "University of Virginia",
         "id": "a4ec3387-2133-4020-8ec4-33c398fb8027",
         "title": "Prairielearn Assessment Support Assistant",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -453427,7 +453280,7 @@
         "company_name": "Geisinger",
         "id": "5f83221e-ed75-4209-af3b-c5e04e5470ef",
         "title": "Undergraduate Intern - Data Governance",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -454101,7 +453954,7 @@
         "company_name": "BlackSky",
         "id": "990eaf01-a65f-406d-9ca6-0eb7e16aec79",
         "title": "Geospatial Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -459616,5 +459469,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Pennsylvania State University",
+        "id": "8a815184-1c31-4ca2-a883-b2f68e147d57",
+        "title": "R&D Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776505681,
+        "date_posted": 1776505519,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000075861-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
