@@ -1,265 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Arch Capital Group",
-        "id": "da41461a-2c80-43e5-9431-c0acee446b50",
-        "title": "Digital Product Management Summer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755819243,
-        "date_posted": 1755819243,
-        "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Digital-Product-Management-Summer-Intern_R25_720",
-        "locations": [
-            "Greensboro, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Arch-Capital-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Fifth Third Bank",
-        "id": "6e2a29e0-a2ac-4a84-a111-26b7e8f2b19c",
-        "title": "Information Security Co-op - Privileged Access Management - Pam",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1755819970,
-        "date_posted": 1755819970,
-        "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Information-Security-Co-op---Privileged-Access-Management--PAM----Spring-2026_R61054",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Fujitsu",
-        "id": "8c1d8602-03c2-4a60-8012-ef6d67dbc156",
-        "title": "Ph.D. Research Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755819837,
-        "date_posted": 1755819837,
-        "url": "https://edzt.fa.em4.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/31280",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Fujitsu",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Intel",
-        "id": "f3d2fe98-1b10-4109-9c17-b2dbfdee8da6",
-        "title": "Semiconductor Research \u2013 Intern Graduate",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1755819541,
-        "date_posted": 1755819541,
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Semiconductor-Research--Intern-Graduate_JR0276771",
-        "locations": [
-            "Santa Clara, CA",
-            "Hillsboro, OR",
-            "Folsom, CA",
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Intel",
-        "id": "e115ba51-ec52-46ac-a80c-92fde7d02bdf",
-        "title": "Platform Hardware and Systems Engineering \u2013 Intern \u2013 Graduate",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1755819539,
-        "date_posted": 1755819539,
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Graduate_JR0276770",
-        "locations": [
-            "Austin, TX",
-            "Santa Clara, CA",
-            "Hillsboro, OR",
-            "Folsom, CA",
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Intel",
-        "id": "699d13e3-ba18-4652-8c28-bcc7d371017c",
-        "title": "Silicon Hardware Engineering \u2013 Intern - Bachelors",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1755819532,
-        "date_posted": 1755819532,
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering----Intern--Bachelors_JR0276780",
-        "locations": [
-            "Austin, TX",
-            "Santa Clara, CA",
-            "Hillsboro, OR",
-            "Folsom, CA",
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Intel",
-        "id": "642777a8-5021-4457-a829-fb7ef1bbccf6",
-        "title": "Silicon Hardware Engineering \u2013 Intern \u2013 Graduate",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1755819530,
-        "date_posted": 1755819530,
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Graduate_JR0276774",
-        "locations": [
-            "Austin, TX",
-            "Santa Clara, CA",
-            "Hillsboro, OR",
-            "Folsom, CA",
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Intel",
-        "id": "63779be8-e25c-47d9-b21b-bc3fd2df6052",
-        "title": "Software Engineering \u2013 Intern \u2013 Graduate",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1755819537,
-        "date_posted": 1755819537,
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0276778",
-        "locations": [
-            "Austin, TX",
-            "Santa Clara, CA",
-            "Hillsboro, OR",
-            "Folsom, CA",
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "1058e0c6-4a58-4aea-ab93-fd412d02fc35",
-        "title": "Operations Test Engineering \u2013 Hardware Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755819438,
-        "date_posted": 1755819438,
-        "url": "https://jobs.l3harris.com/job/Waterdown-Operations-Test-Engineering,-Hardware-Co-op-ON-L9H-0C5/1319051300/?ats=successfactors",
-        "locations": [
-            "Hamilton, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Engineers Gate",
-        "id": "391ee085-fee5-47f9-bcaf-35115915e0dc",
-        "title": "Quantitative Researcher Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756119081,
-        "date_posted": 1755820615,
-        "url": "https://job-boards.greenhouse.io/engineersgate/jobs/7182973",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/EngineersGate",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Nokia",
         "id": "88756280-8e83-4c1e-845b-c4b44b84e9c1",
@@ -73520,7 +73261,7 @@
         "company_name": "CAE",
         "id": "efa65a8c-d804-442f-9165-003d9fe830c6",
         "title": "Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -80112,7 +79853,7 @@
         "company_name": "Zillow",
         "id": "2fa61ab1-b82d-414b-b8b4-4ac18feb9a17",
         "title": "AI Applied Scientist Intern - Foundational AQ & EQ",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -122249,7 +121990,7 @@
         "company_name": "Baker Hughes",
         "id": "24eee1ae-3e91-4b83-bb3d-1b4dd1f44e1d",
         "title": "Product Management Intern/Co-op - Product Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -166901,7 +166642,7 @@
         "company_name": "Legrand",
         "id": "990ef33c-969a-45f9-b9f3-674f96b7935d",
         "title": "Intern \u2013 Engineering Firmware",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -224010,7 +223751,7 @@
         "company_name": "Cadence Design Systems",
         "id": "40dbbf5f-d4ad-493a-9644-4f4b0662556c",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -226378,7 +226119,7 @@
         "company_name": "General Motors",
         "id": "4983bc36-345d-49ee-ad79-7c92c9e7a0c8",
         "title": "Intern - Autonomous Driving - Simulation Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -233708,7 +233449,7 @@
         "company_name": "Crane Co.",
         "id": "03f529ba-ec2e-4f9c-91f6-058feebe17d8",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -235796,7 +235537,7 @@
         "company_name": "GlobalFoundries",
         "id": "ba450db5-3196-4470-b902-15d948e50c75",
         "title": "Photonic Test and Measurement Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -240357,7 +240098,7 @@
         "company_name": "Tencent",
         "id": "67b29de5-f1d6-4d5c-aafe-081ab1a45d9a",
         "title": "Research Internship-Multimodal LLM - Speech/Music/Audio/Vision/Language",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -293051,7 +292792,7 @@
         "company_name": "HNTB",
         "id": "0bd4aad3-f4c9-4245-b83a-ace20aaec1c4",
         "title": "Data & AI Intern - No/Low-Code + GenAI",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -299869,7 +299610,7 @@
         "company_name": "Equifax",
         "id": "48dd6a63-40af-40ff-9a7d-14897fd0a342",
         "title": "Data & Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -321528,7 +321269,7 @@
         "company_name": "Autodesk",
         "id": "394bda73-c496-43a9-835d-63def409a009",
         "title": "Intern Software Engineer - C++/.Net - Months",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -338548,7 +338289,7 @@
         "company_name": "ABB",
         "id": "58bcc774-c99f-4d7a-91d0-b316f3ee7d87",
         "title": "Agentic AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -344306,7 +344047,7 @@
         "company_name": "Harris Computer",
         "id": "c866a75b-eb60-4020-b474-9a072fdcfcbc",
         "title": "Business Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -354378,7 +354119,7 @@
         "company_name": "Parsons",
         "id": "e75a6d09-55f7-4f23-8771-3df033f6225e",
         "title": "Engineering Co-Op Fall 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -360838,7 +360579,7 @@
         "company_name": "Brookfield",
         "id": "413d4356-f795-4ec6-a74e-db82af5f19cb",
         "title": "Artificial Intelligence Intern - Renewable Power & Transition",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -365761,7 +365502,7 @@
         "company_name": "Cadence Design Systems",
         "id": "e07d0795-7d3c-421f-ba11-b3d57566c19b",
         "title": "AI & Chip Design Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -377679,7 +377420,7 @@
         "company_name": "AspenTech",
         "id": "d343f865-d8f1-4e71-ba47-f015c7d61b47",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -389022,7 +388763,7 @@
         "company_name": "Centific",
         "id": "d31418b4-7b87-4734-acd9-678ffa7c410f",
         "title": "Speech Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -398587,7 +398328,7 @@
         "company_name": "Johnson & Johnson",
         "id": "a9ca20e0-4183-4519-bd96-fb7254f998b2",
         "title": "J&J Surgery: Design & Development Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -415393,7 +415134,7 @@
         "company_name": "CACI",
         "id": "d2bf58e9-7388-48cf-9a5a-a7851ddbeba6",
         "title": "AI/ML Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -418653,7 +418394,7 @@
         "company_name": "Hitachi",
         "id": "de70e436-4eec-4f37-a74e-708f0c959d2a",
         "title": "Site Deployment Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -419161,7 +418902,7 @@
         "company_name": "Booz Allen",
         "id": "2520ca7c-0f46-48f2-bc14-333c93a639d3",
         "title": "Applied AI Software Developer - Applied AI Software Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -423955,7 +423696,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "0fd887b4-89e4-4fdb-8f84-96c3b11e5ff6",
         "title": "Software Developer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -432793,7 +432534,7 @@
         "company_name": "Proofpoint",
         "id": "aab6baa6-64c7-46ba-9027-b7a637f6f3c9",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -441020,7 +440761,7 @@
         "company_name": "AssetMark",
         "id": "8e4a7803-e66c-43d8-bc35-53797c221ea0",
         "title": "Data Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -442796,7 +442537,7 @@
         "company_name": "Delta Dental",
         "id": "325fd0cb-a6c0-4bca-9cc8-4d6416f1ddac",
         "title": "Intern - Application Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -444005,7 +443746,7 @@
         "company_name": "RTX",
         "id": "0e6d0fc3-d636-4ef3-8adf-71515c5ae9d1",
         "title": "Intern \u2013 DPHM Analytics Intern - DPHM Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -446394,7 +446135,7 @@
         "company_name": "Altera Corporation",
         "id": "1d92da2d-7961-4904-8a93-e7ca7dbd49bc",
         "title": "FPGA Digital Design & Verification \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -446709,7 +446450,7 @@
         "company_name": "KION Group",
         "id": "1680943d-a300-4222-ba19-0cd414184bea",
         "title": "RSD Intern - Test Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -450299,7 +450040,7 @@
         "company_name": "TMX Group",
         "id": "9d657400-a8ec-4dd6-9812-a38da480983b",
         "title": "Fixed Income and Reference Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -451076,7 +450817,7 @@
         "company_name": "TD Bank",
         "id": "f2c2bb20-2c55-40da-9c3d-442e7d0a1a7f",
         "title": "Direct Investing Journey Intern/Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -451880,7 +451621,7 @@
         "company_name": "Magna",
         "id": "ae910e57-cf15-4cec-a809-ca5d3d76d269",
         "title": "Infrared Systems & Test Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -456958,7 +456699,7 @@
         "company_name": "AeroVironment",
         "id": "b405b4f2-dd11-4620-bbdb-62b9addf22d9",
         "title": "Spde Financial and Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -457376,7 +457117,7 @@
         "company_name": "Leidos",
         "id": "3b9705b9-3ad7-4c77-97aa-e51cc37e4a70",
         "title": "Speech Processing / ASR for Low-Resource Languages Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -459689,6 +459430,124 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Pennsylvania State University",
+        "id": "9b3a298c-8894-407e-bb7b-b72434713c39",
+        "title": "Embedded Systems and Hardware Co-Op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776528001,
+        "date_posted": 1776526989,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2",
+        "locations": [
+            "Horsham, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KION Group",
+        "id": "12d5b447-e058-49ed-969e-98ec68a6ef82",
+        "title": "Mobile Robots Intern - Mechatronics Vehicle Feature",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776523501,
+        "date_posted": 1776523403,
+        "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Holland-MI-United-States/Mobile-Robots-Intern---Mechatronics-Vehicle-Feature-s--R-D_JR-0088334",
+        "locations": [
+            "Grand Rapids, MI",
+            "Holland, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/KION-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Vernova",
+        "id": "88881e7e-16c3-4233-9c0c-efa7f1e0a44d",
+        "title": "GE Vernova Advanced Research \u2013 Edison Program Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1776523744,
+        "date_posted": 1776522436,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-Advanced-Research---2026-Edison-Program-Internship_R5015953-1",
+        "locations": [
+            "Schenectady, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KION Group",
+        "id": "ba5dff7f-2c0e-4d68-ae54-80d4144e80df",
+        "title": "Mobile Robots Intern - Mechatronics Vehicle Feature",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776523681,
+        "date_posted": 1776523620,
+        "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Holland-MI-United-States/Mobile-Robots-Intern---Mechatronics-Vehicle-Feature-s--R-D_JR-0088334-1",
+        "locations": [
+            "Grand Rapids, MI",
+            "Holland, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/KION-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Vernova",
+        "id": "ae99907e-8dbd-42ae-906b-2e3ebc84e8ff",
+        "title": "Sensor Technology Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1776522421,
+        "date_posted": 1776522256,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Lisburn/Sensor-Technology-Intern_R5036197-2",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
