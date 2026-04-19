@@ -1,28 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Merchants Bank of Indiana",
-        "id": "da25d9a4-381f-4ff1-bc0c-4240b1bbc1fe",
-        "title": "Information Security Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755850692,
-        "date_posted": 1755850692,
-        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3518937",
-        "locations": [
-            "Carmel, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Merchants-Bank-Of-Indiana",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1759960000,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -459111,6 +459088,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ByteDance",
+        "id": "6b5654e3-e07c-4ab9-9b75-9728f4c9de20",
+        "title": "ASIC Design&Verification Engineer Intern - Video Silicon IP - 2026 Summer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1762910684,
+        "date_posted": 1761915209,
+        "url": "https://jobs.bytedance.com/en/position/7538943256295606546/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
