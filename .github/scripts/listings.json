@@ -1,126 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Al Warren Oil Company",
-        "id": "e5c029b1-3610-4d64-8b5b-34f6fc8599c5",
-        "title": "Software Developer",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755842840,
-        "date_posted": 1755842840,
-        "url": "https://apply.workable.com/al-warren-oil-company-inc/j/BF3D5FB442/apply",
-        "locations": [
-            "Elk Grove Village, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Al-Warren-Oil-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Genies",
-        "id": "7d7954cd-0eb2-4f48-a212-a25ca021b0b9",
-        "title": "ML Engineering Intern - 2025 Fall Texture Gen",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755842840,
-        "date_posted": 1755842840,
-        "url": "https://job-boards.greenhouse.io/genies/jobs/6689983003",
-        "locations": [
-            "LA",
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Genies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "TikTok",
-        "id": "3ca60e51-b410-4df2-bcd5-d3cf9d98db53",
-        "title": "Product Solutions and Operations Project Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1755843808,
-        "date_posted": 1755843808,
-        "url": "https://lifeattiktok.com/search/7541096326982027538",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Genies",
-        "id": "187d96bf-2737-4f91-a622-b9bf425e2d0a",
-        "title": "ML Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1755845055,
-        "date_posted": 1755845055,
-        "url": "https://job-boards.greenhouse.io/genies/jobs/6689982003",
-        "locations": [
-            "LA",
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Genies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Skyworks",
-        "id": "c942139a-ce0e-4c8b-ab3b-c4d41458d3d9",
-        "title": "AI Engineering Summer/Fall Co-Op",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1755844536,
-        "date_posted": 1755844536,
-        "url": "https://careers.skyworksinc.com/job/Woburn-AI-Engineering-SummerFall-Co-Op-(June-'26-Dec-'26)-MA-01801/1319302300/?ats=successfactors",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Skyworks",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Merchants Bank of Indiana",
         "id": "bbf63b20-d066-4111-b240-60f7ff79e55f",
@@ -449379,7 +449259,7 @@
         "company_name": "McGill University",
         "id": "86c4e71e-8ef0-40c6-95ab-7ff3d0b61bca",
         "title": "Communications Assistant B",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
