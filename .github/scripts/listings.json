@@ -282793,7 +282793,7 @@
         "company_name": "Booz Allen",
         "id": "ede6409b-3f5d-44e0-84fe-98931b6a4e71",
         "title": "University \u2013 2026 Summer Games Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -390926,9 +390926,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773322021,
+        "date_updated": 1776663682,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -390978,9 +390978,9 @@
         ]
     },
     {
-        "date_updated": 1773322330,
+        "date_updated": 1776663682,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -405774,9 +405774,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773907917,
+        "date_updated": 1776663682,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -405797,9 +405797,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773907981,
+        "date_updated": 1776663682,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -405843,9 +405843,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773908344,
+        "date_updated": 1776663682,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -424328,7 +424328,7 @@
         "company_name": "Accenture",
         "id": "1a5e2252-f2cb-450b-8782-563753e360d1",
         "title": "Youth Apprenticeship 2 - Technology NAELFY26",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -427637,7 +427637,7 @@
         "company_name": "CME Group",
         "id": "d8421101-5075-44e6-859c-9b2f6112b3d7",
         "title": "Data Services Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -449203,9 +449203,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776157415,
+        "date_updated": 1776663682,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
