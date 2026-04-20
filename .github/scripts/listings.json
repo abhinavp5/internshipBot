@@ -1,81 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "352060c4-ea0f-46d1-b57f-c3874eb6edd5",
-        "title": "Embedded Systems Software Intern - Linux and Jetson",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1755959561,
-        "date_posted": 1755959561,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Embedded-Systems-Software-Intern--Linux-and-Jetson---Winter-2026_JR2001802-1",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Polaris",
-        "id": "87baaaf6-144f-4b54-98c0-33150ffc1ff7",
-        "title": "Digital & Information Technology \u2013 Infrastructure & Information Security Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755958630,
-        "date_posted": 1755958630,
-        "url": "https://polaris.wd5.myworkdayjobs.com/polarisjobs/job/Plymouth-MN-USA/Digital---Information-Technology---Infrastructure---Information-Security-Internship---Summer-2026_R27030",
-        "locations": [
-            "Wayzata, MN",
-            "South Yankton, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/8c8aedb9-7273-4dee-9f66-0b575d5c1da1",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Polaris",
-        "id": "4b60573c-6fdb-4dc0-8f91-7b4ba3aeb91a",
-        "title": "Digital & Information Technology \u2013 Digital Product Development Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755958631,
-        "date_posted": 1755958631,
-        "url": "https://polaris.wd5.myworkdayjobs.com/polarisjobs/job/Plymouth-MN-USA/Digital---Information-Technology---Digital-Product-Development-Internship---Summer-2026_R27027",
-        "locations": [
-            "Wayzata, MN",
-            "South Yankton, NE",
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/8c8aedb9-7273-4dee-9f66-0b575d5c1da1",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1756728545,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": false,
@@ -164495,48 +164419,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "be7e45d4-906a-4a67-b08e-70ec722c1380",
-        "title": "Clinical Research Artificial Intelligence Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1755956418,
-        "date_posted": 1755956418,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/College-of-Medicine/Clinical-Research-Artificial-Intelligence-Intern_REQ_0000066115-1",
-        "locations": [
-            "Hershey, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "b10bea87-baae-4286-b70b-a3e88c2a822c",
-        "title": "Science and Technology Applied to Navigation Co-Op",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1755956393,
-        "date_posted": 1755956393,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Science-and-Technology-Applied-to-Navigation-Co-Op_REQ_0000067517-1",
-        "locations": [
-            "Horsham, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Haize Labs",
         "id": "e3f85c2f-da45-44e0-93a4-60b9e3a4f32f",
         "title": "Research Intern",
@@ -179839,27 +179721,6 @@
             "Gloucester, UK"
         ],
         "company_url": "https://simplify.jobs/c/Moog",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Stryker",
-        "id": "93bed506-361d-43bd-9784-6f5f626c027a",
-        "title": "Kettering Engineering Co-op - R&D - New Product Development",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761858810,
-        "date_posted": 1755957056,
-        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Kettering-Engineering-Co-op--R-D---New-Product-Development_R537370",
-        "locations": [
-            "Portage, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Stryker",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -203653,7 +203514,7 @@
         "company_name": "Commerce Bank",
         "id": "55ae411f-f717-4de9-a6da-edf811e4bf91",
         "title": "Intern IT",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -210554,7 +210415,7 @@
         "company_name": "Shield AI",
         "id": "6cc5b067-1198-48d2-811b-353b580c6ce2",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -408077,7 +407938,7 @@
         "company_name": "Lennox International",
         "id": "587c1f42-c97a-4443-a4b1-b9f68308e21b",
         "title": "Lab Technician Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -423631,7 +423492,7 @@
         "company_name": "State Street",
         "id": "7a65aa84-c8c2-4215-8306-b65f46bfc303",
         "title": "State Street Audit Team - Integrated Audit Data Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -447296,7 +447157,7 @@
         "company_name": "Duke Energy",
         "id": "45d0eb72-6047-4e68-b4e1-f409373aa191",
         "title": "Agile Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -451062,7 +450923,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "bbe5b5aa-3fd1-464c-a4d2-d4280818c0f9",
         "title": "Tax LLM Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -451872,7 +451733,7 @@
         "company_name": "RTX",
         "id": "d1094dff-cd6a-46c0-8fb3-1660f49de28e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -452173,7 +452034,7 @@
         "company_name": "KBR",
         "id": "6a04462a-5627-408f-84dd-6a7e3b6a62b9",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453741,7 +453602,7 @@
         "company_name": "NatWest Group",
         "id": "2b0b52ff-dcab-4357-87f7-c46d1887ff96",
         "title": "GDPR Technical Specialist Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -457087,7 +456948,7 @@
         "company_name": "Globus Medical",
         "id": "77813264-5a76-471a-9e97-579dc08eb23a",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -458175,6 +458036,247 @@
         "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/VANCOUVER-British-Columbia-Canada/XMLNAME-2026-Wealth-Management--Fall-Distribution-Product-Management-Intern--12-months-_R-0000167778",
         "locations": [
             "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Fermilab",
+        "id": "ce736bd3-58e6-4bc6-8cfe-e85dc1620ec3",
+        "title": "Student Research Assistant 1 Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776694294,
+        "date_posted": 1776694002,
+        "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Student-Research-Assistant-1_R_009309",
+        "locations": [
+            "Batavia, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Fermilab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cerence",
+        "id": "b5f6fc89-8cb7-4fc8-a87e-43b8351a970f",
+        "title": "AI Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776694322,
+        "date_posted": 1776694169,
+        "url": "https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---USA/AI-Intern_R0005925",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cerence",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "efd27aff-4772-42fc-b495-ad4a216a1a5d",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1776694304,
+        "date_posted": 1776694060,
+        "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---CDO--Data-Engineer-Intern--4-Months-_R-0000168150-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "c52f95d2-da92-4297-aa5e-a0e2ebab5c13",
+        "title": "Artificial Intelligence & Machine Learning Engineer \u2013 Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776694357,
+        "date_posted": 1776694050,
+        "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Artificial-Intelligence---Machine-Learning-Engineer--Summer-2026-Co-op_R-0000168790",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Allegiant Air",
+        "id": "9b4ad2af-bee1-467c-8fcc-794ed5d9a7af",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776694728,
+        "date_posted": 1776694191,
+        "url": "https://jobs.lever.co/allegiantair/812aec26-220f-450f-990e-008015cf5596/apply",
+        "locations": [
+            "Las Vegas, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Allegiant-Air",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "HARMAN International",
+        "id": "8e3f485d-68bf-47ed-b822-5c1032aed34f",
+        "title": "Hardware Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776694707,
+        "date_posted": 1776694165,
+        "url": "https://harman.wd3.myworkdayjobs.com/HARMAN/job/Richardson---Texas-USA/summer-intern-hardware-engineering_R-52705-2026",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/HARMAN-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Practising Law Institute",
+        "id": "234ff49d-84f7-497d-8446-e3f0904c953b",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776693961,
+        "date_posted": 1776693878,
+        "url": "https://job-boards.greenhouse.io/practisinglawinstitute/jobs/4673072006",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Practising-Law-Institute",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AriensCo",
+        "id": "f6dc8c36-a839-4870-a588-34d019d844f1",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776694225,
+        "date_posted": 1776693956,
+        "url": "https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Intern--Data-Scientist---Summer-2026_R-04010",
+        "locations": [
+            "Denmark, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/AriensCo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "HARMAN International",
+        "id": "0e02552b-d7cc-40e3-a299-532dab93b7fc",
+        "title": "Hardware Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776694673,
+        "date_posted": 1776694165,
+        "url": "https://harman.wd3.myworkdayjobs.com/HARMAN/job/Richardson---Texas-USA/summer-intern-hardware-engineering_R-52706-2026",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/HARMAN-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Johnson & Johnson",
+        "id": "a11e9d98-de5c-4d83-b2be-602dc9da9e59",
+        "title": "Heart Recovery Product Development Engineer Co-Op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776694322,
+        "date_posted": 1776694168,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Heart-Recovery-Product-Development-Engineer-Co-Op---Fall-2026_R-060299",
+        "locations": [
+            "Peabody, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "8d5814e5-274b-4474-9d82-c8f881ef103a",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1776694869,
+        "date_posted": 1776694334,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---CDO--Data-Engineer-Intern--4-Months-_R-0000168150",
+        "locations": [
+            "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
         "is_visible": true,
