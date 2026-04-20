@@ -341590,7 +341590,7 @@
         "company_name": "Harris Computer",
         "id": "c866a75b-eb60-4020-b474-9a072fdcfcbc",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -449231,7 +449231,7 @@
         "company_name": "Pennsylvania State University",
         "id": "a5d91301-e718-478d-bebe-b7a9a00c73c8",
         "title": "Part-Time Research Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
