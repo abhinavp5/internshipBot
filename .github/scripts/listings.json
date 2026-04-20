@@ -356241,7 +356241,7 @@
         "company_name": "G2",
         "id": "ec5047ac-84a9-46c5-a2fa-d08093093f84",
         "title": "People Analytics & Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443325,7 +443325,7 @@
         "company_name": "Zscaler",
         "id": "27d29180-b766-487e-aa3e-e052dfd1c6c5",
         "title": "AI/MI Intern - Agenic Cloud",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
