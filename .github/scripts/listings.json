@@ -164419,48 +164419,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Haize Labs",
-        "id": "e3f85c2f-da45-44e0-93a4-60b9e3a4f32f",
-        "title": "Research Intern",
-        "active": true,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1755965776,
-        "date_posted": 1755965776,
-        "url": "https://job-boards.greenhouse.io/haizelabs/jobs/4070377008",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Haize-Labs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Haize Labs",
-        "id": "01b73789-a55c-4227-864d-4e1c9f06b059",
-        "title": "Software Engineer Intern",
-        "active": true,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1755965770,
-        "date_posted": 1755965770,
-        "url": "https://job-boards.greenhouse.io/haizelabs/jobs/4685944008",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Haize-Labs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "American Express",
         "id": "5b0dcff9-1041-43d8-877d-cb16e5528044",
         "title": "Campus Undergraduate Summer Internship Program - 2026 Strategy & Analytics - Credit & Fraud Risk - Phoenix - AZ - A756755 - CFR Executive Office - A0021 - CFR - Credit and Fraud Risk - A0021",
@@ -193599,7 +193557,7 @@
         "company_name": "Cisco",
         "id": "0fdfda06-d9eb-48c2-b935-b4da3ff0f844",
         "title": "Software Engineer Data/AI/Intelligent Systems 1 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -285412,7 +285370,7 @@
         "company_name": "GE Appliances",
         "id": "025cdbd3-053c-4ae7-a9b6-7b812684f7ce",
         "title": "Software Engineering Co-op Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -335577,7 +335535,7 @@
         "company_name": "Parspec",
         "id": "00ad2123-8026-401f-9d01-279e89a58797",
         "title": "Applied AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -444733,7 +444691,7 @@
         "company_name": "NAV CANADA",
         "id": "124ee560-33af-48cf-91c7-f7bcfb792c00",
         "title": "Junior Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -452613,7 +452571,7 @@
         "company_name": "Leidos",
         "id": "0bd4f3ff-0ae4-4d69-b349-381fad6f7640",
         "title": "Systems \u2013 Integration and Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -455157,7 +455115,7 @@
         "company_name": "Fullsteam",
         "id": "0090bc0b-2c84-4cae-be2d-3a2947665503",
         "title": "Data Science \u2013 Machine Learning & AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -458279,6 +458237,27 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Haize Labs",
+        "id": "01b73789-a55c-4227-864d-4e1c9f06b059",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775110861,
+        "date_posted": 1775109764,
+        "url": "https://job-boards.greenhouse.io/haizelabs/jobs/4685944008",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Haize-Labs",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
