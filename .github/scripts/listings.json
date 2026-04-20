@@ -1686,7 +1686,7 @@
         "company_name": "GE Appliances",
         "id": "eee6c9da-def1-454b-8f5d-8acac504abee",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -76706,7 +76706,7 @@
     {
         "date_updated": 1758523762,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -99757,7 +99757,7 @@
         "company_name": "Electronic Arts",
         "id": "bed1d764-b91a-405a-af14-93d21892258e",
         "title": "AI Engineer Intern - AI Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -99780,7 +99780,7 @@
         "company_name": "Electronic Arts",
         "id": "b6210558-c50a-4d86-b17e-5f8fe0073605",
         "title": "Software Engineer Intern - NHL",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -103014,7 +103014,7 @@
         "company_name": "Electronic Arts",
         "id": "f46a4a9b-e49a-4c09-8937-9cc870868527",
         "title": "Data Analyst Intern/Co-op - FC Live Service Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -104253,7 +104253,7 @@
         "company_name": "Electronic Arts",
         "id": "cb397171-0a0f-4e4a-9c31-622309c95b4e",
         "title": "Online Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -107440,7 +107440,7 @@
         "company_name": "Electronic Arts",
         "id": "b39063dd-94d8-4df3-9413-b65cbf70de2c",
         "title": "Gameplay Engineer Intern - Gameplay Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -107583,7 +107583,7 @@
         "company_name": "Electronic Arts",
         "id": "dc512bd3-c852-496d-b608-67e2d313fe96",
         "title": "F1 Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -142895,7 +142895,7 @@
         "company_name": "Electronic Arts",
         "id": "c3cbf146-3965-4cfb-bf5c-8916be1c1a24",
         "title": "Software Engineering Co Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -143688,7 +143688,7 @@
         "company_name": "Micron Technology",
         "id": "c26a571e-368d-4417-93cf-ea815ee4921f",
         "title": "Intern \u2013 NAND Storage Strategic Roadmap Planning & Client SSD TPM",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -144119,7 +144119,7 @@
         "company_name": "Electronic Arts",
         "id": "d36c1379-e0da-490e-96cf-11dacd8e7e22",
         "title": "Software Engineer Intern - ",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -154906,7 +154906,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "df1e827e-ce84-4b0e-9898-fcfee0d18261",
         "title": "SW Engineer Intern - ",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -158463,7 +158463,7 @@
         "company_name": "Electronic Arts",
         "id": "c49812e6-c9d4-4915-ac5b-0084cf2231a9",
         "title": "Software Engineer Intern - ",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -159596,7 +159596,7 @@
         "company_name": "Electronic Arts",
         "id": "feb86ed9-f9a1-48c4-8e39-80b1a396a36b",
         "title": "Assistant Producer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -161233,7 +161233,7 @@
         "company_name": "GE Appliances",
         "id": "b1a50830-e5ae-4f43-a69b-471c3c58ea97",
         "title": "Engineering Co-op Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -169515,7 +169515,7 @@
         "company_name": "Electronic Arts",
         "id": "f22f4aef-6545-42c8-9b88-9ede6a95ec66",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -190728,7 +190728,7 @@
         "company_name": "Electronic Arts",
         "id": "f33b92e7-4652-4d35-8e5f-6d4f96777ce4",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -211797,7 +211797,7 @@
         "company_name": "Electronic Arts",
         "id": "e4593e77-d166-4333-ba92-9a129db9d9ef",
         "title": "Security Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -245171,7 +245171,7 @@
         "company_name": "Electronic Arts",
         "id": "de7967f6-3cbd-449a-9544-ff65c5f7a600",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -245242,7 +245242,7 @@
         "company_name": "Electronic Arts",
         "id": "b9090db3-b785-4ece-a0c6-8374c96a4299",
         "title": "Cross Sports Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -250456,7 +250456,7 @@
         "company_name": "Electronic Arts",
         "id": "c080c551-9308-4257-8318-d996028e8102",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -263251,7 +263251,7 @@
         "company_name": "Electronic Arts",
         "id": "ef3a0aa3-5ed5-4ca8-aa81-b4f45046553f",
         "title": "Machine Learning Scientist PhD Student Catalyst - Catalyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -314255,7 +314255,7 @@
         "company_name": "Sony",
         "id": "c03aa061-d47a-400f-b27e-3bdb239820a7",
         "title": "R&D Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -315643,7 +315643,7 @@
         "company_name": "Draper",
         "id": "e9b86fb9-0372-4f03-8939-148253dcaa57",
         "title": "Software Modeling and Validation Intern - Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -359414,7 +359414,7 @@
         "company_name": "Franklin Templeton",
         "id": "e015d8e9-7a15-480d-b1f3-f179a9e6eb85",
         "title": "FTT Investment Technology Solutions: Western Asset Attribution",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -406674,7 +406674,7 @@
         "company_name": "Apptronik",
         "id": "fbd5951f-f918-4a9d-b8ea-62d62418aacb",
         "title": "Motion Control and Planning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -409343,7 +409343,7 @@
         "company_name": "Double Good",
         "id": "ea031967-05e4-4d29-b197-c6255c81a1de",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -414743,7 +414743,7 @@
         "company_name": "Fortera",
         "id": "f7b66d32-8fde-44f5-b61d-068afee95918",
         "title": "Project Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -417035,7 +417035,7 @@
         "company_name": "Saronic",
         "id": "da712479-7dad-4e12-af15-19c02eb12f16",
         "title": "Systems Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -417059,7 +417059,7 @@
         "company_name": "Saronic",
         "id": "d532a2d2-9f71-4055-9f68-b2e6a5f753bc",
         "title": "Full Stack Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -421498,7 +421498,7 @@
         "company_name": "Altera Corporation",
         "id": "fca7e12c-2669-4526-a1dd-26a5a4d89be4",
         "title": "GenAI / Machine Learning Intern - Design Automation - AI Agents",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -430802,7 +430802,7 @@
         "company_name": "Greenlight",
         "id": "37454225-8d6d-4a82-8ce1-77d133cdc423",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -432905,7 +432905,7 @@
         "company_name": "Tonal",
         "id": "acdae274-3482-4305-8eed-9776af89ad8e",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -436595,7 +436595,7 @@
         "company_name": "Seagate Technology ",
         "id": "f02ba951-3b0c-47c9-a012-6230ade254aa",
         "title": "Intern Advanced Controls / Embedded Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -452388,7 +452388,7 @@
         "company_name": "Comcast",
         "id": "db4fb0c2-aadc-4f20-a494-b1523d1de3ed",
         "title": "Hockey Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -457356,7 +457356,7 @@
         "company_name": "Electronic Arts",
         "id": "c8564698-7223-4471-bb35-24e6047a4826",
         "title": "Prototype Team Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
