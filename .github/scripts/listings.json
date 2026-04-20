@@ -1,171 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software Engineering",
-        "company_name": "Northrop Grumman",
-        "id": "6d42c839-2b71-4070-928a-d5d0b3de0ce7",
-        "title": "Intern Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756048149,
-        "date_posted": 1755907785,
-        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2026-Intern-Software-Engineer_R10204604",
-        "locations": [
-            "Melbourne, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "OCC",
-        "id": "89ed7e9f-1de9-471b-8a85-0af079d1a648",
-        "title": "Technical Certification and Documentation Services Summer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756201307,
-        "date_posted": 1755908348,
-        "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Dallas-TX/Technical-Certification-and-Documentation-Services-Summer-Intern_REQ-4358",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/OptionsClearingCorporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "American Express",
-        "id": "f9903a02-3ca5-4ba5-ae71-8270420e8315",
-        "title": "Campus Undergraduate Summer Internship Program - 2026 Product Innovation - Credit & Fraud Risk",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1755909711,
-        "date_posted": 1755909711,
-        "url": "https://aexp.eightfold.ai/careers/job/30873718",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "American Express",
-        "id": "6a9ca014-6b86-4fc1-b73f-1785b07a8903",
-        "title": "Campus Undergraduate Summer Internship Program - 2026 Product Innovation - Credit & Fraud Risk",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756117759,
-        "date_posted": 1755909708,
-        "url": "https://aexp.eightfold.ai/careers/job/30873716",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "date_updated": 1757119104,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers.rtx.com/global/en/job/01786610/Software-Engineering-Co-Op-Summer-Fall-2026-Onsite",
-        "company_name": "RTX",
-        "title": "Software Engineering Co-Op",
-        "locations": [
-            "Cedar Rapids, Iowa"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "83656a24-d18b-489d-b08d-0af2db974851",
-        "date_posted": 1755912006,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1756201952,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern_R0129980",
-        "company_name": "PayPal",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "San Jose, CA",
-            "Chicago, IL",
-            "Scottsdale, AZ",
-            "Omaha, NE",
-            "Austin, TX"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "bb0ef06f-f4e3-4716-aa45-439e03a5f7ad",
-        "date_posted": 1755912037,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "ChargePoint",
-        "id": "1bf75679-dcdc-4eab-9c7e-86800069d198",
-        "title": "Power Electronics Controls and Firmware Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1756201488,
-        "date_posted": 1755915462,
-        "url": "https://www.chargepoint.com/about/opportunities/job/?gh_jid=8128543002",
-        "locations": [
-            "Los Gatos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ChargePoint",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "BitGo",
         "id": "85795dd1-9105-4331-acbb-6f7f27749028",
@@ -7689,29 +7524,6 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "H.B. Fuller",
-        "id": "5db7acbf-6e62-4781-a1ea-53cc56476f36",
-        "title": "Product Management and Marketing Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1756380804,
-        "date_posted": 1755909113,
-        "url": "https://hbfuller.wd1.myworkdayjobs.com/Careers/job/St-Paul-Minnesota-USA/Digital-Marketing-Intern_R25_0000001674",
-        "locations": [
-            "St Paul, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/HB-Fuller",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -164837,27 +164649,6 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "American Express",
-        "id": "d2069d73-7ed4-4d67-a623-22d46160c07f",
-        "title": "Campus Undergraduate Summer Internship Program - 2026 Strategy & Analytics - Credit & Fraud Risk - New York - NY - A756755 - CFR Executive Office - A0021 - CFR - Credit and Fraud Risk - A0021",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1755909709,
-        "date_posted": 1755909709,
-        "url": "https://aexp.eightfold.ai/careers/job/30873715",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "American Express",
         "id": "5b0dcff9-1041-43d8-877d-cb16e5528044",
         "title": "Campus Undergraduate Summer Internship Program - 2026 Strategy & Analytics - Credit & Fraud Risk - Phoenix - AZ - A756755 - CFR Executive Office - A0021 - CFR - Credit and Fraud Risk - A0021",
         "active": false,
@@ -273198,7 +272989,7 @@
         "company_name": "Saronic",
         "id": "0f6e6356-13cc-45e5-a6f9-0e2e6f66da0e",
         "title": "Forward Deployed Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -401051,7 +400842,7 @@
         "company_name": "Bandwidth",
         "id": "10db22bd-1c08-48d0-a568-3488ea0aac03",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -405088,7 +404879,7 @@
         "company_name": "Airgas",
         "id": "3aade112-1fc5-442f-84dd-0a8c10b104a7",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
