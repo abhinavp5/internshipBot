@@ -316549,7 +316549,7 @@
         "company_name": "Tencent",
         "id": "c42f018d-7413-47dd-900e-58cb7e97b198",
         "title": "Multimedia Codec Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -390051,7 +390051,7 @@
         "company_name": "Western Digital",
         "id": "34f423a3-cf91-486d-b772-1ae4bec4cf61",
         "title": "Intern - HDD Testing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -420932,7 +420932,7 @@
         "company_name": "Tonal",
         "id": "d05c625e-d58d-432a-8916-5f8851466875",
         "title": "Product Management Intern - Retail Sales & Demo Conversion",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -436401,7 +436401,7 @@
         "company_name": "Western Digital",
         "id": "029ba50c-849c-4680-8be2-637f47053436",
         "title": "Intern - HDD Testing",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -458135,5 +458135,29 @@
         "date_posted": 1776667462,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "8e3d641a-8bc6-43f8-9fc3-16e49711a6d9",
+        "title": "Software Engineer Project Intern - Recommendation Infrastructure",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776676501,
+        "date_posted": 1776676329,
+        "url": "https://lifeattiktok.com/search/7629500062003218741",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
