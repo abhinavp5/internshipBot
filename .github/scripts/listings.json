@@ -3217,7 +3217,7 @@
         "company_name": "Integra FEC",
         "id": "cb3ccfe8-f92f-419f-9c6d-cc27581e0c17",
         "title": "Summer \u2013 Data Scientist Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -202491,7 +202491,7 @@
         "company_name": "SummitTX",
         "id": "ca26cf7a-7321-4233-b5b3-6f2382e54079",
         "title": "Research Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -223867,7 +223867,7 @@
         "company_name": "General Motors",
         "id": "000848a2-c7a7-49f1-af93-0068bd5e68d3",
         "title": "2026 Summer Intern - AI/ML Software Engineer - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -239277,7 +239277,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Nutanix",
-        "id": "4517181b-c420-4514-a0df-1059ec52b260",
+        "id": "b0100e7e-c9a3-4daa-ac98-1d7a8f5091c0",
         "title": "Software Engineering Intern - Undergrad ONLY - Distributed systems",
         "active": true,
         "terms": [
@@ -285995,7 +285995,7 @@
         "company_name": "Rheem",
         "id": "f54c35bf-53b8-4133-b075-c39d25e00a77",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -379928,7 +379928,7 @@
         "company_name": "Precisely",
         "id": "d765c8a9-1451-4823-b5fd-ba4537fa3eb2",
         "title": "AI Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -383823,7 +383823,7 @@
         "company_name": "Juniper Square",
         "id": "2287872b-dd52-4164-86fd-344fb5d68a16",
         "title": "AI Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -392801,7 +392801,7 @@
         "company_name": "Johnson Controls",
         "id": "ec4acaac-8a67-4f45-acaf-0abec809bab8",
         "title": "Engineering Intern - Innovation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -419053,7 +419053,7 @@
         "company_name": "Magna",
         "id": "7da42a95-8d34-4cb1-bec4-28f3d6e65f60",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -419709,7 +419709,7 @@
         "company_name": "DiDi Global",
         "id": "e400839e-d530-4c41-871b-5834d0418863",
         "title": "Software Engineer \u2013 Intern - Simulation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -423335,7 +423335,7 @@
         "company_name": "Shield AI",
         "id": "b12c652c-3fc2-41f0-91b6-705ef68dcf82",
         "title": "Embedded Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -437674,7 +437674,7 @@
         "company_name": "SiFive",
         "id": "20b07139-5b6f-4f2a-b807-446f62276e8e",
         "title": "Intern Firesim Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -442930,7 +442930,7 @@
         "company_name": "Toshiba Global Commerce",
         "id": "2eecbbe5-be6c-48e5-874c-42850c183a88",
         "title": "Agentic Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -453173,7 +453173,7 @@
         "company_name": "Leidos",
         "id": "dc774ae5-09fb-49c9-a4e7-3114989146c5",
         "title": "Intern Model-Based Systems Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -453421,7 +453421,7 @@
         "company_name": "Wash U",
         "id": "c478f30c-eba8-48c9-a814-9ed93ee9ac72",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -455921,7 +455921,7 @@
         "company_name": "Leidos",
         "id": "dc7fbb19-7aa9-4961-aa14-8b7c84dcb959",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -458006,7 +458006,7 @@
         "company_name": "Fermilab",
         "id": "ce736bd3-58e6-4bc6-8cfe-e85dc1620ec3",
         "title": "Student Research Assistant 1 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -460175,5 +460175,51 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "DiDi Global",
+        "id": "e8769219-2e33-415f-a4e4-eaee86c1c533",
+        "title": "Software Engineer \u2013 Intern - Simulation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776762254,
+        "date_posted": 1776762122,
+        "url": "https://job-boards.greenhouse.io/didi/jobs/7835330",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/DiDi-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Invisible Technologies AI",
+        "id": "b84e0329-1f91-422f-ae8f-44df7db7fd47",
+        "title": "AI Generalist Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776765093,
+        "date_posted": 1768876017,
+        "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4754242101",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Invisible-TechnologiesAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
