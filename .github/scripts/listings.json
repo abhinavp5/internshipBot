@@ -1,28 +1,5 @@
 [
     {
-        "date_updated": 1756728545,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Enterprise-Quality-Management-Summer-Intern_REQ-4364?source=Linkedin",
-        "company_name": "OCC",
-        "title": "Enterprise Quality Management Summer Intern",
-        "locations": [
-            "Chicago , IL"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "Ronitsabhaya75",
-        "id": "07b0f5e7-99c8-4570-a141-ed3bf673ae1b",
-        "date_posted": 1756048129,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ByteDance",
@@ -181238,7 +181215,7 @@
         "company_name": "Gelber Group",
         "id": "f3ff93e2-fe68-4980-ac58-77b8e82e49d9",
         "title": "Algorithmic Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -233126,7 +233103,7 @@
         "company_name": "GlobalFoundries",
         "id": "ba450db5-3196-4470-b902-15d948e50c75",
         "title": "Photonic Test and Measurement Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -329843,7 +329820,7 @@
         "company_name": "GE Healthcare",
         "id": "fa66d570-2fe6-4db7-9981-3709f765e872",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343780,7 +343757,7 @@
         "company_name": "TRIC Robotics",
         "id": "c950c1b4-ddf7-4a60-88fc-9a8ce90f4b73",
         "title": "Robot Technician Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -406258,7 +406235,7 @@
         "company_name": "Coherent ",
         "id": "b745c60e-3955-4d72-8acd-3d1d2c37077a",
         "title": "Intern Opto-Mechanical System Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -409481,7 +409458,7 @@
         "company_name": "Coherent ",
         "id": "db272925-3123-449c-a500-8092291198e3",
         "title": "Intern Automation and Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -420381,7 +420358,7 @@
         "company_name": "Allegheny County",
         "id": "e99a66de-3b1c-4cbe-8a1a-8f61d3ecdd68",
         "title": "Data Analytics Intern - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -420932,7 +420909,7 @@
         "company_name": "Samba TV",
         "id": "fe951282-e252-44f8-8544-ad60411541fc",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -427299,7 +427276,7 @@
         "company_name": "Covestro",
         "id": "d30085fd-1463-4b89-ad20-e92f34d8e231",
         "title": "Intern in Lab Automation for R&D Processes",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -429824,7 +429801,7 @@
         "company_name": "RTX",
         "id": "df437fd6-a79e-4a55-b3f4-3c4a4c1b61a3",
         "title": "Industrial Placement Intern - Continuous Improvement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -456815,7 +456792,7 @@
         "company_name": "Littelfuse",
         "id": "ae673fbd-9db2-40df-bf30-fbefcb53582e",
         "title": "R&D Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -458268,7 +458245,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "e9d446f2-fbc0-485f-a2dd-59767b24c4fd",
         "title": "Data Engineering and Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -459387,7 +459364,7 @@
         "company_name": "Baxter International",
         "id": "ab822b01-9c41-485d-8b64-028ae1d332b2",
         "title": "R&D Intern - Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -459576,7 +459553,7 @@
         "company_name": "Ryder System",
         "id": "b6d2e5d9-49bc-4f4d-af87-b27b9d145e28",
         "title": "Data and BI Specialist \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
