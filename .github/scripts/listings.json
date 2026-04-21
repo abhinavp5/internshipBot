@@ -3217,7 +3217,7 @@
         "company_name": "Integra FEC",
         "id": "cb3ccfe8-f92f-419f-9c6d-cc27581e0c17",
         "title": "Summer \u2013 Data Scientist Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -95758,7 +95758,7 @@
         "company_name": "Hermeus",
         "id": "7ccc6049-59be-4b77-9e0f-f940686a4996",
         "title": "Software Engineering Intern - Datalinks/C2",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -114627,7 +114627,7 @@
         "company_name": "Electronic Arts",
         "id": "2027e67f-b3e2-459c-8047-7cea7f82140e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -223867,7 +223867,7 @@
         "company_name": "General Motors",
         "id": "000848a2-c7a7-49f1-af93-0068bd5e68d3",
         "title": "2026 Summer Intern - AI/ML Software Engineer - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -307349,7 +307349,7 @@
         "company_name": "Avathon",
         "id": "2164a5af-267c-4dbf-94fd-aa9a78ffcc06",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -383823,7 +383823,7 @@
         "company_name": "Juniper Square",
         "id": "2287872b-dd52-4164-86fd-344fb5d68a16",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -426527,7 +426527,7 @@
         "company_name": "Nucor",
         "id": "69a47302-cc5b-4a80-83a2-fc093cf7b778",
         "title": "UX / UI Designer \u2013 Full Stack Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -427433,7 +427433,7 @@
         "company_name": "Trane Technologies",
         "id": "7d8a07e4-0435-4236-852b-9ff0999f509b",
         "title": "Technical Applications and HW Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -433968,7 +433968,7 @@
         "company_name": "Rogers Behavioral Health",
         "id": "67284dc7-b91d-4c8e-a900-c4146a2c65ae",
         "title": "Therapist \u2013 PHP/Iop",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -437674,7 +437674,7 @@
         "company_name": "SiFive",
         "id": "20b07139-5b6f-4f2a-b807-446f62276e8e",
         "title": "Intern Firesim Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -442930,7 +442930,7 @@
         "company_name": "Toshiba Global Commerce",
         "id": "2eecbbe5-be6c-48e5-874c-42850c183a88",
         "title": "Agentic Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -460151,5 +460151,29 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "029427e5-d571-423d-84ca-6f3bcf7502ac",
+        "title": "Product Operations Project Intern - Advertising - Creative",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776762722,
+        "date_posted": 1776762694,
+        "url": "https://lifeattiktok.com/search/7630838458010241333",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
