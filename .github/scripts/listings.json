@@ -79508,7 +79508,7 @@
         "company_name": "Leidos",
         "id": "0f43d7bb-9f44-4ec0-9cfe-721d7d264ada",
         "title": "Systems Integration and Software Engineer Intern - Transportation Solutions - Air Traffic Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -95758,7 +95758,7 @@
         "company_name": "Hermeus",
         "id": "7ccc6049-59be-4b77-9e0f-f940686a4996",
         "title": "Software Engineering Intern - Datalinks/C2",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -285995,7 +285995,7 @@
         "company_name": "Rheem",
         "id": "f54c35bf-53b8-4133-b075-c39d25e00a77",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -293483,7 +293483,7 @@
         "company_name": "Meridian Partners",
         "id": "b52cc8d9-8ec2-469b-86cd-ee83c800a480",
         "title": "Front End Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -307349,7 +307349,7 @@
         "company_name": "Avathon",
         "id": "2164a5af-267c-4dbf-94fd-aa9a78ffcc06",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -415531,7 +415531,7 @@
         "company_name": "Arcesium",
         "id": "68ce0a2b-ee0d-4df3-b719-6d8031fee1c6",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -419053,7 +419053,7 @@
         "company_name": "Magna",
         "id": "7da42a95-8d34-4cb1-bec4-28f3d6e65f60",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -427433,7 +427433,7 @@
         "company_name": "Trane Technologies",
         "id": "7d8a07e4-0435-4236-852b-9ff0999f509b",
         "title": "Technical Applications and HW Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -433968,7 +433968,7 @@
         "company_name": "Rogers Behavioral Health",
         "id": "67284dc7-b91d-4c8e-a900-c4146a2c65ae",
         "title": "Therapist \u2013 PHP/Iop",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -447348,7 +447348,7 @@
         "company_name": "EyeSouth Partners",
         "id": "35897dd9-eddc-460f-ae63-77bffb080976",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -451992,7 +451992,7 @@
         "company_name": "KBR",
         "id": "6a04462a-5627-408f-84dd-6a7e3b6a62b9",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453173,7 +453173,7 @@
         "company_name": "Leidos",
         "id": "dc774ae5-09fb-49c9-a4e7-3114989146c5",
         "title": "Intern Model-Based Systems Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -453421,7 +453421,7 @@
         "company_name": "Wash U",
         "id": "c478f30c-eba8-48c9-a814-9ed93ee9ac72",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -455921,7 +455921,7 @@
         "company_name": "Leidos",
         "id": "dc7fbb19-7aa9-4961-aa14-8b7c84dcb959",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -456929,7 +456929,7 @@
         "company_name": "GE Vernova",
         "id": "5b3c92d0-3b1c-4f09-855b-2770af16785d",
         "title": "GE Vernova Advanced Research \u2013 Edison Program Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -458006,7 +458006,7 @@
         "company_name": "Fermilab",
         "id": "ce736bd3-58e6-4bc6-8cfe-e85dc1620ec3",
         "title": "Student Research Assistant 1 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -460221,5 +460221,29 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cooper Companies",
+        "id": "b784e7aa-1650-4cda-90b1-26d9ded07840",
+        "title": "R&D \u2013 Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776764881,
+        "date_posted": 1774573683,
+        "url": "https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10592",
+        "locations": [
+            "Bridgeport, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Cooper-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
