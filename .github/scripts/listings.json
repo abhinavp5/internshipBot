@@ -170131,7 +170131,7 @@
         "company_name": "Solar Turbines",
         "id": "5766a4a6-136e-441e-97c7-1c312095ee12",
         "title": "2026 Internship - Data Steward",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Winter 2025",
@@ -220319,7 +220319,7 @@
         "company_name": "Tanium",
         "id": "806f843c-1bb0-4a68-b4a1-d737a6f987a7",
         "title": "AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -220341,7 +220341,7 @@
         "company_name": "Tanium",
         "id": "0f19e7b8-cae2-4ae7-8f50-4823c828134c",
         "title": "AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -297013,7 +297013,7 @@
         "company_name": "d-Matrix",
         "id": "6da7596e-7c10-4ff8-8ff3-bd07778f34cc",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -360601,7 +360601,7 @@
         "company_name": "ASM Global",
         "id": "031f8221-a57e-442e-85c4-e86a4302f404",
         "title": "Hospitality & Merchandise Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -386283,7 +386283,7 @@
         "company_name": "Centific",
         "id": "d31418b4-7b87-4734-acd9-678ffa7c410f",
         "title": "Speech Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -402395,7 +402395,7 @@
         "company_name": "Baxter International",
         "id": "0a0a9826-428b-4079-97a0-d2d27922b4d7",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -412127,7 +412127,7 @@
         "company_name": "Rexford Industrial",
         "id": "47cae76f-2c90-4e8f-9916-cfed805c1d51",
         "title": "Technology Intern - AI and Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -414382,7 +414382,7 @@
         "company_name": "Sono Bello",
         "id": "9aa3c76c-38b0-4a8e-87fb-3b3fa39a3a55",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -425919,7 +425919,7 @@
         "company_name": "RoboForce",
         "id": "27bdf1ec-20a6-4cea-b8a6-41ba122d38c0",
         "title": "AI Research Engineer Intern - Real-Time Inference for Embodied AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -425965,7 +425965,7 @@
         "company_name": "RoboForce",
         "id": "873b1ae0-b797-46fc-9324-fda49b045263",
         "title": "AI Research Scientist Intern - Embodied AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -433048,7 +433048,7 @@
         "company_name": "Crusoe",
         "id": "7a89ba2d-d26f-4bea-a13f-380d6933b7b5",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2027",
@@ -438281,7 +438281,7 @@
         "company_name": "AssetMark",
         "id": "8e4a7803-e66c-43d8-bc35-53797c221ea0",
         "title": "Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445916,7 +445916,7 @@
         "company_name": "RTX",
         "id": "e0e4bbf9-704d-4b91-a44f-4b0a8ca4be36",
         "title": "Industrial Intern - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -449620,7 +449620,7 @@
         "company_name": "Leidos",
         "id": "5aed4a7a-1b28-4ef1-8fd1-a2ac47322e0b",
         "title": "Data Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -453173,7 +453173,7 @@
         "company_name": "Vanguard",
         "id": "9cc347bd-af8e-4ca6-b674-3f83aa6aebbf",
         "title": "Technology \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -459387,7 +459387,7 @@
         "company_name": "Emerson Electric",
         "id": "dd3d9165-85b8-4ee1-b7da-ecd9e55e5ab2",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -461426,7 +461426,7 @@
         "company_name": "Fortinet",
         "id": "6d8c8c16-dada-4d55-b3ef-9e92b91c0489",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -461533,6 +461533,168 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DNV",
+        "id": "734c7f64-d004-4d4b-98f7-58bd6e9471b4",
+        "title": "Electric Grid Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776820288,
+        "date_posted": 1776820014,
+        "url": "https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6519",
+        "locations": [
+            "Corvallis, OR",
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/DNV",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "BillionToOne",
+        "id": "6ed532f3-1df8-45cc-8cb3-ed0f50970ad3",
+        "title": "Product Management Intern - Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776820861,
+        "date_posted": 1776820695,
+        "url": "https://job-boards.greenhouse.io/billiontoone/jobs/4687612005",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/BillionToOne",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SoFi",
+        "id": "ce1752df-4c4b-4ff6-8f2e-f8729f90be10",
+        "title": "Data Scientist Intern - Risk Data Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776820775,
+        "date_posted": 1776820665,
+        "url": "https://www.sofi.com/careers/sofi-university/7553330003?gh_jid=7553330003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/SoFi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "10bcd743-af59-4ec4-88bb-d785778d5cd9",
+        "title": "Product Management Intern - Advanced Concepts & Future Technologies",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776820141,
+        "date_posted": 1776820074,
+        "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Fountain-Valley-California-United-States-of-America/Product-Management-Intern---Advanced-Concepts---Future-Technologies_UNI3567-1",
+        "locations": [
+            "Fountain Valley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "5770a808-bc95-42fd-9d08-8f59aa1292e6",
+        "title": "Product Management Intern - Advanced Concepts & Future Technologies",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776820141,
+        "date_posted": 1776820088,
+        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Fountain-Valley-California-United-States-of-America/Product-Management-Intern---Advanced-Concepts---Future-Technologies_UNI3567",
+        "locations": [
+            "Fountain Valley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bright Machines",
+        "id": "536cd811-0457-4121-8fb2-3f3ea2897786",
+        "title": "AI Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776819961,
+        "date_posted": 1776819926,
+        "url": "https://jobs.lever.co/brightmachines/03006bd3-f47e-47bc-9502-88c66558af06/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Bright-Machines",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zoox",
+        "id": "02c4b28c-0b01-46c5-bf32-a687b3b5240a",
+        "title": "PhD Research Intern - Object Detection and Tracking",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776820141,
+        "date_posted": 1776819969,
+        "url": "https://jobs.lever.co/zoox/b6da7d77-18ae-4ba7-a4d2-af1891c87d42/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
