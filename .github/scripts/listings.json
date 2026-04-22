@@ -184635,7 +184635,7 @@
         "company_name": "Meta",
         "id": "15c6df3d-5227-40a1-b748-fd5c2928a56e",
         "title": "Research Scientist Intern - AI Research - Perception",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -326083,7 +326083,7 @@
         "company_name": "Zebra Technologies",
         "id": "073ecc23-52d0-46bf-8246-5670433357a8",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -328071,7 +328071,7 @@
         "company_name": "Anduril",
         "id": "336473d4-f8fa-40dd-a4a8-1ae8d72ebe4f",
         "title": "Skillbridge Software Engineer - Eagleeye",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -429246,7 +429246,7 @@
         "company_name": "Kobo",
         "id": "2859a7aa-e40d-49c5-8cd1-b128f1b25b50",
         "title": "Data Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439479,7 +439479,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "23c66087-2948-46af-880e-592db85b5a8f",
         "title": "Machine Learning Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -443156,7 +443156,7 @@
         "company_name": "Westgate Resorts",
         "id": "1ed1a67f-0cb9-407b-bbac-4f3c65f48446",
         "title": "IT Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -449764,7 +449764,7 @@
         "company_name": "Leidos",
         "id": "0519e9d9-4163-417f-af59-f1456ff76d32",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450690,7 +450690,7 @@
         "company_name": "Altom Transport",
         "id": "1b0a5f44-3bf5-4d2d-815d-30e269d7ec73",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -451226,7 +451226,7 @@
         "company_name": "American Express",
         "id": "006bf013-2ac3-4cf1-8f83-99ac30b9fc89",
         "title": "Campus Undergraduate Intern - Software Engineer - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
