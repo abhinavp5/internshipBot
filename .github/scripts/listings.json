@@ -1,103 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Johnson & Johnson",
-        "id": "fae3ac45-3929-4b91-b778-ac0866ea8b29",
-        "title": "Technology Fall Co-Op",
-        "active": true,
-        "terms": [
-            "Summer 2026",
-            "Winter 2026"
-        ],
-        "date_updated": 1756104407,
-        "date_posted": 1756104407,
-        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/US174-NJ-New-Brunswick---410-George-St/Technology-2026-Fall-Co-Op_R-029591",
-        "locations": [
-            "New Hope, PA",
-            "West Chester, PA",
-            "Bridgewater Township, NJ",
-            "Horsham, PA",
-            "Irvine, CA",
-            "Santa Clara, CA",
-            "Edison, NJ",
-            "Ambler, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Johnson & Johnson",
-        "id": "c8b989a3-4021-4c2b-9251-971f46e60e4f",
-        "title": "Technology Co-Op",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1756104408,
-        "date_posted": 1756104408,
-        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2026-Spring-Co-Op_R-029603",
-        "locations": [
-            "New Hope, PA",
-            "West Chester, PA",
-            "Bridgewater Township, NJ",
-            "Horsham, PA",
-            "Irvine, CA",
-            "Santa Clara, CA",
-            "Edison, NJ",
-            "Ambler, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Johnson & Johnson",
-        "id": "71e87491-1545-4f98-bfca-5c4330d53e09",
-        "title": "Technology 2026 Summer Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756104409,
-        "date_posted": 1756104409,
-        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2026-Summer-Internship_R-029613",
-        "locations": [
-            "New Hope, PA",
-            "West Chester, PA",
-            "Bridgewater Township, NJ",
-            "Horsham, PA",
-            "Irvine, CA",
-            "Santa Clara, CA",
-            "Edison, NJ",
-            "Ambler, PA",
-            "Jacksonville, FL",
-            "Palm Beach Gardens, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Other",
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "c3ea53dc-beee-4386-9065-290eecc30c86",
@@ -185,76 +88,6 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/PwC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Qorvo",
-        "id": "a9832475-137f-4a9a-9c51-391e5ac7f213",
-        "title": "Product Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756201466,
-        "date_posted": 1756104730,
-        "url": "https://careers.qorvo.com/job/Hillsboro-Product-Engineering-Intern-OR-97124/1319685000/?ats=successfactors",
-        "locations": [
-            "Hillsboro, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Qorvo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Qorvo",
-        "id": "9119c904-fd06-4fbb-9fdc-bc478329eb4c",
-        "title": "Portfolio Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756201280,
-        "date_posted": 1756104736,
-        "url": "https://careers.qorvo.com/job/Greensboro-Portfolio-Management-Intern-NC-27409/1319684100/?ats=successfactors",
-        "locations": [
-            "Greensboro, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Qorvo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Walt Disney Company",
-        "id": "be416f56-071c-4b52-a199-6bd031ce6736",
-        "title": "WDW Computer Engineering Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1756104631,
-        "date_posted": 1756104631,
-        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Engineering-Intern-Spring-2026_10128688",
-        "locations": [
-            "Celebration, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -2421,31 +2254,6 @@
         "date_posted": 1756205943,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Walt Disney Company",
-        "id": "e28a505c-7867-4dcf-b3bb-1f221d3b24c0",
-        "title": "WDW Geographical Information Systems \u2013 Intern - GIS",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1756206443,
-        "date_posted": 1756104635,
-        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Geographical-Information-Systems--GIS--Intern-Spring-2026_10128696",
-        "locations": [
-            "Celebration, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "date_updated": 1758245293,
@@ -60573,7 +60381,7 @@
         "company_name": "ByteDance",
         "id": "97f73208-6287-45ff-bd8e-22e726ed04d3",
         "title": "Low Latency Video Codec Algorithm Intern - Multimedia Lab - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -71466,7 +71274,7 @@
         "company_name": "ByteDance",
         "id": "0eb30a2f-beda-4a78-931f-33a6781e238a",
         "title": "Video Codec Algorithm Intern - Multimedia Lab - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -331112,7 +330920,7 @@
         "company_name": "Bose",
         "id": "d2d2038d-d37c-48c9-99c3-6855aaf81377",
         "title": "Audio Machine Learning Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -449597,7 +449405,7 @@
         "company_name": "Leidos",
         "id": "5aed4a7a-1b28-4ef1-8fd1-a2ac47322e0b",
         "title": "Data Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -449691,7 +449499,7 @@
         "company_name": "Rolls-Royce Motorcars",
         "id": "91277407-e77c-475d-9241-eb3ed3aa3e81",
         "title": "Drivetrain Validation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027"
@@ -453801,7 +453609,7 @@
         "company_name": "Equinix",
         "id": "d5dc5aaf-9ca3-4aa1-8827-c1c317ce69f3",
         "title": "Data Analyst AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -455785,7 +455593,7 @@
         "company_name": "HPR (Hyannis Port Research)",
         "id": "3f55a41c-bd7c-4855-83ca-36cd58dfe0ea",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -459199,7 +459007,7 @@
         "company_name": "Cadence Design Systems",
         "id": "a80adc0e-8ced-4f7d-860b-0a0659a821f6",
         "title": "Design Verification Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -461671,6 +461479,30 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RoboForce",
+        "id": "cb8969ea-a048-45c2-8ba6-f00ae4e5743a",
+        "title": "AI Resident Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776838722,
+        "date_posted": 1776838561,
+        "url": "https://job-boards.greenhouse.io/roboforce/jobs/5196164008",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RoboForce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
             "PhD"
         ]
     }
