@@ -1,163 +1,5 @@
 [
     {
-        "date_updated": 1756147274,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://www.careers.jnj.com/en/jobs/r-029613/technology-2026-summer-internship/",
-        "company_name": "Johnson & Johnson",
-        "title": "Technology 2026 Summer Internship",
-        "locations": [
-            "Fort Washington, PA",
-            "Horsham, PA",
-            "Irvine, CA",
-            "Jacksonville, FL",
-            "New Brunswick, NJ",
-            "Palm Beach Gardens, FL",
-            "Raritan, NJ",
-            "Santa Clara, CA",
-            "Spring House, PA",
-            "Titusville, NJ",
-            "West Chester, PA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "f9014a2d-89a4-4e5d-b480-446a4afd029b",
-        "date_posted": 1756147274,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1756147287,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://www.google.com/about/careers/applications/jobs/results/139918130284503750-software-developer-intern-bs-summer-2026",
-        "company_name": "Google",
-        "title": "Software Developer Intern, BS",
-        "locations": [
-            "Waterloo, ON",
-            "Montreal, QC",
-            "Toronto, ON"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "7db8e889-8800-4db3-b5db-e25e16876a42",
-        "date_posted": 1756147287,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1756728618,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers.tranetechnologies.com/global/en/job/2505323/Systems-Engineer-Intern",
-        "company_name": "Trane Technologies",
-        "title": "Systems Engineer Intern",
-        "locations": [
-            "St. Paul, MA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "ebeb50cb-79fd-406e-980f-541b11d822bb",
-        "date_posted": 1756147337,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1756147376,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://www.google.com/about/careers/applications/jobs/results/117118476782314182-software-engineering-intern-ms-summer-2026",
-        "company_name": "Google",
-        "title": "Software Engineering Intern",
-        "locations": [
-            "Atlanta, GA",
-            "Austin, TX",
-            "Bellevue, WA",
-            "Boulder, CO",
-            "Cambridge, MA",
-            "Chicago, IL",
-            "Durham, NC",
-            "Goleta, CA",
-            "Irvine, CA",
-            "Kirkland, WA",
-            "Los Angeles, CA",
-            "Madison, WI",
-            "Mountain View, CA",
-            "New York, NY",
-            "Palo Alto, CA",
-            "Pittsburgh, PA",
-            "Portland, OR",
-            "Raleigh, NC",
-            "Redmond, WA",
-            "Redwood City, CA",
-            "Reston, VA",
-            "San Bruno, CA",
-            "San Diego, CA",
-            "San Francisco, CA",
-            "San Jose, CA",
-            "Santa Cruz, CA",
-            "Seattle, WA",
-            "South San Francisco, CA",
-            "Sunnyvale, CA",
-            "Washington D.C., DC"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "2ede085e-de7a-4176-ad86-59237e9a97f7",
-        "date_posted": 1756147376,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1756147463,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://www.google.com/about/careers/applications/jobs/results/83033753760211654-software-developer-intern-ms-summer-2026",
-        "company_name": "Google",
-        "title": "Software Developer Intern, MS",
-        "locations": [
-            "Waterloo, ON",
-            "Montreal, QC",
-            "Toronto, ON"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "bb9c2c1a-864d-40ff-82f1-0c4ae20191ca",
-        "date_posted": 1756147463,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Micron Technology",
@@ -128916,7 +128758,7 @@
         "company_name": "Hunt Oil Company",
         "id": "bb3e8f8f-520c-4008-954c-6b63f6b5cf38",
         "title": "Data Analyst Intern - Hsse",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -197866,7 +197708,7 @@
         "company_name": "American Express",
         "id": "d6fdb237-6dd5-44ff-ae39-9a110b0986b5",
         "title": "Campus \u2013 Apprenticeship Programme - Technology Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -233446,7 +233288,7 @@
         "company_name": "CME Group",
         "id": "c856d519-9052-4f09-aee6-995ea7a6cd16",
         "title": "Research and Product Development PhD Student Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -246833,7 +246675,7 @@
         "company_name": "Nex",
         "id": "c7bb513f-9068-435e-8898-0b270891b8e6",
         "title": "Software Engineer Intern - Game Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -267655,7 +267497,7 @@
         "company_name": "Amazon",
         "id": "fe5689b5-d2fd-4174-82cc-6045c414ba97",
         "title": "Intern Economics - Reduced Form Causal Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -301037,7 +300879,7 @@
         "company_name": "Etsy",
         "id": "bd693aad-4815-4062-819d-b8ad2d790b70",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -309584,7 +309426,7 @@
         "company_name": "Alo Yoga",
         "id": "d25c6cfa-8316-46d5-a9d7-e9ef3f830cde",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -310909,7 +310751,7 @@
         "company_name": "Alo Yoga",
         "id": "e43a8eff-4fa1-403b-bfe3-6c027e50add0",
         "title": "Data Intern - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -310957,7 +310799,7 @@
         "company_name": "Alo Yoga",
         "id": "ac6590bb-327a-4b5c-9118-2613cdb23b96",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -347198,7 +347040,7 @@
         "company_name": "WebAI",
         "id": "f227c925-5e4d-4068-949b-762afc940eee",
         "title": "Intern - Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -350136,7 +349978,7 @@
         "company_name": "Flagship Pioneering",
         "id": "9256ca03-6d68-4003-a337-454704ef81da",
         "title": "Machine Learning Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -428724,7 +428566,7 @@
         "company_name": "Proofpoint",
         "id": "aab6baa6-64c7-46ba-9027-b7a637f6f3c9",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437140,7 +436982,7 @@
         "company_name": "Rheem",
         "id": "95ebc698-f24d-4c4c-b218-2d69bbc654bd",
         "title": "Commercial Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -442713,7 +442555,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "d6bac751-7058-4ed0-98bf-bebbffe2e038",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450111,7 +449953,7 @@
         "company_name": "The Boyd Group",
         "id": "e447ac1c-1962-49c7-89cc-7147986e0095",
         "title": "Operations Data & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -454502,7 +454344,7 @@
         "company_name": "Apptronik",
         "id": "c2c6b014-11ef-40ee-9f38-a1e05b196b1d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -456850,7 +456692,7 @@
         "company_name": "Johnson & Johnson",
         "id": "a11e9d98-de5c-4d83-b2be-602dc9da9e59",
         "title": "Heart Recovery Product Development Engineer Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -457499,7 +457341,7 @@
         "company_name": "Arcadis",
         "id": "b62f5b1e-3b10-46bb-a20d-20dfba58edb0",
         "title": "Developer Intern - Portfolio Insights",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -457892,7 +457734,7 @@
         "company_name": "Cadence Design Systems",
         "id": "a80adc0e-8ced-4f7d-860b-0a0659a821f6",
         "title": "Design Verification Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -460188,7 +460030,7 @@
         "company_name": "Ciena",
         "id": "a8f792a4-e67c-46cd-9463-33c6ddb781dd",
         "title": "NPI Product Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
