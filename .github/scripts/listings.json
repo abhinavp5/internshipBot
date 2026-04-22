@@ -215797,7 +215797,7 @@
         "company_name": "Microsoft",
         "id": "aa0c7c8d-8f66-4848-8ad0-bdaee530ebdf",
         "title": "Research Intern - Computer Vision and Deep Learning",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -393674,7 +393674,7 @@
         "company_name": "GE Healthcare",
         "id": "575196b0-8a54-4f60-b515-c6a6f828818d",
         "title": "AI Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -403861,7 +403861,7 @@
         "company_name": "Airgas",
         "id": "3aade112-1fc5-442f-84dd-0a8c10b104a7",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -414854,7 +414854,7 @@
         "company_name": "TNS",
         "id": "3de7ddd4-4951-42b8-97de-864d68e72fb9",
         "title": "Mobile Telecom Applications Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -422448,7 +422448,7 @@
         "company_name": "Granite Construction",
         "id": "5628f91e-9bde-4281-9e4f-af0144726d32",
         "title": "Business Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -440357,7 +440357,7 @@
         "company_name": "Nightwing Intelligence Solutions",
         "id": "55556c00-eb17-46a0-8914-66a19318e0f3",
         "title": "Radio Frequency Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -453802,7 +453802,7 @@
         "company_name": "Uhaul",
         "id": "6b877f44-0b3f-46c1-a867-bd6706c63d23",
         "title": "iOS Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -453892,7 +453892,7 @@
         "company_name": "Leidos",
         "id": "3b9705b9-3ad7-4c77-97aa-e51cc37e4a70",
         "title": "Speech Processing / ASR for Low-Resource Languages Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -461007,6 +461007,56 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "80da4b08-dbef-443a-8cb9-63547e51becf",
+        "title": "Data Analyst Project Intern - TikTok Shop - Data Science",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776849121,
+        "date_posted": 1776849038,
+        "url": "https://lifeattiktok.com/search/7630767896739154229",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Berkshire Hathaway Energy",
+        "id": "a94fc300-8fc2-4984-9a37-b49c6a6daa9c",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1776849901,
+        "date_posted": 1773353643,
+        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10004529",
+        "locations": [
+            "Des Moines, IA",
+            "Richmond, VA",
+            "Reno, NV",
+            "Sioux City, IA",
+            "Davenport, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
