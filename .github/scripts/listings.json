@@ -1,51 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "94026152-6958-481a-8353-37159d46d766",
-        "title": "Software Engineering Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756201446,
-        "date_posted": 1756143277,
-        "url": "https://jobs.l3harris.com/job/Rochester-Software-Engineering-Internship-(Rochester,-NY)-NY-14610/1319851900/?ats=successfactors",
-        "locations": [
-            "Rochester, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Elf Beauty",
-        "id": "c7dc52e3-0844-49d8-9a0f-02d24980d0f2",
-        "title": "Intern \u2013 Product Development",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756201159,
-        "date_posted": 1756143179,
-        "url": "https://jobs.lever.co/elfbeauty/3261e545-0f4f-4775-b99f-1d3eaa1cb44c/apply",
-        "locations": [
-            "Oakland, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Elf-Beauty",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1756147274,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -159624,7 +159578,7 @@
         "company_name": "BorgWarner",
         "id": "254ddb07-e6f5-4fa8-85b2-8392545b06f2",
         "title": "Jr. System Bench Architect Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -251036,7 +250990,7 @@
         "company_name": "Ultima Genomics",
         "id": "83a19920-2cfb-45cd-8f35-141c97eabd55",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -267588,7 +267542,7 @@
         "company_name": "Delta Dental",
         "id": "5bbc3b64-e4fb-4d08-98a5-fdf6ffd40d09",
         "title": "Internship - Knowledge Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -288310,7 +288264,7 @@
         "company_name": "Garda Capital Partners",
         "id": "119df024-d1de-42c5-a042-ab00810574cb",
         "title": "Software Engineer Intern - Python",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -323995,7 +323949,7 @@
         "company_name": "Leidos",
         "id": "3772797f-c6b4-48ce-9253-69a8f4e17fd1",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343408,7 +343362,7 @@
         "company_name": "First American",
         "id": "0a9ec94e-fd09-447c-810c-6712e3a6b2bf",
         "title": "Product Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -401111,7 +401065,7 @@
         "company_name": "Baxter International",
         "id": "0a0a9826-428b-4079-97a0-d2d27922b4d7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -405697,7 +405651,7 @@
         "company_name": "Ingram Micro",
         "id": "37c6da99-be2e-4b5c-a2e8-4a42f20e27e8",
         "title": "Intern - Applied AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450086,7 +450040,7 @@
         "company_name": "Altom Transport",
         "id": "709e617f-c1a2-44f7-865c-40631bb9098e",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450454,7 +450408,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "84606289-9dfc-46a0-b830-87e7e99d8a36",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450988,7 +450942,7 @@
         "company_name": "Altom Transport",
         "id": "77bb7100-5676-4bca-a7f4-cac67e69a969",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -458684,7 +458638,7 @@
         "company_name": "Togetherwork",
         "id": "625e369f-4225-466f-9c5e-13e522f4c7ef",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -460165,7 +460119,7 @@
         "company_name": "skillz",
         "id": "21d7f4b7-9cde-4b03-895f-857047dcfff2",
         "title": "Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
