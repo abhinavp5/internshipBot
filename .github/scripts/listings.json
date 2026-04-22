@@ -200937,7 +200937,7 @@
         "company_name": "Leidos",
         "id": "3c96a5cd-c775-40fc-8159-03653299ccc3",
         "title": "Engineering Intern - Software/App Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -222591,7 +222591,7 @@
         "company_name": "General Motors",
         "id": "a5945f9d-f7da-4cf3-ad1a-eb952a00856e",
         "title": "Intern - Simulation Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -223030,7 +223030,7 @@
         "company_name": "General Motors",
         "id": "88e8805e-8f1f-412a-9a73-bd823e8e7035",
         "title": "Intern AI/ML Software Engineering Intern - Simulation Core - Master's",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -369980,7 +369980,7 @@
         "company_name": "Analog Devices",
         "id": "c9d44c39-22c2-4bb7-8d50-3c1aa6868e2e",
         "title": "AI/ML Design Layout Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -385887,7 +385887,7 @@
         "company_name": "Insulet Corporation",
         "id": "7cdb8ddc-4967-4fde-bd96-3e6ef10f4998",
         "title": "Intern EngOps Software Tools",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -394114,7 +394114,7 @@
         "company_name": "Jonas Software",
         "id": "82418511-1f30-4a45-ad5c-0a596d3654da",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -414424,7 +414424,7 @@
         "company_name": "University of Arkansas",
         "id": "613121a0-b6ea-469c-bf10-9bb507ad6f4c",
         "title": "Cosmos Graduate Research Assistant - ML/AI",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -429148,7 +429148,7 @@
         "company_name": "Berkshire Hathaway Energy",
         "id": "f0865c39-c2d0-4de6-9758-7218853be989",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -431145,7 +431145,7 @@
         "company_name": "X Development",
         "id": "ea676687-2aed-4508-ba3d-fc66f2c21586",
         "title": "PhD / Master\u2019s Residency - Revolutionary Nanodevice Measurement and Characterization - Early Stage Project",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -432114,7 +432114,7 @@
         "company_name": "Trane Technologies",
         "id": "b2caadce-6eeb-4eb8-8571-477e8b7bca43",
         "title": "Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -437998,7 +437998,7 @@
         "company_name": "BigCommerce",
         "id": "614af212-1ca3-48d6-a1b7-29ea78007cb2",
         "title": "Intern \u2013 Software Engineering - TypeScript / Full Stack",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -442957,7 +442957,7 @@
         "company_name": "NVIDIA",
         "id": "a43abe5d-5216-4e83-aba1-d2afc823a8de",
         "title": "Technical Product Manager Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -446442,7 +446442,7 @@
         "company_name": "The Federal Reserve System",
         "id": "994f4cdb-d101-45f9-947e-2d62a34c2edf",
         "title": "Coop: Digital Money and Payments Research & Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -452910,7 +452910,7 @@
         "company_name": "Leidos",
         "id": "95206eaf-e3e1-42c7-b3f8-b36e3c5e9a1c",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -457238,7 +457238,7 @@
         "company_name": "Fermilab",
         "id": "ce736bd3-58e6-4bc6-8cfe-e85dc1620ec3",
         "title": "Student Research Assistant 1 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
