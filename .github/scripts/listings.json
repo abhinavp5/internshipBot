@@ -1,153 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "e97c9c58-1516-48e1-8212-0d15f8082628",
-        "title": "Software Engineer Spring 2026 Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1756134456,
-        "date_posted": 1756134456,
-        "url": "https://jobs.l3harris.com/job/Greenville-Software-Engineer-Spring-2026-Intern-(Greenville,-TX)-TX-75402/1319759400/?ats=successfactors",
-        "locations": [
-            "Greenville, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Arrowstreet Capital",
-        "id": "a2c236a0-e8fa-4b7c-9b43-f10356184549",
-        "title": "Quantitative Researcher Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756136521,
-        "date_posted": 1756136521,
-        "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Researcher-Intern--Summer-2026_R1340-1",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Arrowstreet-Capital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Markel Group, Inc.",
-        "id": "41b39b9b-800e-4d3c-8c0d-8adbbd236eb3",
-        "title": "IT Internship Program",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756201598,
-        "date_posted": 1756136442,
-        "url": "https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Richmond-VA/XMLNAME-2026-IT-Internship-Program_R0021409",
-        "locations": [
-            "Richmond, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Markel-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Arrowstreet Capital",
-        "id": "22e7c000-9052-433e-9baa-a490abf5fe73",
-        "title": "Quantitative Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756136525,
-        "date_posted": 1756136525,
-        "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Developer-Intern--Summer-2026_R1338-1",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Arrowstreet-Capital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "date_updated": 1756137558,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://www.google.com/about/careers/applications/jobs/results/75808725415142086-software-engineering-intern-bs-summer-2026",
-        "company_name": "Google",
-        "title": "Software Engineering Intern, BS",
-        "locations": [
-            "Mountain View, CA",
-            "Atlanta, GA",
-            "Austin, TX",
-            "Boulder, CO",
-            "Cambridge, MA",
-            "Bellevue, WA",
-            "Chicago, IL",
-            "Irvine, CA",
-            "Kirkland, WA",
-            "Los Angeles, CA",
-            "Madison, WI",
-            "New York, NY",
-            "Palo Alto, CA",
-            "Portland, OR",
-            "Pittsburgh, PA",
-            "Raleigh, NC",
-            "Durham, NC",
-            "Reston, VA",
-            "Redmond, WA",
-            "Redwood City, CA",
-            "San Diego, CA",
-            "Goleta, CA",
-            "San Bruno, CA",
-            "Seattle, WA",
-            "San Francisco, CA",
-            "San Jose, CA",
-            "Santa Cruz, CA",
-            "South San Francisco, CA",
-            "Sunnyvale, CA",
-            "Washington D.C., DC"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "46a8b488-31c2-455c-b48d-e8f23f8b0e67",
-        "date_posted": 1756137558,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "State Street",
         "id": "763e90ca-f42e-40b1-868a-471f9d15be99",
@@ -163,78 +16,6 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/b1ace7d2-f176-42c0-aae7-5a77e601e7ff",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "LPL Financial Holdings",
-        "id": "e2fa42af-3aa1-4293-bee7-abd916607158",
-        "title": "FAR Program Internship - Internal Audit-Data Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756137675,
-        "date_posted": 1756137675,
-        "url": "https://lplfinancial.wd1.myworkdayjobs.com/en-US/External/job/Fort-MillCharlotte/FAR-Program--Summer-2026-Internship---Internal-Audit--Data-Analytics--DA-_R-045692-2",
-        "locations": [
-            "Fort Mill, SC",
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "LPL Financial Holdings",
-        "id": "7ffb801b-bfa4-469e-b5b3-a20c384d5f15",
-        "title": "FAR Program: Internship - Data Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756137673,
-        "date_posted": 1756137673,
-        "url": "https://lplfinancial.wd1.myworkdayjobs.com/en-US/External/job/FAR-Program--Summer-2026-Internship---Data-Analytics_R-045030-2",
-        "locations": [
-            "Fort Mill, SC",
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "LPL Financial Holdings",
-        "id": "5332eca4-7a1f-4e49-ac7d-f3249b4ee54e",
-        "title": "FAR Program: Summer 2026 Internship - Internal Audit-Information Technology - IT",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756137680,
-        "date_posted": 1756137680,
-        "url": "https://lplfinancial.wd1.myworkdayjobs.com/en-US/External/job/Fort-MillCharlotte/FAR-Program--Summer-2026-Internship---Internal-Audit--Information-Technology--IT-_R-045695-1",
-        "locations": [
-            "Fort Mill, SC",
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/LPL-Financial-Holdings",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -786,53 +567,6 @@
         "date_posted": 1756160925,
         "company_url": "",
         "is_visible": false
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "CannonDesign",
-        "id": "be4e0994-807c-48d7-9be6-d350eedd58ab",
-        "title": "Service Desk Analyst Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1756133383,
-        "date_posted": 1756133383,
-        "url": "http://www.cannondesign.com/careers/?gh_jid=8133116002",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Cannon-Design",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "L3Harris Technologies",
-        "id": "f921c337-802c-4c7c-8021-0ae9d61bbfdf",
-        "title": "IRAD and New Technologies Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1756132309,
-        "date_posted": 1756132309,
-        "url": "https://jobs.l3harris.com/job/Waco-IRAD-and-New-Technologies-Intern-Fall-2025-(Waco,-TX)-TX-76705/1319761500/?ats=successfactors",
-        "locations": [
-            "Waco, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -39708,30 +39442,6 @@
         "date_posted": 1757408702,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "L3Harris Technologies",
-        "id": "8664fbaa-2984-41fd-95f1-aec7f67c1845",
-        "title": "Systems Engineering Intern - Spring 2026",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1757426051,
-        "date_posted": 1756132307,
-        "url": "https://jobs.l3harris.com/job/Rockwall-Systems-Engineering-Intern-Spring-2026-(Rockwall,-TX)-TX-75032/1319760800/?ats=successfactors",
-        "locations": [
-            "Royse City, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -160062,7 +159772,7 @@
         "company_name": "BorgWarner",
         "id": "c8412cac-9330-48d8-b232-f2d471bee8e7",
         "title": "Systems Integration Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -383251,7 +382961,7 @@
         "company_name": "Proofpoint",
         "id": "821a022d-864a-4695-a711-15f6bcb8e26a",
         "title": "Agentic AI Workflows Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -446064,7 +445774,7 @@
         "company_name": "Healthesystems",
         "id": "cf57314a-913c-4098-ab82-a42e48130da3",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -447623,7 +447333,7 @@
         "company_name": "Becton Dickinson",
         "id": "8b9af2b7-1757-49ca-9b1e-37e7e3ea3f4b",
         "title": "Product Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -451120,7 +450830,7 @@
         "company_name": "RTX",
         "id": "8eed18d9-0346-4862-8826-7739a7ac2850",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -452434,7 +452144,7 @@
         "company_name": "RTX",
         "id": "c21c3255-d86f-42aa-a383-8549577d7d88",
         "title": "Raytheon Part Time Co-op - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -452639,7 +452349,7 @@
         "company_name": "SS&C",
         "id": "e9a8e5b7-de09-4cc0-b403-ec4941673d07",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453484,7 +453194,7 @@
         "company_name": "Hitachi",
         "id": "c5a0b11e-1b79-464f-9e82-30b411066d9d",
         "title": "PMO Analyst and Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -455073,7 +454783,7 @@
         "company_name": "Leidos",
         "id": "dc7fbb19-7aa9-4961-aa14-8b7c84dcb959",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -457223,7 +456933,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "c52f95d2-da92-4297-aa5e-a0e2ebab5c13",
         "title": "Artificial Intelligence & Machine Learning Engineer \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -460555,7 +460265,7 @@
         "company_name": "Intel",
         "id": "e2bc69f6-c415-4066-a314-fc94bbe0e06a",
         "title": "Undergrad Intern-AI Software Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -460977,6 +460687,53 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "df3e5115-f1d2-477f-b7e8-20a275bf2d04",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776867270,
+        "date_posted": 1776866891,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-807--1151-E-Hermans-Rd--BLDG-807/XMLNAME-2026-Raytheon-Summer-Intern--Software-Engineer--Onsite-_01840066",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "c35d1b43-249a-4765-8cf5-ae533ce5aaa6",
+        "title": "Internal Audit Data Analytics & Automation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776867416,
+        "date_posted": 1776867126,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Internal-Audit-Data-Analytics---Automation-Intern_R-00181457",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
