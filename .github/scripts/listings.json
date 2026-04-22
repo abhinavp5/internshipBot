@@ -1,464 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "PricewaterhouseCoopers (PwC)",
-        "id": "c3ea53dc-beee-4386-9065-290eecc30c86",
-        "title": "Cybersecurity Consulting Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756105433,
-        "date_posted": 1756105433,
-        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Cybersecurity-Consulting-Intern---Summer-2026_658983WD",
-        "locations": [
-            "Boston, MA",
-            "Seattle, WA",
-            "Houston, TX",
-            "Washington, DC",
-            "SF",
-            "LA",
-            "Dallas, TX",
-            "Philadelphia, PA",
-            "Chicago, IL",
-            "Norridge, IL",
-            "NYC",
-            "Minneapolis, MN",
-            "Mountain View, CA",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/PwC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PricewaterhouseCoopers (PwC)",
-        "id": "1ef4b751-e996-4bbc-8671-afb7e3781026",
-        "title": "Deals \u2013 Technology and Data Solutions Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756105437,
-        "date_posted": 1756105437,
-        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Deals---Technology-and-Data-Solutions-Intern---Summer-2026_658670WD",
-        "locations": [
-            "Washington, DC",
-            "SF",
-            "Norridge, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/PwC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PricewaterhouseCoopers (PwC)",
-        "id": "1187e0ac-9ebe-4c67-84c4-c08208f0fab0",
-        "title": "Commercial Technology & Innovation Office \u2013 AI Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756105433,
-        "date_posted": 1756105433,
-        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Commercial-Technology---Innovation-Office---AI-Data-Science-Intern---Summer-2026_659028WD",
-        "locations": [
-            "Boston, MA",
-            "Seattle, WA",
-            "Houston, TX",
-            "Washington, DC",
-            "Dallas, TX",
-            "Philadelphia, PA",
-            "Chicago, IL",
-            "Norridge, IL",
-            "NYC",
-            "Minneapolis, MN",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/PwC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PricewaterhouseCoopers (PwC)",
-        "id": "380658dc-9e3f-41de-8be6-a66121b41cb5",
-        "title": "Financial Crimes Unit Data & Analytics Tech Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756118959,
-        "date_posted": 1756106354,
-        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Financial-Crimes-Unit-Data---Analytics-Tech-Intern---Summer-2026_658969WD",
-        "locations": [
-            "Norridge, IL",
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/PwC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PricewaterhouseCoopers (PwC)",
-        "id": "54adf01a-c62e-40d5-b5ac-122f19ae59b0",
-        "title": "Cloud Engineering \u2013 Data Science Intern - Data & Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756107209,
-        "date_posted": 1756107209,
-        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Cloud-Engineering--Data---Analytics----Data-Science-Intern---Summer-2026_658436WD",
-        "locations": [
-            "Boston, MA",
-            "Seattle, WA",
-            "Houston, TX",
-            "Washington, DC",
-            "SF",
-            "LA",
-            "Dallas, TX",
-            "Philadelphia, PA",
-            "Chicago, IL",
-            "Norridge, IL",
-            "NYC",
-            "Minneapolis, MN",
-            "Mountain View, CA",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/PwC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PricewaterhouseCoopers (PwC)",
-        "id": "9e0ee1f7-506f-4b51-8418-7d6bc9f30ac5",
-        "title": "Deals \u2013 Diligence Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756106864,
-        "date_posted": 1756106864,
-        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Deals---Diligence-Analytics-Intern---Summer-2026_658678WD",
-        "locations": [
-            "SF",
-            "Norridge, IL",
-            "NYC",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/PwC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Williams",
-        "id": "c1c95394-2ca9-49de-8956-bf506175eef6",
-        "title": "Summer 2026 Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756106675,
-        "date_posted": 1756106675,
-        "url": "https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/Summer-2026-Internship---University-of-Oklahoma_R110758",
-        "locations": [
-            "Salt Lake City, UT",
-            "Houston, TX",
-            "Pittsburgh, PA",
-            "Tulsa, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/Williams",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Williams",
-        "id": "be91cc94-ecfe-4d92-8cd9-d4f8b00b15d3",
-        "title": "Summer 2026 Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756106673,
-        "date_posted": 1756106673,
-        "url": "https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/Summer-2026-Internship---University-of-Tulsa_R110759",
-        "locations": [
-            "Salt Lake City, UT",
-            "Houston, TX",
-            "Pittsburgh, PA",
-            "Tulsa, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/Williams",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PricewaterhouseCoopers (PwC)",
-        "id": "babf9eea-59bd-4e8b-83f5-6d39483cd42d",
-        "title": "Data & Analytics Technology Consulting Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756107568,
-        "date_posted": 1756107568,
-        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Data---Analytics-Technology-Consulting-Intern---Summer-2026_658980WD",
-        "locations": [
-            "Boston, MA",
-            "Washington, DC",
-            "Chicago, IL",
-            "Norridge, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/PwC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hewlett Packard Enterprise",
-        "id": "87600012-fe9b-444d-be93-06426be1b725",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1761274141,
-        "date_posted": 1756107515,
-        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Software-Engineering-Intern_1193025",
-        "locations": [
-            "Roseville, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "PricewaterhouseCoopers (PwC)",
-        "id": "975e8623-3425-43a6-b9e9-d45f0e267245",
-        "title": "Commercial Technology & Innovation Office \u2013 Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756107392,
-        "date_posted": 1756107392,
-        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Commercial-Technology---Innovation-Office---Software-Engineering-Intern---Summer-2026_659026WD",
-        "locations": [
-            "Boston, MA",
-            "Seattle, WA",
-            "Houston, TX",
-            "Washington, DC",
-            "Dallas, TX",
-            "Philadelphia, PA",
-            "Chicago, IL",
-            "Norridge, IL",
-            "NYC",
-            "Minneapolis, MN",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/PwC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "date_updated": 1757543919,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2026_R56900",
-        "company_name": "Motorola Solutions",
-        "title": "Supply Chain Data Analyst Internship",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "f14d6fc0-ec6c-40ab-9998-dd4c4970c0b3",
-        "date_posted": 1756111635,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1756111885,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/Suwanee-GA/Summer-2026--Enterprise-Applications-Intern_R2025-0973",
-        "company_name": "QTS",
-        "title": "Enterprise Applications Intern",
-        "locations": [
-            "Suwanee, GA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Other",
-        "source": "AlmondCroffle",
-        "id": "e3fc4320-562c-40a0-a251-2158620c682f",
-        "date_posted": 1756111846,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1756111965,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/Atlanta-GA/Summer-2026-Development-Project-Intern_R2025-0951",
-        "company_name": "QTS",
-        "title": "Development Project Intern",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Hardware Engineering",
-        "source": "AlmondCroffle",
-        "id": "b2719784-85b4-4670-8778-6df32f8f103b",
-        "date_posted": 1756111965,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761316727,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/Summer-2026-Internship--IT-Asset-Management_R2025-0980",
-        "company_name": "QTS",
-        "title": "IT Asset Management",
-        "locations": [
-            "Suwanee, GA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Other",
-        "source": "AlmondCroffle",
-        "id": "268d220f-5826-4389-bc04-738dcd8e743c",
-        "date_posted": 1756112164,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1761333283,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/Summer-2026-Internship--Technology-Project-Management_R2025-0981-1",
-        "company_name": "QTS",
-        "title": "Technology Project Management",
-        "locations": [
-            "Suwanee, GA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Other",
-        "source": "AlmondCroffle",
-        "id": "6d061905-d565-42a8-8f7f-20e21be092d2",
-        "date_posted": 1756112273,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1756112433,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.eu.lever.co/cirrus/61217b55-e2f9-410d-8758-4847fbf80720",
-        "company_name": "Cirrus Logic",
-        "title": "Software Tools Developer",
-        "locations": [
-            "Austin, TX"
-        ],
-        "terms": [
-            "Spring 2026"
-        ],
-        "category": "Other",
-        "source": "AlmondCroffle",
-        "id": "e34a2c74-63a5-4d4e-a109-1992e42bfbea",
-        "date_posted": 1756112433,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1759953483,
         "sponsorship": "Other",
         "active": true,
@@ -149672,7 +149213,7 @@
         "company_name": "Tencent",
         "id": "553c3141-cedc-4ce8-ae4d-c4dbfd12ce83",
         "title": "Research Internship-Multimodal LLM - Speech/Music/Audio/Vision/Language",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -201467,7 +201008,7 @@
         "company_name": "Leidos",
         "id": "3c96a5cd-c775-40fc-8159-03653299ccc3",
         "title": "Engineering Intern - Software/App Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -394204,7 +393745,7 @@
         "company_name": "GE Healthcare",
         "id": "575196b0-8a54-4f60-b515-c6a6f828818d",
         "title": "AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -404391,7 +403932,7 @@
         "company_name": "Airgas",
         "id": "3aade112-1fc5-442f-84dd-0a8c10b104a7",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -414954,7 +414495,7 @@
         "company_name": "University of Arkansas",
         "id": "613121a0-b6ea-469c-bf10-9bb507ad6f4c",
         "title": "Cosmos Graduate Research Assistant - ML/AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -415384,7 +414925,7 @@
         "company_name": "TNS",
         "id": "3de7ddd4-4951-42b8-97de-864d68e72fb9",
         "title": "Mobile Telecom Applications Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -422978,7 +422519,7 @@
         "company_name": "Granite Construction",
         "id": "5628f91e-9bde-4281-9e4f-af0144726d32",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -438528,7 +438069,7 @@
         "company_name": "BigCommerce",
         "id": "614af212-1ca3-48d6-a1b7-29ea78007cb2",
         "title": "Intern \u2013 Software Engineering - TypeScript / Full Stack",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -440887,7 +440428,7 @@
         "company_name": "Nightwing Intelligence Solutions",
         "id": "55556c00-eb17-46a0-8914-66a19318e0f3",
         "title": "Radio Frequency Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -454422,7 +453963,7 @@
         "company_name": "Leidos",
         "id": "3b9705b9-3ad7-4c77-97aa-e51cc37e4a70",
         "title": "Speech Processing / ASR for Low-Resource Languages Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -461504,6 +461045,39 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Johnson & Johnson",
+        "id": "fae3ac45-3929-4b91-b778-ac0866ea8b29",
+        "title": "Technology Co-Op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1776809890,
+        "date_posted": 1776809317,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-Any-City/Technology-2026-Fall-Co-Op_R-029591",
+        "locations": [
+            "New Hope, PA",
+            "West Chester, PA",
+            "Bridgewater Township, NJ",
+            "Horsham, PA",
+            "Shepherdsville, KY",
+            "Irvine, CA",
+            "Santa Clara, CA",
+            "Edison, NJ",
+            "Ambler, PA",
+            "Peabody, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
