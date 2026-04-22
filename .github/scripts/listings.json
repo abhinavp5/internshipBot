@@ -1,76 +1,5 @@
 [
     {
-        "date_updated": 1759953483,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://www.tesla.com/careers/search/job/248805",
-        "company_name": "Tesla",
-        "title": "Commercial UI Software Engineer, Energy Engineering",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "f52291a1-98fd-4a87-838d-74f8200e857f",
-        "date_posted": 1756113973,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1757728783,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://www.tesla.com/careers/search/job/248920",
-        "company_name": "Tesla",
-        "title": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/5677",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "e234c95d-5eec-4042-a20e-79da80592a12",
-        "date_posted": 1756114044,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1756114144,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.ashbyhq.com/zip/83c0a4d8-7a88-4921-be8e-347ba3f3bedd",
-        "company_name": "Zip",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "aceec36b-e052-461c-a4de-be76d84735c8",
-        "date_posted": 1756114144,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "L3Harris Technologies",
@@ -149213,7 +149142,7 @@
         "company_name": "Tencent",
         "id": "553c3141-cedc-4ce8-ae4d-c4dbfd12ce83",
         "title": "Research Internship-Multimodal LLM - Speech/Music/Audio/Vision/Language",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -195397,7 +195326,7 @@
         "company_name": "Cisco",
         "id": "eab10ff3-e9aa-4052-a4ed-a7ad28f5000e",
         "title": "AI Product Management Engineer 2 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -222662,7 +222591,7 @@
         "company_name": "General Motors",
         "id": "a5945f9d-f7da-4cf3-ad1a-eb952a00856e",
         "title": "Intern - Simulation Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -223101,7 +223030,7 @@
         "company_name": "General Motors",
         "id": "88e8805e-8f1f-412a-9a73-bd823e8e7035",
         "title": "Intern AI/ML Software Engineering Intern - Simulation Core - Master's",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -385958,7 +385887,7 @@
         "company_name": "Insulet Corporation",
         "id": "7cdb8ddc-4967-4fde-bd96-3e6ef10f4998",
         "title": "Intern EngOps Software Tools",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -394185,7 +394114,7 @@
         "company_name": "Jonas Software",
         "id": "82418511-1f30-4a45-ad5c-0a596d3654da",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -431216,7 +431145,7 @@
         "company_name": "X Development",
         "id": "ea676687-2aed-4508-ba3d-fc66f2c21586",
         "title": "PhD / Master\u2019s Residency - Revolutionary Nanodevice Measurement and Characterization - Early Stage Project",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -432185,7 +432114,7 @@
         "company_name": "Trane Technologies",
         "id": "b2caadce-6eeb-4eb8-8571-477e8b7bca43",
         "title": "Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443028,7 +442957,7 @@
         "company_name": "NVIDIA",
         "id": "a43abe5d-5216-4e83-aba1-d2afc823a8de",
         "title": "Technical Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -446513,7 +446442,7 @@
         "company_name": "The Federal Reserve System",
         "id": "994f4cdb-d101-45f9-947e-2d62a34c2edf",
         "title": "Coop: Digital Money and Payments Research & Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -452981,7 +452910,7 @@
         "company_name": "Leidos",
         "id": "95206eaf-e3e1-42c7-b3f8-b36e3c5e9a1c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453873,7 +453802,7 @@
         "company_name": "Uhaul",
         "id": "6b877f44-0b3f-46c1-a867-bd6706c63d23",
         "title": "iOS Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -457309,7 +457238,7 @@
         "company_name": "Fermilab",
         "id": "ce736bd3-58e6-4bc6-8cfe-e85dc1620ec3",
         "title": "Student Research Assistant 1 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -457571,7 +457500,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "e9d446f2-fbc0-485f-a2dd-59767b24c4fd",
         "title": "Data Engineering and Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
