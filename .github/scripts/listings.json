@@ -2,29 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "df0d29e3-c6f3-49d6-96ec-eb7ff567d037",
-        "title": "Global Monetization Strategy and Analytics Intern - Mso - BS/MS",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756118990,
-        "date_posted": 1756090671,
-        "url": "https://jobs.bytedance.com/en/position/7533673691735361799/detail",
-        "locations": [
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Johnson & Johnson",
         "id": "fae3ac45-3929-4b91-b778-ac0866ea8b29",
         "title": "Technology Fall Co-Op",
@@ -452084,7 +452061,7 @@
         "company_name": "Equinix",
         "id": "c9cc6eda-a496-4e1c-8357-2a52db5880f6",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -452479,7 +452456,7 @@
         "company_name": "RTX",
         "id": "bc9152a5-e64b-4dda-a4b2-8a944dec4800",
         "title": "Future Ready Lab Intern - Data Analysis for Supplier Approval",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
