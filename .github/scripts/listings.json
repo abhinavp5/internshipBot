@@ -1,53 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Other",
-        "company_name": "Fifth Third Bank",
-        "id": "aed7ea18-bb42-42a5-8bb5-462e3c0e4f4e",
-        "title": "Information Security Co-op - Secdev Services",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1756176265,
-        "date_posted": 1756176265,
-        "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Information-Security-Co-op---SecDev-Services---Spring-2026_R61458",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "TikTok",
-        "id": "29355c80-48bf-4523-a41c-71582bd278bc",
-        "title": "Product Operations Project Intern - SMB Industry Operations",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1756177043,
-        "date_posted": 1756177043,
-        "url": "https://lifeattiktok.com/search/7542594441245624584",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Devon Energy",
         "id": "399b07b6-97da-47ba-a11d-8cf060b2566e",
@@ -378309,7 +378262,7 @@
         "company_name": "Roblox",
         "id": "4889cfd3-60e0-403f-870c-f1effd77d1ff",
         "title": "Software Engineer \u2013 Community Apprenticeship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437710,7 +437663,7 @@
         "company_name": "CAE",
         "id": "7224e144-d142-442c-acfb-0b73760ef5c9",
         "title": "Database Administrator / Data Engineer COOP",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -446056,7 +446009,7 @@
         "company_name": "Becton Dickinson",
         "id": "8b9af2b7-1757-49ca-9b1e-37e7e3ea3f4b",
         "title": "Product Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453071,7 +453024,7 @@
         "company_name": "Cincinnati Financial",
         "id": "aadb21b6-722d-47b1-a5f1-6ffd677cb17e",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
