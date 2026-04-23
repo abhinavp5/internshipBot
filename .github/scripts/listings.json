@@ -1,77 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Dropbox",
-        "id": "4b0cdd84-7ff1-4c5e-a12a-804aab8d3526",
-        "title": "Software Engineer intern",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1761316810,
-        "date_posted": 1756193597,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7183245",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Dropbox",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Dropbox",
-        "id": "134b65fb-072b-4a62-ac5c-8294eac00ffa",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1761337004,
-        "date_posted": 1756193798,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7183241",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dropbox",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "d663945e-b8da-4cc3-8af8-940cda193979",
-        "title": "Frontend Software Engineer Intern - Web and Client - Global Payment",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756194869,
-        "date_posted": 1756194869,
-        "url": "https://jobs.bytedance.com/en/position/7538583899431373063/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1756205943,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -161892,27 +161820,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "The Brattle Group",
-        "id": "feb8c558-79da-4a4f-a7c7-7a809df7c160",
-        "title": "Energy Analyst Intern - Economics - Summer 2026",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1758620445,
-        "date_posted": 1756191692,
-        "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4601382005",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/TheBrattleGroup",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Qorvo",
         "id": "595a51bc-4c5e-4dd9-ab2c-b54836b8dfc2",
         "title": "Business Demand Analyst Intern",
@@ -209163,7 +209070,7 @@
         "company_name": "Wintermute",
         "id": "2319e255-13ec-4b97-a75b-1377d4fe5be7",
         "title": "Defi Algorithmic Trading Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -438273,7 +438180,7 @@
         "company_name": "Electronic Arts",
         "id": "3a0b0dbb-fbd9-49e9-92b1-489a27764605",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -443267,7 +443174,7 @@
         "company_name": "W.W. Grainger",
         "id": "1682fbfc-b5b6-4a5d-a5ec-f0138208298d",
         "title": "GTG Intern - Applied Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -448351,7 +448258,7 @@
         "company_name": "PG&E",
         "id": "10e05443-775e-460c-858c-b6a0c505ffef",
         "title": "AC Vehicle-to-Grid Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -451370,7 +451277,7 @@
         "company_name": "RTX",
         "id": "93aa55ae-d3fa-46a7-82b2-7c288871469b",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453161,7 +453068,7 @@
         "company_name": "Western Union",
         "id": "34e92c06-587f-4918-af6c-7b442f8023b8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -460166,7 +460073,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "e107c65a-daf2-4136-87d4-7f3b19a66ba9",
         "title": "Part Time Intern - Digital and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
