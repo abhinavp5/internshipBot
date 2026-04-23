@@ -424524,7 +424524,7 @@
         "company_name": "Trane Technologies",
         "id": "f7819eb2-6492-4917-b03e-b820f9de56b7",
         "title": "Retail Operations Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -455205,7 +455205,7 @@
         "company_name": "AriensCo",
         "id": "f6dc8c36-a839-4870-a588-34d019d844f1",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -456387,7 +456387,7 @@
         "company_name": "Uber",
         "id": "f5b78cca-e31c-43ba-834d-d6b26fc8c2e7",
         "title": "PhD Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
