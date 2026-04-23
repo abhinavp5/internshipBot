@@ -440000,7 +440000,7 @@
         "company_name": "Ford Motor Company",
         "id": "aa6e4ffb-8418-4bbb-9110-0fc81e39f1b9",
         "title": "Student Worker Program - Physical Prototypes Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -456019,7 +456019,7 @@
         "company_name": "Uber",
         "id": "8c8eeaf7-fc70-421c-ba95-ec814cf5570a",
         "title": "PhD Software Engineer Intern - Search",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -457302,7 +457302,7 @@
         "company_name": "NBCUniversal",
         "id": "dddcae61-dcb5-491f-95fe-c6fd1920bbcf",
         "title": "Advertising & Partnerships Ad Products Intern - Academic Year",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -461006,6 +461006,29 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cotiviti",
+        "id": "435435da-6685-421a-9d26-adb65a49a8cb",
+        "title": "Intern - AI Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1776933618,
+        "date_posted": 1776204495,
+        "url": "https://careers-cotiviti.icims.com/jobs/18804/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cotiviti",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
