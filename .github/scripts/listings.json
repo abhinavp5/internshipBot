@@ -1,56 +1,5 @@
 [
     {
-        "date_updated": 1756205943,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://www.google.com/about/careers/applications/jobs/results/100216277234000582-research-intern-phd-summer-2026",
-        "company_name": "Google",
-        "title": "Research Intern",
-        "locations": [
-            "Mountain View, CA",
-            "Atlanta, GA",
-            "Austin, TX",
-            "Boulder, CO",
-            "Cambridge, MA",
-            "Bellevue, WA",
-            "Chicago, IL",
-            "Irvine, CA",
-            "Kirkland, WA",
-            "Los Angeles, CA",
-            "Madison, WI",
-            "New York, NY",
-            "Palo Alto, CA",
-            "Portland, OR",
-            "Pittsburgh, PA",
-            "Raleigh, NC",
-            "Durham, NC",
-            "Reston, VA",
-            "Redmond, WA",
-            "Redwood City, CA",
-            "San Diego, CA",
-            "Goleta, CA",
-            "San Bruno, CA",
-            "Seattle, WA",
-            "San Francisco, CA",
-            "San Jose, CA",
-            "Santa Cruz, CA",
-            "Sunnyvale, CA",
-            "Washington D.C., DC"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Other",
-        "source": "AlmondCroffle",
-        "id": "8e09c31b-7067-4eae-b202-495eb2a8878b",
-        "date_posted": 1756205943,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1758245293,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -80925,7 +80874,7 @@
         "company_name": "JP Morgan Chase",
         "id": "09167fcd-e620-4ed6-966f-245c7f4420d1",
         "title": "Machine Learning Summer Associate - Machine Learning Center of Excellence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -387985,9 +387934,9 @@
         ]
     },
     {
-        "date_updated": 1773321275,
+        "date_updated": 1776943643,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -388247,9 +388196,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773323147,
+        "date_updated": 1776943643,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -397641,9 +397590,9 @@
         "degrees": []
     },
     {
-        "date_updated": 1773746818,
+        "date_updated": 1776943643,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -400641,9 +400590,9 @@
         ]
     },
     {
-        "date_updated": 1773845355,
+        "date_updated": 1776943643,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -419244,9 +419193,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1774873990,
+        "date_updated": 1776943643,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -419290,9 +419239,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1774874928,
+        "date_updated": 1776943643,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -432481,9 +432430,9 @@
         ]
     },
     {
-        "date_updated": 1775472043,
+        "date_updated": 1776943643,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -443989,9 +443938,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776069858,
+        "date_updated": 1776943643,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -446425,9 +446374,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776157788,
+        "date_updated": 1776943643,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -450293,9 +450242,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776348303,
+        "date_updated": 1776943643,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -450385,9 +450334,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776348693,
+        "date_updated": 1776943643,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -450477,9 +450426,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776349211,
+        "date_updated": 1776943643,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -454572,7 +454521,7 @@
         "company_name": "Insulet Corporation",
         "id": "a368a6c2-4153-407c-874d-e5e610ffbf7b",
         "title": "Supplier Engineering Co-op - Project Excellence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -454665,7 +454614,7 @@
         "company_name": "Upvest",
         "id": "db8c50e2-fefb-4370-b564-f0449b89ceca",
         "title": "Trainee Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -455241,9 +455190,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776666965,
+        "date_updated": 1776943643,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -455264,9 +455213,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776667051,
+        "date_updated": 1776943643,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -455310,9 +455259,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776667339,
+        "date_updated": 1776943643,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -455334,9 +455283,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776667462,
+        "date_updated": 1776943643,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -460660,7 +460609,7 @@
         "company_name": "Amazon",
         "id": "e3a9f714-561a-45f3-9c22-6873fe4efadd",
         "title": "Applied Science Internships Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
