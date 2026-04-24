@@ -116294,7 +116294,7 @@
         "company_name": "Draper",
         "id": "ebe326e0-f3eb-43db-9b9c-e7b5b020d618",
         "title": "Machine Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -327214,7 +327214,7 @@
         "company_name": "Infleqtion",
         "id": "7ed24aa1-2840-4bf4-aaab-35c92c137ae3",
         "title": "Summer 2026 Quantum Software Internship \u2013 Undergraduate/Graduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -345196,7 +345196,7 @@
         "company_name": "Flagship Pioneering",
         "id": "b929b8d1-55fc-4097-8c9a-b29bdb38256e",
         "title": "Machine Learning Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368313,7 +368313,7 @@
         "company_name": "HRL Laboratories",
         "id": "5e6df323-f49b-48b4-91b3-3e90cf50e0ac",
         "title": "Graph Machine Learning Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -390497,7 +390497,7 @@
         "company_name": "GE Healthcare",
         "id": "895184aa-5171-43c5-ac84-0ee5622a3645",
         "title": "Surgery Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -400332,7 +400332,7 @@
         "company_name": "SanMar",
         "id": "ad7d7c9f-e1a5-47fb-ace7-8970bd67df0a",
         "title": "Marketing Intern - Digital Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -436467,7 +436467,7 @@
         "company_name": "Dover",
         "id": "82134fad-a8cd-4636-953b-c31d08f2b0ec",
         "title": "Engineer \u2013 Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -438416,7 +438416,7 @@
         "company_name": "Dover",
         "id": "5fe19830-a4d1-44bb-ad83-70a5a60858cd",
         "title": "Engineer \u2013 Hardware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439758,7 +439758,7 @@
         "company_name": "Dover",
         "id": "c1c89ac1-ac60-4e37-8436-39602922318c",
         "title": "Engineer \u2013 Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443485,7 +443485,7 @@
         "company_name": "The Walt Disney Company",
         "id": "9baf1525-a130-4441-99c4-9d150c2936e9",
         "title": "ABC News Product Management and Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -455694,7 +455694,7 @@
         "company_name": "BorgWarner",
         "id": "f4efa95d-3e38-44e8-bd95-397248bbcdff",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -458953,7 +458953,7 @@
         "company_name": "Savannah River National Laboratory",
         "id": "dbb176e9-6cbd-4572-b528-893a2189379c",
         "title": "Software Developer ASPIRE Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
