@@ -28057,14 +28057,14 @@
 <td>IT Co-Op</td>
 <td>Columbus, GA</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>2026 Summer-Aflac Corporate Intern</td>
 <td>Columbus, GA</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 </tbody>
 </table>
@@ -72760,7 +72760,7 @@
 <td>IT Apprentice</td>
 <td>Remote in USA<br>Columbus, GA</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 </tbody>
 </table>
