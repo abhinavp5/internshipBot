@@ -1,216 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SNC-Lavalin",
-        "id": "dfba301b-fe87-44ea-98a7-7b0bf5494173",
-        "title": "Software Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756276263,
-        "date_posted": 1756276263,
-        "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/Software-Developer-Intern---Summer-2026_R-136763-1",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/00a7425d-6e2f-482c-a9c4-abfe2f1de9cd",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TikTok",
-        "id": "177690e4-6703-4698-a2bd-350db211f356",
-        "title": "Software Engineer Intern - AI Applications",
-        "active": true,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1761337635,
-        "date_posted": 1756281205,
-        "url": "https://lifeattiktok.com/search/7540823148805032210",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hewlett Packard Enterprise",
-        "id": "9e1e967c-6993-45fc-96fd-a8e49c5ef4b5",
-        "title": "Electrical Hardware Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756364548,
-        "date_posted": 1756280700,
-        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/Electrical-Hardware-Engineering-Intern_1192939",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hewlett Packard Enterprise",
-        "id": "3d0c1885-20b3-426b-8753-3abb9d769a2e",
-        "title": "Hardware Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756364601,
-        "date_posted": 1756280699,
-        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Hardware-Engineering-Intern_1193043",
-        "locations": [
-            "Roseville, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Analog Devices",
-        "id": "ea3f3a87-664c-401e-9eef-aad38ce50998",
-        "title": "Embedded Software Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756365123,
-        "date_posted": 1756280138,
-        "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Embedded-Software-Intern_R255237",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Analog-Devices",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Analog Devices",
-        "id": "cc96e6ea-6422-459f-b404-08632e7bbbd2",
-        "title": "Machine Learning Intern - PhD",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756365667,
-        "date_posted": 1756280135,
-        "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Machine-Learning-Intern--PhD-_R255001",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Analog-Devices",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Analog Devices",
-        "id": "b6b364c9-a0c5-4bbe-9438-54d3ffe18da3",
-        "title": "Algorithm Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756365255,
-        "date_posted": 1756280144,
-        "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Algorithm-Engineer-Intern_R255043",
-        "locations": [
-            "Boston, MA",
-            "San Diego, CA",
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Analog-Devices",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Analog Devices",
-        "id": "660cb5a6-204f-4ccd-ac6a-792504e664ea",
-        "title": "Machine Learning Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756365615,
-        "date_posted": 1756280139,
-        "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Machine-Learning-Intern_R255268",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Analog-Devices",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Analog Devices",
-        "id": "6e3a0d52-d186-41b7-b8f2-60e7fa6a8bef",
-        "title": "Product Engineer Prod Dev Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756364662,
-        "date_posted": 1756280142,
-        "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Product-Engineer-Prod-Dev-Intern_R255239",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Analog-Devices",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1756303141,
         "sponsorship": "Other",
         "active": true,
@@ -163650,7 +163439,7 @@
         "company_name": "Cloudflare",
         "id": "c7e38f43-f5a5-4382-a5c5-5e74f9f75c72",
         "title": "Data Engineer Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -386491,7 +386280,7 @@
         "company_name": "Salesforce",
         "id": "01c91d29-446f-42d7-9443-d6e88f5d0cb6",
         "title": "Intern - AI Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -419123,7 +418912,7 @@
         "company_name": "X Development",
         "id": "b13cef48-3596-4cff-9044-ddb5dfb0853d",
         "title": "PhD Residency - Machine Learning for Waste Characterization",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -424753,7 +424542,7 @@
         "company_name": "Applied Materials",
         "id": "15f6858f-e8d7-4897-9ace-2e9574051dd5",
         "title": "AI Application Engineer for Quantum Development Intern - Masters/PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437930,7 +437719,7 @@
         "company_name": "Toshiba Global Commerce",
         "id": "2eecbbe5-be6c-48e5-874c-42850c183a88",
         "title": "Agentic Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -438725,7 +438514,7 @@
         "company_name": "NVIDIA",
         "id": "a43abe5d-5216-4e83-aba1-d2afc823a8de",
         "title": "Technical Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -450463,7 +450252,7 @@
         "company_name": "PG&E",
         "id": "0b80a0c6-3bc2-4797-8451-1a0dd3b2e2f9",
         "title": "Data Visualization Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450598,7 +450387,7 @@
         "company_name": "Stryker",
         "id": "b290a7ae-d72d-4aa7-b175-70db8ac7fc78",
         "title": "Systems R&D Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -451769,7 +451558,7 @@
         "company_name": "Draper",
         "id": "b12a4678-179a-4a27-8f26-27c0449849e3",
         "title": "Software Modeling \u2013 & Validation Co-op - Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -451953,7 +451742,7 @@
         "company_name": "General Motors",
         "id": "10529106-8f42-4165-814f-149d4a47f89e",
         "title": "Intern - AI/ML Engineer - Cloud and Developer Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -457322,7 +457111,7 @@
         "company_name": "Formlabs",
         "id": "02c91ded-e1c1-4fe2-bbde-f4e04c39e339",
         "title": "Marketing Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -458590,7 +458379,7 @@
         "company_name": "Legrand",
         "id": "990ef33c-969a-45f9-b9f3-674f96b7935d",
         "title": "Engineering Firmware Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -460052,6 +459841,53 @@
         "url": "https://lifeattiktok.com/search/7540823204350527752",
         "locations": [
             "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nutanix",
+        "id": "a21bc663-d021-4a02-9d89-34b384c25c5d",
+        "title": "Software Engineering Intern - Python - SDN",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777010949,
+        "date_posted": 1777010891,
+        "url": "https://jobs.jobvite.com/nutanix/job/oFskyfwJ?nl=1&nl=1&fr=false",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "177690e4-6703-4698-a2bd-350db211f356",
+        "title": "Software Engineer Intern - AI Model Optimization",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1774981081,
+        "date_posted": 1774966426,
+        "url": "https://lifeattiktok.com/search/7540823148805032210",
+        "locations": [
+            "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
         "is_visible": true,
