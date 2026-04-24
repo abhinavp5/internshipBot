@@ -327096,7 +327096,7 @@
         "company_name": "Waters Corporation",
         "id": "ccebdbff-515d-46ee-a2da-25576bb4554f",
         "title": "Intern \u2013 Field Service",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -341596,7 +341596,7 @@
         "company_name": "Entegris",
         "id": "d9cffbc6-56bb-46cf-8d9a-5a2345d72d8a",
         "title": "Product Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -375608,7 +375608,7 @@
         "company_name": "Sigma Computing",
         "id": "74805694-28f2-4ad0-af32-993f67f6b13f",
         "title": "AI/ML PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391123,7 +391123,7 @@
         "company_name": "Tenstorrent",
         "id": "a02ffae4-632a-461b-91f5-3b8e276e7933",
         "title": "RTL Design Intern - CPU Hardware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -406378,7 +406378,7 @@
         "company_name": "KBR",
         "id": "694e0422-fbc0-4017-869d-16a41c1bcfd4",
         "title": "National Security Solutions Cyber Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -425267,7 +425267,7 @@
         "company_name": "Gentex Corporation",
         "id": "a32e899c-4373-4704-84e2-a5787e163381",
         "title": "Corporate Forecasting Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -429277,7 +429277,7 @@
         "company_name": "WSP",
         "id": "4be32e7a-026f-4c69-a80c-fded682e60cc",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -438533,7 +438533,7 @@
         "company_name": "Dover",
         "id": "526f52da-ea5b-4712-abb6-3293a4a09fdb",
         "title": "Engineer \u2013 Hardware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439106,7 +439106,7 @@
         "company_name": "Dover",
         "id": "7f3f02d3-714b-4208-9613-96492567e48e",
         "title": "Software Engineer - Embedded Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439779,7 +439779,7 @@
         "company_name": "Dover",
         "id": "b3e4302a-a5b5-4c4b-b685-7b1fc8d137c0",
         "title": "Engineer \u2013 Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439800,7 +439800,7 @@
         "company_name": "Dover",
         "id": "67222ead-872c-45a8-94bc-08aa9adb832c",
         "title": "Engineer \u2013 Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -441213,7 +441213,7 @@
         "company_name": "Dover",
         "id": "d41a19a9-8fb4-43be-9213-e95e9b2e5260",
         "title": "Engineer \u2013 Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443415,7 +443415,7 @@
         "company_name": "Leidos",
         "id": "5aed4a7a-1b28-4ef1-8fd1-a2ac47322e0b",
         "title": "Data Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -443724,7 +443724,7 @@
         "company_name": "The Walt Disney Company",
         "id": "966fe07a-96cf-4f67-a917-18ec647c7afe",
         "title": "ABC News Product Management and Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -457591,7 +457591,7 @@
         "company_name": "Oleria Security",
         "id": "7f7c99e3-ae8f-4c6c-80b6-fdc956cd2074",
         "title": "ML / AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -458742,7 +458742,7 @@
         "company_name": "Microchip Technology",
         "id": "cfcb8a5b-9e88-4440-bc4b-a3cad5b85c9b",
         "title": "Engineering Intern - Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
