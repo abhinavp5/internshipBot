@@ -1,259 +1,5 @@
 [
     {
-        "date_updated": 1756303141,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://www.janestreet.com/join-jane-street/position/8069279002/",
-        "company_name": "Jane Street",
-        "title": "Cybersecurity Analyst Intern",
-        "locations": [
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "XaJason",
-        "id": "616577bd-b756-4c8f-92e9-85ec46c6ee7a",
-        "date_posted": 1756303141,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1757728201,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.careers.microsoft.com/global/en/job/1864360/Data-Engineer-Intern:-Internship-Opportunities---Redmond?fbclid=PAZXh0bgNhZW0CMTEAAach0SNotdoUUi2mxRR7ZqIb6z8PKKf2L0NiKky_vQ3mrN2NRN7ZOiD0zIhKrw_aem_8zutlHGTayeEIhsbsSXWJw",
-        "company_name": "Microsoft",
-        "title": "Data Engineer Intern",
-        "locations": [
-            "Redmond, Washington"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "XaJason",
-        "id": "ccbac61c-62e4-4387-9467-1479a883e075",
-        "date_posted": 1756303207,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1756303281,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.ashbyhq.com/abridge/5a73a97b-d2c4-4cf3-8fce-081b3cb92a3b",
-        "company_name": "Abridge",
-        "title": "Full Stack Engineering Intern",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "XaJason",
-        "id": "d1eb948a-e3bc-4664-85d9-0472821618ca",
-        "date_posted": 1756303281,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1757564549,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers.zebra.com/careers/job/343627780597",
-        "company_name": "Zebra",
-        "title": "AVS Mobile Software Engineer",
-        "locations": [
-            "Lincolnshire, IL"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "29cd8dba-9004-45a7-b2bf-5f5b976de78b",
-        "date_posted": 1756303320,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1761337713,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://www.pepsicojobs.com/main/jobs/392034?lang=en-us",
-        "company_name": "PepsiCo",
-        "title": "Technology Software Development & Engineering Intern",
-        "locations": [
-            "Plano, TX",
-            "Purchase, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "dd8db7a7-1905-4fac-a810-4c32bb3d293e",
-        "date_posted": 1756303359,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1757543561,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6867897",
-        "company_name": "Nuro",
-        "title": "Software Engineer, Performance - Intern",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "6d6d280e-231b-4d32-8a5c-6ed62e6a8dce",
-        "date_posted": 1756303382,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1756303403,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6562194",
-        "company_name": "Nuro",
-        "title": "Mapping & Localization, Software Engineering Intern",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "91a80164-25d6-4d7e-ac9c-7e2340872abe",
-        "date_posted": 1756303403,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1758835786,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7169069",
-        "company_name": "Nuro",
-        "title": "Systems Engineering Intern, Scenario Taxonomy",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "d04060a8-4131-4a9b-8c4a-e0551690708f",
-        "date_posted": 1756303435,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1756304916,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.spectrum.com/job/maryland-heights/2026-summer-intern-associate-dev-ops-engineer/4673/85430606768",
-        "company_name": "Spectrum",
-        "title": "Associate Dev Ops Engineer",
-        "locations": [
-            "Maryland Heights, MO"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "db2c974d-070d-4386-8a56-a71675a948e2",
-        "date_posted": 1756304817,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1756304979,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.spectrum.com/job/charlotte/2026-summer-intern-associate-dev-ops-engineer/4673/85279001840",
-        "company_name": "Spectrum",
-        "title": "Associate Dev Ops Engineer",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "27fc1d0f-5167-44cb-b707-9e65b497fc70",
-        "date_posted": 1756304979,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1756305021,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.spectrum.com/job/maryland-heights/2026-summer-intern-associate-software-developer/4673/85449990864",
-        "company_name": "Spectrum",
-        "title": "Associate Software Developer",
-        "locations": [
-            "Maryland Heights, MO"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "54828c78-cc17-49f7-ae09-7da6d1f33042",
-        "date_posted": 1756305021,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1756305299,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -1700,30 +1446,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nokia",
-        "id": "1c611599-db48-4b8d-afc2-a9acbfe97232",
-        "title": "Research Co-op",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1756304909,
-        "date_posted": 1756304909,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23890",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Cohesity",
         "id": "9253c72e-698b-4eef-b8af-13eed367d1c8",
@@ -2009,32 +1731,6 @@
     {
         "source": "Simplify",
         "category": "Other",
-        "company_name": "Navy Federal",
-        "id": "3e89f693-7e89-49a5-aca1-b59458255a96",
-        "title": "Intern \u2013 Year Round - Desktop Support",
-        "active": false,
-        "terms": [
-            "Winter 2025",
-            "Spring 2025",
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1756303023,
-        "date_posted": 1756303023,
-        "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/26659",
-        "locations": [
-            "Pensacola, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Navy-Federal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
         "company_name": "Leidos",
         "id": "17e73055-56c6-4dcb-acce-4e8a54097aca",
         "title": "Computer/Electrical/IT Engineering Intern",
@@ -2121,30 +1817,6 @@
             "Rochester, MN"
         ],
         "company_url": "https://simplify.jobs/c/Hormel-Foods",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Nokia",
-        "id": "a064c121-6d4b-4762-971f-f401dedcf2ed",
-        "title": "IT Network Development \u2013 Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1756304912,
-        "date_posted": 1756304912,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24008",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -50747,7 +50419,7 @@
         "company_name": "Chainlink Labs",
         "id": "25fc66da-f7d2-4a82-b918-c0645c1eb9db",
         "title": "Research Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -159171,27 +158843,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "WTW",
-        "id": "1e103e62-d623-4bec-bd24-8db0283dc152",
-        "title": "Early Careers: National Processing Group Internship - Memphis - 2026",
-        "active": false,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1761266633,
-        "date_posted": 1756303729,
-        "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202506248",
-        "locations": [
-            "Memphis, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/WTW",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "HNTB",
         "id": "36d37c26-0477-4ff4-af3d-fba066754a56",
         "title": "Returning Technology Intern-Summer 2026 \u2013 Great Lakes Division-For Current/Former HNTB Interns Only",
@@ -164600,7 +164251,7 @@
         "company_name": "Analog Devices",
         "id": "ad46e6b7-802c-482b-9c03-83efde04eea7",
         "title": "Design Verification Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -173192,7 +172843,7 @@
         "company_name": "Tenstorrent",
         "id": "f1832834-484f-42b6-b760-3de788093f08",
         "title": "Intern Scaleout Software - Fabric",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -218496,7 +218147,7 @@
         "company_name": "General Motors",
         "id": "bdfb09a4-e0ed-4b1e-9221-bdc0508da599",
         "title": "Intern - AI/ML Software Engineer - Master's",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -218518,7 +218169,7 @@
         "company_name": "General Motors",
         "id": "4983bc36-345d-49ee-ad79-7c92c9e7a0c8",
         "title": "Intern - Autonomous Driving - Simulation Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -218677,7 +218328,7 @@
         "company_name": "General Motors",
         "id": "000848a2-c7a7-49f1-af93-0068bd5e68d3",
         "title": "2026 Summer Intern - AI/ML Software Engineer - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -407960,7 +407611,7 @@
         "company_name": "Legal & General",
         "id": "b847b777-849b-4d09-a54f-f808e130c281",
         "title": "Intern - Onetech Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -458493,7 +458144,7 @@
         "company_name": "Manulife Financial",
         "id": "0ef30b77-f85a-41e9-a1e7-3c5eb81496eb",
         "title": "Data Science Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -458701,7 +458352,7 @@
         "company_name": "HARMAN International",
         "id": "ee94c5cb-b1ce-4605-be03-fbac58a8e914",
         "title": "Intern - Cpm",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -458770,7 +458421,7 @@
         "company_name": "United Wholesale Mortgage",
         "id": "a42dcbc0-164a-4b6c-9de8-f5a3dcbd294d",
         "title": "Masters Generative AI Intern Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -459935,6 +459586,75 @@
             "Manassas, VA"
         ],
         "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Stifel",
+        "id": "22115bc7-24f2-41c3-bde2-365c65e14eb0",
+        "title": "Data Analyst Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777039561,
+        "date_posted": 1777039502,
+        "url": "https://careers-stifel.icims.com/jobs/9137/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Stifel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Savannah River National Laboratory",
+        "id": "dbb176e9-6cbd-4572-b528-893a2189379c",
+        "title": "Software Developer ASPIRE Undergraduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777039741,
+        "date_posted": 1777039591,
+        "url": "https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2048",
+        "locations": [
+            "North Augusta, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Savannah-River-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "37e2d03b-a044-4334-bab9-9949fc0d4015",
+        "title": "Vehicle Test Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777039741,
+        "date_posted": 1777039605,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000122679019",
+        "locations": [
+            "Plymouth, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
