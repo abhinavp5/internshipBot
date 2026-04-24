@@ -1,246 +1,5 @@
 [
     {
-        "date_updated": 1756312000,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Firmware-Engineering-Intern_JR9249",
-        "company_name": "Generac",
-        "title": "Firmware Engineering Intern",
-        "locations": [
-            "Waukesha, WI"
-        ],
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Fall 2025",
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "da1f2c2b-c2ed-48f9-b0b6-9011e3365dbd",
-        "date_posted": 1756312000,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Grant Thornton",
-        "id": "84f20555-6220-48a2-b688-70e26ee47fce",
-        "title": "Cybersecurity and Privacy Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756313921,
-        "date_posted": 1756313921,
-        "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/112913",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Grant-Thornton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "JD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Grant Thornton",
-        "id": "74bbaa18-d8ab-4b6c-bc23-667bf1fff73f",
-        "title": "Cybersecurity and Privacy Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756313926,
-        "date_posted": 1756313926,
-        "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/112852",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Grant-Thornton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "JD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Grant Thornton",
-        "id": "43059adf-8ba5-420b-8809-29d3a211ecfc",
-        "title": "Cybersecurity and Privacy Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756313923,
-        "date_posted": 1756313923,
-        "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/112955",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Grant-Thornton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Securian Financial Group",
-        "id": "dedcb1aa-d93d-475a-9797-94a5bcfd493f",
-        "title": "Engineering Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756312157,
-        "date_posted": 1756312157,
-        "url": "https://hq.wd12.myworkdayjobs.com/Securian_External/job/Saint-Paul-MN-Campus/Engineering-Analyst-Intern--Hybrid-_R-010131",
-        "locations": [
-            "St Paul, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Securian-Financial-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "MKS Instruments",
-        "id": "d12ae003-3558-4103-935f-ed7aaac8a22b",
-        "title": "IT BA/Data Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756311751,
-        "date_posted": 1756311751,
-        "url": "https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/Andover-MA/XMLNAME-2026-Summer-IT-BA-Data-Intern_R14779",
-        "locations": [
-            "Andover, MA",
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/07d9f7f0-9f1a-4ecb-9346-f3ac39d905f2",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Aflac",
-        "id": "75be6c03-a75f-49a7-bd67-095493d7a6e2",
-        "title": "2026 Digital Services Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1756310779,
-        "date_posted": 1756310779,
-        "url": "https://careers.aflac.com/job/2026-Digital-Services-Intern-GA-31999/1320691100/?ats=successfactors",
-        "locations": [
-            "Columbus, GA",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Aflac",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Aflac",
-        "id": "591abff1-9929-4c74-8f92-fabb0bdee9bb",
-        "title": "IT Apprentice",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756365508,
-        "date_posted": 1756310789,
-        "url": "https://careers.aflac.com/job/Remote-2026-IT-Apprentice-31999/1081339400/?ats=successfactors",
-        "locations": [
-            "Remote in USA",
-            "Columbus, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Aflac",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Aflac",
-        "id": "1f0108cd-df97-4684-9647-5e61b7cedc8d",
-        "title": "IT Co-Op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756364297,
-        "date_posted": 1756310781,
-        "url": "https://careers.aflac.com/job/IT-Co-Op-GA/1320692000/?ats=successfactors",
-        "locations": [
-            "Columbus, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Aflac",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Aflac",
-        "id": "16d1b979-76db-48cb-9a2f-2dca8dad154b",
-        "title": "2026 Summer-Aflac Corporate Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756310776,
-        "date_posted": 1756310776,
-        "url": "https://careers.aflac.com/job/2026-Summer-Aflac-Corporate-Intern-GA/1320690100/?ats=successfactors",
-        "locations": [
-            "Columbus, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Aflac",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Royal Bank of Canada",
@@ -1435,48 +1194,6 @@
             "Canada"
         ],
         "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Geico",
-        "id": "164f9aae-acb5-4256-8bf0-cd65ba76ab86",
-        "title": "TDP Software Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756313336,
-        "date_posted": 1756313336,
-        "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/Chevy-Chase-MD/TDP-Software-Intern_R0059640",
-        "locations": [
-            "Springfield, VA",
-            "Indianapolis, IN",
-            "Cheektowaga, NY",
-            "Lakeland, FL",
-            "Coralville, IA",
-            "Fredericksburg, VA",
-            "Virginia Beach, VA",
-            "Woodbury, NY",
-            "Tukwila, WA",
-            "Mt Laurel Township, NJ",
-            "Macon, GA",
-            "Lenexa, KS",
-            "Jacksonville, FL",
-            "Sorrento Valley, San Diego, CA",
-            "Richardson, TX",
-            "Tucson, AZ",
-            "Katy, TX",
-            "Anchorage, AK",
-            "Bethesda, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Geico",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -395811,7 +395528,7 @@
         "company_name": "Ryder System",
         "id": "3a05ac30-fadb-4547-a53f-f58bcd91d16d",
         "title": "Intern \u2013 Application Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -424748,7 +424465,7 @@
         "company_name": "Primerica",
         "id": "83d31ca5-416a-4db1-8e9e-618f6b8dde0d",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -425592,7 +425309,7 @@
         "company_name": "Efficient Computer",
         "id": "3ac480a1-6aaf-4967-afd9-a81b34ba0818",
         "title": "Intern \u2013 Embedded Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -433006,7 +432723,7 @@
         "company_name": "Pennsylvania State University",
         "id": "cb53c361-84df-4441-a355-a280a1167fa4",
         "title": "Part-time Research Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -458536,7 +458253,7 @@
         "company_name": "Baxter International",
         "id": "89e2d83f-a21f-4df4-b8c0-e3302e317233",
         "title": "R&D Intern - Hardware & Cyber Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -458696,7 +458413,7 @@
         "company_name": "NXP Semiconductors",
         "id": "ae9959fe-91f0-44d4-b7c4-4948d03b55d7",
         "title": "Applications Engineering Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
