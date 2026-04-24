@@ -142645,7 +142645,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "97f0e4c1-6281-4a57-a4c1-92bbefb829b8",
         "title": "Relationship Manager \u2013 Business Markets Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -164600,7 +164600,7 @@
         "company_name": "Analog Devices",
         "id": "ad46e6b7-802c-482b-9c03-83efde04eea7",
         "title": "Design Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -234087,7 +234087,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Nutanix",
-        "id": "b0100e7e-c9a3-4daa-ac98-1d7a8f5091c0",
+        "id": "4517181b-c420-4514-a0df-1059ec52b260",
         "title": "Software Engineering Intern - Undergrad ONLY - Distributed systems",
         "active": true,
         "terms": [
@@ -449815,7 +449815,7 @@
         "company_name": "Baker Hughes",
         "id": "3edc6776-1c45-4d0a-a025-79a47742bb18",
         "title": "Emerging Talent-Testing Apprentice Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
