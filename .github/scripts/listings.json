@@ -206712,7 +206712,7 @@
         "company_name": "Cisco",
         "id": "7462efbc-f039-4632-a600-7230c301607d",
         "title": "Software Engineer Full Stack & Application Development 1 \u2013 Intern - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -386280,7 +386280,7 @@
         "company_name": "Salesforce",
         "id": "01c91d29-446f-42d7-9443-d6e88f5d0cb6",
         "title": "Intern - AI Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -423862,7 +423862,7 @@
         "company_name": "Oregon State Government",
         "id": "fc09641e-cac8-4e2a-830d-c509e3eaf75b",
         "title": "Research Intern - Student Professional/Technical Worker",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437719,7 +437719,7 @@
         "company_name": "Toshiba Global Commerce",
         "id": "2eecbbe5-be6c-48e5-874c-42850c183a88",
         "title": "Agentic Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -446411,7 +446411,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "44068537-7f22-4dc4-a81b-3927ed77443f",
         "title": "Wealth Management \u2013 Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -447107,7 +447107,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "46095ac3-0393-4b73-bc70-48a92493f2e9",
         "title": "Wealth Management Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -451558,7 +451558,7 @@
         "company_name": "Draper",
         "id": "b12a4678-179a-4a27-8f26-27c0449849e3",
         "title": "Software Modeling \u2013 & Validation Co-op - Analysis",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -451742,7 +451742,7 @@
         "company_name": "General Motors",
         "id": "10529106-8f42-4165-814f-149d4a47f89e",
         "title": "Intern - AI/ML Engineer - Cloud and Developer Infrastructure",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -457417,7 +457417,7 @@
         "company_name": "McGill University",
         "id": "8594aa65-77c7-4d39-b249-231567af74e1",
         "title": "Research Assistant Intern - Prof. Dubois",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -459895,6 +459895,50 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Mackenzie Investments",
+        "id": "3135e472-53f3-4bbd-8f08-dc2d0ca0ca6c",
+        "title": "Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777019081,
+        "date_posted": 1774534245,
+        "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5832/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mackenzie-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "083a1f26-6eec-4817-8d05-0a60a4b79b83",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777017961,
+        "date_posted": 1776953363,
+        "url": "https://careers-gdms.icims.com/jobs/72226/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
