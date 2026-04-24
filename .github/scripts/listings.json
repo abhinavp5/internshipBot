@@ -59568,7 +59568,7 @@
         "company_name": "Cencora",
         "id": "ff4e0342-8f11-4860-a804-c5d127c024d4",
         "title": "AI/ML Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -129754,36 +129754,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Marsh",
-        "id": "089448a5-497c-4f82-a05b-18a204113c89",
-        "title": "NERA Summer Internship \u2013 Summer 2027 Grads - Multiple Locations",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761254139,
-        "date_posted": 1756275042,
-        "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/NERA-Summer-Internship--Summer-2027-Grads---Multiple-Locations-_R_320669-1",
-        "locations": [
-            "Boston, MA",
-            "Washington, DC",
-            "SF",
-            "Chicago, IL",
-            "NYC",
-            "White Plains, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/55341c12-8fd6-4cce-8472-d15c4a3ab583",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA"
         ]
     },
     {
@@ -357224,7 +357194,7 @@
         "company_name": "Pitney Bowes",
         "id": "2ef60845-5f6d-4c6f-8515-113cac5689e4",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -430650,7 +430620,7 @@
         "company_name": "State Street",
         "id": "79df159a-9a93-4a85-aa72-655840ce307e",
         "title": "Software Engineer Intern - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -437081,7 +437051,7 @@
         "company_name": "Phillips 66",
         "id": "376d8d7e-b706-43b6-b8a5-a4934525a5d4",
         "title": "Process Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -438660,7 +438630,7 @@
         "company_name": "Dow Chemical Company",
         "id": "0a43443f-23c7-466a-a9ef-0c30690a2e00",
         "title": "Co-op Computer Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -440163,7 +440133,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "08a9e07e-aefd-4a44-b4bd-bae40a824279",
         "title": "Relationship Manager Business Markets Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443166,7 +443136,7 @@
         "company_name": "American Century Investments",
         "id": "b0b68c9d-5842-4388-98f4-fedb0a8ae9eb",
         "title": "AI/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -447650,7 +447620,7 @@
         "company_name": "Thales",
         "id": "4742d99b-fff1-403b-a8c1-1e186798331a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -451365,7 +451335,7 @@
         "company_name": "Johnson & Johnson",
         "id": "fc0a87dd-e039-4453-b4b4-5c2d04b742d8",
         "title": "Hip/Knee R&D Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -455644,7 +455614,7 @@
         "company_name": "Nutanix",
         "id": "fff5b4f8-848e-4981-8659-549614a7adfe",
         "title": "Software Engineering Intern - C++/Linux/Distributed Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -458620,7 +458590,7 @@
         "company_name": "Legrand",
         "id": "990ef33c-969a-45f9-b9f3-674f96b7935d",
         "title": "Engineering Firmware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
