@@ -610,21 +610,21 @@
 <td>Software Engineer Intern</td>
 <td>Irvine, CA</td>
 <td>🔒</td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong>Enterprise Mobility</strong></td>
 <td>Intern - Software Engineer (Fleet IT) 🛂</td>
 <td>St. Louis, MO</td>
 <td>🔒</td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong>Berkley Technology Services</strong></td>
 <td>Cloud Team Intern 🛂</td>
 <td>Wilmington, DE</td>
 <td>🔒</td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Zscaler?utm_source=GHList&utm_medium=company">Zscaler</a></strong></td>
@@ -750,21 +750,21 @@
 <td>Intern, Software Developer</td>
 <td>Nashville, TN</td>
 <td>🔒</td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong>Arrow International</strong></td>
 <td>Software Engineer Intern</td>
 <td>Las Vegas, NV</td>
 <td>🔒</td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong>System Automation</strong></td>
 <td>Software Engineer Intern 🛂</td>
 <td>Remote in US</td>
 <td>🔒</td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong>Leonardo DRS</strong></td>
@@ -18677,7 +18677,7 @@
 <td>2026 Summer Intern - MS/PhD - ML Architecture - Software Engineer 🎓</td>
 <td>Mountain View, CA</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong>Credit Karma</strong></td>
@@ -33328,7 +33328,7 @@
 <td>Product Management Intern</td>
 <td>Richardson, TX</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/American-Express?utm_source=GHList&utm_medium=company">American Express</a></strong></td>
@@ -52771,7 +52771,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Roche?utm_source=GHList&utm_medium=company">Roche</a></strong></td>
 <td>Intern - Technical Specialist 🎓</td>
 <td>Mississauga, ON, Canada</td>
 <td>🔒</td>

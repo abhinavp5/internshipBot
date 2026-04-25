@@ -949,7 +949,7 @@
 <td>Frontend Engineering Intern (UI/UX Focus)</td>
 <td>Durham, NC</td>
 <td><div align="center"><a href="https://apply.workable.com/enfos-inc/j/7364AA5599/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong>Advanced Space</strong></td>
@@ -998,21 +998,21 @@
 <td>Technical Intern, Compiler Software 🎓</td>
 <td>Santa Clara, CA</td>
 <td><div align="center"><a href="https://careers.amperecomputing.com/jobs/17398918-technical-intern-compiler-software?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/b5474c30-ac69-40c8-8387-51dcf3675b12?utm_source=GHList&utm_medium=company">Hyundai Motor Company</a></strong></td>
 <td>Infotainment Software Engineering Intern 🛂</td>
 <td>Superior Charter Township, MI</td>
 <td><div align="center"><a href="https://careers-americas.hyundai.com/hatci/job/Superior-Charter-Township-Infotainment-Software-Engineering-Intern-%28Internship-Summer-2026%29-MI-48198/1335957800?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong>Sandhills Global</strong></td>
 <td>Software Development Intern</td>
 <td>Lincoln, NE</td>
 <td><div align="center"><a href="https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1195/software-development-intern?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong>JB&B</strong></td>
