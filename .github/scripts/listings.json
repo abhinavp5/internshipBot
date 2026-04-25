@@ -1,54 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Dimensional Fund Advisors",
-        "id": "df1bcd6e-c482-435e-9017-e93d5c7a7b96",
-        "title": "Internship in Technology: Engineering - Undergraduate and Master's",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756419273,
-        "date_posted": 1756419273,
-        "url": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Technology--Engineering--Undergraduate-and-Master-s-_2025-8523",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/3d361434-7ac4-4284-b2ef-078b0bc92808",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Micron Technology",
-        "id": "a83dde6b-9206-4ae7-8f59-5e267689f60c",
-        "title": "Intern \u2013 TPG Global IE",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1756419084,
-        "date_posted": 1756419084,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---TPG-Global-IE_JR81912",
-        "locations": [
-            "Boise, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Anheuser-Busch",
         "id": "044b97ad-ef32-48d4-b057-a1321529351e",
