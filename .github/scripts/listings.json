@@ -1,55 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Medline",
-        "id": "b8917d4a-982e-4ea6-a2d6-31febba2a9a0",
-        "title": "Product Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756404253,
-        "date_posted": 1756404253,
-        "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/Product-Management-Intern---Summer-2026_R2512939",
-        "locations": [
-            "Northbrook, IL",
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Silicon Laboratories",
-        "id": "857a04e4-41c5-427e-9270-c3dd2ed27e8f",
-        "title": "Design Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1756405030,
-        "date_posted": 1756405030,
-        "url": "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Design-Engineering-Intern_20546-1",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Silicon-Laboratories",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Dimensional Fund Advisors",
         "id": "df1bcd6e-c482-435e-9017-e93d5c7a7b96",
