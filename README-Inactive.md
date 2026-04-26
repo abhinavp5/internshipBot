@@ -32722,7 +32722,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
+<td>↳</td>
 <td>Product Manager Intern - Tiktok Shop Seller Risk/Performance Score Product</td>
 <td>Seattle, WA</td>
 <td>🔒</td>
@@ -74681,7 +74681,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/PIMCO?utm_source=GHList&utm_medium=company">PIMCO</a></strong></td>
+<td>↳</td>
 <td>PhD Summer Intern - Portfolio Management - Quantitative Research Analyst 🎓</td>
 <td>Newport Beach, CA</td>
 <td>🔒</td>
