@@ -1,51 +1,5 @@
 [
     {
-        "date_updated": 1756494120,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers.qorvo.com/job/Apopka-Software-Engineering-Intern-FL-32703/1321433600/",
-        "company_name": "Qorvo",
-        "title": "Software Engineering Intern",
-        "locations": [
-            "Apopka, FL"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "8105e173-03e7-48d1-9607-5c9683e00a2d",
-        "date_posted": 1756494120,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1756494138,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers.qorvo.com/job/Richardson-Software-Engineering-Intern-TX-75081/1321539500/",
-        "company_name": "Qorvo",
-        "title": "Software Engineering Intern",
-        "locations": [
-            "Richardson, TX"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "3eed9960-0ee0-47a2-98e9-0a12350bcd06",
-        "date_posted": 1756494138,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1756498599,
         "sponsorship": "Other",
         "active": true,
