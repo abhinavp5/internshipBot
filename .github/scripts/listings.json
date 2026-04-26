@@ -1,53 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "NiSource",
-        "id": "c5a19a8e-cbb1-40b9-ba38-387741e076d3",
-        "title": "Intern IT-Cybersecurity",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1756451427,
-        "date_posted": 1756451427,
-        "url": "https://nisource.wd1.myworkdayjobs.com/NiSource/job/Columbus-OH---155-Nationwide/Intern-IT--Cybersecurity_R00940542",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/NiSource",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GeoComply",
-        "id": "a08b57dc-77a5-4695-a2b6-d5e7d93f4b6b",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1756452855,
-        "date_posted": 1756452855,
-        "url": "https://jobs.lever.co/geocomply-2/0e5f97b7-e32f-469d-90a8-231a9e0d036f/apply",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/GeoComply",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1756457827,
         "sponsorship": "Other",
         "active": true,
