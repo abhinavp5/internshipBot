@@ -1,82 +1,5 @@
 [
     {
-        "date_updated": 1756479946,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/New-York-New-York-United-States-of-America/XMLNAME-2026-Capital-Markets--Global-Markets-Quantitative-Trading-Summer-Analyst_R-0000101066-1",
-        "company_name": "Royal Bank of Canada",
-        "title": "Global Markets Quantitative Trading",
-        "locations": [
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2025",
-            "Summer 2026"
-        ],
-        "category": "Quantitative Finance",
-        "source": "AlmondCroffle",
-        "id": "28b6bd55-4e8d-416f-8a7d-41298ce429e5",
-        "date_posted": 1756479946,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1756480810,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/Chicago-River-Point/Associate--Quantitative---Data-Analytics_R20984",
-        "company_name": "Allstate",
-        "title": "Associate, Quantitative & Data Analytics",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Fall 2025",
-            "Summer 2026"
-        ],
-        "category": "Quantitative Finance",
-        "source": "AlmondCroffle",
-        "id": "c2e80d32-032c-4170-b600-4acdd920ac0c",
-        "date_posted": 1756480810,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Qorvo",
-        "id": "ae3d734d-d809-44e3-91e3-f4efbfa1f688",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025",
-            "Spring 2025",
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1756481412,
-        "date_posted": 1756481412,
-        "url": "https://careers.qorvo.com/job/Apopka-Software-Engineering-Intern-FL-32703/1321433600/?ats=successfactors",
-        "locations": [
-            "Apopka, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Qorvo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "CACI",
@@ -332,39 +255,6 @@
         "degrees": [
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Booz Allen",
-        "id": "c007327d-d3cc-426d-9772-317fb5167d97",
-        "title": "University \u2013 Software Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756480613,
-        "date_posted": 1756480613,
-        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2026-Summer-Games-Software-Developer-Intern_R0225356",
-        "locations": [
-            "Honolulu, HI",
-            "Annapolis Junction, MD",
-            "Colorado Springs, CO",
-            "McLean, VA",
-            "Rome, NY",
-            "Panama City, FL",
-            "Charleston, SC",
-            "Atlanta, GA",
-            "Huntsville, AL",
-            "San Diego, CA",
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Booz-Allen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
