@@ -1,30 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "CACI",
-        "id": "04bdcb46-76de-40ed-be2e-dd10a0779a98",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756482971,
-        "date_posted": 1756482971,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-TX-Austin/Software-Engineer-Intern---Summer-2026_316653",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Red Hat",
         "id": "b4f7e797-0aa3-4c3c-ae3c-b0b12c7e41e8",
@@ -164191,31 +164167,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "HNTB",
-        "id": "76a46c5d-987d-4a95-a966-6004d9718bf2",
-        "title": "Returning New Grad Part Time Planner I-Summer 2026 \u2013 Central Division-For Current/Former HNTB Inter\u2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762539057,
-        "date_posted": 1756482742,
-        "url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Kansas-City-MO/Returning-New-Grad-Part-Time-Planner-I-Summer-2026--Central-Division--For-Current-Former-HNTB-Interns-Only_R-27253",
-        "locations": [
-            "Kansas City, MO",
-            "Overland Park, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/HNTB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "date_updated": 1762555258,
