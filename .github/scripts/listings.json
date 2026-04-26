@@ -1,51 +1,5 @@
 [
     {
-        "date_updated": 1756476765,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers.garmin.com/jobs/16829?lang=en-us",
-        "company_name": "Garmin",
-        "title": "Software Engineer Intern - Web/DevOps",
-        "locations": [
-            "Olathe, KS"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "44d444bf-11d3-4b4a-aa29-f64c2f7e61b7",
-        "date_posted": 1756476765,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1756476829,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers.garmin.com/jobs/16828/job",
-        "company_name": "Garmin",
-        "title": "Software Engineer Intern - Embedded",
-        "locations": [
-            "Olathe, KS"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "5972f773-e641-4768-a227-78a019063f75",
-        "date_posted": 1756476829,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1756479946,
         "sponsorship": "Other",
         "active": true,
