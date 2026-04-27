@@ -270002,7 +270002,7 @@
         "company_name": "Copeland",
         "id": "eee694f2-b9a9-4348-b317-953f373fff7b",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -310269,7 +310269,7 @@
         "company_name": "ZOLL Medical Corporation",
         "id": "e63c440b-587a-489b-9689-a222ac968a6b",
         "title": "Test Development Engineer Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -350729,7 +350729,7 @@
         "company_name": "Motional",
         "id": "12998f59-86ae-4bb6-a6fe-0aed84eedd9b",
         "title": "Intern \u2013 Research Engineering Intern - PhD - Generative Simulation Validation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -381982,7 +381982,7 @@
         "company_name": "Amentum",
         "id": "9160c875-19f5-4fb0-a6aa-062d76b9cb73",
         "title": "Engineering Data Tools Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -401739,7 +401739,7 @@
         "company_name": "GE Healthcare",
         "id": "75935d36-9e6c-4d4c-ae1c-2410ab6043ef",
         "title": "Field Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -411203,7 +411203,7 @@
         "company_name": "Solenis",
         "id": "6252672a-b599-4b72-80ea-70eac36db79b",
         "title": "Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -434173,7 +434173,7 @@
         "company_name": "KLA",
         "id": "8f3014a5-ba80-4fc3-ae56-54b97e21bca3",
         "title": "System Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -445835,7 +445835,7 @@
         "company_name": "Moog ",
         "id": "5eb69bc5-1634-430b-adc2-3c65cc0280b5",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450336,7 +450336,7 @@
         "company_name": "Leidos",
         "id": "a2c3079a-3cbd-4305-b93a-9262b0af5bc0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -451219,7 +451219,7 @@
         "company_name": "Hello Fresh",
         "id": "03a7e59e-6d1e-41ee-9a3f-8e59e59dee6a",
         "title": "AI Operations & Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -452604,7 +452604,7 @@
         "company_name": "ICF International",
         "id": "13a5b7ce-b277-4cec-a1ab-2890192ed3be",
         "title": "Intern - Appian Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453834,6 +453834,258 @@
             "Ontario, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Anthropic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Magna",
+        "id": "c028a8b9-94b1-413e-8119-37e4aa83f76e",
+        "title": "Engineering ADAS Perception Features Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777299404,
+        "date_posted": 1777298833,
+        "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering_R00235419",
+        "locations": [
+            "Auburn Hills, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Magna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Teledyne",
+        "id": "dcf581d4-bc10-463b-a3bc-b2b0fd2a464e",
+        "title": "Apprentice Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777298989,
+        "date_posted": 1777298911,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/UK---Fareham/Senior-Mobile-Applications-Engineer_REQ29783-1",
+        "locations": [
+            "Whiteley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cognex",
+        "id": "ae9049d7-f777-4bdb-b710-158394798380",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777299325,
+        "date_posted": 1777298814,
+        "url": "https://cognex.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0010384-1",
+        "locations": [
+            "Wauwatosa, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Cognex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shopify",
+        "id": "048d4314-64a9-4be8-aa3d-f1e9801a7c32",
+        "title": "Data and Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777299372,
+        "date_posted": 1777298842,
+        "url": "https://www.shopify.com/careers/data-and-engineering-internships-fall-2026_9b2afa1b-28fa-4ae4-8f69-80ce64059065",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Toronto, ON, Canada",
+            "NYC",
+            "Bellevue, WA",
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Shopify",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capital One",
+        "id": "a18b29f0-cf8b-4fef-8634-fb841e7de064",
+        "title": "Data Analytics Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777299392,
+        "date_posted": 1777298806,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Analytics-Engineering---Fall-2026_R240092-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sallie Mae",
+        "id": "0300486d-c336-4390-997c-84d9e1a90f10",
+        "title": "Human Resources Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777298941,
+        "date_posted": 1777298797,
+        "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Human-Resources-Intern_R25_000846",
+        "locations": [
+            "Newark, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/Sallie-Mae",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Curtiss-Wright Corporation",
+        "id": "3004ea7f-f93e-4af3-bd58-748b8a85387f",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777298941,
+        "date_posted": 1777298810,
+        "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-PA-Newtown-TTC/Engineering-Intern_JR11844",
+        "locations": [
+            "Newtown, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Curtiss-Wright",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capital One",
+        "id": "21f0e3f1-3de0-45b1-a222-c16357f427ee",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777299361,
+        "date_posted": 1777298804,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Fall-2026_R240093-2",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "EquipmentShare",
+        "id": "a5d1db3e-914b-4ea3-ac57-0ac513ebfdad",
+        "title": "Uptime Management Center Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777299807,
+        "date_posted": 1777299545,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7857769",
+        "locations": [
+            "Columbia, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "HERE Technologies",
+        "id": "f4345b5f-1078-4647-87bf-c64a3aff36ca",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777298941,
+        "date_posted": 1777298846,
+        "url": "https://careers-here.icims.com/jobs/81213/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/HERE-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Superbet",
+        "id": "2175e9c1-3d96-4c91-801b-60e12681ea36",
+        "title": "Sports Quantitative Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777299661,
+        "date_posted": 1777299547,
+        "url": "https://job-boards.eu.greenhouse.io/superbet/jobs/4851045101",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Superbet",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
