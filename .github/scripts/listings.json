@@ -2,29 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Qorvo",
-        "id": "0a5aa59d-90ef-400e-b895-c227b6eb7241",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756755171,
-        "date_posted": 1756570301,
-        "url": "https://careers.qorvo.com/job/Greensboro-Data-Science-Intern-NC-27409/1321730800/?ats=successfactors",
-        "locations": [
-            "Greensboro, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Qorvo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Santander Global Facilities (SGF) US - Santander Group",
         "id": "e65f364a-6a15-47df-af94-44260d921e20",
         "title": "Database Administrator Intern",
@@ -97038,7 +97015,7 @@
         "company_name": "Q2",
         "id": "9dff3d0b-e08b-45f1-884f-a943560fded0",
         "title": "Intern/Co-op - Software Engineering - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -317757,7 +317734,7 @@
         "company_name": "Oracle",
         "id": "700f6136-daa2-40bc-8390-c507b365ec92",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -354134,7 +354111,7 @@
         "company_name": "EquipmentShare",
         "id": "9bb8d82f-4608-49dd-8b0b-0cf21b1ba6b7",
         "title": "Intern Uptime Management Center",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368467,7 +368444,7 @@
         "company_name": "Financial Technology Partners",
         "id": "f3523f5e-510a-4459-b695-e3be6e1e8378",
         "title": "Special Executions \u2013 Data Analytics Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397153,7 +397130,7 @@
         "company_name": "University of Virginia",
         "id": "eb8f3c86-1e89-4140-8b0f-06ec150fff3c",
         "title": "Statlab Graduate Associate - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -418318,7 +418295,7 @@
         "company_name": "Cambium Learning Group",
         "id": "dda85c22-0f15-46e8-9178-01a304befc73",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -421302,7 +421279,7 @@
         "company_name": "KLA",
         "id": "fa0a37e6-9b57-4e97-969a-645c75207b01",
         "title": "System Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -428664,7 +428641,7 @@
         "company_name": "KION Group",
         "id": "52d96781-c1fe-49a5-b6dc-6a5f4d23400f",
         "title": "Software Engineer Intern - Software Execution",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -434609,7 +434586,7 @@
         "company_name": "Suncor",
         "id": "10c7b841-1995-4c43-8a1b-289bbb3b7c95",
         "title": "Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -448085,7 +448062,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "abdb8566-5153-416c-9199-20b13ecd5ccc",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -449050,7 +449027,7 @@
         "company_name": "Leidos",
         "id": "c35d1b43-249a-4765-8cf5-ae533ce5aaa6",
         "title": "Internal Audit Data Analytics & Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -449325,7 +449302,7 @@
         "company_name": "Leidos",
         "id": "8153edd6-2a20-4010-bf9d-5b341ee8688c",
         "title": "Data Science / Decision Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -451840,7 +451817,7 @@
         "company_name": "ABB",
         "id": "83d719f1-f8a0-4ee2-92a4-57df7be06b14",
         "title": "R&D Process Optimization Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -452261,7 +452238,7 @@
         "company_name": "Nutanix",
         "id": "a21bc663-d021-4a02-9d89-34b384c25c5d",
         "title": "Software Engineering Intern - Python - SDN",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453073,7 +453050,7 @@
         "company_name": "Microchip Technology",
         "id": "1e16c5c3-6d82-4dce-97cd-23e0970b85c0",
         "title": "Engineering Intern - Business Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -454089,5 +454066,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "1ab2ad5e-4094-4322-83b4-3949a136b9c6",
+        "title": "Field Service Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777277881,
+        "date_posted": 1775772496,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20270449",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
