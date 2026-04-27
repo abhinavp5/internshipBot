@@ -270002,7 +270002,7 @@
         "company_name": "Copeland",
         "id": "eee694f2-b9a9-4348-b317-953f373fff7b",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -407806,7 +407806,7 @@
         "company_name": "American University",
         "id": "2c008acc-002e-4c36-9e12-97d50a1dfaa9",
         "title": "Data Assistant - Student - Federal Work Study",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -424868,7 +424868,7 @@
         "company_name": "SiFive",
         "id": "20b07139-5b6f-4f2a-b807-446f62276e8e",
         "title": "Intern Firesim Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450382,7 +450382,7 @@
         "company_name": "Moog ",
         "id": "93345935-1c6b-40fa-8ed1-64a543cb709d",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453811,6 +453811,29 @@
             "Solihull, UK"
         ],
         "company_url": "https://simplify.jobs/c/Air-Liquide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Anthropic",
+        "id": "e017280c-734c-4023-945e-28d06b72676c",
+        "title": "Anthropic Fellows Program Intern - Economics",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1777269342,
+        "date_posted": 1777010708,
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183053008",
+        "locations": [
+            "London, UK",
+            "SF",
+            "Ontario, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Anthropic",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
