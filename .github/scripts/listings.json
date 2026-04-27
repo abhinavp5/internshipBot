@@ -257808,7 +257808,7 @@
         "company_name": "Air Liquide",
         "id": "0ff6a28b-0c9e-4962-867c-73a635ac4f7a",
         "title": "Modelling & Simulation Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -274629,7 +274629,7 @@
         "company_name": "Boston Consulting Group",
         "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -369807,7 +369807,7 @@
         "company_name": "Cummins",
         "id": "30c97095-a14c-4e0c-a3c0-dc01829a6784",
         "title": "Degree Apprenticeship - Data Scientist Level 6",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376143,7 +376143,7 @@
         "company_name": "Coherent ",
         "id": "366a854b-e9ca-49b6-8c58-b684d8ea6706",
         "title": "Intern \u2013 Computer Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -427480,7 +427480,7 @@
         "company_name": "GE Healthcare",
         "id": "0da4f21e-5ea5-4043-ae33-afe7b0d69088",
         "title": "Surgery Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -434472,7 +434472,7 @@
         "company_name": "Suncor",
         "id": "10bb88c7-60ea-4f3b-8e25-6e329d89c3bd",
         "title": "Data Science Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -439675,7 +439675,7 @@
         "company_name": "Jonas Software",
         "id": "0d51b7a4-7e60-4e70-94e0-f6e86085946c",
         "title": "Jonas Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
