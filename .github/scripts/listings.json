@@ -131303,7 +131303,7 @@
         "company_name": "Vertiv",
         "id": "44458bef-e62c-4bad-b661-11aaa6562462",
         "title": "AI/ Gen AI Engineering Internship - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -253371,7 +253371,7 @@
         "company_name": "Magna",
         "id": "7fee2e1c-75fa-4a35-b42a-2df45b8fcfd4",
         "title": "Student Engineering ADAS Algorithm",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -293441,7 +293441,7 @@
         "company_name": "The Boeing Company",
         "id": "8ead4788-51aa-4c79-a643-2d8494a6c5d8",
         "title": "Simulator Technician Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -307006,7 +307006,7 @@
         "company_name": "Waters Corporation",
         "id": "ee9528df-d016-4155-80ce-08ec12ea5079",
         "title": "Business Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -317480,7 +317480,7 @@
         "company_name": "Tencent",
         "id": "b3b6421c-0ccf-4a43-93a7-44fb9242cb5f",
         "title": "Research Intern - Video World Models",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -317835,7 +317835,7 @@
         "company_name": "Tencent",
         "id": "48b655c4-ecfa-43bf-af3b-a5c0d6ec726f",
         "title": "Research Intern - Video World Models",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -327238,7 +327238,7 @@
         "company_name": "Amazon",
         "id": "2c78d5df-2090-4cba-974c-dbfd42aea222",
         "title": "Data Engineer Internship - UK - Amazon University Talent Acquisition','Auta",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -407042,7 +407042,7 @@
         "company_name": "Calix",
         "id": "801cac08-39cb-4df3-8e68-5beed46e6eaf",
         "title": "Customer Experience Operations and Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -414534,7 +414534,7 @@
         "company_name": "Trane Technologies",
         "id": "7d8a07e4-0435-4236-852b-9ff0999f509b",
         "title": "Technical Applications and HW Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -443068,7 +443068,7 @@
         "company_name": "Leidos",
         "id": "df01ceeb-8afc-4e66-a4e3-e9c83b794ae0",
         "title": "Junior Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -448084,7 +448084,7 @@
         "company_name": "X Development",
         "id": "575c6736-83c2-4860-a0a8-132002aa2c1d",
         "title": "PhD / Masters Residency Intern - Machine Learning / Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -455187,6 +455187,72 @@
         "degrees": [
             "Master's",
             "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sieve",
+        "id": "fe2090ae-0404-47d2-89f2-e46316098fcd",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777367161,
+        "date_posted": 1777367033,
+        "url": "https://jobs.ashbyhq.com/sieve/b319e35e-2455-4c63-ae3d-721bc7dbffc9/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Sieve",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sieve",
+        "id": "2d7d81b9-60a2-461e-bc8b-a1e8d00a3b0e",
+        "title": "Applied Research Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777367161,
+        "date_posted": 1777367032,
+        "url": "https://jobs.ashbyhq.com/sieve/2298668b-f218-435a-a497-de4fc11c5ac6/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Sieve",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dairyland Power Cooperative",
+        "id": "9c3ddbb3-e0a3-4d34-bd9e-c662e5c4113b",
+        "title": "Regional Transmission Projects Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777368789,
+        "date_posted": 1777068589,
+        "url": "https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/Intern--Regional-Transmission-Projects_JR100960",
+        "locations": [
+            "Winona, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Dairyland-Power-Cooperative",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
