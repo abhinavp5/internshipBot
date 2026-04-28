@@ -253371,7 +253371,7 @@
         "company_name": "Magna",
         "id": "7fee2e1c-75fa-4a35-b42a-2df45b8fcfd4",
         "title": "Student Engineering ADAS Algorithm",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -288519,7 +288519,7 @@
         "company_name": "Cisco",
         "id": "d2dcfe14-a4bb-40cf-b495-040de5de1c91",
         "title": "Software Engineer 1 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -317480,7 +317480,7 @@
         "company_name": "Tencent",
         "id": "b3b6421c-0ccf-4a43-93a7-44fb9242cb5f",
         "title": "Research Intern - Video World Models",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -317835,7 +317835,7 @@
         "company_name": "Tencent",
         "id": "48b655c4-ecfa-43bf-af3b-a5c0d6ec726f",
         "title": "Research Intern - Video World Models",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -407042,7 +407042,7 @@
         "company_name": "Calix",
         "id": "801cac08-39cb-4df3-8e68-5beed46e6eaf",
         "title": "Customer Experience Operations and Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -409696,7 +409696,7 @@
         "company_name": "Palantir",
         "id": "175959c7-7674-4600-b477-a030461cda4c",
         "title": "UK Meritocracy Fellowship",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -414534,7 +414534,7 @@
         "company_name": "Trane Technologies",
         "id": "7d8a07e4-0435-4236-852b-9ff0999f509b",
         "title": "Technical Applications and HW Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443068,7 +443068,7 @@
         "company_name": "Leidos",
         "id": "df01ceeb-8afc-4e66-a4e3-e9c83b794ae0",
         "title": "Junior Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -448084,7 +448084,7 @@
         "company_name": "X Development",
         "id": "575c6736-83c2-4860-a0a8-132002aa2c1d",
         "title": "PhD / Masters Residency Intern - Machine Learning / Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -452675,7 +452675,7 @@
         "company_name": "Paccar",
         "id": "306e44eb-4b5e-4e45-9a15-2804c3ffa5bf",
         "title": "PFC IT Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453982,7 +453982,7 @@
         "company_name": "Superbet",
         "id": "2175e9c1-3d96-4c91-801b-60e12681ea36",
         "title": "Sports Quantitative Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
