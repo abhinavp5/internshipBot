@@ -252684,7 +252684,7 @@
         "company_name": "Sherwin-Williams",
         "id": "e14b48f3-f417-4e6d-9843-9426d2eaa12e",
         "title": "Leadership Development Program R&D",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -448851,7 +448851,7 @@
         "company_name": "Johnson & Johnson",
         "id": "fae3ac45-3929-4b91-b778-ac0866ea8b29",
         "title": "Technology Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -449652,7 +449652,7 @@
         "company_name": "Trane Technologies",
         "id": "77101225-cae2-45be-a1f0-2915f58527a0",
         "title": "Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -450895,7 +450895,7 @@
         "company_name": "Moog ",
         "id": "ad676c21-a536-4690-813f-972b0d4d735a",
         "title": "Artificial Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453325,7 +453325,7 @@
         "company_name": "Chamberlain Group",
         "id": "ca78020b-a0c8-4bb4-9a33-d7f0e6c2ac30",
         "title": "Myq Front End Developer Intern - Android or iOS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
