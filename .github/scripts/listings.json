@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Mitsubishi UFJ Financial Group",
-        "id": "aae15e6f-4f06-48b7-9f72-fcc6759de829",
-        "title": "2026 MUFG Summer Internship Programme: Credit Sales & Trading",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756765384,
-        "date_posted": 1756765384,
-        "url": "https://mufgub.wd3.myworkdayjobs.com/mufg-earlycareers/job/London/XMLNAME-2026-MUFG-Summer-Internship-Programme--UK-Credit-Sales---Trading_10072507-WD",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/d5c55ea9-f3f6-4604-8d0f-f3e81aefa6d0",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Nokia",
         "id": "ff6ec533-6664-4cec-8b5d-10d27a0655c7",
@@ -95281,7 +95258,7 @@
         "company_name": "Q2",
         "id": "4ace8d90-16b6-4d9a-ac3e-c8d09dcc4818",
         "title": "Product Management Intern - Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -314888,7 +314865,7 @@
         "company_name": "Upstart",
         "id": "6edf4aa8-95f4-4ac4-a442-5b1593f7823d",
         "title": "Research Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -324087,7 +324064,7 @@
         "company_name": "Applied Materials",
         "id": "60740419-960c-462d-b37f-91f310f020aa",
         "title": "Java Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -327202,7 +327179,7 @@
         "company_name": "First American",
         "id": "4981b772-baf1-4484-a97d-60c8bb6aaa71",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -406187,7 +406164,7 @@
         "company_name": "Zoox",
         "id": "55b38e8f-6718-4bc6-ba26-fa6df327bc0d",
         "title": "Part-Time Student Worker - Test Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -424775,7 +424752,7 @@
         "company_name": "Rockwell Automation",
         "id": "4ecba065-c50e-4c3e-9c98-aa500be8597e",
         "title": "Intern Digital Client",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -435904,7 +435881,7 @@
         "company_name": "Nasuni",
         "id": "7a595078-1b5f-4c37-895b-e9a485a40a0e",
         "title": "Software Engineering Intern - Python",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -446097,7 +446074,7 @@
         "company_name": "S&P Global ",
         "id": "4373263f-fd17-4c39-a544-0a457b5f2166",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -447641,7 +447618,7 @@
         "company_name": "Altom Transport",
         "id": "3a53d3d7-57fb-4386-a475-d0c47c24c8cf",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -448189,7 +448166,7 @@
         "company_name": "Altom Transport",
         "id": "3d0598d4-7d7a-478c-9854-a5fe86360a8d",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -452344,7 +452321,7 @@
         "company_name": "Ciena",
         "id": "4de340ee-e34e-4b36-84f7-90ddcbc5b82b",
         "title": "OTN Platform Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -454015,7 +453992,7 @@
         "company_name": "Integra FEC",
         "id": "5e6027c1-06ff-4833-98fc-5748108833bf",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -454796,7 +454773,7 @@
         "company_name": "Trane Technologies",
         "id": "47663bc7-3dd9-4fd1-8259-f2ee339c8a83",
         "title": "Embedded Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -455019,5 +454996,190 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Primetals Technologies",
+        "id": "4eebf6c4-c224-4361-ad6b-0572f8169f2a",
+        "title": "Engineering Integration Associate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777500822,
+        "date_posted": 1777500349,
+        "url": "https://mhicareers.com/job/Lake-Mary-Engineering-Integration-Associate-Internship-FL-32746/1389001633/?ats=successfactors",
+        "locations": [
+            "Lake Mary, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Primetals-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Gelber Group",
+        "id": "159923fa-e2a9-452d-8473-d84dcca80863",
+        "title": "Software Engineering Intern - Backoffice Team",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777501319,
+        "date_posted": 1777500497,
+        "url": "https://job-boards.greenhouse.io/gelbergroup/jobs/4657272006",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/GelberGroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Curtiss-Wright Corporation",
+        "id": "c2da3b9d-f3a1-44d0-8a7c-a06a32f4c99f",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777501353,
+        "date_posted": 1777500490,
+        "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-OR-Portland-Williams/Intern---Engineering_JR11328-1",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Curtiss-Wright",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MSIG USA ",
+        "id": "7a3d5a9e-62a8-4138-9a7c-2b2db21ec77c",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777500637,
+        "date_posted": 1777500260,
+        "url": "https://msigna.wd5.myworkdayjobs.com/gbl/job/NJ-Warren/Data-Science-Summer-Internship_JR-000836",
+        "locations": [
+            "Middlesex, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/MSIG-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Howmet Aerospace",
+        "id": "75b32155-6076-4b4e-b58c-d9b6168e6fa0",
+        "title": "Product Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777501201,
+        "date_posted": 1777500398,
+        "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/117440",
+        "locations": [
+            "Muskegon, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Howmet-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KBR",
+        "id": "1947c299-9c48-45c1-8d96-29867d279a80",
+        "title": "Technical Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777501262,
+        "date_posted": 1777500441,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Lexington-Park-Maryland/Technical-Intern_R2122836",
+        "locations": [
+            "Patuxent River, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/KBR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ohio State University",
+        "id": "abc36cbf-c36c-46f3-980c-66ff3b168200",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777500763,
+        "date_posted": 1777500288,
+        "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Intern--Data-Analytics--Non-OSU-Student-Assistant-_R150208",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Ohio-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Louisiana State University (LSU)",
+        "id": "f3c7d022-ffef-41d8-bad9-ab0ec013defa",
+        "title": "Transient - Research Project-1 Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1777500719,
+        "date_posted": 1777500193,
+        "url": "https://lsu.wd1.myworkdayjobs.com/lsuwaiver/job/0220C-JW-Nicholson-Hall/Transient---Research-Project-1_R00114818",
+        "locations": [
+            "Baton Rouge, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Louisiana-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
