@@ -1,150 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Other",
-        "company_name": "Edison International",
-        "id": "dc17dfae-941a-4e4c-b7e7-86ceac87f6ab",
-        "title": "2026 Summer Internship - Cybersecurity/Computer Science",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756735569,
-        "date_posted": 1756735569,
-        "url": "https://apply.edisoncareers.com/job/Santa-Ana-2026-Summer-Internship-CybersecurityComputer-Science-CA-92705/1321252400/?ats=successfactors",
-        "locations": [
-            "Orange, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Edison-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Stryker",
-        "id": "a7d290b8-3b15-4d09-b5c8-c75b56647d65",
-        "title": "2026 Summer Intern - Software Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756735659,
-        "date_posted": 1756735659,
-        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Redmond-Washington/XMLNAME-2026-Summer-Intern---Software-Engineering---Washington_R549796",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Stryker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Stryker",
-        "id": "5f782988-9a17-4e95-9e28-4ab53efa3eff",
-        "title": "2026 Summer Intern - Data Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756735627,
-        "date_posted": 1756735627,
-        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/XMLNAME-2026-Summer-Intern---Data-Analytics---California_R548759",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Stryker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Edison International",
-        "id": "2fb469a9-bc64-44aa-aa98-670f538729e4",
-        "title": "2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756735567,
-        "date_posted": 1756735567,
-        "url": "https://apply.edisoncareers.com/job/Rosemead-2026-Summer-Internship-Data-AnalyticsData-ScienceApplied-MathStatistics-CA-91770-3714/1321172300/?ats=successfactors",
-        "locations": [
-            "Alhambra, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Edison-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Edison International",
-        "id": "10f8bdc0-f409-4f51-9d4c-b87a6cb0e3fc",
-        "title": "2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756735569,
-        "date_posted": 1756735569,
-        "url": "https://apply.edisoncareers.com/job/Irwindale-2026-Summer-Internship-Data-AnalyticsData-ScienceApplied-MathStatistics-CA-91702/1321175700/?ats=successfactors",
-        "locations": [
-            "Irwindale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Edison-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Edison International",
-        "id": "06f544d3-cdf8-45fd-b9b8-bcac2a2f90ec",
-        "title": "2026 Summer Internship - Cybersecurity/Computer Science",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756735568,
-        "date_posted": 1756735568,
-        "url": "https://apply.edisoncareers.com/job/Pomona-2026-Summer-Internship-CybersecurityComputer-Science-CA-91768/1321158900/?ats=successfactors",
-        "locations": [
-            "Pomona, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Edison-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Solar Turbines",
         "id": "8f35b0c2-155e-4c1d-8e82-e28b7f5acf4d",
@@ -901,102 +757,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Other",
-        "company_name": "Edison International",
-        "id": "2d22cb13-4154-4e16-b5ac-aabc57e0a770",
-        "title": "2026 Summer Internship - Cybersecurity/Computer Science",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756735569,
-        "date_posted": 1756735569,
-        "url": "https://apply.edisoncareers.com/job/Alhambra-2026-Summer-Internship-CybersecurityComputer-Science-CA-91803-0000/1321254000/?ats=successfactors",
-        "locations": [
-            "Alhambra, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Edison-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Edison International",
-        "id": "80460397-ebd0-4dd3-b2ab-ea852aa33164",
-        "title": "2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756735569,
-        "date_posted": 1756735569,
-        "url": "https://apply.edisoncareers.com/job/Pomona-2026-Summer-Internship-Data-AnalyticsData-ScienceApplied-MathStatistics-CA-91768/1321171100/?ats=successfactors",
-        "locations": [
-            "Pomona, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Edison-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Edison International",
-        "id": "eceecb14-2a94-413b-8c0b-905c57fd5006",
-        "title": "2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756735569,
-        "date_posted": 1756735569,
-        "url": "https://apply.edisoncareers.com/job/Alhambra-2026-Summer-Internship-Data-AnalyticsData-ScienceApplied-MathStatistics-CA-91803-0000/1321223400/?ats=successfactors",
-        "locations": [
-            "Alhambra, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Edison-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Edison International",
-        "id": "52051078-e4fe-47e2-b3b6-4ccf81dec14d",
-        "title": "2026 Summer Internship - Cybersecurity/Computer Science",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756735570,
-        "date_posted": 1756735570,
-        "url": "https://apply.edisoncareers.com/job/Rosemead-2026-Summer-Internship-CybersecurityComputer-Science-CA-91770-3714/1321166800/?ats=successfactors",
-        "locations": [
-            "Alhambra, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Edison-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Donaldson Company",
         "id": "13751bac-afb3-4c72-bc42-3a8e71f17e62",
@@ -1012,60 +772,6 @@
             "Bloomington, MN"
         ],
         "company_url": "https://simplify.jobs/c/b0914ae0-67cc-4a7d-ba1c-d8731e2f59a4",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Stryker",
-        "id": "c43bdedc-7cac-498c-8491-107fc98e7978",
-        "title": "2026 Summer Intern - Software Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756735649,
-        "date_posted": 1756735649,
-        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Diego-California/XMLNAME-2026-Summer-Intern---Software-Engineering---California_R549795",
-        "locations": [
-            "San Jose, CA",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Stryker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Textron",
-        "id": "f5cb290a-8623-4472-bd81-0ac66dd420ee",
-        "title": "2026 Textron Leadership Development Internship Program - Information Technology",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756736003,
-        "date_posted": 1756736003,
-        "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=333861",
-        "locations": [
-            "New Orleans, LA",
-            "Augusta, GA",
-            "Providence, RI",
-            "Sparks, MD",
-            "Wichita, KS",
-            "Troy, MI",
-            "Fort Worth, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Textron",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -150528,27 +150234,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Stryker",
-        "id": "9b79c79a-e0c1-4b8e-b797-ea721aec20d7",
-        "title": "Item Master Specialist Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1756735641,
-        "date_posted": 1756735641,
-        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Tempe-Arizona/Item-Master-Specialist-Intern_R548996",
-        "locations": [
-            "Tempe, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Stryker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Red Hat",
         "id": "a0faa8c7-7870-415f-ab24-d68d8eb51253",
@@ -165155,27 +164840,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Edison International",
-        "id": "0cd93612-3e79-4dbc-ac33-aff9e72a11b1",
-        "title": "Intern - All Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762911519,
-        "date_posted": 1756735569,
-        "url": "https://apply.edisoncareers.com/job/Valencia-2026-Summer-Internship-All-Engineering-CA-91355/1321206800/?ats=successfactors",
-        "locations": [
-            "Santa Clarita, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Edison-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Kalepa",
         "id": "2ddac51c-5af3-460f-9632-0e044300ccfe",
@@ -166272,27 +165936,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Edison International",
-        "id": "7a7e5514-223b-4ed9-a9bc-4bdce711e830",
-        "title": "Intern - All Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762924807,
-        "date_posted": 1756735576,
-        "url": "https://apply.edisoncareers.com/job/Santa-Ana-2026-Summer-Internship-All-Engineering-CA-92705/1320935500/?ats=successfactors",
-        "locations": [
-            "Orange, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Edison-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Goldman Sachs",
         "id": "5ebd3d11-1191-4de6-baef-62b410b31945",
@@ -166692,27 +166335,6 @@
             "Cleburne, TX"
         ],
         "company_url": "https://simplify.jobs/c/Vistra",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Edison International",
-        "id": "a8cc1db2-cf29-4c1c-aa50-c6fde0194d34",
-        "title": "Intern - All Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762909700,
-        "date_posted": 1756735569,
-        "url": "https://apply.edisoncareers.com/job/Compton-2026-Summer-Internship-All-Engineering-CA-90220-6403/1321199400/?ats=successfactors",
-        "locations": [
-            "Compton, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Edison-International",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -167513,27 +167135,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Edison International",
-        "id": "6a827e74-374f-42d6-9849-15b9d767b817",
-        "title": "Intern - All Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762922450,
-        "date_posted": 1756735569,
-        "url": "https://apply.edisoncareers.com/job/Wildomar-2026-Summer-Internship-All-Engineering-CA-92595/1321202100/?ats=successfactors",
-        "locations": [
-            "Murrieta, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Edison-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Analog Devices",
         "id": "edb955fc-c1a5-4e4c-be99-a55c8b8cc5e1",
@@ -168016,27 +167617,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Edison International",
-        "id": "08412456-f77a-4d06-b0ec-151964e48e01",
-        "title": "Intern - All Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762920336,
-        "date_posted": 1756735569,
-        "url": "https://apply.edisoncareers.com/job/Rosemead-2026-Summer-Internship-All-Engineering-CA-91770-3714/1321192800/?ats=successfactors",
-        "locations": [
-            "Alhambra, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Edison-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "AeroVironment",
         "id": "16e1df0e-06f0-4db4-ac39-ff1ddfb5bac4",
@@ -168074,27 +167654,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Tradeweb",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Edison International",
-        "id": "b717545d-be87-4266-bba6-d907088cba53",
-        "title": "Intern - All Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762923268,
-        "date_posted": 1756735576,
-        "url": "https://apply.edisoncareers.com/job/Palmdale-2026-Summer-Internship-All-Engineering-CA-93550/1320938500/?ats=successfactors",
-        "locations": [
-            "Palmdale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Edison-International",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -170386,27 +169945,6 @@
             "Scottsdale, AZ"
         ],
         "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Edison International",
-        "id": "723e960e-3ea7-4399-a9ef-cdd1526a07a9",
-        "title": "Intern - All Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762989967,
-        "date_posted": 1756735570,
-        "url": "https://apply.edisoncareers.com/job/Pomona-2026-Summer-Internship-All-Engineering-CA-91768/1321184100/?ats=successfactors",
-        "locations": [
-            "Pomona, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Edison-International",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -188599,7 +188137,7 @@
         "company_name": "SummitTX",
         "id": "ca26cf7a-7321-4233-b5b3-6f2382e54079",
         "title": "Research Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -209771,7 +209309,7 @@
         "company_name": "General Motors",
         "id": "e76d275d-1ce2-41e0-9a19-0d714f440751",
         "title": "2026 Summer Intern - AI/ML Engineer - AV ML Infrastructure\",\"Master's",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -209906,7 +209444,7 @@
         "company_name": "General Motors",
         "id": "88e8805e-8f1f-412a-9a73-bd823e8e7035",
         "title": "Intern AI/ML Software Engineering Intern - Simulation Core - Master's",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -260702,7 +260240,7 @@
         "company_name": "Instacart",
         "id": "48ff7eb4-8a0f-4256-862e-23765f3e29b2",
         "title": "Machine Learning Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -325154,7 +324692,7 @@
         "company_name": "Roku",
         "id": "7c44ab88-ef1a-46bf-b64f-ba55d99a35d4",
         "title": "Software Engineer Intern - Advanced Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -339684,7 +339222,7 @@
         "company_name": "Brex",
         "id": "afd26269-ca6f-47e8-8959-cc00bcbe099a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -348478,7 +348016,7 @@
         "company_name": "Intel",
         "id": "7a29ff9c-01a6-4b5d-a54d-d878526114e7",
         "title": "AI Software Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -384334,7 +383872,7 @@
         "company_name": "Starz",
         "id": "f1f4963b-bdbe-4d7d-8189-3ea0014cd978",
         "title": "Starz Intern - Content Insights",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -397749,7 +397287,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "4059036c-9a65-44b7-b263-44c72f6fd63a",
         "title": "Artificial Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -435547,7 +435085,7 @@
         "company_name": "CoStar Group",
         "id": "2d18cd9c-c153-4852-94b5-24a58e1a04bd",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -440612,7 +440150,7 @@
         "company_name": "Baxter International",
         "id": "ade05a2b-7d26-4d85-bdca-77c15476218a",
         "title": "R&D Embedded Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -443115,7 +442653,7 @@
         "company_name": "GE Vernova",
         "id": "88881e7e-16c3-4233-9c0c-efa7f1e0a44d",
         "title": "GE Vernova Advanced Research \u2013 Edison Program Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -452783,7 +452321,7 @@
         "company_name": "Cognex",
         "id": "ae9049d7-f777-4bdb-b710-158394798380",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453780,7 +453318,7 @@
         "company_name": "Sallie Mae",
         "id": "7f9da155-0a18-4277-b64a-8ee5adec5782",
         "title": "Business Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -455664,6 +455202,192 @@
             "Reston, VA"
         ],
         "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cooper University Health Care",
+        "id": "40c69b1d-dfd2-4211-8e27-e839ba9157c2",
+        "title": "Business Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777471381,
+        "date_posted": 1777471280,
+        "url": "https://careers-cooperhealth.icims.com/jobs/83214/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cooper-University-Health-Care",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mackenzie Investments",
+        "id": "45cd0f13-7203-4e2c-b4d0-40c657f12d7f",
+        "title": "Intern - Data Engineering Delivery",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777472418,
+        "date_posted": 1777471617,
+        "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5889/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mackenzie-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NCR Voyix",
+        "id": "d20684ba-d6da-4e11-b669-ff95fe9948f1",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777471741,
+        "date_posted": 1777471603,
+        "url": "https://ncr.wd1.myworkdayjobs.com/ext_non_us/job/BATH-GBR/Software-Engineer-Intern_R0157083",
+        "locations": [
+            "Bath, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/NCR-Voyix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Trane Technologies",
+        "id": "47663bc7-3dd9-4fd1-8259-f2ee339c8a83",
+        "title": "Embedded Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777472300,
+        "date_posted": 1777471718,
+        "url": "https://careers.tranetechnologies.com/global/en/job/JR-3459",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Trane-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fiserv",
+        "id": "fc651953-d702-4bd5-a377-6d9ab06ed529",
+        "title": "Intern - Data Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777471913,
+        "date_posted": 1777471533,
+        "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Summer-Intern---Data-Engineer_R-10393654",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fiserv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Radiance Technologies",
+        "id": "4ea864bb-3669-4168-97a4-339ed2f4584b",
+        "title": "Modeling Engineer Intern - Analytics - Simulation Sciences",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777471803,
+        "date_posted": 1777471514,
+        "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102150",
+        "locations": [
+            "Beavercreek, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Radiance-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Delta Dental",
+        "id": "25925b76-0b98-4ddf-b34c-e998214c0b2a",
+        "title": "Application Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777471728,
+        "date_posted": 1777471521,
+        "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship--Application-Development_JR101289",
+        "locations": [
+            "East Lansing, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Delta-Dental",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "GE Vernova",
+        "id": "9203a035-21ca-49ae-a154-4b1630bce5a2",
+        "title": "Capital Markets Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777471561,
+        "date_posted": 1777471521,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/London/Capital-Markets-Intern_R5040185-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
