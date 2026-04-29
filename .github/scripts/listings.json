@@ -274028,7 +274028,7 @@
         "company_name": "LabCorp",
         "id": "82620b43-1609-4bf7-8f95-b172054c6cdd",
         "title": "Intern Data Science and Artificial Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -294732,7 +294732,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "9fd84741-12bc-4a3b-9db2-f1eff098330c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -317245,7 +317245,7 @@
         "company_name": "Bose",
         "id": "d2d2038d-d37c-48c9-99c3-6855aaf81377",
         "title": "Audio Machine Learning Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -321919,7 +321919,7 @@
         "company_name": "ABB",
         "id": "58bcc774-c99f-4d7a-91d0-b316f3ee7d87",
         "title": "Agentic AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -377669,7 +377669,7 @@
         "company_name": "GTS",
         "id": "b72e38e3-5515-4406-8ff2-006e8701c95f",
         "title": "Quantitative Trading Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -378353,7 +378353,7 @@
         "company_name": "Pathos",
         "id": "d45c4020-8afa-4fe7-bd48-63b97cf8eb74",
         "title": "Applied Scientist, Oncology Foundation Model",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -384334,7 +384334,7 @@
         "company_name": "Starz",
         "id": "f1f4963b-bdbe-4d7d-8189-3ea0014cd978",
         "title": "Starz Intern - Content Insights",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -395006,7 +395006,7 @@
         "company_name": "Magna",
         "id": "c38bb5b6-0652-4f3e-b46a-130303c789ed",
         "title": "Intern Software Engineer - Integration and Test",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -426889,7 +426889,7 @@
         "company_name": "APEX Analytix",
         "id": "f8061283-7836-4832-afc5-5784772d0a48",
         "title": "NET Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -431910,7 +431910,7 @@
         "company_name": "ABB",
         "id": "9669f3e4-8a9e-4c04-887e-e1287a09a58f",
         "title": "Discovery Program - Product Management Specialist",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -435162,7 +435162,7 @@
         "company_name": "Superbet",
         "id": "6f605e37-42f0-46bc-86a0-75836f976cc3",
         "title": "Super Erasmus Traineeship",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -435500,7 +435500,7 @@
         "company_name": "CoStar Group",
         "id": "c311a5bd-8d52-4dfd-88bc-98c2bc1983ec",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -447285,7 +447285,7 @@
         "company_name": "Magna",
         "id": "5cc8f52f-4146-4043-8b10-f8f8abdcce15",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -447920,7 +447920,7 @@
         "company_name": "RTX",
         "id": "df3e5115-f1d2-477f-b7e8-20a275bf2d04",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -452737,7 +452737,7 @@
         "company_name": "Magna",
         "id": "c028a8b9-94b1-413e-8119-37e4aa83f76e",
         "title": "Engineering ADAS Perception Features Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -454495,7 +454495,7 @@
         "company_name": "Integra FEC",
         "id": "ebb7f560-b3e3-4f57-b812-b0097eeb39bf",
         "title": "Data Scientist Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -455057,7 +455057,7 @@
         "company_name": "WPP Media",
         "id": "a0b04aca-5ebb-46ae-8eb6-9fe922233437",
         "title": "Workstudent Intern - IT Development",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -455639,6 +455639,29 @@
         "url": "https://careers-gdms.icims.com/jobs/72228/job?mobile=true&needsRedirect=false",
         "locations": [
             "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "aad7fb4e-54a6-453f-9c0d-af4db1c1854e",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777454876,
+        "date_posted": 1776895797,
+        "url": "https://careers-gdms.icims.com/jobs/72186/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Reston, VA"
         ],
         "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
         "is_visible": true,
