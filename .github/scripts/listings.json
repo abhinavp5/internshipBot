@@ -1,173 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Solar Turbines",
-        "id": "8f35b0c2-155e-4c1d-8e82-e28b7f5acf4d",
-        "title": "2026 Internship - Gas Turbine Product Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756755004,
-        "date_posted": 1756737231,
-        "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2026-Internship---Gas-Turbine-Product-Engineering_R0000316197",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Solar-Turbines",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Tranzact",
-        "id": "e01b7046-6ec5-4817-8bc1-bdd5eb371342",
-        "title": "Software Developer Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756755355,
-        "date_posted": 1756737470,
-        "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/202506294",
-        "locations": [
-            "Dorking, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Tranzact",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Tranzact",
-        "id": "48f36df2-7fd9-497d-819d-0ba9b3765b23",
-        "title": "2026 Software Developer Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756755334,
-        "date_posted": 1756737471,
-        "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/202506296",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Tranzact",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Tower Research Capital",
-        "id": "f4d92f6a-a274-47cd-8a7d-075ac84f76bd",
-        "title": "Quantitative Developer Summer Internship 2026 \u2013 2027 Graduates",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756739024,
-        "date_posted": 1756739024,
-        "url": "https://www.tower-research.com/open-positions/?gh_jid=7210139",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "JP Morgan Chase",
-        "id": "d4670929-d33b-42b8-8ce4-158eed1e69aa",
-        "title": "2026 Software Apprenticeship - Emerging Talent Program",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756755321,
-        "date_posted": 1756738982,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210658757",
-        "locations": [
-            "Glasgow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "JP Morgan Chase",
-        "id": "056aeea9-2ad2-40b8-9da4-32e8d6e82197",
-        "title": "2026 Software Engineer Program \u2013 Summer Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756738983,
-        "date_posted": 1756738983,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210653533",
-        "locations": [
-            "London, UK",
-            "Christchurch, UK",
-            "Glasgow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Tower Research Capital",
-        "id": "7553a415-e98d-48c7-80ef-e0e4b474ee34",
-        "title": "Quantitative Trader/Researcher Summer Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756740039,
-        "date_posted": 1756740039,
-        "url": "https://www.tower-research.com/open-positions/?gh_jid=7210138",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Nokia",
         "id": "8376770d-79e6-48d9-b2c9-5ea5a9892600",
@@ -728,31 +561,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Solar Turbines",
-        "id": "c9cf0a1b-9fe2-4457-9fe3-df0cd84f2a1b",
-        "title": "ITS - Information Technology Solutions",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2025"
-        ],
-        "date_updated": 1756737253,
-        "date_posted": 1756737253,
-        "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2026-Internship-ITS--Information-Technology-Solutions-_R0000316306",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Solar-Turbines",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -188137,7 +187945,7 @@
         "company_name": "SummitTX",
         "id": "ca26cf7a-7321-4233-b5b3-6f2382e54079",
         "title": "Research Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -209309,7 +209117,7 @@
         "company_name": "General Motors",
         "id": "e76d275d-1ce2-41e0-9a19-0d714f440751",
         "title": "2026 Summer Intern - AI/ML Engineer - AV ML Infrastructure\",\"Master's",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -209444,7 +209252,7 @@
         "company_name": "General Motors",
         "id": "88e8805e-8f1f-412a-9a73-bd823e8e7035",
         "title": "Intern AI/ML Software Engineering Intern - Simulation Core - Master's",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -331718,7 +331526,7 @@
         "company_name": "Roku",
         "id": "92c28930-bc6b-4484-b7be-bf3296212ffa",
         "title": "Software Engineer Intern - Streaming Media",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346730,7 +346538,7 @@
         "company_name": "Roku",
         "id": "8540b504-39ab-480f-89ce-4647b676a4c0",
         "title": "Software Engineer Intern - Observability",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -365530,7 +365338,7 @@
         "company_name": "Roku",
         "id": "da436cd8-956a-4b1c-bf3f-dd5d0a3a8a43",
         "title": "Software Engineer Intern - Observability",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380531,7 +380339,7 @@
         "company_name": "GoodRx",
         "id": "c05b9f22-7c63-4954-997a-12f5219b2e61",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -407123,7 +406931,7 @@
         "company_name": "Altera Corporation",
         "id": "fca7e12c-2669-4526-a1dd-26a5a4d89be4",
         "title": "GenAI / Machine Learning Intern - Design Automation - AI Agents",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -419158,29 +418966,6 @@
         "date_updated": 1762928955,
         "date_posted": 1758896809,
         "url": "https://lifeattiktok.com/search/7527582397938223367",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "c78c63c0-0747-41bb-9083-f3d119a0fd77",
-        "title": "Machine Learning Scientist Intern - Tiktok-Content Ecology-LLM application - 2026 Start",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756741403,
-        "date_posted": 1756741403,
-        "url": "https://lifeattiktok.com/search/7532390182411405586",
         "locations": [
             "San Jose, CA"
         ],
@@ -435038,7 +434823,7 @@
         "company_name": "CoStar Group",
         "id": "c311a5bd-8d52-4dfd-88bc-98c2bc1983ec",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -446913,7 +446698,7 @@
         "company_name": "Onto Innovation",
         "id": "eaf50c6d-53bd-4d8d-a35c-031889f30e75",
         "title": "Technical Program Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -448767,7 +448552,7 @@
         "company_name": "Leidos",
         "id": "a2c3079a-3cbd-4305-b93a-9262b0af5bc0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450079,7 +449864,7 @@
         "company_name": "Achievers",
         "id": "cfd1a252-ba4a-4ba4-a667-03218509f6ae",
         "title": "Product Marketing Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -451458,7 +451243,7 @@
         "company_name": " PrizePicks",
         "id": "e5e4b03c-bd0d-485b-8f30-012b61284ffd",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -452481,7 +452266,7 @@
         "company_name": "HERE Technologies",
         "id": "f4345b5f-1078-4647-87bf-c64a3aff36ca",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453204,7 +452989,7 @@
         "company_name": "Cambridge Mobile Telematics",
         "id": "b1fcd0d3-4f5e-41b0-a67e-6d66fee691b9",
         "title": "Analytics Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -455388,6 +455173,120 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Nutanix",
+        "id": "da2642ae-cf92-4d4b-802c-b26ec7837644",
+        "title": "Product Management Intern - Undergrad Only",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777471741,
+        "date_posted": 1777471679,
+        "url": "https://jobs.jobvite.com/nutanix/job/ora3zfwX?nl=1&nl=1&fr=false",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Brookhaven Lab",
+        "id": "a6a780c5-a07d-4089-af10-6da281cc669f",
+        "title": "Student Research Assistant Intern - Autonomous Imaging",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1777472259,
+        "date_posted": 1777471635,
+        "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Student-Research-Assistant---Autonomous-Imaging_JR102326",
+        "locations": [
+            "Shirley, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Brookhaven-Lab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Adtheorant",
+        "id": "2676d8ef-927b-4526-b7aa-bb6ddf9b2633",
+        "title": "Backend Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777471741,
+        "date_posted": 1777471579,
+        "url": "https://careers-cadent.icims.com/jobs/1359/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Philadelphia, PA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Adtheorant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "GE Vernova",
+        "id": "3e30727d-da9f-4132-ba64-31055ea7146f",
+        "title": "Capital Markets Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777471561,
+        "date_posted": 1777471515,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/London/Capital-Markets-Intern_R5040185-2",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tokamak Energy",
+        "id": "e9d3e4cb-148d-4b00-bde4-585ad8efc623",
+        "title": "Foster Fusion Energy Internship - Data Visualization",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777472308,
+        "date_posted": 1777471703,
+        "url": "https://apply.workable.com/tokamak-energy/j/E2406E60F6/apply",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tokamak-Energy",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
