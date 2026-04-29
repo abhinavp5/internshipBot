@@ -363851,7 +363851,7 @@
         "company_name": "Rolls Royce",
         "id": "0de1ed23-c7d0-4946-893a-259316be2d99",
         "title": "Software Engineer Co-op - AI/Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -394009,7 +394009,7 @@
         "company_name": "Littelfuse",
         "id": "00668087-1a6e-43cc-afb7-6d4c90b78cd7",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -446632,7 +446632,7 @@
         "company_name": "automotiveMastermind",
         "id": "0c261ba8-e602-41bb-8d98-c561c5410e04",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
