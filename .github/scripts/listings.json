@@ -136466,7 +136466,7 @@
         "company_name": "Tencent",
         "id": "553c3141-cedc-4ce8-ae4d-c4dbfd12ce83",
         "title": "Research Internship-Multimodal LLM - Speech/Music/Audio/Vision/Language",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -158120,7 +158120,7 @@
         "company_name": "Leidos",
         "id": "1b89031e-7b1f-455d-8cee-925b84440adc",
         "title": "AI Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -184917,7 +184917,7 @@
         "company_name": "Cisco",
         "id": "4051f66f-3c1d-49b1-9130-3e552b68920e",
         "title": "Data Analyst 1",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -317245,7 +317245,7 @@
         "company_name": "Bose",
         "id": "d2d2038d-d37c-48c9-99c3-6855aaf81377",
         "title": "Audio Machine Learning Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -321871,7 +321871,7 @@
         "company_name": "ABB",
         "id": "949bf08f-4bbb-49cd-a9c1-48c57235243c",
         "title": "AI Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -344983,7 +344983,7 @@
         "company_name": "Waters Corporation",
         "id": "44676578-7c2d-4206-b25e-59d7a1cda67d",
         "title": "Intern \u2013 Field Service",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -357113,7 +357113,7 @@
         "company_name": "ABB",
         "id": "761d0bdf-c012-445b-885d-db095708d75f",
         "title": "R&D Testing Lab Contractor",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -377578,7 +377578,7 @@
         "company_name": "Salesforce",
         "id": "01c91d29-446f-42d7-9443-d6e88f5d0cb6",
         "title": "Intern - AI Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -377669,7 +377669,7 @@
         "company_name": "GTS",
         "id": "b72e38e3-5515-4406-8ff2-006e8701c95f",
         "title": "Quantitative Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -378353,7 +378353,7 @@
         "company_name": "Pathos",
         "id": "d45c4020-8afa-4fe7-bd48-63b97cf8eb74",
         "title": "Applied Scientist, Oncology Foundation Model",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -395006,7 +395006,7 @@
         "company_name": "Magna",
         "id": "c38bb5b6-0652-4f3e-b46a-130303c789ed",
         "title": "Intern Software Engineer - Integration and Test",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -400121,7 +400121,7 @@
         "company_name": "Dallas College",
         "id": "05b45fd6-9242-4831-9e4b-a3d4e4ff7f88",
         "title": "SAS Intern-2",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -409726,7 +409726,7 @@
         "company_name": "Airgas",
         "id": "33c96e1e-ba9a-4600-a17f-3351f4d0b2f3",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -422098,7 +422098,7 @@
         "company_name": "Denver",
         "id": "254b2b4b-6f44-4a65-947a-191d16e39dd9",
         "title": "Audit Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -426889,7 +426889,7 @@
         "company_name": "APEX Analytix",
         "id": "f8061283-7836-4832-afc5-5784772d0a48",
         "title": "NET Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -427212,7 +427212,7 @@
         "company_name": "Nightwing Intelligence Solutions",
         "id": "55556c00-eb17-46a0-8914-66a19318e0f3",
         "title": "Radio Frequency Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -435500,7 +435500,7 @@
         "company_name": "CoStar Group",
         "id": "c311a5bd-8d52-4dfd-88bc-98c2bc1983ec",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -435547,7 +435547,7 @@
         "company_name": "CoStar Group",
         "id": "2d18cd9c-c153-4852-94b5-24a58e1a04bd",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -447285,7 +447285,7 @@
         "company_name": "Magna",
         "id": "5cc8f52f-4146-4043-8b10-f8f8abdcce15",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -451222,7 +451222,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "083a1f26-6eec-4817-8d05-0a60a4b79b83",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -452737,7 +452737,7 @@
         "company_name": "Magna",
         "id": "c028a8b9-94b1-413e-8119-37e4aa83f76e",
         "title": "Engineering ADAS Perception Features Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -454495,7 +454495,7 @@
         "company_name": "Integra FEC",
         "id": "ebb7f560-b3e3-4f57-b812-b0097eeb39bf",
         "title": "Data Scientist Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -454541,7 +454541,7 @@
         "company_name": "Centific",
         "id": "569ed6bf-2af9-475a-a7db-65d129476547",
         "title": "Technical Intern - Masters or PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -455614,6 +455614,29 @@
         "date_updated": 1777451448,
         "date_posted": 1776290570,
         "url": "https://careers-gdms.icims.com/jobs/72071/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "9df9a152-f5af-43c0-91a2-cbf761d3e4a9",
+        "title": "Intern Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777454462,
+        "date_posted": 1776981976,
+        "url": "https://careers-gdms.icims.com/jobs/72228/job?mobile=true&needsRedirect=false",
         "locations": [
             "Scottsdale, AZ"
         ],
