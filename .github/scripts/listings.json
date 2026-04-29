@@ -199983,7 +199983,7 @@
         "company_name": "Amazon",
         "id": "c44d58c3-05e3-470a-9f21-4722f9d8522d",
         "title": "Software Development Engineer Internship - Summer 2026 - US",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -396966,7 +396966,7 @@
         "company_name": "Mercedes-Benz",
         "id": "f6a3af7e-f19a-41de-953f-a5d99d2b6ea5",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
