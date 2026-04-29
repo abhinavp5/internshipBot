@@ -1,78 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Children's Mercy Hospital",
-        "id": "aa2961d1-61c0-4711-8918-abc301e5ac95",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1756684980,
-        "date_posted": 1756684980,
-        "url": "https://jobs-childrensmercykc.icims.com/jobs/34857/job",
-        "locations": [
-            "Kansas City, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Childrens-Mercy-Hospital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "JP Morgan Chase",
-        "id": "c45a311b-d634-4f9e-add2-4819df357f6f",
-        "title": "2026 Data Science Analyst \u2013 Summer Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756693062,
-        "date_posted": 1756693062,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210658282",
-        "locations": [
-            "London, UK",
-            "Glasgow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "JP Morgan Chase",
-        "id": "9d6a2179-74cf-4e00-87c2-e1b7ed9a5638",
-        "title": "2026 Software Engineer Immersion Program \u2013 Summer Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756693059,
-        "date_posted": 1756693059,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210653529",
-        "locations": [
-            "Glasgow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Stryker",
         "id": "f7a2ee6f-6eed-4622-9d43-bbec9c35c9a7",
@@ -206893,7 +206821,7 @@
         "company_name": "Axos Bank",
         "id": "b225ba99-b255-4b23-877b-3c63f99d2442",
         "title": "Data Science Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -249996,7 +249924,7 @@
         "company_name": "The Bank of New York Mellon",
         "id": "ccdb761c-6659-4a19-9765-01a27be5fdec",
         "title": "BNY Analyst Program-Engineering - Developer - Early Talent and University Programs",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -254783,7 +254711,7 @@
         "company_name": "Akuna Capital University",
         "id": "5dd46c72-be03-4f40-966f-8e19c37cc26b",
         "title": "Trading Sneak Peek Week Reaching Women",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -297372,7 +297300,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "d8dc5c28-c65b-4b8b-a6f1-27e0c10b6a26",
         "title": "Data Platforms Engineering Grad Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -331650,7 +331578,7 @@
         "company_name": "First American",
         "id": "0a9ec94e-fd09-447c-810c-6712e3a6b2bf",
         "title": "Product Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343616,7 +343544,7 @@
         "company_name": "Handshake",
         "id": "1c6e1b27-ec0b-45ef-a51b-48d0682e30d1",
         "title": "Machine Learning Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -355291,7 +355219,7 @@
         "company_name": "Phia",
         "id": "2e0aa3df-91b7-4de3-bc9d-f452dc1c7183",
         "title": "Full Stack Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -454332,7 +454260,7 @@
         "company_name": "WSP",
         "id": "a91b20b9-9216-43ae-a4d8-8c770f8ecb05",
         "title": "Transportation Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -456169,5 +456097,145 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BillionToOne",
+        "id": "d84848fc-5026-4538-8208-0efa9e792033",
+        "title": "Data Science and AI Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777425661,
+        "date_posted": 1777425659,
+        "url": "https://job-boards.greenhouse.io/billiontoone/jobs/4689943005",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/BillionToOne",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Salesforce",
+        "id": "5ee547d7-015b-4384-a92f-3442f2d34bef",
+        "title": "Intern - AI & Data Science Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777425074,
+        "date_posted": 1777424701,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2026-Intern---AI---Data-Science-Analyst_JR340354-1",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "810e50c9-00ba-458d-bdb0-89ae72adc9f9",
+        "title": "Research Scientist Intern - Nextgen LLM",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1777425121,
+        "date_posted": 1777425028,
+        "url": "https://lifeattiktok.com/search/7633668061979543813",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Salesforce",
+        "id": "ddfdb158-4132-4ced-a4c3-3b6ed59047c7",
+        "title": "Intern - AI & Data Science Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777425066,
+        "date_posted": 1777424675,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2026-Intern---AI---Data-Science-Analyst_JR340354",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cirrus Logic",
+        "id": "d2dd7be2-3a27-4d64-9018-c6899e6ea4bc",
+        "title": "Co-Op - Design Verification Engineer",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777425042,
+        "date_posted": 1777424741,
+        "url": "https://jobs.eu.lever.co/cirrus/44d85e51-10bf-44d7-b0dc-2d177cf6e858/apply",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Cirrus-Logic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Microsoft",
+        "id": "7f238859-8139-4be8-9ac9-3ed625f7d504",
+        "title": "Research Intern - Socio-Technical Workflow Analysis",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777425165,
+        "date_posted": 1777424825,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556862680",
+        "locations": [
+            "Cambridge, MA",
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
