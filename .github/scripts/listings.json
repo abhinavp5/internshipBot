@@ -1,386 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Stryker",
-        "id": "f7a2ee6f-6eed-4622-9d43-bbec9c35c9a7",
-        "title": "2026 Summer Intern - Software Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756707488,
-        "date_posted": 1756707488,
-        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/XMLNAME-2026-Summer-Intern---Software-Engineering---Michigan_R549763",
-        "locations": [
-            "Portage, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Stryker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Stryker",
-        "id": "b7b8e488-bdc3-46e1-b216-ba3d15bcde37",
-        "title": "2026 Summer Intern - Software Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756707487,
-        "date_posted": 1756707487,
-        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/XMLNAME-2026-Summer-Intern---Software-Engineering---Indiana_R549765",
-        "locations": [
-            "Fort Wayne, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Stryker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Stryker",
-        "id": "b3f56aba-1dc2-49b5-b630-ed37efc7e306",
-        "title": "2026 Summer Intern - Software Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756707486,
-        "date_posted": 1756707486,
-        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Flower-Mound-Texas/XMLNAME-2026-Summer-Intern---Software-Engineering---Texas_R549794",
-        "locations": [
-            "Flower Mound, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Stryker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Stryker",
-        "id": "07a6ba14-b0f8-498d-8e24-c8d5fd0d4be6",
-        "title": "2026 Summer Intern - Software Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756707487,
-        "date_posted": 1756707487,
-        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/XMLNAME-2026-Summer-Intern---Software-Engineering---Florida_R549793",
-        "locations": [
-            "Fort Lauderdale, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Stryker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Stryker",
-        "id": "e9db0359-fcfc-4ede-9785-53dba01f7258",
-        "title": "2026 Summer Intern - Data Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756707480,
-        "date_posted": 1756707480,
-        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/XMLNAME-2026-Summer-Intern---Data-Analytics---Michigan_R548703",
-        "locations": [
-            "Portage, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Stryker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Stryker",
-        "id": "db8fd81b-ba14-454a-8fa8-e86286754943",
-        "title": "2026 Summer Intern - Information Technology",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756707480,
-        "date_posted": 1756707480,
-        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Mahwah-New-Jersey/XMLNAME-2026-Summer-Intern---Information-Technology---New-Jersey_R548764",
-        "locations": [
-            "Mahwah, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Stryker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Stryker",
-        "id": "c9389197-4749-40f6-930b-015044a4d2ad",
-        "title": "2026 Summer Intern - Data Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756707481,
-        "date_posted": 1756707481,
-        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Mahwah-New-Jersey/XMLNAME-2026-Summer-Intern---Data-Analytics---New-Jersey_R548706",
-        "locations": [
-            "Mahwah, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Stryker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Stryker",
-        "id": "0c43f92a-07fc-4aa2-891a-56698b35304e",
-        "title": "2026 Summer Intern - Information Technology",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756707481,
-        "date_posted": 1756707481,
-        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Kalamazoo-Michigan/XMLNAME-2026-Summer-Intern---Information-Technology---Michigan_R548761",
-        "locations": [
-            "Kalamazoo, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Stryker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Duke Energy",
-        "id": "689de357-ae2f-4c65-bf1e-d0ba555aa735",
-        "title": "Information Technology Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756706909,
-        "date_posted": 1756706909,
-        "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Information-Technology-Internship-Summer-2026_R36430",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Duke-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Lumentum",
-        "id": "f19bfb5f-5800-4dce-b18b-d27307685b09",
-        "title": "Embedded Software Engineer Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756755146,
-        "date_posted": 1756708097,
-        "url": "https://lumentum.wd5.myworkdayjobs.com/lite/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20251387",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/496a9be6-21c5-4da6-a624-02dfaf540d25",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sysco",
-        "id": "b5614448-7599-4040-a93d-c153d3550627",
-        "title": "Functional Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1756708115,
-        "date_posted": 1756708115,
-        "url": "https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Sysco-Corporate/Functional-Analyst-Intern_R215840",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Sysco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Lumentum",
-        "id": "b0b49cc2-f140-4ac1-a66f-48b3e88f45f9",
-        "title": "Process Software Automation Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756755366,
-        "date_posted": 1756708111,
-        "url": "https://lumentum.wd5.myworkdayjobs.com/lite/job/Canada---Ottawa-Bill-Leathem/Process-Software-Automation-Co-op-Intern_20251390",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/496a9be6-21c5-4da6-a624-02dfaf540d25",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Lumentum",
-        "id": "8af67ab3-9511-466f-9062-0feeb8a0483f",
-        "title": "Embedded Software Devsecops Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1756708104,
-        "date_posted": 1756708104,
-        "url": "https://lumentum.wd5.myworkdayjobs.com/lite/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-DevSecOps-Co-op-Intern_20251384-1",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/496a9be6-21c5-4da6-a624-02dfaf540d25",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sysco",
-        "id": "67e3b577-b5bd-41c4-922c-e6197c1f5650",
-        "title": "Data Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1756708107,
-        "date_posted": 1756708107,
-        "url": "https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Sysco-Corporate/Data-Engineer-Intern_R215839",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Sysco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Lumentum",
-        "id": "6d34e4fe-2782-4656-bb30-d0cc45512827",
-        "title": "Embedded Software Engineer Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025",
-            "Spring 2025",
-            "Summer 2025"
-        ],
-        "date_updated": 1756708099,
-        "date_posted": 1756708099,
-        "url": "https://lumentum.wd5.myworkdayjobs.com/lite/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer-Co-op-Intern_20251410",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/496a9be6-21c5-4da6-a624-02dfaf540d25",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Lumentum",
-        "id": "4cb9b544-8464-4937-9093-c60f596f7747",
-        "title": "Calibration and Test Software Engineer Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756755405,
-        "date_posted": 1756708097,
-        "url": "https://lumentum.wd5.myworkdayjobs.com/lite/job/Canada---Ottawa-Bill-Leathem/Calibration-and-Test-Software-Engineer-Co-op-Intern_20251385",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/496a9be6-21c5-4da6-a624-02dfaf540d25",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Other",
         "company_name": "Xcel Energy",
         "id": "f4576f35-6b11-4be0-879a-cd90bf962a84",
@@ -92230,31 +91850,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Lumentum",
-        "id": "b5785866-bb3e-4691-83ca-2a8ab6d06ec1",
-        "title": "Transport Product Line Management Intern/Co-op - Product Line Management",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1758638867,
-        "date_posted": 1756708108,
-        "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Transport-PLM-Co-op-Intern_20251412",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Lumentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Mercury",
         "id": "859e026f-9164-48c9-9458-46745abb12d6",
@@ -167771,27 +167366,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Lumentum",
-        "id": "70c49217-9cff-45cc-9b1f-c2866469bc97",
-        "title": "Optical Alignment Automation and Analysis Engineer Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1761830988,
-        "date_posted": 1756708107,
-        "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Alignment-Automation-and-Analysis-Engineer-Co-op-Intern_20251418",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Lumentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Woodward Governor",
         "id": "5f23a423-a6fd-41e8-b6c4-82d10c04d9f1",
         "title": "Data Science Internship - Summer 2025",
@@ -175841,7 +175415,7 @@
         "company_name": "TD Bank",
         "id": "8e105f31-90ba-454a-9366-c6aba9a7443c",
         "title": "Global Markets Intern/Co-Op Future Opportunities",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -195100,7 +194674,7 @@
         "company_name": "Figure",
         "id": "4f0aaffd-abff-4630-885d-6b95b8dbadf4",
         "title": "Embedded Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -281227,7 +280801,7 @@
         "company_name": "LMI ",
         "id": "4ed23878-86a7-4eb7-87ca-eb9b001024b6",
         "title": "Software Development - FIU Students",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -322647,7 +322221,7 @@
         "company_name": "ABB",
         "id": "949bf08f-4bbb-49cd-a9c1-48c57235243c",
         "title": "AI Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -322695,7 +322269,7 @@
         "company_name": "ABB",
         "id": "58bcc774-c99f-4d7a-91d0-b316f3ee7d87",
         "title": "Agentic AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -357889,7 +357463,7 @@
         "company_name": "ABB",
         "id": "761d0bdf-c012-445b-885d-db095708d75f",
         "title": "R&D Testing Lab Contractor",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -423153,7 +422727,7 @@
         "company_name": "State Street",
         "id": "8bf9a8b1-3e57-4359-9ab7-fcbeb945f496",
         "title": "State Street Product Tean \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -426570,7 +426144,7 @@
         "company_name": "LMI ",
         "id": "b4af7487-860d-4d23-825b-6a638dcf0981",
         "title": "Data & Financial Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -432686,7 +432260,7 @@
         "company_name": "ABB",
         "id": "9669f3e4-8a9e-4c04-887e-e1287a09a58f",
         "title": "Discovery Program - Product Management Specialist",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -442417,7 +441991,7 @@
         "company_name": "Manulife Financial",
         "id": "6a960351-9db0-4311-8ab4-d10aa9939e68",
         "title": "Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -448949,7 +448523,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "ddc52e4a-4ef7-4aaf-907c-39e4792a49d4",
         "title": "Student Research Collaborator Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -449776,7 +449350,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "1fa0b2c7-52e1-4e30-ad4f-0a620289863d",
         "title": "Student Research Collaborator Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -449984,7 +449558,7 @@
         "company_name": "CIBC",
         "id": "a515c207-4aec-4d37-9c3c-f80b1fb79afc",
         "title": "iOS Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -454767,7 +454341,7 @@
         "company_name": "TransUnion",
         "id": "53b8737c-fecf-444d-a057-0357b2b23108",
         "title": "Identity Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
