@@ -1,768 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Other",
-        "company_name": "TD Bank",
-        "id": "b3b8acd5-4f71-4226-b3ae-e92883206c20",
-        "title": "Cyber Security Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1756820143,
-        "date_posted": 1756820143,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Cyber-Security-Intern-Co-op--WINTER-2026-_R_1434784",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Salesforce",
-        "id": "40e34901-0127-44d1-90fb-a4b6b9948046",
-        "title": "Intern - Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756823659,
-        "date_posted": 1756823659,
-        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Summer-2026-Intern---Software-Engineer_JR308796-1",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Salesforce",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "cencora",
-        "id": "7988cefa-4ed1-4a2e-ada8-4e6c601b623d",
-        "title": "Visualization Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756824138,
-        "date_posted": 1756824138,
-        "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/Visualization-Intern_R2515478",
-        "locations": [
-            "Conshohocken, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cencora",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "U.S. Bancorp",
-        "id": "75ab04ce-10fa-41e5-9392-1ad6a218a0f7",
-        "title": "Information Security Summer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756824190,
-        "date_posted": 1756824190,
-        "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Cincinnati-OH/XMLNAME-2026-Information-Security-Summer-Intern_2025-0020198",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/US-Bancorp",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "cencora",
-        "id": "6f69ba3d-610e-4f29-8991-6ff1a8f017ce",
-        "title": "Insite Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756824132,
-        "date_posted": 1756824132,
-        "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Orange-CA/InSite-Data-Analyst-Intern_R2515584",
-        "locations": [
-            "Orange, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cencora",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "U.S. Bancorp",
-        "id": "12fa8a0d-55d6-493f-903c-232852b9e72e",
-        "title": "Engineering Summer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756824201,
-        "date_posted": 1756824201,
-        "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/XMLNAME-2026-Engineering-Summer-Intern_2025-0020194",
-        "locations": [
-            "Hopkins, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/US-Bancorp",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Qorvo",
-        "id": "fff48f13-1ebf-4617-86b1-4498e7391dd3",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756860921,
-        "date_posted": 1756823947,
-        "url": "https://careers.qorvo.com/job/Richardson-Software-Engineer-Intern-TX-75081/1321949700/?ats=successfactors",
-        "locations": [
-            "Richardson, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Qorvo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Stryker",
-        "id": "f826f079-9e5d-4173-9b16-aad4006db9e0",
-        "title": "2026 Summer Intern - ML Operations",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756824047,
-        "date_posted": 1756824047,
-        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Mahwah-New-Jersey/XMLNAME-2026-Summer-Intern---ML-Operations---New-Jersey_R549135",
-        "locations": [
-            "Mahwah, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Stryker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Qorvo",
-        "id": "e7d05532-2476-4098-a775-30a8c21424cc",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1756823949,
-        "date_posted": 1756823949,
-        "url": "https://careers.qorvo.com/job/Greensboro-Software-Engineer-Intern-NC-27409/1321982100/?ats=successfactors",
-        "locations": [
-            "Greensboro, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Qorvo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Qorvo",
-        "id": "72b0c08b-6cda-4eaf-ae23-7bfb485b20dd",
-        "title": "Data Science Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756861067,
-        "date_posted": 1756823945,
-        "url": "https://careers.qorvo.com/job/Richardson-Data-Science-Engineer-Intern-TX-75081/1321946700/?ats=successfactors",
-        "locations": [
-            "Richardson, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Qorvo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "cencora",
-        "id": "3ee452c6-9053-4b3f-b59d-01a5aad00769",
-        "title": "Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756824121,
-        "date_posted": 1756824121,
-        "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/USA--FL--Orlando--Lee-Vista/Analytics-Intern_R2515474",
-        "locations": [
-            "Orlando, FL",
-            "Buford, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cencora",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Qorvo",
-        "id": "1c9a19a6-ca25-40fd-9f8b-8883c01911ab",
-        "title": "Product Engineering Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1756823948,
-        "date_posted": 1756823948,
-        "url": "https://careers.qorvo.com/job/Greensboro-Product-Engineering-Intern-NC-27409/1321965700/?ats=successfactors",
-        "locations": [
-            "Greensboro, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Qorvo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "cencora",
-        "id": "07fdf50a-d696-433a-be4a-fbf904c71de7",
-        "title": "Software Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756824121,
-        "date_posted": 1756824121,
-        "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Newburgh-NY/Software-Intern_R2515587",
-        "locations": [
-            "Newburgh, NY",
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Cencora",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sysco",
-        "id": "4105463a-bb58-443b-88a1-a67027c7664e",
-        "title": "Software Dev Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1756824592,
-        "date_posted": 1756824592,
-        "url": "https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Sysco-Corporate/Software-Dev-Engineer-Intern_R215838",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Sysco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "fa62e711-af00-4269-b218-1f6d7b45bc95",
-        "title": "NVIDIA 2026 Internships: PhD Generative AI Research",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1756825701,
-        "date_posted": 1756825701,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Generative-AI-Research_JR2003228",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "cef272b2-b67a-439d-a923-35698b97ab44",
-        "title": "Internships: Deep Learning",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1756825694,
-        "date_posted": 1756825694,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Deep-Learning_JR2003208",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "a99e98fd-cdf7-40e7-93e9-6ef43d068c4c",
-        "title": "NVIDIA Internships: Hardware ASIC Design",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1756825706,
-        "date_posted": 1756825706,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Hardware-ASIC-Design-_JR2003195",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "80d4362c-c9ea-4e6c-9f9b-109740bd3291",
-        "title": "Hardware Verification",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1756825702,
-        "date_posted": 1756825702,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Hardware-Verification-_JR2003197",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "7c49d73a-eb0a-42da-ab00-413a3bdbd7f3",
-        "title": "NVIDIA Internships: Hardware Engineering",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1756825698,
-        "date_posted": 1756825698,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Hardware-Engineering-_JR2003200",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "7b9c5bf7-4f23-4742-bf45-09eb3d03f366",
-        "title": "NVIDIA Internships: PhD Large Language Models Research",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1756825700,
-        "date_posted": 1756825700,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Large-Language-Models-Research_JR2003243",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "74453ea1-fe9d-4755-9882-c728d2b0cc8c",
-        "title": "NVIDIA Internships: Computer Architecture",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1756825701,
-        "date_posted": 1756825701,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Computer-Architecture_JR2003201-1",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "55739113-1c5b-420b-972e-f51a907810da",
-        "title": "NVIDIA Internships: Deep Learning Computer Architecture",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1756825694,
-        "date_posted": 1756825694,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Deep-Learning-Computer-Architecture_JR2003202",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "538cc622-8968-40d4-958f-cd02287b0926",
-        "title": "NVIDIA Internships: PhD Graphics and Simulation Research",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1756825708,
-        "date_posted": 1756825708,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Graphics-and-Simulation-Research_JR2003242",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "56775c6d-267a-43cc-a982-6db9bad7e907",
-        "title": "PhD Computer Vision and Deep Learning Research",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1756825716,
-        "date_posted": 1756825716,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Computer-Vision-and-Deep-Learning-Research_JR2003241",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "536d1ff5-4676-4252-9a30-12c4530f8224",
-        "title": "Systems Software Engineering",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1756861943,
-        "date_posted": 1756825712,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Systems-Software-Engineering_JR2003204",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Oshkosh",
-        "id": "5201a117-9ef4-4f15-9c80-9c20fb16818a",
-        "title": "Digital Technology Intern - Desktop Support",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756825723,
-        "date_posted": 1756825723,
-        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Greenville-Wisconsin-United-States/Digital-Technology-Intern---Desktop-Support--Year-Round-_R40583",
-        "locations": [
-            "Appleton, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Oshkosh",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Oshkosh",
-        "id": "518c4a57-578e-47de-bef4-8b41c8418bf5",
-        "title": "Engineer Intern - Software",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756825712,
-        "date_posted": 1756825712,
-        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Greenville-Wisconsin-United-States/Engineer-Intern---Software--Summer-2026-_R40623",
-        "locations": [
-            "Appleton, WI",
-            "Oshkosh, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Oshkosh",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "4f2023c2-31bf-46ba-9e3a-64f204324aff",
-        "title": "PhD Autonomous Vehicles Research",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1756825721,
-        "date_posted": 1756825721,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Autonomous-Vehicles-Research_JR2003244",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Western & Southern Financial Group",
-        "id": "3ae4b8d2-144e-47ef-9e7f-bdfa214bda94",
-        "title": "Business Intelligence Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1756825610,
-        "date_posted": 1756825610,
-        "url": "https://careers-westernsouthern.icims.com/jobs/23639/job",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Southern-Financial-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software Engineering",
-        "company_name": "NVIDIA",
-        "id": "1d3bb0fa-1409-41ad-8d46-775c8a1a46e4",
-        "title": "Software Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756861121,
-        "date_posted": 1756825710,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Software-Engineering-_JR2003206",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Oshkosh",
-        "id": "0ba36381-9851-49cd-8266-06aee127e1dd",
-        "title": "Engineer Intern - Software",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756825714,
-        "date_posted": 1756825714,
-        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Engineer-Intern---Software--Year-Round-_R40621",
-        "locations": [
-            "Appleton, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Oshkosh",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TD Bank",
-        "id": "7b1b6de5-296f-47fe-987e-0ccc5dc4b97a",
-        "title": "AI2 Analytics Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1761290649,
-        "date_posted": 1756819962,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Analytics-Intern-Co-op--WINTER-2026-_R_1436016",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "22e8e15a-59b8-45f6-9c1f-f092dc9e1763",
@@ -786,83 +24,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Vanguard",
-        "id": "8cf616ef-4aed-4f11-9cf5-77b9ab1c3954",
-        "title": "College to Corporate Internship - Application Development",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756826478,
-        "date_posted": 1756826478,
-        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-Internship---Application-Development_169667",
-        "locations": [
-            "Malvern, PA",
-            "Charlotte, NC",
-            "Grand Prairie, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Vanguard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Vanguard",
-        "id": "c1108be1-9f55-4fba-b860-66ce77b10c4a",
-        "title": "College to Corporate Internship - Risk & Security Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756826477,
-        "date_posted": 1756826477,
-        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-Internship---Risk---Security-Engineer_170066",
-        "locations": [
-            "Malvern, PA",
-            "Charlotte, NC",
-            "Grand Prairie, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Vanguard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Vanguard",
-        "id": "1cf7984a-bfe6-4d95-9cef-173532d366c4",
-        "title": "College to Corporate Internship - Risk & Security Analyst",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756826479,
-        "date_posted": 1756826479,
-        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-Internship---Risk---Security-Analyst_170069",
-        "locations": [
-            "Malvern, PA",
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Vanguard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -2375,29 +1536,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Oshkosh",
-        "id": "cc407239-963b-4e32-b1f3-655aa87934c0",
-        "title": "Product Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756825700,
-        "date_posted": 1756825700,
-        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Product-Management-Intern--Summer-2026-_R40661",
-        "locations": [
-            "Appleton, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Oshkosh",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Geotab",
         "id": "95323f4a-e1a3-48d2-9737-388c675e7e5e",
@@ -2461,29 +1599,6 @@
         ],
         "company_url": "https://simplify.jobs/c/a5fb0a01-2e28-4ba4-9481-cf2352a4fd6b",
         "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SEP",
-        "id": "79c07500-91b3-4e2c-988d-c4ea1149bc96",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756823142,
-        "date_posted": 1756823142,
-        "url": "https://jobs.lever.co/sep/04cfae58-dd72-43e5-ad07-6cec5c395623/apply",
-        "locations": [
-            "Carmel, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/SEP",
-        "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -2654,29 +1769,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "fc280798-cfd5-434a-aee5-77eba36b6bcb",
-        "title": "NVIDIA Internships: PhD Hardware Research",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1756825711,
-        "date_posted": 1756825711,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Hardware-Research_JR2003247",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
         ]
     },
     {
@@ -68105,32 +67197,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "1b1c110f-664c-4fb4-ad7c-115545eb901e",
-        "title": "Intern - Computer Architecture and Systems Research - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1758766001,
-        "date_posted": 1756825704,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Computer-Architecture-and-Systems-Research_JR2003246",
-        "locations": [
-            "Seattle, WA",
-            "Austin, TX",
-            "Santa Clara, CA",
-            "Westford, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
         ]
     },
     {
@@ -147644,49 +146710,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Oshkosh",
-        "id": "c36fe16d-5a64-4f08-b833-bae46a16e323",
-        "title": "Order Management Intern - Year Round",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756825708,
-        "date_posted": 1756825708,
-        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Order-Management-Intern--Year-Round-_R40660",
-        "locations": [
-            "Appleton, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Oshkosh",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Geico",
-        "id": "fea36768-cba3-44ab-bece-4870a8630d80",
-        "title": "Analyst Internship Program - Pricing Track - CFO Organization",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761862410,
-        "date_posted": 1756825249,
-        "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/Chevy-Chase-MD/Analyst-Internship-Program---Pricing-Track--CFO-Org-_R0059674",
-        "locations": [
-            "Chicago, IL",
-            "Bethesda, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Geico",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Geico",
         "id": "ae89dd78-8ed6-4a2b-9be6-9434d12fe864",
@@ -147746,28 +146769,6 @@
             "Dallas, TX"
         ],
         "company_url": "https://simplify.jobs/c/Copart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Vanguard",
-        "id": "b9c23c4c-1fa2-40e6-bbab-30d1f89d3fc2",
-        "title": "College to Corporate Internship - Investment Systems",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761866042,
-        "date_posted": 1756826471,
-        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-Internship---Investment-Systems_170064",
-        "locations": [
-            "Malvern, PA",
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Vanguard",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -187687,7 +186688,7 @@
         "company_name": "Anduril",
         "id": "98971aab-cef6-4cbf-b8de-98440950c6aa",
         "title": "Perception Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -238076,7 +237077,7 @@
         "company_name": "Woven",
         "id": "56ad64c8-97db-44c9-b5e7-e35b9199050c",
         "title": "Machine Learning Intern - Vehicle Perception",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -241403,7 +240404,7 @@
         "company_name": "Commvault",
         "id": "c6de2776-dffd-48d6-a05e-3e84d0e0bbad",
         "title": "Technical Enablement Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -358099,7 +357100,7 @@
         "company_name": "Arrowhead Pharmaceuticals",
         "id": "c5b682d9-0aa2-4247-b5c6-15b8495bc537",
         "title": "Intern - Agentic Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389372,7 +388373,7 @@
         "company_name": "Leidos",
         "id": "d80902bc-b546-4fa0-9273-482c80f84401",
         "title": "Agentic AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -403170,7 +402171,7 @@
         "company_name": "Calix",
         "id": "801cac08-39cb-4df3-8e68-5beed46e6eaf",
         "title": "Customer Experience Operations and Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -411479,7 +410480,7 @@
         "company_name": "University of Rochester",
         "id": "e22d201d-8ede-4bc3-beec-71f78185a2df",
         "title": "Project Assistant 1",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -421324,7 +420325,7 @@
         "company_name": "GE Vernova",
         "id": "e1ed6fd4-8f1f-425b-9ef2-1e9049be31bd",
         "title": "System & Electronics Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -429029,7 +428030,7 @@
         "company_name": "ABB",
         "id": "9669f3e4-8a9e-4c04-887e-e1287a09a58f",
         "title": "Discovery Program - Product Management Specialist",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -432943,7 +431944,7 @@
         "company_name": "Rolls-Royce Motorcars",
         "id": "91277407-e77c-475d-9241-eb3ed3aa3e81",
         "title": "Drivetrain Validation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027"
@@ -438944,7 +437945,7 @@
         "company_name": "T1D Exchange",
         "id": "dd06cf01-6a3a-48d2-b08b-1c8b16f79b37",
         "title": "QI/Data Project Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -440282,7 +439283,7 @@
         "company_name": "GE Vernova",
         "id": "ae99907e-8dbd-42ae-906b-2e3ebc84e8ff",
         "title": "Sensor Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -440608,7 +439609,7 @@
         "company_name": "GE Vernova",
         "id": "8f0ceebb-af2c-4489-923e-b632f2b44d36",
         "title": "Sensor Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -446518,7 +445519,7 @@
         "company_name": "Al Warren Oil Company",
         "id": "c415d6aa-4c45-41c9-b003-053775c70651",
         "title": "Software Developer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -451732,7 +450733,7 @@
         "company_name": "SOTI",
         "id": "97a391eb-fe03-4889-9688-0349bb28d3e7",
         "title": "Software Developer \u2013 New Grad Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -455224,6 +454225,194 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Globalization Partners",
+        "id": "717a84ac-0440-4a38-9d40-7fb0e61d327b",
+        "title": "AI - Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777559069,
+        "date_posted": 1777558156,
+        "url": "https://job-boards.greenhouse.io/globalizationpartners/jobs/7720641003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Globalization-Partners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Virginia",
+        "id": "0e5ee6f1-eac9-44f8-9c4e-be3868dffdc1",
+        "title": "Gaynor Research Assistant Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1777558106,
+        "date_posted": 1777557665,
+        "url": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Gaynor-Research-Assistant-2026--Student-Wage-_R0082968",
+        "locations": [
+            "Charlottesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Virginia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Samsung",
+        "id": "fc009865-651e-4548-b29e-ee267d5e19ae",
+        "title": "AI Research Intern - Agentic AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777558861,
+        "date_posted": 1777558103,
+        "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Communications-House-Staines-Upon-Thames-United-Kingdom/AI-Research-Intern---Agentic-AI_R116815",
+        "locations": [
+            "Staines-upon-Thames, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SHI International ",
+        "id": "8cc4fab2-275b-41ea-824d-46dc0aa7dd96",
+        "title": "AI Transformation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777559070,
+        "date_posted": 1777558078,
+        "url": "https://shi.wd12.myworkdayjobs.com/shicareers/job/London-United-Kingdom/AI-Transformation---Internship_JR2936",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/SHI-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Carnegie Mellon University",
+        "id": "7ed460f3-57ad-4fdc-bbf0-60dfc381cef8",
+        "title": "Rfcyber Lab Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777558141,
+        "date_posted": 1777558066,
+        "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/RFCyber-Lab-Intern_2024483",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Copart",
+        "id": "5912947c-cf90-4aa1-a763-fe43edb0b67f",
+        "title": "Technology Product Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777558346,
+        "date_posted": 1777557964,
+        "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR108764",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Copart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Samsung",
+        "id": "36e0c8f1-c9a3-48e6-96bb-d9703df95f21",
+        "title": "AI Research Intern - Knowledge Graphs",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777559041,
+        "date_posted": 1777558103,
+        "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Communications-House-Staines-Upon-Thames-United-Kingdom/AI-Research-Intern---Knowledge-Graphs_R116819",
+        "locations": [
+            "Staines-upon-Thames, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "1e32658d-8ea8-4ca4-8785-770ab8804015",
+        "title": "Doc Control / CAD Drafter Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1777560301,
+        "date_posted": 1777558141,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Oakbrook-Terrace-IL/Doc-Control---CAD-Drafter_R-00182143",
+        "locations": [
+            "Lombard, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Certificate"
         ]
     }
 ]
