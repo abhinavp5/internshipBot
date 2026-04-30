@@ -1,286 +1,5 @@
 [
     {
-        "date_updated": 1759958544,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://cdpq.wd10.myworkdayjobs.com/en-US/CDPQ-recrutement-universitaire/job/Montreal/Stagiaire--Conseillerre-Adoption-numrique---compter-de-janvier-2026-_R04404?locations=978e30c0c8bf01e2d723af68920c298a",
-        "company_name": "La Caisse",
-        "title": "Digital Adoption Advisor Intern",
-        "locations": [
-            "Montreal, QC, CAN"
-        ],
-        "terms": [
-            "Winter 2026"
-        ],
-        "category": "Other",
-        "source": "XaJason",
-        "id": "a64c5554-b390-47b9-bd3b-a482ca6d7487",
-        "date_posted": 1756809678,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1758324724,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://cdpq.wd10.myworkdayjobs.com/en-US/CDPQ-recrutement-universitaire/job/Montreal/Stagiaire--Analyste---Dveloppeureuse---compter-de-janvier-2026-_R04406?locations=978e30c0c8bf01e2d723af68920c298a",
-        "company_name": "Caisse de d\u00e9p\u00f4t et placement du Qu\u00e9bec (CDPQ)",
-        "title": "Intern \u2013 Analyst / Developer (Starting January 2026)",
-        "locations": [
-            "Montreal, QC"
-        ],
-        "terms": [
-            "Winter 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "XaJason",
-        "id": "1e8bf954-1090-4f89-979d-1a3b6ec950f1",
-        "date_posted": 1756809704,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1759956061,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://cdpq.wd10.myworkdayjobs.com/en-US/CDPQ-recrutement-universitaire/job/Montreal/Stagiaire--Ingnierie-de-donnes---March-de-donnes-externes---compter-de-janvier-2026-_R04407?locations=978e30c0c8bf01e2d723af68920c298a",
-        "company_name": "La Caisse",
-        "title": "Data Engineering, External Data Market",
-        "locations": [
-            "Montreal, QC, CAN"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "XaJason",
-        "id": "f618af08-015f-4d81-a8cc-59ac1f5025f3",
-        "date_posted": 1756809742,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1758243920,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://cdpq.wd10.myworkdayjobs.com/en-US/CDPQ-recrutement-universitaire/job/Montreal/Stagiaire--Analyse-quantitative---Devises---compter-de-janvier-2026-_R04413?locations=978e30c0c8bf01e2d723af68920c298a",
-        "company_name": "La Caisse",
-        "title": "Quantitative Analysis, Currencies",
-        "locations": [
-            "Montreal, QC, CAN"
-        ],
-        "terms": [
-            "Winter 2026"
-        ],
-        "category": "Quantitative Finance",
-        "source": "XaJason",
-        "id": "c5c1a721-c4df-4503-9034-3097aa2c6acc",
-        "date_posted": 1756809831,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1757120006,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://cdpq.wd10.myworkdayjobs.com/en-US/CDPQ-recrutement-universitaire/job/Montreal/Stagiaire--Dveloppeureuse---Ingnierie-et-solutions-de-science-des-donnes----compter-de-janvier-2026-_R04181?locations=978e30c0c8bf01e2d723af68920c298a",
-        "company_name": "La Caisse",
-        "title": "Developer, Data Science Engineering and Solutions",
-        "locations": [
-            "Montreal, QC, CAN"
-        ],
-        "terms": [
-            "Winter 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "XaJason",
-        "id": "941c74d5-5f2b-40af-9edf-65a1e13dbe9c",
-        "date_posted": 1756809855,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1759953443,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://cdpq.wd10.myworkdayjobs.com/en-US/CDPQ-recrutement-universitaire/job/Montreal/Stagiaire--Cyberscurit---compter-de-janvier-2026-_R04417?locations=978e30c0c8bf01e2d723af68920c298a",
-        "company_name": "La Caisse",
-        "title": "Cybersecurity",
-        "locations": [
-            "Montreal, QC, CAN"
-        ],
-        "terms": [
-            "Winter 2026"
-        ],
-        "category": "Other",
-        "source": "XaJason",
-        "id": "caa16e5a-8577-45f5-b754-458e412ddda9",
-        "date_posted": 1756809896,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1758583804,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers.amd.com/careers-home/jobs/70483/job",
-        "company_name": "AMD",
-        "title": "Software Engineering Intern",
-        "locations": [
-            "Austin, TX",
-            "Fort Collins, CO",
-            "Boxborough, MA",
-            "Longmont, CO"
-        ],
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "6fb9e43e-0102-4364-88d5-7adf93f98c15",
-        "date_posted": 1756810605,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1757118934,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers.caci.com/global/en/job/CACIGLOBAL316652EXTERNALENGLOBAL/Software-Quality-Engineer-Intern-Summer-2026",
-        "company_name": "CACI",
-        "title": "Software Quality Engineer Intern",
-        "locations": [
-            "Austin, TX"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "0daf4a44-9da3-4453-81f5-972095cc3693",
-        "date_posted": 1756810668,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1761338274,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers.inspirebrands.com/infrastructure-and-devops-internship-summer-2026/job/44E0457CE423184B5723F5EE9BCD637E",
-        "company_name": "Inspire",
-        "title": "Infrastructure and DevOps Internship",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "fc6172fd-a3e7-4adb-9436-b6de07f0e6f6",
-        "date_posted": 1756810793,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1756811465,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/dow_jones_career/job/New-York-City/Summer-2026-Internship---Data-Analyst-Intern_Job_Req_48497",
-        "company_name": "Dow Jones",
-        "title": "Data Analyst Intern",
-        "locations": [
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "b2440d8c-e98c-4b6f-a07e-f687999659fc",
-        "date_posted": 1756811465,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1757119399,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://cambiumlearning.wd1.myworkdayjobs.com/en-US/camb/job/Remote/Intern-SAS-Team-Data-Analyst_REQ-4157",
-        "company_name": "Cambium Learning",
-        "title": "Data Analyst Intern",
-        "locations": [
-            "Remote in USA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "449b7f80-9205-4085-b767-93191a103014",
-        "date_posted": 1756811549,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1760137088,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/745-7th-Avenue-New-York/Quantitative-Finance-Associate-Summer-Internship-Program-2026-New-York_JR-0000071534",
-        "company_name": "Barclays",
-        "title": "Quantitative Finance Associate",
-        "locations": [
-            "7th Avenue, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Quantitative Finance",
-        "source": "AlmondCroffle",
-        "id": "e80f3148-e6bc-45be-9f02-d67e4212d996",
-        "date_posted": 1756811695,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Nationwide",
@@ -93090,7 +92809,7 @@
         "company_name": "Salesforce",
         "id": "9f667973-2421-4526-bf73-3103d394756f",
         "title": "Intern - AI Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -299997,7 +299716,7 @@
         "company_name": "Tencent",
         "id": "c42f018d-7413-47dd-900e-58cb7e97b198",
         "title": "Multimedia Codec Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -363051,7 +362770,7 @@
         "company_name": "Roku",
         "id": "79d66d37-3a38-4c3f-9422-9928beba2959",
         "title": "Product Manager Intern - Livetv",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -396258,7 +395977,7 @@
         "company_name": "Roku",
         "id": "9ae4806e-52bc-4ffa-9b06-3e9adab91b0f",
         "title": "Security Researcher Intern - Trust Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -411879,7 +411598,7 @@
         "company_name": "University of Rochester",
         "id": "e22d201d-8ede-4bc3-beec-71f78185a2df",
         "title": "Project Assistant 1",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -436273,7 +435992,7 @@
         "company_name": "Trane Technologies",
         "id": "9c934407-eec1-4535-b80f-08cfceb036f1",
         "title": "Technician Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -448384,7 +448103,7 @@
         "company_name": "Tencent",
         "id": "6e53b9de-07c4-4545-b612-707fca641b88",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -452392,7 +452111,7 @@
         "company_name": "X Development",
         "id": "8f265aed-e9ff-4450-8149-c90aff04497e",
         "title": "PhD / Master's Residency Intern - Early Stage Project",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -452530,7 +452249,7 @@
         "company_name": "Integra FEC",
         "id": "b9a99f84-c011-4f16-806a-8ad02e98b530",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -453815,7 +453534,7 @@
         "company_name": "Bloom Energy",
         "id": "bd91b62f-9496-41ff-beb7-df45d78dac14",
         "title": "Technical Product Systems Intern - AI & PLM",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -455597,6 +455316,29 @@
             "Montreal, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Halliburton",
+        "id": "342cbbdf-54ef-4a8a-b2bc-f9cb9d0ab6e5",
+        "title": "Computer Science/Data Science/Artificial Intelligence Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777540079,
+        "date_posted": 1777539787,
+        "url": "https://jobs.halliburton.com/job/Abingdon-Abingdon_Computer-ScienceData-ScienceArtificial-Intelligence-Intern-OXF-OX14-4RW/1386854200/?ats=successfactors",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Halliburton",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
