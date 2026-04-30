@@ -1,30 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Zebra Technologies",
-        "id": "bd2fde43-ae7f-4b4d-afe5-d9273e25c92e",
-        "title": "2026 Summer Internship - Supplies and Sensors Product Management - Corporate and Business Services - CEO",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756846352,
-        "date_posted": 1756846352,
-        "url": "https://zebra.eightfold.ai/careers/job/343627951108",
-        "locations": [
-            "Wheeling, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Zebra-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Medline",
         "id": "15d61b19-144b-4ce9-af57-b463b6daa677",
