@@ -245499,7 +245499,7 @@
         "company_name": "Mechanize",
         "id": "a1ecbf9e-9344-4664-983e-f5e0e6edb31b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -305342,7 +305342,7 @@
         "company_name": "Brunswick",
         "id": "5791f15a-ff7e-4c9f-8b14-3b5af9b110a6",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -348219,7 +348219,7 @@
         "company_name": "Glencore",
         "id": "9126303f-1b83-4c2d-8667-8bad53a77cf2",
         "title": "Intern Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -355826,7 +355826,7 @@
         "company_name": "SolarWinds",
         "id": "a2442c2f-8f36-4d1f-9f3d-d209f5a7a6cf",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380717,7 +380717,7 @@
         "company_name": "Johnson & Johnson",
         "id": "a9ca20e0-4183-4519-bd96-fb7254f998b2",
         "title": "J&J Surgery: Design & Development Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -408296,7 +408296,7 @@
         "company_name": "State Street",
         "id": "7a65aa84-c8c2-4215-8306-b65f46bfc303",
         "title": "State Street Audit Team - Integrated Audit Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -417112,7 +417112,7 @@
         "company_name": "Fiserv",
         "id": "85ea40d0-e06a-4219-9e2f-06d7582017b4",
         "title": "Military Pathways \u2013 Technology Intern Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -431982,7 +431982,7 @@
         "company_name": "Magna",
         "id": "cb857a6c-6db1-4b1f-a428-c2dbe8249e4f",
         "title": "Destruct Lab Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -440608,7 +440608,7 @@
         "company_name": "Okta",
         "id": "64b5828b-8771-4b0a-9275-150dcd501628",
         "title": "Product Marketing Intern - Orchestration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -449254,7 +449254,7 @@
         "company_name": "Howmet Aerospace",
         "id": "edbede53-a962-4acc-aa38-ee3c96e53363",
         "title": "IT Intern - Hit",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -454918,7 +454918,7 @@
         "company_name": "Intel",
         "id": "a1780486-9301-4ad6-ad77-b5b74e140e26",
         "title": "SOC Design Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
