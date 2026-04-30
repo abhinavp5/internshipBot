@@ -1,32 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nationwide",
-        "id": "5f287cc8-ebea-4754-9eee-837012cdeeae",
-        "title": "Summer 2026 Technology Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756819601,
-        "date_posted": 1756819601,
-        "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2026-Technology-Internship_94309",
-        "locations": [
-            "Des Moines, IA",
-            "Scottsdale, AZ",
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Nationwide",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Other",
         "company_name": "TD Bank",
         "id": "b3b8acd5-4f71-4226-b3ae-e92883206c20",
@@ -1840,29 +1814,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Other",
-        "company_name": "Dick's Sporting Goods",
-        "id": "d7ed3f88-16b9-42f1-8ae9-6c748a42f09f",
-        "title": "Cybersecurity \u2013 Corporate Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756819010,
-        "date_posted": 1756819010,
-        "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Cybersecurity---Summer-2026-Corporate-Internship_202508672-1",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dicks-Sporting-Goods",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Zebra Technologies",
         "id": "bd2fde43-ae7f-4b4d-afe5-d9273e25c92e",
@@ -1979,30 +1930,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "TD Securities",
-        "id": "05ae2ae1-184c-48e1-a037-2e908ddf753e",
-        "title": "Product Analyst Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1756818006,
-        "date_posted": 1756818006,
-        "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Product-Analyst-Intern-Co-op--WINTER-2026-_R_1435127",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Securities",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Nokia",
         "id": "44e7449a-ee56-4d58-8c7d-efec8af6237d",
@@ -2066,29 +1993,6 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/GeoComply",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Dick's Sporting Goods",
-        "id": "926ba589-87b5-48b3-9ef6-630794e68437",
-        "title": "Data Analytics & Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756817627,
-        "date_posted": 1756817627,
-        "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Data-Analytics---Engineering---Summer-2026-Internship_202508666",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dicks-Sporting-Goods",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -2344,29 +2248,6 @@
             "Elmira, NY"
         ],
         "company_url": "https://simplify.jobs/c/Corning",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "TD Bank",
-        "id": "39ad80c8-1a51-4d20-a9db-267243593d87",
-        "title": "Innovation Analyst Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1756818971,
-        "date_posted": 1756818971,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/TD-Terrace---160-Front-Street-West-Corporate-Toronto-Ontario/Innovation-Analyst-Intern-Co-op--WINTER-2026-_R_1436146",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -421583,7 +421464,7 @@
         "company_name": "GE Vernova",
         "id": "fd871539-83f0-4a4f-b575-d66a88cee09c",
         "title": "System & Electronics Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
