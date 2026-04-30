@@ -1,98 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Comcast",
-        "id": "bc975d9e-15fd-4b9b-9965-1a32141557c5",
-        "title": "Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1756769582,
-        "date_posted": 1756769582,
-        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/FL---West-Palm-Beach-1401-Northpoint-Parkway/Engineering-Intern_R419277",
-        "locations": [
-            "West Palm Beach, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Comcast",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "PIMCO",
-        "id": "734c7334-f38e-4341-8eda-3fb57c59a53e",
-        "title": "2026 Summer Internship - Trading Analyst",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756769486,
-        "date_posted": 1756769486,
-        "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2026-Summer-Internship---Trading-Analyst--London_R105647",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/PIMCO",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Comcast",
-        "id": "0aa93aec-244d-474c-b434-960fccf590d3",
-        "title": "Business Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1756770481,
-        "date_posted": 1756770481,
-        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/GA---Atlanta-2605-Circle-75-Pkwy-SE/Business-Analytics-Intern_R419153",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Comcast",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Donaldson Company",
-        "id": "13751bac-afb3-4c72-bc42-3a8e71f17e62",
-        "title": "Product Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756860854,
-        "date_posted": 1756776573,
-        "url": "https://donaldson.wd5.myworkdayjobs.com/donaldsoncareers/job/Bloomington-MN-USA/Product-Management-Intern_JR-24437",
-        "locations": [
-            "Bloomington, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/b0914ae0-67cc-4a7d-ba1c-d8731e2f59a4",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Other",
         "company_name": "Guardian Life",
         "id": "eb0cabc1-7042-4041-9941-411016c3470f",
@@ -17317,7 +17225,7 @@
         "company_name": "Solidigm",
         "id": "7e37923b-7955-4fe4-91f6-d5a8b32eca2d",
         "title": "2026 Undergrad Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -67080,7 +66988,7 @@
         "company_name": "Solidigm",
         "id": "b05d249d-fee9-4d0a-9028-37cbd484a7d1",
         "title": "Graduate Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -244194,7 +244102,7 @@
         "company_name": "Samsung Research America",
         "id": "fd9009e9-5e81-4963-a89c-7da523945342",
         "title": "Research Intern - AI Algorithm Design for 6G - Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -360975,7 +360883,7 @@
         "company_name": "Meta",
         "id": "a906af09-f3fb-4517-9872-8c6adf943d84",
         "title": "Research Scientist Intern - MSL Infra Kernels & Optimizations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370511,7 +370419,7 @@
         "company_name": "Ensono",
         "id": "46635cfd-bfce-49fd-984c-b15875c5b85d",
         "title": "AI Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -438428,7 +438336,7 @@
         "company_name": "RTX",
         "id": "22042e2f-9390-46f1-a3bb-decd1d8bb242",
         "title": "Intern - Software Designer - Web based Tool Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -442109,7 +442017,7 @@
         "company_name": "Lumentum",
         "id": "62a28208-5bfd-46d7-88bf-c2cb349c6b74",
         "title": "Optical Module Integration Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -447304,7 +447212,7 @@
         "company_name": "Altom Transport",
         "id": "4ab9aa88-e249-4833-8c08-24764f27e488",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453203,7 +453111,7 @@
         "company_name": "WSP",
         "id": "c7e1b113-dc57-4fee-860f-e1a9d1025e69",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -453393,7 +453301,7 @@
         "company_name": "WTW",
         "id": "47ec58f6-a6cb-4023-af07-3ca827d4de31",
         "title": "Early Careers: Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -455756,6 +455664,691 @@
             "Moscow, ID"
         ],
         "company_url": "https://simplify.jobs/c/SEL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "dd840ed0-9980-4c2b-a070-00c368c351cf",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777501441,
+        "date_posted": 1777500630,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Toronto-Ontario-Canada/Data-Science-Intern_R-071492",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "d-Matrix",
+        "id": "35066ac0-1560-4dd8-af1e-43c56f13ef8c",
+        "title": "Applied AI Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777501441,
+        "date_posted": 1777500552,
+        "url": "https://jobs.ashbyhq.com/d-Matrix/93a6e6ee-3391-4437-8459-e28eb05eace7/application",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/d-Matrix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "0ed87bec-ad99-494f-a501-d3835ed372d5",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777501628,
+        "date_posted": 1777500687,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00182075",
+        "locations": [
+            "Fort Belvoir, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Robust.ai",
+        "id": "91f21a40-4f2d-4105-93dc-b702318427e2",
+        "title": "Data Nerd Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777501169,
+        "date_posted": 1777500384,
+        "url": "https://jobs.lever.co/robust-ai/2e9a9b5b-2f2a-453c-a6ca-d2569186d451/apply",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RobustAi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Underwriters Laboratories",
+        "id": "477144ac-bb99-4912-b6da-be1ab02a8f5b",
+        "title": "Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777500651,
+        "date_posted": 1777500357,
+        "url": "https://ulse.wd5.myworkdayjobs.com/ulricareers/job/Columbia-MD/Research-Summer-2026-Intern---Fire-Safety-Research-Institute_JR1500-1",
+        "locations": [
+            "Columbia, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Underwriters-Laboratories",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BorgWarner",
+        "id": "0e234975-37c2-400b-9a17-75adbccd10b4",
+        "title": "Software Application Engineering Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1777501262,
+        "date_posted": 1777500474,
+        "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Application-Engineering-Intern--Year-Round-_R2026-1645",
+        "locations": [
+            "Auburn Hills, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/BorgWarner",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "fcaa44e4-dd04-4997-91e1-ff823442265e",
+        "title": "Electronics Component Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777511574,
+        "date_posted": 1777511343,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34230",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "eaeaad91-7d21-4eaf-b0c3-a144a1f82545",
+        "title": "Software Support Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777511521,
+        "date_posted": 1777511345,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34603",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "b3547794-6c7d-45ba-96c6-078e4f87865a",
+        "title": "Optical Test Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777511521,
+        "date_posted": 1777511346,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35283",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "52b0385f-3c0b-43a8-ad5d-40c2772202be",
+        "title": "Software Developer Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777511521,
+        "date_posted": 1777511346,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34725",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AirCapture",
+        "id": "014a55e8-c323-4aa0-b114-848dc841904c",
+        "title": "Materials Characterization Intern - Microwave Systems",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777512061,
+        "date_posted": 1777511882,
+        "url": "https://job-boards.greenhouse.io/aircapture/jobs/4677774006",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AirCapture",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cadence Design Systems",
+        "id": "2e601b39-1ebc-4ba1-84f0-ee1619219b66",
+        "title": "Signal Integrity Validation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1777511538,
+        "date_posted": 1777511129,
+        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Signal-Integrity-Validation-Internship--Summer-2025-_R48033",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Ascensus",
+        "id": "2a12fed0-ecbe-4691-ad79-fbb10bd88f12",
+        "title": "Product Delivery Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1777511477,
+        "date_posted": 1777511120,
+        "url": "https://ascensushr.wd1.myworkdayjobs.com/ascensuscareers/job/Remote-Florida/Nonqualified-Product-Delivery-Intern-Newport_R0021162",
+        "locations": [
+            "Lake Mary, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Ascensus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "ef00b748-352b-4871-a0af-b6b65cf88f68",
+        "title": "Software Designer Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777511521,
+        "date_posted": 1777511344,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34602",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "e1e8b74a-bbfe-434b-ba26-928f17b33cc2",
+        "title": "HW/SW Integration Engineer Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777511629,
+        "date_posted": 1777511347,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35362",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "ccebacf3-3a78-4dc6-8622-681d550955d1",
+        "title": "Hardware Engineer Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777511685,
+        "date_posted": 1777511343,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34232",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Aerospace Corporation",
+        "id": "93b0ca1e-32f5-4a2f-8315-5df2449f7ca8",
+        "title": "Software Systems Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1777511493,
+        "date_posted": 1777511306,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/IC-2026-Software-Systems-Engineer_R015259",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Altom Transport",
+        "id": "8a5ccbc3-224d-4e7b-830f-182f7a408e0a",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777511485,
+        "date_posted": 1777511338,
+        "url": "https://apply.workable.com/altom-transport/j/50A550C791/apply",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Altom-Transport",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "80c7c165-b50f-4379-9cc0-b2370c069c36",
+        "title": "Web Developer Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777511521,
+        "date_posted": 1777511344,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34611",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "3dbbea9a-ca63-4fa8-945f-abc2639bae1e",
+        "title": "Software Designer Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777511521,
+        "date_posted": 1777511345,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34982",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "05b661df-ed46-482b-8ebd-7248a6a234eb",
+        "title": "IP R&D Lab Technologist Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777511521,
+        "date_posted": 1777511345,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34806",
+        "locations": [
+            "Kanata, Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "cdc18b7e-0c00-430b-9e72-ec96ba943281",
+        "title": "Software Designer Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777511521,
+        "date_posted": 1777511345,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34714",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "c3656022-c1f5-43d7-9752-dacfb3d6479d",
+        "title": "Hardware Developer Engineer Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777511653,
+        "date_posted": 1777511346,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34231",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "bcab2c09-0236-40bc-bd04-e337d63d4333",
+        "title": "Software Design Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777511521,
+        "date_posted": 1777511345,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34731",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "bc902773-1b46-4f76-97d8-2c286464ddf6",
+        "title": "Tools and Automation SW Dev Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777511697,
+        "date_posted": 1777511345,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34606",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "baaedbd4-3acd-49fa-9218-3b8c3b0dcc46",
+        "title": "Electromechanical Assembly Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777511521,
+        "date_posted": 1777511343,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34117",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "60ff2402-2f73-4588-8aff-0f7c78e9654d",
+        "title": "Web Developer Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777511521,
+        "date_posted": 1777511345,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34616",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apptronik",
+        "id": "607b4415-ebae-4f35-9ca9-6d14d2ce86ce",
+        "title": "Robotics Software Intern - Real-Time Controls",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777511521,
+        "date_posted": 1777511445,
+        "url": "https://boards.greenhouse.io/apptronik/jobs/5985132004",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apptronik",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "5319183b-cbcd-4111-a355-f6026c2a89a4",
+        "title": "Software Tools Development Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1777511568,
+        "date_posted": 1777511351,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34113",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
