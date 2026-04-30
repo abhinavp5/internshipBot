@@ -1,102 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Corning",
-        "id": "d5cafb7c-5a0b-4a6f-af8e-de43141b29fc",
-        "title": "IT Intern \u2013 Data Scientist",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756833771,
-        "date_posted": 1756833771,
-        "url": "https://corningjobs.corning.com/job/Charlotte-IT-Intern,-Data-Scientist-Summer-2026-NC-28216/1321979900/?ats=successfactors",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Corning",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PricewaterhouseCoopers (PwC)",
-        "id": "b1e58e6d-ed48-48ad-8239-8039350b2d22",
-        "title": "Advisory National \u2013 AI Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756833161,
-        "date_posted": 1756833161,
-        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Advisory-National---AI-Engineering-Intern---Summer-2026_659049WD",
-        "locations": [
-            "Washington, DC",
-            "Dallas, TX",
-            "Chicago, IL",
-            "Norridge, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/PwC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Grant Thornton",
-        "id": "559c1e08-4d94-411e-9798-81d299e85263",
-        "title": "Audit IT Assurance Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756832915,
-        "date_posted": 1756832915,
-        "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/113281",
-        "locations": [
-            "Southfield, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Grant-Thornton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Royal Bank of Canada",
-        "id": "1078901c-d0c0-4c0a-8794-d82a285430ca",
-        "title": "Analytics Engineer Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1756837182,
-        "date_posted": 1756837182,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Winter---CAO--Analytics-Engineer-Intern--4-Months-_R-0000137649",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "US Foods",
         "id": "3bf21aff-ef6e-44fd-8992-005b67b26c79",
@@ -152069,7 +151973,7 @@
         "company_name": "Analog Devices",
         "id": "ad46e6b7-802c-482b-9c03-83efde04eea7",
         "title": "Design Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -190474,7 +190378,7 @@
         "company_name": "Adobe",
         "id": "0b791aea-83e2-45e1-8816-12ef84c88842",
         "title": "Intern - AEM Customer Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -302608,7 +302512,7 @@
         "company_name": "Healthfirst",
         "id": "24be28ad-1a4f-4f3a-ad6f-8df660333755",
         "title": "IT Product Intern \u2013 2026 Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -322360,7 +322264,7 @@
         "company_name": "CFD Research Corporation",
         "id": "06cd2188-16b2-420c-98ec-f7208a46b75e",
         "title": "Intern \u2013 Machine Learning for Computer Vision",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -345880,7 +345784,7 @@
         "company_name": "Wasabi Technologies",
         "id": "280d4d6a-c962-4840-a5ef-2e29d7115e80",
         "title": "Co-op \u2013 AI / Machine Learning Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -355543,7 +355447,7 @@
         "company_name": "Genmab",
         "id": "be9daa97-ed73-4090-8d9f-8433997b106f",
         "title": "Histopathology Imaging Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -378888,7 +378792,7 @@
         "company_name": " CCC Intelligent Solutions",
         "id": "44f0ca6f-767c-42bc-9203-fcde998d92b5",
         "title": "Machine Learning Annotation and Gen AI Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -383793,7 +383697,7 @@
         "company_name": "Cloudflare",
         "id": "b7ae62f6-d27d-44aa-a4c4-3db1f5e54134",
         "title": "MBA Product Marketing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -386694,7 +386598,7 @@
         "company_name": "Airgas",
         "id": "3aade112-1fc5-442f-84dd-0a8c10b104a7",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -391056,7 +390960,7 @@
         "company_name": "Magna",
         "id": "4ff57044-84b4-448d-835e-8a2038fc97b6",
         "title": "Intern Engineering ADAS Perception Features",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -397979,7 +397883,7 @@
         "company_name": "Draper",
         "id": "08243b88-ca42-4255-a67c-94f14428d46d",
         "title": "Electronics and Embedded Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -406095,7 +405999,7 @@
         "company_name": "Samsung",
         "id": "452961c3-a79d-476b-bb50-e206123ec063",
         "title": "Software Engineer Backend Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -408803,7 +408707,7 @@
         "company_name": "CACI",
         "id": "77219645-be90-4464-b3a7-60a0531bf934",
         "title": "Software Engineer \u2013 AI/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -410829,7 +410733,7 @@
         "company_name": " CCC Intelligent Solutions",
         "id": "ba1134da-b837-4895-a69d-80847456369d",
         "title": "Salesforce Support and Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -423905,7 +423809,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "bb1fd9d2-9d1b-4262-b5ff-bfc8e32edd2a",
         "title": "ETAS Agile Project Delivery Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -429574,7 +429478,7 @@
         "company_name": "CME Group",
         "id": "4b95d40c-afe4-4c27-af52-6e7cff541fa8",
         "title": "Quant Risk Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -432112,7 +432016,7 @@
         "company_name": "Geisinger",
         "id": "5f83221e-ed75-4209-af3b-c5e04e5470ef",
         "title": "Undergraduate Intern - Data Governance",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -433064,7 +432968,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "b9599af8-f9b8-49bc-b91c-12213eee38ad",
         "title": "Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -441917,7 +441821,7 @@
         "company_name": "Applied Materials",
         "id": "3cc685ca-d703-4e39-a67f-a0814616e7b5",
         "title": "Copilot ML / Intelligent Automation Intern - New Product Introduction Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443167,7 +443071,7 @@
         "company_name": "Analog Devices",
         "id": "6dfcb375-ddbf-49fe-a5f3-1482ac3cac5c",
         "title": "Systems Integration Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -446090,7 +445994,7 @@
         "company_name": "Slate Auto",
         "id": "5ac53fe6-f8f7-46bc-8cc1-23ef726b61ca",
         "title": "Vehicle Safety & Testing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -447519,7 +447423,7 @@
         "company_name": "Twilio",
         "id": "aaba810e-e8d3-42ec-ac97-6da327566019",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -447683,7 +447587,7 @@
         "company_name": "Cerebras",
         "id": "0871943d-46eb-4067-aa88-d40cee3617b0",
         "title": "AI Engineering Intern - Growth Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -447969,7 +447873,7 @@
         "company_name": "Continental",
         "id": "e594584f-7bd4-490e-a74a-c765064e47da",
         "title": "Surface Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -448991,7 +448895,7 @@
         "company_name": "Citizens Financial Group",
         "id": "687d4946-0e18-469b-affc-1edc2c6d2f0a",
         "title": "Data Science Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
