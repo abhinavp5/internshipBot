@@ -1,146 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Dick's Sporting Goods",
-        "id": "f3409c90-a7da-4a0c-84bf-0b4124ca0ce9",
-        "title": "Data Science \u2013 Corporate Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756800854,
-        "date_posted": 1756800854,
-        "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Data-Science---Summer-2026-Corporate-Internship_202508671-1",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dicks-Sporting-Goods",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Dick's Sporting Goods",
-        "id": "eddf878f-e0ab-4a89-96d3-4cca543a62e1",
-        "title": "Product Management \u2013 Corporate Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761333339,
-        "date_posted": 1756800854,
-        "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Product-Management---Summer-2026-Corporate-Internship_202508667-1",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dicks-Sporting-Goods",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Dick's Sporting Goods",
-        "id": "c5ec9e19-d3f5-4cb1-8fe8-3c8b88648240",
-        "title": "Software Engineering Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756800856,
-        "date_posted": 1756800856,
-        "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Software-Engineering---Summer-2026-Corporate-Internship_202508673-1",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dicks-Sporting-Goods",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "date_updated": 1756801538,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8145488002",
-        "company_name": "Marshall Wace",
-        "title": "Quant Research Intern",
-        "locations": [
-            "London, UK"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Quantitative Finance",
-        "source": "Simplify",
-        "id": "ae097e41-e8cf-4a9c-ac41-c468d8a38d2f",
-        "date_posted": 1756801538,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1756801702,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://www.databricks.com/company/careers/product/product-design-intern-8143588002",
-        "company_name": "Databricks",
-        "title": "Product Design Intern",
-        "locations": [
-            "Seattle, WA",
-            "Bellevue, WA",
-            "Remote"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Other",
-        "source": "XaJason",
-        "id": "5ceb9574-776d-4e90-9e90-11b00a19a0dd",
-        "date_posted": 1756801702,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1760137074,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://search.jobs.barclays/job/-/-/13015/85560168928",
-        "company_name": "Barclays",
-        "title": "Quantitative Finance Associate",
-        "locations": [
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Quantitative Finance",
-        "source": "XaJason",
-        "id": "25398706-5ca4-4ac1-9f93-cd408b5950d1",
-        "date_posted": 1756801863,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "date_updated": 1759958544,
         "sponsorship": "Other",
         "active": true,
@@ -93231,7 +93090,7 @@
         "company_name": "Salesforce",
         "id": "9f667973-2421-4526-bf73-3103d394756f",
         "title": "Intern - AI Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -300138,7 +299997,7 @@
         "company_name": "Tencent",
         "id": "c42f018d-7413-47dd-900e-58cb7e97b198",
         "title": "Multimedia Codec Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -431509,7 +431368,7 @@
         "company_name": "Veralto",
         "id": "715a7b4e-4f6f-4e31-a9ac-5dfa080c5d78",
         "title": "Engineering Intern - Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -436414,7 +436273,7 @@
         "company_name": "Trane Technologies",
         "id": "9c934407-eec1-4535-b80f-08cfceb036f1",
         "title": "Technician Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443438,7 +443297,7 @@
         "company_name": "AHEAD",
         "id": "4d57a7e2-4766-489b-9d6a-7e88179d0f8c",
         "title": "Associate AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -448525,7 +448384,7 @@
         "company_name": "Tencent",
         "id": "6e53b9de-07c4-4545-b612-707fca641b88",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -452671,7 +452530,7 @@
         "company_name": "Integra FEC",
         "id": "b9a99f84-c011-4f16-806a-8ad02e98b530",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
