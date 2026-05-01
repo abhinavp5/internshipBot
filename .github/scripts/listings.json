@@ -1,79 +1,5 @@
 [
     {
-        "date_updated": 1756907922,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://interdigital.wd5.myworkdayjobs.com/en-US/InterDigital_Intern/job/LosAltos_CA/Intern--Deep-Learning-for-Image-and-Video-Processing_REQ25-1014",
-        "company_name": "InterDigital",
-        "title": "Deep Learning for Image and Video Processing",
-        "locations": [
-            "Los Altos, CA"
-        ],
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Fall 2025",
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "ee0379ef-c1e4-42e8-a423-0a7c99314e64",
-        "date_posted": 1756907922,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761338364,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/Cloud-Developer-Associate--Intern-_RQ205801",
-        "company_name": "General Dynamics Information Technology",
-        "title": "Cloud Developer Associate",
-        "locations": [
-            "Bossier City, LA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "3013a6b5-07d8-4678-a461-3932a14ab861",
-        "date_posted": 1756908502,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "United Parcel Service (UPS)",
-        "id": "49943157-2491-4f93-bafd-07f0d55e97d5",
-        "title": "UPS Technology Group Summer 2026 Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756908472,
-        "date_posted": 1756908472,
-        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-PARSIPPANY-NJPRS/UPS-Technology-Group-Summer-2026-Internship---NJ_R25031060",
-        "locations": [
-            "Mahwah, NJ",
-            "Parsippany-Troy Hills, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1758827476,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -175728,7 +175654,7 @@
         "company_name": "Cisco",
         "id": "4051f66f-3c1d-49b1-9130-3e552b68920e",
         "title": "Data Analyst 1",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -200558,7 +200484,7 @@
         "company_name": "General Motors",
         "id": "5803f9bc-8ae8-4932-a0d2-dcf7112dae7a",
         "title": "Intern \u2013 AI/ML Software Engineering Intern - Simulation Core",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -314028,7 +313954,7 @@
         "company_name": "Magna",
         "id": "dee29c7d-6c0f-4770-b640-84f1ec85ad0a",
         "title": "Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -359347,7 +359273,7 @@
         "company_name": "Magna",
         "id": "6ac7c03f-fa0a-4a73-90e0-86cf65de7d4c",
         "title": "Computer Vision AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -385866,7 +385792,7 @@
         "company_name": "Impiricus",
         "id": "b4ea56db-dcfd-4479-8dde-abdf95b8431d",
         "title": "Intern Data Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -388537,7 +388463,7 @@
         "company_name": "Booz Allen",
         "id": "5118959e-05ac-49c3-83b3-95c83e0fa264",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -407224,7 +407150,7 @@
         "company_name": "GE Aerospace",
         "id": "607f759e-177a-4433-a809-342a7f6e4380",
         "title": "Manufacturing Technician Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -415641,7 +415567,7 @@
         "company_name": "BigCommerce",
         "id": "614af212-1ca3-48d6-a1b7-29ea78007cb2",
         "title": "Intern \u2013 Software Engineering - TypeScript / Full Stack",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -419902,7 +419828,7 @@
         "company_name": "RTX",
         "id": "06414f97-fc89-4363-9035-e866c0f2345d",
         "title": "Internship - Manufacturing and Inspection",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026",
@@ -421121,7 +421047,7 @@
         "company_name": "Cummins",
         "id": "a931a581-749c-46b2-9290-036d3b52589f",
         "title": "School to Work - Sales Process Optimization",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -424505,7 +424431,7 @@
         "company_name": "Commvault",
         "id": "8ccd49a7-b8a1-4aa8-843d-8ce7dbd3db68",
         "title": "AI & Support Automation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -429542,7 +429468,7 @@
         "company_name": "Trane Technologies",
         "id": "9c934407-eec1-4535-b80f-08cfceb036f1",
         "title": "Technician Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -431182,7 +431108,7 @@
         "company_name": "Tencent",
         "id": "5d7f71ac-5019-4377-9a96-d95b20a6befe",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni Modal",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -434344,7 +434270,7 @@
         "company_name": "Geisinger",
         "id": "6a78f975-87e3-45cb-89c5-114298d73d35",
         "title": "Undergraduate Intern - Business Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -435328,7 +435254,7 @@
         "company_name": "Toyota Research Institute",
         "id": "3a60f010-c46b-4eab-ab24-a2a2b005aaac",
         "title": "Human-Centered AI Intern: Human-Computer Interaction",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -435587,7 +435513,7 @@
         "company_name": "Viavi Solutions",
         "id": "34ee3266-210b-4161-8568-2fc749d61ff8",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -437858,7 +437784,7 @@
         "company_name": "X Development",
         "id": "575c6736-83c2-4860-a0a8-132002aa2c1d",
         "title": "PhD / Masters Residency Intern - Machine Learning / Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -438119,7 +438045,7 @@
         "company_name": "Tencent",
         "id": "19555b96-50e4-42da-a46d-92c7ed1f191e",
         "title": "Game Operations Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -440602,7 +440528,7 @@
         "company_name": "Magna",
         "id": "75caf436-58a0-4e9b-b08f-0f1506c916e7",
         "title": "Student Intern - Product Management",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -441124,7 +441050,7 @@
         "company_name": "Nerdio",
         "id": "6b3da4fe-a36f-4c1f-b505-e0865dfae401",
         "title": "People Operations & Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -443594,7 +443520,7 @@
         "company_name": "Shopify",
         "id": "048d4314-64a9-4be8-aa3d-f1e9801a7c32",
         "title": "Data and Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -445306,7 +445232,7 @@
         "company_name": "Leidos",
         "id": "360b228e-7966-471d-bf31-9c9db00e7e5e",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -450418,5 +450344,74 @@
         "date_posted": 1777638578,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Inizio",
+        "id": "68aa4029-d995-4953-852c-bee307741639",
+        "title": "Data and Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777645261,
+        "date_posted": 1777645103,
+        "url": "https://job-boards.greenhouse.io/inizio/jobs/7874161",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Inizio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Fifth Third Bank",
+        "id": "faabaf0b-2bd6-4085-a57c-bf1a382ffa01",
+        "title": "Sales and Trading Intern - Sales and Trading",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1777644656,
+        "date_posted": 1777644360,
+        "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Summer-2027-Intern---Sales-and-Trading_R67914",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welocalize",
+        "id": "f888ed06-3182-4e4f-94b4-7763ee515470",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777644361,
+        "date_posted": 1777644253,
+        "url": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/US-remote/Data-Science-Intern_R0007663",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
