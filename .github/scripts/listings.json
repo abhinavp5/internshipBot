@@ -1,403 +1,5 @@
 [
     {
-        "date_updated": 1758827476,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers.usbank.com/global/en/job/2025-0020194/2026-Engineering-Summer-Intern",
-        "company_name": "US Bank",
-        "title": "Engineering Intern",
-        "locations": [
-            "Hopkins, MN"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "40455610-4250-4a9b-8713-92dd178b9eab",
-        "date_posted": 1756924730,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1756924774,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://stripe.com/jobs/listing/software-engineer-intern-summer-and-winter/7210115",
-        "company_name": "Stripe",
-        "title": "Software Engineer, Intern",
-        "locations": [
-            "San Francisco, CA",
-            "Seattle, WA",
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "f0582c4a-908e-4674-bab8-9b3f6f34fd74",
-        "date_posted": 1756924774,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1756924810,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/spacex/jobs/8149124002",
-        "company_name": "SpaceX",
-        "title": "Summer 2026 Engineering Internship/Co-op",
-        "locations": [
-            "Bastrop, TX Irvine, CA Cape Canaveral, FL Brownsville, TX Redmond, WA McGregor, TX West Athens, CA Sunnyvale, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Hardware Engineering",
-        "source": "unvibingcode",
-        "id": "7fbf2f02-32c9-499a-9dc2-bf4d3127f1be",
-        "date_posted": 1756924810,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1756924841,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.plexus.com/careers/job/1099542548181",
-        "company_name": "Plexus",
-        "title": "Intern - Engineering Productivity, Software",
-        "locations": [
-            "Neenah, WI"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "546f95c8-0d54-45d0-b04f-ce40cb9d96ea",
-        "date_posted": 1756924841,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1757038265,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers.oshkoshcorp.com/us/en/job/R40623/Engineer-Intern-Software-Summer-2026",
-        "company_name": "Oshkosh",
-        "title": "Engineer Intern - Software",
-        "locations": [
-            "Greenville, WI",
-            "Oshkosh, WI"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "f15a7398-c7b1-4b97-90c6-01f669f10139",
-        "date_posted": 1756924859,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1756924894,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Computer-Architecture_JR2003201-1",
-        "company_name": "NVIDIA",
-        "title": "Computer Architecture Intern",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "60e7addb-b1f8-4a5e-b114-7e1d0b5c1039",
-        "date_posted": 1756924894,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1756924917,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Deep-Learning_JR2003208",
-        "company_name": "NVIDIA",
-        "title": "Deep Learning Intern",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "de0156a4-3a05-4c6b-bd3d-113d7abc9642",
-        "date_posted": 1756924917,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1756924937,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Systems-Software-Engineering_JR2003204",
-        "company_name": "NVIDIA",
-        "title": "Systems Software Engineering Intern",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "0a2c1dc8-b051-408d-9395-4a7f6a431a6a",
-        "date_posted": 1756924937,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1756924954,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Deep-Learning-Computer-Architecture_JR2003202",
-        "company_name": "NVIDIA",
-        "title": "Deep Learning Computer Architecture Intern",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "aa2fe8f6-1a51-407d-998e-fb87d1dba344",
-        "date_posted": 1756924954,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1756924975,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Hardware-ASIC-Design-_JR2003195",
-        "company_name": "NVIDIA",
-        "title": "Hardware ASIC Design Intern",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Hardware Engineering",
-        "source": "unvibingcode",
-        "id": "33845e5b-666b-4258-a75e-d2453d1fc5f3",
-        "date_posted": 1756924975,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1756924989,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Hardware-Engineering-_JR2003200",
-        "company_name": "NVIDIA",
-        "title": "Hardware Engineering Intern",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Hardware Engineering",
-        "source": "unvibingcode",
-        "id": "6c06b20c-85e3-4b3d-bbe0-75148843021b",
-        "date_posted": 1756924989,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1756925002,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Hardware-Verification-_JR2003197",
-        "company_name": "NVIDIA",
-        "title": "Hardware Verification Intern",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Hardware Engineering",
-        "source": "unvibingcode",
-        "id": "23d25393-4f05-4cbe-8d5b-2e4d9b27b33d",
-        "date_posted": 1756925002,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1756925014,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Mixed-Signal-Design-and-Digital-Circuit-Design_JR2003199",
-        "company_name": "NVIDIA",
-        "title": "Mixed Signal Design and Digital Circuit Design Intern",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Hardware Engineering",
-        "source": "unvibingcode",
-        "id": "352588a9-d220-43f1-9f3b-5e507ac6c35d",
-        "date_posted": 1756925014,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1758244649,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Software-Development_R146632-1",
-        "company_name": "Northern Trust",
-        "title": "Technology Intern \u2013 Software Development",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "8cb4cac4-08c2-4d2b-a1ab-241c16da0cad",
-        "date_posted": 1756925028,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1756925043,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/details/Software-Engineering----Intern--Bachelor-s_JR0276773?workerSubType=dc8bf79476611087dfde99931439ae75&jobFamilyGroup=dc8bf79476611087d67b36517cf17036",
-        "company_name": "Intel",
-        "title": "Software Engineering Intern",
-        "locations": [
-            "Hillsboro, OR",
-            "Folsom, CA",
-            "Santa Clara, CA",
-            "Austin, TX",
-            "Phoenix, AZ"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "dd8a1d92-b3ed-4880-80b3-30847f212b20",
-        "date_posted": 1756925043,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1758244625,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.baesystems.com/global/en/job/BAE1US115385BREXTERNAL/Software-Engineering-Intern-Summer-2026",
-        "company_name": "BAE Systems",
-        "title": "Software Engineering Intern",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "740391a8-0d95-40cf-bbae-78c6a560582e",
-        "date_posted": 1756925057,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1756925120,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Autonomous-Vehicles-and-Robotics_JR2003207",
-        "company_name": "NVIDIA",
-        "title": "Autonomous Vehicles and Robotics Intern",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "544f5951-4740-4be0-9415-cd1063969357",
-        "date_posted": 1756925120,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Geneva Trading",
@@ -152481,7 +152083,7 @@
         "company_name": "Bandwidth",
         "id": "73c72c9b-097d-4be3-8ebc-4ede0626d13b",
         "title": "Software Development Intern - Messaging - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -194507,7 +194109,7 @@
         "company_name": "The Washington Post",
         "id": "cbd19d8a-98f7-48cb-817e-adfdb205810c",
         "title": "Intern - Site Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -285016,7 +284618,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "f1fc604d-ff25-4883-a36a-ff5da7395175",
         "title": "Wireless Driver Development Intern - \u00c9t\u00e9 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -305586,7 +305188,7 @@
         "company_name": "Lasko Products",
         "id": "ac82ebe4-e1cb-4c55-9aa8-6dfdb70ef583",
         "title": "Product Management Internship-Fans",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -331147,7 +330749,7 @@
         "company_name": "IMO Health",
         "id": "76985d08-81e8-472e-9737-3a97701375a5",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -353800,7 +353402,7 @@
         "company_name": "Meta",
         "id": "8a259c97-f4fc-43e7-9493-f2824159d556",
         "title": "Research Scientist Intern - Mathematics - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -381566,7 +381168,7 @@
         "company_name": "Guidewire",
         "id": "6ee0b481-9281-47e1-9ec2-2dadb891f2d6",
         "title": "Data Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -396876,7 +396478,7 @@
         "company_name": "Zayo",
         "id": "b8142b7e-48f2-4f2e-9107-029512a3b86b",
         "title": "Intern Test and Acceptance",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -418923,7 +418525,7 @@
         "company_name": "Cadence Design Systems",
         "id": "ca2f8795-1a8b-4c23-bb64-8bee9efa92d1",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -419152,7 +418754,7 @@
         "company_name": "Cadence Design Systems",
         "id": "6d509452-87e1-4cc9-b7f2-51bbc97a53ab",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -441357,7 +440959,7 @@
         "company_name": "Leggett & Platt",
         "id": "e47f72ac-f294-42e0-a009-226ee6464eb7",
         "title": "Hardware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -447542,7 +447144,7 @@
         "company_name": "HERE Technologies",
         "id": "aa68e2da-e2bf-47f5-ae56-5b86cc5d9cfa",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -449036,7 +448638,7 @@
         "company_name": "Dover",
         "id": "80a717bd-2438-4329-8bf2-6c419050dde0",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -449523,7 +449125,7 @@
         "company_name": "Hologic",
         "id": "b6b71b98-548c-4262-8cf1-d7781499c253",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
