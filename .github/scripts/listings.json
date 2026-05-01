@@ -407923,7 +407923,7 @@
         "company_name": "Kroll",
         "id": "1d10a4af-79f2-45b4-b45d-6ab6d1af7e65",
         "title": "Intern Technology - Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -419801,7 +419801,7 @@
         "company_name": "Uline",
         "id": "1aa2c19e-9226-4db6-8f74-e7b64c088a7c",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -421609,7 +421609,7 @@
         "company_name": "Nexthink",
         "id": "280dfc68-d025-4ab2-976d-51e74fe27459",
         "title": "Product Marketing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -441724,7 +441724,7 @@
         "company_name": "CACI",
         "id": "039ac99c-4da4-4da1-a0b6-1b56f36907d7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
