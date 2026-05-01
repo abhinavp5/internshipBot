@@ -356657,9 +356657,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1772815197,
+        "date_updated": 1777633706,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -367551,9 +367551,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773321710,
+        "date_updated": 1777633706,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -367790,9 +367790,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773323206,
+        "date_updated": 1777633706,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -387013,9 +387013,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1774258566,
+        "date_updated": 1777633706,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -398905,9 +398905,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1774875478,
+        "date_updated": 1777633706,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -416647,9 +416647,9 @@
         ]
     },
     {
-        "date_updated": 1775645242,
+        "date_updated": 1777633706,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -450004,5 +450004,75 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1777633240,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://www.tesla.com/careers/search/job/internship-software-engineering-people-systems-fall-2026-269198",
+        "company_name": "Tesla",
+        "title": "Software Engineering, People Systems",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "terms": [
+            "Fall 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "Natoli74",
+        "id": "26e01598-394f-4632-bb4b-e0ad6df2e223",
+        "date_posted": 1777633240,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "fc6c579d-ee24-4ae2-a732-f327e3598a47",
+        "title": "Chinese Language-Enabled OSINT Collector Intern - Junior",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1777630568,
+        "date_posted": 1777500686,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Cape-Canaveral-FL/Chinese-Language-Enabled-OSINT-Collector--Junior-_R-00182059",
+        "locations": [
+            "Cape Canaveral, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Planet",
+        "id": "610eea04-3bb4-4423-b243-6f822a05b85b",
+        "title": "Space Operations Associate Intern - Superdove Mission",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1777622497,
+        "date_posted": 1777414641,
+        "url": "https://job-boards.greenhouse.io/planetlabs/jobs/7811218",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Planet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
