@@ -1,28 +1,5 @@
 [
     {
-        "date_updated": 1756902806,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8062751002",
-        "company_name": "Marshall Wace",
-        "title": "Technology Intern",
-        "locations": [
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "0adeabed-7932-4e5d-848b-d2bd0a09d1b2",
-        "date_posted": 1756902806,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1756907922,
         "sponsorship": "Other",
         "active": true,
@@ -168359,7 +168336,7 @@
         "company_name": "PTC",
         "id": "f09a4fd9-2510-4678-83ef-9e64318e81b1",
         "title": "Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -169791,7 +169768,7 @@
         "company_name": "Cisco",
         "id": "68c24854-bd2b-440a-80b7-713cdeb9e5d3",
         "title": "AI Machine Learning Engineer 2 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -171244,7 +171221,7 @@
         "company_name": "Cisco",
         "id": "6e891cb1-1cbd-4d19-a472-949beff3a81b",
         "title": "Hardware Engineer 1",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -422140,7 +422117,7 @@
         "company_name": "Vanguard",
         "id": "fbce8bc2-e25d-4239-bbd8-2fc7dd74a768",
         "title": "Application Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -431558,7 +431535,7 @@
         "company_name": "Leidos",
         "id": "3b9705b9-3ad7-4c77-97aa-e51cc37e4a70",
         "title": "Speech Processing / ASR for Low-Resource Languages Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -434069,7 +434046,7 @@
         "company_name": "Insulet Corporation",
         "id": "a368a6c2-4153-407c-874d-e5e610ffbf7b",
         "title": "Supplier Engineering Co-op - Project Excellence",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -434904,7 +434881,7 @@
         "company_name": "Fermilab",
         "id": "ce736bd3-58e6-4bc6-8cfe-e85dc1620ec3",
         "title": "Student Research Assistant 1 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -443285,7 +443262,7 @@
         "company_name": "AI Fund",
         "id": "62c54395-f8f5-49b5-9697-8ea6c693ee31",
         "title": "Visiting Engineer: CAD Design AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -445776,7 +445753,7 @@
         "company_name": "Integra FEC",
         "id": "5e6027c1-06ff-4833-98fc-5748108833bf",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -449087,7 +449064,7 @@
         "company_name": "Leidos",
         "id": "1e32658d-8ea8-4ca4-8785-770ab8804015",
         "title": "Doc Control / CAD Drafter Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -449252,7 +449229,7 @@
         "company_name": "DoorDash",
         "id": "1184bddc-5d14-4805-8849-f08c3efbfd74",
         "title": "AI Research Fellowship Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -450074,5 +450051,372 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Elsevier",
+        "id": "91e54ebb-5337-4a63-920b-2eac70413c47",
+        "title": "Acquisitions Editorial Assistant Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1777627495,
+        "date_posted": 1777557989,
+        "url": "https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/United-Kingdom/Intern_R112302",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Elsevier",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "date_updated": 1777637018,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/Troy-MI---USA/Software-Test-Engineering-Intern_J000685610",
+        "company_name": "Aptiv",
+        "title": "Software Test Engineering Intern",
+        "locations": [
+            "Troy, MI"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "cd0d594d-c562-4377-8db8-d25cc59b7160",
+        "date_posted": 1777637018,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1777637131,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.eu.greenhouse.io/axiomaticai/jobs/4848121101",
+        "company_name": "Axiomatic AI",
+        "title": "Software Engineering Internship \u2013 AI/Agentic Systems",
+        "locations": [
+            "Boston, MA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "f43a9396-7c89-4fa7-bfd1-eca8533895fb",
+        "date_posted": 1777637092,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1777637166,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://job-boards.eu.greenhouse.io/axiomaticai/jobs/4848128101",
+        "company_name": "Axiomatic AI",
+        "title": "Software Engineering Internship \u2013 Platform/DevOps",
+        "locations": [
+            "Boston, MA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "55023fd3-ef60-49f4-ac11-5d1fe01b0a7d",
+        "date_posted": 1777637166,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1777637277,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b",
+        "company_name": "Rainmaker",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "6030164c-e664-402f-979c-959537416807",
+        "date_posted": 1777637277,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1777637337,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/rts/job/Addison-TX/Managed-Cloud-Delivery-Intern_R1226",
+        "company_name": "Resolve Tech Solutions",
+        "title": "Managed Cloud Delivery Intern",
+        "locations": [
+            "Addison, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "bb2ba49b-b37c-4e4e-a264-b92d1dbbf970",
+        "date_posted": 1777637337,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1777637403,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af",
+        "company_name": "Vital Lyfe",
+        "title": "Software Engineering Internship",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "12d4fcd1-1f8e-4f9b-a3f6-e56dc7d23baf",
+        "date_posted": 1777637403,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1777637481,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-axway.icims.com/jobs/8658/cloud-systems-engineer%2c-internship/job",
+        "company_name": "Axway",
+        "title": "Cloud Systems Engineer, Internship",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "bf10902d-ebad-42f4-9f59-5b38d3cf694c",
+        "date_posted": 1777637481,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1777637736,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.ashbyhq.com/atomicsemi/867c67f7-20b5-4726-b9da-85a760d3851e",
+        "company_name": "Atomic Semi",
+        "title": "Infrastructure Software Engineering Intern",
+        "locations": [
+            "San Francisco, CA",
+            "Austin, TX"
+        ],
+        "terms": [
+            "Fall 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "d01c4677-7ce0-40d5-85fe-0ed50a4d160c",
+        "date_posted": 1777637736,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1777637847,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.ashbyhq.com/kira/d46f8721-f33d-4539-bb78-e07f204e8ee8",
+        "company_name": "Kira",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "92837f3a-76ae-46c6-9a64-bf3ccc51ce73",
+        "date_posted": 1777637847,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1777637892,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.ashbyhq.com/kira/22b09832-e23b-44a4-9c03-46512e14499c",
+        "company_name": "Kira",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "26ef7e9c-b952-43fc-9761-275d23218c4d",
+        "date_posted": 1777637892,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1777638047,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://resolvetech.wd1.myworkdayjobs.com/en-US/rts/job/Addison-TX/AI---ML-Intern_R1225",
+        "company_name": "Resolve Tech Solutions",
+        "title": "AI & ML Intern",
+        "locations": [
+            "Addison, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "41853be4-e0ab-4cea-b806-c93d11394fc2",
+        "date_posted": 1777638047,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1777638156,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://apply.workable.com/tmeic-corporation-americas/j/8B7205061B/",
+        "company_name": "TMEIC",
+        "title": "Intern - Applications, AI and Machine Learning",
+        "locations": [
+            "Roanoke, VA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "d026df8b-eade-4ad4-831b-9d0c8750f816",
+        "date_posted": 1777638156,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1777638201,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://apply.workable.com/tmeic-corporation-americas/j/FD4C9770FF/",
+        "company_name": "TMEIC",
+        "title": "Intern - Applications, AI and Machine Learning",
+        "locations": [
+            "Roanoke, VA"
+        ],
+        "terms": [
+            "Fall 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "e0647c2a-0896-4d56-9593-5e049a2824e8",
+        "date_posted": 1777638201,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1777638524,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://job-boards.greenhouse.io/cobaltio/jobs/8512243002",
+        "company_name": "Cobalt",
+        "title": "Data Science - Agentic AI Intern",
+        "locations": [
+            "Remote in US"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "c1b571ef-de82-4792-8035-782a245125e4",
+        "date_posted": 1777638524,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1777638578,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers-sharpusa.icims.com/jobs/8688/summer-intern--ai-process-automation%2c-supply-chain-and-operations/job",
+        "company_name": "Sharp",
+        "title": "Summer Intern- AI Process Automation, Supply Chain and Operations",
+        "locations": [
+            "Montvale, NJ"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "e78df333-014b-4cd7-b7ed-11bb65545192",
+        "date_posted": 1777638578,
+        "company_url": "",
+        "is_visible": true
     }
 ]
