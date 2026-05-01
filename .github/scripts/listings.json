@@ -1,238 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "TD Bank",
-        "id": "7e9865ec-86b3-4ff1-8b03-72a54f7c2710",
-        "title": "2026 Internship Program - IT Audit",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1756884015,
-        "date_posted": 1756884015,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2026-Internship-Program---IT-Audit--NYC-_R_1442722",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ASSA ABLOY",
-        "id": "159419ee-9b51-4594-9e4f-394f1a0c4f5e",
-        "title": "Data Process Automation Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756949126,
-        "date_posted": 1756883691,
-        "url": "https://assaabloy.jobs2web.com/job/Lake-Forest-Data-Process-Automation-Intern-CA-92610/1225131801/?ats=successfactors",
-        "locations": [
-            "Lake Forest, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ASSA-ABLOY",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Broadridge",
-        "id": "fc5407a3-6c0a-42ae-882f-9b4ebf69c596",
-        "title": "2026 Summer Internship Program - Technology",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756884869,
-        "date_posted": 1756884869,
-        "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/New-York-NY/XMLNAME-2026-Summer-Internship-Program---Technology_JR1076089",
-        "locations": [
-            "Newark, NJ",
-            "NYC",
-            "Catskill, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Broadridge",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "TD Bank",
-        "id": "9f5feffe-e6ef-4bde-b96d-3cc26809a16e",
-        "title": "2026 Internship Program - IT Audit",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756884556,
-        "date_posted": 1756884556,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2026-Internship-Program---IT-Audit--NJ-_R_1442721",
-        "locations": [
-            "Mt Laurel Township, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "TD Bank",
-        "id": "5699232b-552c-4ab4-b498-bbf90d1c0320",
-        "title": "2026 Internship Program - IT Audit",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756884556,
-        "date_posted": 1756884556,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Greenville-South-Carolina/XMLNAME-2026-Internship-Program---IT-Audit--SC-_R_1442720",
-        "locations": [
-            "Greenville, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "United Parcel Service (UPS)",
-        "id": "ee6754a1-213e-44bd-9a16-782d037d362c",
-        "title": "UPS Technology Group Summer 2026 Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756885763,
-        "date_posted": 1756885763,
-        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-MARYLAND-MDROA/UPS-Technology-Group-Summer-2026-Internship---MD_R25031073",
-        "locations": [
-            "Towson, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "United Parcel Service (UPS)",
-        "id": "b9eb7d8b-b166-4119-91f4-50e08c44de62",
-        "title": "UPS Technology Group Summer 2026 Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756885760,
-        "date_posted": 1756885760,
-        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Technology-Group-Summer-2026-Internship---GA_R25031063",
-        "locations": [
-            "Alpharetta, GA",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "RSM",
-        "id": "f9c340e8-aaf5-400f-aaf5-f36f4f2e9d49",
-        "title": "Cyber Testing Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756885533,
-        "date_posted": 1756885533,
-        "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/Cyber-Testing-Intern---Summer-2026_JR110646",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/RSM",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "RSM",
-        "id": "d8d4add0-86da-47a5-b5f6-b2bbc215e2fa",
-        "title": "Cyber Servicenow Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756885520,
-        "date_posted": 1756885520,
-        "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/Cyber-ServiceNow-Developer-Intern---Summer-2026_JR113649",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/RSM",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "United Parcel Service (UPS)",
-        "id": "083a970f-f312-45c6-9bf0-317a047e3edb",
-        "title": "UPS Technology Group Summer 2026 Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1756886414,
-        "date_posted": 1756886414,
-        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---AIR-GROUP-BUILDING-KYARP/UPS-Technology-Group-Summer-2026-Internship---KY_R25031071",
-        "locations": [
-            "Louisville, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1756902806,
         "sponsorship": "U.S. Citizenship is Required",
         "active": false,
@@ -139174,7 +138941,7 @@
         "company_name": "Regal Rexnord",
         "id": "4456cad6-e757-46c2-8a29-5cbcfdbc02dd",
         "title": "Application Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -177279,7 +177046,7 @@
         "company_name": "Cisco",
         "id": "3b9caaa6-7f40-4f6b-b94c-2b47ed4af777",
         "title": "AI Research Scientist 1 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -200814,7 +200581,7 @@
         "company_name": "General Motors",
         "id": "5803f9bc-8ae8-4932-a0d2-dcf7112dae7a",
         "title": "Intern \u2013 AI/ML Software Engineering Intern - Simulation Core",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -415897,7 +415664,7 @@
         "company_name": "BigCommerce",
         "id": "614af212-1ca3-48d6-a1b7-29ea78007cb2",
         "title": "Intern \u2013 Software Engineering - TypeScript / Full Stack",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -431438,7 +431205,7 @@
         "company_name": "Tencent",
         "id": "5d7f71ac-5019-4377-9a96-d95b20a6befe",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni Modal",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -431791,7 +431558,7 @@
         "company_name": "Leidos",
         "id": "3b9705b9-3ad7-4c77-97aa-e51cc37e4a70",
         "title": "Speech Processing / ASR for Low-Resource Languages Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -435584,7 +435351,7 @@
         "company_name": "Toyota Research Institute",
         "id": "3a60f010-c46b-4eab-ab24-a2a2b005aaac",
         "title": "Human-Centered AI Intern: Human-Computer Interaction",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -438114,7 +437881,7 @@
         "company_name": "X Development",
         "id": "575c6736-83c2-4860-a0a8-132002aa2c1d",
         "title": "PhD / Masters Residency Intern - Machine Learning / Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -438375,7 +438142,7 @@
         "company_name": "Tencent",
         "id": "19555b96-50e4-42da-a46d-92c7ed1f191e",
         "title": "Game Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -441380,7 +441147,7 @@
         "company_name": "Nerdio",
         "id": "6b3da4fe-a36f-4c1f-b505-e0865dfae401",
         "title": "People Operations & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443123,7 +442890,7 @@
         "company_name": "Legal & General",
         "id": "40eec256-c305-4d2d-a4ac-6cb69dbedf75",
         "title": "Technology Programme Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443332,7 +443099,7 @@
         "company_name": "Savannah River National Laboratory",
         "id": "a5e59c3a-7030-46cd-8daa-99308ceb287d",
         "title": "Software Developer ASPIRE Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -443539,7 +443306,7 @@
         "company_name": "AI Fund",
         "id": "130031de-4390-465c-819b-f088fd95a160",
         "title": "Visiting Engineer: Live Selling Copilot Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -443850,7 +443617,7 @@
         "company_name": "Shopify",
         "id": "048d4314-64a9-4be8-aa3d-f1e9801a7c32",
         "title": "Data and Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -444848,7 +444615,7 @@
         "company_name": "Penumbra Inc",
         "id": "5a26b85a-8751-4051-a128-1435353244b4",
         "title": "Neurovascular Product Marketing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -444938,7 +444705,7 @@
         "company_name": "Netflix",
         "id": "7248f7be-bf62-4a1b-a01b-3e4f27918644",
         "title": "Video Algorithms Intern - Video Coding - Gaussian Splatting",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -446009,7 +445776,7 @@
         "company_name": "Integra FEC",
         "id": "5e6027c1-06ff-4833-98fc-5748108833bf",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -450216,5 +449983,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AI Fund",
+        "id": "10f63732-b872-4b8f-bbb7-529d8b168ab6",
+        "title": "Engineer in Residence: Enterprise Agent Infrastructure Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1777625065,
+        "date_posted": 1777266417,
+        "url": "https://jobs.lever.co/AIFund/0b219991-32db-4827-b052-7207faac151d/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AI-Fund",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
