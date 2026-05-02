@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 993 Internship Roles by Category
+### Browse 991 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (344)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (342)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (76)
 
@@ -134,13 +134,6 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Fiserv?utm_source=GHList&utm_medium=company">Fiserv</a></strong></td>
-<td>Technology Intern</td>
-<td>Alpharetta, GA</td>
-<td><div align="center"><a href="https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Technology---Summer-Intern_R-10390263?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/300adb5c-9de8-407e-a4c9-b38bc4c62aa8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>Technology Intern</td>
 <td>Alpharetta, GA</td>
 <td><div align="center"><a href="https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Technology---Summer-Intern_R-10390231?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/cd52bc89-cc48-4d57-9d20-ecb73f749d9b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -1194,7 +1187,7 @@
 <td>Software Intern</td>
 <td>New York, NY</td>
 <td><div align="center"><a href="https://jobs.dayforcehcm.com/en-US/otg/CANDIDATEPORTAL/jobs/39712?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Jencap?utm_source=GHList&utm_medium=company">Jencap</a></strong></td>
@@ -2051,13 +2044,6 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Walter-P-Moore?utm_source=GHList&utm_medium=company">Walter P Moore</a></strong></td>
-<td>Software Developer Intern - Structural</td>
-<td><details><summary><strong>11 locations</strong></summary>Las Vegas, NV<br>Orlando, FL<br>Houston, TX<br>El Paso, TX<br>Austin, TX<br>Miami, FL<br>Dallas, TX<br>Charlotte, NC<br>Kansas City, MO<br>Oklahoma City, OK<br>Atlanta, GA</details></td>
-<td><div align="center"><a href="https://careers-walterpmoore.icims.com/jobs/4046/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/31afeca5-aed1-41e2-8a74-fc90d0460fd2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Cockroach-Labs?utm_source=GHList&utm_medium=company">Cockroach Labs</a></strong></td>
 <td>Engineering Intern</td>
 <td>NYC</td>
@@ -2502,7 +2488,7 @@
 </table>
 
 
-🔒 **[See 3903 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
+🔒 **[See 3898 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)**
 
 
 
@@ -3059,7 +3045,7 @@
 </table>
 
 
-🔒 **[See 904 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)**
+🔒 **[See 903 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)**
 
 
 
@@ -5921,7 +5907,7 @@
 </table>
 
 
-🔒 **[See 5489 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
+🔒 **[See 5482 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)**
 
 
 
@@ -6014,7 +6000,7 @@
 </table>
 
 
-🔒 **[See 281 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)**
+🔒 **[See 279 more closed roles →](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)**
 
 
 
@@ -6089,6 +6075,20 @@
 <td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338-Ast-Salt-Lake-City/Software-Engineering-Intern----Summer-2026----Onsite-_01842000?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c2bf2e96-d217-4d3d-a702-81b3003c1909?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>2d</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Cisco?utm_source=GHList&utm_medium=company">Cisco</a></strong></td>
+<td>Associate Application Engineer 2 Co-op</td>
+<td>Acton, MA</td>
+<td><div align="center"><a href="https://careers.cisco.com/global/en/job/2011705?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/36f9e93a-2c67-43f9-97cc-7f70408fcab5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Curtiss-Wright?utm_source=GHList&utm_medium=company">Curtiss-Wright Corporation</a></strong></td>
+<td>Engineering Intern</td>
+<td>Portland, OR</td>
+<td><div align="center"><a href="https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-OR-Portland-Williams/Intern----Engineering_JR11326?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bfb49f99-20e9-4c19-b533-2d20960bca96?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td>2d</td>
+</tr>
 </tbody>
 </table>
 
@@ -6115,20 +6115,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Cisco?utm_source=GHList&utm_medium=company">Cisco</a></strong></td>
-<td>Associate Application Engineer 2 Co-op</td>
-<td>Acton, MA</td>
-<td><div align="center"><a href="https://careers.cisco.com/global/en/job/2011705?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/36f9e93a-2c67-43f9-97cc-7f70408fcab5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Curtiss-Wright?utm_source=GHList&utm_medium=company">Curtiss-Wright Corporation</a></strong></td>
-<td>Engineering Intern</td>
-<td>Portland, OR</td>
-<td><div align="center"><a href="https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-OR-Portland-Williams/Intern----Engineering_JR11326?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bfb49f99-20e9-4c19-b533-2d20960bca96?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>2d</td>
-</tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Intel?utm_source=GHList&utm_medium=company">Intel</a></strong></td>
 <td>AI Software Engineering Intern</td>
