@@ -1,28 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Leidos",
-        "id": "9dc39720-12d4-4e36-869d-c221e27e2f43",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757121966,
-        "date_posted": 1757074446,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering-Intern_R-00165959",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1757081424,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -438205,7 +438182,7 @@
         "company_name": "Salesforce",
         "id": "5ee547d7-015b-4384-a92f-3442f2d34bef",
         "title": "Intern - AI & Data Science Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -438251,7 +438228,7 @@
         "company_name": "Salesforce",
         "id": "ddfdb158-4132-4ced-a4c3-3b6ed59047c7",
         "title": "Intern - AI & Data Science Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
