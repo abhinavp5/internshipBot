@@ -188,77 +188,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Verizon Communications",
-        "id": "be358c52-05e1-4151-a71a-e876f0d86088",
-        "title": "Vteamer for a Day Global Solutions Intern Program",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1757365838,
-        "date_posted": 1757365838,
-        "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/VTeamer-for-a-Day-2025-Global-Solutions-Intern-Program_R-1084554",
-        "locations": [
-            "Berkeley Heights, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Verizon-Communications",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TruStage",
-        "id": "74756b56-252d-4be3-b7b7-304691d77a90",
-        "title": "B2B Lending Data & Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757365795,
-        "date_posted": 1757365795,
-        "url": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Madison-WI/B2B-Lending-Data---Analytics-Intern--Hybrid-_R-011327",
-        "locations": [
-            "Madison, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/TruStage",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Intact",
-        "id": "97d8103a-0fe6-4373-8cfe-ac6b25beb12e",
-        "title": "IT Technical Advisor",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1761287324,
-        "date_posted": 1757364451,
-        "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Conseiller-technique-TI--Stage-Co-op-de-4-mois--Hiver-2026-_R148747",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Intact",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1761273582,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": false,
@@ -8023,30 +7952,6 @@
             "Lehi, UT"
         ],
         "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Crowe",
-        "id": "b5a12285-496e-4bd6-90d4-909e9adde032",
-        "title": "Data Analytics Developer Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1757496048,
-        "date_posted": 1757364746,
-        "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-50105",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Crowe",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -229790,7 +229695,7 @@
         "company_name": "Cohere",
         "id": "0197f8b1-8100-445a-a4d0-3dd0ebfb5b66",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -375006,7 +374911,7 @@
         "company_name": "SitusAMC",
         "id": "097e1331-4666-41a7-8c1b-09e87520a983",
         "title": "Intern \u2013 Business Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -386978,7 +386883,7 @@
         "company_name": "Dusty Robotics",
         "id": "007c7101-37e4-42f7-8e04-aa325c021900",
         "title": "Fullstack Software Engineering Intern - Web Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -418674,7 +418579,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "1e40ef82-492a-44ff-9c5a-ae3cb72711fc",
         "title": "Software Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -427497,7 +427402,7 @@
         "company_name": "Horace Mann",
         "id": "0b3ed28d-0edf-4137-8e5b-28ac02329ad3",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -429811,7 +429716,7 @@
         "company_name": "Remedy Scientific",
         "id": "1a5dbd12-01c4-459d-b489-dcbab5a3b0f8",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
