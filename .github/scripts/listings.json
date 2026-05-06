@@ -236834,7 +236834,7 @@
         "company_name": "Roku",
         "id": "df171f23-16d6-4ba0-8952-f6a97db1b711",
         "title": "Software Engineer Intern - Tools",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -249587,7 +249587,7 @@
         "company_name": "LabCorp",
         "id": "82620b43-1609-4bf7-8f95-b172054c6cdd",
         "title": "Intern Data Science and Artificial Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -393679,7 +393679,7 @@
         "company_name": "Atos",
         "id": "43582307-c893-42b4-b42d-a3c849db7ab8",
         "title": "Apprentice D&AI Resource",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -426643,7 +426643,7 @@
         "company_name": "Leidos",
         "id": "4440559e-416b-4444-9db8-a21b61996743",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -440346,7 +440346,7 @@
         "company_name": "Leidos",
         "id": "fd5a8521-4005-4532-8abf-fbe39bd79e6e",
         "title": "Junior Cyber Electromagnetic Activities Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -440558,7 +440558,7 @@
         "company_name": "Tesla",
         "id": "a0e95457-348b-495c-b6ca-6c74a2122451",
         "title": "Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -440628,7 +440628,7 @@
         "company_name": "Tesla",
         "id": "6f90b990-327d-4a8f-9b22-f0d6cc181eaa",
         "title": "Software Integration Engineer Intern - Software Integration Engineer - Optimus",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
