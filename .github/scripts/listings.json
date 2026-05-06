@@ -1,80 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "aec1f394-e266-4e8b-97a5-1131b11d8196",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757388721,
-        "date_posted": 1757358545,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN206-3939PriorityWay-3939-Priority-Way-Building-6-Indianapolis-IN-46240-USA/XMLNAME-2026-Intern---Raytheon-Software-Engineering-Intern--On-site-_01789901",
-        "locations": [
-            "Indianapolis, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "HP IQ",
-        "id": "a5d28dfd-f274-4c03-a342-169966b46cd9",
-        "title": "Software Engineering Intern - Product Security",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1757358370,
-        "date_posted": 1757358370,
-        "url": "https://job-boards.greenhouse.io/hpiq/jobs/5623297004",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/HP-IQ",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intact",
-        "id": "8cb09b72-a0c3-40cb-9b61-cfda4c14b9a0",
-        "title": "Software Developer \u2013 4 months Internship/Coop",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1757358414,
-        "date_posted": 1757358414,
-        "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Software-Developer---4-months-Internship-Coop--Winter-2026--_R148635",
-        "locations": [
-            "Montreal, QC, Canada",
-            "Longueuil, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Intact",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Hartford Financial Services",
         "id": "e4995de7-2915-405b-a186-beab707bfb99",
@@ -333,225 +259,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Ontario Teachers' Pension Plan",
-        "id": "1f5f48ce-9e26-48e5-bb9a-fc5a59e88b46",
-        "title": "Intern \u2013 Capital Markets - Quantitative Strategies and Research - Cmia",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1757362463,
-        "date_posted": 1757362463,
-        "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Capital-Markets--Quantitative-Strategies-and-Research--CMIA--January-2026---8-Month-Contract-_6552",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Steel Dynamics",
-        "id": "0ec66831-fbe7-4be7-8611-e832fe659f4a",
-        "title": "Sales Data Analytics Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757362805,
-        "date_posted": 1757362805,
-        "url": "https://careers-aluminumdynamics.icims.com/jobs/6436/job",
-        "locations": [
-            "Columbus, MS"
-        ],
-        "company_url": "https://simplify.jobs/c/Steel-Dynamics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "0601a124-3771-4c1f-a816-a8961efe9acb",
-        "title": "Sr. Full Stack Cloud Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757362636,
-        "date_posted": 1757362636,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PW100-East-Hartford-400-Main-Street-East-Hartford-CT-06118-USA/Intern--Summer-2026---Sr-Full-Stack-Cloud-Engineer--Onsite-_01790976",
-        "locations": [
-            "Hartford, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "7ab7bd21-e76c-4086-8d38-54f4e2ebc27c",
-        "title": "2026 Intern \u2013 Raytheon Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757362109,
-        "date_posted": 1757362109,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/TX234-Richardson-1717-CityLine-1717-East-CityLine-Drive-Building-C17-Richardson-TX-75082-USA/XMLNAME-2026-Intern---Raytheon-Software-Engineering-Intern-MI--On-site-_01791261",
-        "locations": [
-            "Richardson, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "StoneX Group",
-        "id": "26b7ba66-001d-4f90-acff-34d0903a855a",
-        "title": "Intern \u2013 Institutional Equity Sales & Trading",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757360398,
-        "date_posted": 1757360398,
-        "url": "https://careers-stonex.icims.com/jobs/13766/job",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/StoneX-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ernst & Young",
-        "id": "516ce98c-7389-4d97-93ec-89cf91aec90d",
-        "title": "Intern - Tax - People Advisory Services - Pas - Tax - Rewards - Jd/LLM - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757359576,
-        "date_posted": 1757359576,
-        "url": "https://eyglobal.yello.co/jobs/MgR4xZTxsr-3biFkGJ1TYg?job_board_id=c1riT--B2O-KySgYWsZO1Q",
-        "locations": [
-            "Cleveland, OH",
-            "LA",
-            "Dallas, TX",
-            "Iselin, Woodbridge Township, NJ",
-            "Chicago, IL",
-            "Charlotte, NC",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Ernst-And-Young",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CACI",
-        "id": "daef6da7-cc65-4526-a573-de1a95abfa74",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1757359448,
-        "date_posted": 1757359448,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-CO-Aurora/Data-Science-Intern---Fall-2025_317042",
-        "locations": [
-            "Aurora, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Symbotic",
-        "id": "985c3f33-f702-421e-9f63-c8f0d357843e",
-        "title": "Intern-Hardware Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1757359478,
-        "date_posted": 1757359478,
-        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Milpitas-CA/Intern--Hardware-Engineer_R5402",
-        "locations": [
-            "Milpitas, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/symbotic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ernst & Young",
-        "id": "2fa0058c-faf6-4ff9-be6f-d4adc8b2db5d",
-        "title": "Intern - Tax - Tax Technology and Transformation - Ttt - Alwin - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757359582,
-        "date_posted": 1757359582,
-        "url": "https://eyglobal.yello.co/jobs/YP5Oh4WTLGm54Yhe568Gqw?job_board_id=c1riT--B2O-KySgYWsZO1Q",
-        "locations": [
-            "Dallas, TX",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Ernst-And-Young",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1761273582,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": false,
@@ -573,54 +280,6 @@
         "date_posted": 1757400920,
         "company_url": "",
         "is_visible": false
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TruStage",
-        "id": "45090515-90ad-4a73-ab96-795053ca8152",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757359018,
-        "date_posted": 1757359018,
-        "url": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Madison-WI/Data-Science-Intern--Hybrid-_R-011341",
-        "locations": [
-            "Madison, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/TruStage",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Ernst & Young",
-        "id": "e8d3ab50-a6b9-45ed-a530-c5a0b281fdbf",
-        "title": "Intern - Tax - Other Tax",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757363210,
-        "date_posted": 1757363210,
-        "url": "https://eyglobal.yello.co/jobs/yI3T9r8Pezc-4d8AzzbJFA?job_board_id=c1riT--B2O-KySgYWsZO1Q",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Ernst-And-Young",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -3659,30 +3318,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Veeam-Software",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Arc'teryx Equipment",
-        "id": "6667f77b-6ae8-4bb0-afe9-d585410a13c5",
-        "title": "Software Engineer Co-op Student",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1757358764,
-        "date_posted": 1757358764,
-        "url": "https://jobs.lever.co/arcteryx.com/0462ac0d-c0fd-42ed-bc7c-20976b46b037/apply",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Arcteryx-Equipment",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -184636,7 +184271,7 @@
         "company_name": "General Motors",
         "id": "88e8805e-8f1f-412a-9a73-bd823e8e7035",
         "title": "Intern AI/ML Software Engineering Intern - Simulation Core - Master's",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -270805,7 +270440,7 @@
         "company_name": "Werfen",
         "id": "85dba27d-d530-4723-b279-31cab41f6955",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -281933,7 +281568,7 @@
         "company_name": "SupplyHouse.com",
         "id": "ea9c61d2-6e61-4873-8b16-8c3aceed5962",
         "title": "AI Enablement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -326377,7 +326012,7 @@
         "company_name": "Point72",
         "id": "f0af2360-dd84-41c4-af5e-9eac3bdff7bf",
         "title": "Point72 Academy Investment Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -337133,7 +336768,7 @@
         "company_name": "Overview Energy",
         "id": "f3cceb57-2bee-426d-9336-dcbcc0951b1f",
         "title": "Hardware Development Intern - Mechanical",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -363633,7 +363268,7 @@
         "company_name": "TRUMPF",
         "id": "c207a2e3-eb8e-4262-9607-765f5fb739ce",
         "title": "R&D Production Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -376708,7 +376343,7 @@
         "company_name": "Hitachi",
         "id": "de70e436-4eec-4f37-a74e-708f0c959d2a",
         "title": "Site Deployment Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -379917,7 +379552,7 @@
         "company_name": "Marqeta",
         "id": "bb21595c-bc72-4b64-9e96-bb9335d6b701",
         "title": "Product Security Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -398562,7 +398197,7 @@
         "company_name": "Fortive",
         "id": "fc4d27d4-ce2e-4e3e-a242-d9c5463ad35c",
         "title": "Software Engineering Intern - AI Enablement",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -399265,7 +398900,7 @@
         "company_name": "Mackenzie Investments",
         "id": "87774f4b-fa0a-4e18-a66c-3f978225409d",
         "title": "Intern Investment Management-MAS",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2026"
@@ -417407,7 +417042,7 @@
         "company_name": "EPRI",
         "id": "fae7316e-5881-4440-bbe3-3c1ac19cfe3d",
         "title": "Energy Supply Student Intern Renewable Energy - Renewable Energy",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
