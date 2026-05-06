@@ -213916,7 +213916,7 @@
         "company_name": "Thomson Reuters",
         "id": "46339e2a-a055-40e1-bbdf-4dceded6cfa0",
         "title": "Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -263064,7 +263064,7 @@
         "company_name": "Cisco",
         "id": "d2dcfe14-a4bb-40cf-b495-040de5de1c91",
         "title": "Software Engineer 1 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -353137,7 +353137,7 @@
         "company_name": "Salesforce",
         "id": "01c91d29-446f-42d7-9443-d6e88f5d0cb6",
         "title": "Intern - AI Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -388218,7 +388218,7 @@
         "company_name": "Dusty Robotics",
         "id": "007c7101-37e4-42f7-8e04-aa325c021900",
         "title": "Fullstack Software Engineering Intern - Web Platform",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -398148,7 +398148,7 @@
         "company_name": "Fidelity Investments",
         "id": "4dc2b5fa-03ba-44a4-ae7f-1958e3d44407",
         "title": "Co-op \u2013 Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -428342,7 +428342,7 @@
         "company_name": "Shopify",
         "id": "048d4314-64a9-4be8-aa3d-f1e9801a7c32",
         "title": "Data and Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -430364,7 +430364,7 @@
         "company_name": "Moog ",
         "id": "c984c892-3747-4193-882a-c1f255401dc2",
         "title": "Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -435820,7 +435820,7 @@
         "company_name": "Becton Dickinson",
         "id": "9c8cfb9c-30c6-4c71-9705-b367248e079d",
         "title": "Quality Analytics Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -436357,7 +436357,7 @@
         "company_name": "Everlaw",
         "id": "51c4a885-a755-4f56-ae3b-1cc8044eed47",
         "title": "GTM Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -436920,7 +436920,7 @@
         "company_name": "Loblaw Companies",
         "id": "00634ece-a76d-4b55-85c7-99e6428e22a3",
         "title": "Market Analytics Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -438382,7 +438382,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "071ae55c-fc0c-4a6e-a2a4-108b935b78de",
         "title": "Reference Data Analyst Intern - Cdo",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -440275,7 +440275,7 @@
         "company_name": "Leidos",
         "id": "010d4c32-fa2d-4b62-8c40-3d8039798011",
         "title": "Full Stack Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -440346,7 +440346,7 @@
         "company_name": "Leidos",
         "id": "fd5a8521-4005-4532-8abf-fbe39bd79e6e",
         "title": "Junior Cyber Electromagnetic Activities Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -440534,7 +440534,7 @@
         "company_name": "Tesla",
         "id": "ab80f06e-e457-499c-94b3-e110aa091365",
         "title": "Abuse Testing & Engineering Intern - Abuse Testing & Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -440582,7 +440582,7 @@
         "company_name": "Tesla",
         "id": "358798bb-3dee-4d2f-a674-03e9665aead1",
         "title": "Machine Learning Platform Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -440605,7 +440605,7 @@
         "company_name": "Tesla",
         "id": "476c1940-e6f7-4c8b-ac8c-d04259a2bac7",
         "title": "Software Engineer Intern - Integration Tools",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -440651,7 +440651,7 @@
         "company_name": "Tesla",
         "id": "60a4718f-a0f3-41c8-99e8-7e1535bd4516",
         "title": "Data Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -440675,7 +440675,7 @@
         "company_name": "Tesla",
         "id": "19efdea7-fa87-4d6a-be78-1660ef45f9a0",
         "title": "AI Tooling Intern - Fullstack Engineer - AI Tooling",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
