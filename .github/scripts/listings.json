@@ -1,193 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Hartford Financial Services",
-        "id": "e4995de7-2915-405b-a186-beab707bfb99",
-        "title": "Intern \u2013 Product Analytics Leadership Development Program",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757387900,
-        "date_posted": 1757369179,
-        "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Intern--Product-Analytics-Leadership-Development-Program_R2522341",
-        "locations": [
-            "Hartford, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Hartford-Financial-Services",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Symbotic",
-        "id": "f38deb9a-f4dd-44d2-86cb-8db65d0a9916",
-        "title": "Intern-Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2025",
-            "Spring 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1757367557,
-        "date_posted": 1757367557,
-        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Software-Engineer_R5393",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/symbotic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Symbotic",
-        "id": "fd01a968-0947-43cf-8598-c0231314afd5",
-        "title": "Intern-System Field Analyst - Bot",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757387624,
-        "date_posted": 1757367563,
-        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-New-Braunfels-TX/Intern--System-Field-Analyst--BOT-_R5387",
-        "locations": [
-            "New Braunfels, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/symbotic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Symbotic",
-        "id": "d629eaf2-f39a-43db-a674-63d4b0595084",
-        "title": "Intern-Machine Learning",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757510278,
-        "date_posted": 1757367556,
-        "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Machine-Learning_R5401",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/symbotic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CACI",
-        "id": "fb86d40f-aaf1-4075-be6e-efa380520490",
-        "title": "Software Development Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1757367276,
-        "date_posted": 1757367276,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MA-Needham/Software-Development-Intern---Fall-2025_316998",
-        "locations": [
-            "Needham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nokia",
-        "id": "8279ea4f-d04b-4f2b-8e10-913b39026b23",
-        "title": "Space and Defense Software Development Coop",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1757367465,
-        "date_posted": 1757367465,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24570",
-        "locations": [
-            "Naperville, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Manulife Financial",
-        "id": "f51a95f7-5995-4e6e-bd43-5a06985fb1d4",
-        "title": "Summer Intern/Co-op - Software Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757367208,
-        "date_posted": 1757367208,
-        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-Co-op-2026---Software-Engineering_JR25081349",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Manulife-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Steel Dynamics",
-        "id": "d4a612b8-5bff-4c08-82c1-26f3aa8684de",
-        "title": "Sales Data Analytics Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757367143,
-        "date_posted": 1757367143,
-        "url": "https://careers-steeldynamics.icims.com/jobs/6436/job",
-        "locations": [
-            "Columbus, MS"
-        ],
-        "company_url": "https://simplify.jobs/c/Steel-Dynamics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1761273582,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": false,
@@ -3181,76 +2993,6 @@
             "Bachelor's",
             "MBA",
             "JD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Viavi Solutions",
-        "id": "4fd29c8c-96de-4985-af9b-8893bb49cce9",
-        "title": "Onelab Pro intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757462984,
-        "date_posted": 1757370287,
-        "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/San-Jose-CA-USA/OneLab-Pro-intern_250003851-1",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Viavi-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Baird",
-        "id": "ab9c2b17-67df-457f-9e3f-592c40847be9",
-        "title": "Internship - Service Desk - Year-Round",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757369921,
-        "date_posted": 1757369921,
-        "url": "https://wd1.myworkdaysite.com/recruiting/baird/Careers/job/KY-Louisville/Internship---Service-Desk--Year-Round-_R20251052-1",
-        "locations": [
-            "Louisville, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/Baird",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Veeam Software",
-        "id": "b43c45fc-c40e-4bde-8c79-ce4f84b91579",
-        "title": "Kasten Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757369638,
-        "date_posted": 1757369638,
-        "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4650993101",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Veeam-Software",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -302587,7 +302329,7 @@
         "company_name": "Robert Half",
         "id": "2f08b6ff-60c6-4aca-b930-7cc3a8cd3cc2",
         "title": "Software Engineer Virtual Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -360757,7 +360499,7 @@
         "company_name": "W.R. Berkley",
         "id": "40ecd198-7084-4f60-952d-bf10fe6a9a8d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -404108,7 +403850,7 @@
         "company_name": "Anthropic",
         "id": "0d633297-0371-40a5-bcfe-d66992c2ba79",
         "title": "Anthropic Fellows Program - ML Systems & Performance",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -404256,7 +403998,7 @@
         "company_name": "Anthropic",
         "id": "0d4ecc36-f29c-4669-acc0-ccbfbdf04c9a",
         "title": "Anthropic Fellows Program - AI Safety",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -407847,7 +407589,7 @@
         "company_name": "Anthropic",
         "id": "cbd849a6-3f10-4184-9849-bdd8e45f6bc6",
         "title": "Anthropic Fellows Program - Reinforcement Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -425045,7 +424787,7 @@
         "company_name": "CAE",
         "id": "694d8043-d3f8-4aaa-85cb-bc56204f4efd",
         "title": "Apprentice Simulator Technician Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -426915,7 +426657,7 @@
         "company_name": "Anthropic",
         "id": "e017280c-734c-4023-945e-28d06b72676c",
         "title": "Anthropic Fellows Program Intern - Economics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -434999,7 +434741,7 @@
         "company_name": "Everlaw",
         "id": "9b3b3bd4-91c2-4dec-a37d-b878deeb07f9",
         "title": "Product Marketing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -439820,6 +439562,238 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dow Chemical Company",
+        "id": "cefe7686-8ed8-4de2-9e94-eb0695937318",
+        "title": "Data Engineer / Data Platform Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1778105565,
+        "date_posted": 1778105153,
+        "url": "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Kankakee-IL-USA/Data-Engineer---Data-Platform-Engineer-Internship-Fall-2026-Semester-at-the-Dow-Delivery-Center-at-UIUC--Champaign--IL-_R2066692",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Dow-Chemical-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Integral Ad Science",
+        "id": "a449e924-cf5c-473e-b0a4-29943b45a868",
+        "title": "Devex Platform Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778105161,
+        "date_posted": 1778105139,
+        "url": "https://integralads.wd1.myworkdayjobs.com/IAScareers/job/US---Remote-NY/DevEx-Platform-Intern_R-101466-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Integral-Ad-Science",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Occidental Petroleum",
+        "id": "a1a84ea1-f3a8-445d-beab-d7ab4fab2d66",
+        "title": "Process Systems Engineering Co-op - Automation & Data Integration",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1778105436,
+        "date_posted": 1778105131,
+        "url": "https://oxy.wd5.myworkdayjobs.com/Corporate/job/Squamish/Process-Systems-Engineering--Automation---Data-Integration---Co-op_JR108371",
+        "locations": [
+            "Squamish, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Occidental-Petroleum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale de Surveillance (SGS)",
+        "id": "3cf3f35a-365a-4b8d-bbaa-1478d7631884",
+        "title": "Project Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778105356,
+        "date_posted": 1778105176,
+        "url": "https://jobs.smartrecruiters.com/SGS/744000124949224",
+        "locations": [
+            "Suwanee, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/SGS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "2a478a28-8e42-4138-9b3a-e5d91d9f6a55",
+        "title": "Process Engineering Intern - Epi",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778106179,
+        "date_posted": 1778105303,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Colorado-Springs---East-Cheyenne-Mountain-Blvd/Intern--Process-Engineering--EPI-_R1854-26",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics UK",
+        "id": "e0c37a75-4ab0-4bf0-8b27-b801b710f877",
+        "title": "Software Engineering Developer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1778105396,
+        "date_posted": 1778105049,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000124931443",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wayne County",
+        "id": "dc0d4126-bde5-46bc-bc8a-1fd34b619639",
+        "title": "GIS Intern 2",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778105458,
+        "date_posted": 1778104983,
+        "url": "https://emqz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2773",
+        "locations": [
+            "Michigan"
+        ],
+        "company_url": "https://simplify.jobs/c/Wayne-County",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zus Health",
+        "id": "fde33627-2e9a-4b21-9159-702b327694be",
+        "title": "Data Acquisition Software Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2026"
+        ],
+        "date_updated": 1778105161,
+        "date_posted": 1778105071,
+        "url": "https://jobs.lever.co/zushealth/86db99fb-95c2-4369-b54f-b0d21fa59ba0/apply",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zus-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Magnet Forensics",
+        "id": "068879a3-b42f-4394-adff-ac6eebc9038f",
+        "title": "Software Developer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1778105161,
+        "date_posted": 1778105064,
+        "url": "https://jobs.lever.co/magnetforensics/d393ab82-448a-4dc2-87d0-a00981a55785/apply",
+        "locations": [
+            "Halifax Regional Municipality, NS, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Magnet-Forensics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Copeland",
+        "id": "1edb4f84-f3be-445d-b8bf-345b14541f63",
+        "title": "Student Apprentice - Technician",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778105575,
+        "date_posted": 1778105119,
+        "url": "https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Dayton-OH-USA/Student---Technician--Apprentice-_JR114378",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Copeland",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's",
+            "Certificate"
         ]
     }
 ]
