@@ -1,122 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Toro Company",
-        "id": "c6991d19-24a9-4b6f-a9bd-ecfb487a121c",
-        "title": "R&D IoT Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757451700,
-        "date_posted": 1757451700,
-        "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/R-D-IoT-Engineering-Intern---The-Toro-Company_JR13852",
-        "locations": [
-            "Bloomington, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Toro-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Jabil",
-        "id": "a574c5e0-9931-4dbb-be7c-188e52cb4483",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757824235,
-        "date_posted": 1757451457,
-        "url": "https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/Remote---USA/Data-Science-Intern_J2426644",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jabil",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Verizon Communications",
-        "id": "d9915043-fa02-4103-b931-920734cf123f",
-        "title": "V Teamer: Security Engineering Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757451301,
-        "date_posted": 1757451301,
-        "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge-V-Teamer-for-a-Day--Security-Engineering-Summer-Internship-2026_R-1084708",
-        "locations": [
-            "Berkeley Heights, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Verizon-Communications",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Manulife Financial",
-        "id": "45f883c6-7f43-49f4-855c-30aad26becbf",
-        "title": "Winter Co-op - Data Science",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1757449928,
-        "date_posted": 1757449928,
-        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Winter-Co-op-2026---Data-Science_JR25090574",
-        "locations": [
-            "Kitchener, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Manulife-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "4183507f-6746-44f2-85aa-20104983460f",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757463374,
-        "date_posted": 1757449920,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/XMLNAME-2026-Intern---Raytheon-Software-Engineering-Intern--On-site-_01792024",
-        "locations": [
-            "Aurora, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "The Toro Company",
         "id": "ad1e1483-cf09-4206-8a4e-aef2a8384bbb",
@@ -248,53 +132,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Manulife-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Emerson Electric",
-        "id": "31ef47df-1cb4-4c4b-ac1a-2b8c35d2d6d9",
-        "title": "R&D Co-Op",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1757452962,
-        "date_posted": 1757452962,
-        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25025823",
-        "locations": [
-            "Iowa"
-        ],
-        "company_url": "https://simplify.jobs/c/Emerson-Electric",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Vermeer",
-        "id": "b4174d6c-115f-47b3-ae6e-db683adeb9c6",
-        "title": "IT Security Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757465765,
-        "date_posted": 1757452283,
-        "url": "https://vermeer.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Security-Analyst-Intern_REQ-19858",
-        "locations": [
-            "Newton, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/9ff05b27-3c7e-4c70-82e2-d3bfb40bb992",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -119639,27 +119476,6 @@
             "Stillwater, OK"
         ],
         "company_url": "https://simplify.jobs/c/The-Toro-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "7c2d8aaa-7c05-4110-94e0-11ff8b54d8a1",
-        "title": "Intern \u2013 Technician",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1761491793,
-        "date_posted": 1757452117,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AL---Tuscaloosa/Intern---Technician_R1449-25",
-        "locations": [
-            "Tuscaloosa, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -320606,7 +320422,7 @@
         "company_name": "Halliburton",
         "id": "25dc9608-ee21-474c-84a9-3b24d5868a6f",
         "title": "Intern Automation Geoscientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -367889,7 +367705,7 @@
         "company_name": "Group 1001",
         "id": "1e6d3e36-8681-4782-ab12-4606266febcc",
         "title": "Reinsurance Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376358,7 +376174,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "0fd887b4-89e4-4fdb-8f84-96c3b11e5ff6",
         "title": "Software Developer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -382757,7 +382573,7 @@
         "company_name": "Legal & General",
         "id": "2da6ec02-a946-424c-a1be-f94841dd0bc1",
         "title": "Industry Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -433051,7 +432867,7 @@
         "company_name": "AECOM",
         "id": "38812ba6-06dd-40b2-b038-6c19d9d0a6fb",
         "title": "Digital & Engineering Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -434844,7 +434660,7 @@
         "company_name": "Copeland",
         "id": "1edb4f84-f3be-445d-b8bf-345b14541f63",
         "title": "Student Apprentice - Technician",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
