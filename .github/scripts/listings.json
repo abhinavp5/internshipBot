@@ -1,293 +1,5 @@
 [
     {
-        "date_updated": 1757407141,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/vardaspace/jobs/6824554003",
-        "company_name": "Varda",
-        "title": "Flight Software (C++) Internship",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "terms": [
-            "Spring 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "db24eb27-a6b6-41a5-8be0-a63b5b64bfe5",
-        "date_posted": 1757407141,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762295763,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers.arm.com/job/austin/intern-software-engineer/33099/85831486384",
-        "company_name": "Arm Limited",
-        "title": "Software Engineer",
-        "locations": [
-            "Austin, TX",
-            "Boston, MA",
-            "San Diego, CA",
-            "San Jose, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "028d70e0-f948-4089-acf0-11010dd65ce6",
-        "date_posted": 1757407170,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1757407272,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/vardaspace/jobs/6824788003",
-        "company_name": "Varda",
-        "title": "Flight Software (C++) Internship",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "e6d16021-9e0b-4f60-be70-3600c43ecbac",
-        "date_posted": 1757407272,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761273553,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://aholddelhaizeusa.careerswithus.com/job/Co-Ops/Front-End-Engineer-Co-op-Spring-2026/Chicago-IL/ADUSArms/453640_external_USA-IL-Chicago",
-        "company_name": "Ahold Delhaize USA",
-        "title": "Front End Engineer Co-op",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "terms": [
-            "Spring 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "8d49d506-73a3-4e9a-b423-ec09c2c03887",
-        "date_posted": 1757407427,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1757407988,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://greatamerica.wd12.myworkdayjobs.com/en-US/greatamericacareers/job/Cedar-Rapids-IA/Software-Engineer-Intern_JR984",
-        "company_name": "GreatAmerica",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "78e7c173-5353-48b2-b07c-bc1f538499c7",
-        "date_posted": 1757407988,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1757408169,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Cloud-Developer-Intern_R25_0000032853",
-        "company_name": "GPC",
-        "title": "Cloud Developer Intern",
-        "locations": [
-            "Birmingham, AL"
-        ],
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "379b7cb4-84eb-4201-9e7d-10d91039d1dc",
-        "date_posted": 1757408169,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1758244526,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Boston-MA/Co-op--Software-Engineer_2117456",
-        "company_name": "Fidelity",
-        "title": "Co-op, Software Engineer",
-        "locations": [
-            "locations Boston, MA"
-        ],
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "3199d7f6-e8f2-4f72-be66-9652b429e73d",
-        "date_posted": 1757408291,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1757560619,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.ashbyhq.com/eventualcomputing/83a9e0b2-3089-45cb-bec5-cb21e253704b",
-        "company_name": "Eventual",
-        "title": "Software Engineer, Intern",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "7c48e767-6052-4532-b92f-15f949e75035",
-        "date_posted": 1757408415,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1757408565,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Software-Engineering---Quality-Assurance_JR33730",
-        "company_name": "Allegion",
-        "title": "Software Engineering \u2013 Quality Assurance",
-        "locations": [
-            "Golden, CO"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "281c2b8c-130f-4a38-8c9f-f9586571e494",
-        "date_posted": 1757408565,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1757408611,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Firmware-Engineer---Product-Lifecycle-Engineering_JR33710",
-        "company_name": "Allegion",
-        "title": "Firmware Engineer - Product Lifecycle Engineering",
-        "locations": [
-            "Golden, CO"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Hardware Engineering",
-        "source": "AlmondCroffle",
-        "id": "1d16dda1-3250-4966-bd6e-010ff4ad7517",
-        "date_posted": 1757408611,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761404855,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR33643",
-        "company_name": "Allegion",
-        "title": "Software Systems Engineering",
-        "locations": [
-            "Golden, CO"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "b156a4f8-1f73-415a-b98a-5cdd5c8c8d2e",
-        "date_posted": 1757408658,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1762414981,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer--Advanced-Development-_JR33546-1",
-        "company_name": "Allegion",
-        "title": "Firmware Engineer (Advanced Development)",
-        "locations": [
-            "Indianapolis, IN"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Hardware Engineering",
-        "source": "AlmondCroffle",
-        "id": "a3c83e9d-03ae-4619-a0d5-339d3d466ca9",
-        "date_posted": 1757408702,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "RESPEC",
@@ -41136,7 +40848,7 @@
         "company_name": "Zillow",
         "id": "ca5eca0a-9078-4ac7-9951-872de0a08817",
         "title": "AI Applied Scientist - PhD Intern - Next-Gen Agentic and Multi-Modal Home Exploration Experience",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -277634,7 +277346,7 @@
         "company_name": "Cisco",
         "id": "84355529-b7d0-461c-9330-9a3bcc020d8c",
         "title": "Customer Experience Product Management Specialist 1",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -353244,7 +352956,7 @@
         "company_name": "The Federal Reserve System",
         "id": "e101d805-293c-49f2-a24e-5ce987ed7770",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -365555,7 +365267,7 @@
         "company_name": "Impiricus",
         "id": "b4ea56db-dcfd-4479-8dde-abdf95b8431d",
         "title": "Intern Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370621,7 +370333,7 @@
         "company_name": "Dallas College",
         "id": "05b45fd6-9242-4831-9e4b-a3d4e4ff7f88",
         "title": "SAS Intern-2",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -401995,7 +401707,7 @@
         "company_name": "Dover",
         "id": "2025524d-dfdd-44d2-90e1-d9b36753ea70",
         "title": "Engineer \u2013 SW Embedded Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -422420,7 +422132,7 @@
         "company_name": "Electronic Arts",
         "id": "569580f4-0d46-4333-ab82-7b675eebd24d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -423214,7 +422926,7 @@
         "company_name": "Magna",
         "id": "c028a8b9-94b1-413e-8119-37e4aa83f76e",
         "title": "Engineering ADAS Perception Features Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -423283,7 +422995,7 @@
         "company_name": "Shopify",
         "id": "048d4314-64a9-4be8-aa3d-f1e9801a7c32",
         "title": "Data and Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -431062,7 +430774,7 @@
         "company_name": "Paccar",
         "id": "7ac7058b-22f8-4eba-a8bd-cf565805f592",
         "title": "IT Applications Intern - IT Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -431861,7 +431573,7 @@
         "company_name": "Loblaw Companies",
         "id": "00634ece-a76d-4b55-85c7-99e6428e22a3",
         "title": "Market Analytics Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -431905,7 +431617,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "05ef5084-9ac7-4ab7-8363-51bf7d93f83b",
         "title": "Portfolio Engineering Intern - Capital Markets - Cmia",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -437456,6 +437168,53 @@
             "Philadelphia, PA"
         ],
         "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Endpoint Clinical",
+        "id": "13b36132-b9cb-42d8-bc06-e610c7b94edc",
+        "title": "AI Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778144761,
+        "date_posted": 1778144595,
+        "url": "https://jobs.lever.co/endpointclinical/d8e94671-b722-4bd9-94a6-c0f27008acbf/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Endpoint-Clinical",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "EyeSouth Partners",
+        "id": "307c69d9-f785-4a52-9e4f-f1676a492904",
+        "title": "Revenue Cycle Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778142296,
+        "date_posted": 1776117982,
+        "url": "https://careers-eyesouthpartners.icims.com/jobs/9268/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/EyeSouth-Partners",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
