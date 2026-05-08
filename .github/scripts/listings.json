@@ -1,74 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Robert Bosch Venture Capital",
-        "id": "84067a4c-f6a5-4755-8e5f-601d840e1e4b",
-        "title": "Foundation Models for Autonomous Driving \u2013 Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757555894,
-        "date_posted": 1757496220,
-        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000076562295",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Bosch",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Robert Bosch Venture Capital",
-        "id": "adec206d-c979-4fe4-ad54-55bd920061ee",
-        "title": "Calibration Process Optimization Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757555929,
-        "date_posted": 1757496487,
-        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000080631115",
-        "locations": [
-            "Southfield, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Bosch",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Robert Bosch Venture Capital",
-        "id": "ff306c1b-d072-4eaa-beda-72cad41aa12a",
-        "title": "Foundation Models for Autonomous Driving \u2013 Research Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757555835,
-        "date_posted": 1757492521,
-        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000055119736",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Bosch",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1758244439,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
@@ -556,32 +487,6 @@
         ],
         "company_url": "https://simplify.jobs/c/Continental",
         "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Robert Bosch Venture Capital",
-        "id": "23acdcba-6361-4c4d-97f0-44d62113edb9",
-        "title": "Software Development Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2025",
-            "Spring 2026",
-            "Winter 2026"
-        ],
-        "date_updated": 1761315422,
-        "date_posted": 1757496895,
-        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000063043596",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Bosch",
-        "is_visible": false,
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
@@ -394234,7 +394139,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "7da3c280-040c-4a6b-bbdc-ccf7e3d9f527",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -412497,7 +412402,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "214fe12f-0a66-495e-bbeb-de7c8d78fdf8",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -416154,7 +416059,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9424072c-485e-43c4-91e8-4f124356a286",
         "title": "Trading System Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -434145,5 +434050,73 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "True Anomaly",
+        "id": "aac28e9b-37d3-4e15-a76d-945bdaf6c101",
+        "title": "Front End Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778231341,
+        "date_posted": 1778231271,
+        "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5131359007",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/TrueAnomaly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "9259b927-fb9f-421c-95d0-f346a63020a3",
+        "title": "Software Engineer Intern - Quality and Efficiency Technology",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778231521,
+        "date_posted": 1778231425,
+        "url": "https://lifeattiktok.com/search/7637047421538404613",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Snyk",
+        "id": "e18daaef-be64-48f6-89a2-95fa3d13f1b5",
+        "title": "Software Engineer Intern - Code Rules - Developer Security Platform",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778232062,
+        "date_posted": 1778231885,
+        "url": "https://snyk.wd103.myworkdayjobs.com/External/job/United-Kingdom---London-Office/Software-Engineer-Intern_JR100494",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Snyk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
