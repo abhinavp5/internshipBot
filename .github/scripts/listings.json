@@ -1,146 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Medpace, Inc.",
-        "id": "f558bab1-7964-41f2-b931-fb6f4f3ee9cc",
-        "title": "Data Engineer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1757538836,
-        "date_posted": 1757538836,
-        "url": "https://careers.medpace.com/jobs/11513?lang=en-us&icims=1",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Medpace-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Medpace, Inc.",
-        "id": "cbc5159b-aced-4cd4-b72f-628f9ea961e5",
-        "title": "Software Development Co-Op",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1757538795,
-        "date_posted": 1757538795,
-        "url": "https://careers.medpace.com/jobs/11515?lang=en-us&icims=1",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Medpace-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Medpace, Inc.",
-        "id": "1c0e0197-5884-42ed-901a-687ae42fac88",
-        "title": "Systems Engineer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1757538732,
-        "date_posted": 1757538732,
-        "url": "https://careers.medpace.com/jobs/11517?lang=en-us&icims=1",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Medpace-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Medpace, Inc.",
-        "id": "0ff7569c-874e-4d36-99f0-fd16a6620459",
-        "title": "Informatics Internship/Co-Op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757538821,
-        "date_posted": 1757538821,
-        "url": "https://careers.medpace.com/jobs/11562?lang=en-us&icims=1",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Medpace-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Medpace, Inc.",
-        "id": "b113541c-4493-4924-a20b-b2cf0d41f09c",
-        "title": "Information Security Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1757538716,
-        "date_posted": 1757538716,
-        "url": "https://careers.medpace.com/jobs/11518?lang=en-us&icims=1",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Medpace-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Medpace, Inc.",
-        "id": "86bbcff5-ca43-43d0-818b-761f3dab4b21",
-        "title": "Network Engineer Intern-Spring 2026",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1757538726,
-        "date_posted": 1757538726,
-        "url": "https://careers.medpace.com/jobs/11514?lang=en-us&icims=1",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Medpace-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Other",
         "company_name": "FM Global",
         "id": "0831f960-7a18-46e7-a8ec-fd25e7c05128",
@@ -4799,77 +4659,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Peraton",
-        "id": "dc5267ff-6c24-4843-9b5d-81c5026d86ea",
-        "title": "Systems Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757540290,
-        "date_posted": 1757540290,
-        "url": "https://careers-peraton.icims.com/jobs/158533/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Blacksburg, VA",
-            "Reston, VA",
-            "West Lafayette, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Peraton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "fbe92e01-c127-405d-8b1c-28b2deab0b7f",
-        "title": "Software Intern Engineer",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1757539847,
-        "date_posted": 1757539847,
-        "url": "https://careers-gdms.icims.com/jobs/68071/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Burke, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Susquehanna International Group (SIG)",
-        "id": "e97b5918-6932-45d9-83e1-09b99e6132b1",
-        "title": "Machine Learning Internship",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1757565294,
-        "date_posted": 1757539772,
-        "url": "https://careers-sig.icims.com/jobs/9529/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Susquehanna",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Cotiviti",
         "id": "9892e214-ccb9-43f4-8016-f9cf87c0de55",
@@ -4937,53 +4726,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CoBank",
-        "id": "59885cb1-7bd7-48d5-99a6-378ba44305b3",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757580162,
-        "date_posted": 1757540071,
-        "url": "https://careers-cobank.icims.com/jobs/7385/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Greenwood Village, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/CoBank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RoviSys",
-        "id": "d7e5e1b2-17a9-4450-b6a8-a0afe51426eb",
-        "title": "Co-op \u2013 Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757589238,
-        "date_posted": 1757539665,
-        "url": "https://careers-rovisys.icims.com/jobs/1855/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Twinsburg, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/RoviSys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -64304,29 +64046,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Cook Group",
-        "id": "5bbe9734-9eb7-4977-a412-da21d2b6f823",
-        "title": "Product Management Intern - Endoscopy Medical Devices",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1760031861,
-        "date_posted": 1757540726,
-        "url": "https://americas-cookmedical.icims.com/jobs/17434/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Bloomington, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Cook-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Fresenius Medical Care",
         "id": "fd9ce41f-bb1a-4961-837c-73ec6db357fa",
@@ -79120,29 +78839,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "URBN",
-        "id": "4b254837-1fc3-4cda-b4e3-134050d32336",
-        "title": "URBN Product Information Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760763109,
-        "date_posted": 1757541239,
-        "url": "https://homeoffice-na-urbn.icims.com/jobs/19102/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/URBN",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -148110,7 +147806,7 @@
         "company_name": "Copart",
         "id": "33c4c9c2-40e8-4568-8953-861e95a0e0b1",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -349696,7 +349392,7 @@
         "company_name": "Snyk",
         "id": "48bd382d-02e7-4d8d-954f-13ab808c398a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -382454,7 +382150,7 @@
         "company_name": "Goosehead Insurance",
         "id": "269e761c-536a-4662-96bc-25fed7fdfab9",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -414562,7 +414258,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "842cc8f9-2dde-46a5-b0c3-824fc9313220",
         "title": "Automotive Technician Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
