@@ -1,103 +1,5 @@
 [
     {
-        "date_updated": 1757517861,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://www.american-equity.com/about/careers/openings?gh_jid=4865782007",
-        "company_name": "American Equity",
-        "title": "IT Intern, Data Science",
-        "locations": [
-            "West Des Moines, IA"
-        ],
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "Simplify",
-        "id": "7a64bc7f-7935-48b3-a3d4-44851657c6eb",
-        "date_posted": 1757517861,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1757983705,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.jobvite.com/windriver/job/om4uvfw9",
-        "company_name": "Wind River",
-        "title": "Embedded Software Engineer",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "terms": [
-            "Fall 2026",
-            "Spring 2026",
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "da40e370-df03-40bd-b26b-fb9375d5ce50",
-        "date_posted": 1757518392,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1758583696,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers-cobank.icims.com/jobs/7385/software-engineer-intern-%28denver%29/job",
-        "company_name": "CoBank",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "Denver, CO"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "0e371891-b439-49e7-bf91-87e16f8b5251",
-        "date_posted": 1757519471,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1760136079,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers.ti.com/en/sites/CX/job/25007033",
-        "company_name": "Texas Instruments",
-        "title": "Software Engineering Intern",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "2b333bfe-4859-44e0-9dff-cdcc222e390a",
-        "date_posted": 1757519757,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Other",
         "company_name": "Continental",
@@ -121,29 +23,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Robert Bosch Venture Capital",
-        "id": "76d2ab1d-e665-451c-81e3-00adebb54771",
-        "title": "Automated Driving Intern - Simulation at Scale for RL",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757555949,
-        "date_posted": 1757516577,
-        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000079058158",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Bosch",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
         ]
     },
     {
@@ -420184,7 +420063,7 @@
         "company_name": "Pennsylvania State University",
         "id": "ba002983-2a73-4e3c-bd4c-4aea4c1ee325",
         "title": "Part Time Research Assistant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -433908,6 +433787,77 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "eff308a0-3750-44ad-8b74-5d3d486e1a64",
+        "title": "Machine Learning Intern - Multimodal Models Generative AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778250061,
+        "date_posted": 1778249334,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Hong-Kong-STP/Machine-Learning-Intern---Multimodal-Models-Generative-AI_JR2017296-1",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Greenworks",
+        "id": "d98d5a4f-204d-435a-9a5f-97adde9f9146",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778250579,
+        "date_posted": 1778249405,
+        "url": "https://job-boards.greenhouse.io/greenworkssunriseglobalmarketing/jobs/5990702004",
+        "locations": [
+            "Huntersville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Greenworks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Point72",
+        "id": "23cef5d8-0d81-4df1-8548-a2e0e17e09e5",
+        "title": "Point72 Academy Investment Analyst Program for Experienced Professionals Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1778250637,
+        "date_posted": 1778250057,
+        "url": "https://boards.greenhouse.io/point72/jobs/8539271002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Point72",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
