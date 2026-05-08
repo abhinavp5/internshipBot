@@ -1,239 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Other",
-        "company_name": "Mackenzie Investments",
-        "id": "0dd7bc57-f5fb-4843-a1b5-f42cbc761bdc",
-        "title": "Winter \u2013 Cybersecurity Services Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1757536351,
-        "date_posted": 1757536351,
-        "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5619/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Winnipeg, MB, Canada",
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Mackenzie-Investments",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RoviSys",
-        "id": "106e5303-8392-4503-85f7-2d82b6f8b04d",
-        "title": "Co-op \u2013 Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757535538,
-        "date_posted": 1757535538,
-        "url": "https://careers-rovisys.icims.com/jobs/1840/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Holly Springs, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/RoviSys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "c31e949c-2173-4c26-a892-17f70c07137a",
-        "title": "Cyber Security \u2013 Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757554112,
-        "date_posted": 1757534998,
-        "url": "https://careers-gdms.icims.com/jobs/68026/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "3M",
-        "id": "a3194597-2685-4f12-b289-713aca269a10",
-        "title": "Internship \u2013 2026 Undergraduate and Master's Research & Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757534697,
-        "date_posted": 1757534697,
-        "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2026-Undergraduate-and-Master-s-Research---Development-Intern_R01155851",
-        "locations": [
-            "Austin, TX",
-            "Woodbury, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/3M",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Susquehanna International Group (SIG)",
-        "id": "d805d49e-4ea5-4dec-b9dd-45ce6bbbd337",
-        "title": "Quantitative Trader Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757536718,
-        "date_posted": 1757536718,
-        "url": "https://careers-sig.icims.com/jobs/9382/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Susquehanna",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RoviSys",
-        "id": "2abdccf1-a923-4320-a30e-9eb678dbf3da",
-        "title": "Co-op \u2013 Spring 2026",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1757536740,
-        "date_posted": 1757536740,
-        "url": "https://careers-rovisys.icims.com/jobs/1861/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/RoviSys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Motorola",
-        "id": "c8023c4a-43a4-4de5-94cd-3c77125de1fd",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761315320,
-        "date_posted": 1757537752,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer-Intern---Summer-2026_R57593",
-        "locations": [
-            "Hoffman Estates, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "55439046-9072-4b50-83f3-d273f0ff46db",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757558640,
-        "date_posted": 1757537861,
-        "url": "https://careers-gdms.icims.com/jobs/67909/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Dedham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Fidelity Investments",
-        "id": "29ed7a9c-9529-4205-9a97-e84427ef728d",
-        "title": "Quantitative Research Intern-Systematic Fixed Income Strategies Team",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757537753,
-        "date_posted": 1757537753,
-        "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Boston-MA/Quantitative-Research-Intern--Systematic-Fixed-Income-Strategies-Team_2117373",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Fidelity",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Keysight Technologies",
-        "id": "e53d1125-8561-49c4-ac65-ba609259b3c7",
-        "title": "IT Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757554184,
-        "date_posted": 1757537497,
-        "url": "https://jobs.keysight.com/jobs/49447?lang=en-us&icims=1",
-        "locations": [
-            "Santa Rosa, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Medpace, Inc.",
         "id": "f558bab1-7964-41f2-b931-fb6f4f3ee9cc",
@@ -1568,29 +1335,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RoviSys",
-        "id": "a29e6946-12e1-4032-9eb9-3651966cfb16",
-        "title": "Co-op \u2013 Spring 2026",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1757535537,
-        "date_posted": 1757535537,
-        "url": "https://careers-rovisys.icims.com/jobs/1845/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Lombard, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/RoviSys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "W.R. Berkley",
         "id": "ada6badd-94e4-4405-9cbc-3c8093cdcf57",
@@ -1709,29 +1453,6 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "StoneX Group",
-        "id": "d2dceda8-d5f3-4634-8c1d-4035479634ce",
-        "title": "Intern \u2013 Fixed Income Sales & Trading",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757535400,
-        "date_posted": 1757535400,
-        "url": "https://careers-stonex.icims.com/jobs/13761/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/StoneX-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -4552,30 +4273,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Emerson Electric",
-        "id": "dfcfba51-04a7-4ec9-9dc7-c8d3ba18d3a5",
-        "title": "Product Management Engineering Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1757535600,
-        "date_posted": 1757535600,
-        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25024977",
-        "locations": [
-            "Shakopee, MN",
-            "Eden Prairie, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Emerson-Electric",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Western & Southern Financial Group",
         "id": "cfd29ad8-30d2-4db4-9639-d14113bb0745",
@@ -4837,29 +4534,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Steel Dynamics",
-        "id": "1edd3265-8a4b-4307-aafe-031e7bda6b25",
-        "title": "Sales Data Analytics Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757567192,
-        "date_posted": 1757535596,
-        "url": "https://careers-aluminumdynamics.icims.com/jobs/6436/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Columbus, MS"
-        ],
-        "company_url": "https://simplify.jobs/c/Steel-Dynamics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -5192,75 +4866,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "30798840-61a2-4108-9850-46b75f73fbf4",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1757536904,
-        "date_posted": 1757536904,
-        "url": "https://careers-gdms.icims.com/jobs/67917/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Whitsett, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "e05f91e1-7658-464c-8b3f-553d150365d4",
-        "title": "Software Engineer \u2013 Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1757536891,
-        "date_posted": 1757536891,
-        "url": "https://careers-gdms.icims.com/jobs/68025/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Entegris",
-        "id": "593fb72f-8152-4858-bd89-b4673ce1dda4",
-        "title": "Product Marketing Co-Op",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1757537190,
-        "date_posted": 1757537190,
-        "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chandler-AZ/Product-Marketing-Co-Op---Spring-2026_REQ-9160",
-        "locations": [
-            "Chandler, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Entegris",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -134721,27 +134326,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Persistent Systems",
-        "id": "36429312-93fc-4add-a91a-c5d78357e6d1",
-        "title": "Intern \u2013 Embedded Software Engineer - Fall 2025",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1763001304,
-        "date_posted": 1757537855,
-        "url": "https://careers-persistentsystems.icims.com/jobs/2113/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Persistent-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Zoetis",
         "id": "56d03aa2-cbc4-4cb2-8a99-0b5327e0d012",
@@ -217136,7 +216720,7 @@
         "company_name": "Northwestern Mutual",
         "id": "33863275-2a05-41ff-bedb-8b3c2e3b8867",
         "title": "Investment Analyst - Private Debt & Equity",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -391242,7 +390826,7 @@
         "company_name": "Zendesk",
         "id": "e2f2a887-eb17-498b-8069-ad407a37ac4f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -423391,7 +422975,7 @@
         "company_name": "GE Vernova",
         "id": "df046c48-0da9-404e-a9bb-aee5b779cdcf",
         "title": "GE Vernova GenAI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
