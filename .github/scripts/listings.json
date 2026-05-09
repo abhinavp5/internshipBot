@@ -1,100 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "W.R. Berkley",
-        "id": "6b40a6ae-5798-4094-b54b-0cebecd2d6f2",
-        "title": "Intern \u2013 Enterprise Architecture",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757634752,
-        "date_posted": 1757631510,
-        "url": "https://careers-berkley.icims.com/jobs/12803/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Grimes, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/WR-Berkley",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Suno",
-        "id": "2868d396-360e-445c-94e1-375f30047459",
-        "title": "Software Engineering Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757630263,
-        "date_posted": 1757630263,
-        "url": "https://jobs.ashbyhq.com/suno/35b8b187-b136-4bf6-af4d-b28ff892dc53/application",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Suno",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Varian",
-        "id": "dd282864-68dd-4a9c-8115-aebcf3ab0e30",
-        "title": "Software Engineering Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757636675,
-        "date_posted": 1757629217,
-        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/HES/Software-Engineering-Co-op--Hoffman-Estates-_R-23893",
-        "locations": [
-            "Hoffman Estates, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/670da3c5-bce0-4621-b519-da7ce7d528e6",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CME Group",
-        "id": "07f3463d-2060-4cd8-901a-d5b863c94d50",
-        "title": "Software Engineering Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757629326,
-        "date_posted": 1757629326,
-        "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Software-Engineering-Internship---Summer-2026_33043-1",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/CME-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1757728060,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -5631,52 +5536,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "3M",
-        "id": "e86d8025-35a6-4e95-a493-e06eaad7151d",
-        "title": "Undergraduate Business Analytics Intern - Consumer Business Group - Cbg",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757632643,
-        "date_posted": 1757632643,
-        "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2026-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01156028",
-        "locations": [
-            "Woodbury, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/3M",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "5d39478b-707c-49d2-a6cc-def7be5883b0",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757632714,
-        "date_posted": 1757632714,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/UT207-1127-West-2320-South---West-Valley-City-UT-84119-USA/Software-Engineering-Intern---Summer-2026---Onsite-_01792593",
-        "locations": [
-            "West Valley City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1762297136,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -6299,31 +6158,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Wipfli",
-        "id": "0855a169-0454-4acf-b615-c45f15527379",
-        "title": "Product Development Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757917849,
-        "date_posted": 1757630042,
-        "url": "https://careers-wipfli.icims.com/jobs/7198/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Chicago, IL",
-            "Milwaukee, WI",
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Wipfli",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -17993,30 +17827,6 @@
         "date_posted": 1758213177,
         "company_url": "",
         "is_visible": false
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Arch Capital Group",
-        "id": "e0478c8c-656b-4f55-ad3a-00ebc59f0466",
-        "title": "Cloud and Data Engineering Summer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758210220,
-        "date_posted": 1757633371,
-        "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Raleigh-NC-United-States-of-America/Technology-Summer-Intern_R25_866",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Arch-Capital-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -108776,27 +108586,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Shure",
-        "id": "2161c01a-5a44-4b1c-8866-e530c154f251",
-        "title": "Digital Signal Processing Intern - Digital Signal Processing - Machine Learning",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762212548,
-        "date_posted": 1757631471,
-        "url": "https://careersus-shure.icims.com/jobs/4463/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Morton Grove, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Shure",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "RESPEC",
         "id": "1d5e6788-233c-4813-853d-9ceab54ac771",
         "title": "Student Software Engineering Intern - ",
@@ -151105,27 +150894,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "13566951-eb66-418c-8b1d-3520be88a976",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764779379,
-        "date_posted": 1757631962,
-        "url": "https://careers-gdms.icims.com/jobs/69245/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Dedham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ServiceNow",
         "id": "4d0d580d-c94a-4400-907a-18c33386da35",
@@ -166617,29 +166385,6 @@
             "San Bruno, CA"
         ],
         "company_url": "https://simplify.jobs/c/Genentech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Encore Fire Protection",
-        "id": "a7a6d349-163c-4b9f-af54-5c0711482884",
-        "title": "Sprinkler Apprentice",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765592216,
-        "date_posted": 1757631388,
-        "url": "https://careers-encorefireprotection.icims.com/jobs/2265/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "LA",
-            "Irvine, CA",
-            "Menlo Park, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Encore-Fire-Protection",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -206426,27 +206171,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Rilla",
-        "id": "f8ee9d50-8053-4172-9f64-534bc078ef70",
-        "title": "Software Engineer Intern \u2013 2027 Graduates",
-        "active": true,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1761854768,
-        "date_posted": 1757632347,
-        "url": "https://jobs.ashbyhq.com/rilla/123a6a38-c7f9-4378-b00d-c6ae54688bd5/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Rilla",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -325649,7 +325373,7 @@
         "company_name": "Juniper Square",
         "id": "2287872b-dd52-4164-86fd-344fb5d68a16",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380957,7 +380681,7 @@
         "company_name": "Wilbur-Ellis",
         "id": "07647f15-e435-4177-ab54-86933a1fafb4",
         "title": "Branded Technologies Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -402325,7 +402049,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "1eeacbc8-6f20-4cf6-b5a2-0a2578151236",
         "title": "Quantitative Systematic Trading Intern - Master's: Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -408522,7 +408246,7 @@
         "company_name": "Shopify",
         "id": "048d4314-64a9-4be8-aa3d-f1e9801a7c32",
         "title": "Data and Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -408705,7 +408429,7 @@
         "company_name": "Vertiv",
         "id": "1ab2ad5e-4094-4322-83b4-3949a136b9c6",
         "title": "Field Service Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -409078,7 +408802,7 @@
         "company_name": "Globalization Partners",
         "id": "95042a1f-55e6-4ceb-a646-ca02e7bfb30e",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -424161,7 +423885,7 @@
         "company_name": "EXL",
         "id": "a0f78355-4559-4f4c-9762-15605e60740b",
         "title": "Analytics & AI Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -425846,6 +425570,54 @@
             "Manassas, VA"
         ],
         "company_url": "https://simplify.jobs/c/WR-Berkley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Eluvio",
+        "id": "07de287a-60cf-4318-9941-284ab79b4148",
+        "title": "AI Machine Learning Intern - Gen AI - Multimodal",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778364701,
+        "date_posted": 1778364476,
+        "url": "https://apply.workable.com/eluvio/j/F70F3473E7/apply",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Eluvio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lunar Energy",
+        "id": "64612380-a652-42ec-ad96-2729e3cce269",
+        "title": "Reliability Test Intern - Reliability Testing",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778365081,
+        "date_posted": 1778365056,
+        "url": "https://job-boards.greenhouse.io/lunarenergy/jobs/5992527004",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LunarEnergy",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
