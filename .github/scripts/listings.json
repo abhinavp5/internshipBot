@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Qorvo",
-        "id": "98620487-2253-4977-9fc2-14fc4cb9da3a",
-        "title": "Packaging Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757636659,
-        "date_posted": 1757626783,
-        "url": "https://careers.qorvo.com/job/Greensboro-Packaging-Engineering-Intern-NC-27409/1325391100/?ats=successfactors",
-        "locations": [
-            "Greensboro, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Qorvo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Other",
         "company_name": "W.R. Berkley",
         "id": "6b40a6ae-5798-4094-b54b-0cebecd2d6f2",
@@ -64806,29 +64783,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "SPS Commerce",
-        "id": "bef1901a-4335-4de4-a91a-9259c8d812f1",
-        "title": "Software Engineer Intern - Talent Pool",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1760411020,
-        "date_posted": 1757626835,
-        "url": "https://careers-spscommerce.icims.com/jobs/9793/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/SPS-Commerce",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Baker Hughes",
         "id": "24eee1ae-3e91-4b83-bb3d-1b4dd1f44e1d",
@@ -113823,7 +113777,7 @@
         "company_name": "Tenstorrent",
         "id": "231dffe9-ac41-405c-bea5-304cb8da7efc",
         "title": "Chiplet Security Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -134887,7 +134841,7 @@
         "company_name": "Zoox",
         "id": "06f78d1d-600f-499a-813d-53080d69eb66",
         "title": "Machine Learning Engineer Intern - Simulation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -275525,7 +275479,7 @@
         "company_name": "Peraton",
         "id": "0669f495-65b0-47b4-bfbf-1b7ad3682c5d",
         "title": "Summer 2026 Cyber Research Intern - Bedford - NH",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -304426,7 +304380,7 @@
         "company_name": "Kaiser Permanente",
         "id": "0e79d0ae-a99a-4e85-b9c8-eaf5e61114db",
         "title": "Reporting Master's Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -403552,7 +403506,7 @@
         "company_name": "Zoox",
         "id": "02c4b28c-0b01-46c5-bf32-a687b3b5240a",
         "title": "PhD Research Intern - Object Detection and Tracking",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -418956,7 +418910,7 @@
         "company_name": "Expedia Group",
         "id": "156d3b28-2133-43b9-9261-ffa739655627",
         "title": "Data Science Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -419570,7 +419524,7 @@
         "company_name": "Lynker",
         "id": "055aa083-296f-48f0-8045-8cb95a1ef2a0",
         "title": "Space Weather Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -420501,7 +420455,7 @@
         "company_name": "Leidos",
         "id": "010d4c32-fa2d-4b62-8c40-3d8039798011",
         "title": "Full Stack Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
