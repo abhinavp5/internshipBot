@@ -3,29 +3,6 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Qorvo",
-        "id": "2c5b3966-7e54-407e-83ea-37b63d1ea5de",
-        "title": "DPS Packaging Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757636644,
-        "date_posted": 1757623219,
-        "url": "https://careers.qorvo.com/job/Apopka-DPS-Packaging-Engineering-Intern-FL-32703/1325391600/?ats=successfactors",
-        "locations": [
-            "Apopka, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Qorvo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Qorvo",
         "id": "98620487-2253-4977-9fc2-14fc4cb9da3a",
         "title": "Packaging Engineering Intern",
         "active": false,
@@ -19662,7 +19639,7 @@
         "company_name": "GlossGenius",
         "id": "5b2d10d4-2318-4f8f-822a-8085e9c0b108",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -40862,29 +40839,6 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/AIG",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Kinaxis",
-        "id": "8da3b042-2573-4376-96b5-2248edb86812",
-        "title": "Co-op/Intern Developer - Core Algorithms and Optimization",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1759309776,
-        "date_posted": 1757622882,
-        "url": "https://careers-kinaxis.icims.com/jobs/33766/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Kinaxis",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -325558,7 +325512,7 @@
         "company_name": "Samsara",
         "id": "16780e08-7f20-44d6-9ac0-503f53f22348",
         "title": "Associate Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -400210,7 +400164,7 @@
         "company_name": "NBCUniversal",
         "id": "0d8a1fba-98a6-4e99-93de-864cdd763c72",
         "title": "Data Science & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -414708,7 +414662,7 @@
         "company_name": "Pennsylvania State University",
         "id": "200cd7c3-6618-409c-a81d-4b1ba6b8e4bc",
         "title": "Part-Time Research Assistant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -416416,7 +416370,7 @@
         "company_name": "thyssenkrupp",
         "id": "17ff9472-4cc9-46b7-8a23-5f78753df19a",
         "title": "Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
