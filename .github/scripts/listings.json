@@ -6742,29 +6742,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Wiltshire Farm Foods",
-        "id": "1593a1c8-12f0-4186-8a95-e65649275f09",
-        "title": "Apprentice Data Analyst",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1757888222,
-        "date_posted": 1757583126,
-        "url": "https://wiltshirefarmfoods-apetito.icims.com/jobs/7505/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Trowbridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Wiltshire-Farm-Foods",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Other",
         "company_name": "American Structurepoint",
         "id": "d8c8e890-ea70-4928-9246-5165a69dbb2b",
@@ -88701,7 +88678,7 @@
         "company_name": "Bloom Energy",
         "id": "9315b6c7-d48c-4f7f-8902-fd77b98f5a55",
         "title": "Full Stack Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -201754,32 +201731,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "True Manufacturing",
-        "id": "595af2fe-bf17-4e13-b7ca-239c441864ed",
-        "title": "Business Intelligence Co-op - Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026",
-            "Winter 2026"
-        ],
-        "date_updated": 1768270695,
-        "date_posted": 1757583241,
-        "url": "https://officejobs-truemfg.icims.com/jobs/2673/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "O'Fallon, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/True-Manufacturing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "CAE",
         "id": "e41c6963-3461-46e0-b78e-2af0f6520b3e",
@@ -245150,7 +245101,7 @@
         "company_name": "Cisco",
         "id": "d2dcfe14-a4bb-40cf-b495-040de5de1c91",
         "title": "Software Engineer 1 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -331513,7 +331464,7 @@
         "company_name": "KION Group",
         "id": "8eb44b0c-8d8e-4bd2-88d0-51fb9b03511c",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -335998,7 +335949,7 @@
         "company_name": "Pathos",
         "id": "d45c4020-8afa-4fe7-bd48-63b97cf8eb74",
         "title": "Applied Scientist, Oncology Foundation Model",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376614,7 +376565,7 @@
         "company_name": "Trane Technologies",
         "id": "b2caadce-6eeb-4eb8-8571-477e8b7bca43",
         "title": "Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -384511,7 +384462,7 @@
         "company_name": "APEX Analytix",
         "id": "f8061283-7836-4832-afc5-5784772d0a48",
         "title": "NET Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -399330,7 +399281,7 @@
         "company_name": "Zola",
         "id": "a5f93b5e-bc6e-43fc-9dd8-b84c4bb8beb4",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -402185,7 +402136,7 @@
         "company_name": "NBCUniversal",
         "id": "e6dc4d49-6baf-4cf6-9824-2a41a2455af2",
         "title": "Product Management Intern - Academic Year",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Spring 2027"
@@ -402209,7 +402160,7 @@
         "company_name": "NBCUniversal",
         "id": "c5e4b448-e68b-46b1-b4e8-a899586a40d8",
         "title": "Peacock Customer Journey \u2013 Decision Sciences Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -402280,7 +402231,7 @@
         "company_name": "NBCUniversal",
         "id": "d351aee8-a432-4ff5-b5f2-a0c741df10b9",
         "title": "Data Science & Analytics Internships Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -402535,7 +402486,7 @@
         "company_name": "X Development",
         "id": "b92a1efb-f8d9-4f78-a277-2655bbd07142",
         "title": "PhD Residency Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -402727,7 +402678,7 @@
         "company_name": "NBCUniversal",
         "id": "cb7b94b4-fe8c-4159-adc7-70d24b678691",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -402931,7 +402882,7 @@
         "company_name": "NBCUniversal",
         "id": "b53225dc-877c-4c15-a104-18654ad9dcfd",
         "title": "Data Science & Analytics Internships Intern - Academic Year",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -408487,7 +408438,7 @@
         "company_name": "Tencent",
         "id": "6e53b9de-07c4-4545-b612-707fca641b88",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -418832,7 +418783,7 @@
         "company_name": "VaynerMedia",
         "id": "c3edd3b1-d53d-4967-b1b8-868c59ba5243",
         "title": "Data Analytics Resident",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -422830,7 +422781,7 @@
         "company_name": "Kinaxis",
         "id": "b8efe27f-c76a-4d68-a3e0-7223c8e08ef8",
         "title": "Software Developer Co-op/Intern - Core Algorithms",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -426512,7 +426463,7 @@
         "company_name": "Johnson Controls",
         "id": "83eff6e8-2f48-40cf-83be-b22caa536b46",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -426745,7 +426696,7 @@
         "company_name": "Gannett Fleming",
         "id": "f384155d-7cca-4b64-848f-f6d958f35d54",
         "title": "Geographic Information Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -427163,7 +427114,7 @@
         "company_name": "Point72",
         "id": "58c8f46c-bf1a-4a14-9267-45732c023d32",
         "title": "Point72 Academy Investment Analyst Program for Upcoming Graduates Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -427252,7 +427203,7 @@
         "company_name": "Trane Technologies",
         "id": "cd2ecb0f-e6e0-4b6a-88d4-f45f6168c70b",
         "title": "Collections Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
