@@ -29209,7 +29209,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/AsteraLabs?utm_source=GHList&utm_medium=company">Astera Labs</a></strong></td>
 <td>Digital Design Engineer Internship 2026 - Mixed-signal - DSP</td>
 <td>San Jose, CA</td>
 <td>Winter 2025</td>
