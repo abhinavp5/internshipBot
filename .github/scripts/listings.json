@@ -24,31 +24,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "STR",
-        "id": "5cdafb47-2e2b-490b-bafc-559f782ef109",
-        "title": "Sensors Summer Internship",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1757620088,
-        "date_posted": 1757620088,
-        "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4600702006",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/STR",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Qorvo",
         "id": "98620487-2253-4977-9fc2-14fc4cb9da3a",
@@ -45856,30 +45831,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Chick-fil-A",
-        "id": "4f53807d-8f21-4db2-9b01-f83c44fd8827",
-        "title": "Digital Transformation and Technology Undergraduate Co-Op - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1759473178,
-        "date_posted": 1757621396,
-        "url": "https://careers-chickfila.icims.com/jobs/17913/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Chick-Fil-A",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "MFS",
         "id": "c2817102-e26d-4697-af33-699f278b0395",
@@ -62647,29 +62598,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Intercontinental Exchange",
-        "id": "46f30da2-6e82-4eed-a01d-e3f793a37634",
-        "title": "Quantitative Engineer Intern - Clearing Technology",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760377803,
-        "date_posted": 1757619162,
-        "url": "https://careers-ice.icims.com/jobs/11584/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/ICEMarkets",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "North Atlantic Industries",
         "id": "db8f6a17-4558-492c-8a4e-a9f000f96646",
@@ -71775,30 +71703,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Kinaxis",
-        "id": "5a05809c-3fe0-4214-bac6-2b0375529740",
-        "title": "Co-op/Intern Software Engineer - AI",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1760744166,
-        "date_posted": 1757620158,
-        "url": "https://careers-kinaxis.icims.com/jobs/33876/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Kinaxis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -104877,27 +104781,6 @@
             "Edinburgh, UK"
         ],
         "company_url": "https://simplify.jobs/c/Lloyds-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Essen Health Care",
-        "id": "5bbe5efe-14da-4829-9ba8-59f0f6de337b",
-        "title": "Quality Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762187620,
-        "date_posted": 1757621133,
-        "url": "https://careers-essenmed.icims.com/jobs/1950/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Bronx, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Essen-Health-Care",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -270934,7 +270817,7 @@
         "company_name": "Lasko Products",
         "id": "124bb3ef-2d89-4cda-828b-203d6b042e2e",
         "title": "Product Management Internship-Heaters & Air Quality",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389916,7 +389799,7 @@
         "company_name": "Efficient Computer",
         "id": "848b1ba8-1029-4dfd-91ea-884990c92cd9",
         "title": "Compiler Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -416723,7 +416606,7 @@
         "company_name": "Everlaw",
         "id": "9b3b3bd4-91c2-4dec-a37d-b878deeb07f9",
         "title": "Product Marketing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -424134,7 +424017,7 @@
         "company_name": "Motorola",
         "id": "a2d25233-f59f-4949-af98-5744d36feb30",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -426036,6 +425919,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "W.R. Berkley",
+        "id": "72f18cb6-cac7-4d9a-9e85-1723cd610d38",
+        "title": "AI Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1775082781,
+        "date_posted": 1775081344,
+        "url": "https://careers-berkley.icims.com/jobs/12875/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/WR-Berkley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
