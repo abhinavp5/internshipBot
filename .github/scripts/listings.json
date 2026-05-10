@@ -4308,54 +4308,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Moog ",
-        "id": "b7d877c6-ca98-4f4d-a754-822870ce15b6",
-        "title": "Intern \u2013 Product Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1757665761,
-        "date_posted": 1757665761,
-        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Product-Engineering_R-25-13765",
-        "locations": [
-            "Carson, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Moog",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Xcel Energy",
-        "id": "b9b09b83-28c8-4a63-b8d7-40a9669dd0e5",
-        "title": "Modeling Innovation and Strategy Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757665645,
-        "date_posted": 1757665645,
-        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Modeling-Innovation-and-Strategy-Engineering-Intern---MN-or-CO_JR109900",
-        "locations": [
-            "Minneapolis, MN",
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Xcel-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1762297136,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -373387,7 +373339,7 @@
         "company_name": "TikTok",
         "id": "1654684c-ca1f-4d3e-9dc0-fc8e1f470e37",
         "title": "Software Engineer Intern - TikTok Search Architecture - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -405602,7 +405554,7 @@
         "company_name": "Magna",
         "id": "2b9c7f6c-b77f-444c-9d11-e362925f21a3",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -410442,7 +410394,7 @@
         "company_name": "Cisco",
         "id": "36f9e93a-2c67-43f9-97cc-7f70408fcab5",
         "title": "Associate Application Engineer 2 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -416061,7 +416013,7 @@
         "company_name": "Copart",
         "id": "2d421d61-207f-4bd9-8e65-78346e199d36",
         "title": "Yard Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
