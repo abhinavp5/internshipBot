@@ -79209,30 +79209,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Walmart",
-        "id": "bd4dc047-a0ab-4dbe-bb92-74ec584792f9",
-        "title": "2026 Summer Undergrad Corporate Intern: Economist",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761859538,
-        "date_posted": 1757711399,
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2026-Summer-Undergrad-Corporate-Intern--Economist_R-2295897-1",
-        "locations": [
-            "Bentonville, AR",
-            "Union City, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "STR",
         "id": "d83e0469-46aa-4578-81ec-fdea37176b39",
@@ -118869,27 +118845,6 @@
             "Neenah, WI"
         ],
         "company_url": "https://simplify.jobs/c/Plexus",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Qorvo",
-        "id": "f6a1926c-9200-4844-9f77-c9e53549bceb",
-        "title": "Packaging Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1757708426,
-        "date_posted": 1757708426,
-        "url": "https://careers.qorvo.com/job/Greensboro-Packaging-Intern-NC-27409/1325659200/?ats=successfactors",
-        "locations": [
-            "Greensboro, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Qorvo",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
