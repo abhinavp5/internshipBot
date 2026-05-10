@@ -3775,53 +3775,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Workiva",
-        "id": "7618c75a-77f7-47d1-8252-d338fd463472",
-        "title": "Intern - Data Quality / Data Product",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1757765704,
-        "date_posted": 1757683290,
-        "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/Spring---Summer-2026-Intern---Data-Quality---Data-Product_R10632",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Workiva",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Workiva",
-        "id": "1b695cc7-31d8-41a7-9f9d-8f92c3f1a519",
-        "title": "Intern - Security Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757768732,
-        "date_posted": 1757682473,
-        "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/Summer-2026-Intern---Security-Engineering_R10742",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Workiva",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1762297136,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -150197,7 +150150,7 @@
         "company_name": "Cisco",
         "id": "aacdbbaf-a5cc-4079-a368-0ef4edd79fac",
         "title": "Data Science Analyst 1 \u2013 Intern - United States",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -415412,7 +415365,7 @@
         "company_name": "Uber",
         "id": "540fe419-60b5-4713-9e65-7b37ac045a13",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
