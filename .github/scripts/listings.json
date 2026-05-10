@@ -2206,172 +2206,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Schonfeld",
-        "id": "dc6733b3-1f26-441a-b728-2c0ff89cf0ee",
-        "title": "2026 PhD Quant Research Summer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757716035,
-        "date_posted": 1757716035,
-        "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7243570",
-        "locations": [
-            "Miami, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Schonfeld",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Tokyo Electron",
-        "id": "9c8a4606-fa04-4620-b003-0f3814bf29f7",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757714837,
-        "date_posted": 1757714837,
-        "url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Software-Engineer-Intern--Summer-2026-_R25-01193",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Tokyo-Electron",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Verisk",
-        "id": "fb26822a-c2ab-4bcc-b558-e625ca02fb10",
-        "title": "Data Science \u2013 Summer Internship Program",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757714787,
-        "date_posted": 1757714787,
-        "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/2300",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Verisk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "94fe6c3c-9ee7-44c7-abd7-ca9935f9131f",
-        "title": "Software Engineering Co-Op",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1757714256,
-        "date_posted": 1757714256,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HND01-Interiors-Cargo---Jamestown-2604-Highway-20-North-Jamestown-ND-58401-USA/Software-Engineering-Co-Op--Spring-Summer-2026---Onsite-_01793081-1",
-        "locations": [
-            "Jamestown, ND"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Workiva",
-        "id": "b5f36bc9-6589-420b-8d01-0ecf3763094c",
-        "title": "Summer 2026 Intern - Security Operations",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757714144,
-        "date_posted": 1757714144,
-        "url": "https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/Summer-2026-Intern---Security-Operations_R10743",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Workiva",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lucid",
-        "id": "b5bd3f98-c691-48ae-9a64-13ab348c1d14",
-        "title": "Data Analyst Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757987852,
-        "date_posted": 1757713833,
-        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5647627004",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Lucid",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Corteva",
-        "id": "0bb2f6b1-1455-4567-be92-075bac1d64c5",
-        "title": "Seed Production Research and Characterization Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757712769,
-        "date_posted": 1757712769,
-        "url": "https://corteva.wd5.myworkdayjobs.com/en-US/ctp/job/Des-Moines-Iowa-United-States/Seed-Production-Research-and-Characterization-Intern_243079W-1",
-        "locations": [
-            "Des Moines, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/Corteva",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1762297136,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -16861,29 +16695,6 @@
             "Roseville, MN"
         ],
         "company_url": "https://simplify.jobs/c/Boston-Scientific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nova-Tech",
-        "id": "2c4f901d-3537-409d-b3a9-10e1ae194365",
-        "title": "AI Internship",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1758271406,
-        "date_posted": 1757712707,
-        "url": "https://novatechengineering.applytojob.com/apply/k0P5ygd5a0/AI-Internship-Located-Onsite-In-Willmar-MN",
-        "locations": [
-            "South Haven, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Nova-Tech",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -405356,7 +405167,7 @@
         "company_name": "Sanofi",
         "id": "bac17122-72f7-45cc-a027-3a7f5ff4f441",
         "title": "Apprenticeship Intern - Quality Data Insight",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
