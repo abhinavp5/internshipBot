@@ -4356,52 +4356,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Grant Thornton",
-        "id": "ef834d9b-10c2-4059-9d0c-74dacd77ff18",
-        "title": "Tax Technology Intern",
-        "active": false,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1757660703,
-        "date_posted": 1757660703,
-        "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/113374",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Grant-Thornton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Leidos",
-        "id": "db293923-88d7-4eb8-9284-b70c792423d4",
-        "title": "Network Operations Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1757660637,
-        "date_posted": 1757660637,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tampa-FL/Network-Operations-Intern_R-00166088",
-        "locations": [
-            "Tampa, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1762297136,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -197902,7 +197856,7 @@
         "company_name": "M&T Bank",
         "id": "01314c42-df97-45a0-a758-008e520bc5df",
         "title": "Technology Intern Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -227830,7 +227784,7 @@
         "company_name": "ASSA ABLOY",
         "id": "3924f93e-81f6-4cf4-b4c9-f160bdb0181b",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -354108,7 +354062,7 @@
         "company_name": "Dallas College",
         "id": "05b45fd6-9242-4831-9e4b-a3d4e4ff7f88",
         "title": "SAS Intern-2",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -385272,7 +385226,7 @@
         "company_name": "Prairie View A&M University",
         "id": "11041930-9a70-4c9f-9146-70f98f4e4af0",
         "title": "Student Hourly Assistant \u2013 Intern - Data Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -399250,7 +399204,7 @@
         "company_name": "Texas A&M University System",
         "id": "c364d77b-5711-4f3e-907d-2cee94f2fa7f",
         "title": "Student Intern - Data Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
