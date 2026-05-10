@@ -3366,171 +3366,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Boston Scientific",
-        "id": "e5a44a65-a8d2-411b-a43b-f0e1c296764a",
-        "title": "R&D Software Design Intern - Interns/Graduates - Development",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757695894,
-        "date_posted": 1757695894,
-        "url": "https://bostonscientific.eightfold.ai/careers/job/563602808549578",
-        "locations": [
-            "Roseville, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Boston-Scientific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Boston Scientific",
-        "id": "c1882014-d7db-4d63-95c3-13f120622bbe",
-        "title": "R&D System Test Intern - Interns/Graduates - Development",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757695893,
-        "date_posted": 1757695893,
-        "url": "https://bostonscientific.eightfold.ai/careers/job/563602808549731",
-        "locations": [
-            "Roseville, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Boston-Scientific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Boston Scientific",
-        "id": "7b49be6f-50b3-4864-85df-86fa95c65ab0",
-        "title": "R&D Software Engineer Intern - Interns/Graduates - Development",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757695892,
-        "date_posted": 1757695892,
-        "url": "https://bostonscientific.eightfold.ai/careers/job/563602808549558",
-        "locations": [
-            "Roseville, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Boston-Scientific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "a4e1c878-2178-4ba0-8a6c-5163b40e0b53",
-        "title": "ARC Software Engineering Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757986187,
-        "date_posted": 1757695834,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Madison/ARC-Software-Engineering-Co-op---Madison--WI_R4029164-1",
-        "locations": [
-            "Madison, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "MKS Instruments",
-        "id": "81f925a2-8ed9-4834-bd08-a7af91d2c56c",
-        "title": "Embedded Software Engineer Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1757695456,
-        "date_posted": 1757695456,
-        "url": "https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/Andover-MA/XMLNAME-2026-Summer-and-Fall-Embedded-Software-Engineer-Co-op_R14749",
-        "locations": [
-            "Andover, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/07d9f7f0-9f1a-4ecb-9346-f3ac39d905f2",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "MKS Instruments",
-        "id": "69a6fa3c-64b6-4ec3-937f-ead1dd259687",
-        "title": "IT Risk & Compliance Undergrad Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757695468,
-        "date_posted": 1757695468,
-        "url": "https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/Andover-MA/IT-Risk---Compliance-Undergrad-Intern_R14994",
-        "locations": [
-            "Andover, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/07d9f7f0-9f1a-4ecb-9346-f3ac39d905f2",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Varian",
-        "id": "78405e99-e5cf-4302-89e2-c31c8dfe4124",
-        "title": "Product Engineering Assistant",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757988436,
-        "date_posted": 1757694916,
-        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Product-Engineering-Assistant--Co-op-_R-23875",
-        "locations": [
-            "Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/670da3c5-bce0-4621-b519-da7ce7d528e6",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1762297136,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -111176,27 +111011,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "American Enterprise Institute",
-        "id": "6d441a38-e579-4d54-a0d8-cedcf16deebe",
-        "title": "Spring Intern: Survey Center on American Life",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1762439576,
-        "date_posted": 1757695543,
-        "url": "https://internships-aei.icims.com/jobs/2500/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Enterprise-Institute",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Smith+Nephew",
         "id": "04ecbf39-44a5-4cc0-a14a-e122b9e5d5ab",
         "title": "Intern-Artificial Intelligence Coe Engineer - Pittsburgh - PA",
@@ -147666,27 +147480,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Centerline Communications",
-        "id": "8a1cd513-116a-4562-ac4b-877107548033",
-        "title": "GIS Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764721612,
-        "date_posted": 1757695453,
-        "url": "https://careers-clinellc.icims.com/jobs/2774/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Centerline-Communications",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -372562,7 +372355,7 @@
         "company_name": "TikTok",
         "id": "1654684c-ca1f-4d3e-9dc0-fc8e1f470e37",
         "title": "Software Engineer Intern - TikTok Search Architecture - BS/MS",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
