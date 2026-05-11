@@ -188,32 +188,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ETHGlobal",
-        "id": "eb8e61b3-ab99-4b62-9d16-4939cd5a71c9",
-        "title": "Software Engineering Internship",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1757792598,
-        "date_posted": 1757792598,
-        "url": "https://jobs.ashbyhq.com/ethglobal/4522a1d6-956c-4434-a6db-9365f19c60fb/application",
-        "locations": [
-            "Remote in USA",
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/ETHGlobal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
         "date_updated": 1762297136,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -42059,29 +42033,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hexagon AB ",
-        "id": "957128c1-605e-470e-a667-6605296d4b3d",
-        "title": "Geomatics Engineering Intern - Sensor Fusion",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759533709,
-        "date_posted": 1757793702,
-        "url": "https://careers-hexagonpositioning.icims.com/jobs/2859/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Calgary, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Hexagon-AB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Other",
         "company_name": "John Deere",
         "id": "658ab79f-bdb2-4e14-95d9-39b5be8f1439",
@@ -74522,39 +74473,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "MPOWERHealth",
-        "id": "d1f8849e-c8f8-4fdd-a71b-c66c49554709",
-        "title": "UTD Intraoperative Neuromonitoring \u2013 Intern - Ionm - Dallas-Fort Worth - TX",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761658207,
-        "date_posted": 1757793469,
-        "url": "https://careers-mpowerpractice.icims.com/jobs/1746/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/MPOWERHealth",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PharmD",
-            "PhD",
-            "Associate's",
-            "JD",
-            "MD",
-            "Bootcamp",
-            "Certificate",
-            "Incomplete"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Point72",
         "id": "ee05696a-aa71-46e3-8b83-5bd6733c2b95",
         "title": "2026 Spring Internship - MS/PhD Data Scientist - Proprietary Research",
@@ -100798,27 +100716,6 @@
             "Bloomington, IN"
         ],
         "company_url": "https://simplify.jobs/c/Cook-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Energy Transfer Partners",
-        "id": "e2936fbe-3f9d-4505-90ca-02168798d551",
-        "title": "Intern \u2013 Business Transformation and Integration - Accounting Transformation and Integration Department",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758559284,
-        "date_posted": 1757792357,
-        "url": "https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2510003044",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Energy-Transfer-Partners",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -362139,7 +362036,7 @@
         "company_name": "NXP Semiconductors",
         "id": "39c85be0-261d-45d6-874f-a67540d1bfea",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -415829,7 +415726,7 @@
         "company_name": "AECOM",
         "id": "b12bccd0-623d-41e3-b42d-137c22d086c8",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
