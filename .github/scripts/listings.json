@@ -75499,30 +75499,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Subaru",
-        "id": "25d89059-4fc0-4e60-ba9b-f0b4f61c1c11",
-        "title": "Intern \u2013 Connected Vehicle",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761499334,
-        "date_posted": 1757889665,
-        "url": "https://hcal.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2036",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Subaru",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1761933680,
         "sponsorship": "Other",
         "active": true,
@@ -314124,7 +314100,7 @@
         "company_name": "Rolls Royce",
         "id": "5959e81d-35cb-4da2-a9a5-02a553b86cd0",
         "title": "Paint Shop Digitalization Developer Maintenance Planning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -340687,7 +340663,7 @@
         "company_name": "MillerKnoll",
         "id": "72adadb7-0c85-4517-8147-53461b2ad8c7",
         "title": "Product Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -374176,7 +374152,7 @@
         "company_name": "Rolls-Royce Motorcars",
         "id": "81530341-977d-475e-b37a-963c0ed32d65",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392204,7 +392180,7 @@
         "company_name": "General Motors",
         "id": "10529106-8f42-4165-814f-149d4a47f89e",
         "title": "Intern - AI/ML Engineer - Cloud and Developer Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -403659,7 +403635,7 @@
         "company_name": "Integra FEC",
         "id": "ebb7f560-b3e3-4f57-b812-b0097eeb39bf",
         "title": "Data Scientist Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -404129,7 +404105,7 @@
         "company_name": "Integra FEC",
         "id": "5e6027c1-06ff-4833-98fc-5748108833bf",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -404175,7 +404151,7 @@
         "company_name": "Integra FEC",
         "id": "b9a99f84-c011-4f16-806a-8ad02e98b530",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -409985,7 +409961,7 @@
         "company_name": "Everlaw",
         "id": "51c4a885-a755-4f56-ae3b-1cc8044eed47",
         "title": "GTM Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -417226,7 +417202,7 @@
         "company_name": "Squarepoint Capital",
         "id": "c7f1c784-ada4-411c-85aa-060cd89e52c6",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -421545,7 +421521,7 @@
         "company_name": "United Wholesale Mortgage",
         "id": "a68e8cb3-6f0f-456e-99a0-818536ac2128",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
