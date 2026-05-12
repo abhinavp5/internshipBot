@@ -93,30 +93,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "La-Z-Boy",
-        "id": "6e2d80ff-2d44-4a4b-9f08-f05fc180df86",
-        "title": "Internship - Information Technology",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757836014,
-        "date_posted": 1757836014,
-        "url": "https://lazboy.wd1.myworkdayjobs.com/lzbcareers/job/Monroe-MI/Internship---Information-Technology--Summer-2026-_JR129657",
-        "locations": [
-            "Dundee, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/La-Z-Boy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1762297136,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -180891,7 +180867,7 @@
         "company_name": "Electronic Arts",
         "id": "0221c58e-86f6-4029-b9da-cfb675957e80",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -203264,7 +203240,7 @@
         "company_name": "Assort Health",
         "id": "724f5d68-f44c-4be2-b77e-f6f49f9991fe",
         "title": "Agent Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -265677,7 +265653,7 @@
         "company_name": "Tencent",
         "id": "b3b6421c-0ccf-4a43-93a7-44fb9242cb5f",
         "title": "Research Intern - Video World Models",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -275873,7 +275849,7 @@
         "company_name": "Tencent",
         "id": "817874bc-4775-4ea6-ad0f-216a0bc763fd",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -335036,7 +335012,7 @@
         "company_name": "Guidewire",
         "id": "148a72b7-bc13-4b01-a17e-84eb6dd9858c",
         "title": "Services Solutions Technical Architect Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -347699,7 +347675,7 @@
         "company_name": "American Rare Earths",
         "id": "224e6611-9cfb-4eef-8107-822517f2d5e4",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380221,7 +380197,7 @@
         "company_name": "Magna",
         "id": "113f5b27-2163-45e7-8895-44c1b2f2e666",
         "title": "Intern Failure Analysis & Validation Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389270,7 +389246,7 @@
         "company_name": "Medtronic",
         "id": "1e21833b-a6ae-48a8-88e1-c193922cb4b0",
         "title": "Strategic Insights & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392228,7 +392204,7 @@
         "company_name": "General Motors",
         "id": "10529106-8f42-4165-814f-149d4a47f89e",
         "title": "Intern - AI/ML Engineer - Cloud and Developer Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -411917,7 +411893,7 @@
         "company_name": "NVIDIA",
         "id": "992b48ee-6377-47d1-a64a-325b032e4673",
         "title": "Formal Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -417566,7 +417542,7 @@
         "company_name": "The Boeing Company",
         "id": "677b49ba-fffc-4743-9ec6-d7b5331e3faa",
         "title": "Boeing Engineering & Technology Innovation \u2013 Graduate Researcher Program \u2013 Autonomy Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -420139,7 +420115,7 @@
         "company_name": "Bank of Montreal",
         "id": "001ac4b8-e3c8-40dd-a035-c12fc1493b30",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -420183,7 +420159,7 @@
         "company_name": "Bank of Montreal",
         "id": "10ea6ba5-ff6a-4396-9ba5-86f0e059112c",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
