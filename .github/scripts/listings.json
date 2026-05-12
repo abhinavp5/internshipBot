@@ -26743,7 +26743,7 @@
         "company_name": "Adobe",
         "id": "4e10af7c-c752-4dc9-8fe9-8eb17f45f0a1",
         "title": "Machine Learning Engineer Intern - AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -233378,7 +233378,7 @@
         "company_name": "Ironclad",
         "id": "d35d37b7-6897-4216-86a9-4d8c63b480a4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -289875,7 +289875,7 @@
         "company_name": "Waters Corporation",
         "id": "5babf649-332c-472d-9b0c-6e2e28e978ed",
         "title": "Intern \u2013 Field Service",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -314517,7 +314517,7 @@
         "company_name": "Tuesday Lab",
         "id": "41c1ba39-57a5-4435-a125-e484e4ff6987",
         "title": "Manipulation Co-op / Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -320732,7 +320732,7 @@
         "company_name": "Hayden AI",
         "id": "9b4ff73c-518a-499a-b846-e51448230a62",
         "title": "Software Engineer - Quality Assurance",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346514,7 +346514,7 @@
         "company_name": "Meriton",
         "id": "683d6b9b-b21f-45b0-ae62-8dc38f306e92",
         "title": "Intern \u2013 IT & Data Analytics Intern - AI/ML Focus",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -353763,7 +353763,7 @@
         "company_name": "Lindy",
         "id": "e55d1689-c936-4a28-931b-6133586f14a5",
         "title": "Intern Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379196,7 +379196,7 @@
         "company_name": "Lucid Motors",
         "id": "5721276a-5259-492d-b68f-4fb81e901fe6",
         "title": "Intern Electrical Machines Testing & Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -396236,7 +396236,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "554c6277-30d8-4c53-994a-8f4a76f25176",
         "title": "Environmental Test Facility Intern Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -416155,7 +416155,7 @@
         "company_name": "Altera Corporation",
         "id": "4699dcb8-7305-4547-940c-1b8059b899c0",
         "title": "Silicon Validation Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -417445,7 +417445,7 @@
         "company_name": "Oracle",
         "id": "328e1324-3097-4f42-ba0b-84e286a52b73",
         "title": "Software Engineer Intern - Netsuite",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -421299,6 +421299,123 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Deckers Brands",
+        "id": "14992777-5bce-4d6a-aa7e-485f28a7df08",
+        "title": "Material Development Intern - HOKA Footwear",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778547961,
+        "date_posted": 1778547900,
+        "url": "https://deckers.wd5.myworkdayjobs.com/Deckers/job/Portland-Oregon/Material-Development-Intern---HOKA-Footwear_20611",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Deckers-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vanguard",
+        "id": "e7becb6a-b395-469e-bf68-4a97dbfcb75e",
+        "title": "College to Corporate IT Intern - Data Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1778548340,
+        "date_posted": 1778547977,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_177677",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanguard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WSP",
+        "id": "1f487f77-2747-4099-b366-ec3c03fb88d5",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778548410,
+        "date_posted": 1778548075,
+        "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86808",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/WSP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cotiviti",
+        "id": "cab3dc48-123e-4fdc-8ca8-10d067c841b0",
+        "title": "Temporary Intern - Data Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778548400,
+        "date_posted": 1778547908,
+        "url": "https://careers-cotiviti.icims.com/jobs/18676/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cotiviti",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vanguard",
+        "id": "63beb9ef-892f-405d-91cb-7298d8c21894",
+        "title": "College to Corporate IT Intern - Data Analysis",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1778548319,
+        "date_posted": 1778547977,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Analysis--PA-_177679",
+        "locations": [
+            "Malvern, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanguard",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
