@@ -4953,29 +4953,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Red Bull",
-        "id": "655c3d07-5ac3-4785-b44a-98105fc2b233",
-        "title": "Vcarb F1 Team \u2013 Undergraduate Internship Programme",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1757967981,
-        "date_posted": 1757967981,
-        "url": "https://jobs.smartrecruiters.com/RedBull/744000082003376",
-        "locations": [
-            "Milton Keynes, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Red-Bull",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1762297120,
         "sponsorship": "Other",
         "active": true,
@@ -332712,7 +332689,7 @@
         "company_name": "Starz",
         "id": "f2559d55-5ec3-417b-a6b5-eb63cab66a7b",
         "title": "Starz Intern - Software Development-Streaming Video",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -402321,7 +402298,7 @@
         "company_name": "SentinelOne",
         "id": "f4e6b65a-c191-47b6-b02b-f2385f91d990",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -419509,7 +419486,7 @@
         "company_name": "Premier Automation",
         "id": "f9fb2c4a-ccc9-4759-84d6-f435f67e7ed3",
         "title": "Software / Computer Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
