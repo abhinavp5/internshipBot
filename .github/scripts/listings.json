@@ -1,29 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "QTS",
-        "id": "cb0fa3ed-c612-402c-b364-14679976f9ed",
-        "title": "Enterprise IT Support",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1757899641,
-        "date_posted": 1757899641,
-        "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/US-VA-Ashburn-1-DC1/Summer-2026-Internship--Enterprise-IT-Support_R2025-1071",
-        "locations": [
-            "Ashburn, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/QTS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1762297136,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -245618,7 +245594,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "d8dc5c28-c65b-4b8b-a6f1-27e0c10b6a26",
         "title": "Data Platforms Engineering Grad Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -284284,7 +284260,7 @@
         "company_name": "Etched",
         "id": "2e947349-323e-4e5a-af34-b79087418d65",
         "title": "PD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -310307,7 +310283,7 @@
         "company_name": "CAE",
         "id": "6b19e04e-968a-4028-8ff4-1478691979b0",
         "title": "Software Engineering Co-op Instructional Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -375772,7 +375748,7 @@
         "company_name": "Handshake",
         "id": "7f49566f-69de-4175-a972-8526ff84a127",
         "title": "Student Researcher",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -386251,7 +386227,7 @@
         "company_name": "M&G",
         "id": "b82746b0-e57b-45c4-b953-40d0974ae9b8",
         "title": "Technology Engineering Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -417203,7 +417179,7 @@
         "company_name": "Airbus",
         "id": "b462642c-bc71-425d-8c68-9b871f683033",
         "title": "Operations Analyst Intern - Operations Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -418934,7 +418910,7 @@
         "company_name": "Eurofins",
         "id": "8a34f955-2313-4df0-923f-ec8d72a3d4ee",
         "title": "Destructive Physical Analysis Intern - Destructive Physical Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
