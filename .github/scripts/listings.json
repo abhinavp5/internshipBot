@@ -352240,7 +352240,7 @@
         "company_name": "Wabtec",
         "id": "72a2e330-7f0e-4f36-ac82-676cafd5b25e",
         "title": "Digital Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -359860,7 +359860,7 @@
         "company_name": "Wabtec",
         "id": "1c762d4f-fa3c-4797-95e2-e75d87e1fff5",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389762,7 +389762,7 @@
         "company_name": "IFS",
         "id": "62f71a9a-a10d-447f-b751-1a04d9fe5392",
         "title": "AI Intern - IFS ERP & Cloud Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
