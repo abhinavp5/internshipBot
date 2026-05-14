@@ -280,199 +280,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "8c54165f-c531-421a-8b3f-c7e076a2d845",
-        "title": "Integration and Test Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758070848,
-        "date_posted": 1758059558,
-        "url": "https://jobs.l3harris.com/job/Clifton-Integration-and-Test-Engineering-Intern-(Clifton,-NJ)-NJ-07014/1326625700/?ats=successfactors",
-        "locations": [
-            "Paterson, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "SharkNinja",
-        "id": "801e3f68-81e6-4610-963f-1b32e4a90135",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758059579,
-        "date_posted": 1758059579,
-        "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4601648006",
-        "locations": [
-            "Goodlettsville, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/SharkNinja",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Peraton",
-        "id": "be46f342-e7c8-4193-a782-4ba29d65c4ba",
-        "title": "Summer 2026 Software Development Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758058668,
-        "date_posted": 1758058668,
-        "url": "https://careers-peraton.icims.com/jobs/159893/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Topeka, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/Peraton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Leidos",
-        "id": "5e1c9918-2174-491e-aaeb-16f5d90298f5",
-        "title": "Jr. Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1758058608,
-        "date_posted": 1758058608,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Jr-Software-Engineer-Intern_R-00166244",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "SharkNinja",
-        "id": "c08418ad-8c9c-462e-be48-cb07e4dd7068",
-        "title": "Product Development Intern - Ninja",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758058327,
-        "date_posted": 1758058327,
-        "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4601614006",
-        "locations": [
-            "Needham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/SharkNinja",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SharkNinja",
-        "id": "141abf57-0d3a-45dc-b73e-cab4d04061e5",
-        "title": "Digital & Website Technology Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758057958,
-        "date_posted": 1758057958,
-        "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4601472006",
-        "locations": [
-            "Needham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/SharkNinja",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Royal Bank of Canada",
-        "id": "f6c8eafd-03ef-4e5a-87d8-3d1a789316f2",
-        "title": "Technology Summer internship - Uswm",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758057116,
-        "date_posted": 1758057116,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Minneapolis-Minnesota-United-States-of-America/XMLNAME-2026-Technology-Summer-internship---USWM_R-0000141113",
-        "locations": [
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PricewaterhouseCoopers (PwC)",
-        "id": "9a79d115-7687-401d-a7c2-569b979e827b",
-        "title": "Assurance Innovation & Technology \u2013 Data Quality Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758056912,
-        "date_posted": 1758056912,
-        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Assurance-Innovation---Technology---Data-Quality-Intern---Summer-2026_663968WD",
-        "locations": [
-            "Boston, MA",
-            "Tampa, FL",
-            "Norridge, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/PwC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "LSEG",
         "id": "20ccf8b8-00f6-4672-a004-eccdea855e20",
@@ -92564,27 +92371,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Arcadis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Vistra",
-        "id": "2f26c4d6-2ee2-4264-b295-130a1cf9ceb6",
-        "title": "Summer Intern Davis Besse - ",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761835743,
-        "date_posted": 1758059945,
-        "url": "https://vst.wd5.myworkdayjobs.com/en-US/vistra_careers/job/Davis-Besse/Summer-Intern-Davis-Besse_40013767",
-        "locations": [
-            "Ohio"
-        ],
-        "company_url": "https://simplify.jobs/c/Vistra",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -251760,7 +251546,7 @@
         "company_name": "HeartFlow",
         "id": "09c17ac3-4f05-4694-bc88-1b4ee5c0b54b",
         "title": "Software Engineer Intern - ML Ops / Compute Migration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -268552,7 +268338,7 @@
         "company_name": "Aypa Power",
         "id": "481ce419-909c-4866-929a-562ba6255866",
         "title": "Technology and Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -275394,7 +275180,7 @@
         "company_name": "First American",
         "id": "54301968-0df6-4cd8-9c4e-8d6ca9be1427",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -319241,7 +319027,7 @@
         "company_name": "Palantir",
         "id": "2a548980-d0dc-4f6d-bffa-4530eae92c4b",
         "title": "Forward Deployed Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -342701,7 +342487,7 @@
         "company_name": "Insitro",
         "id": "21f55edc-715b-44a3-87fe-ffbb071bbf22",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -352176,7 +351962,7 @@
         "company_name": "Smiths Detection Group",
         "id": "d1f027c7-e72c-4c6c-a50a-72c7414864b9",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368318,7 +368104,7 @@
         "company_name": "Nightwing Intelligence Solutions",
         "id": "55556c00-eb17-46a0-8914-66a19318e0f3",
         "title": "Radio Frequency Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -395214,7 +395000,7 @@
         "company_name": "Becton Dickinson",
         "id": "0718fecc-0b61-46aa-a33c-44fa02cce82a",
         "title": "Business Data Analytics Intern - Channel Coverage",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -396208,7 +395994,7 @@
         "company_name": "Quadric",
         "id": "0fb7dd0f-b805-4a7a-806b-52ac48ca9e2c",
         "title": "Software Engineer Intern - Kernels",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
