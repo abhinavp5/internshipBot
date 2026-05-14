@@ -15916,7 +15916,7 @@
         "company_name": "Zillow",
         "id": "ca5eca0a-9078-4ac7-9951-872de0a08817",
         "title": "AI Applied Scientist - PhD Intern - Next-Gen Agentic and Multi-Modal Home Exploration Experience",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -16219,7 +16219,7 @@
         "company_name": "Zillow",
         "id": "ea962e62-55ba-4c24-9b40-8d3309719bfa",
         "title": "AI Applied Scientist - PhD Intern - Evaluation Systems and Metrics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -309441,7 +309441,7 @@
         "company_name": "Magna",
         "id": "c81b895f-184a-4958-849f-7eefb3b329e5",
         "title": "Student Engineering Software",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -317182,7 +317182,7 @@
         "company_name": "KION Group",
         "id": "fe972247-600c-481b-961d-3abad929c277",
         "title": "AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -325169,7 +325169,7 @@
         "company_name": "The Federal Reserve System",
         "id": "e101d805-293c-49f2-a24e-5ce987ed7770",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -404385,7 +404385,7 @@
         "company_name": "Copart",
         "id": "c5e1e2ee-9028-41d8-8e43-8bed2a7fddb4",
         "title": "Yard Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -409156,7 +409156,7 @@
         "company_name": "NVIDIA",
         "id": "bebbeff8-81af-4e7a-b6f6-7658307b38b6",
         "title": "Applied Deep Learning PhD Research Intern - Reinforcement Learning for LLMs",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -414735,7 +414735,7 @@
         "company_name": "RTX",
         "id": "850174e1-1199-4c2e-a959-80fdcfe46a8b",
         "title": "Systems Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -417164,7 +417164,7 @@
         "company_name": "Pathos",
         "id": "d9ea509b-1e6a-4984-8ede-eb92547cabed",
         "title": "ML Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -417572,6 +417572,29 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Crowdstrike",
+        "id": "a56a4571-143d-427e-a184-fea69c27b8eb",
+        "title": "Intelligence Intern - Art",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1778751361,
+        "date_posted": 1778320619,
+        "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Intelligence-Intern---ART_R25822",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Crowdstrike",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
