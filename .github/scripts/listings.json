@@ -1615,29 +1615,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Schweitzer Engineering Laboratories",
-        "id": "a70a79b7-3376-4b9b-8d6c-db91bd36327c",
-        "title": "Software Application Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1758049223,
-        "date_posted": 1758049223,
-        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Application-Engineer-Intern_2025-17664",
-        "locations": [
-            "Moscow, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/SEL",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "LSEG",
         "id": "20ccf8b8-00f6-4672-a004-eccdea855e20",
@@ -205308,7 +205285,7 @@
         "company_name": "SharkNinja",
         "id": "22d33675-3735-4e1f-976c-4351ad5654c0",
         "title": "Fall 2026: Product Test Engineering Co-op - Shark - July to December",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -213880,7 +213857,7 @@
         "company_name": "GE Appliances",
         "id": "025cdbd3-053c-4ae7-a9b6-7b812684f7ce",
         "title": "Software Engineering Co-op Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -275912,7 +275889,7 @@
         "company_name": "EaglePicher Technologies",
         "id": "3e3f3bd0-c7e5-4b68-8cb9-6020b3bc0b4a",
         "title": "Intern Product Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -283673,7 +283650,7 @@
         "company_name": "Prolaio",
         "id": "c62ab735-3a48-48c6-b5c5-b24115c6b740",
         "title": "Data Science Intern - Biomarkers",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -285450,7 +285427,7 @@
         "company_name": "Mohawk",
         "id": "07f5d832-d608-4968-b3d1-ffa31a18b9a1",
         "title": "Research AND Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -301116,7 +301093,7 @@
         "company_name": "Kioxia",
         "id": "cada7d39-4d7c-42a5-ab3d-10e28b7e2b27",
         "title": "Product Line Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -311167,7 +311144,7 @@
         "company_name": "Kioxia",
         "id": "59c5557b-cffd-4bca-b416-fb2841ef4930",
         "title": "Technical Product Marketing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -314700,7 +314677,7 @@
         "company_name": "Kioxia",
         "id": "8ac73d51-1f47-4635-af71-a02661d0284c",
         "title": "Innovation Lab Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -329571,7 +329548,7 @@
         "company_name": "W.R. Berkley",
         "id": "55ce5d94-9f4d-4ea4-a7bc-b0da872bbdcc",
         "title": "IT Data Warehouse Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -337248,7 +337225,7 @@
         "company_name": "The Walt Disney Company",
         "id": "4cc42243-fa8d-4ac4-8014-836bac1add9f",
         "title": "Software Engineering Intern - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -357232,7 +357209,7 @@
         "company_name": "University of Rochester",
         "id": "d3d85092-e9e1-478b-9dfe-29d4e240fd96",
         "title": "Project Assistant 1",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -369731,7 +369708,7 @@
         "company_name": "Littelfuse",
         "id": "25666c3f-59c5-42d5-a68b-58c08e93a551",
         "title": "R&D Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -381013,7 +380990,7 @@
         "company_name": "Equinix",
         "id": "39bfda71-b940-48e2-a823-db39957f93b8",
         "title": "Enterprise AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392399,7 +392376,7 @@
         "company_name": "Tencent",
         "id": "ba133a6e-7d68-423a-a0ab-6235909272c2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -395391,7 +395368,7 @@
         "company_name": "EQ Bank",
         "id": "9a683339-5ca8-4ea0-b63c-9d7193375a59",
         "title": "Credit Risk Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -404012,7 +403989,7 @@
         "company_name": "Geotab",
         "id": "62c706de-aca8-4a93-b5ca-39599e4fad2f",
         "title": "Data Analyst Intern - Data & AI Enablement",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Fall 2026"
@@ -407051,7 +407028,7 @@
         "company_name": "WhiteWater Midstream",
         "id": "a995a362-af3d-4957-b4c2-4eec1c71d947",
         "title": "Data Quality Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -414159,7 +414136,7 @@
         "company_name": "LMI ",
         "id": "1d09cef0-ee74-42ab-8da4-b8debac1e317",
         "title": "Full Stack Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -415014,7 +414991,7 @@
         "company_name": "AutoNation",
         "id": "31e71a06-2dd5-4db1-9564-a0f33f42f061",
         "title": "Java Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -415832,7 +415809,7 @@
         "company_name": "Crum & Forster Insurance",
         "id": "8e361239-f612-4264-9395-2bc545ff95d5",
         "title": "Data Services Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -416083,7 +416060,7 @@
         "company_name": "Loblaw Companies",
         "id": "9fdd935c-eb93-4cf9-b9f0-f413192acc0d",
         "title": "Software Development Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -416959,7 +416936,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "0b26d0b3-36a9-46c2-98f1-e16440171c8a",
         "title": "Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -417580,7 +417557,7 @@
         "company_name": "EXL",
         "id": "bafdf9d6-eb11-43b4-875d-8ac5adff7bf1",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
