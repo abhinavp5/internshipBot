@@ -185,101 +185,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "ba6bb31a-681a-49f3-8013-2e1d9b6e16ee",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758063084,
-        "date_posted": 1758063084,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ802-RMS-AP-Bldg-802-1151-East-Hermans-Road-Building-802-Tucson-AZ-85756-USA/XMLNAME-2026-Intern---Raytheon-Software-Engineer-Intern--On-site-_01793129",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "SharkNinja",
-        "id": "48c65de9-8052-4c00-ba80-289282ac608f",
-        "title": "Product Development Intern - Shark",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758062064,
-        "date_posted": 1758062064,
-        "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4601627006",
-        "locations": [
-            "Needham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/SharkNinja",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Kinaxis",
-        "id": "0d4bcf06-2b70-46d6-95e6-b296afba4ce1",
-        "title": "Co-op Developer - AI/ML - GenAI",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758071685,
-        "date_posted": 1758060255,
-        "url": "https://careers-kinaxis.icims.com/jobs/33691/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Kinaxis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Kinaxis",
-        "id": "9766015b-3444-4d2a-a335-c41da8c83552",
-        "title": "Co-op/Intern Developer - Back End Technologies",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758073105,
-        "date_posted": 1758060253,
-        "url": "https://careers-kinaxis.icims.com/jobs/33682/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Kinaxis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "LSEG",
         "id": "20ccf8b8-00f6-4672-a004-eccdea855e20",
@@ -92335,27 +92240,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "SharkNinja",
-        "id": "5b31df35-ddfa-4922-accc-be4ee9f1d7b2",
-        "title": "Summer 2026: Ecommerce Intern - Amazon - May to August",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761818861,
-        "date_posted": 1758061270,
-        "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4601587006",
-        "locations": [
-            "Needham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/SharkNinja",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Arcadis",
         "id": "fb28762d-bee4-423f-acbc-a4c3bbbb44f6",
@@ -144797,7 +144681,7 @@
         "company_name": "Microsoft",
         "id": "af3d9caf-888f-44c5-9615-e45d5d06f6c5",
         "title": "Research Intern - Interactive Multimodal Futures Group - Situated & Affective Computing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -269727,7 +269611,7 @@
         "company_name": "State Street",
         "id": "97529dc7-bd4e-4ede-92cc-bcef1fb674f1",
         "title": "Bestx AI Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -359337,7 +359221,7 @@
         "company_name": "Actian",
         "id": "c7a08f13-551f-4c06-a490-063b0acf0301",
         "title": "Engineering Intern - Pipeline Observability and Lineage",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368312,7 +368196,7 @@
         "company_name": "BDO Canada",
         "id": "5d5d5a1e-8891-4c06-8383-c7cfad4c6689",
         "title": "Co-op Intern - Indirect Tax",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -371553,7 +371437,7 @@
         "company_name": "Qualitest",
         "id": "d0f73619-189e-406c-8d5f-62aff3221820",
         "title": "Digital Engineering CoE Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379251,7 +379135,7 @@
         "company_name": "Latitude.io",
         "id": "97324613-b8c7-4819-acb5-8ad18c9149e3",
         "title": "PhD AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379526,7 +379410,7 @@
         "company_name": "Equinix",
         "id": "39bfda71-b940-48e2-a823-db39957f93b8",
         "title": "Enterprise AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -387092,7 +386976,7 @@
         "company_name": "Zoox",
         "id": "65d2f7c5-bd84-43d5-ac0d-207793327798",
         "title": "PhD Research Intern - Multi-Modal Foundation Encoder for Perception",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -392252,7 +392136,7 @@
         "company_name": "Palantir",
         "id": "a40eeecb-2655-4172-8dad-cedc88e6fc40",
         "title": "Year at Palantir \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -397374,7 +397258,7 @@
         "company_name": "Applied Materials",
         "id": "cd0a900a-06f4-4081-a788-e92ba5d4785a",
         "title": "Algorithm Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -397647,7 +397531,7 @@
         "company_name": "Cummins",
         "id": "cd578e14-c35e-471d-94e0-050e97ba0232",
         "title": "School To Work Intern - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -405631,7 +405515,7 @@
         "company_name": "Leidos",
         "id": "010d4c32-fa2d-4b62-8c40-3d8039798011",
         "title": "Full Stack Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -408977,7 +408861,7 @@
         "company_name": "Thales",
         "id": "9b4f7a28-0dbb-4edb-a018-074ceb56e8b2",
         "title": "Digital Applications Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -416417,5 +416301,387 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lambda",
+        "id": "b4e9ca86-32bd-446b-9988-cf1cc0345014",
+        "title": "Security Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778797440,
+        "date_posted": 1778796515,
+        "url": "https://jobs.ashbyhq.com/lambda/0663f04c-097d-414f-b0a0-414a7cf153d6/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Lambda",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "7107711b-0874-460d-932c-0c0d7b729f42",
+        "title": "Year at Palantir Intern - Forward Deployed Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778797223,
+        "date_posted": 1778796362,
+        "url": "https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Keysight Technologies",
+        "id": "4f5b2483-3a53-417f-8ba6-11af30df0d05",
+        "title": "Field Service Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1778796361,
+        "date_posted": 1778796301,
+        "url": "https://jobs.keysight.com/jobs/52422?lang=en-us&icims=1",
+        "locations": [
+            "Nashua, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American University",
+        "id": "069391a4-e1df-4def-9ff5-ca592aeb4603",
+        "title": "Research Assistant - Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1778796609,
+        "date_posted": 1778796282,
+        "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Summer-Research-Assistant--Student-_R4252",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics UK",
+        "id": "3e5a9e76-e90a-4599-bb59-b33acfb3d409",
+        "title": "Software Engineer Co-op - Software/Systems Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1778796581,
+        "date_posted": 1778796281,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000126567109",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AeroVironment",
+        "id": "da063d77-4bc6-45bb-a055-fe38f2b92422",
+        "title": "Undergraduate Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778796361,
+        "date_posted": 1778796273,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/ABQ-AFB/Undergraduate-Research-Intern_7748",
+        "locations": [
+            "Albuquerque, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rivian",
+        "id": "8ea59fe2-7509-4d5a-a227-720fb3a3aad6",
+        "title": "Research Park Intern - Design Verification",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778797426,
+        "date_posted": 1778796473,
+        "url": "https://careers.rivian.com/jobs/29852?lang=en-us&icims=1",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Point72",
+        "id": "8aac7553-4bc1-4d00-a652-6a72002cf6b0",
+        "title": "Investment Analyst Program for Upcoming Graduates",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1778797933,
+        "date_posted": 1778797293,
+        "url": "https://boards.greenhouse.io/point72/jobs/8549734002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Point72",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "57da4647-0878-41da-a0dd-487766b14b04",
+        "title": "Associate Member Engineering Staff Intern - Software",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778797369,
+        "date_posted": 1778796474,
+        "url": "https://jobs.l3harris.com/job/Camden-Associate-Member-Engineering-Staff-Software-(Internship)-NJ-08103/1391044800/?ats=successfactors",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Brunswick",
+        "id": "0b352fd8-7dee-4e65-8846-33b2e923501f",
+        "title": "Systems Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778797346,
+        "date_posted": 1778796502,
+        "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Systems-Engineering-Intern_JR-050137",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Brunswick",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Clarivate",
+        "id": "6e615415-c5a4-48ad-b9ba-7fd6070fc461",
+        "title": "Applied AI Research and Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778797081,
+        "date_posted": 1778796283,
+        "url": "https://clarivate.wd3.myworkdayjobs.com/Clarivate_Careers/job/UK---London/Applied-AI-Research-and-Development-Intern_JREQ135653-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Clarivate",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "e5bf0800-58fa-41cf-bba9-7799f4f540f5",
+        "title": "Year at Palantir Intern - Forward Deployed Software Engineer - Commercial",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778797190,
+        "date_posted": 1778796363,
+        "url": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hitachi",
+        "id": "34a4567c-1985-44fc-8c39-54e9a9f8aed0",
+        "title": "Software Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1778796557,
+        "date_posted": 1778796407,
+        "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern--Fall-2026--8-months-_R1012739",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hitachi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Facility Solutions Group",
+        "id": "991a8f63-65fa-4790-8de1-d09deeed8643",
+        "title": "AI Automation Intern - Electrical Construction Operations",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778797261,
+        "date_posted": 1778796477,
+        "url": "https://careers-fsg.icims.com/jobs/2406/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Facility-Solutions-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SailPoint",
+        "id": "eca63208-50e6-4098-b86b-605490231b25",
+        "title": "AI Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778797669,
+        "date_posted": 1778796283,
+        "url": "https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/Headquarters-Austin-Texas-USA/AI-Data-Engineer---Intern_R013414",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/SailPoint",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "563916cf-2297-4c6b-93cc-b171f73555c4",
+        "title": "Palantir Intern - Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778797802,
+        "date_posted": 1778796363,
+        "url": "https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kinaxis",
+        "id": "4eeb4704-2afc-4b51-b4c5-5524b075e44a",
+        "title": "Developer Co-op/Intern - Clients - Front End Technologies",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1778796613,
+        "date_posted": 1778796295,
+        "url": "https://careers-kinaxis.icims.com/jobs/34702/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinaxis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
