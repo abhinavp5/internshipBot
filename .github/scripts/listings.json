@@ -1,98 +1,5 @@
 [
     {
-        "date_updated": 1761407001,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.ashbyhq.com/openai/566ce27d-8a1c-497c-a301-0912010d7b29",
-        "company_name": "OpenAI",
-        "title": "Software Engineer Internship / Co-op, Applied Emerging Talent",
-        "locations": [
-            "San Francisco, Ca",
-            "Seattle, WA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "de06c01a-b3d7-4c48-9515-eef7b1e222fb",
-        "date_posted": 1758104063,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1759956001,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.lever.co/sunwatercapital/583d67a5-46c3-4448-ba2e-604549a8627c",
-        "company_name": "Legis1",
-        "title": "AI News Integration",
-        "locations": [
-            "North Bethesda, MD"
-        ],
-        "terms": [
-            "Fall 2025"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "7144ebb6-ed29-40e2-bea8-8841e2f3ab70",
-        "date_posted": 1758104180,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1758104441,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://myhrabc.wd5.myworkdayjobs.com/en-US/Global/job/Conshohocken-PA/AI-Workflow-Architect-Intern_R2517572",
-        "company_name": "Cencora",
-        "title": "AI Readiness and Enablement Intern",
-        "locations": [
-            "Conshohocken, PA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "8bfbf59e-bf01-4b33-b367-14fa32e8eb12",
-        "date_posted": 1758104441,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1759949028,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---West-Chester-1354-Boot-Rd/Comcast-Front-End-UI-DevOps-Engineer-Intern_R419209",
-        "company_name": "Comcast",
-        "title": "Front End UI DevOps Engineer Intern",
-        "locations": [
-            "West Chester, PA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "98451733-18f7-44aa-b622-903df1855529",
-        "date_posted": 1758104540,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "date_updated": 1758125104,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -332750,7 +332657,7 @@
         "company_name": "Tencent",
         "id": "ac626a38-e2fb-4c21-b1f5-2b8acd944bbe",
         "title": "Product Manager Intern - Game Accounts and Studio Partnership",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -348376,7 +348283,7 @@
         "company_name": "Atomic Semi",
         "id": "8273dd4e-b31d-493a-9d57-963229920587",
         "title": "Packaging Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -374738,7 +374645,7 @@
         "company_name": "GHD",
         "id": "0dcc796d-483e-4558-b5d6-6afe5f134712",
         "title": "GIS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380870,7 +380777,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "c507ac9c-6dda-469d-bf3e-70c27c7ce99c",
         "title": "Quantitative Trader Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -393334,7 +393241,7 @@
         "company_name": "Integra FEC",
         "id": "ebb7f560-b3e3-4f57-b812-b0097eeb39bf",
         "title": "Data Scientist Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -397969,7 +397876,7 @@
         "company_name": "Lumentum",
         "id": "fd34ae86-8fe2-4a53-b94d-478cb5ff3f4c",
         "title": "Calibration and Test Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -403649,7 +403556,7 @@
         "company_name": "Leidos",
         "id": "fd5a8521-4005-4532-8abf-fbe39bd79e6e",
         "title": "Junior Cyber Electromagnetic Activities Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -404852,7 +404759,7 @@
         "company_name": "NVIDIA",
         "id": "7094b529-f81f-4757-bec7-54ce1d66d1f8",
         "title": "Software Engineer Intern - AI Tools",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -405054,7 +404961,7 @@
         "company_name": "Kinaxis",
         "id": "77a2f3fc-f657-4d3a-a64b-2832e7edb34c",
         "title": "Software Developer Co-op/Intern - Core Algorithms - Life Sciences",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -414460,7 +414367,7 @@
         "company_name": "General Dynamics UK",
         "id": "3e5a9e76-e90a-4599-bb59-b33acfb3d409",
         "title": "Software Engineer Co-op - Software/Systems Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -415468,5 +415375,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "d4609603-55fb-405d-b0ab-1d7181c3c906",
+        "title": "Technology Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778838164,
+        "date_posted": 1778709945,
+        "url": "https://careers-sig.icims.com/jobs/10871/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ardmore, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
