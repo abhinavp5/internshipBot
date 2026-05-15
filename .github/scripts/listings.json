@@ -1,51 +1,5 @@
 [
     {
-        "date_updated": 1758125104,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://dexcom.wd1.myworkdayjobs.com/en-US/dexcom/job/Remote---United-States/Intern-I---Software-Test-Engineering_JR114243",
-        "company_name": "Dexcom",
-        "title": "Software Test Engineering",
-        "locations": [
-            "Remote in USA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "e2c8c2bd-c2d2-461b-94a6-bf6eac92f828",
-        "date_posted": 1758125104,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1758583564,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.baesystems.com/global/en/job/BAE1US115987BREXTERNAL/Software-or-Computer-Engineering-Intern-Summer-2026",
-        "company_name": "BAE Systems",
-        "title": "Software or Computer Engineering Intern",
-        "locations": [
-            "Sterling Heights, MI"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "0e211681-8d63-4cd6-a385-23e935d9d6d8",
-        "date_posted": 1758125184,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Software Engineering",
         "company_name": "Sierra Nevada Coporation",
@@ -276791,7 +276745,7 @@
         "company_name": "Booz Allen",
         "id": "0193a7e2-b138-464b-a8fe-dbdd8f569dbf",
         "title": "University Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -357523,7 +357477,7 @@
         "company_name": "AvePoint",
         "id": "29ea5b45-4090-4d46-b91d-80db51f50b74",
         "title": "Marketing Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -385059,7 +385013,7 @@
         "company_name": "LHV Bank",
         "id": "37f29c1c-945f-4e13-8bd8-5361bc6de5c8",
         "title": "Data & AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -393824,7 +393778,7 @@
         "company_name": "AeroVironment",
         "id": "1045e146-b1e5-48e8-b69a-eebdacc1d4cd",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -394513,7 +394467,7 @@
         "company_name": "Delta Dental",
         "id": "25925b76-0b98-4ddf-b34c-e998214c0b2a",
         "title": "Application Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -413114,7 +413068,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "6e6529e3-4840-436a-81e0-c0e091529ddc",
         "title": "Artificial Intelligence / Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -414115,7 +414069,7 @@
         "company_name": "Flywire",
         "id": "62376be3-2d4f-4faa-b336-21857ee74cdb",
         "title": "Application Support Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
