@@ -234,29 +234,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "ServiceNow",
-        "id": "24e5efbf-8bae-427f-8742-a193065d54c7",
-        "title": "Servicenow Security Organization \u2013 Associate Information Security Analyst Intern - Sso",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758165664,
-        "date_posted": 1758117685,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000082318027",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1762955459,
         "sponsorship": "Other",
         "active": false,
@@ -226274,7 +226251,7 @@
         "company_name": "Cisco",
         "id": "d2dcfe14-a4bb-40cf-b495-040de5de1c91",
         "title": "Software Engineer 1 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -286868,7 +286845,7 @@
         "company_name": "Graphcore",
         "id": "23c22952-0eb8-4d58-8ec7-347863fa3de1",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -286892,7 +286869,7 @@
         "company_name": "Graphcore",
         "id": "03d644d7-4610-4e57-ab93-c93a4598f877",
         "title": "Software Engineering Intern - Drivers",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -352878,7 +352855,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "f368ace0-4abc-4c3e-98e7-3f1276b59816",
         "title": "Requirements Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389058,7 +389035,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9424072c-485e-43c4-91e8-4f124356a286",
         "title": "Trading System Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -397876,7 +397853,7 @@
         "company_name": "Lumentum",
         "id": "fd34ae86-8fe2-4a53-b94d-478cb5ff3f4c",
         "title": "Calibration and Test Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -403556,7 +403533,7 @@
         "company_name": "Leidos",
         "id": "fd5a8521-4005-4532-8abf-fbe39bd79e6e",
         "title": "Junior Cyber Electromagnetic Activities Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -405167,7 +405144,7 @@
         "company_name": "Philips",
         "id": "82b23620-74c4-45f2-8f57-35435b1621c2",
         "title": "Data Scientist Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -405306,7 +405283,7 @@
         "company_name": "Comcast",
         "id": "00bd05ee-6ed0-4b64-b20b-895d6a7a656c",
         "title": "Software Architect Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -405425,7 +405402,7 @@
         "company_name": "Comcast",
         "id": "f8b8d971-cfc9-477b-a017-d40de0a62ae3",
         "title": "Global Audit Data Solutions Data Architecture and Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -411518,7 +411495,7 @@
         "company_name": "Flywire",
         "id": "e0d65be0-919c-437b-95f1-709448cb8a14",
         "title": "Application Support Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -415126,7 +415103,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Western Digital",
-        "id": "fd43c319-d18f-4383-91dc-7cfb4c77a269",
+        "id": "c3e530a6-82f8-4c6a-a2d3-31c01c6bd3b2",
         "title": "Electronics Design Engineering",
         "active": true,
         "terms": [
@@ -415396,5 +415373,186 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leonardo",
+        "id": "574d5494-8e91-4134-a570-7e28c03d338d",
+        "title": "Technical Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778836501,
+        "date_posted": 1778836492,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Technical-Apprentice_R0022319-1",
+        "locations": [
+            "Welwyn Garden City, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leonardo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "050323ed-0918-4285-a9eb-a6993e0c0af4",
+        "title": "Student Researcher - Multiple Teams",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1778836142,
+        "date_posted": 1778836105,
+        "url": "https://jobs.bytedance.com/en/position/7639884334834862341/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "8388fb59-9aad-4440-ac64-f04a5aef647c",
+        "title": "Tax AI Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778836066,
+        "date_posted": 1778709948,
+        "url": "https://careers-sig.icims.com/jobs/10873/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ardmore, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Valeo",
+        "id": "9732accc-98a6-40c8-9832-da1ee9331262",
+        "title": "Test Tools Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778854632,
+        "date_posted": 1778854068,
+        "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Test-Tools-Engineering-Intern--Summer-2026-_REQ2026074631",
+        "locations": [
+            "Troy, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Valeo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Altamira Technologies",
+        "id": "f93db17f-5d1e-451a-b944-b4d9179b3a37",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778854141,
+        "date_posted": 1778854097,
+        "url": "https://jobs.jobvite.com/altamiracorps/job/oSC8zfwV?nl=1&nl=1&fr=false",
+        "locations": [
+            "Augusta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Altamira-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ford Motor Company",
+        "id": "cc9dbfb4-6698-4fb3-b0a7-6ab6fe24a9a5",
+        "title": "Embedded Software Engineer - IVI Infrastructure - Student Worker Program",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1778854141,
+        "date_posted": 1778854036,
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/63881",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ford-Motor-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Altamira Technologies",
+        "id": "6887541e-ff17-461e-8521-4c9a864f6752",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778854141,
+        "date_posted": 1778854098,
+        "url": "https://jobs.jobvite.com/altamiracorps/job/oDD8zfwH?nl=1&nl=1&fr=false",
+        "locations": [
+            "Augusta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Altamira-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "EXL",
+        "id": "01c15314-b7fb-4e91-8c54-4d0153b2b871",
+        "title": "Business Intelligence Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778854104,
+        "date_posted": 1778853859,
+        "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/14063",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/EXL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
