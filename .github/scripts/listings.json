@@ -1,30 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CACI",
-        "id": "b8f53d89-c22a-43fe-908b-791a5578a9fd",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758094311,
-        "date_posted": 1758094311,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-CO-Denver/Software-Engineering-Intern---Summer-2026_317064-1",
-        "locations": [
-            "Westminster, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
         "date_updated": 1761407001,
         "sponsorship": "Offers Sponsorship",
         "active": false,
@@ -119246,7 +119221,7 @@
         "company_name": "Cisco",
         "id": "0fdfda06-d9eb-48c2-b935-b4da3ff0f844",
         "title": "Software Engineer Data/AI/Intelligent Systems 1 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -184204,7 +184179,7 @@
         "company_name": "Medpace, Inc.",
         "id": "69895bf6-cfe8-4334-80d0-1834c83de6b0",
         "title": "Clinical Informatics Intern - Fall 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -214981,7 +214956,7 @@
         "company_name": "S&P Global ",
         "id": "4549f868-697a-4b15-a117-f8242279c730",
         "title": "APMO Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333036,7 +333011,7 @@
         "company_name": "Tencent",
         "id": "3cd8ee85-8135-4c7e-8806-a74243124907",
         "title": "Product Manager Intern - Game Accounts and Studio Partnership",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -335839,7 +335814,7 @@
         "company_name": "Rivian",
         "id": "cd885e02-d0aa-4f5f-a119-3f60710cc44c",
         "title": "UIUC Research Park Intern - Validation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -367256,7 +367231,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "7da3c280-040c-4a6b-bbdc-ccf7e3d9f527",
         "title": "Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -385404,7 +385379,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "04690200-00da-4592-b697-fc3f8a39af9c",
         "title": "Quantitative Systematic Trading Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -385427,7 +385402,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "4f46a01a-d152-4a18-9cf9-ff106eede269",
         "title": "Quantitative Research Intern - PhD: Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -385473,7 +385448,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "1eeacbc8-6f20-4cf6-b5a2-0a2578151236",
         "title": "Quantitative Systematic Trading Intern - Master's: Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -385519,7 +385494,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "214fe12f-0a66-495e-bbeb-de7c8d78fdf8",
         "title": "Quantitative Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -389221,7 +389196,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "14dcee99-b506-4efe-a80a-63151e541c4d",
         "title": "Quantitative Strategy Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -393359,7 +393334,7 @@
         "company_name": "Integra FEC",
         "id": "ebb7f560-b3e3-4f57-b812-b0097eeb39bf",
         "title": "Data Scientist Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -404877,7 +404852,7 @@
         "company_name": "NVIDIA",
         "id": "7094b529-f81f-4757-bec7-54ce1d66d1f8",
         "title": "Software Engineer Intern - AI Tools",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -405079,7 +405054,7 @@
         "company_name": "Kinaxis",
         "id": "77a2f3fc-f657-4d3a-a64b-2832e7edb34c",
         "title": "Software Developer Co-op/Intern - Core Algorithms - Life Sciences",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -415372,6 +415347,122 @@
             "Orange, CA"
         ],
         "company_url": "https://simplify.jobs/c/Nikkiso",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "7cd12443-d687-4fdb-bb46-5466245bc6f6",
+        "title": "Trading Operations Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778835946,
+        "date_posted": 1778709952,
+        "url": "https://careers-sig.icims.com/jobs/10751/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ardmore, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "74ba1fe3-ca71-4260-b251-29fa1d840279",
+        "title": "Quantitative Systematic Trader - Master's",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1778835421,
+        "date_posted": 1767148330,
+        "url": "https://careers-sig.icims.com/jobs/9442/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Philadelphia, PA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Medpace, Inc.",
+        "id": "6548f3eb-d1a3-4d5e-9942-3151de80c19a",
+        "title": "Feasibility Informatics Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1778835099,
+        "date_posted": 1770160410,
+        "url": "https://careers.medpace.com/jobs/12566?lang=en-us&icims=1",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Medpace-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "469bcd26-46bc-44f8-8e7a-d8e8eff93e82",
+        "title": "Human Resources Data Analyst",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1778834227,
+        "date_posted": 1773091904,
+        "url": "https://careers-sig.icims.com/jobs/10604/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ardmore, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Secureframe",
+        "id": "3f94d282-4523-424c-8450-0e34874128ab",
+        "title": "Software Engineer New Grad - Growth",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1778834001,
+        "date_posted": 1773364658,
+        "url": "https://jobs.lever.co/secureframe/29ff0477-faeb-44d6-abb3-8e894fc92a22/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Secureframe",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
