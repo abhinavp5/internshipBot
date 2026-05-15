@@ -57643,7 +57643,7 @@
         "company_name": "Sartorius",
         "id": "80c1a4f3-5f1a-425a-99e6-9abb8aac0450",
         "title": "Software Engineer Intern - Onsite - Fremont - CA",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -90095,32 +90095,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Procter & Gamble (P&G)",
-        "id": "762c1f13-c39a-4f8c-a042-0fa8e6f830b2",
-        "title": "Northeastern University R&D Engineer Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2027",
-            "Spring 2027",
-            "Summer 2027",
-            "Winter 2028",
-            "Spring 2028",
-            "Summer 2028"
-        ],
-        "date_updated": 1761832644,
-        "date_posted": 1758122711,
-        "url": "https://pg.wd5.myworkdayjobs.com/1000/job/BOSTON-GO--TECH-CENTER/Northeastern-University--R-D-Engineer-Co-op_R000138057",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Micron Technology",
         "id": "d1e847d1-3de4-498f-a561-0fc659ff89ea",
@@ -116965,7 +116939,7 @@
         "company_name": "PTC",
         "id": "f09a4fd9-2510-4678-83ef-9e64318e81b1",
         "title": "Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -212316,7 +212290,7 @@
         "company_name": "Franklin Templeton",
         "id": "b3948082-9dab-476a-919f-677e76d981e8",
         "title": "Technology Order Management Execution & Compliance",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -304346,7 +304320,7 @@
         "company_name": "Unwrap",
         "id": "76d7f714-6ae6-4023-9bd3-f86932ff3787",
         "title": "Full Stack Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -337812,7 +337786,7 @@
         "company_name": "City of Greeley",
         "id": "d6ae47c2-d269-4232-95f7-c509da2f4431",
         "title": "Intern Asset Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -394261,7 +394235,7 @@
         "company_name": "Rakuten Advertising",
         "id": "e9520654-7d2d-4da2-bbd2-153e088e9b7a",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -415553,6 +415527,77 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Databricks",
+        "id": "e77fb227-81d0-4b4a-9c67-53f7c2624c26",
+        "title": "AI Engineer - Forward Deployed Engineer - Forward Deployed Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1778855041,
+        "date_posted": 1778854882,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=8551531002",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Databricks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pfizer",
+        "id": "ef8f96e2-d42e-46f1-abb5-7ea91725d4a8",
+        "title": "AI Application Developer Undergraduate",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1778854321,
+        "date_posted": 1778854236,
+        "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-Kingdom---Walton-Oaks/AI-Application-Developer-Undergraduate_4956412",
+        "locations": [
+            "Dorking, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Pfizer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "e5d80c71-294a-4e77-8187-4ec61bd5f7fa",
+        "title": "Data Processing Developer Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1778854321,
+        "date_posted": 1778854237,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/France-Courbevoie/Data-Processing-Developer-Technology-Intern---2026_JR2006379",
+        "locations": [
+            "Paris, France",
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
