@@ -1,28 +1,5 @@
 [
     {
-        "date_updated": 1762297106,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.ashbyhq.com/blockhouse/6e64b896-69c8-4ef9-bd98-e1aaa138ecca",
-        "company_name": "Blockhouse",
-        "title": "Quantitative Developer Intern",
-        "locations": [
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Quantitative Finance",
-        "source": "AlmondCroffle",
-        "id": "29aac22c-fef9-48b9-9cd1-717da2fcf6e9",
-        "date_posted": 1758213177,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Product",
         "company_name": "Stryker",
@@ -125231,7 +125208,7 @@
         "company_name": "Ambarella",
         "id": "cd94083e-cc43-4ac3-ab77-eb4e883cf7ab",
         "title": "Software Development Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -340134,7 +340111,7 @@
         "company_name": "Pennsylvania State University",
         "id": "72636fd7-15a0-474b-8146-e83de77d2b08",
         "title": "OriginLabs Technician and Lab Monitor",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -380212,7 +380189,7 @@
         "company_name": "NBCUniversal",
         "id": "41655278-a249-4e9f-b17d-f9187aacc922",
         "title": "Film Technology AR/VR Internships Intern - Academic Year",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -384309,7 +384286,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "e045efc0-7a85-4178-96f4-e8cc6e10fdae",
         "title": "GAM \u2013 Portfolio Solutions Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -393924,7 +393901,7 @@
         "company_name": "University of Virginia",
         "id": "0e5ee6f1-eac9-44f8-9c4e-be3868dffdc1",
         "title": "Gaynor Research Assistant Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -406298,7 +406275,7 @@
         "company_name": "Desjardins Group",
         "id": "b8011049-1548-4053-9e0a-5906cd2dbd3f",
         "title": "Data Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -409170,7 +409147,7 @@
         "company_name": "Manulife Financial",
         "id": "d1f4b10b-24eb-476a-bc42-c2c4d5c8e0f2",
         "title": "Software Engineering Co-op - Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -412696,7 +412673,7 @@
         "company_name": "CAE",
         "id": "efa65a8c-d804-442f-9165-003d9fe830c6",
         "title": "Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -413539,7 +413516,7 @@
         "company_name": "University of Arkansas",
         "id": "7e07e58f-d061-44dd-bc0d-25fe3939a580",
         "title": "Student Research Assistant-2",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -413780,6 +413757,29 @@
             "Columbus, MS"
         ],
         "company_url": "https://simplify.jobs/c/Paccar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "94ea9793-c0bc-461a-874b-5c1d2a119851",
+        "title": "Placement Student - Software Engineering",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1778940541,
+        "date_posted": 1778940422,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20270783",
+        "locations": [
+            "Londonderry, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
