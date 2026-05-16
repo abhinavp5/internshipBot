@@ -24,30 +24,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nissan",
-        "id": "1f649491-755b-40a3-b3bb-b4cadec2ae5b",
-        "title": "Supply Chain Management Analytics Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758220008,
-        "date_posted": 1758220008,
-        "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Supply-Chain-Management-Analytics-Intern---Summer-2026---Smyrna--TN_R00195373",
-        "locations": [
-            "La Vergne, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/Nissan",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Other",
         "company_name": "Wasabi Technologies",
         "id": "2d992bb6-21bb-499a-a8bd-b5182bfe88ff",
@@ -324225,7 +324201,7 @@
         "company_name": "University of Texas at Austin",
         "id": "06ba6a6e-e713-450a-b464-1f3ebcc67afc",
         "title": "Undergraduate Research Assistant",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -383369,7 +383345,7 @@
         "company_name": "Manulife Financial",
         "id": "bd47ca24-0cf8-476e-83e3-e77bc79d529a",
         "title": "Co-op - Data Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -393785,7 +393761,7 @@
         "company_name": "Intelcom | Dragonfly",
         "id": "737a77a0-b1a1-4897-ab56-0ea7298e7b11",
         "title": "Software Development Intern - Business Platform",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -394228,7 +394204,7 @@
         "company_name": "State of Nebraska",
         "id": "e92be21e-de72-4461-9dfd-c52863a41148",
         "title": "Student Intern - GIS Specialist",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -396635,7 +396611,7 @@
         "company_name": "Thales",
         "id": "9a175a51-c9ab-40f0-9a15-8b017aa8f5ce",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -408776,7 +408752,7 @@
         "company_name": "Cisive",
         "id": "e018a2ac-82d3-4544-85aa-440aa29efa03",
         "title": "Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -413175,7 +413151,7 @@
         "company_name": "Centific",
         "id": "4e2fb10f-ec9d-46fa-a63a-4d5f90987bfe",
         "title": "Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
