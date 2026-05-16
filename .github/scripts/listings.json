@@ -1,80 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Other",
-        "company_name": "Wasabi Technologies",
-        "id": "2d992bb6-21bb-499a-a8bd-b5182bfe88ff",
-        "title": "Cloud Technical Support Engineer",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1758224935,
-        "date_posted": 1758224935,
-        "url": "https://job-boards.greenhouse.io/wasabi/jobs/4926172008",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/WasabiTech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Autodesk",
-        "id": "e45a0103-3472-4553-ba32-ce16fc4c0710",
-        "title": "Stagiaire en D\u00e9veloppement Logiciel \u2013 Intern Software Developer",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1758224239,
-        "date_posted": 1758224239,
-        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Logiciel--Intern-Software-Developer_25WD89818-2",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Autodesk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Kinaxis",
-        "id": "748f73d6-c033-4695-b48f-f86ff3979303",
-        "title": "Co-op/Intern Product Marketing",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1758224721,
-        "date_posted": 1758224721,
-        "url": "https://careers-kinaxis.icims.com/jobs/33714/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Ottawa, ON, Canada",
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Kinaxis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Citadel Securities",
         "id": "aeb731f5-2ac3-477e-921b-74a84adcbdb6",
@@ -981,53 +907,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Auto-Owners Insurance",
-        "id": "e2054c44-ddf4-4898-8cc4-dd2b9acc48be",
-        "title": "Intelligent Automation Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1758225666,
-        "date_posted": 1758225666,
-        "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Intelligent-Automation-Developer-Intern_R_12385",
-        "locations": [
-            "East Lansing, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Auto-Owners-Insurance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Brevan Howard",
-        "id": "6eba9337-c06e-4d91-8e8a-00ee119be233",
-        "title": "2026 Summer Internship Programme - Artificial Intelligence & Quant",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758224613,
-        "date_posted": 1758224613,
-        "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/London-82/XMLNAME-2026-Summer-Internship-Programme---Artificial-Intelligence---Quant--London_JR101202",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Brevan-Howard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -124791,7 +124670,7 @@
         "company_name": "Ambarella",
         "id": "d5dc5d72-f912-436f-8385-faa6dc97d1f4",
         "title": "Verification Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -136369,7 +136248,7 @@
         "company_name": "Ambarella",
         "id": "d1b52a81-9c46-4fe8-b3ef-097dd0a546b7",
         "title": "ASIC Design Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -296650,7 +296529,7 @@
         "company_name": "Ambarella",
         "id": "74ed046a-1c48-4657-89f1-1f609aefff4b",
         "title": "Software Architecture Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -312182,7 +312061,7 @@
         "company_name": "Occidental Petroleum Corporation (Oxy)",
         "id": "482740e0-68a4-4908-a047-e4788e000945",
         "title": "Co-Op \u2013 Data - Well Servicing & Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -352466,7 +352345,7 @@
         "company_name": "Magna",
         "id": "7dc2e2fc-62c7-404e-b61b-f9b8ac587aa2",
         "title": "Intern Validation Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -361580,7 +361459,7 @@
         "company_name": "CAE",
         "id": "7224e144-d142-442c-acfb-0b73760ef5c9",
         "title": "Database Administrator / Data Engineer COOP",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -379440,7 +379319,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "f638db09-500b-4ede-9493-96b5f440cab6",
         "title": "Wealth Management \u2013 Distribution Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -386034,7 +385913,7 @@
         "company_name": "Louisiana State University (LSU)",
         "id": "45e6bc30-5400-458f-97be-ca982aa55cb8",
         "title": "Transient Research Project-2 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -388641,7 +388520,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "998701e4-4702-458b-9c2a-13c7a4f02fd9",
         "title": "Enterprise Data Management Solutions Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -393271,7 +393150,7 @@
         "company_name": "Intelcom | Dragonfly",
         "id": "d17ead29-d484-4239-8ae1-8e0c475ad01f",
         "title": "AI Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -396752,7 +396631,7 @@
         "company_name": "Loblaw Companies",
         "id": "00634ece-a76d-4b55-85c7-99e6428e22a3",
         "title": "Market Analytics Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -404164,7 +404043,7 @@
         "company_name": "Advanced Energy",
         "id": "729f884e-638b-4dcb-aac8-3d44f316cac9",
         "title": "Electronics Service Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -406363,7 +406242,7 @@
         "company_name": "Bank of Montreal",
         "id": "10ea6ba5-ff6a-4396-9ba5-86f0e059112c",
         "title": "Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -413389,5 +413268,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pennsylvania State University",
+        "id": "2b2dc650-c097-40e1-9a2a-dab68af1190a",
+        "title": "Innovation Consultant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1778947749,
+        "date_posted": 1778945662,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Innovation-Consultant_REQ_0000065370-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
