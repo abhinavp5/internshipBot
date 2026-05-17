@@ -1232,101 +1232,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Norfolk Southern",
-        "id": "368a00c7-e75c-4b16-b8b1-3efe5d573be7",
-        "title": "Business Optimization Intern - Business/Data Analyst",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1758312827,
-        "date_posted": 1758312827,
-        "url": "https://jobs.nscorp.com/job/Atlanta-Business-Optimization-Intern-(BusinessData-Analyst)-Spring-2026-GA-30318/1327679800/?ats=successfactors",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Norfolk-Southern",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Allstate Insurance Company",
-        "id": "ac51fbc2-6ce8-4bec-a1c6-655d9f723bdf",
-        "title": "Data Analytics Engineer Intern - Analytics Team - Business Intelligence",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758312545,
-        "date_posted": 1758312545,
-        "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/Arity---Data-Analytics-Engineer-Intern_R21343",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Allstate-Insurance-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GlobalFoundries",
-        "id": "342345c5-bd9e-4aef-b0f2-12d5d9853259",
-        "title": "Field Application Engineering Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758311207,
-        "date_posted": 1758311207,
-        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Field-Application-Engineering-Intern--Summer-2026-_JR-2502786",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/GlobalFoundries",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Ontario Teachers' Pension Plan",
-        "id": "e0f5f61d-1275-4ea6-bc6c-fd3fa9852338",
-        "title": "Intern - Trading Floor Risk Analyst - Analysis",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1758310379,
-        "date_posted": 1758310379,
-        "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Trading-Floor-Risk-Analyst---Analysis--September-2026---12-months-_6667",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Visa",
         "id": "485cdd4e-6a77-461f-b033-619694332bb7",
         "title": "Consulting & Analytics Intern",
@@ -384358,7 +384263,7 @@
         "company_name": "Magna",
         "id": "2b9c7f6c-b77f-444c-9d11-e362925f21a3",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
