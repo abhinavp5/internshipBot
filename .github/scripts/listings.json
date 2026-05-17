@@ -3135,7 +3135,7 @@
         "company_name": "Zillow",
         "id": "2fa61ab1-b82d-414b-b8b4-4ac18feb9a17",
         "title": "AI Applied Scientist Intern - Foundational AQ & EQ",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -190065,7 +190065,7 @@
         "company_name": "TENEX.AI",
         "id": "214f12da-7d0d-4625-96b9-108cc4ed94ce",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -230224,7 +230224,7 @@
         "company_name": "AspenTech",
         "id": "6a8df5a7-33c8-43f7-963d-58b6a3254d58",
         "title": "Software Developer Intern - Digital Grid Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -280440,7 +280440,7 @@
         "company_name": "NVIDIA",
         "id": "a1bcdd41-bfd1-4628-9267-bb5345bf61a0",
         "title": "Developer Technology Intern - High-Performance Databases",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -281280,7 +281280,7 @@
         "company_name": "Cadence Design Systems",
         "id": "d3e624fc-5c9c-4aad-b38f-f684adab013b",
         "title": "Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -303824,7 +303824,7 @@
         "company_name": "Copart",
         "id": "2b7c8f72-48b1-4c76-ac63-400cb8ba6b08",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -324007,7 +324007,7 @@
         "company_name": "DotDash Meredith",
         "id": "b2582b69-0e76-4b8a-8365-1c7451eb0793",
         "title": "Transaction Tooling Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -333139,7 +333139,7 @@
         "company_name": "Tencent",
         "id": "e4becf68-5294-4c91-a10c-4626a344f605",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -341527,7 +341527,7 @@
         "company_name": "Tencent",
         "id": "a55022d4-282c-481c-8e9f-8133ccf3797a",
         "title": "Data Science Intern - Influencer Marketing AI Application",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -363770,7 +363770,7 @@
         "company_name": "KION Group",
         "id": "2de4ccd4-e782-4db3-8427-6b8837912084",
         "title": "Procurement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -384906,7 +384906,7 @@
         "company_name": "Magna",
         "id": "2b9c7f6c-b77f-444c-9d11-e362925f21a3",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -394606,7 +394606,7 @@
         "company_name": "Loblaw Companies",
         "id": "00634ece-a76d-4b55-85c7-99e6428e22a3",
         "title": "Market Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -395365,7 +395365,7 @@
         "company_name": "Copart",
         "id": "2d421d61-207f-4bd9-8e65-78346e199d36",
         "title": "Yard Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -395616,7 +395616,7 @@
         "company_name": "X Development",
         "id": "38d16faf-14c3-4aed-8d2e-240d84440dc6",
         "title": "PhD Resident - AI for Chemistry - Early Stage Project",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -395836,7 +395836,7 @@
         "company_name": "Pennsylvania State University",
         "id": "4686a41a-e15f-4233-8277-21cb6d26a8c2",
         "title": "CSE Researcher-Narayanan Intern - V",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -397961,7 +397961,7 @@
         "company_name": "Leidos",
         "id": "010d4c32-fa2d-4b62-8c40-3d8039798011",
         "title": "Full Stack Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -403968,7 +403968,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "2b2e9c95-048c-4a41-96cc-94af877774ee",
         "title": "Business Intelligence Developer/Engineer Engineer Intern - Ecco",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -407410,7 +407410,7 @@
         "company_name": "Trane Technologies",
         "id": "2a4e7e8a-08d8-4e2a-9708-bbbdf507f1bf",
         "title": "Commercialization Product Support Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -407435,7 +407435,7 @@
         "company_name": "TransPerfect",
         "id": "009fbf42-7902-4632-a32d-8be35fa22fae",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -408956,7 +408956,7 @@
         "company_name": "Brunswick",
         "id": "0b352fd8-7dee-4e65-8846-33b2e923501f",
         "title": "Systems Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -410083,7 +410083,7 @@
         "company_name": "Pfizer",
         "id": "ef8f96e2-d42e-46f1-abb5-7ea91725d4a8",
         "title": "AI Application Developer Undergraduate",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -410247,7 +410247,7 @@
         "company_name": "Cadence Design Systems",
         "id": "85244c05-d41b-4442-810b-63dac7bd430c",
         "title": "Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -410704,7 +410704,7 @@
         "company_name": "SailPoint",
         "id": "7e57fccc-f32a-4e7f-9f63-df08f5513ff5",
         "title": "Enterprise Identity & IT Security Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -411138,7 +411138,7 @@
         "company_name": "Pennsylvania State University",
         "id": "c2f5393e-5085-4e0d-abeb-baab50cf1601",
         "title": "Part-Time Research Assistant/Programmer - Yanxi Liu",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
