@@ -71489,7 +71489,7 @@
         "company_name": "Tencent",
         "id": "553c3141-cedc-4ce8-ae4d-c4dbfd12ce83",
         "title": "Research Internship-Multimodal LLM - Speech/Music/Audio/Vision/Language",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -257879,7 +257879,7 @@
         "company_name": "Tencent",
         "id": "817874bc-4775-4ea6-ad0f-216a0bc763fd",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -329418,7 +329418,7 @@
         "company_name": "Varda Space",
         "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
         "title": "Mission Software \u2013 Intern - Python",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -344634,7 +344634,7 @@
         "company_name": "Trane Technologies",
         "id": "7d8a07e4-0435-4236-852b-9ff0999f509b",
         "title": "Technical Applications and HW Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -366179,9 +366179,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776157706,
+        "date_updated": 1779101186,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -376004,7 +376004,7 @@
         "company_name": "X Development",
         "id": "b92a1efb-f8d9-4f78-a277-2655bbd07142",
         "title": "PhD Residency Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -386377,7 +386377,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "5cd97e38-1ba7-4ba5-9cd3-3b16e47e8e92",
         "title": "Credit Modeling & Methodology Intern - Credit Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -390631,9 +390631,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1777638156,
+        "date_updated": 1779101186,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -390677,9 +390677,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1777638524,
+        "date_updated": 1779101186,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -391722,7 +391722,7 @@
         "company_name": "Altera Corporation",
         "id": "13561ce6-ad19-4020-9e04-8e95467b2813",
         "title": "FPGA Development Tools Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -398124,9 +398124,9 @@
         ]
     },
     {
-        "date_updated": 1778157957,
+        "date_updated": 1779101186,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -400564,7 +400564,7 @@
         "company_name": "Carnegie Mellon University",
         "id": "021d12d5-64ed-4980-8b3f-4f30d00f6b0b",
         "title": "GIS Intern - Enterprise Space Information Management - Esim",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -405000,7 +405000,7 @@
         "company_name": "Stevens Institute of Technology",
         "id": "a37f4e12-8b0c-4f92-86f8-af3bfcb20b83",
         "title": "Visiting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -406691,7 +406691,7 @@
         "company_name": "American University",
         "id": "069391a4-e1df-4def-9ff5-ca592aeb4603",
         "title": "Research Assistant - Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -408204,7 +408204,7 @@
         "company_name": "Harris Computer",
         "id": "b01e4509-72ac-44dc-9169-a32bf84581e1",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -409096,7 +409096,7 @@
         "company_name": "Vertiv",
         "id": "94ea9793-c0bc-461a-874b-5c1d2a119851",
         "title": "Placement Student - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -409608,6 +409608,29 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/FOX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Quest Global",
+        "id": "01467ce2-35b2-400d-9402-8f51b73adcde",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779095477,
+        "date_posted": 1779095297,
+        "url": "https://careers.quest-global.com/global/en/job/P-118812",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Quest-Global",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
