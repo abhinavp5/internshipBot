@@ -1,30 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Other",
-        "company_name": "Boston Scientific",
-        "id": "5fa5a2d1-aa8a-4dcd-8c7d-2d38a80e93c1",
-        "title": "AIS R&D Security Engineer Intern - Interns/Graduates - Development",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758412126,
-        "date_posted": 1758412126,
-        "url": "https://bostonscientific.eightfold.ai/careers/job/563602808693713",
-        "locations": [
-            "Roseville, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Boston-Scientific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Steel Dynamics",
         "id": "f598174e-ca53-478d-99bf-557f68c9a7fb",
@@ -111122,7 +111098,7 @@
     {
         "date_updated": 1763711006,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -111527,7 +111503,7 @@
         "company_name": "Cisco",
         "id": "754ac4dc-d1a1-41f6-89cd-3a8ae221cb82",
         "title": "Hardware Engineer 2",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -156978,7 +156954,7 @@
         "company_name": "ASM International",
         "id": "54981416-d415-4bf8-86de-e64401a3fd2f",
         "title": "Software Engineering Intern - Summer 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -178088,7 +178064,7 @@
         "company_name": "Fifth Third Bank",
         "id": "c6d861fc-b734-4bd1-bca3-db0e2f15151b",
         "title": "Software Engineer Co-op - Enterprise Finance Applications - Fall 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -186077,7 +186053,7 @@
         "company_name": "Biogen",
         "id": "c67978ec-ccad-4b6f-aa13-40814ac5a2cd",
         "title": "Co-op 2\n02\n02\n02\n02\n02\n02\n02\n0",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -213114,7 +213090,7 @@
         "company_name": "The Walt Disney Company",
         "id": "7dd88c8f-59eb-49e2-b75b-c4d489e80b10",
         "title": "Marketing Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -218697,7 +218673,7 @@
         "company_name": "Cisco",
         "id": "d2dcfe14-a4bb-40cf-b495-040de5de1c91",
         "title": "Software Engineer 1 - Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -311512,7 +311488,7 @@
         "company_name": "TripleRing",
         "id": "a068eb07-427a-4899-9032-68af19250aae",
         "title": "Software Embedded Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -316893,7 +316869,7 @@
         "company_name": "Guidewire",
         "id": "148a72b7-bc13-4b01-a17e-84eb6dd9858c",
         "title": "Services Solutions Technical Architect Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333205,7 +333181,7 @@
         "company_name": "Cirrus Logic",
         "id": "0af424c7-d1b7-4441-bd3d-cfed627d70fe",
         "title": "Intern - Software Engineer - AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -371418,7 +371394,7 @@
         "company_name": "W.R. Berkley",
         "id": "89ff2f02-753f-4972-90ab-a9a4d630272f",
         "title": "Business Intelligence Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -372358,7 +372334,7 @@
         "company_name": "Fifth Third Bank",
         "id": "ef55f078-97dd-4d24-b83e-fe4a5d11a422",
         "title": "IT Leadership Program Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -380859,7 +380835,7 @@
         "company_name": "Magna",
         "id": "75caf436-58a0-4e9b-b08f-0f1506c916e7",
         "title": "Student Intern - Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -395644,7 +395620,7 @@
         "company_name": "Booz Allen",
         "id": "af79ac8b-a9e4-4126-8f63-77b4a2875414",
         "title": "Health Account Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -398924,7 +398900,7 @@
         "company_name": "Viridien",
         "id": "39d03fbd-ef14-485e-8c46-08eeba2a2e28",
         "title": "AI Full Stack Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -401212,7 +401188,7 @@
         "company_name": "Lunar Energy",
         "id": "64612380-a652-42ec-ad96-2729e3cce269",
         "title": "Reliability Test Intern - Reliability Testing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -401929,7 +401905,7 @@
         "company_name": "Digital Realty",
         "id": "aa0708d8-7f2e-4d51-a19f-acfd131d0d75",
         "title": "Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -405625,7 +405601,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "0b26d0b3-36a9-46c2-98f1-e16440171c8a",
         "title": "Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -407837,7 +407813,7 @@
         "company_name": "Altamira Technologies",
         "id": "6887541e-ff17-461e-8521-4c9a864f6752",
         "title": "Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -409979,6 +409955,151 @@
             "Charlotte, NC"
         ],
         "company_url": "https://simplify.jobs/c/AssetMark",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Podium",
+        "id": "2d7e6351-1991-46ea-98cf-af4a5c9fa957",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779142928,
+        "date_posted": 1779142075,
+        "url": "https://job-boards.greenhouse.io/podium81/jobs/7939921",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Podium",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "d0bc21c9-3d8f-4e73-8ed7-53c72148c6fd",
+        "title": "Proton Exchange Membrane Water Electrolysis Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779142424,
+        "date_posted": 1779141933,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000127066949",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Johnson Controls",
+        "id": "bbb0790a-38bd-458f-8e18-5661e99bc38a",
+        "title": "Hardware Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779142862,
+        "date_posted": 1779141985,
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Westford-Massachusetts-United-States-of-America/NextGen-Hardware-Engineer_WD30268809",
+        "locations": [
+            "Lubbock, TX",
+            "Providence, RI",
+            "Westford, MA",
+            "Sister Bay, WI",
+            "Weslaco, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Controls",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nash",
+        "id": "18dfe12d-d680-403f-a860-d29fc7293efe",
+        "title": "Full Stack Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779142963,
+        "date_posted": 1779142093,
+        "url": "https://jobs.ashbyhq.com/Nash/5d2387ea-c478-433b-b3db-30115d1984c5/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Nash",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "W.R. Berkley",
+        "id": "2aa26cc9-01dd-455b-ad28-221aedef7c7a",
+        "title": "Underwriting Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779142828,
+        "date_posted": 1779142012,
+        "url": "https://careers-berkley.icims.com/jobs/12816/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Glen Allen, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/WR-Berkley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Blackboard",
+        "id": "6811bb0f-5241-4246-8d01-0048db2d15a5",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779142861,
+        "date_posted": 1779142058,
+        "url": "https://jobs.jobvite.com/blackboard/job/ouk3zfwa?nl=1&nl=1&fr=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Blackboard",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
