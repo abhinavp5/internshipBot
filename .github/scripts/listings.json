@@ -3424,31 +3424,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Cloudflare",
-        "id": "106f15a3-46ae-4e5a-b737-41c1825fc334",
-        "title": "Software Engineer Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1758550187,
-        "date_posted": 1758550187,
-        "url": "https://boards.greenhouse.io/cloudflare/jobs/7259003",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Cloudflare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Optiver",
         "id": "c2797397-c45b-4396-b76a-81883780b63d",
         "title": "Software Engineer Intern/Co-op - Multiple Teams",
@@ -159466,7 +159441,7 @@
         "company_name": "Maven Securities",
         "id": "1d051c50-4d56-4de6-b986-d00eafd8b01f",
         "title": "Amsterdam Trader Summer Internship 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -223342,7 +223317,7 @@
         "company_name": "Avathon",
         "id": "2164a5af-267c-4dbf-94fd-aa9a78ffcc06",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -232503,7 +232478,7 @@
         "company_name": "CME Group",
         "id": "523f4ede-20df-4626-a195-9513bfa2c7b3",
         "title": "Post Grad Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -304042,7 +304017,7 @@
         "company_name": "Smiths Detection Group",
         "id": "d6995a66-6162-42e8-b156-b4b54f44949a",
         "title": "Imaging and Algorithms Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -324558,7 +324533,7 @@
         "company_name": "The Walt Disney Company",
         "id": "14a6035a-3abb-4489-84d3-984056fb6de3",
         "title": "Corporate Innovation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -328270,7 +328245,7 @@
         "company_name": "American Rare Earths",
         "id": "224e6611-9cfb-4eef-8107-822517f2d5e4",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -337666,9 +337641,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1774873467,
+        "date_updated": 1779287317,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -368991,9 +368966,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776349646,
+        "date_updated": 1779287317,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -387478,7 +387453,7 @@
         "company_name": "Intelcom | Dragonfly",
         "id": "7aaea1f3-741c-48f1-aac4-1a8d34a5bcc5",
         "title": "Software Developer in Test Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389045,9 +389020,9 @@
         "degrees": []
     },
     {
-        "date_updated": 1777637018,
+        "date_updated": 1779287317,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -390087,7 +390062,7 @@
         "company_name": "Legal & General",
         "id": "51c09d1a-e9a6-4723-91e7-06b9176dcf3f",
         "title": "Product Proposition Governance Apprentice - Product Proposition Governance",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -390224,7 +390199,7 @@
         "company_name": "Legal & General",
         "id": "201de57d-a6d9-47d0-8ad2-384938edac5a",
         "title": "Product Proposition Governance Apprentice - Product Proposition Governance",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -391274,9 +391249,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1777890146,
+        "date_updated": 1779287317,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -396726,7 +396701,7 @@
         "company_name": "Comcast",
         "id": "12d8b2ae-c10e-4753-8dd5-157866ff4507",
         "title": "Business Digital Product Management Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027"
@@ -396838,9 +396813,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1778159448,
+        "date_updated": 1779287317,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -411407,6 +411382,100 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tencent",
+        "id": "d47318d3-828b-49ac-932d-4d540ebae3c5",
+        "title": "Agent Evaluation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779286321,
+        "date_posted": 1779285945,
+        "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/Agent-Evaluation-Intern_R107491",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Medpace, Inc.",
+        "id": "e484710b-5e00-46ed-bb45-b6b53b1559ac",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1779285961,
+        "date_posted": 1779285925,
+        "url": "https://careers.medpace.com/jobs/12767?lang=en-us&icims=1",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Medpace-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tencent",
+        "id": "7e8ff4d2-c3b9-4fea-99ac-a23c791654a1",
+        "title": "Agent Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779285961,
+        "date_posted": 1779285947,
+        "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Agent-Development-Intern_R107276-2",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tencent",
+        "id": "59e03fa0-3049-4051-83b3-1b019f5a3193",
+        "title": "Agent Evaluation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779285961,
+        "date_posted": 1779285947,
+        "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Agent-Evaluation-Intern_R107491-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
