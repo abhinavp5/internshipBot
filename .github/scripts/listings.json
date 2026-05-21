@@ -1,51 +1,5 @@
 [
     {
-        "date_updated": 1758585473,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://northmark.wd108.myworkdayjobs.com/en-US/NMS/job/Intern-Program_R12713",
-        "company_name": "NorthMark Strategies",
-        "title": "Engineering Intern Program",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "TimothyNaumov",
-        "id": "23c9399e-6845-4b02-9aa6-e6407cfd817e",
-        "date_posted": 1758585473,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1759960421,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://job-boards.greenhouse.io/robinhood/jobs/7163234?t=gh_src=?gh_jid=7163234",
-        "company_name": "Robinhood",
-        "title": "Machine Learning Engineer Intern, Applied ML",
-        "locations": [
-            "Menlo Park, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "yus100",
-        "id": "880c6f8c-83e2-4b2f-b9af-5498a795c5ef",
-        "date_posted": 1758585543,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Other",
         "company_name": "Sonoco",
@@ -241677,7 +241631,7 @@
         "company_name": "Microsoft",
         "id": "f475cc92-df02-4ec4-980c-f40bb58ff38d",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -247638,7 +247592,7 @@
         "company_name": "Integrity",
         "id": "6ed9619d-dcdb-4616-bbb8-25d03f5a755c",
         "title": "Marketing & Media Process Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -281090,7 +281044,7 @@
         "company_name": "Comstock Companies",
         "id": "f8e61c4d-d722-40e1-a5ff-0852765c1d1e",
         "title": "AV Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -328384,7 +328338,7 @@
         "company_name": "Osmo",
         "id": "55789953-d38d-4cc6-baef-e90691360385",
         "title": "Sensor Hardware Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -355877,7 +355831,7 @@
         "company_name": "Delta Dental",
         "id": "325fd0cb-a6c0-4bca-9cc8-4d6416f1ddac",
         "title": "Intern - Application Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -382424,7 +382378,7 @@
         "company_name": "Anthropic",
         "id": "e017280c-734c-4023-945e-28d06b72676c",
         "title": "Anthropic Fellows Program Intern - Economics",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -386465,7 +386419,7 @@
         "company_name": "Cummins",
         "id": "cd578e14-c35e-471d-94e0-050e97ba0232",
         "title": "School To Work Intern - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -388359,7 +388313,7 @@
         "company_name": "Anduril",
         "id": "aac29022-e242-4a16-a088-016abd8b78dd",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -393110,7 +393064,7 @@
         "company_name": "Xebia",
         "id": "3443ba84-151d-4603-9bac-28bf93227ed5",
         "title": "Internship Program - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -399251,7 +399205,7 @@
         "company_name": "Point72",
         "id": "58c8f46c-bf1a-4a14-9267-45732c023d32",
         "title": "Point72 Academy Investment Analyst Program for Upcoming Graduates Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -406865,7 +406819,7 @@
         "company_name": "SoFi",
         "id": "fa76ebd3-7494-4c48-b159-18786ed038d0",
         "title": "Software Engineer - Commercial Banking",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -412192,5 +412146,139 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "MKS Instruments",
+        "id": "cbd81d9c-6c65-4ada-8302-3909253e868b",
+        "title": "Engineering/Development Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1779315674,
+        "date_posted": 1779314809,
+        "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Canada-Richmond/XMLNAME-2026-Fall-Engineering-Development-Intern-Co-op_R14406",
+        "locations": [
+            "Richmond, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/MKS-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Oracle",
+        "id": "fd404e0e-48f5-40a5-bcb9-7db3833a26f7",
+        "title": "Product Manager Intern - Ovip",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779326007,
+        "date_posted": 1779325606,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334348",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "ea8eabf4-52d7-48d1-a7f9-706e563d7c7d",
+        "title": "Software Engineer Intern - Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779325910,
+        "date_posted": 1779325715,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WESTFORD-WFD7--7-Technology-Park-Dr--BLDG-5/XMLNAME-2026-Raytheon-Intern---Software-Engineering---Westford--MA--Onsite-_01846038",
+        "locations": [
+            "Westford, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Oracle",
+        "id": "7f652134-0291-4759-8e6a-e499a01587af",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779325940,
+        "date_posted": 1779325605,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334325",
+        "locations": [
+            "Seattle, WA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Oracle",
+        "id": "95ecb2a1-6a8f-4c29-b971-2b3713f37046",
+        "title": "Software Engineer Intern - Ovip",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779325867,
+        "date_posted": 1779325605,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334333",
+        "locations": [
+            "Nashville, TN",
+            "Austin, TX",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Motorola",
+        "id": "36a7572e-2b4c-4b2b-9eab-f7c387504784",
+        "title": "Systems Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779325855,
+        "date_posted": 1779325516,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Systems-Engineer--Co-Op_R65120-1",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
