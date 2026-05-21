@@ -684,78 +684,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Philips",
-        "id": "c26a7ed0-9951-48c4-9bab-286cc938be6d",
-        "title": "Co-op Data Engineering - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Winter 2026"
-        ],
-        "date_updated": 1758628475,
-        "date_posted": 1758628475,
-        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Reedsville/Co-op-Data-Engineering-Reedsville--PA-July-December-2026_558430",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Philips",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Boston Scientific",
-        "id": "d096b19a-49a9-4910-8120-c7974d636517",
-        "title": "Software Development Engineer Co-op - Development",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1759966864,
-        "date_posted": 1758628114,
-        "url": "https://bostonscientific.eightfold.ai/careers/job/563602808713855",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boston-Scientific",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Pacific Life",
-        "id": "ca51505b-35ff-44a9-8e10-51f722c8a8e9",
-        "title": "Software Engineering Intern/Co-op - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758620908,
-        "date_posted": 1758620908,
-        "url": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2026-Software-Engineering-Internship-Program_R15496",
-        "locations": [
-            "Newport Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Pacific-Life",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Optiver",
         "id": "c2797397-c45b-4396-b76a-81883780b63d",
@@ -107483,7 +107411,7 @@
         "company_name": "Cisco",
         "id": "754ac4dc-d1a1-41f6-89cd-3a8ae221cb82",
         "title": "Hardware Engineer 2",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -307614,7 +307542,7 @@
         "company_name": "GE Healthcare",
         "id": "575196b0-8a54-4f60-b515-c6a6f828818d",
         "title": "AI Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -340502,7 +340430,7 @@
         "company_name": "Trane Technologies",
         "id": "7d8a07e4-0435-4236-852b-9ff0999f509b",
         "title": "Technical Applications and HW Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -355508,7 +355436,7 @@
         "company_name": "DTCC",
         "id": "bca29c68-935d-48b4-9868-d08d80ca1490",
         "title": "Security Analytics Analyst - Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -377003,7 +376931,7 @@
         "company_name": "Revantage Corporate Services",
         "id": "ec46c00c-5ccb-4a01-964e-bc2940e0167e",
         "title": "Quantitative Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -393221,7 +393149,7 @@
         "company_name": "Cockroach Labs",
         "id": "40437c0f-7771-4ec0-aedd-aa6abd7ed518",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -394688,7 +394616,7 @@
         "company_name": "Salesforce",
         "id": "3cb45823-f475-44c7-aaca-4a1335faf6ff",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -401539,7 +401467,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "0b26d0b3-36a9-46c2-98f1-e16440171c8a",
         "title": "Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -405197,7 +405125,7 @@
         "company_name": "Adobe",
         "id": "f354f30b-fb00-4fd5-b41d-93958a339309",
         "title": "Research Scientist/Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -405604,7 +405532,7 @@
         "company_name": "City of Austin",
         "id": "0884dbcd-5ccb-4cee-85ce-b63830ba3cf9",
         "title": "Air Quality Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -406194,7 +406122,7 @@
         "company_name": "Cisco",
         "id": "1e77d075-955b-4c25-944d-cd7154f4aca1",
         "title": "Hardware Engineer 2 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -406361,7 +406289,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "ec57a87a-f3bd-4e06-aa29-9448f0a42ebe",
         "title": "Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -406895,7 +406823,7 @@
         "company_name": "Regal Rexnord",
         "id": "7332be8d-8d45-469a-9745-160f34f39340",
         "title": "Application Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -409662,6 +409590,29 @@
             "Montreal, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Xsolla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Coupang",
+        "id": "21ecea4f-e72f-4898-880c-e5d2542e0799",
+        "title": "AI Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779354668,
+        "date_posted": 1779354489,
+        "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7939700",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Coupang",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
