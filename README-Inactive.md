@@ -14795,7 +14795,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/BMO-Bank?utm_source=GHList&utm_medium=company">BMO </a></strong></td>
+<td>↳</td>
 <td>Junior Software Developer - Co-op/Intern</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
@@ -28599,7 +28599,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/GE-Vernova?utm_source=GHList&utm_medium=company">GE Vernova</a></strong></td>
+<td>↳</td>
 <td>GE Vernova Aero Product Champion Intern - Summer 2026</td>
 <td>Houston, TX</td>
 <td>🔒</td>
@@ -44185,7 +44185,7 @@
 <td>2026 PhD Residency - Earth Scientist AI Resident - Early Stage Project 🎓</td>
 <td>Mountain View, CA</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Critical-Mass?utm_source=GHList&utm_medium=company">Critical Mass</a></strong></td>
@@ -50474,14 +50474,14 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/HNTB?utm_source=GHList&utm_medium=company">HNTB</a></strong></td>
 <td>Artificial Intelligence Intern</td>
 <td>Arlington, VA</td>
 <td>🔒</td>
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/HNTB?utm_source=GHList&utm_medium=company">HNTB</a></strong></td>
+<td>↳</td>
 <td>Artificial Intelligence Intern</td>
 <td>Arlington, VA</td>
 <td>🔒</td>
@@ -68773,18 +68773,18 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company">Bank of Montreal</a></strong></td>
 <td>Junior Engineer – Co-op/Internship - Electronic Trading Infrastructure - Summer 2026</td>
 <td>Remote in Canada</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Junior Engineer – Co-op/Internship - Electronic Trading Infrastructure - Summer 2026</td>
 <td>Remote in Canada</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
@@ -76340,7 +76340,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Draper?utm_source=GHList&utm_medium=company">Draper</a></strong></td>
 <td>Resilience and Fault Tolerance Intern</td>
 <td>Cambridge, MA</td>
 <td>🔒</td>
@@ -77670,7 +77670,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
+<td>↳</td>
 <td>HW Engineering Support Co-op/Intern</td>
 <td>Canada</td>
 <td>🔒</td>
@@ -78146,7 +78146,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Zipline?utm_source=GHList&utm_medium=company">Zipline</a></strong></td>
 <td>System Validation & Automation Intern</td>
 <td>Dallas, TX<br>San Bruno, CA</td>
 <td>🔒</td>
