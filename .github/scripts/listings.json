@@ -75801,27 +75801,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ramboll",
-        "id": "22cfcb0b-f430-4f45-a9ba-61fcf2e54316",
-        "title": "Intern \u2013 Air Quality Modeler - ",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761830850,
-        "date_posted": 1758729892,
-        "url": "https://jobs.smartrecruiters.com/Ramboll3/744000083672278",
-        "locations": [
-            "Fort Collins, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Ramboll",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Cluely",
         "id": "8ca0f8ff-3ff3-4a35-8fbe-67ec857d442a",
@@ -343065,7 +343044,7 @@
         "company_name": "AvePoint",
         "id": "2442d052-7b23-40c2-a75b-753f40b7834c",
         "title": "People Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -347268,7 +347247,7 @@
         "company_name": "EarnIn",
         "id": "3b25c865-aa74-4cf1-9e7c-b975f111e174",
         "title": "Software Engineer Intern - Backend",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -386380,7 +386359,7 @@
         "company_name": "Copart",
         "id": "27d8dc01-5978-49dd-bfcb-be4f52052b68",
         "title": "Yard Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -406216,7 +406195,7 @@
         "company_name": "Ultra Intelligence and Communications",
         "id": "3dec26eb-b41a-4a65-8270-f510d37b30dc",
         "title": "Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
