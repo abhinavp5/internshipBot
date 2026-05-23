@@ -1,122 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Blue Cross and Blue Shield of Kansas",
-        "id": "e8360853-1976-474b-94d6-55a78647af93",
-        "title": "Application Developer \u2013 Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1758831243,
-        "date_posted": 1758831243,
-        "url": "https://bcbsks.wd1.myworkdayjobs.com/External/job/Topeka/Application-Developer---Intern_R2025607",
-        "locations": [
-            "Topeka, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/Blue-Cross-And-Blue-Shield-Of-Kansas",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lyft",
-        "id": "62997dbc-ab91-4347-8b80-a72511741903",
-        "title": "Business Systems Engineer Intern - People Technology",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758830974,
-        "date_posted": 1758830974,
-        "url": "https://app.careerpuck.com/job-board/lyft/job/8168725002?gh_jid=8168725002",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Lyft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Pangaea",
-        "id": "5fb9dc25-7e78-43ea-b96d-2c27cbaae9e0",
-        "title": "Product Development Intern - Product Development",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758833794,
-        "date_posted": 1758830733,
-        "url": "https://www.pangaea.holdings/careers?gh_jid=8185601002",
-        "locations": [
-            "California"
-        ],
-        "company_url": "https://simplify.jobs/c/5683f540-3a95-48b7-9c76-2881769c1111",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "0873ffcd-4f89-49bb-a9a8-78b674f8cd17",
-        "title": "Software Engineer Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761407654,
-        "date_posted": 1758832277,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO210-9970-Federal-Drive-Colo-Spr-9970-Federal-Drive---Colorado-Springs-CO-80921-USA/Software--Engineer-Intern--Summer-2026---Onsite-_01795808",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Keysight Technologies",
-        "id": "0a050dfd-320e-4e46-ab10-66b474e7341c",
-        "title": "Full Stack Intern - Information Technology - Software Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1758831503,
-        "date_posted": 1758831503,
-        "url": "https://jobs.keysight.com/jobs/49293?lang=en-us&icims=1",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Google",
         "id": "c0995460-cbd0-44b2-bd3a-c31c9057a2d4",
@@ -79930,27 +79814,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ocean Optics",
-        "id": "744971bf-0694-405c-af2a-4a715ca0a6f1",
-        "title": "Manufacturing Apprentice",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762440163,
-        "date_posted": 1758830615,
-        "url": "https://halma.wd3.myworkdayjobs.com/halma/job/Wantage/Manufacturing-Apprentice--level-3-_JR25_001007",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Ocean-Optics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Smith+Nephew",
         "id": "04ecbf39-44a5-4cc0-a14a-e122b9e5d5ab",
@@ -81471,27 +81334,6 @@
         "degrees": [
             "PhD"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "KLA",
-        "id": "9cd3537f-0bc1-4ed3-b0ba-4c5e58c138f5",
-        "title": "Mechatronics Summer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761255139,
-        "date_posted": 1758832253,
-        "url": "https://kla.wd1.myworkdayjobs.com/en-US/AnnArbor/job/Ann-Arbor-MI/Mechatronics-Summer-Intern_2531313-1",
-        "locations": [
-            "Ann Arbor, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/KLA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -119217,27 +119059,6 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "SRI International",
-        "id": "6b469735-6228-4bfe-b2c7-01f09e764d81",
-        "title": "Intern \u2013 Computational and Applied Mathematics",
-        "active": true,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764922478,
-        "date_posted": 1758832142,
-        "url": "https://careers-sri.icims.com/jobs/6288/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Menlo Park, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SRI-International",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -406668,6 +406489,29 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SRI International",
+        "id": "6b469735-6228-4bfe-b2c7-01f09e764d81",
+        "title": "Intern \u2013 Computational and Applied Mathematics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1768922428,
+        "date_posted": 1768260054,
+        "url": "https://careers-sri.icims.com/jobs/6288/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SRI-International",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
