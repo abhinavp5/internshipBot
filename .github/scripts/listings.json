@@ -1,147 +1,5 @@
 [
     {
-        "date_updated": 1758827526,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.lever.co/uncountable/6328427a-9047-44d5-82d6-56d533d8622e",
-        "company_name": "Uncountable",
-        "title": "Full-Stack Intern",
-        "locations": [
-            "San Francisco, CA",
-            "New York, NY",
-            "London, UK"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "ucwillg",
-        "id": "779747c8-51a7-4043-95d4-75311a54bca5",
-        "date_posted": 1758827526,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Software Engineering",
-        "company_name": "Pinterest",
-        "id": "a4630663-c8ce-402e-9b17-22ecf00cb6a9",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758896863,
-        "date_posted": 1758828154,
-        "url": "https://www.pinterestcareers.com/job-form?gh_jid=7257996",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Pinterest",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Enova",
-        "id": "f6b56db5-9676-4b4d-b404-e750d8fe8e4c",
-        "title": "Analytics Intern - Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758830404,
-        "date_posted": 1758830404,
-        "url": "https://job-boards.greenhouse.io/enova/jobs/7270714",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Enova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Berkshire Hathaway Energy",
-        "id": "bee775e6-df55-47e4-aae2-b462d633aa16",
-        "title": "Data Engineer Intern - Energy Business",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758834597,
-        "date_posted": 1758830159,
-        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/10003571",
-        "locations": [
-            "Des Moines, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Berkshire Hathaway Energy",
-        "id": "975254d1-8967-4d27-bbbf-15d5734d10ef",
-        "title": "Network Engineer Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758833774,
-        "date_posted": 1758830160,
-        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/10003592",
-        "locations": [
-            "Des Moines, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Microchip Technology",
-        "id": "45fc5d3c-ce72-4933-8097-4b2188eea305",
-        "title": "Intern - Engineering - AI Cloud Workflows",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758834579,
-        "date_posted": 1758829753,
-        "url": "https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--AI-Cloud-Workflows-_R1595-25",
-        "locations": [
-            "Chandler, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Blue Cross and Blue Shield of Kansas",
@@ -398975,7 +398833,7 @@
         "company_name": "Allegion",
         "id": "dfe8f5db-d1c2-4227-90a8-eea24f85caf9",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -405743,7 +405601,7 @@
         "company_name": "Coupang",
         "id": "8a29685d-0f18-4ba6-bc0d-8aaf73b4a787",
         "title": "Machine Learning Intern - AQ",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
