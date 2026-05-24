@@ -1,99 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Red Ventures",
-        "id": "27d12096-158f-4c6b-ba31-d482c2d92c94",
-        "title": "Data Science Product Manager Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758922282,
-        "date_posted": 1758922282,
-        "url": "https://www.redventures.com/careers/positions/open?gh_jid=7279173",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Red-Ventures",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Samsung",
-        "id": "26c729e4-fea0-42b8-8f16-e24e62efa1f5",
-        "title": "Intern - System Software Engineer - CXL",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759178322,
-        "date_posted": 1758922213,
-        "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7478636003",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Samsung",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Clarios",
-        "id": "1b2a1707-f73c-47e8-8036-c644f1e2066f",
-        "title": "IT Project Coordinator Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758923959,
-        "date_posted": 1758923959,
-        "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/IT-Project-Coordinator-Intern--Summer-2026-_WD45303",
-        "locations": [
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Clarios",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "FOX",
-        "id": "b94b5dde-e4ec-41b8-abba-ebe611e224b9",
-        "title": "Intern/Co-op - FOX Technology Program - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1758923792,
-        "date_posted": 1758923792,
-        "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Spring-2026-FOX-Technology-Internship-Program---New-York--NY_R50030140",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Fox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Cisco",
         "id": "ac19976c-1f2c-4c8f-9d7b-332351e804cb",
@@ -91964,27 +91871,6 @@
             "Huntsville, AL"
         ],
         "company_url": "https://simplify.jobs/c/I3",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Westwood",
-        "id": "302d27d0-99fe-444c-a240-bbf113f442ac",
-        "title": "GIS Internship",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763087626,
-        "date_posted": 1758923623,
-        "url": "https://careers-westwoodps.icims.com/jobs/7439/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Hopkins, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Westwood",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
