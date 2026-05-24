@@ -1,52 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Pendo",
-        "id": "9986e19e-2aa4-4444-8137-928c2cdd40da",
-        "title": "Software Engineer Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761407704,
-        "date_posted": 1758888601,
-        "url": "https://job-boards.greenhouse.io/pendo/jobs/8185867002",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Pendo",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Pendo",
-        "id": "723dbf18-5553-444e-a6ff-3cbdd2bd68bb",
-        "title": "Security Engineer Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1758888600,
-        "date_posted": 1758888600,
-        "url": "https://job-boards.greenhouse.io/pendo/jobs/8185903002",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Pendo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "MKS Instruments",
         "id": "47dd7841-95eb-4e63-b908-d86486653268",
