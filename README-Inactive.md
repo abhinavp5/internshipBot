@@ -67237,21 +67237,21 @@
 <td>Business Analytics Intern - Advanced Analytics</td>
 <td>Sandy Springs, GA</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company">Adobe</a></strong></td>
 <td>Machine Learning Engineer Intern - AI/ML 🎓</td>
 <td>Seattle, WA<br>SF<br>San Jose, CA</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Qualcomm?utm_source=GHList&utm_medium=company">Qualcomm</a></strong></td>
 <td>Intern - And Sensors Subsystem Engineering - Low-Power AI - Audio</td>
 <td>Markham, ON, Canada</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 </tbody>
 </table>
