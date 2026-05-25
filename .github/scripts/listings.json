@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product Management",
-        "company_name": "American Express",
-        "id": "a9185fa1-42d8-4acf-af0a-12e47ab85e20",
-        "title": "Campus Graduate Summer Internship Program - Product Development",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759195638,
-        "date_posted": 1758960960,
-        "url": "https://aexp.eightfold.ai/careers/job/38206900",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Trend Micro",
         "id": "38402f7f-4e24-444f-a0f2-488121b1b121",
@@ -110934,7 +110911,7 @@
         "company_name": "Netflix",
         "id": "f547d7cd-7936-4dc6-ba32-4e7e531e8e1b",
         "title": "Data Visualization Engineering Intern - Summer 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -212814,7 +212791,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "f1fc604d-ff25-4883-a36a-ff5da7395175",
         "title": "Wireless Driver Development Intern - \u00c9t\u00e9 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -339558,9 +339535,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1775477807,
+        "date_updated": 1779698795,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -339581,9 +339558,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1775477887,
+        "date_updated": 1779698795,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -339696,9 +339673,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1775479562,
+        "date_updated": 1779698795,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -357551,9 +357528,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776349392,
+        "date_updated": 1779698795,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -377539,9 +377516,9 @@
         "degrees": []
     },
     {
-        "date_updated": 1777633240,
+        "date_updated": 1779698795,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -377768,9 +377745,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1777637481,
+        "date_updated": 1779698795,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -379489,7 +379466,7 @@
         "company_name": "Loblaw Companies",
         "id": "d76c72b6-6710-45b1-b06d-610fc60f0552",
         "title": "Loyalty Portfolio Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -379510,7 +379487,7 @@
         "company_name": "Loblaw Companies",
         "id": "4326b642-8fac-4cc2-8b8a-404d90112baa",
         "title": "Analyst Co-op Student - Finance Insights and Technology Engagement",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -379531,7 +379508,7 @@
         "company_name": "Loblaw Companies",
         "id": "e78fc999-e787-4237-beb5-6e129705ecca",
         "title": "Analyst Co-op - Finance Insights and Technology Engagement",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -379575,7 +379552,7 @@
         "company_name": "Loblaw Companies",
         "id": "3df0ae8f-ccb3-40d1-b730-c8d8f4822a66",
         "title": "Software Development Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -379599,7 +379576,7 @@
         "company_name": "Bank of Montreal",
         "id": "388e87b2-2417-41a0-b2c1-6da0e9d805d8",
         "title": "Cloud Business & Strategy Analytics Analyst Co-op/Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -379620,7 +379597,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "ee96ab23-9704-4554-ab17-29ae5e380422",
         "title": "Product & Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Summer 2027"
@@ -379644,7 +379621,7 @@
         "company_name": "Loblaw Companies",
         "id": "dbdb2b86-f175-4cd5-92bd-5165f43db20e",
         "title": "Assistant Co-op Student - Product Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -379686,7 +379663,7 @@
         "company_name": "Bank of Montreal",
         "id": "91674ef7-e98b-4a60-823e-541ed4f8489c",
         "title": "Software Developer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -379728,7 +379705,7 @@
         "company_name": "Loblaw Companies",
         "id": "00634ece-a76d-4b55-85c7-99e6428e22a3",
         "title": "Market Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -379751,7 +379728,7 @@
         "company_name": "Loblaw Companies",
         "id": "252d83a0-3379-45cb-9846-aff07a32ffdb",
         "title": "Associate Product Manager Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -379772,7 +379749,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "05ef5084-9ac7-4ab7-8363-51bf7d93f83b",
         "title": "Portfolio Engineering Intern - Capital Markets - Cmia",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -379797,7 +379774,7 @@
         "company_name": "Bank of Montreal",
         "id": "bfa88208-de96-479b-a5d8-fcaf35a49ffe",
         "title": "Analyst Co-op/Intern - Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -380911,7 +380888,7 @@
         "company_name": "Intact",
         "id": "7207f0d5-0347-4ad7-a96a-2b4d2dba94e6",
         "title": "Software Developer 1 Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -380979,7 +380956,7 @@
         "company_name": "Intact",
         "id": "3bb13cb6-c2fc-4af4-bbe8-b4b81e4d5d80",
         "title": "Data Scientist 1 Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -385239,7 +385216,7 @@
         "company_name": "Comcast",
         "id": "bbb63228-d87e-41c5-b053-6ee67c83624c",
         "title": "Comcast Product Management Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2026",
@@ -385264,7 +385241,7 @@
         "company_name": "Comcast",
         "id": "60679bac-5515-49fc-98ad-d00b0cf528dd",
         "title": "Platform Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -387093,7 +387070,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "e0b342b4-3c12-4d0f-9989-b2a9be57a23f",
         "title": "GenAI Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -387446,7 +387423,7 @@
         "company_name": "University Health Network",
         "id": "d3543db6-9a96-4aee-b342-f53644f61aa4",
         "title": "Junior Developer Intern - Analytics & Insights",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -387727,7 +387704,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "f96a9c15-5610-42da-a764-9dc865fed291",
         "title": "CFO \u2013 Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -388729,7 +388706,7 @@
         "company_name": "Bank of Montreal",
         "id": "fcf0fab7-54dc-482e-a996-c34c4394ca55",
         "title": "Analyst Co-op/Intern - Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -388771,7 +388748,7 @@
         "company_name": "Bank of Montreal",
         "id": "5aae3ccc-6c89-4f34-9061-d822d2927bc9",
         "title": "Analyst Co-op/Intern - Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -388792,7 +388769,7 @@
         "company_name": "Bank of Montreal",
         "id": "55cc6efa-ecc4-4a92-a7c2-310c0c39ace3",
         "title": "Junior Software Developer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -388813,7 +388790,7 @@
         "company_name": "Bank of Montreal",
         "id": "4c30af29-1dc2-4853-b22a-476b75b033e3",
         "title": "Software Developer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -388834,7 +388811,7 @@
         "company_name": "Bank of Montreal",
         "id": "e41608bf-f9e1-404a-8866-34661516ddaa",
         "title": "Software Developer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -388926,7 +388903,7 @@
         "company_name": "Bank of Montreal",
         "id": "6ea0efe1-9fbc-4f5f-8bd3-5bcf07c29734",
         "title": "Software Developer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -388947,7 +388924,7 @@
         "company_name": "Bank of Montreal",
         "id": "45f14a7b-889c-4a39-a34a-c687f99e367c",
         "title": "Software Developer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -389295,7 +389272,7 @@
         "company_name": "Bank of Montreal",
         "id": "001ac4b8-e3c8-40dd-a035-c12fc1493b30",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -389339,7 +389316,7 @@
         "company_name": "Bank of Montreal",
         "id": "10ea6ba5-ff6a-4396-9ba5-86f0e059112c",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -390243,7 +390220,7 @@
         "company_name": "Bank of Montreal",
         "id": "562cbc1f-78de-477b-af0a-f684cdf59545",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -392903,7 +392880,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "4051e9e9-7a48-4682-b3be-637df75cd1dc",
         "title": "Relationship Manager Business Markets Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -401425,7 +401402,7 @@
         "company_name": "University Health Network",
         "id": "9b785b6d-c365-4cf0-bb2e-d55ff9a7f02e",
         "title": "Junior Developer Intern - Analytics & Insights",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -404077,5 +404054,76 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "eef653e0-529c-444a-b7a8-d364c206cea1",
+        "title": "Efficient ML Engineer Research Intern - AI Platform - PhD",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779689521,
+        "date_posted": 1779689486,
+        "url": "https://lifeattiktok.com/search/7642827146549446965",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "SC Johnson",
+        "id": "d5ccb3e1-55c6-4a8e-ade8-9c057108e5a4",
+        "title": "Packaging Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779689473,
+        "date_posted": 1779689165,
+        "url": "https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/USA---WI---Racine/Full-time-Packaging-Engineer-for-SCJ-Interns---2027-Grads_32657",
+        "locations": [
+            "Racine, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/SC-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "b69a7f3f-5920-4831-b1a3-ba378a3af4aa",
+        "title": "Research Scientist Intern - Seed Responsible AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779689701,
+        "date_posted": 1779689524,
+        "url": "https://jobs.bytedance.com/en/position/7642762054696896773/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
