@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 11313 Inactive Internship Roles by Category
+### Browse 11308 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3512)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3509)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (863)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5129)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (5127)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (200)
 
@@ -2849,6 +2849,13 @@
 <td>↳</td>
 <td>Software Engineering Intern</td>
 <td>Van Buren Charter Township, MI</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/APEX-Analytix?utm_source=GHList&utm_medium=company">APEX Analytix</a></strong></td>
+<td>NET Application Developer Intern</td>
+<td>Greensboro, NC</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -21939,7 +21946,7 @@
 <td>Summer Internship 2026</td>
 <td>London, UK<br>Stamford, CT<br>NYC</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
@@ -24642,34 +24649,6 @@
 <td>Fairfax, VA</td>
 <td>🔒</td>
 <td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Moloco?utm_source=GHList&utm_medium=company">Moloco</a></strong></td>
-<td>Software Engineer Intern</td>
-<td>Seattle, WA<br>San Carlos, CA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Chatham-Financial?utm_source=GHList&utm_medium=company">Chatham Financial</a></strong></td>
-<td>Software Engineer Intern - Multiple Teams</td>
-<td>Centennial, CO</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/CIBC?utm_source=GHList&utm_medium=company">CIBC</a></strong></td>
-<td>Information Security Coordinator Co-Op</td>
-<td>Toronto, ON, Canada</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/One-Finance?utm_source=GHList&utm_medium=company">ONE Finance</a></strong></td>
-<td>Software Engineer – Intern</td>
-<td>NYC</td>
-<td>🔒</td>
-<td>8mo</td>
 </tr>
 </tbody>
 </table>
@@ -30802,6 +30781,13 @@
 <td>United States</td>
 <td>🔒</td>
 <td>4d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Takeda?utm_source=GHList&utm_medium=company">Takeda</a></strong></td>
+<td>Quality Digital Internship - Quality Systems & Validation</td>
+<td>Lexington, MA</td>
+<td>🔒</td>
+<td>5d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Johnson-Controls?utm_source=GHList&utm_medium=company">Johnson Controls</a></strong></td>
@@ -54934,7 +54920,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
 <td>Wealth Management Data Analyst - 4 - Months</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
@@ -61913,7 +61899,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Chubb?utm_source=GHList&utm_medium=company">Chubb</a></strong></td>
+<td>↳</td>
 <td>2026 Risk Engineering Intern - Global Underwriting Support</td>
 <td>Bedminster, NJ</td>
 <td>🔒</td>
@@ -62365,7 +62351,7 @@
 <td>Summer Intern - Finance Innovation & Technology - Fit - New York - 2026</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Toyota-Research-Institute?utm_source=GHList&utm_medium=company">Toyota Research Institute</a></strong></td>
@@ -66643,27 +66629,6 @@
 <td>Waukegan, IL</td>
 <td>🔒</td>
 <td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Moloco?utm_source=GHList&utm_medium=company">Moloco</a></strong></td>
-<td>Data Science Intern - Data Science and Analytics</td>
-<td>San Carlos, CA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
-<td>Tax Data Management & Innovation Graduate Intern - Multiple Teams</td>
-<td>Celebration, FL</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/GE-Vernova?utm_source=GHList&utm_medium=company">GE Vernova</a></strong></td>
-<td>Artificial Intelligence / Machine Learning Internship - Grid Automation - Renewables Solutions</td>
-<td>Stoke-on-Trent, UK</td>
-<td>🔒</td>
-<td>8mo</td>
 </tr>
 </tbody>
 </table>
@@ -78321,7 +78286,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Cirrus-Logic?utm_source=GHList&utm_medium=company">Cirrus Logic</a></strong></td>
 <td>Intern</td>
 <td>Austin, TX</td>
 <td>🔒</td>

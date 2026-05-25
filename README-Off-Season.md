@@ -10,11 +10,11 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 ---
 
-### Browse 240 Internship Roles by Category
+### Browse 238 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (79)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-software-engineering-internship-roles)** (78)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (13)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-product-management-internship-roles)** (12)
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Off-Season.md#-data-science-ai--machine-learning-internship-roles)** (70)
 
@@ -466,14 +466,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>20d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Intact?utm_source=GHList&utm_medium=company">Intact</a></strong></td>
-<td>Software Developer 1 Intern/Co-op</td>
-<td>Toronto, ON, Canada</td>
-<td>Fall 2026</td>
-<td><div align="center"><a href="https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/Software-Developer-I---4-Month-Internship-Co-op--Fall-2026-_R153466?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/5a91a343-b2f1-4dff-b9c7-8bf44c246eeb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>20d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Gemini?utm_source=GHList&utm_medium=company">Gemini</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>NYC</td>
@@ -710,7 +702,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1037)</summary>
+<summary>🗃️ Inactive roles (1038)</summary>
 
 <table>
 <thead>
@@ -1088,6 +1080,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>↳</td>
 <td>Software Developer Intern Co-op</td>
 <td>Montreal, QC, Canada<br>Laval, QC, Canada<br>Quebec City, QC, Canada</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>20d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Software Developer 1 Intern/Co-op</td>
+<td>Toronto, ON, Canada</td>
 <td>Fall 2026</td>
 <td>🔒</td>
 <td>20d</td>
@@ -8461,7 +8461,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/PTC?utm_source=GHList&utm_medium=company">PTC</a></strong></td>
 <td>Software Development Intern</td>
 <td>Boston, MA</td>
 <td>Winter 2025</td>
@@ -9119,14 +9119,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>23d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
-<td>Wealth Management – Distribution Product Management Intern</td>
-<td>Vancouver, BC, Canada</td>
-<td>Fall 2026</td>
-<td><div align="center"><a href="https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/VANCOUVER-British-Columbia-Canada/XMLNAME-2026-Wealth-Management--Fall-Distribution-Product-Management-Intern--12-months-_R-0000167778?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f638db09-500b-4ede-9493-96b5f440cab6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/GE-Vernova?utm_source=GHList&utm_medium=company">GE Vernova</a></strong></td>
 <td>GE Vernova Grid Automation Product Management Intern</td>
 <td>Rochester, NY</td>
@@ -9155,7 +9147,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (250)</summary>
+<summary>🗃️ Inactive roles (251)</summary>
 
 <table>
 <thead>
@@ -9342,6 +9334,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Product Management Intern - Academic Year</td>
 <td>North Hollywood, LA</td>
 <td>Fall 2026, Winter 2027, Spring 2027</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
+<td>Wealth Management – Distribution Product Management Intern</td>
+<td>Vancouver, BC, Canada</td>
+<td>Fall 2026</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -14824,32 +14824,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>4mo</td>
 </tr>
-</tbody>
-</table>
-
----
-
-<div align="center" id="github-cutoff-warning">
-  <h2>🔗 See Full List</h2>
-  <p><strong>⚠️ GitHub preview cuts off around here due to file size limits.</strong></p>
-  <p>📋 <strong><a href="https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-see-full-list">Click here to view the complete list with all internship opportunities!</a></strong> 📋</p>
-  <p><em>To find even more internships in tech, check out <a href="https://simplify.jobs/jobs?category=Software%20Engineering%3BHardware%20Engineering%3BQuantitative%20Finance%3BProduct%20Management%3BData%20%26%20Analytics%3BIT%20%26%20Security&jobId=2ac81173-86b5-4dbd-a7a9-260847c259cc&jobType=Internship?utm_source=GHList">Simplify's website</a>.</em></p>
-</div>
-
----
-
-<table>
-<thead>
-<tr>
-<th>Company</th>
-<th>Role</th>
-<th>Location</th>
-<th>Application</th>
-<th>Age</th>
-</tr>
-</thead>
-<tbody>
-
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company">Tencent</a></strong></td>
 <td>NLP Research Intern 🎓</td>
@@ -14882,6 +14856,32 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>4mo</td>
 </tr>
+</tbody>
+</table>
+
+---
+
+<div align="center" id="github-cutoff-warning">
+  <h2>🔗 See Full List</h2>
+  <p><strong>⚠️ GitHub preview cuts off around here due to file size limits.</strong></p>
+  <p>📋 <strong><a href="https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-see-full-list">Click here to view the complete list with all internship opportunities!</a></strong> 📋</p>
+  <p><em>To find even more internships in tech, check out <a href="https://simplify.jobs/jobs?category=Software%20Engineering%3BHardware%20Engineering%3BQuantitative%20Finance%3BProduct%20Management%3BData%20%26%20Analytics%3BIT%20%26%20Security&jobId=2ac81173-86b5-4dbd-a7a9-260847c259cc&jobType=Internship?utm_source=GHList">Simplify's website</a>.</em></p>
+</div>
+
+---
+
+<table>
+<thead>
+<tr>
+<th>Company</th>
+<th>Role</th>
+<th>Location</th>
+<th>Application</th>
+<th>Age</th>
+</tr>
+</thead>
+<tbody>
+
 <tr>
 <td><strong><a href="https://simplify.jobs/c/ConnectPrep?utm_source=GHList&utm_medium=company">ConnectPrep</a></strong></td>
 <td>Data Analyst Internship</td>
