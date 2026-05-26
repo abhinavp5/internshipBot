@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RTX",
-        "id": "3b5e129a-25ff-4112-bbeb-567c2763ff99",
-        "title": "Intern - Diagnostic & Prognostic Health Management - Commercial Analytics and Data Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759043103,
-        "date_posted": 1759043103,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PW100-East-Hartford-400-Main-Street-East-Hartford-CT-06118-USA/Intern--Summer-2026----Diagnostic---Prognostic-Health-Management---Commercial-Analytics-and-Data-Engineering--Onsite-_01795470",
-        "locations": [
-            "Hartford, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "CIBC",
         "id": "effc5408-c848-4797-ab56-62a17f09dee9",
@@ -56720,7 +56697,7 @@
         "company_name": "Tencent",
         "id": "2154dbb1-0a02-4ce3-8bc5-6fbe782e9d84",
         "title": "Research Internship - Reinforcement Learning for Large Foundation Models",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -67568,7 +67545,7 @@
         "company_name": "Regal Rexnord",
         "id": "4456cad6-e757-46c2-8a29-5cbcfdbc02dd",
         "title": "Application Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -69024,7 +69001,7 @@
         "company_name": "Copart",
         "id": "26ca5f88-4aa3-47dd-b7c2-3d192287ce69",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -75934,7 +75911,7 @@
         "company_name": "Leidos",
         "id": "1b89031e-7b1f-455d-8cee-925b84440adc",
         "title": "AI Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -180899,7 +180876,7 @@
         "company_name": "Tencent",
         "id": "3cf4233b-3b89-4258-991d-1885b771f9e6",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -182221,7 +182198,7 @@
         "company_name": "Tencent",
         "id": "275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni-Modal",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -218862,7 +218839,7 @@
         "company_name": "University of Texas - Austin",
         "id": "6e5cee30-3f8a-404e-961c-556ec227c185",
         "title": "Resa 1 - Texus",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -222895,7 +222872,7 @@
         "company_name": "Cisco",
         "id": "84355529-b7d0-461c-9330-9a3bcc020d8c",
         "title": "Customer Experience Product Management Specialist 1",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -255192,7 +255169,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "03e1a37a-8cb0-441d-8634-30c094baf508",
         "title": "Predictive Science Academic Alliance Program 4 Student Intern - Psaap IV",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -289201,7 +289178,7 @@
         "company_name": "Guidewire",
         "id": "3c7a2512-c6b9-481a-ad48-58c081ee5025",
         "title": "AI Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -310434,7 +310411,7 @@
         "company_name": "The Walt Disney Company",
         "id": "14a6035a-3abb-4489-84d3-984056fb6de3",
         "title": "Corporate Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -313962,7 +313939,7 @@
         "company_name": "Varda Space",
         "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
         "title": "Mission Software \u2013 Intern - Python",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335667,7 +335644,7 @@
         "company_name": "Rogers Behavioral Health",
         "id": "67284dc7-b91d-4c8e-a900-c4146a2c65ae",
         "title": "Therapist \u2013 PHP/Iop",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -348837,7 +348814,7 @@
         "company_name": "Leidos",
         "id": "02565f6e-3d2f-4610-99f3-f93ffa6af89c",
         "title": "Epidemiology and Data Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -370109,7 +370086,7 @@
         "company_name": "Leidos",
         "id": "360b228e-7966-471d-bf31-9c9db00e7e5e",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370556,7 +370533,7 @@
         "company_name": "Integra FEC",
         "id": "5e6027c1-06ff-4833-98fc-5748108833bf",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -377985,7 +377962,7 @@
         "company_name": "X Development",
         "id": "38d16faf-14c3-4aed-8d2e-240d84440dc6",
         "title": "PhD Resident - AI for Chemistry - Early Stage Project",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -378991,7 +378968,7 @@
         "company_name": "Xebia",
         "id": "3443ba84-151d-4603-9bac-28bf93227ed5",
         "title": "Internship Program - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -381604,7 +381581,7 @@
         "company_name": "NVIDIA",
         "id": "7094b529-f81f-4757-bec7-54ce1d66d1f8",
         "title": "Software Engineer Intern - AI Tools",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -381853,7 +381830,7 @@
         "company_name": "Cockroach Labs",
         "id": "40437c0f-7771-4ec0-aedd-aa6abd7ed518",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -385132,7 +385109,7 @@
         "company_name": "Point72",
         "id": "58c8f46c-bf1a-4a14-9267-45732c023d32",
         "title": "Point72 Academy Investment Analyst Program for Upcoming Graduates Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -389735,7 +389712,7 @@
         "company_name": "SOTI",
         "id": "3768c9a7-dcac-4244-a1e0-3eeb68042759",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -389779,7 +389756,7 @@
         "company_name": "Trane Technologies",
         "id": "2a4e7e8a-08d8-4e2a-9708-bbbdf507f1bf",
         "title": "Commercialization Product Support Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -393436,7 +393413,7 @@
         "company_name": "Rocket Lab USA",
         "id": "d32739f7-fd72-4202-a25e-b4236b66b76b",
         "title": "Integration & Test Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -396039,7 +396016,7 @@
         "company_name": "Photon",
         "id": "836b272f-f58b-4472-83e7-09b03b198080",
         "title": "AI Product Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -397893,7 +397870,7 @@
         "company_name": "Magna",
         "id": "384d96d6-bfee-426e-9ce1-7a490ddf07a6",
         "title": "Engineering Optics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -398808,7 +398785,7 @@
         "company_name": "Ensono",
         "id": "60af5688-3330-413e-961c-6f3ffb2b4c84",
         "title": "AI Transformation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -398950,7 +398927,7 @@
         "company_name": "Rocket Lab USA",
         "id": "0bea79fe-986f-4e15-bda9-1823f37297e4",
         "title": "Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
