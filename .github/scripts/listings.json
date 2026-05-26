@@ -1,121 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Other",
-        "company_name": "Dominion Energy",
-        "id": "a44685a2-4a63-4d65-86fb-36ac4c25427a",
-        "title": "IT Intern \u2013 AI & Emerging Technologies",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759024843,
-        "date_posted": 1759024843,
-        "url": "https://careers.dominionenergy.com/job/RICHMOND-IT-Intern-AI-&-Emerging-Technologies-VA-23219/1329913500/?ats=successfactors",
-        "locations": [
-            "Richmond, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dominion-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "CIBC",
-        "id": "92caa5d9-055c-4fee-96d2-0302f0b3cbd5",
-        "title": "Digital Product Specialist Intern/Co-op - Sales Origination Product Delivery",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1759024119,
-        "date_posted": 1759024119,
-        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Digital-Product-Specialist-Co-op--Winter-2026_2522475",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/CIBC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "1b6e7bdc-7fb2-4376-bb8f-b28b57493217",
-        "title": "Software Engineering Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759026583,
-        "date_posted": 1759026583,
-        "url": "https://careers-gdms.icims.com/jobs/67996/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Manassas, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Zipline",
-        "id": "2282c2e7-9227-4f69-be7c-a5443d0a7346",
-        "title": "System Validation & Automation Intern - System Validation - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1759027637,
-        "date_posted": 1759027637,
-        "url": "https://www.flyzipline.com/careers/open-roles?gh_jid=7479993003",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zipline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "University of Maryland Medical System",
-        "id": "5ff40bef-b75b-4f95-a982-f576847b5d91",
-        "title": "IT Helpdesk Specialist Intern - IT Support",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1759034126,
-        "date_posted": 1759034126,
-        "url": "https://jobs.smartrecruiters.com/UniversityOfMarylandMedicalSystem/3743990009647966",
-        "locations": [
-            "Columbia, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Mary-And-Medical-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "RTX",
         "id": "3b5e129a-25ff-4112-bbeb-567c2763ff99",
@@ -289366,7 +289251,7 @@
         "company_name": "Assurant",
         "id": "1adb3c50-af75-4061-bec3-5d4885f40b24",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -314077,7 +313962,7 @@
         "company_name": "Varda Space",
         "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
         "title": "Mission Software \u2013 Intern - Python",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -375782,7 +375667,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "7d56664e-6cbd-4dd9-9f69-32a295e02e4d",
         "title": "Software Designer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376527,7 +376412,7 @@
         "company_name": "Everlaw",
         "id": "51c4a885-a755-4f56-ae3b-1cc8044eed47",
         "title": "GTM Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -391101,7 +390986,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "9134ffa0-42d0-4035-82d2-8d44374f9c03",
         "title": "Student Intern - Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -401117,7 +401002,7 @@
         "company_name": "GE Aerospace",
         "id": "0d6daf8a-c5f5-458b-8c9d-c76fc75faf4e",
         "title": "Investment Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
