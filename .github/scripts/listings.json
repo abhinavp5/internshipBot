@@ -1,28 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "CIBC",
-        "id": "effc5408-c848-4797-ab56-62a17f09dee9",
-        "title": "Product Consultant Co-op - Deposits and Payments",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1759087387,
-        "date_posted": 1759087387,
-        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Consultant--Deposits-and-Payments---Winter-2026-Co-op_2522482",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/CIBC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "MBA"
-        ]
-    },
-    {
         "date_updated": 1759239680,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": false,
@@ -210038,7 +210015,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "f1fc604d-ff25-4883-a36a-ff5da7395175",
         "title": "Wireless Driver Development Intern - \u00c9t\u00e9 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -363762,7 +363739,7 @@
         "company_name": "KION Group",
         "id": "ccef1e2f-c935-44da-80f2-3241ff11d382",
         "title": "Product & Program Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364589,7 +364566,7 @@
         "company_name": "KION Group",
         "id": "1c513142-3e40-4662-bdb2-7880d8575c1e",
         "title": "Product & Program Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -365291,7 +365268,7 @@
         "company_name": "ACI Worldwide ",
         "id": "e5d9d0bf-62a7-48bd-9f57-187b91238e3a",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -365703,7 +365680,7 @@
         "company_name": "Slate Auto",
         "id": "5ac53fe6-f8f7-46bc-8cc1-23ef726b61ca",
         "title": "Vehicle Safety & Testing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -366280,7 +366257,7 @@
         "company_name": "IEM",
         "id": "8470c8b0-e6d0-43af-ba47-a8c034cacfff",
         "title": "Application Engineering Tools & Resource Catalog Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -366391,7 +366368,7 @@
         "company_name": "IEM",
         "id": "ae209ada-1b1c-4f09-8ede-06b58c76c9dd",
         "title": "Productivity Data & Industrial Events Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -368282,7 +368259,7 @@
         "company_name": "Anthropic",
         "id": "e017280c-734c-4023-945e-28d06b72676c",
         "title": "Anthropic Fellows Program Intern - Economics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -399239,7 +399216,7 @@
         "company_name": "Argonne National Laboratory",
         "id": "fc535678-85a3-4043-a7e0-0b191acdf9f7",
         "title": "Faculty Research Participant - Mcs - Sen",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -401673,6 +401650,75 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "d9a8359e-bde5-438f-884b-c62ff34f0c28",
+        "title": "Research Assistant Supply Chain and Information Systems",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779819667,
+        "date_posted": 1779531155,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant--SCIS_REQ_0000077691-2",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vera Bradley",
+        "id": "3c2d8acf-96fc-4fff-97d1-1ff380f4c89d",
+        "title": "Service Desk Intern - Retail",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779819398,
+        "date_posted": 1778945964,
+        "url": "https://verabradley.wd5.myworkdayjobs.com/vbcareers/job/Corporate-Headquarters---Roanoke-IN/Service-Desk-Intern---Retail_R020387",
+        "locations": [
+            "Columbia City, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Vera-Bradley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ASM International",
+        "id": "fa13bf02-a314-4b2e-8bc3-b2ac7835ed67",
+        "title": "Simulation and Modeling Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1779819398,
+        "date_posted": 1776895584,
+        "url": "https://www.asm.com/open-vacancies/?gh_jid=4830924101",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/ASM-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
