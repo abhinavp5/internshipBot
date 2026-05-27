@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ICF International",
-        "id": "1f8bd8e0-52ba-43c1-850b-1977d4ea4fd9",
-        "title": "Intern - AI Development",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759136160,
-        "date_posted": 1759136160,
-        "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2026-Summer-Intern--AI-Developer_R2502737-1",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/ICF-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "RTX",
         "id": "1e613f8a-0b2f-4212-bea6-a7b34545ab93",
@@ -49301,7 +49278,7 @@
         "company_name": "Bloom Energy",
         "id": "f0fe7883-fc9c-4a50-bd63-46a5efe0eb64",
         "title": "IT Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -131059,7 +131036,7 @@
         "company_name": "TikTok",
         "id": "92e76873-4be9-4747-9986-1553c5e23906",
         "title": "Product Management Project Intern - Tiktok-Operations - 2026 Start",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -172388,7 +172365,7 @@
         "company_name": "Air Liquide",
         "id": "0ff6a28b-0c9e-4962-867c-73a635ac4f7a",
         "title": "Modelling & Simulation Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -189185,7 +189162,7 @@
         "company_name": "Boston Consulting Group",
         "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -285021,7 +284998,7 @@
         "company_name": "GE Healthcare",
         "id": "386d44f4-d2be-4d3e-b3cc-16177c263057",
         "title": "Surgery Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -303147,7 +303124,7 @@
         "company_name": "University of Arkansas",
         "id": "b9bcf351-5da5-411a-9194-d85ff25786a8",
         "title": "Graduate Assistant - Information Science",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -310315,7 +310292,7 @@
         "company_name": "The Walt Disney Company",
         "id": "14a6035a-3abb-4489-84d3-984056fb6de3",
         "title": "Corporate Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -329059,7 +329036,7 @@
         "company_name": "Trane Technologies",
         "id": "7d8a07e4-0435-4236-852b-9ff0999f509b",
         "title": "Technical Applications and HW Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -347937,9 +347914,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776054371,
+        "date_updated": 1779873153,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -348283,9 +348260,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776075089,
+        "date_updated": 1779873153,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -350627,9 +350604,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776158013,
+        "date_updated": 1779873153,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -352557,7 +352534,7 @@
         "company_name": "Pennsylvania State University",
         "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
         "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -377010,9 +376987,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1777890220,
+        "date_updated": 1779873153,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Bachelor's"
         ],
@@ -379491,7 +379468,7 @@
         "company_name": "Intel",
         "id": "47e93c35-6beb-41fc-bb7f-81c35722ff8d",
         "title": "Design Methodology Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379743,7 +379720,7 @@
         "company_name": "Intel",
         "id": "4316d3b6-dc12-4c25-bb13-4a917980b40b",
         "title": "Firmware Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -380977,7 +380954,7 @@
         "company_name": "Apple",
         "id": "87676ba4-44df-4c26-a86e-5c9a33e08a96",
         "title": "Hardware Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -382621,9 +382598,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1778159749,
+        "date_updated": 1779873153,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -391072,7 +391049,7 @@
         "company_name": "American University",
         "id": "069391a4-e1df-4def-9ff5-ca592aeb4603",
         "title": "Research Assistant - Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -393710,7 +393687,7 @@
         "company_name": "Adobe",
         "id": "f354f30b-fb00-4fd5-b41d-93958a339309",
         "title": "Research Scientist/Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -398619,7 +398596,7 @@
         "company_name": "Ohio State University",
         "id": "4ffa64b6-7b64-4745-9373-8ecb583d08ab",
         "title": "Student Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -398713,7 +398690,7 @@
         "company_name": "Sparksoft",
         "id": "9aad5388-78b6-44f9-94f1-ccc0f720c86b",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -398767,7 +398744,7 @@
         "company_name": "Scientific Research Corporation",
         "id": "061a8abc-fbde-4a1b-8521-043fb231ae34",
         "title": "Engineer Junior Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -399051,7 +399028,7 @@
         "company_name": "Apex Fintech Solutions",
         "id": "2bbd1cef-2113-4e70-b11d-af7ec1d16701",
         "title": "Software Engineer 1 - Aldp",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -399390,7 +399367,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "b651d510-cba8-4cac-abe0-b9866832c18e",
         "title": "Product Analyst Intern - Insurance",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -399482,7 +399459,7 @@
         "company_name": "Photon",
         "id": "2c9a209f-e11f-4a76-baca-e4daedbeb0d9",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -399714,7 +399691,7 @@
         "company_name": "Apple",
         "id": "9dc730cf-7fa0-4052-b285-b1301c4db9e7",
         "title": "Software Undergrad Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -399737,7 +399714,7 @@
         "company_name": "Apple",
         "id": "e385d69d-8eb3-4a95-969e-3d2e6d216b1e",
         "title": "Software Engineering Masters Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -399876,7 +399853,7 @@
         "company_name": "Apple",
         "id": "621d21ef-e93e-4eb7-a221-17879b967819",
         "title": "Hardware Technologies PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -401023,7 +401000,7 @@
         "company_name": "Ontario Health",
         "id": "beb2658d-9bf9-493e-b344-0be6d0757117",
         "title": "Research Intern - Artificial Intelligence - Student",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -402528,7 +402505,7 @@
         "company_name": "Regal Rexnord",
         "id": "af58fa0e-00e5-442b-a910-dd8f2a48225e",
         "title": "Engineering Co-op - Mechanical",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -403142,7 +403119,7 @@
         "company_name": "Trane Technologies",
         "id": "eb699707-46c9-47d5-a0d6-60f87ccca6f3",
         "title": "IT Operational Execution Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -403610,7 +403587,7 @@
         "company_name": "Fussball Club Cincinnati LLC (\u201cFC Cincinnati\u201d)",
         "id": "02a3daa8-78be-409a-bd55-b630dfae60c1",
         "title": "Academy Performance Analyst Intern - Academy Performance Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -403691,5 +403668,378 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1779872295,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://jobs.ashbyhq.com/meshy/2f33b2eb-b76d-4618-b299-497471f263b9",
+        "company_name": "Meshy",
+        "title": "Data Infra Engineer Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "zach-marto",
+        "id": "99160221-1059-4cc4-9a0e-6b72009c21e5",
+        "date_posted": 1779872295,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Becton Dickinson",
+        "id": "1695151c-d29e-492b-a46f-c3a03c188547",
+        "title": "R&D Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779870151,
+        "date_posted": 1778941049,
+        "url": "https://bdx.wd1.myworkdayjobs.com/US_EARLY_TALENT_SITE/job/USA-RI---Warwick/R-D-Co-op_R-543799",
+        "locations": [
+            "Warwick, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Crane Co.",
+        "id": "78cf5675-8d56-41ca-ab66-f58426aad0ef",
+        "title": "Channel Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779826685,
+        "date_posted": 1779401193,
+        "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/The-Woodlands-Texas/Channel-Analyst-Intern_JR101747",
+        "locations": [
+            "The Woodlands, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Crane-Co",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bose",
+        "id": "3779460d-6a4c-4f0a-b234-bc0528750649",
+        "title": "Creative Asset Management Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2026"
+        ],
+        "date_updated": 1779871009,
+        "date_posted": 1778941743,
+        "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Creative-Asset-Management-Co-op_R28750",
+        "locations": [
+            "Framingham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bose",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SWBC",
+        "id": "4872b443-072f-4387-b750-91c6bddab56d",
+        "title": "Data Processing Specialist Intern - Auto Products",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1779871321,
+        "date_posted": 1778946373,
+        "url": "https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Auto-Product-Specialist-Intern_R0014926-1",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/SWBC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "675a9412-93b5-472a-b2b3-fb762ddbcc1a",
+        "title": "Reports Officer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779872243,
+        "date_posted": 1778943597,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Reports-Officer_R-00161172",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Camlin",
+        "id": "7742b554-7990-4cf7-bfa9-ff98bc4338a2",
+        "title": "Level 1 Service Desk Engineer - Early Careers",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779872447,
+        "date_posted": 1777298915,
+        "url": "https://ats.rippling.com/camlin-careers/jobs/e84a11da-9d3f-4a6b-a6fa-09cbd007b4b2",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Camlin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "thyssenkrupp",
+        "id": "ccf39ec4-c9ad-4fc2-bac6-17ab53ca8bdc",
+        "title": "Trader Trainee - Industrial Minerals",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779875644,
+        "date_posted": 1778945652,
+        "url": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/New-Jersey-Remote/Trader-Trainee---Industrial-Minerals_JR104901",
+        "locations": [
+            "Jackson Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Thyssenkrupp",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sprinklr",
+        "id": "b9cc88b3-9877-4cf9-8052-a0ede6e8924a",
+        "title": "Professional Services Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779875065,
+        "date_posted": 1779529031,
+        "url": "https://sprinklr.wd1.myworkdayjobs.com/careers/job/United-States---Texas---Austin/Professional-Services-Intern_112802-JOB",
+        "locations": [
+            "Austin, TX",
+            "Texas"
+        ],
+        "company_url": "https://simplify.jobs/c/Sprinklr",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "PNC Financial Services",
+        "id": "f9a84af2-becf-41f5-a24b-ba28dad12682",
+        "title": "Graduate Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1779876964,
+        "date_posted": 1778945243,
+        "url": "https://pnc.wd5.myworkdayjobs.com/External/job/NY---New-York-10173/Graduate-Intern--Economic-Scenario-Design--Chief-Investment-Office--CIO---Non-Campus-_R212891-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "c5d1a5b8-6c8d-49fc-8821-c2658bed6c90",
+        "title": "Surgery Field Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779875651,
+        "date_posted": 1778942060,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Pittsburgh/Surgery-Field-Engineer-Apprentice--Pittsburgh--PA-_R4039858-1",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Boston Consulting Group",
+        "id": "de4dfd42-0ccc-4b2f-87fb-a1c61e683a07",
+        "title": "Working Student - BCG Vantage - Insurance",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779875636,
+        "date_posted": 1775686226,
+        "url": "https://careers.bcg.com/global/en/job/57721",
+        "locations": [
+            "Neukirchen-Vluyn, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tencent",
+        "id": "48a6b056-26f4-4577-b608-0397d30a7958",
+        "title": "Large Model AI Infrastructure Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779873481,
+        "date_posted": 1779873256,
+        "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Large-Model-AI-Infrastructure-Intern_R107585",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "8a4b5bac-c9c2-49fc-8fcd-ded931a131dd",
+        "title": "FPGA Development Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1779826685,
+        "date_posted": 1779529690,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/FPGA-Development-Intern_R030916",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Pennsylvania State University",
+        "id": "81fc4ae5-ec4b-4a40-a48b-dd9f1356b6be",
+        "title": "Research Support-Ebeigbe Group",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1779834016,
+        "date_posted": 1779401437,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Support--Ebeigbe-Group_REQ_0000078664-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "FHLBank Topeka",
+        "id": "dea0e73b-d3c0-422c-8972-d3e298024b60",
+        "title": "Financial Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1779876357,
+        "date_posted": 1779527840,
+        "url": "https://fhlbtopeka.wd1.myworkdayjobs.com/FHLBT/job/Topeka-Kansas/Member-Solutions-Intern_JR100348",
+        "locations": [
+            "Topeka, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/FHLBank-Topeka",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
