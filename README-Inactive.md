@@ -9073,21 +9073,21 @@
 <td>National Security Solutions – Internship – Tactical vPATSOC Emulator Engineer Intern - Nss</td>
 <td>El Segundo, CA</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Arctic-Wolf?utm_source=GHList&utm_medium=company">Arctic Wolf</a></strong></td>
 <td>Developer Co-op - Spring Term - May-Aug 2026</td>
 <td>Remote in Canada<br>Kitchener, ON, Canada</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/SolarWinds?utm_source=GHList&utm_medium=company">SolarWinds</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>Austin, TX</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/WasabiTech?utm_source=GHList&utm_medium=company">Wasabi Technologies</a></strong></td>
@@ -11001,7 +11001,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Cadence-Design-Systems?utm_source=GHList&utm_medium=company">Cadence Design Systems</a></strong></td>
+<td>↳</td>
 <td>Product Engineer Intern</td>
 <td>Austin, TX</td>
 <td>🔒</td>
@@ -41665,14 +41665,14 @@
 <td>National Security Solutions – Internship – Digital Engineer Intern - Nss</td>
 <td>El Segundo, CA</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Scout-Motors?utm_source=GHList&utm_medium=company">Scout Motors</a></strong></td>
 <td>Intern Engineer - AI Modeling-Predictive Analytics</td>
 <td>Fremont, CA</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/ASM-Global?utm_source=GHList&utm_medium=company">ASM Global</a></strong></td>
@@ -55333,7 +55333,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
 <td>2026 Summer Intern – AI/ML Intern - Vision Language Model/Action - Masters 🎓</td>
 <td>SF<br>Sunnyvale, CA<br>Mountain View, CA</td>
 <td>🔒</td>
@@ -66719,7 +66719,7 @@
 <td>Intern - Animal Health Clinical Data Management</td>
 <td>Linden, NJ</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 </tbody>
 </table>
@@ -72816,7 +72816,7 @@
 <td>Intern Engineer - R&D - Vehicle & Validation</td>
 <td>Charlotte, NC</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
