@@ -119793,7 +119793,7 @@
         "company_name": "Xometry",
         "id": "f915558f-fc58-4cde-80c3-99343cbf1f31",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -326796,7 +326796,7 @@
         "company_name": "Speechmatics",
         "id": "3b40046d-a077-41b3-a665-23d474155787",
         "title": "Software Engineer - Futurevoices",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -326910,7 +326910,7 @@
         "company_name": "Speechmatics",
         "id": "646912df-7f9d-4637-889d-6eaa414eb0ae",
         "title": "Software Engineer - Futurevoices",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -357995,7 +357995,7 @@
         "company_name": "Nokia",
         "id": "fcaa44e4-dd04-4997-91e1-ff823442265e",
         "title": "Electronics Component Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -358183,7 +358183,7 @@
         "company_name": "Nokia",
         "id": "e1e8b74a-bbfe-434b-ba26-928f17b33cc2",
         "title": "HW/SW Integration Engineer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -363188,7 +363188,7 @@
         "company_name": "Geotab",
         "id": "3a0cdb50-bb11-41e8-981b-de6aae7d4a62",
         "title": "Mobile Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -372042,7 +372042,7 @@
         "company_name": "Premier Automation",
         "id": "f9fb2c4a-ccc9-4759-84d6-f435f67e7ed3",
         "title": "Software / Computer Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380916,7 +380916,7 @@
         "company_name": "General Dynamics UK",
         "id": "424e0298-2f27-4eac-84da-a0bde2393e54",
         "title": "Software Development Co-op - Firmware Development and Test",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -386071,7 +386071,7 @@
         "company_name": "Cirrus Logic",
         "id": "3ca53904-0147-4393-b2b7-19d444872c8c",
         "title": "Software Engineer Intern - Software Developer - AI & Test Data Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -387159,7 +387159,7 @@
         "company_name": "Ciena",
         "id": "22606892-8a89-4189-93b4-578198988d5e",
         "title": "FPGA Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -390601,7 +390601,7 @@
         "company_name": "FNBO",
         "id": "9a4d9423-8ada-4c99-b484-f6829217c641",
         "title": "Data Analytics Intern - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -392831,7 +392831,7 @@
         "company_name": "University System of New Hampshire",
         "id": "8c39dd3a-2ffc-480b-a99e-e1c4d80806e7",
         "title": "IP Hightech Bound Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -394185,7 +394185,7 @@
         "company_name": "Kong",
         "id": "4949cb98-fac9-4306-b0f0-ccad0f3da52f",
         "title": "Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
