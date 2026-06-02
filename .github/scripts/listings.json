@@ -193,52 +193,6 @@
         "is_visible": false
     },
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ansys",
-        "id": "83f37c75-5c48-460e-940d-41ee6d440dcc",
-        "title": "Co-op - Software Development",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1759664119,
-        "date_posted": 1759664119,
-        "url": "https://careers.ansys.com/job/Canonsburg-Spring-2026-Co-op,-Software-Development-(Bachelors)-PA-15317/1301897800/?ats=successfactors",
-        "locations": [
-            "Canonsburg, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ansys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "KCF Technologies",
-        "id": "6efde4e4-091b-48b8-8e2f-8f2c6435f368",
-        "title": "Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759842567,
-        "date_posted": 1759663110,
-        "url": "https://job-boards.greenhouse.io/kcftechnologies/jobs/5658358004",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/KCF-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1759772609,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -212014,7 +211968,7 @@
         "company_name": "Nokia",
         "id": "b307e36b-de36-4832-bafb-30d48dfbb6c4",
         "title": "Photonic Circuit Test Development Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -315567,7 +315521,7 @@
         "company_name": "Microsoft",
         "id": "83ddf672-7d1b-4ee4-b62b-63ee6d6c4396",
         "title": "Research Intern - Foundation Models and Agentic Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -326818,7 +326772,7 @@
         "company_name": "ByteDance",
         "id": "00b962ad-7300-4a69-b5ea-dc0b7bad5669",
         "title": "Security Engineering Project - Watermark",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -364861,7 +364815,7 @@
         "company_name": "Accel Learning",
         "id": "c9ba9f6c-b03b-47cf-990d-1dc0fa1aabd3",
         "title": "AI Engineer Intern - Intelligent Question Bank Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -374661,7 +374615,7 @@
         "company_name": "NVIDIA",
         "id": "e5377d33-2f99-4bd4-bc77-1c7e16d8d086",
         "title": "PhD Research Intern - Security and Privacy",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -389227,7 +389181,7 @@
         "company_name": "Crane Co.",
         "id": "78cf5675-8d56-41ca-ab66-f58426aad0ef",
         "title": "Channel Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389530,7 +389484,7 @@
         "company_name": "FHLBank Topeka",
         "id": "dea0e73b-d3c0-422c-8972-d3e298024b60",
         "title": "Financial Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -394078,7 +394032,7 @@
         "company_name": "Cenovus Energy",
         "id": "e23ca219-d6a5-440c-ac79-645976ced2f8",
         "title": "Student \u2013 Asset Integrity",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -394298,7 +394252,7 @@
         "company_name": "Princeton University",
         "id": "d1768ef5-3c7a-4b58-aa2a-32dad0a74fe4",
         "title": "Business and Data Intern - Membership Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
