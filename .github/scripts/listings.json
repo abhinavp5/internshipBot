@@ -1,29 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Daimler Truck",
-        "id": "f74a0740-7640-457c-8bc6-300a155a663c",
-        "title": "Data Science Intern - Daimler Truck Remarketing - Machine Learning",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759701058,
-        "date_posted": 1759701058,
-        "url": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Fort-Mill-SC-US/Data-Science-Intern_DT-15389",
-        "locations": [
-            "Fort Mill, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Daimler-Truck",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1759740076,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -9756,29 +9732,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Brooks Running",
-        "id": "57a5f428-75a1-489b-b6ac-94bbcf923814",
-        "title": "Run Perception Intern - Run Research Team",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1760104685,
-        "date_posted": 1759699058,
-        "url": "https://jobs.lever.co/brooksrunning/4f643378-cd38-46d5-be20-bade39880825/apply",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Brooks-Running",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
         ]
     },
     {
@@ -105193,7 +105146,7 @@
         "company_name": "Microsoft",
         "id": "2d3fcc6d-bc9f-4db0-96a7-2dfd91858e12",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -120415,7 +120368,7 @@
         "company_name": "Xometry",
         "id": "043b3c3e-55ec-4369-9d93-7a1d1c500a13",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -221172,7 +221125,7 @@
         "company_name": "Leidos",
         "id": "13297e90-99fd-41c7-9a26-5cbe83166ec4",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -265948,7 +265901,7 @@
         "company_name": "Rolls Royce",
         "id": "f8080880-d013-40c8-ac19-30326bd50f19",
         "title": "Innovations Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -328400,7 +328353,7 @@
         "company_name": "Nokia",
         "id": "7027dc30-4b34-4865-9bad-9532f89b662e",
         "title": "Hardware Development Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -352786,7 +352739,7 @@
         "company_name": "IEM",
         "id": "4b103d08-efc5-496b-9ff3-67de830530e2",
         "title": "Application Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380844,7 +380797,7 @@
         "company_name": "General Motors",
         "id": "86315471-b920-4fb4-8f52-9f43217d3994",
         "title": "AV Software Safety Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -390128,7 +390081,7 @@
         "company_name": "Marsh",
         "id": "c6fb7bb2-6ca1-431b-bb96-398422ba1a8d",
         "title": "Oliver Wyman Analyst Internship - Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -394921,6 +394874,281 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "e3ae41c7-d6ca-4d08-aa0c-23cd1ac65dec",
+        "title": "Silicon Photonics Packaging Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780437961,
+        "date_posted": 1780437805,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36996",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "CIBC",
+        "id": "9ff7bd7f-8367-4108-9432-c75ff32adb6f",
+        "title": "Product Consultant Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780437961,
+        "date_posted": 1780437950,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Consultant-Co-op_2611885",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CIBC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "5a631c04-f315-4cb5-b558-aa2ad0ea69fb",
+        "title": "Silicon Photonics Packaging Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780437961,
+        "date_posted": 1780437806,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36997",
+        "locations": [
+            "NYC",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Fluxergy",
+        "id": "d6f4cdc5-68b7-4f4f-a0af-e69f110a8a31",
+        "title": "Firmware Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780437961,
+        "date_posted": 1780437868,
+        "url": "https://jobs.lever.co/fluxergy-2/c592763e-56ba-4d20-b751-3a4574470eec/apply",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fluxergy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "id": "5ba6e23d-6e0c-406a-9f67-e88da7202998",
+        "title": "Machine Learning Physics Graduate Student Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780438289,
+        "date_posted": 1780437908,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990013424486",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LLNL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ServiceNow",
+        "id": "a321ad73-583a-4203-bee3-a9fe75923346",
+        "title": "Futures Summit Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780438274,
+        "date_posted": 1780437900,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000129860849",
+        "locations": [
+            "West Palm Beach, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CIBC",
+        "id": "48140a30-96e6-4e0d-a71f-7b192a2e4da3",
+        "title": "Machine Learning Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1780437961,
+        "date_posted": 1780437954,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2611849",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CIBC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SRI International",
+        "id": "d3d04704-1395-445f-a646-2e976852e689",
+        "title": "Computer Science Intern - Reinforcement Learning for Dynamical Systems - Computer Science Laboratory",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780438172,
+        "date_posted": 1780437842,
+        "url": "https://careers-sri.icims.com/jobs/6412/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SRI-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TDS",
+        "id": "49ff5004-3fea-42cf-8ed9-f8ddb314058f",
+        "title": "Field Services Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780437961,
+        "date_posted": 1780437898,
+        "url": "https://external-telecom-teldta.icims.com/jobs/29417/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/TDS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tyson Foods",
+        "id": "de7a5c14-730b-4a44-8ef7-d7ae10f0b483",
+        "title": "Packaging Engineer Intern - Packaging Systems",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780437961,
+        "date_posted": 1780437927,
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Packaging-Engineer-Intern--Packaging-Systems-_R0464973-2",
+        "locations": [
+            "Springdale, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Tyson-Foods",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Prairie View A&M University",
+        "id": "15a127bf-6e54-437b-be5c-86f6d17be5f6",
+        "title": "Graduate Assistant - Non Teaching - Data Visualization Specialist",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780437781,
+        "date_posted": 1780437750,
+        "url": "https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Graduate-Assistant---Non-Teaching---Data-Visualization-Specialist_R-093691-1",
+        "locations": [
+            "Prairie View, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Prairie-View-AM-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rolls-Royce Motorcars",
+        "id": "ef72b73d-d0cf-42b1-84ba-9eebed3861c1",
+        "title": "Purchased Parts Quality Management",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780438821,
+        "date_posted": 1778911622,
+        "url": "https://jobs.bmwgroup.com/job/Greer-Purchased-Parts-Quality-Management-Fall-2026-IN/1370809333/?ats=successfactors",
+        "locations": [
+            "Greer, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Rolls-Royce-Motorcars",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
