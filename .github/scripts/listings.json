@@ -2,105 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "John Deere",
-        "id": "228fb32a-4bc6-44ad-a47c-d1d811be55e9",
-        "title": "Data and Analytics Intern 2026 - Data and Analytics",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1759636112,
-        "date_posted": 1759636112,
-        "url": "https://johndeere.eightfold.ai/careers/job/137476749430",
-        "locations": [
-            "Davenport, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/John-Deere",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NXP Semiconductors",
-        "id": "2b8cedb3-a8b7-4150-8272-886285d8af48",
-        "title": "IC Design Verification Engineer Intern - Hardware Design - Verification",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759958409,
-        "date_posted": 1759635780,
-        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kanata/IC-Design-Verification-Engineer--Intern_R-10060038-1",
-        "locations": [
-            "Kanata, Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Breeze Airways",
-        "id": "4931eaf8-3a6b-4ee4-921a-ec14595602af",
-        "title": "Ancillary Revenue & Guest Analytics Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759637082,
-        "date_posted": 1759637082,
-        "url": "https://job-boards.greenhouse.io/breezeairways/jobs/7485035003",
-        "locations": [
-            "Cottonwood Heights, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Breeze-Airways",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Electronic Arts",
-        "id": "cb397171-0a0f-4e4a-9c31-622309c95b4e",
-        "title": "Online Software Engineer Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1759638989,
-        "date_posted": 1759638989,
-        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Online-Software-Engineer-Co-op/210922",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Electronic-Arts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Waymo",
         "id": "19853dc1-b0a9-42ad-80c7-204215b81d89",
         "title": "Intern - Research - Multimodal Large Language Models",
@@ -46251,7 +46152,7 @@
         "company_name": "Astera Labs",
         "id": "1d80a1df-6557-427b-8e92-f3380038cd16",
         "title": "Firmware Engineer \u2013 Internship - Vancouver",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025"
         ],
@@ -217459,7 +217360,7 @@
         "company_name": "True Anomaly",
         "id": "240f4e7f-5efb-476c-bf0b-c2aa43e4c988",
         "title": "Flight Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -231138,7 +231039,7 @@
         "company_name": "John Deere",
         "id": "bf3e5b30-b029-4529-b33f-73f0f4512062",
         "title": "Part-Time Student - Simulation Engineer - Urbandale Iowa Product Engineering CA",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -290468,7 +290369,7 @@
         "company_name": "Givelify",
         "id": "7ca6c0f8-d421-4803-8bec-08c2fded7a25",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -305047,7 +304948,7 @@
         "company_name": "Xaira Therapeutics",
         "id": "e206907f-f6ed-4950-95c4-7966cc489f29",
         "title": "AI in Residence",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -339133,7 +339034,7 @@
         "company_name": "Zoox",
         "id": "948a7229-20bf-4220-9876-ec5879966d9c",
         "title": "Student Worker Intern - Firmware Engineer - Firmware Thermal/Body",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -342240,7 +342141,7 @@
         "company_name": "TikTok",
         "id": "28522877-38f0-49e4-bc1f-bcb4c2c4b6f0",
         "title": "Product Manager Project Intern - Brand Effectiveness - Monetization Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -378948,7 +378849,7 @@
         "company_name": "Hadrian",
         "id": "14495423-3ffb-43ee-a3a6-e084bbc9ee13",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -394795,7 +394696,7 @@
         "company_name": "Kong",
         "id": "fd4b2ae3-7ff3-4faf-9469-b64c12be8275",
         "title": "AI Enablement Specialist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -394998,6 +394899,167 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Veolia",
+        "id": "ca455243-2a52-4ebf-aaba-d3953a739076",
+        "title": "Firmware Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780362669,
+        "date_posted": 1780362390,
+        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000129605801",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Veolia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ken Garff Auto Group",
+        "id": "a7da3670-fc9e-4278-a1e2-99ab5e595a89",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780362526,
+        "date_posted": 1780362353,
+        "url": "https://kengarff.wd1.myworkdayjobs.com/external_site/job/Garff-Enterprises-Corporate-Office---Salt-Lake-City-UT/Software-Engineering-Intern--Part-Time-_R0042587",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Ken-Garff-Auto-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "9e9b2cdb-3e51-4478-8b33-4281c7b2a565",
+        "title": "Data Architecture and Governance Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780362666,
+        "date_posted": 1780362369,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Data-Architecture-and-Governance-Intern_R-00184376",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mercedes-Benz",
+        "id": "73f722d7-0b2a-4e94-a2cc-c3e01f0d6f1f",
+        "title": "On-Board Diagnostics Certification & Compliance Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1780362722,
+        "date_posted": 1780362472,
+        "url": "https://jobs.lever.co/MBRDNA/81fa8d12-0b79-4f9c-8665-ecd7cf7e2c79/apply",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mercedes-Benz",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SRI International",
+        "id": "eb79eafc-5fb4-45d8-a5e5-788837fa72af",
+        "title": "Student Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780362361,
+        "date_posted": 1780362260,
+        "url": "https://careers-sri.icims.com/jobs/6411/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SRI-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "e27dac85-f95f-4718-add6-3583a28c1975",
+        "title": "System Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780362618,
+        "date_posted": 1780362368,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/System-Engineer-Intern_R-00182989",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "d6d7e09d-52ef-4d34-ac7f-42fad67e9edd",
+        "title": "Artificial Intelligence, Machine Learning Observability Intern",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1780362580,
+        "date_posted": 1780362369,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-ML-Observability-Intern_R-00178279",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
