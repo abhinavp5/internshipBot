@@ -1,151 +1,5 @@
 [
     {
-        "date_updated": 1759740076,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers.oracle.com/en/sites/jobsearch/job/309999",
-        "company_name": "Oracle",
-        "title": "Data Science Intern - Industries",
-        "locations": [
-            "USA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "6d76b492-8c77-4465-af5a-20081d1f970f",
-        "date_posted": 1759740076,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762292376,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://www.amazon.jobs/en/jobs/3101249/software-development-engineer-internship-winter-2026-us",
-        "company_name": "Amazon",
-        "title": "Software Development Engineer Internship",
-        "locations": [
-            "Seattle, WA",
-            "USA"
-        ],
-        "terms": [
-            "Winter 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "9ca3adc3-491e-4dcb-9890-f84b262fb60f",
-        "date_posted": 1759741194,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1759958760,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.jobvite.com/careers/idtus/job/oiEfyfwt",
-        "company_name": "Innovative Defense Technologies",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "Arlington, VA",
-            "Mount Laurel, NJ"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "c56fddf6-006f-41fa-9a94-6b6e94877ac6",
-        "date_posted": 1759741688,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1760135883,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://careers.skyworksinc.com/job/Austin-Timing-Engineer-Summer-Intern-%28May-%2726-Aug-%2726%29-TX-73301/1322327900/",
-        "company_name": "Skyworks",
-        "title": "Timing Engineer",
-        "locations": [
-            "Austin, TX"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Hardware Engineering",
-        "source": "AlmondCroffle",
-        "id": "f64ef50d-780f-40a4-a8fe-f4d3682cf30a",
-        "date_posted": 1759741794,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1759960134,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://jobs.statefarm.com/main/jobs/41952/job",
-        "company_name": "State Farm",
-        "title": "Claims BASD - Software Developer",
-        "locations": [
-            "Bloomington, IL",
-            "Dallas, TX",
-            "Phoenix, AZ"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "fc6eb969-6204-46be-93b7-72d0815b6d8a",
-        "date_posted": 1759741884,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1760137133,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2026-Undergraduate-Embedded-Computing-Engineer-Intern_R013644",
-        "company_name": "The Aerospace Corporation",
-        "title": "Undergraduate Embedded Computing Engineer Intern",
-        "locations": [
-            "El Segundo, CA",
-            "Chantilly, VA"
-        ],
-        "terms": [
-            "Summer 2026",
-            "Winter 2026",
-            "Spring 2026",
-            "Fall 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "f46e8ff7-ffb3-405e-9215-fe35621c7fe7",
-        "date_posted": 1759741987,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "date_updated": 1759772609,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -105962,7 +105816,7 @@
         "company_name": "Nokia",
         "id": "4d5784dc-55f2-4b2d-a9ec-d34045a2ef22",
         "title": "Summer Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -150791,7 +150645,7 @@
         "company_name": "ByteDance",
         "id": "093acc82-ac5e-463e-8739-43de0fe8a38d",
         "title": "Software Development Engineer Graduate - SDN Traffic Intelligence & Control - 2026 Start PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -316797,7 +316651,7 @@
         "company_name": "TikTok",
         "id": "104ba742-a080-4cfc-a787-389a4b2623c4",
         "title": "Software Engineer Intern - Data Ecosystem",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -320356,7 +320210,7 @@
         "company_name": "TikTok",
         "id": "1654684c-ca1f-4d3e-9dc0-fc8e1f470e37",
         "title": "Software Engineer Intern - TikTok Search Architecture - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -328053,7 +327907,7 @@
         "company_name": "Tessera Labs",
         "id": "aaec15fe-ce11-45ea-bfce-ee26090ab06e",
         "title": "Software Engineer Intern - Backend",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -369475,7 +369329,7 @@
         "company_name": "Point72",
         "id": "23cef5d8-0d81-4df1-8548-a2e0e17e09e5",
         "title": "Point72 Academy Investment Analyst Program for Experienced Professionals Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -381335,7 +381189,7 @@
         "company_name": "State of Montana",
         "id": "8169a1cc-2cda-4d83-bf40-75c022d0f706",
         "title": "Research Analyst Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -389231,7 +389085,7 @@
         "company_name": "Sprinklr",
         "id": "b9cc88b3-9877-4cf9-8052-a0ede6e8924a",
         "title": "Professional Services Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -395930,6 +395784,429 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "a8e74e82-891f-4ce9-9759-3376c8dea0b6",
+        "title": "Software Development Engineer Intern - Network Automation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780466950,
+        "date_posted": 1780466939,
+        "url": "https://jobs.bytedance.com/en/position/7537152240618195208/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "8d981cf1-c610-41cc-84d1-800ea078fd37",
+        "title": "Software Development Engineer Intern - Network Automation",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780466950,
+        "date_posted": 1780466896,
+        "url": "https://jobs.bytedance.com/en/position/7537152632018012424/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "77245ac7-931e-4d69-8030-18400e8793a2",
+        "title": "Machine Learning Engineer Intern - E-commerce Governance Algorithms",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780466950,
+        "date_posted": 1780466893,
+        "url": "https://jobs.bytedance.com/en/position/7535168003103033618/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "6cf0985b-9f4b-4fbb-9dee-114a376730a2",
+        "title": "Applied Research Intern - AI Safety Security - Global Tech Research Program",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780466950,
+        "date_posted": 1780466896,
+        "url": "https://jobs.bytedance.com/en/position/7645070235035044101/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LiveRamp",
+        "id": "09174c1c-7ac5-489a-8c87-dcb67b971aa0",
+        "title": "Software Engineer Co-op - Conversions API",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780467107,
+        "date_posted": 1780466945,
+        "url": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Co-Op--Software-Engineer---Conversions-API_JR012232-1",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "Little Rock, AR",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/LiveRamp",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "f1526646-4e0f-4501-b158-b8d7eb77bf4e",
+        "title": "Software Engineer Intern - Applied Machine Learning-Enterprise",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780466950,
+        "date_posted": 1780466896,
+        "url": "https://jobs.bytedance.com/en/position/7533045355162044690/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "ee7765e2-658f-4be4-a4a8-45e6f41a7c4b",
+        "title": "Machine Learning Engineer Intern - E-commerce Governance Algorithms",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780466950,
+        "date_posted": 1780466893,
+        "url": "https://jobs.bytedance.com/en/position/7535171166420453639/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "8ec30018-f2c6-45b8-ba34-9afbf20eee7f",
+        "title": "Research Intern - SDN Traffic Intelligence & Control",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780466950,
+        "date_posted": 1780466897,
+        "url": "https://jobs.bytedance.com/en/position/7537161874254776583/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "88789b47-9fb6-403c-bad2-041cccae3d74",
+        "title": "Research Intern - SDN Traffic Intelligence & Control",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780466950,
+        "date_posted": 1780466894,
+        "url": "https://jobs.bytedance.com/en/position/7537161497627281682/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "6bc3983c-65aa-4d29-9a3b-a08c3230a75a",
+        "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph - Computer Vision/Multimodal/Natural Language Processing",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780466950,
+        "date_posted": 1780466894,
+        "url": "https://jobs.bytedance.com/en/position/7543005612200970503/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "45f439c5-48ee-4f58-a636-14a5e0912e61",
+        "title": "Network Software Development Engineer Intern - Network Switch",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780466950,
+        "date_posted": 1780466896,
+        "url": "https://jobs.bytedance.com/en/position/7537117266451171592/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "38e9b155-826a-49f7-a431-a689d10c579e",
+        "title": "Machine Learning Engineer Intern - Global E-commerce Risk Control",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780466950,
+        "date_posted": 1780466891,
+        "url": "https://jobs.bytedance.com/en/position/7535953226975054098/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "2c746302-72dc-4ecf-88fe-0c93ec89ce6e",
+        "title": "Machine Learning Engineer Intern - Global E-commerce Risk Control",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780466950,
+        "date_posted": 1780466891,
+        "url": "https://jobs.bytedance.com/en/position/7535951608832657682/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "17c17e13-cd4c-441d-8d4c-0da4520b0c37",
+        "title": "Research Scientist Intern - Applied Machine Learning-Enterprise",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780466950,
+        "date_posted": 1780466892,
+        "url": "https://jobs.bytedance.com/en/position/7539697151993268488/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "0686730f-5d35-438b-9745-60e0e744adff",
+        "title": "Student Researcher Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780466950,
+        "date_posted": 1780466895,
+        "url": "https://jobs.bytedance.com/en/position/7538943251756910856/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "City of Largo",
+        "id": "530565ab-67ec-481d-b054-f6528ba4086e",
+        "title": "Stormwater Intern - Wastewater Management",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1780476550,
+        "date_posted": 1780005719,
+        "url": "https://largo.wd1.myworkdayjobs.com/external/job/Largo-City-Hall/Intern---Undergraduate_R-2319",
+        "locations": [
+            "Largo, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/City-Of-Largo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "6516400c-f9b1-40bb-a008-78c1fa27b414",
+        "title": "Payment Partnership Project Intern - Global Payment",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780477741,
+        "date_posted": 1780477614,
+        "url": "https://jobs.bytedance.com/en/position/7642450978503641397/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Instead",
+        "id": "ba8c4dd2-2dd5-48f2-a9c4-0c716b61b1db",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780478230,
+        "date_posted": 1780478009,
+        "url": "https://job-boards.greenhouse.io/instead/jobs/7761472003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Instead",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
