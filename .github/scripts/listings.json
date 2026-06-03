@@ -53002,27 +53002,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Badger Meter",
-        "id": "56044f53-3f40-4cba-85cb-7c804cc5928e",
-        "title": "Systems Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1760750704,
-        "date_posted": 1759715548,
-        "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/Milwaukee-WI/Systems-Engineering-Intern_4024",
-        "locations": [
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Badger-Meter",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Epic Games",
         "id": "39af6e58-e3c3-407a-84e5-a8aa81da2b79",
@@ -167448,7 +167427,7 @@
         "company_name": "Microsoft",
         "id": "7cfbeb0c-af31-4f2f-be63-1929643b91f0",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -271148,7 +271127,7 @@
         "company_name": "Taara",
         "id": "ca8dc22b-a9aa-40ba-a2cb-e4637ec3192a",
         "title": "FPGA Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -307005,7 +306984,7 @@
         "company_name": "SonoThera",
         "id": "73449e5e-97ad-4481-8313-ecb472548b5c",
         "title": "Nucleic Acid Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -357276,7 +357255,7 @@
         "company_name": "Visier Solutions",
         "id": "857991c9-99fb-48c5-be52-7e6b803452fe",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -377361,7 +377340,7 @@
         "company_name": "Nikkiso",
         "id": "e131826c-4066-45d3-9279-45b6809548f8",
         "title": "Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380797,7 +380776,7 @@
         "company_name": "General Motors",
         "id": "86315471-b920-4fb4-8f52-9f43217d3994",
         "title": "AV Software Safety Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -390429,7 +390408,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "5d6d7dc9-642a-4e6e-85dc-94e769a60939",
         "title": "Relationship Manager Business Markets Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -393129,7 +393108,7 @@
         "company_name": "Cadence Design Systems",
         "id": "6a0c6c81-7c5a-47f5-8df4-6fcf4dd5f370",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -393201,7 +393180,7 @@
         "company_name": "Onto Innovation",
         "id": "d7ab403a-c812-4c16-9fd6-f5a067eb4f0c",
         "title": "AI/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -393896,7 +393875,7 @@
         "company_name": "Pennsylvania State University",
         "id": "e1c223ba-5333-47ce-b781-09ca51dae5f2",
         "title": "Research Assistant - Astronomy Department",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -393917,7 +393896,7 @@
         "company_name": "Teledyne",
         "id": "733c11e2-f942-4819-895a-a38eebabf151",
         "title": "Software Designer Sherlock Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -395897,6 +395876,55 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/QuEra-Computing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zipline",
+        "id": "02b310b9-4510-4ae2-9b3f-54bcb3eaab3b",
+        "title": "Perception Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780449301,
+        "date_posted": 1780449234,
+        "url": "https://www.zipline.com/careers?gh_jid=7761650003#open-roles",
+        "locations": [
+            "Dallas, TX",
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zipline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Marsh",
+        "id": "7ac697b2-ff59-4660-990a-d4f53316f56c",
+        "title": "AI Integration Specialist Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026",
+            "Winter 2026"
+        ],
+        "date_updated": 1780449055,
+        "date_posted": 1780448577,
+        "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/AI-Integration-Specialist-Fall-Co-op---College-Program-2026_R_346709-1",
+        "locations": [
+            "Philadelphia, PA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/55341c12-8fd6-4cce-8472-d15c4a3ab583",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
