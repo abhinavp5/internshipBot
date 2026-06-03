@@ -1,52 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "08d3d64d-21fb-4d6f-8cbc-10e861bb084a",
-        "title": "Hardware Engineering Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759778430,
-        "date_posted": 1759778430,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Ignite-Internships--Hardware-Engineering_JR2005170",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Arch Capital Group",
-        "id": "f176244b-7ea1-4fc6-98ad-5325ae2dfdde",
-        "title": "IT Analytics Engineer Intern - IT - Enterprise Data",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759779285,
-        "date_posted": 1759779285,
-        "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/London-United-Kingdom/IT-Analytics-Engineer-Summer-Internship---2026_R25_1033",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Arch-Capital-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Mercury",
         "id": "859e026f-9164-48c9-9458-46745abb12d6",
@@ -103675,7 +103629,7 @@
         "company_name": "Microsoft",
         "id": "18ca6c35-327a-44a7-8e9a-036ce0939031",
         "title": "Research Intern - Machine Learning and Statistics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -129525,7 +129479,7 @@
         "company_name": "KBR",
         "id": "4f91a80f-6de3-4fed-b5d5-91aaedbd79c1",
         "title": "National Security Solutions Intern - Positioning - Navigation and Timing",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -220796,7 +220750,7 @@
         "company_name": "Leidos",
         "id": "13297e90-99fd-41c7-9a26-5cbe83166ec4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -221668,7 +221622,7 @@
         "company_name": "Woven",
         "id": "7ad8deb0-8ff6-4080-a865-9f84a2600546",
         "title": "Software Engineer Intern - ML Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -287682,7 +287636,7 @@
         "company_name": "Glydways",
         "id": "bc0b0cb0-5dd2-40b3-974b-5e864b0bd83d",
         "title": "Perception Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364485,7 +364439,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "45b41842-bedd-4cd9-bd36-5d601d849222",
         "title": "Engine / Vehicle Embedded Controls Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -395254,7 +395208,7 @@
         "company_name": "Intelerad",
         "id": "18cdb566-721a-4ab3-bd57-875b0fae3b4b",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
