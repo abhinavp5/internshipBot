@@ -2,101 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Electronic Arts",
-        "id": "b39063dd-94d8-4df3-9413-b65cbf70de2c",
-        "title": "Gameplay Engineer Intern - Gameplay Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759871636,
-        "date_posted": 1759871636,
-        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Engineer-Intern/211300",
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Electronic-Arts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Exact Sciences",
-        "id": "c8dd94ad-3c0a-48dc-9159-357eba5e40c9",
-        "title": "Commercial Customer Experience Analytics Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759872133,
-        "date_posted": 1759872133,
-        "url": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Commercial-CX-Analytics-Intern_R25-10684",
-        "locations": [
-            "Madison, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Exact-Sciences",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Edison International",
-        "id": "98006037-2a40-4405-86bf-afbe09b667d9",
-        "title": "Intern - Data Analytics/Data Science",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759872167,
-        "date_posted": 1759872167,
-        "url": "https://apply.edisoncareers.com/job/Lancaster-2026-Summer-Internship-Data-AnalyticsData-Science-CA-93534/1332396900/?ats=successfactors",
-        "locations": [
-            "Palmdale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Edison-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ADT",
-        "id": "cf420cc1-67d6-40af-9bfa-09f30af955a3",
-        "title": "AI and CX Specialist Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1759875437,
-        "date_posted": 1759875437,
-        "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/3018000",
-        "locations": [
-            "Boca Raton, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/ADT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "ZOLL Medical Corporation",
         "id": "bfcdf2cc-bb9f-41d2-8b6e-08a037bddf8c",
         "title": "Software Intern",
@@ -11085,7 +10990,7 @@
         "company_name": "TikTok",
         "id": "9e2d3150-0b9c-4312-ac82-83a37f758c0b",
         "title": "Product Manager Intern - Tiktok Shop Apps and API",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -71956,7 +71861,7 @@
         "company_name": "ByteDance",
         "id": "ce80bcf6-6d8c-468a-9fec-fb8418fd27af",
         "title": "3D Graphics Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -154641,7 +154546,7 @@
         "company_name": "ByteDance",
         "id": "b3b1ff92-09f1-405b-a03c-9c57c3b74030",
         "title": "Student Researcher - Seed - LLM Model",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -199819,7 +199724,7 @@
         "company_name": "Roku",
         "id": "ad117403-3a6a-4a4c-af14-0606df291010",
         "title": "Analytics & Insights Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -205292,7 +205197,7 @@
         "company_name": "ByteDance",
         "id": "d682d247-adfc-4dad-8a92-2194c9d88119",
         "title": "Software Engineer Project Intern - Security Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -216884,7 +216789,7 @@
         "company_name": "ByteDance",
         "id": "9b2c8392-e286-400e-95e9-809d118e367e",
         "title": "Benefits Operation Data Analyst Project Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -219400,7 +219305,7 @@
         "company_name": "Parspec",
         "id": "00ad2123-8026-401f-9d01-279e89a58797",
         "title": "Applied AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -316950,7 +316855,7 @@
         "company_name": "ByteDance",
         "id": "f9c3682d-25e0-42b3-aeb8-ae98854876fe",
         "title": "Software Engineer Intern - Payment Network - Global Payment",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -317238,7 +317143,7 @@
         "company_name": "TikTok",
         "id": "5a2e20ec-cf46-44b8-a567-b1cd0d997fcd",
         "title": "Software Engineer Intern - Global CRM - 2026 Start",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -318158,7 +318063,7 @@
         "company_name": "TikTok",
         "id": "187ab9e0-f297-43bf-b9c1-afdf636f1ef5",
         "title": "Machine Learning Engineer Intern - Monetization Technology - Ads Core Global",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -335940,7 +335845,7 @@
         "company_name": "Socure",
         "id": "181c70d4-9957-4f0d-b3df-e4eaae9e241a",
         "title": "Engineering Intern - AI Agents - Data & Riskos",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -356692,7 +356597,7 @@
         "company_name": "Lumentum",
         "id": "5ab3907b-1d94-43bf-a19d-131262db3e60",
         "title": "Embedded Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -367951,7 +367856,7 @@
         "company_name": "Tenstorrent",
         "id": "0cac0d03-2600-4339-9746-f86b88e23d15",
         "title": "Machine Learning Applications & Benchmarking Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -367972,7 +367877,7 @@
         "company_name": "Homebase",
         "id": "53c77559-a2c2-430b-a7d5-e6b47abb4467",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -373618,7 +373523,7 @@
         "company_name": "Rivian",
         "id": "1d937b71-16a1-418a-9846-3273963530df",
         "title": "Research Park Intern - Hardware Functional Safety",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -386825,7 +386730,7 @@
         "company_name": "Marsh",
         "id": "c6fb7bb2-6ca1-431b-bb96-398422ba1a8d",
         "title": "Oliver Wyman Analyst Internship - Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392676,7 +392581,7 @@
         "company_name": "Marsh",
         "id": "7ac697b2-ff59-4660-990a-d4f53316f56c",
         "title": "AI Integration Specialist Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -394298,5 +394203,163 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "e26e8687-b77f-46d9-bdfe-01a22ce2be5e",
+        "title": "Software Engineer Intern - Developer Infrastructure",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780611664,
+        "date_posted": 1780610914,
+        "url": "https://jobs.bytedance.com/en/position/7595707875767699765/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "9d377784-8ac4-48d0-9e39-db00dec7d15a",
+        "title": "Student Researcher - LLM Post Training - Agent & Reinforcement Learning",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780611664,
+        "date_posted": 1780610911,
+        "url": "https://jobs.bytedance.com/en/position/7532653875506989320/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "836b094c-8889-4063-8bb3-2c4a5f202ee9",
+        "title": "Research Intern - Seed",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780611827,
+        "date_posted": 1780610906,
+        "url": "https://jobs.bytedance.com/en/position/7529661012351420690/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "CIBC",
+        "id": "3b704d1d-d58a-404e-8fe1-ad9bacf7e6ee",
+        "title": "Digital Product Analyst Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780610761,
+        "date_posted": 1780610759,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Digital-Product-Analyst-Co-op_2612126",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CIBC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "14f19965-aa67-424b-92a5-f048cefb3a34",
+        "title": "Student Researcher - Seed Vision - Long-Range Video Generation",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1780611664,
+        "date_posted": 1780610923,
+        "url": "https://jobs.bytedance.com/en/position/7533027329703282951/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CIBC",
+        "id": "c774160b-0b65-4dd8-811d-427581f85853",
+        "title": "Sales Effectiveness Analyst Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1780610761,
+        "date_posted": 1780610759,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Sales-Effectiveness-Analyst-Co-op_2612072",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/CIBC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jefferson Health",
+        "id": "3ee0c53b-950c-4f41-a317-b3e726ed7cdf",
+        "title": "Data Coordinator Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1780610692,
+        "date_posted": 1780610499,
+        "url": "https://jeffersonhealth.wd5.myworkdayjobs.com/ThomasJeffersonExternal/job/Philadelphia-PA/Intern_REQ-0030269-1",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jefferson-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
