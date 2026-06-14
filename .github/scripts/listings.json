@@ -1,101 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Franklin Templeton",
-        "id": "21036ea0-1740-44f2-98fd-58b79f81c01c",
-        "title": "Product Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761336664,
-        "date_posted": 1760735118,
-        "url": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/GBR-LO160-London/Product-Management-Intern_864956",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Franklin-Templeton",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Microsoft",
-        "id": "f9729c11-8b7b-4cf2-b130-cb9a1fad5335",
-        "title": "Applied Scientist Intern: Audio Visual Speech Attribution",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1760738317,
-        "date_posted": 1760738317,
-        "url": "https://jobs.careers.microsoft.com/global/en/job/1898698",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Base",
-        "id": "bc57001c-a317-4d83-9b65-9f39c8e254ac",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760738336,
-        "date_posted": 1760738336,
-        "url": "https://base.org/careers?gh_jid=7341088",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Base",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Berkshire Hathaway Energy",
-        "id": "c8e3135e-9d43-4ea9-9747-61c1f2deafdf",
-        "title": "Intern \u2013 Data Science - Contract Operations",
-        "active": true,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760740007,
-        "date_posted": 1760740007,
-        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/10003267",
-        "locations": [
-            "Des Moines, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1761155866,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
@@ -314604,7 +314508,7 @@
         "company_name": "Pennsylvania State University",
         "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
         "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -345920,7 +345824,7 @@
         "company_name": "Regal Rexnord",
         "id": "50d55538-3ab4-43b4-bca2-ee08a31588bf",
         "title": "Electronics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -366069,7 +365973,7 @@
         "company_name": "FHLBank Topeka",
         "id": "dea0e73b-d3c0-422c-8972-d3e298024b60",
         "title": "Financial Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -382588,7 +382492,7 @@
         "company_name": "Pennsylvania State University",
         "id": "df9cfb0a-2665-4639-bfb4-b6b6872f0f82",
         "title": "Research and Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -384015,6 +383919,29 @@
             "Master's",
             "Associate's",
             "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Primerica",
+        "id": "dd2ded77-fc59-4a07-8e49-750d7c5c5a2d",
+        "title": "Fraud Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1781431950,
+        "date_posted": 1781360730,
+        "url": "https://primerica.wd1.myworkdayjobs.com/pri/job/Duluth-GA/Fraud-Analyst-Intern_R-234062026",
+        "locations": [
+            "Duluth, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Primerica",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
