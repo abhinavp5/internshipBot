@@ -16629,7 +16629,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company">Bank of Montreal</a></strong></td>
+<td>↳</td>
 <td>Software Developer – Internship - Summer 2026 - Weeks</td>
 <td>Naperville, IL<br>Chicago, IL</td>
 <td>🔒</td>
@@ -24060,7 +24060,7 @@
 <td>Software Engineer Intern - Monetization Technology - 2026 Summer - BS/MS</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 </tbody>
 </table>
@@ -64983,7 +64983,7 @@
 <td>Intern – Enterprise Analytics</td>
 <td>Des Moines, IA</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 </tbody>
 </table>
