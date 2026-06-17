@@ -2,53 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Berkshire Hathaway Energy",
-        "id": "89779d7d-0d3d-4ca6-90ef-73694e826847",
-        "title": "2026 Database Engineer Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760994746,
-        "date_posted": 1760994746,
-        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/10003763",
-        "locations": [
-            "Imperial, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "OpenTable",
-        "id": "0a9d1ba9-1815-4354-a7a1-f911393f5933",
-        "title": "Product Management Internship - Hybrid - Toronto",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760994493,
-        "date_posted": 1760994493,
-        "url": "https://job-boards.greenhouse.io/opentable/jobs/8216626002",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/OpenTable",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Nutanix",
         "id": "2323eeca-a956-4ed2-84c0-96acbe8f8fb4",
         "title": "Software Engineer Intern",
@@ -68,125 +21,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Relay",
-        "id": "d1e5b55f-0304-4153-9ce1-4b67e4a8e11c",
-        "title": "Relay Launchpad Intern - Product Engineering - AI/ML focus",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1760997094,
-        "date_posted": 1760997094,
-        "url": "https://job-boards.greenhouse.io/relaypro/jobs/7342994",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/RelayPro",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Seagate Technology ",
-        "id": "93abdc6b-eb92-4603-ba79-610415329970",
-        "title": "VLSI Design and Verification Engineer Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760996436,
-        "date_posted": 1760996436,
-        "url": "https://seagatecareers.com/job/Longmont-VLSI-Design-and-Verification-Engineer-Intern-Summer-2026-CO-80501/1336143200/?ats=successfactors",
-        "locations": [
-            "Longmont, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Seagate-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "DatologyAI",
-        "id": "537c5b49-5525-49e5-92f7-22b3e72cf73d",
-        "title": "Software Engineer Intern - Infrastructure",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760996390,
-        "date_posted": 1760996390,
-        "url": "https://jobs.ashbyhq.com/DatologyAI/17d51801-5d5f-41ad-baec-f1ac5a255d02/application",
-        "locations": [
-            "San Carlos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/DatologyAI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "DatologyAI",
-        "id": "1a99bdc9-b4cf-4235-b67a-79e66e3c380b",
-        "title": "Software Engineer Intern - Machine Learning",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1760996394,
-        "date_posted": 1760996394,
-        "url": "https://jobs.ashbyhq.com/DatologyAI/ecf5c72d-78b2-4b67-b848-fbb830df8f94/application",
-        "locations": [
-            "San Carlos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/DatologyAI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Verizon Communications",
-        "id": "48528141-9a90-4fcf-aa85-f9e6d040384e",
-        "title": "Thurgood Marshall Immersion Program: Network Performance Summer Internship 2026 - ",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761333233,
-        "date_posted": 1760996324,
-        "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Walnut-Creek-California/Thurgood-Marshall-Immersion-Program--Network-Performance-Summer-Internship-2026_R-1086969",
-        "locations": [
-            "Walnut Creek, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Verizon-Communications",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -4238,29 +4072,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "OpenTable",
-        "id": "b763796c-1af1-4055-bea7-e183377b232b",
-        "title": "Data Engineer Internship - Hybrid - Toronto",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761088799,
-        "date_posted": 1760994479,
-        "url": "https://job-boards.greenhouse.io/opentable/jobs/8216632002",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/OpenTable",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -45332,27 +45143,6 @@
             "San Carlos, CA"
         ],
         "company_url": "https://simplify.jobs/c/Dexterity",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Illumio",
-        "id": "a2d84118-3483-49a5-a7d0-a6be4dde0d8d",
-        "title": "Engineering Intern - Cloud Security - Analytics & Segmentation",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761849529,
-        "date_posted": 1760997063,
-        "url": "https://jobs.ashbyhq.com/illumio/83af42e8-8970-4e5f-8f03-b559071d73db/application",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Illumio",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
