@@ -3153,30 +3153,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Strand Therapeutics",
-        "id": "c8e1f9c6-990f-46db-b3a5-52f875ee5f20",
-        "title": "Co-op \u2013 LNP Discovery",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761121665,
-        "date_posted": 1761121665,
-        "url": "https://job-boards.greenhouse.io/strandtherapeutics/jobs/5685294004",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Strand-Therapeutics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Oracle",
         "id": "025fe4ca-c694-44c5-8954-1ba5e88a484a",
@@ -24609,27 +24585,6 @@
             "Boise, ID"
         ],
         "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Faraday Future",
-        "id": "8687a2e2-a096-4ab7-8435-72016d45de24",
-        "title": "Part Time Product Associate Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761129983,
-        "date_posted": 1761129983,
-        "url": "https://job-boards.greenhouse.io/faradayfuture/jobs/7504622003",
-        "locations": [
-            "West Athens, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Faraday-Future",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -175235,7 +175190,7 @@
         "company_name": "Tencent",
         "id": "c42f018d-7413-47dd-900e-58cb7e97b198",
         "title": "Multimedia Codec Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -211735,7 +211690,7 @@
         "company_name": "Infojini",
         "id": "ba7781d0-c294-42f8-8255-596388700098",
         "title": "GIS Intern Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -361115,7 +361070,7 @@
         "company_name": "FHLBank Topeka",
         "id": "dea0e73b-d3c0-422c-8972-d3e298024b60",
         "title": "Financial Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -363125,7 +363080,7 @@
         "company_name": "NVIDIA",
         "id": "03dedc89-4423-4126-b37e-0771167f95b7",
         "title": "Data Analysis Intern - Applied System Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -369122,7 +369077,7 @@
         "company_name": "Tencent",
         "id": "f083247a-cf19-43ae-8834-7db704881503",
         "title": "Multimedia Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -370724,7 +370679,7 @@
         "company_name": "Rippling",
         "id": "0d8819e9-06a6-4bf6-9c18-a00012e17263",
         "title": "Full Stack Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -375340,7 +375295,7 @@
         "company_name": "American University",
         "id": "f1f49f23-0c5f-4187-b685-f7a5c2e495a3",
         "title": "Undergraduate Research Assistant - Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -375384,7 +375339,7 @@
         "company_name": "Walleye Capital",
         "id": "28053adc-4960-4b2a-8386-71e1aba8148e",
         "title": "Quantitative Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
