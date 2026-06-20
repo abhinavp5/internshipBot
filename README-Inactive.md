@@ -65312,21 +65312,21 @@
 <td>Junior Engineer – Co-op/Internship - Electronic Trading Infrastructure - Summer 2026</td>
 <td>Remote in Canada</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Junior Engineer – Co-op/Internship - Electronic Trading Infrastructure - Summer 2026</td>
 <td>Remote in Canada</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Junior Engineer – Co-op/Internship - Electronic Trading Infrastructure - Summer 2026</td>
 <td>Remote in Canada</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
@@ -72067,14 +72067,14 @@
 <td>Intern – Asic Gen-AI</td>
 <td>Folsom, CA<br>San Jose, CA</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Intern – Asic Gen-AI</td>
 <td>Folsom, CA<br>San Jose, CA</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Formlabs?utm_source=GHList&utm_medium=company">Formlabs</a></strong></td>
