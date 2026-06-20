@@ -47,29 +47,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Tencent",
-        "id": "0061d973-bb2c-4f42-b1a2-2a3cae48b7dc",
-        "title": "IT Application Developer \u2013 Intern - AI-Driven IT Ops",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761233905,
-        "date_posted": 1761233905,
-        "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/IT-Application-Developer---AI-Driven-IT-Ops---Intern_R106286",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Tencent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1762474513,
         "sponsorship": "Other",
         "active": true,
@@ -118712,7 +118689,7 @@
         "company_name": "Paccar",
         "id": "3c1280c1-5d37-4ecb-a94b-42f34bb815a2",
         "title": "Data Analyst Intern Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -239579,7 +239556,7 @@
         "company_name": "GE Aerospace",
         "id": "b44c12f4-a0f1-423d-ae71-8934cfd0f930",
         "title": "Digital Technology Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -240151,7 +240128,7 @@
         "company_name": "GE Aerospace",
         "id": "cfa33697-df27-4c7b-97c1-16002ecd55cd",
         "title": "Engines Engineering Co-op - Computer or Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -269171,7 +269148,7 @@
         "company_name": "Varda Space",
         "id": "524a758b-b1a2-4a02-9ff9-dcda097b1187",
         "title": "Automation & Test Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -297893,7 +297870,7 @@
         "company_name": "Electronic Arts",
         "id": "3a0b0dbb-fbd9-49e9-92b1-489a27764605",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339407,7 +339384,7 @@
         "company_name": "Regal Rexnord",
         "id": "50d55538-3ab4-43b4-bca2-ee08a31588bf",
         "title": "Electronics Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -341101,7 +341078,7 @@
         "company_name": "True Manufacturing",
         "id": "8e39a25b-7f83-469c-a84e-63c374d0f3cf",
         "title": "AI Analyst Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -353739,7 +353716,7 @@
         "company_name": "Menasha Corporation",
         "id": "b2852531-3bff-4d0c-b7fb-6d773bdbfd70",
         "title": "Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -354364,7 +354341,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "bef0518e-60a1-4b80-819c-3cbee5b29236",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -359556,7 +359533,7 @@
         "company_name": "FHLBank Topeka",
         "id": "dea0e73b-d3c0-422c-8972-d3e298024b60",
         "title": "Financial Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -361519,7 +361496,7 @@
         "company_name": "Intel",
         "id": "806bad6e-8c09-49ad-abad-04b898fa8ff4",
         "title": "Silicon Performance Validation and Characterization Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -363084,7 +363061,7 @@
         "company_name": "Magna",
         "id": "d700b10f-a687-49f6-bd90-94bd0783aeab",
         "title": "Junior Full Stack Developer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -363155,7 +363132,7 @@
         "company_name": "Ciena",
         "id": "8a830af4-c991-49d4-81e5-7b8d39aed825",
         "title": "Waveserver Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -368770,7 +368747,7 @@
         "company_name": "CHEP",
         "id": "513d3867-26bc-4203-8cd2-ade981572975",
         "title": "FP&A Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371929,7 +371906,7 @@
         "company_name": "Copart",
         "id": "ecb57e2b-b9a6-4967-9d05-bd9596de3537",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -372390,7 +372367,7 @@
         "company_name": "Cenovus Energy",
         "id": "c37d74af-b07e-4201-83c5-71447ff00de4",
         "title": "Student Strategy and Business Performance",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -372621,7 +372598,7 @@
         "company_name": "Picarro",
         "id": "78f19624-1c44-4977-b62e-7f62d90abe71",
         "title": "Product Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -375571,7 +375548,7 @@
         "company_name": "GE Healthcare",
         "id": "bcfc86cc-ce3d-4d16-bd9c-4f33ff1a78b5",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -376387,7 +376364,7 @@
         "company_name": "Synchrony Financial",
         "id": "926aad82-a906-40e6-ad7f-97a1fca95370",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -377354,7 +377331,7 @@
         "company_name": "University System of New Hampshire",
         "id": "c1a53a05-af65-4ba9-a7da-451aaa98ef68",
         "title": "Datacenter Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -377419,7 +377396,7 @@
         "company_name": "Pennsylvania State University",
         "id": "87b177fa-ff7d-4277-b3da-19b592c48505",
         "title": "Science",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -378566,7 +378543,7 @@
         "company_name": "Rockwell Automation",
         "id": "baba8a71-7906-4788-84cc-9454dcfb0bb3",
         "title": "Robotics Research Co-op - Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -378661,7 +378638,7 @@
         "company_name": "BP",
         "id": "8d71dd81-519f-4e2c-a8b3-c74ec077b01d",
         "title": "Supply, Trading & Shipping Intern - Supply - Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -378850,7 +378827,7 @@
         "company_name": "BP",
         "id": "8947c127-d92d-4efb-adc9-57cfd18bd923",
         "title": "Supply, Trading & Shipping Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -380691,7 +380668,7 @@
         "company_name": "Autodesk",
         "id": "bf8a5772-d7a7-4239-8119-4ed3cfb9f480",
         "title": "Cloud Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -380961,7 +380938,7 @@
         "company_name": "Aptiv",
         "id": "dbe83b5e-e609-474a-b8ff-63ad5ce566e4",
         "title": "Platform Services Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -381148,7 +381125,7 @@
         "company_name": "TD Bank",
         "id": "acdd6b7e-f680-49fd-ac64-781ec1cc6ecd",
         "title": "Software Engineer Co-op - Global Technology Solutions - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -381171,7 +381148,7 @@
         "company_name": "TD Bank",
         "id": "ce2f0cee-f7f1-4ae6-a8f0-00fd54dfe321",
         "title": "Data Engineer Co-op - Global Technology Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
