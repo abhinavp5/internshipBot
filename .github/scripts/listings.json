@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "13a9e23b-9d18-4dfe-b325-0f0da742df3c",
-        "title": "2026 Co-Op \u2013 Software Engineering Intern - Onsite - CO",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761231399,
-        "date_posted": 1761231399,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/XMLNAME-2026-Co-Op---Software-Engineering-Intern---Onsite--CO-_01801730",
-        "locations": [
-            "Aurora, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "USAA",
         "id": "e3606e03-7b9e-4a70-8925-f8f72113e41f",
@@ -174324,7 +174301,7 @@
         "company_name": "University of Texas - Austin",
         "id": "6e5cee30-3f8a-404e-961c-556ec227c185",
         "title": "Resa 1 - Texus",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -240366,7 +240343,7 @@
         "company_name": "GE Aerospace",
         "id": "a361b6e9-b2ef-4dc3-a429-dc61d576f023",
         "title": "Engines Engineering Co-op - Computer or Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -332350,7 +332327,7 @@
         "company_name": "Bank of Montreal",
         "id": "c45f7a09-140b-4725-9506-ade3453310fa",
         "title": "Junior Software Developer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -363225,7 +363202,7 @@
         "company_name": "Boys Town",
         "id": "d9fcc633-0100-463e-b6d7-1abdfdda5a5f",
         "title": "Artificial Intelligence & Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -371634,7 +371611,7 @@
         "company_name": "Microsoft",
         "id": "c67a3efa-2ec3-488c-89f4-2514b853209d",
         "title": "Data Center Technician Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -376366,7 +376343,7 @@
         "company_name": "Magna",
         "id": "1734e112-a0d8-49a9-b887-3d1ec517cec8",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -378343,7 +378320,7 @@
         "company_name": "Itron",
         "id": "3d4729cf-689c-4861-9ba2-8445de078601",
         "title": "Embedded Systems & Artificial Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -378546,7 +378523,7 @@
         "company_name": "The Campbell's Company",
         "id": "8a8be319-8f4e-4ed9-b285-2ede84563e07",
         "title": "Agentic AI Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -381505,7 +381482,7 @@
         "company_name": "Interac",
         "id": "64142086-10bc-4450-8938-7578f98d0a66",
         "title": "AI Product Delivery Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -381547,7 +381524,7 @@
         "company_name": "Mars",
         "id": "aa8dc9df-8dd3-461a-b5a3-1a1e92a9b6bd",
         "title": "Business Analytics Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
