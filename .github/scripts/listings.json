@@ -52,29 +52,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nokia",
-        "id": "0b30ac33-4c62-49e2-80b9-578edc396673",
-        "title": "Hardware Developer Eng Student",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1761497284,
-        "date_posted": 1761497284,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23929",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Aptiv",
         "id": "5515a4cd-db4e-4cd7-9d80-2223c8e3f0d6",
@@ -1965,30 +1942,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Neptune Medical",
-        "id": "de12292e-c43c-405a-8f2b-c083fe295749",
-        "title": "Co-op: Embedded Vision Engineer - Robotic Surgery Video",
-        "active": false,
-        "terms": [
-            "Fall 2025",
-            "Winter 2026"
-        ],
-        "date_updated": 1761495152,
-        "date_posted": 1761495152,
-        "url": "https://job-boards.greenhouse.io/neptunemedical/jobs/4622201005",
-        "locations": [
-            "Burlingame, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Neptune-Medical",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Thermo Fisher Scientific",
         "id": "c9942b4b-738b-4d7d-96c8-31b08f77c763",
         "title": "System Design Engineer Intern",
@@ -2078,30 +2031,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Qorvo",
-        "id": "219c0ff6-4ac0-4d9e-9340-53521843635a",
-        "title": "Product Engineering Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761497978,
-        "date_posted": 1761497978,
-        "url": "https://careers.qorvo.com/job/Hillsboro-Product-Engineering-Intern-OR-97124/1336491100/?ats=successfactors",
-        "locations": [
-            "Hillsboro, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Qorvo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -3672,29 +3601,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Meta",
-        "id": "b96d57f7-6287-43da-a968-56c01db2ed74",
-        "title": "Research Scientist Intern - AR Graphics Optimizations - PhD",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762163730,
-        "date_posted": 1761496004,
-        "url": "https://www.metacareers.com/jobs/2539771786398778",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Meta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
         ]
     },
     {
@@ -19791,29 +19697,6 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Nokia",
-        "id": "f2aad6b4-6c7b-4a63-9e9d-546c5b31391d",
-        "title": "Optical Networking Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1761934966,
-        "date_posted": 1761500699,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24655",
-        "locations": [
-            "Berkeley Heights, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nokia",
         "id": "f42c3f08-56c1-428c-b32e-509fbfea2f67",
         "title": "Firmware Development Co-op",
         "active": false,
@@ -19854,245 +19737,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Rivian",
-        "id": "b92d09f2-f09f-4773-8e8d-c0ac6842fbd5",
-        "title": "Software Engineering Intern \u2013 Winter 2026 Co-op Program - Manufacturing AI",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1761500057,
-        "date_posted": 1761500057,
-        "url": "https://careers.rivian.com/jobs/26984?lang=en-us&icims=1",
-        "locations": [
-            "Normal, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Rivian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Rocket Companies",
-        "id": "a6e0b939-43f6-440c-b8c1-963bad7e2a2c",
-        "title": "Capital Markets Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761500058,
-        "date_posted": 1761500058,
-        "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Capital-Markets-Intern---Summer-2026_R-080658",
-        "locations": [
-            "Detroit, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Rocket-Companies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cencora",
-        "id": "9f84106d-4749-4864-8bab-8fa6c8aaebae",
-        "title": "Data & Analytics Intern - Data Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761500192,
-        "date_posted": 1761500192,
-        "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/Data---Analytics-Intern_R2515491",
-        "locations": [
-            "Jackson Township, NJ",
-            "Conshohocken, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cencora",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nokia",
-        "id": "61b7f09b-89cf-4323-8af3-fd20c508ece6",
-        "title": "AI R&D Engineer Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1761500261,
-        "date_posted": 1761500261,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24921",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "4f4a9210-9895-4547-ab9b-d6210a4514f2",
-        "title": "Data fabric and network automation Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1761500254,
-        "date_posted": 1761500254,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25042",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Two Six Technologies",
-        "id": "642b040c-2e5d-4fc5-ada8-87338e890150",
-        "title": "Summer Research Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1761500011,
-        "date_posted": 1761500011,
-        "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5686981004",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Epic Games",
-        "id": "9f37b605-48a1-46d8-81a9-75a033eb4826",
-        "title": "Tech Designer Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1761499661,
-        "date_posted": 1761499661,
-        "url": "https://epicgames.com/careers/jobs/5676917004?gh_jid=5676917004",
-        "locations": [
-            "Morrisville, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Epic-Games",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Levi Strauss & Co.",
-        "id": "31583cb1-a0cb-45e7-8a76-a6c3e13261db",
-        "title": "F.I.T. Intern - Engineering Continuous Improvement",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761499742,
-        "date_posted": 1761499742,
-        "url": "https://levistraussandco.wd5.myworkdayjobs.com/external/job/Sky-Harbor-Distribution-Center-Henderson-NV-USA/FIT-Intern--Engineering-Continuous-Improvement_R-0144231",
-        "locations": [
-            "Henderson, NV"
-        ],
-        "company_url": "https://simplify.jobs/c/Levi-Strauss-And-Co",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "HNTB",
-        "id": "736a529f-7c3b-4e43-9fc7-5651865b7314",
-        "title": "Artificial Intelligence Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761499325,
-        "date_posted": 1761499325,
-        "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Arlington-VA-Alexandria/Artificial-Intelligence-Intern---Summer-2026_R-27983-2",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/HNTB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Expedia Group",
-        "id": "bf5ec7af-0c34-40f3-b8f2-b911f502f5f5",
-        "title": "Machine Learning Science Intern - June 2026 - London - Masters",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761499085,
-        "date_posted": 1761499085,
-        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Machine-Learning-Science-Intern---June-2026---London---Masters_R-98601",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Cadence Design Systems",
-        "id": "4e7e45d6-5e54-4098-88e8-e2b3eafe9c45",
-        "title": "SoC Performance Architect and UVM Testbench Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761938093,
-        "date_posted": 1761499201,
-        "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/SAN-JOSE/SoC-Performance-Architect---Intern--Summer-2026-_R51636",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Goldman Sachs",
         "id": "94100dbb-c055-46f5-9761-312357d51862",
@@ -20108,27 +19752,6 @@
             "Dallas, TX"
         ],
         "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Marvell",
-        "id": "3ce7f59c-5b01-4ab2-8255-b25920983d88",
-        "title": "Product Engineer Intern - Master's Degree",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761498940,
-        "date_posted": 1761498940,
-        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Product-Engineer-Intern---Master-s-Degree_2502694",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Marvell",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -20157,70 +19780,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Astranis",
-        "id": "b31c7f67-31a2-456b-993d-578ac833e6f1",
-        "title": "FPGA Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761497598,
-        "date_posted": 1761497598,
-        "url": "https://job-boards.greenhouse.io/astranis/jobs/4609727006",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Astranis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Autodesk",
-        "id": "1e416e67-c574-46dc-bf12-52e3fe1cbf1f",
-        "title": "PhD Intern - AI Research Scientist",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761497704,
-        "date_posted": 1761497704,
-        "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/San-Francisco-CA-USA/PhD-Intern--AI-Research-Scientist_25WD92177-2",
-        "locations": [
-            "Montreal, QC, Canada",
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Autodesk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Atlantic Health System",
-        "id": "30663826-82f2-48c9-b0c0-7fa62d0d9cb1",
-        "title": "Digital Outcomes Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761496689,
-        "date_posted": 1761496689,
-        "url": "https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/23196",
-        "locations": [
-            "Morristown, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Atlantic-Health-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Ciena",
         "id": "77874400-b071-4ebe-8909-c58022ef05c0",
         "title": "FPGA/DSP Programmer Co-Op/Intern Winter 2026 - WaveLogic Science Team - FPGA/DSP",
@@ -20235,27 +19794,6 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nokia",
-        "id": "319e44f9-3adb-4f87-827d-36ab3d2c9ae3",
-        "title": "Embedded Software Development Coop",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1761496557,
-        "date_posted": 1761496557,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24340",
-        "locations": [
-            "Richardson, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -20283,98 +19821,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "AGCO",
-        "id": "c5255f5a-654a-4953-bafa-6c71f7ea95ae",
-        "title": "Engineering Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761496310,
-        "date_posted": 1761496310,
-        "url": "https://careers.agcocorp.com/job/Lincoln-Engineering-Intern-NE/1335102300/?ats=successfactors",
-        "locations": [
-            "Lincoln, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/AGCO",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CAE",
-        "id": "eecf6051-a676-45bc-a74a-93c7b7ccd3f9",
-        "title": "Full Stack Web Developer Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1761933347,
-        "date_posted": 1761496003,
-        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-415---Full-Stack-Web-Developer-Intern_117823",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Honeywell",
-        "id": "a6f17191-4de2-4b55-ae85-73056fa3b608",
-        "title": "Intern Bachelors AI",
-        "active": true,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026",
-            "Winter 2027",
-            "Spring 2027",
-            "Summer 2027"
-        ],
-        "date_updated": 1761495808,
-        "date_posted": 1761495808,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/124930",
-        "locations": [
-            "Kanata, Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Honeywell",
-        "id": "9bcf2699-2bfc-48f6-8beb-3d2616771774",
-        "title": "Intern Bachelors Elect Eng",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026",
-            "Winter 2027",
-            "Spring 2027",
-            "Summer 2027"
-        ],
-        "date_updated": 1761495804,
-        "date_posted": 1761495804,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/124943",
-        "locations": [
-            "Kanata, Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Lendbuzz",
         "id": "8ea7f374-1ca9-4f50-b349-b0f3af11bfa0",
@@ -20392,27 +19838,6 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Lendbuzz",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "JP Morgan Chase",
-        "id": "222e5492-2e94-46c7-9e1d-f1fc5f31d5cd",
-        "title": "2026 AI Research Associate Program \u2013 Internship",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761495915,
-        "date_posted": 1761495915,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210680636",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -39616,29 +39041,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Ciena",
-        "id": "0637e759-b163-48c2-a6fc-c704cb2b5160",
-        "title": "Layout Design Intern/Co-op - Winter 2026",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1762928287,
-        "date_posted": 1761494479,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Layout-Design-Co-op--Winter-2026-_R029276",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Insulet Corporation",
         "id": "5cf13fec-fc63-43e7-ad99-32559fe14cc2",
         "title": "Co-op \u2013 Systems Engineering - Design Verification: January - June 2026",
@@ -58787,7 +58189,7 @@
         "company_name": "Berkshire Hathaway Energy",
         "id": "3761275b-2cba-4885-93f9-c8b39f6cafdd",
         "title": "Intern \u2013 Data Science - Operations Sustainment",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -125633,29 +125035,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Oracle",
-        "id": "dcd871d0-1d75-4588-a870-c8236c45f5d5",
-        "title": "Advanced Degree Data Scientist",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762927870,
-        "date_posted": 1761497422,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/308866",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -369670,7 +369049,7 @@
         "company_name": "Digital Realty",
         "id": "1ea7baf7-4a9c-4892-bd89-139d769a8719",
         "title": "Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -378137,7 +377516,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "0ff77783-d714-47c9-a3f7-581ebdbf568b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
