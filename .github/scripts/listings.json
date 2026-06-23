@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "7-Eleven",
-        "id": "37ae87a8-39c9-4e41-9fb9-fbebba5fad91",
-        "title": "Software Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761451860,
-        "date_posted": 1761451860,
-        "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-7Next-Irving/Software-Developer-Intern_R25_0000008848",
-        "locations": [
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/7-Eleven",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Micron Technology",
         "id": "4748013e-4d41-4a49-8780-36d452312902",
@@ -370227,7 +370204,7 @@
         "company_name": "Microsoft",
         "id": "c67a3efa-2ec3-488c-89f4-2514b853209d",
         "title": "Data Center Technician Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -378680,7 +378657,7 @@
         "company_name": "1Password",
         "id": "1c5d2214-7ef5-428f-8804-fb1dfbb397d4",
         "title": "Developer Intern - Open Source",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -380728,6 +380705,95 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AirCapture",
+        "id": "be01ab40-de24-4098-a05f-5e2fd741d92f",
+        "title": "Applied AI Research & Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782177543,
+        "date_posted": 1782177362,
+        "url": "https://job-boards.greenhouse.io/aircapture/jobs/4687916006",
+        "locations": [
+            "Berkeley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AirCapture",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Carnegie Mellon University",
+        "id": "ec117b5a-ca3d-4593-8b86-4b29db9694b0",
+        "title": "Research Intern - College of Engineering - Electrical and Computer Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782166774,
+        "date_posted": 1782165998,
+        "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Summer-Research-Intern---College-of-Engineering---Electrical-and-Computer-Engineering_2024690",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of Montreal",
+        "id": "e855295f-176f-4209-a6ce-21b8ee7ed4e3",
+        "title": "Database Analyst Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782167018,
+        "date_posted": 1782166206,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Database-Analyst--Fall-2026--Co-op-Internship----4-months_R260018622-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Astranis",
+        "id": "04d272dd-0cea-48e3-ab73-31d3f0c7bf44",
+        "title": "Reliability Design Associate Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782167404,
+        "date_posted": 1782166904,
+        "url": "https://job-boards.greenhouse.io/astranis/jobs/4681416006",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Astranis",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
