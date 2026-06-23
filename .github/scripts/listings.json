@@ -7575,27 +7575,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "7-Eleven",
-        "id": "e864317b-eddb-42d0-b56c-d5b2b6cf32db",
-        "title": "Data Scientist Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1761838556,
-        "date_posted": 1761478592,
-        "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Data-Scientist-Intern_R25_0000008902",
-        "locations": [
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/7-Eleven",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Schreiber Foods",
         "id": "c7c74587-4ebe-44e7-ae41-c9047a213a5f",
         "title": "Sustainability Intern - Year-Round - January 2026",
@@ -7617,90 +7596,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "KLA Corporation",
-        "id": "bb5de2a1-bd81-45b0-8a7c-a37974efdb6a",
-        "title": "Advanced Algorithm Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761479219,
-        "date_posted": 1761479219,
-        "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Advanced-Algorithm-Intern_2532207-2",
-        "locations": [
-            "Milpitas, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/KLA-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Bloom Energy",
-        "id": "f0fe7883-fc9c-4a50-bd63-46a5efe0eb64",
-        "title": "IT Software Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761480521,
-        "date_posted": 1761480521,
-        "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/IT-Software-Developer-Intern_JR-20775",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Bloom-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sun Life",
-        "id": "bc2483a7-5d5f-47e4-909c-bd00d24e8042",
-        "title": "Data Science Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761481152,
-        "date_posted": 1761481152,
-        "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2026_JR00116490",
-        "locations": [
-            "Needham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sun-Life",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Bloom Energy",
-        "id": "ba668c84-13f4-4a1e-b983-df156ce4b884",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761480494,
-        "date_posted": 1761480494,
-        "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Data-Science-Intern_JR-20761",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Bloom-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Bloom Energy",
         "id": "a1a7d0ba-176f-4f16-9731-78225fd72324",
         "title": "Service Operations Intern",
@@ -7711,27 +7606,6 @@
         "date_updated": 1761869027,
         "date_posted": 1761869027,
         "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Service-Operations-Intern_JR-20810",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Bloom-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Bloom Energy",
-        "id": "9315b6c7-d48c-4f7f-8902-fd77b98f5a55",
-        "title": "Full Stack Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761480494,
-        "date_posted": 1761480494,
-        "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Full-Stack-Developer-Intern_JR-20763",
         "locations": [
             "San Jose, CA"
         ],
@@ -7790,27 +7664,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Bloom Energy",
-        "id": "246e4b44-b216-452d-b613-8df9fbc1b8d4",
-        "title": "Remote Monitoring Control Center Software Engineering Intern - Remote Monitoring Control Center",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1761939016,
-        "date_posted": 1761480546,
-        "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/RMCC-Software-Engineering-Intern_JR-20826",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Bloom-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Micron Technology",
         "id": "1048334f-1827-4144-9cff-ff788961af5f",
@@ -7826,27 +7679,6 @@
             "Boise, ID"
         ],
         "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sundt",
-        "id": "06158c8a-46f2-4344-a9a1-820fe6bfea4e",
-        "title": "Support Group Intern - Data Engineering",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761480836,
-        "date_posted": 1761480836,
-        "url": "https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/8847",
-        "locations": [
-            "Tempe, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Sundt",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -7874,69 +7706,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Visa",
-        "id": "ef8f3150-4f5c-4379-a079-ade71631cc04",
-        "title": "Data Science Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761476835,
-        "date_posted": 1761476835,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000089509236",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Point72",
-        "id": "ec5ad5cd-c63a-49bb-9cd0-3a5ab87101bf",
-        "title": "Cubist Data Scientist Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761476230,
-        "date_posted": 1761476230,
-        "url": "https://boards.greenhouse.io/point72/jobs/7639167002",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Point72",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Electronic Arts",
-        "id": "c3cbf146-3965-4cfb-bf5c-8916be1c1a24",
-        "title": "Software Engineering Co Op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761477854,
-        "date_posted": 1761477854,
-        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineering-Co-Op/210924",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Electronic-Arts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Hitachi",
         "id": "aec477f3-2c6d-4d7e-b702-90da108cc49a",
@@ -7948,74 +7717,6 @@
         "date_updated": 1761877043,
         "date_posted": 1761877043,
         "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern--AI--Computer-Vision--Deep-Learning--Python--C---_R1010833",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Hitachi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ServiceNow",
-        "id": "9ff6bd62-b2f4-4e2b-ab32-e14b1f166507",
-        "title": "Digital Technology \u2013 Associate Data Informatics Analyst Intern - Dt",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1761478125,
-        "date_posted": 1761478125,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000089582236",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Electronic Arts",
-        "id": "17095ed2-62c9-4938-ac82-d419e67cf38d",
-        "title": "Software Development Intern - Skate Team",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761477834,
-        "date_posted": 1761477834,
-        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Development-Intern/210913",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Electronic-Arts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Hitachi",
-        "id": "06e8e4c7-98d7-4091-a6af-89ac5194209a",
-        "title": "Operations Artificial Intelligence Intern - Artificial Intelligence",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1761476318,
-        "date_posted": 1761476318,
-        "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Operations-Artificial-Intelligence-Intern--8-or-12months-_R1010829",
         "locations": [
             "Toronto, ON, Canada"
         ],
@@ -42775,27 +42476,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Hitachi Energy",
-        "id": "983dae1b-c855-4977-80f5-e88a6e2c412a",
-        "title": "Applications Engineering Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762935481,
-        "date_posted": 1761481430,
-        "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Holland-Michigan-United-States/Applications-Engineering-Internship-Co-op_R0109318",
-        "locations": [
-            "Holland, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/83d28c1e-7f20-4aac-afd9-6bc8a468d7eb",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "619bbcb1-8143-498e-abd4-919f6ec2c4d1",
         "title": "Test Engineering Intern",
@@ -44884,27 +44564,6 @@
             "Cincinnati, OH"
         ],
         "company_url": "https://simplify.jobs/c/GE-Aerospace",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Micron Technology",
-        "id": "89f0c1cd-324d-4db4-a3dd-0e4ece979b45",
-        "title": "Intern \u2013 DRAM Applications Engineer 1",
-        "active": false,
-        "terms": [
-            "Fall 2025"
-        ],
-        "date_updated": 1763124080,
-        "date_posted": 1761478911,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Applications-Engineer-1_JR84259",
-        "locations": [
-            "Boise, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -378453,7 +378112,7 @@
         "company_name": "Eulerity",
         "id": "9248167b-4579-41b8-b99e-b3232dde0784",
         "title": "Product Marketing Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
