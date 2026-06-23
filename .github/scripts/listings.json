@@ -2,31 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Micron Technology",
-        "id": "4748013e-4d41-4a49-8780-36d452312902",
-        "title": "Intern \u2013 ATE Process Engineer ID1",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026",
-            "Spring 2027"
-        ],
-        "date_updated": 1761467185,
-        "date_posted": 1761467185,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---ATE-Process-Engineer-ID1_JR84462",
-        "locations": [
-            "Boise, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Wells Fargo",
         "id": "97bb1a7d-ffd9-4bee-a4ee-f9db580429aa",
         "title": "2026 Artificial Intelligence Summer Internship - PhD - San Francisco - CA - Early Careers",
@@ -8001,27 +7976,6 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Experian",
-        "id": "844916ef-e6a7-477f-ada2-202249c82eed",
-        "title": "Data Management Summer Intern - Remote & Paid",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761472051,
-        "date_posted": 1761472051,
-        "url": "https://jobs.smartrecruiters.com/Experian/744000089135845",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Experian",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -370983,7 +370937,7 @@
         "company_name": "Cenovus Energy",
         "id": "c37d74af-b07e-4201-83c5-71447ff00de4",
         "title": "Student Strategy and Business Performance",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -374001,7 +373955,7 @@
         "company_name": "ABB",
         "id": "0336c84e-d09f-4608-a173-6b7bc6173015",
         "title": "Electronics Engineer - Electronics/Embedded Software Assistant Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -376033,7 +375987,7 @@
         "company_name": "mthree",
         "id": "0f16bd26-68b4-45a1-9c02-8a689c8be9f6",
         "title": "Technology Talent Programme",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -379878,7 +379832,7 @@
         "company_name": "Cisco",
         "id": "1f9f1d75-58d7-4395-b881-ed7fc266e4a6",
         "title": "AI Research Scientist PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380794,6 +380748,29 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Astranis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Eulerity",
+        "id": "c9806a4c-cba2-46f3-82e7-06146c2bd5de",
+        "title": "Web Development Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782195121,
+        "date_posted": 1782194984,
+        "url": "https://job-boards.greenhouse.io/eulerity/jobs/4691224006",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Eulerity",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
