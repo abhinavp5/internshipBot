@@ -2653,7 +2653,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/GE-Aerospace?utm_source=GHList&utm_medium=company">GE Aerospace</a></strong></td>
 <td>Digital Technology Co-op - Returning Students</td>
 <td>Sharonville, OH<br>Livonia, MI</td>
 <td>Fall 2026</td>
@@ -8661,7 +8661,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Tamr?utm_source=GHList&utm_medium=company">Tamr</a></strong></td>
+<td><strong>Tamr</strong></td>
 <td>Software Engineering Intern/Co-op (2026) 🛂</td>
 <td>Cambridge, MA</td>
 <td>Winter 2026</td>
@@ -11410,7 +11410,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1309)</summary>
+<summary>🗃️ Inactive roles (1308)</summary>
 
 <table>
 <thead>
@@ -21910,14 +21910,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Olsson?utm_source=GHList&utm_medium=company">Olsson</a></strong></td>
 <td>Drafting Internship - Rail Signal</td>
 <td>Omaha, NE</td>
-<td>Winter 2025</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Centific?utm_source=GHList&utm_medium=company">Centific</a></strong></td>
-<td>Technical Intern - Masters or PhD 🎓</td>
-<td>Remote in USA<br>Redmond, WA</td>
 <td>Winter 2025</td>
 <td>🔒</td>
 <td>7mo</td>
