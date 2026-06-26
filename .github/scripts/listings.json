@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Jensen Hughes",
-        "id": "880b41e1-408d-4c20-90a7-040a7f4e796b",
-        "title": "Intern \u2013 Fire Protection Engineer",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761707517,
-        "date_posted": 1761707517,
-        "url": "https://job-boards.greenhouse.io/jensenhughes/jobs/4968348008",
-        "locations": [
-            "Concord, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jensen-Hughes",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Marvell",
         "id": "aa59536c-9038-49e1-9190-3e84f8abb0eb",
@@ -14360,48 +14337,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Altera Corporation",
-        "id": "b82d8dc0-de3a-43ac-9e9f-c82b46b7b62c",
-        "title": "FPGA Design Verification Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761705343,
-        "date_posted": 1761705343,
-        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Design-Verification-Intern_R01469",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Altera-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Astera Labs",
-        "id": "8f3b882f-a44b-44fb-99e3-dc3a6869700a",
-        "title": "Firmware Engineer  Internship 2026",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761942663,
-        "date_posted": 1761705245,
-        "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4593332005",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AsteraLabs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "KLA",
         "id": "f7d28d4d-9b87-4466-bb52-c662a35858c1",
@@ -14528,27 +14463,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Astera Labs",
-        "id": "d2d7e02e-253c-4e1d-b107-74d5f6df2b30",
-        "title": "Product and Ecosystem \u2013 Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761707628,
-        "date_posted": 1761707628,
-        "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4598264005",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AsteraLabs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Manifold AI",
         "id": "5f0481cb-78a5-4b56-aa5e-87686617914d",
@@ -14565,48 +14479,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Manifold-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Royal Bank of Canada",
-        "id": "9af89452-ab09-4232-b683-c2a8da86cf37",
-        "title": "Relationship Manager \u2013 Business Markets Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761942691,
-        "date_posted": 1761716068,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CALGARY-Alberta-Canada/Relationship-Manager--Business-Markets-Intern_R-0000146540",
-        "locations": [
-            "Calgary, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "TikTok",
-        "id": "3e2950a4-22c5-461d-8a21-bcae8341e826",
-        "title": "Search Safety Product Manager Project Intern - Tiktok-Safety Products-Search - 2025 Start - BS/MS",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761716072,
-        "date_posted": 1761716072,
-        "url": "https://lifeattiktok.com/search/7565965535098865925",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
