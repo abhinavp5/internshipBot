@@ -70,29 +70,6 @@
         ]
     },
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "BGE",
-        "id": "45aff3c1-021e-44f9-8231-22fc797b3193",
-        "title": "West Palm Beach \u2013 Internship - Surveying",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761701657,
-        "date_posted": 1761701657,
-        "url": "https://job-boards.greenhouse.io/bgeinccampus/jobs/4918089008",
-        "locations": [
-            "West Palm Beach, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/BGE",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1761799753,
         "sponsorship": "Other",
         "active": true,
@@ -533,29 +510,6 @@
         "degrees": [
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Symphony",
-        "id": "dae09deb-95eb-4a68-8a40-72b1101c6cb8",
-        "title": "Intern \u2013 Software Development",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761698522,
-        "date_posted": 1761698522,
-        "url": "https://symphony.com/company/apply?gh_jid=7325423",
-        "locations": [
-            "Belfast, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Symphony-Comm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -9991,27 +9945,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Autodesk",
-        "id": "bba21dda-0c69-4d9f-8a06-9d38bfac47ee",
-        "title": "Intern \u2013 Research Engineer - Geometry Generation",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761697711,
-        "date_posted": 1761697711,
-        "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/London-GBR/Intern--Research-Engineer---Geometry-Generation_25WD92689-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Autodesk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "SWBC",
         "id": "405020bd-c439-4952-a1e3-bd12bd20b3d9",
@@ -14674,74 +14607,6 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "a1939da9-a1b2-40a7-9082-d91700ae78eb",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1761942891,
-        "date_posted": 1761702613,
-        "url": "https://careers-gdms.icims.com/jobs/68791/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Oracle",
-        "id": "36db4193-6876-480a-8c0f-97ba820623c3",
-        "title": "PhD Research Assistant - Oracle Health & Analytics",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1761701603,
-        "date_posted": 1761701603,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/311336",
-        "locations": [
-            "Seattle, WA",
-            "San Carlos, CA",
-            "Pleasanton, CA",
-            "Santa Clara, CA",
-            "Kansas City, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Northrop Grumman",
-        "id": "a1a69610-855d-415b-b3c3-123405b8500a",
-        "title": "2026 Artificial Intelligence \u2013 / Physical AI Intern - AI - Multiple Locations",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761935519,
-        "date_posted": 1761696383,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2026-Artificial-Intelligence--AI----Physical-AI---Multiple-Locations_R10212469",
-        "locations": [
-            "Sunnyvale, CA",
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -112113,30 +111978,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Scale AI",
-        "id": "cf576e81-2abf-42ff-8a87-ad43c1cab289",
-        "title": "Visiting Researcher",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1761698596,
-        "date_posted": 1761698596,
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4623642005",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Scale-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -375013,6 +374854,30 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lila Sciences",
+        "id": "6328a189-9c8c-4d76-a8c2-02dc892720ae",
+        "title": "Automation Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782427371,
+        "date_posted": 1782426963,
+        "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4287004009",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lila-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
