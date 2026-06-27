@@ -11056,27 +11056,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "TikTok",
-        "id": "f3d990d7-b256-4576-899c-22d211d87fce",
-        "title": "Product Strategist Intern - Global Monetization Product and Technology - 2026 Summer - MBA",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761826974,
-        "date_posted": 1761826974,
-        "url": "https://lifeattiktok.com/search/7566369771879958789",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "The Walt Disney Company",
         "id": "63773c8d-36b9-44eb-8c4b-c199ad02659e",
@@ -11092,70 +11071,6 @@
             "Glendale, CA"
         ],
         "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "S&P Global ",
-        "id": "4636825e-13a7-4a24-a009-0b3650b51ed3",
-        "title": "Summer Internship - Collection Platforms & AI",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761943106,
-        "date_posted": 1761826495,
-        "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Summer-Intern_321882-1",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/SP-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "JP Morgan Chase",
-        "id": "b1cc300d-7a4f-45f2-9696-a42ac572f830",
-        "title": "2026 Applied AI/ML Associate Program \u2013 Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1761825793,
-        "date_posted": 1761825793,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210681736",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Emerson Electric",
-        "id": "ab8d3f82-b3a0-45c9-bd2b-e830e7b47f45",
-        "title": "Embedded Software Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1761936420,
-        "date_posted": 1761825810,
-        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25028098",
-        "locations": [
-            "Iowa"
-        ],
-        "company_url": "https://simplify.jobs/c/Emerson-Electric",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -106655,29 +106570,6 @@
         "degrees": [
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Persistent Systems",
-        "id": "7c01c5dc-786b-4b72-9a7e-641825cab8e1",
-        "title": "Intern \u2013 Hardware Engineer - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768374536,
-        "date_posted": 1761825728,
-        "url": "https://careers-persistentsystems.icims.com/jobs/2135/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Persistent-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -365379,7 +365271,7 @@
         "company_name": "Solar Turbines",
         "id": "480b1ffd-7a33-4a90-9d19-fd390e121055",
         "title": "Gas Compressor Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371622,6 +371514,32 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tencent",
+        "id": "2154dbb1-0a02-4ce3-8bc5-6fbe782e9d84",
+        "title": "Research Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1782206305,
+        "date_posted": 1781361437,
+        "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337-1",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
