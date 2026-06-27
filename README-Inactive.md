@@ -23654,7 +23654,7 @@
 <td>Technical Publications Internship - Summer 2026</td>
 <td>Huntsville, AL</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 </tbody>
 </table>
