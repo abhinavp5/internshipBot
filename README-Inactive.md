@@ -7116,7 +7116,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
 <td>Software Engineering Intern - AI</td>
 <td>Seattle, WA</td>
 <td>🔒</td>
@@ -15562,7 +15562,7 @@
 <td>Software Engineering Intern</td>
 <td>Brooklyn, NY</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Box?utm_source=GHList&utm_medium=company">Box</a></strong></td>
@@ -18722,7 +18722,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company">TD Bank</a></strong></td>
+<td>↳</td>
 <td>2026 Summer Internship Program - Platforms & Technology - Software Engineer</td>
 <td>Mt Laurel Township, NJ</td>
 <td>🔒</td>
@@ -26335,35 +26335,35 @@
 <td>Product Owner Intern</td>
 <td>Frisco, TX<br>Bellevue, WA</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>T-Shop Product Development Intern</td>
 <td>Bellevue, WA</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Bio-Techne?utm_source=GHList&utm_medium=company">Bio-Techne</a></strong></td>
 <td>Target Analysis/Antibody Business Unit Product Management Intern</td>
 <td>Minneapolis, MN</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Target Analysis / Antibody Business Unit Product Management Intern</td>
 <td>Denver, CO</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Menasha-Corporation?utm_source=GHList&utm_medium=company">Menasha Corporation</a></strong></td>
 <td>Product Manager Intern - Metal Solutions</td>
 <td>Troy, MI</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Paccar?utm_source=GHList&utm_medium=company">Paccar</a></strong></td>
@@ -26499,7 +26499,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/CIBC?utm_source=GHList&utm_medium=company">CIBC</a></strong></td>
 <td>2026 Summer Intern - Salesforce</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
@@ -36502,7 +36502,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
 <td>Software Engineer Intern - Data Products</td>
 <td>Burbank, CA</td>
 <td>🔒</td>
@@ -41602,7 +41602,7 @@
 <td>Legal and Regulatory Compliance Data Analyst – Co-op/Intern</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Abacus-Insights?utm_source=GHList&utm_medium=company">Abacus Insights</a></strong></td>
@@ -48959,21 +48959,21 @@
 <td>Data Analytics Co-op - Summer 2026</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Genmab?utm_source=GHList&utm_medium=company">Genmab</a></strong></td>
 <td>Programming Intern</td>
 <td>Princeton, NJ</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Bio-Techne?utm_source=GHList&utm_medium=company">Bio-Techne</a></strong></td>
 <td>Marketing Analytics Intern</td>
 <td>Minneapolis, MN<br>Denver, CO</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company">CACI</a></strong></td>
@@ -49788,7 +49788,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
 <td>WDI Project Controls Estimating Intern - FL - Summer/Fall 2026</td>
 <td>Celebration, FL</td>
 <td>🔒</td>
@@ -50236,28 +50236,28 @@
 <td>5mo</td>
 </tr>
 <tr>
+<td>↳</td>
+<td>Artificial Intelligence Intern</td>
+<td>Arlington, VA</td>
+<td>🔒</td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Artificial Intelligence Intern</td>
+<td>Arlington, VA</td>
+<td>🔒</td>
+<td>5mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/HNTB?utm_source=GHList&utm_medium=company">HNTB</a></strong></td>
-<td>Artificial Intelligence Intern</td>
-<td>Arlington, VA</td>
-<td>🔒</td>
-<td>5mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Artificial Intelligence Intern</td>
-<td>Arlington, VA</td>
-<td>🔒</td>
-<td>5mo</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>Environmental Planning Intern - Summer 2026</td>
 <td>North Charleston, SC</td>
 <td>🔒</td>
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/HNTB?utm_source=GHList&utm_medium=company">HNTB</a></strong></td>
+<td>↳</td>
 <td>Environmental Planning Intern - Summer 2026</td>
 <td>North Charleston, SC</td>
 <td>🔒</td>
@@ -69351,7 +69351,7 @@
 <td>Harnessing Technician Intern - Summer 2026</td>
 <td>Seattle, WA</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Samsung?utm_source=GHList&utm_medium=company">Samsung</a></strong></td>
@@ -70478,7 +70478,7 @@
 <td>Embedded Software Developer – Network/Payload Software Intern - Summer 2026</td>
 <td>SF</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sandisk?utm_source=GHList&utm_medium=company">Sandisk</a></strong></td>
@@ -70971,7 +70971,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
 <td>Intern - Autonomous Driving</td>
 <td><details><summary><strong>5 locations</strong></summary>Milford Charter Twp, MI<br>SF<br>Sunnyvale, CA<br>Mountain View, CA<br>Warren, MI</details></td>
 <td>🔒</td>

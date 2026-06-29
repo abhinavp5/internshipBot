@@ -1037,7 +1037,7 @@
 <td>Automation Co-op</td>
 <td>Cambridge, MA</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4287004009?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6328a189-9c8c-4d76-a8c2-02dc892720ae?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/6624eec0-5300-4435-a8f4-e88cda773305?utm_source=GHList&utm_medium=company">BCBST</a></strong></td>
