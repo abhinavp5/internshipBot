@@ -852,92 +852,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "c31edded-ec7f-41a7-ac46-6ffd5f1ba571",
-        "title": "Research Scientist Intern - Applied Machine Learning-Enterprise",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762172264,
-        "date_posted": 1762172264,
-        "url": "https://jobs.bytedance.com/en/position/7560845492122323253/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Micron Technology",
-        "id": "37788686-d879-4c54-bbfd-86843dabba9a",
-        "title": "Intern \u2013 ASIC Architect",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762171550,
-        "date_posted": 1762171550,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---ASIC-Architect_JR84107",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lambda",
-        "id": "36c300a1-652b-4796-ae60-11dae2daec71",
-        "title": "Machine Learning Research Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762249899,
-        "date_posted": 1762170703,
-        "url": "https://jobs.ashbyhq.com/lambda/264f889c-38f4-42a5-9534-064a9512a3fe/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Lambda",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "KLA",
-        "id": "313bf277-0c21-4ec2-b839-c6fd7cfb4ea0",
-        "title": "Applications Development Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762169952,
-        "date_posted": 1762169952,
-        "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Applications-Development-Intern_2532279-1",
-        "locations": [
-            "Milpitas, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/KLA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Layup Parts",
         "id": "c4a9beb0-b616-4c71-a7ec-ea8276002b31",
@@ -67901,29 +67815,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Westwood",
-        "id": "d6c2c7ac-207b-4ab6-b8e6-54d3dfbfabd7",
-        "title": "Civil Engineering Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766743880,
-        "date_posted": 1762170650,
-        "url": "https://careers-westwoodps.icims.com/jobs/7170/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Westwood",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "date_updated": 1766764298,
@@ -277125,7 +277016,7 @@
         "company_name": "Pennsylvania State University",
         "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
         "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -314100,7 +313991,7 @@
         "company_name": "SOTI",
         "id": "b2108b78-20bb-4950-b769-4d3f0cfd7ebe",
         "title": "Software Developer in Test Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -317572,7 +317463,7 @@
         "company_name": "University of Arkansas",
         "id": "7e07e58f-d061-44dd-bc0d-25fe3939a580",
         "title": "Student Research Assistant-2",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -331873,7 +331764,7 @@
         "company_name": "Magna",
         "id": "d700b10f-a687-49f6-bd90-94bd0783aeab",
         "title": "Junior Full Stack Developer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -337509,7 +337400,7 @@
         "company_name": "CHEP",
         "id": "513d3867-26bc-4203-8cd2-ade981572975",
         "title": "FP&A Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -338272,7 +338163,7 @@
         "company_name": "SOTI",
         "id": "eedc3481-24f8-4e24-ab3d-8ae10a4eb5ed",
         "title": "Web Producer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -355966,6 +355857,30 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intel",
+        "id": "7dea03b1-05bd-4605-a42a-103a582bb000",
+        "title": "Facilities Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782904393,
+        "date_posted": 1782770976,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Facilities-Engineering-Undergraduate-Intern_JR0285184",
+        "locations": [
+            "Hillsboro, OR",
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
