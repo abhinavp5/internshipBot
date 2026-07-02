@@ -103845,7 +103845,7 @@
         "company_name": "Tencent",
         "id": "3cf4233b-3b89-4258-991d-1885b771f9e6",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -112250,7 +112250,7 @@
         "company_name": "Boston Consulting Group",
         "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -203481,7 +203481,7 @@
         "company_name": "The Information Lab",
         "id": "ca0e46bd-3d87-4ea3-ae5c-3f8c475e3706",
         "title": "The Data School - Data Analyst Consultant",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -234806,7 +234806,7 @@
         "company_name": "Copart",
         "id": "1727d396-3a35-4e8b-a6b8-3de2b9259352",
         "title": "Technology Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -305585,7 +305585,7 @@
         "company_name": "Advanced Energy",
         "id": "729f884e-638b-4dcb-aac8-3d44f316cac9",
         "title": "Electronics Service Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -317279,7 +317279,7 @@
         "company_name": "Nuro",
         "id": "66c29e94-cb65-4820-82a4-231e68e2c6ef",
         "title": "Vehicle Reliability Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -321903,7 +321903,7 @@
         "company_name": "Magna",
         "id": "06de75c2-cc22-4498-95d5-a96d0f6f920b",
         "title": "Artificial Intelligence Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -325228,7 +325228,7 @@
         "company_name": "Boston Consulting Group",
         "id": "de4dfd42-0ccc-4b2f-87fb-a1c61e683a07",
         "title": "Working Student - BCG Vantage - Insurance",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -328796,7 +328796,7 @@
         "company_name": "Fidelity Investments",
         "id": "8ec64e5f-4755-45a9-ae9e-abd13cd712b0",
         "title": "Undergraduate Software Engineer - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -336997,7 +336997,7 @@
         "company_name": "Duke University",
         "id": "c1b14eaf-e140-4275-b7b5-dee377f8421d",
         "title": "Administrative Intern - Sanford School of Public Policy",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -338281,7 +338281,7 @@
         "company_name": "Picarro",
         "id": "78f19624-1c44-4977-b62e-7f62d90abe71",
         "title": "Product Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -341868,7 +341868,7 @@
         "company_name": "NEC Software Solutions",
         "id": "ce02e9f1-bf39-48b0-a3a9-3e4415bc9f78",
         "title": "Software Developer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -341910,7 +341910,7 @@
         "company_name": "Magna",
         "id": "1734e112-a0d8-49a9-b887-3d1ec517cec8",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -345380,7 +345380,7 @@
         "company_name": "Magna",
         "id": "5baf8620-6e7e-443a-bab5-755a61362095",
         "title": "Infrared Imaging & Algorithms Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -345630,7 +345630,7 @@
         "company_name": "University of Texas at Austin",
         "id": "c864c7db-d0d9-4055-a0b9-080bcf0b2d7f",
         "title": "Course Support - Rhetoric",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -352920,7 +352920,7 @@
         "company_name": "Intel",
         "id": "7dea03b1-05bd-4605-a42a-103a582bb000",
         "title": "Facilities Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -354229,7 +354229,7 @@
         "company_name": "NVIDIA",
         "id": "0317c6ee-8867-463c-899c-dab81eee99b4",
         "title": "PhD Research Intern - System Software and I/O Architecture",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -354657,6 +354657,100 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "5971e10c-96c8-4605-9fe5-6b3de66eb784",
+        "title": "Machine Learning Center of Excellence Intern - NLP",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782983697,
+        "date_posted": 1782983196,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765492",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Oracle",
+        "id": "6bc56f74-fa37-4967-8bfe-dd9785fa6c29",
+        "title": "Data Center Trainee",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1782983341,
+        "date_posted": 1775599777,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/330606",
+        "locations": [
+            "Stamford, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Blackstone",
+        "id": "25b9a125-ee47-46ff-852e-22fb108b21d6",
+        "title": "Blackstone Credit and Insurance \u2013 Quant and Portfolio Analytics Summer Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1782986335,
+        "date_posted": 1782985395,
+        "url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Credit-and-Insurance--Quant-and-Portfolio-Analytics-Summer-Analyst---London-_43819",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Blackstone",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Oracle",
+        "id": "d55da702-839a-42a9-8c4d-a6356630c452",
+        "title": "Customer Solutions Analyst Intern - Ovip",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1782987074,
+        "date_posted": 1779325606,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334388",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
