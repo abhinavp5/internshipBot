@@ -2,196 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Toyota Research Institute",
-        "id": "b7daac34-0a43-4511-bd61-102463daf2e2",
-        "title": "Automated Driving Advanced Development Intern - Machine Learning Research",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762240766,
-        "date_posted": 1762240766,
-        "url": "https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4/apply",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Tenstorrent",
-        "id": "ff19fd26-9c3d-4f2a-9f6f-8e9db2629828",
-        "title": "Physical Design for Machine Learning Intern",
-        "active": true,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762241606,
-        "date_posted": 1762241606,
-        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968215007",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Tenstorrent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Interac",
-        "id": "71b70fa0-02f7-473b-b92a-37da538c7782",
-        "title": "Product Specialist Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1762241103,
-        "date_posted": 1762241103,
-        "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Specialist-Intern_REQ-1989",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Interac",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Interac",
-        "id": "ba1ddec5-a80d-4a3b-8092-e63865caf0f8",
-        "title": "Product Management Intern - Verified",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1762241097,
-        "date_posted": 1762241097,
-        "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Management-Intern--Verified-_REQ-1987",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Interac",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "NVIDIA",
-        "id": "95e75b05-e413-49a9-9ee2-3b648f77a7df",
-        "title": "CPU Compiler Intern - 2026",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762242568,
-        "date_posted": 1762242568,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern---2026_JR2007322",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "KSM",
-        "id": "0babbbab-c98c-4fa9-ab7e-bd9d4218b6b4",
-        "title": "AI & Automation Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762240633,
-        "date_posted": 1762240633,
-        "url": "https://ksmcpa.wd12.myworkdayjobs.com/ksmcareers/job/Indianapolis/AI---Automation-Intern--Summer-2026-_R-100241",
-        "locations": [
-            "Indianapolis, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/KSM",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Tenstorrent",
-        "id": "b70ee37b-cff5-4644-a282-fc170450316c",
-        "title": "Software Intern - AI Compilers",
-        "active": true,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762241606,
-        "date_posted": 1762241606,
-        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968219007",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Tenstorrent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Interac",
-        "id": "972f6ca3-a0d7-4bca-926c-d2e0066d40cd",
-        "title": "Product Intern - Money Movement",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1762241104,
-        "date_posted": 1762241104,
-        "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Intern--Money-Movement-_REQ-1976",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Interac",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Interac",
-        "id": "40cd80e3-7fee-4ad4-9ced-8d303e82cc2e",
-        "title": "Product Management Intern - Verified",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026"
-        ],
-        "date_updated": 1762241105,
-        "date_posted": 1762241105,
-        "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Management-Intern--Verified-_REQ-1979",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Interac",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Robert Bosch Venture Capital",
         "id": "7f293523-ce81-494e-9f56-04d855187676",
         "title": "Undergraduate Placement Year 2025 \u2013 Product Quality Intern",
@@ -112440,7 +112250,7 @@
         "company_name": "Boston Consulting Group",
         "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -306566,7 +306376,7 @@
         "company_name": "MongoDB",
         "id": "34e5f044-5304-4c9e-af40-55a70118657b",
         "title": "Software Engineer Intern - Developer Productivity",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -322093,7 +321903,7 @@
         "company_name": "Magna",
         "id": "06de75c2-cc22-4498-95d5-a96d0f6f920b",
         "title": "Artificial Intelligence Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -343313,7 +343123,7 @@
         "company_name": "Deloitte",
         "id": "f4f6aea6-b621-4eb8-81a1-1ecc91bb291f",
         "title": "Hiring Our Heroes Fellowship - AI & Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -354419,7 +354229,7 @@
         "company_name": "NVIDIA",
         "id": "0317c6ee-8867-463c-899c-dab81eee99b4",
         "title": "PhD Research Intern - System Software and I/O Architecture",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -354774,6 +354584,79 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "bdac1050-d452-49f0-95e7-93ed2722fd24",
+        "title": "Product Solutions and Operations Project Intern - Commerce Ads",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1782972901,
+        "date_posted": 1782972893,
+        "url": "https://lifeattiktok.com/search/7657640284071954741",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "e3120af7-ace0-4475-94c7-4d8fd0dce411",
+        "title": "Hardware System Design Engineer - Apple Vision Pro",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1782972543,
+        "date_posted": 1782972525,
+        "url": "https://jobs.apple.com/en-us/details/200666594",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tenstorrent",
+        "id": "ff19fd26-9c3d-4f2a-9f6f-8e9db2629828",
+        "title": "Machine Learning for Physical Design Intern - CPU/AI Hardware",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1765583620,
+        "date_posted": 1765583620,
+        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968215007",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tenstorrent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
