@@ -328854,7 +328854,7 @@
         "company_name": "Cotiviti",
         "id": "9389e9ee-1fbf-425b-925b-9567f6113a1a",
         "title": "Generative AI Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343148,7 +343148,7 @@
         "company_name": "Optiver",
         "id": "295e9b05-12b6-4484-9232-03e9125287f4",
         "title": "FPGA Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -351265,7 +351265,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "54a62f09-6b6b-48ec-93b6-366e66bcb0cc",
         "title": "Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -353606,7 +353606,7 @@
         "company_name": "Citi",
         "id": "91db4853-adf9-4087-93dc-8182d251fe06",
         "title": "Services Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
