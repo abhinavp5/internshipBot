@@ -2,49 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "FactSet",
-        "id": "9ac61184-d1d9-40fd-a3f4-e2fadb5f2e11",
-        "title": "Junior Research Analyst - FactSet Fundamentals - Diverse Content Teams",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762435107,
-        "date_posted": 1762435107,
-        "url": "https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/India-Hyderabad-DVS-SEZ-1--Orion-B4-FL-78911-Hyderabad---Divyasree-3/Apprentice-Research-Analyst_R29970",
-        "locations": [
-            "Florida",
-            "Hyderabad, Telangana, India"
-        ],
-        "company_url": "https://simplify.jobs/c/FactSet",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Rehiko",
-        "id": "ea0772f9-0840-4ca3-834d-881af00e3c08",
-        "title": "Product Engineering Co-Op Summer 2026 - Rehlko",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762435120,
-        "date_posted": 1762435120,
-        "url": "https://rehlko.wd12.myworkdayjobs.com/Reh/job/SheboyganWI/Product-Engineering-Co-Op-Summer-2026--Rehlko-_R02311",
-        "locations": [
-            "Manitowoc, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Rehiko",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Smith+Nephew",
         "id": "04ecbf39-44a5-4cc0-a14a-e122b9e5d5ab",
         "title": "Intern-Artificial Intelligence Coe Engineer - Pittsburgh - PA",
@@ -124,51 +81,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/University-Health-Network",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Meta",
-        "id": "ce084c78-df6c-41e8-89cd-b85a8c80646f",
-        "title": "Research Scientist Intern - Vision-Language and Embodied AI",
-        "active": false,
-        "terms": [
-            "Winter 2025",
-            "Spring 2025",
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1762434804,
-        "date_posted": 1762434804,
-        "url": "https://www.metacareers.com/jobs/818755384116530",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Meta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Tenstorrent",
-        "id": "231dffe9-ac41-405c-bea5-304cb8da7efc",
-        "title": "Chiplet Security Research Intern",
-        "active": true,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762434507,
-        "date_posted": 1762434507,
-        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4955926007",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Tenstorrent",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -146969,7 +146881,7 @@
         "company_name": "Copart",
         "id": "6ab465b6-9bbd-4003-b0c0-b76c76d4ceaf",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -206568,7 +206480,7 @@
         "company_name": "Tencent",
         "id": "66572abf-79bc-4959-81dc-2d51e16c64a4",
         "title": "Hunyuan Multimodal Reinforcement Learning Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -282920,7 +282832,7 @@
         "company_name": "Tencent",
         "id": "ba133a6e-7d68-423a-a0ab-6235909272c2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -283058,7 +282970,7 @@
         "company_name": "Tencent",
         "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -323240,7 +323152,7 @@
         "company_name": "Intel",
         "id": "806bad6e-8c09-49ad-abad-04b898fa8ff4",
         "title": "Silicon Performance Validation and Characterization Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -324898,7 +324810,7 @@
         "company_name": "Boys Town",
         "id": "d9fcc633-0100-463e-b6d7-1abdfdda5a5f",
         "title": "Artificial Intelligence & Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -325087,7 +324999,7 @@
         "company_name": "Skyscanner",
         "id": "816ebfe9-3db3-4901-8673-2bf1e96e730e",
         "title": "Software Engineering Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -333550,7 +333462,7 @@
         "company_name": "Copart",
         "id": "ecb57e2b-b9a6-4967-9d05-bd9596de3537",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -347044,7 +346956,7 @@
         "company_name": "Copart",
         "id": "dc2f3a9e-bfd2-4ade-a19a-e77dfdcd2301",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -347090,7 +347002,7 @@
         "company_name": "Copart",
         "id": "b5e81d8d-839a-4ffb-b147-0a513ffea0a8",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -351093,7 +351005,7 @@
         "company_name": "Intel",
         "id": "aec3e3cb-1b29-499e-85f5-1be1da41c842",
         "title": "Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -352037,5 +351949,126 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Visa",
+        "id": "b3481e39-bfac-4371-a229-3988483eefff",
+        "title": "3 Applicants Only - Analyst - Visa Consulting and Analytics",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783170596,
+        "date_posted": 1783158437,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Remote---Georgia/Analyst--Visa-Consulting-and-Analytics_REF082904W",
+        "locations": [
+            "Georgia",
+            "Virginia"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD",
+            "JD",
+            "MD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CTGT",
+        "id": "8c8a1f21-e711-48d0-8cec-601018138920",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1783174416,
+        "date_posted": 1783174097,
+        "url": "https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/CTGT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Droyd Robotics",
+        "id": "d423afb4-e4be-41f7-923e-d55ed5e3bddb",
+        "title": "Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783174145,
+        "date_posted": 1783174061,
+        "url": "https://jobs.ashbyhq.com/droyd/fd533fd8-65a7-41eb-bdf0-e75f02e739e9/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Droyd-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Verne Robotics",
+        "id": "5dd5bac7-36ff-4f7d-9bff-a16346ccfa89",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783174145,
+        "date_posted": 1783174066,
+        "url": "https://jobs.ashbyhq.com/Verne%20Robotics/bb78cdd4-449b-49f0-bd10-2c62fc85f83b/application",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verne-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Droyd Robotics",
+        "id": "457f1bf0-10ec-41b5-ab16-bc702e1a0fb4",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783174382,
+        "date_posted": 1783174061,
+        "url": "https://jobs.ashbyhq.com/droyd/8d46ed05-1b38-4c68-938e-f10b4c7d4694/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Droyd-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
