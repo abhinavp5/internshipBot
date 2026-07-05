@@ -27805,7 +27805,7 @@
 <td>2026 Summer Internship Program: US New Product Launches – Intern - Data - Digital & Technology - DD&T</td>
 <td>Cambridge, MA</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Blue-Cross-Blue-Shield-Of-Michigan?utm_source=GHList&utm_medium=company">Blue Cross Blue Shield of Michigan</a></strong></td>
@@ -55347,7 +55347,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
 <td>Wealth Management Data Analyst - 4 - Months</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
@@ -59768,63 +59768,63 @@
 <td>2026 U.S Summer Internship Program: Machine Learning Pipeline Development Intern</td>
 <td>Cambridge, MA</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Summer Internship Program: Documentation & Artificial Intelligence Intern - IT Documentation - AI Projects</td>
 <td>Monroe, GA</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>2026 Summer Internship Program: DD&T Innovation Analyst Intern - Pdt</td>
 <td>Cambridge, MA</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Manufacturing Sciences Statistical Process Control Intern - Statistical Process Control</td>
 <td>Lexington, MA</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Analytical Development Mass Spectrometry Informatics Intern</td>
 <td>Lexington, MA</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>2026 Summer Internship Program: Data & Analytics Engineer Intern</td>
 <td>LA</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>2026 Summer Internship Program: Data Scientist for R&D Quality Intern - </td>
 <td>Lexington, MA</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>2026 Summer Internship Program: Data Digital and Technology – Intern - DD&T</td>
 <td>Vernon Hills, IL</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>2026 Summer Internship Program: Data Analytics Intern</td>
 <td>Lexington, MA</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/State-Street?utm_source=GHList&utm_medium=company">State Street</a></strong></td>
