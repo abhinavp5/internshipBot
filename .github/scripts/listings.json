@@ -1,51 +1,5 @@
 [
     {
-        "date_updated": 1763457815,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://award.co/position?gh_jid=4136568004",
-        "company_name": "Awardco",
-        "title": "Software Test Engineer Intern",
-        "locations": [
-            "Lindon, UT"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "joshuadargan",
-        "id": "4e14846f-a4a5-4cea-97d1-38d02c745116",
-        "date_posted": 1762503407,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763457815,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://www.awardco.com/position?gh_jid=4137112004",
-        "company_name": "Awardco",
-        "title": "UX Design Intern",
-        "locations": [
-            "Lindon, UT"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Product Management",
-        "source": "joshuadargan",
-        "id": "e60cb4f7-46ce-4f43-ad33-944393faec0b",
-        "date_posted": 1762503566,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Wing",
