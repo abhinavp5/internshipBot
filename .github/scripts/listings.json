@@ -207499,7 +207499,7 @@
         "company_name": "KION Group",
         "id": "fe972247-600c-481b-961d-3abad929c277",
         "title": "AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -323803,7 +323803,7 @@
         "company_name": "ServiceNow",
         "id": "e5a173bc-a66a-4551-b190-093e94c657ac",
         "title": "Servicenow Futures Summit Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -325317,7 +325317,7 @@
         "company_name": "ServiceNow",
         "id": "a321ad73-583a-4203-bee3-a9fe75923346",
         "title": "Futures Summit Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -345405,7 +345405,7 @@
         "company_name": "KeyBank",
         "id": "fe57e53f-bdb9-4695-9ea0-f16628645798",
         "title": "Marketing Analytics Analyst Program",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
