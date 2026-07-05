@@ -207499,7 +207499,7 @@
         "company_name": "KION Group",
         "id": "fe972247-600c-481b-961d-3abad929c277",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -295710,7 +295710,7 @@
         "company_name": "Regal Rexnord",
         "id": "f1c88e67-8553-477d-8de8-7eb325c1360a",
         "title": "Lab Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -339514,7 +339514,7 @@
         "company_name": "Magna",
         "id": "efc03c50-2d1e-44d3-be7f-f649e778c10b",
         "title": "Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -345405,7 +345405,7 @@
         "company_name": "KeyBank",
         "id": "fe57e53f-bdb9-4695-9ea0-f16628645798",
         "title": "Marketing Analytics Analyst Program",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -350634,5 +350634,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "American University",
+        "id": "d571bbf2-dce0-4bd7-a661-6ccb7a93f2a6",
+        "title": "Lab Technician - Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783251276,
+        "date_posted": 1783157967,
+        "url": "https://american.wd1.myworkdayjobs.com/au/job/East-Campus-Washington-DC/DaBL-Lab-Technician--Student-_R4402",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
