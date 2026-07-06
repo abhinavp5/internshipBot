@@ -323247,7 +323247,7 @@
         "company_name": "Nokia",
         "id": "e3ae41c7-d6ca-4d08-aa0c-23cd1ac65dec",
         "title": "Silicon Photonics Packaging Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335584,7 +335584,7 @@
         "company_name": "Fife Council",
         "id": "ff4c8623-9696-4e1a-a6a4-baca02c334d6",
         "title": "Systems Developer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -339753,7 +339753,7 @@
         "company_name": "Freeform",
         "id": "97a57670-9a1b-476c-a367-f0f7d91aaf74",
         "title": "Process Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -342429,7 +342429,7 @@
         "company_name": "Celonis",
         "id": "5ca974a6-2cc0-49cd-bb12-af0cf9eb4cfe",
         "title": "Value Engineer Associate - AI-Driven Data Science & Analytics - Orbit Program",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
