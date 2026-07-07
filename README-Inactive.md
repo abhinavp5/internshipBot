@@ -52817,7 +52817,7 @@
 <td>Research Department – Business Outlook Survey Intern</td>
 <td>Philadelphia, PA</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/ASML?utm_source=GHList&utm_medium=company">ASML</a></strong></td>
