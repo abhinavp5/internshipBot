@@ -335668,7 +335668,7 @@
         "company_name": "BP",
         "id": "4d40b569-cf87-4b1f-a4ef-eae54c1efc94",
         "title": "Finance & Risk Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -337920,7 +337920,7 @@
         "company_name": "Continental",
         "id": "341f6a28-e5b1-43f7-8f46-276d37527c38",
         "title": "Engineering Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -342980,7 +342980,7 @@
         "company_name": "T.D. Williamson",
         "id": "5d524d61-6f4c-4222-9378-52e040ca1273",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346360,7 +346360,7 @@
         "company_name": "Copart",
         "id": "60fc68fd-2f1a-4d43-bda7-e5fcd661e9ee",
         "title": "Strategic Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -348452,7 +348452,7 @@
         "company_name": "Everfox",
         "id": "8a6ae31a-c1a1-43a5-8ff4-74c51349664c",
         "title": "Product Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
