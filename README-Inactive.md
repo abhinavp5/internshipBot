@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 10128 Inactive Internship Roles by Category
+### Browse 10129 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3185)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3186)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (759)
 
@@ -92,7 +92,7 @@
 <td>Technology Leadership Program Intern</td>
 <td>Brooklyn Park, MN</td>
 <td>🔒</td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Palo-Alto-Networks?utm_source=GHList&utm_medium=company">Palo Alto Networks</a></strong></td>
@@ -406,6 +406,13 @@
 <td><strong><a href="https://simplify.jobs/c/Harris-Computer?utm_source=GHList&utm_medium=company">Harris Computer</a></strong></td>
 <td>Co-Op Student Developer</td>
 <td>British Columbia, Canada<br>Burnaby, BC, Canada<br>Richmond, BC, Canada</td>
+<td>🔒</td>
+<td>26d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Field-AI?utm_source=GHList&utm_medium=company">Field AI</a></strong></td>
+<td>Field Application Engineer Intern</td>
+<td>Irvine, CA</td>
 <td>🔒</td>
 <td>26d</td>
 </tr>
@@ -20066,7 +20073,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
 <td>Studio Talent Group Intern</td>
 <td>Vancouver, BC, Canada</td>
 <td>🔒</td>
@@ -46579,7 +46586,7 @@
 <td>Machine Learning / Data Science Intern 🎓</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Voyager-Technologies?utm_source=GHList&utm_medium=company">Voyager Technologies</a></strong></td>
@@ -50215,21 +50222,21 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>Artificial Intelligence Intern</td>
-<td>Arlington, VA</td>
-<td>🔒</td>
-<td>5mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Artificial Intelligence Intern</td>
-<td>Arlington, VA</td>
-<td>🔒</td>
-<td>5mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/HNTB?utm_source=GHList&utm_medium=company">HNTB</a></strong></td>
+<td>Artificial Intelligence Intern</td>
+<td>Arlington, VA</td>
+<td>🔒</td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Artificial Intelligence Intern</td>
+<td>Arlington, VA</td>
+<td>🔒</td>
+<td>5mo</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Environmental Planning Intern - Summer 2026</td>
 <td>North Charleston, SC</td>
 <td>🔒</td>
@@ -56821,14 +56828,14 @@
 <td>Data Science Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Mackenzie-Investments?utm_source=GHList&utm_medium=company">Mackenzie Investments</a></strong></td>
 <td>Intern - Data Scientist</td>
 <td>Greater Toronto Area, ON, Canada</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Intuit?utm_source=GHList&utm_medium=company">Intuit</a></strong></td>
@@ -60664,7 +60671,7 @@
 <td>Engineering Intern - Product Development Track</td>
 <td><details><summary><strong>17 locations</strong></summary>West Chester, PA<br>Peoria, IL<br>Houston, TX<br>Flanagan, IL<br>McDonough, GA<br>Fargo, ND<br>Schertz, TX<br>Alpharetta, GA<br>Pittsburgh, PA<br>Rapid City, SD<br>Durant, OK<br>Brooklyn Park, MN<br>Clayton, NC<br>Fort Worth, TX<br>West Lafayette, IN<br>Canadian County, OK<br>Decatur, IL</details></td>
 <td>🔒</td>
-<td>4d</td>
+<td>5d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Baxter-International?utm_source=GHList&utm_medium=company">Baxter International</a></strong></td>
@@ -68157,7 +68164,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Draper?utm_source=GHList&utm_medium=company">Draper</a></strong></td>
 <td>Resilience and Fault Tolerance Intern</td>
 <td>Cambridge, MA</td>
 <td>🔒</td>
@@ -69494,7 +69501,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
+<td>↳</td>
 <td>HW Engineering Support Co-op/Intern</td>
 <td>Canada</td>
 <td>🔒</td>
