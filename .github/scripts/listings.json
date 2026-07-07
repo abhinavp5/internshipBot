@@ -330963,7 +330963,7 @@
         "company_name": "Brent Council",
         "id": "fc2b90ec-1897-40d4-a59a-a4ac2bfa8701",
         "title": "Trading Standards Officer Level 6 Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334210,7 +334210,7 @@
         "company_name": "Illinois Tool Works",
         "id": "f55f2414-48c5-4e3f-a969-c5e914e76320",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
