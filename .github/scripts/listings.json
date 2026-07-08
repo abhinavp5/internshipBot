@@ -340729,7 +340729,7 @@
         "company_name": "TMX Group",
         "id": "9d1b3f92-c2d1-40af-9fb0-c1c0a2f03de9",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342688,7 +342688,7 @@
         "company_name": "University Health Network",
         "id": "d4a5ce13-b4bb-4e3d-aee0-9990fba8db74",
         "title": "Research Technical Assistant - AI and Multimodal Foundation Models",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -346607,7 +346607,7 @@
         "company_name": "Rise8",
         "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
         "title": "Skillbridge Intern - Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -349951,6 +349951,58 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "ca122686-92d2-4b2b-8273-a546c5c21a01",
+        "title": "Field Service Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783491290,
+        "date_posted": 1783490748,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-Apprentice_R4042997-1",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "cf736802-724f-4f8f-874b-185fd97a9f55",
+        "title": "Field Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783491308,
+        "date_posted": 1783490748,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4042988-1",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's",
+            "Certificate"
         ]
     }
 ]
