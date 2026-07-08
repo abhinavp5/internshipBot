@@ -27644,14 +27644,14 @@
 <td>SAMI Intern - Product Manager</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>SAMI Intern - Product Manager - Community Engagement</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/iCapital-Network?utm_source=GHList&utm_medium=company">iCapital Network</a></strong></td>
@@ -70873,7 +70873,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
 <td>Firmware Engineer Intern - Master's Degree 🎓</td>
 <td>Santa Clara, CA</td>
 <td>🔒</td>

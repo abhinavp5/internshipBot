@@ -19296,7 +19296,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Arlington, VA<br>San Diego, CA</td>
 <td>Winter 2025</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -19304,7 +19304,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Arlington, VA<br>San Diego, CA</td>
 <td>Winter 2025</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -19312,7 +19312,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Arlington, VA<br>San Diego, CA</td>
 <td>Winter 2025</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/e9018a18-f399-4722-9811-7b6136d4a44b?utm_source=GHList&utm_medium=company">DataRobot</a></strong></td>
