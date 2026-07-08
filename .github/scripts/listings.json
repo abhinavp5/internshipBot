@@ -305729,7 +305729,7 @@
         "company_name": "University of Arkansas",
         "id": "7e07e58f-d061-44dd-bc0d-25fe3939a580",
         "title": "Student Research Assistant-2",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -316366,7 +316366,7 @@
         "company_name": "PNC Financial Services",
         "id": "f9a84af2-becf-41f5-a24b-ba28dad12682",
         "title": "Graduate Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -316504,7 +316504,7 @@
         "company_name": "FHLBank Topeka",
         "id": "dea0e73b-d3c0-422c-8972-d3e298024b60",
         "title": "Financial Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332830,7 +332830,7 @@
         "company_name": "Pennsylvania State University",
         "id": "df9cfb0a-2665-4639-bfb4-b6b6872f0f82",
         "title": "Research and Development Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -346949,7 +346949,7 @@
         "company_name": "Cerence",
         "id": "ffb41745-2e42-4e1e-a0bc-f617a050a263",
         "title": "Student Worker",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -350022,6 +350022,77 @@
             "St. Louis, MO"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "6fd5f184-953f-41e2-a220-0bc16b7bae48",
+        "title": "Field Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783508496,
+        "date_posted": 1783490748,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer---Apprentice_R4043354-1",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Banner Health",
+        "id": "701f6c67-0790-44a2-98fb-8bcac02b2041",
+        "title": "IT 2 Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783512799,
+        "date_posted": 1783462554,
+        "url": "https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/Intern-IT-II_R4447070",
+        "locations": [
+            "Arizona"
+        ],
+        "company_url": "https://simplify.jobs/c/Banner-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Thales",
+        "id": "f3f6a8a3-c6c4-4a90-9a82-692f247c33fa",
+        "title": "System Integration & Test Integration, Verification, Validation & Qualification Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1783513900,
+        "date_posted": 1783513758,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Cheadle/SI-T-IVVQ-Intern_R0329325-1",
+        "locations": [
+            "Trafford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thales",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
