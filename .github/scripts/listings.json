@@ -234572,7 +234572,7 @@
         "company_name": "VaynerMedia",
         "id": "2c90a7a6-5f26-4e50-a8e4-aa46cb2c01c7",
         "title": "Resident \u2013 Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -314131,7 +314131,7 @@
         "company_name": "Sila Nanotechnologies",
         "id": "2b4f1e37-5081-40ee-a2c4-0040a20556f8",
         "title": "Physics-Based Modeling Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -327763,7 +327763,7 @@
         "company_name": "Tesla",
         "id": "abc9038a-92bb-4e7c-b016-49feb542cb56",
         "title": "Software Engineer Intern - Engineering Automation Software Engineer - Vehicle Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -347954,7 +347954,7 @@
         "company_name": "Pennsylvania State University",
         "id": "1f1ba77e-4231-4e0a-83af-93d4dc3d219e",
         "title": "Research Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -348591,7 +348591,7 @@
         "company_name": "CSL",
         "id": "50289bb2-c07c-4ad3-b05f-27e264769e70",
         "title": "Analytics Co-op - Strategic Forecasting & AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -348635,7 +348635,7 @@
         "company_name": "CSL",
         "id": "513e722c-3aff-4a90-b1d8-29f0c9675acf",
         "title": "Data Science / Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -350012,7 +350012,7 @@
         "company_name": "Banner Health",
         "id": "701f6c67-0790-44a2-98fb-8bcac02b2041",
         "title": "IT 2 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
