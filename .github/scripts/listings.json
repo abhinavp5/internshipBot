@@ -1,219 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "State Street",
-        "id": "032d6824-f2f3-41f2-8dfa-a5bae4bc0e5c",
-        "title": "Corporate Audit Data Analytics Apprentice",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762922908,
-        "date_posted": 1762922908,
-        "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Corporate-Audit-Data--Analytics-Apprentice_R-779872",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/State-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "State Street",
-        "id": "ae5efd4c-2b1a-465a-b61a-cc638bad1699",
-        "title": "Software Engineer Intern - ML/Data Engineer",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1762923660,
-        "date_posted": 1762923660,
-        "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Software-Engineering---ML-Data-Engineer--Internship--Full-Time--Jan---June-2026--Internship_R-779531-1",
-        "locations": [
-            "Princeton, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/State-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Flywheel Digital",
-        "id": "145a352d-9ce6-4194-8bd5-22e8d9837d56",
-        "title": "Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762926362,
-        "date_posted": 1762926362,
-        "url": "https://job-boards.greenhouse.io/flywheelcommercestudents/jobs/4024193008",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Flywheel-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Galactic Resource Advancement Mechanism Technologies Corporation",
-        "id": "0931e6b2-b44d-4141-a4f9-032815712cbe",
-        "title": "PhD Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762926333,
-        "date_posted": 1762926333,
-        "url": "https://job-boards.greenhouse.io/gram/jobs/4009072009",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Galactic-Resource-Advancement-Mechanism",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Flagship Pioneering",
-        "id": "7cf5d340-56c8-4d51-a443-8a0a78c95775",
-        "title": "Pioneering Intelligence ML Co-Op - Agentic AI Team",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762921518,
-        "date_posted": 1762921518,
-        "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8227684002",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/FlagshipPioneering",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "NVIDIA",
-        "id": "f3b8fc78-7533-480d-8328-7fed9d36505b",
-        "title": "Application Engineering Intern - AI for Chemistry and Materials",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762914890,
-        "date_posted": 1762914890,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Application-Engineering-Intern--AI-for-Chemistry-and-Materials---Summer-2026_JR2007587",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Vertex Pharmaceuticals",
-        "id": "884b4cc7-1b49-4a28-9a79-8be9cad1ef98",
-        "title": "Vertex Spring 2026 Co-op - Process Development Data Systems",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1762915398,
-        "date_posted": 1762915398,
-        "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Vertex-Spring-2026-Co-op--Process-Development-Data-Systems_REQ-27090-1",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertex-Pharmaceuticals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Gelber Group",
-        "id": "f3ff93e2-fe68-4980-ac58-77b8e82e49d9",
-        "title": "Algorithmic Trading Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762918093,
-        "date_posted": 1762918093,
-        "url": "https://job-boards.greenhouse.io/gelberhandshake/jobs/4595122006",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/GelberGroup",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ASM Global",
-        "id": "dcfb7425-efa2-4e02-be38-07a823bd678f",
-        "title": "Hospitality and Merchandise Insights Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762915687,
-        "date_posted": 1762915687,
-        "url": "https://asmglobal.wd1.myworkdayjobs.com/careers/job/Remote-USA/Hospitality-and-Merchandise-Insights-Intern_R100117872",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/ASM-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Flagship Pioneering",
-        "id": "7094f375-736a-4997-8c68-a2f5df5f9c59",
-        "title": "Data Scientist Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762917561,
-        "date_posted": 1762917561,
-        "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8212208002",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/FlagshipPioneering",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1763457815,
         "sponsorship": "Other",
         "active": false,
@@ -307,29 +93,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Baxter International",
-        "id": "16ab5de1-8ebe-4443-9aae-91ba403734dc",
-        "title": "R&D Connected Monitoring Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762915577,
-        "date_posted": 1762915577,
-        "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Skaneateles-NY/R---D-Connected-Monitoring-Co-op_JR-191856-1",
-        "locations": [
-            "Auburn, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Baxter-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "AbbVie",
         "id": "0f6a582d-7f1c-44b7-80e4-5c1d2953aaea",
@@ -396,48 +159,6 @@
         "degrees": []
     },
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Goodnotes",
-        "id": "e3cf191d-2947-4fd2-9d1a-1f8a31251f98",
-        "title": "Machine Learning Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762917193,
-        "date_posted": 1762917193,
-        "url": "https://job-boards.greenhouse.io/gntemp/jobs/5674841004",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Goodnotes",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Galactic Resource Advancement Mechanism Technologies Corporation",
-        "id": "067db6df-e1df-40c1-8993-852a5dcba72c",
-        "title": "Research Residency",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762917361,
-        "date_posted": 1762917361,
-        "url": "https://job-boards.greenhouse.io/gram/jobs/4009073009",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Galactic-Resource-Advancement-Mechanism",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1762971307,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": false,
@@ -482,48 +203,6 @@
         "date_posted": 1762971491,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Galactic Resource Advancement Mechanism Technologies Corporation",
-        "id": "d9b3e012-1969-421d-af1c-ef4b2fbac29e",
-        "title": "Prototyping Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1762917352,
-        "date_posted": 1762917352,
-        "url": "https://job-boards.greenhouse.io/gram/jobs/4009062009",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Galactic-Resource-Advancement-Mechanism",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Goodnotes",
-        "id": "44c85850-08ce-48d2-b763-f68423094bee",
-        "title": "Data Analyst Internship - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1762928784,
-        "date_posted": 1762928784,
-        "url": "https://job-boards.greenhouse.io/gntemp/jobs/5674891004",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Goodnotes",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -331054,7 +330733,7 @@
         "company_name": "MFS",
         "id": "c2b287d7-ceef-4839-a8ed-a278eecb18cb",
         "title": "Quantitative Research Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -338594,7 +338273,7 @@
         "company_name": "KeyBank",
         "id": "fe57e53f-bdb9-4695-9ea0-f16628645798",
         "title": "Marketing Analytics Analyst Program",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -343045,7 +342724,7 @@
         "company_name": "Rise8",
         "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
         "title": "Skillbridge Intern - Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -344344,7 +344023,7 @@
         "company_name": "Citadel Securities",
         "id": "b977109a-8e8c-4173-a584-460e709a733f",
         "title": "Quantitative Research Analyst Bachelor's or master's degree Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346660,7 +346339,7 @@
         "company_name": "Draper",
         "id": "fadd801b-b2eb-4bd6-85da-f05b99404d03",
         "title": "Microsystems Integration Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
