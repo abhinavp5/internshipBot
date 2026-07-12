@@ -1,71 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Altera Corporation",
-        "id": "92ca7bcc-7c2c-495d-abaf-95db12205ea5",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763162989,
-        "date_posted": 1763162989,
-        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R01464",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Altera-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Diligent Corporation",
-        "id": "71c6ee13-c91e-4361-a4a1-c12ab9ae2828",
-        "title": "Software Engineer Intern - Platform AI",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763162973,
-        "date_posted": 1763162973,
-        "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/5703326004",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Diligent-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hologic",
-        "id": "6e8f9d2c-a6e9-45f8-ab57-52c5ce4eb103",
-        "title": "Co-Op \u2013 Software Engineering - Surgical",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1763163018,
-        "date_posted": 1763163018,
-        "url": "https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/10344",
-        "locations": [
-            "Marlborough, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Hologic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "National Renewable Energy Laboratory",
         "id": "60b18545-87c0-4d56-a4d2-b38d6dbe5987",
@@ -81,133 +16,6 @@
             "Golden, CO"
         ],
         "company_url": "https://simplify.jobs/c/National-Renewable-Energy-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AbbVie",
-        "id": "ef47db0b-bd8f-4744-a6fd-bf7f29804dea",
-        "title": "Biologics Analytical R&D Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763162754,
-        "date_posted": 1763162754,
-        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990010318456",
-        "locations": [
-            "Waukegan, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/AbbVie",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Shield AI",
-        "id": "9c96a9ea-4c26-4327-bda6-974b09146fde",
-        "title": "Integration & Test Engineering Co-Op - Dallas - TX",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1763162755,
-        "date_posted": 1763162755,
-        "url": "https://jobs.lever.co/shieldai/510e75c8-20c6-4eb3-8aba-6e2ffaedd9d3/apply",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Shield-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Achievers",
-        "id": "376d5781-98fb-4d90-a455-2248883164f7",
-        "title": "Software Engineering Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1763162907,
-        "date_posted": 1763162907,
-        "url": "https://jobs.lever.co/achievers/8d4afb42-3ea1-4f88-acc7-a54168547086/apply",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Achievers",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Volaris Group",
-        "id": "f0153fc4-5630-48a6-89c9-2daca62bbb0c",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763162158,
-        "date_posted": 1763162158,
-        "url": "https://volarisgroup.wd3.myworkdayjobs.com/volaris/job/Canada---Mississauga-ON/Software-Engineer---Internship_R58907-1",
-        "locations": [
-            "Mississauga, ON, Canada",
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Volaris-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Toyota Research Institute",
-        "id": "9a61bf02-26d8-441a-b583-2c75f25ee9a5",
-        "title": "Human Interactive Driving Intern - World Models",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763162595,
-        "date_posted": 1763162595,
-        "url": "https://jobs.lever.co/tri/63d61db3-ac43-4c0d-8b9b-5006e3b92149/apply",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "UiPath",
-        "id": "28b555d5-fd46-41a9-a945-6a8a67893845",
-        "title": "Front-End Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763162274,
-        "date_posted": 1763162274,
-        "url": "https://jobs.ashbyhq.com/uipath/dd678df8-91e3-468f-874e-f669dfc1e668/application",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/UiPath",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -789,90 +597,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Fulton Bank",
-        "id": "b0599cb0-1adc-4ea6-a5a3-5be39761a48c",
-        "title": "Intern-Enterprise Innovation",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1763162735,
-        "date_posted": 1763162735,
-        "url": "https://careers-fult.icims.com/jobs/22826/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Lancaster, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Fulton-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "DNV",
-        "id": "9e4a5a2b-a160-4ee1-ad05-d8e7a152d460",
-        "title": "Data Science Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1763162417,
-        "date_posted": 1763162417,
-        "url": "https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5519",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/DNV",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AbbVie",
-        "id": "42abcc91-b338-4b13-9ab2-00c4df3422e0",
-        "title": "2026 Graph Machine Learning Intern - PhD",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763162757,
-        "date_posted": 1763162757,
-        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990010317624",
-        "locations": [
-            "Waukegan, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/AbbVie",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AGILE Space Industries",
-        "id": "2fc5b3c8-ef21-4135-8c14-7d1744a457eb",
-        "title": "Software Engineer Intern-Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763162273,
-        "date_posted": 1763162273,
-        "url": "https://job-boards.greenhouse.io/agilespaceindustries/jobs/4628882005",
-        "locations": [
-            "Dolores, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/AGILE-Space-Industries",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "National Information Solutions Cooperative (NISC)",
         "id": "2bf4bbe6-155a-4613-b15e-052ed64caccc",
         "title": "Intern \u2013 GIS Implementations",
@@ -887,27 +611,6 @@
             "Lake St Louis, MO"
         ],
         "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-NISC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AbbVie",
-        "id": "e29df7b0-cf01-4c85-8a69-c32dfce77980",
-        "title": "Computational Data Scientist",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763162757,
-        "date_posted": 1763162757,
-        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990010317946",
-        "locations": [
-            "Waukegan, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/AbbVie",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -932,48 +635,6 @@
             "Golden, CO"
         ],
         "company_url": "https://simplify.jobs/c/National-Renewable-Energy-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "UiPath",
-        "id": "e8bbbd58-0c39-4a0b-89eb-ac31d4611be8",
-        "title": "AI Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763162275,
-        "date_posted": 1763162275,
-        "url": "https://jobs.ashbyhq.com/uipath/0ccbab7e-ea2b-4afd-b6f1-a7c6f6fe3ddc/application",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/UiPath",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lightmatter",
-        "id": "5697829f-9331-4b59-b7f6-5ab88d723618",
-        "title": "Chip Firmware & Data Analytics \u2013 Intern - Boston",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763162339,
-        "date_posted": 1763162339,
-        "url": "https://boards.greenhouse.io/lightmatter/jobs/4982611008",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lightmatter",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -8788,27 +8449,6 @@
             "St. John's, NL, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Standard-Aero",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Fulton Bank",
-        "id": "3e60803e-6bfc-43b4-867b-71f9a99e9c87",
-        "title": "Intern-Enterprise Architecture",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1763724459,
-        "date_posted": 1763162736,
-        "url": "https://careers-fult.icims.com/jobs/22827/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Lancaster, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Fulton-Bank",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -41961,27 +41601,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Mercury Insurance",
-        "id": "32e2e1ce-694a-424f-9740-be697cd81c51",
-        "title": "Personal Lines Product Intern National",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766024462,
-        "date_posted": 1763162166,
-        "url": "https://careers-mercuryinsurance.icims.com/jobs/5930/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mercury-Insurance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "ASML",
         "id": "f153b6a1-2724-4f10-8235-60e15e5829a9",
@@ -52570,27 +52189,6 @@
         "url": "https://jobs.smartrecruiters.com/AbbVie/3743990010808736",
         "locations": [
             "Waukegan, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/AbbVie",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AbbVie",
-        "id": "a5cda7bd-0d20-423e-961b-e5c7a69d1584",
-        "title": "Statistics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763162754,
-        "date_posted": 1763162754,
-        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990010808715",
-        "locations": [
-            "San Bruno, CA"
         ],
         "company_url": "https://simplify.jobs/c/AbbVie",
         "is_visible": true,
@@ -72804,29 +72402,6 @@
             "Bachelor's",
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Valkyrie Trading",
-        "id": "ff170527-cc0e-4f33-8363-80e787fa25af",
-        "title": "May 2026 Trading Boot Camp",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1763162140,
-        "date_posted": 1763162140,
-        "url": "https://jobs.lever.co/valkyrietrading/9c960962-c628-4aa5-9343-82c545476da0/apply",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Valkyrie-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
