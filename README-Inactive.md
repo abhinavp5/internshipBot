@@ -59127,7 +59127,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
+<td>↳</td>
 <td>Relationship Manager Business Markets</td>
 <td>Saint John, NB, Canada</td>
 <td>🔒</td>
