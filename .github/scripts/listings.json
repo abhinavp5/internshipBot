@@ -1,76 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Cerity Partners",
-        "id": "c944c772-6e18-4519-9ecc-a76f21818f9b",
-        "title": "Investment Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763191406,
-        "date_posted": 1763191406,
-        "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Austin-TX/Investment-Analyst-Intern_R370",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Cerity-Partners",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Blue Shield of California",
-        "id": "4862fe95-7e99-4429-a9ed-7507b2b1e776",
-        "title": "Data Full Stack Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763191656,
-        "date_posted": 1763191656,
-        "url": "https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/20252172",
-        "locations": [
-            "Redding, CA",
-            "Long Beach, CA",
-            "Rancho Cordova, CA",
-            "Galt, CA",
-            "Canoga Park, LA",
-            "Oakland, CA",
-            "El Dorado Hills, CA",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Blue-Shield-Of-California",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Nestle",
-        "id": "058722ea-99ca-4b19-8aea-62a819e05be8",
-        "title": "Nestl\u00e9 Professional Product Development Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763192097,
-        "date_posted": 1763192097,
-        "url": "https://jobdetails.nestle.com/job/Solon-Nestl%C3%A9-Professional-Product-Development-Intern-OH-44139/1253953901/?ats=successfactors",
-        "locations": [
-            "Solon, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Nestle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "American Express",
         "id": "daa3f03b-2c5d-4730-88bf-77518740a737",
@@ -170,72 +100,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Meta",
-        "id": "5a9136bc-93bd-4566-af09-86720a1947e1",
-        "title": "Research Scientist Intern - Eye Tracking and Health - PhD",
-        "active": false,
-        "terms": [
-            "Winter 2025",
-            "Spring 2025",
-            "Summer 2025",
-            "Fall 2025"
-        ],
-        "date_updated": 1763192614,
-        "date_posted": 1763192614,
-        "url": "https://www.metacareers.com/jobs/1512180363340183",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Meta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Nestle",
-        "id": "3acd269f-b435-4a66-b829-c19ae2cbe78c",
-        "title": "Nespresso Product Marketing Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1763192163,
-        "date_posted": 1763192163,
-        "url": "https://jobdetails.nestle.com/job/New-York-Nespresso-Product-Marketing-Intern-NY-10001/1267476701/?ats=successfactors",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Nestle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Gusto",
-        "id": "2318ce86-2185-4f1c-892d-cc6fb80959eb",
-        "title": "Product Management Intern - Summer 2026 - Master\u2019s/MBA",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763192467,
-        "date_posted": 1763192467,
-        "url": "https://job-boards.greenhouse.io/gusto/jobs/7374311",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Gusto",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -70069,27 +69933,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Legrand",
-        "id": "2fcdb5b2-3237-488b-b786-92839a98d798",
-        "title": "Software Developer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768443880,
-        "date_posted": 1763191679,
-        "url": "https://jobs-legrand.icims.com/jobs/9755/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Carlsbad, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Legrand",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -307980,7 +307823,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "5d6d7dc9-642a-4e6e-85dc-94e769a60939",
         "title": "Relationship Manager Business Markets Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -333768,7 +333611,7 @@
         "company_name": "Mackenzie Investments",
         "id": "6e10494e-9f9e-403a-b4f7-8429fef82c51",
         "title": "Quantitative Research Intern - Investment Management - Multi-Asset Allocation",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -342717,6 +342560,29 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Octaura",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "M&T Bank",
+        "id": "aa21a374-ee42-473d-9242-410e327ad5e3",
+        "title": "Technology Development Program",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1783923031,
+        "date_posted": 1783900800,
+        "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program_R88051",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/M-And-T-Bank",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
