@@ -78258,7 +78258,7 @@
         "company_name": "Schroders",
         "id": "5c4d47ee-f4a9-4601-a061-d7b6d7cfac50",
         "title": "2026 Product Development Apprenticeship Programme",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -244135,7 +244135,7 @@
         "company_name": "Tessera Labs",
         "id": "5023b582-d7cc-49cf-9ae0-49dca04f35b1",
         "title": "Software Engineering Intern - Frontend",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -282302,7 +282302,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "5a584c30-3ce0-47db-9704-8a23896e8742",
         "title": "Deployed Hardware Engineer/Analyst Emerging Talent Intern - Automatic Vehicle Location",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -343500,7 +343500,7 @@
         "company_name": "Pennsylvania State University",
         "id": "02652f5c-1ceb-45fc-8191-d87378a09761",
         "title": "Undergraduate Researcher in Multi-Agent Reinforcement Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
