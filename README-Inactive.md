@@ -17837,14 +17837,14 @@
 <td>Enterprise Solutions Software Engineer Intern/Co-op</td>
 <td>Victoria, BC, Canada</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineering – Co-op/Internship - Miits - Summer & Fall 2026</td>
 <td>Victoria, BC, Canada</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Northrop-Grumman?utm_source=GHList&utm_medium=company">Northrop Grumman</a></strong></td>
