@@ -76994,7 +76994,7 @@
         "company_name": "TENEX.AI",
         "id": "214f12da-7d0d-4625-96b9-108cc4ed94ce",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -303297,7 +303297,7 @@
         "company_name": "SHEIN",
         "id": "63062f36-5cde-4017-a806-571bd44c6087",
         "title": "Database Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -315953,7 +315953,7 @@
         "company_name": "Solink",
         "id": "45798e16-2cea-4d21-91df-f4c604c2e02b",
         "title": "Software Engineer Co-op - R&D- Data Integrations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -337166,7 +337166,7 @@
         "company_name": "CTGT",
         "id": "8c8a1f21-e711-48d0-8cec-601018138920",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -338990,7 +338990,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "795fc727-866d-4aee-b2f7-e8967b3e4d76",
         "title": "Off Cycle Intern - Aiden Edge",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343548,7 +343548,7 @@
         "company_name": "Citadel Securities",
         "id": "cf82e4db-1a59-498c-9b80-c974a34e8bed",
         "title": "Sector Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -344745,6 +344745,210 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ignite Digital Services",
+        "id": "d7042ff9-73e7-4c5a-bc41-551e7b2533b7",
+        "title": "Engineer/Scientist Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784071624,
+        "date_posted": 1784068485,
+        "url": "https://ignite-digital.com/careers/job-listings/?gh_jid=5348498008",
+        "locations": [
+            "Chesapeake, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ignite-Digital-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Five Rings Capital",
+        "id": "589e122b-8999-49a6-8442-c90ddb3b04bf",
+        "title": "Quantitative Trader Intern - Quantitative Trader",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784071836,
+        "date_posted": 1784068201,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Five-Rings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Five Rings Capital",
+        "id": "14baa8ae-f151-483f-b5e0-77ca5086d04e",
+        "title": "Software Developer Intern - Software Developer",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784071838,
+        "date_posted": 1784068202,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Five-Rings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Custom Computer Specialists",
+        "id": "c3433d6a-bf30-4d16-8e0f-5126b09236cf",
+        "title": "Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1784071624,
+        "date_posted": 1784068262,
+        "url": "https://job-boards.greenhouse.io/customcomputerspecialists/jobs/4221846009",
+        "locations": [
+            "Long Island, New York"
+        ],
+        "company_url": "https://simplify.jobs/c/Custom-Computer-Specialists",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Five Rings Capital",
+        "id": "25634961-9424-41ec-9553-925a6e400699",
+        "title": "Quantitative Researcher Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784071838,
+        "date_posted": 1784068201,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Five-Rings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "General Atlantic",
+        "id": "a7fdba37-efe3-4ac2-b779-bbc47aa7daee",
+        "title": "Investment Analyst",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784071790,
+        "date_posted": 1784067687,
+        "url": "https://job-boards.greenhouse.io/generalatlantic/jobs/6115031004",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Atlantic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Formlabs",
+        "id": "0acde240-8d95-48ba-9f67-ea228b4cbb22",
+        "title": "Test Software Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784071798,
+        "date_posted": 1784067787,
+        "url": "https://careers.formlabs.com/job/8065543/apply/?gh_jid=8065543",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Chevron Corporation",
+        "id": "0753b1d0-7af4-4aa8-b9b9-96efa8cde209",
+        "title": "Earth Scientist",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784078408,
+        "date_posted": 1783987200,
+        "url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Earth-Scientist-Full-Time_R000072410",
+        "locations": [
+            "Houston, TX",
+            "Covington, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chevron-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Chevron Corporation",
+        "id": "b04c4e51-4f94-4c79-b9eb-dd688af11a82",
+        "title": "Earth Science Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784077700,
+        "date_posted": 1783987200,
+        "url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Earth-Science-Intern_R000072409",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Chevron-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
