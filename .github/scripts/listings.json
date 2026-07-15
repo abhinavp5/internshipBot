@@ -76994,7 +76994,7 @@
         "company_name": "TENEX.AI",
         "id": "214f12da-7d0d-4625-96b9-108cc4ed94ce",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -282962,7 +282962,7 @@
         "company_name": "Tesla",
         "id": "476c1940-e6f7-4c8b-ac8c-d04259a2bac7",
         "title": "Software Engineer Intern - Integration Tools",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -301064,7 +301064,7 @@
         "company_name": "Rocket Lab USA",
         "id": "37998569-3501-402e-baa5-4dcdbf1b7bae",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -315953,7 +315953,7 @@
         "company_name": "Solink",
         "id": "45798e16-2cea-4d21-91df-f4c604c2e02b",
         "title": "Software Engineer Co-op - R&D- Data Integrations",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -337166,7 +337166,7 @@
         "company_name": "CTGT",
         "id": "8c8a1f21-e711-48d0-8cec-601018138920",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -344149,7 +344149,7 @@
         "company_name": "Kulicke & Soffa",
         "id": "66f8c5dd-ab2d-449d-a8d3-aafde4c1acc9",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
