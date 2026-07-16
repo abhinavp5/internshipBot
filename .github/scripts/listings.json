@@ -1,69 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Keysight Technologies",
-        "id": "ba87fff5-dbdc-4671-b5ae-17ec821c78b3",
-        "title": "Product Support Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1763456957,
-        "date_posted": 1763456957,
-        "url": "https://jobs.keysight.com/jobs/50841?lang=en-us&icims=1",
-        "locations": [
-            "Santa Rosa, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Quadrature Capital",
-        "id": "99334c0c-6b37-4975-903e-f417e07425ff",
-        "title": "Internships",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763457129,
-        "date_posted": 1763457129,
-        "url": "https://job-boards.greenhouse.io/quadraturecapital/jobs/4255974",
-        "locations": [
-            "London, UK",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Quadrature-Capital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Major League Baseball",
-        "id": "3357356f-365f-4582-b19c-a675347f8fd0",
-        "title": "Organizational Intern - Baseball Operations Analyst",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763455215,
-        "date_posted": 1763455215,
-        "url": "https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7529085003",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/MLB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1763624635,
         "sponsorship": "Other",
         "active": false,
@@ -68376,32 +68312,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Metropolitan-Transportation-Authority",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Major League Baseball",
-        "id": "3e6c6676-620d-4ed3-b372-fd8020e224c5",
-        "title": "Video & Technology Associate",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1763455222,
-        "date_posted": 1763455222,
-        "url": "https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7327636003",
-        "locations": [
-            "Allentown, PA",
-            "Lakewood, NJ",
-            "Reading, PA",
-            "Clearwater, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/MLB",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -276636,7 +276546,7 @@
         "company_name": "Gemini",
         "id": "33d49b99-ffcc-4d51-ab65-58a97d2afbf0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -321151,7 +321061,7 @@
         "company_name": "Magna",
         "id": "1734e112-a0d8-49a9-b887-3d1ec517cec8",
         "title": "Systems Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -330119,7 +330029,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "6470fc04-154d-4d53-9a4c-9f69aaba3aaf",
         "title": "Quantitative Systematic Trader",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -339032,7 +338942,7 @@
         "company_name": "GE Healthcare",
         "id": "037d7693-e6be-486d-b4bd-d7dff6960ce4",
         "title": "Field Service Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -339087,7 +338997,7 @@
         "company_name": "GE Healthcare",
         "id": "27cd0b35-4964-4f9e-95d3-2968a5776184",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -342588,7 +342498,7 @@
         "company_name": "Stevens Institute of Technology",
         "id": "11d17a2f-e586-4645-a6e2-8bcbfe2f70b3",
         "title": "Research Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -343210,7 +343120,7 @@
         "company_name": "Magna",
         "id": "2f90e215-8e95-40b5-9d86-deff1dbd0598",
         "title": "Weld Technician",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -344344,5 +344254,56 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Optiver",
+        "id": "56965bf6-c164-4f90-8d38-c6ccc6fdcd9a",
+        "title": "Trading Automation and Operations Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784192941,
+        "date_posted": 1784192914,
+        "url": "https://www.optiver.com/join-us/jobs/8489582002/?gh_jid=8489582002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "4483e436-40a3-47b2-b54d-3bb6048b787d",
+        "title": "Client Service Technician Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784193453,
+        "date_posted": 1783519495,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043115-1",
+        "locations": [
+            "Charleston, WV"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's",
+            "Certificate"
+        ]
     }
 ]
