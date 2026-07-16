@@ -192353,7 +192353,7 @@
         "company_name": "KION Group",
         "id": "fe972247-600c-481b-961d-3abad929c277",
         "title": "AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -291165,7 +291165,7 @@
         "company_name": "SOTI",
         "id": "764b243c-75c2-4c30-a3b0-4b86543639ed",
         "title": "Product Manager Intern - Sales Enablement Products",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -302970,7 +302970,7 @@
         "company_name": "thyssenkrupp",
         "id": "bd01268d-018b-42de-992a-fbdb6d74c2c0",
         "title": "Trader Trainee",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -322924,7 +322924,7 @@
         "company_name": "RELX",
         "id": "52befd31-d887-47a2-8651-4b8574c2d880",
         "title": "Software Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -326047,7 +326047,7 @@
         "company_name": "Baker Hughes",
         "id": "fb992b23-820c-466a-a892-242e64f92f4a",
         "title": "Mechanical Production Engineering Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -326068,7 +326068,7 @@
         "company_name": "Baker Hughes",
         "id": "81eeb1c2-13ff-4cd9-a612-91cfcaa4cfed",
         "title": "Software Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -330119,7 +330119,7 @@
         "company_name": "KeyBank",
         "id": "fe57e53f-bdb9-4695-9ea0-f16628645798",
         "title": "Marketing Analytics Analyst Program",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -330280,7 +330280,7 @@
         "company_name": "Copart",
         "id": "b5e81d8d-839a-4ffb-b147-0a513ffea0a8",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -339560,7 +339560,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
         "title": "Editorial Data Reporting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -340791,7 +340791,7 @@
         "company_name": "U.S. Bank",
         "id": "d39e516b-ae65-4cf9-9970-b8daf6d787ef",
         "title": "Mainframe Software Engineering Apprentice 2",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -342143,7 +342143,7 @@
         "company_name": "Cincinnati Children\u2019s Hospital and Medical Center",
         "id": "fcd24d2e-1552-4b2e-a939-87596e9177ce",
         "title": "Student 2 - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -342519,7 +342519,7 @@
         "company_name": "NextGen Federal Systems",
         "id": "d557630f-831a-471f-a70b-deeebe4ca3a6",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -343662,7 +343662,7 @@
         "company_name": "Copart",
         "id": "95db5bec-3f24-4913-816e-bfabc131f401",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -343955,7 +343955,7 @@
         "company_name": "Tencent",
         "id": "fbb72559-8ab8-44a7-b199-5fa04ec5a879",
         "title": "Research Intern - Video World Models - Research & ML Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -344351,6 +344351,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Solar Turbines",
+        "id": "f35a104f-8aa2-4e17-9c25-aec1fe42185e",
+        "title": "Gas Turbine Products Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1784209221,
+        "date_posted": 1784160000,
+        "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027--Gas-Turbine-Product-Engineering-Internship_R0000382293",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Solar-Turbines",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
