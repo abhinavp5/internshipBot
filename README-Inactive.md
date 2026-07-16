@@ -8205,14 +8205,14 @@
 <td>Technology Intern</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Technology Engineering Intern</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Creatify-Lab?utm_source=GHList&utm_medium=company">Creatify Lab </a></strong></td>
@@ -36821,7 +36821,7 @@
 <td>Data Intern</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TRUMPF?utm_source=GHList&utm_medium=company">TRUMPF</a></strong></td>
