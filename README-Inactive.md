@@ -26408,7 +26408,7 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company">TD Bank</a></strong></td>
+<td>↳</td>
 <td>Everyday Savings & Investing – Everyday Advice Journey Co-op/Intern - Everyday Savings & Investing - Summer 2026</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
@@ -41227,7 +41227,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/62df3370-bf7b-46b7-8619-e32dcd7d3fb3?utm_source=GHList&utm_medium=company">Vantage Data Centers</a></strong></td>
+<td>↳</td>
 <td>Design Management Intern Tool Development</td>
 <td>Denver, CO</td>
 <td>🔒</td>
@@ -44615,7 +44615,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
+<td>↳</td>
 <td>ABC Owned TV Stations Data Analytics Intern - Summer/Fall 2026</td>
 <td>Glendale, CA</td>
 <td>🔒</td>
@@ -47296,7 +47296,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Johnson-Johnson?utm_source=GHList&utm_medium=company">Johnson & Johnson</a></strong></td>
+<td>↳</td>
 <td>AI/ML Summer Intern - Statistics & Decision Sciences - Sds</td>
 <td>Paris, France<br>High Wycombe, UK</td>
 <td>🔒</td>
@@ -48388,7 +48388,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
+<td>↳</td>
 <td>ABC Research Insights & Analytics Intern</td>
 <td>Burbank, CA</td>
 <td>🔒</td>
@@ -56208,7 +56208,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company">Microsoft</a></strong></td>
+<td>↳</td>
 <td>Research Intern - Deep Learning Group</td>
 <td>Redmond, WA</td>
 <td>🔒</td>
@@ -64657,7 +64657,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Boeing?utm_source=GHList&utm_medium=company">The Boeing Company</a></strong></td>
+<td>↳</td>
 <td>Millennium Space Systems Summer 2026 Internship Program - Assembly - Test','And Launch','Atlo','Operations</td>
 <td>El Segundo, CA</td>
 <td>🔒</td>
@@ -66911,7 +66911,7 @@
 <td>5mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
+<td>↳</td>
 <td>WDI Illusion Maker – Surface Development Intern</td>
 <td>Glendale, CA</td>
 <td>🔒</td>
@@ -68976,7 +68976,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Northrop-Grumman?utm_source=GHList&utm_medium=company">Northrop Grumman</a></strong></td>
+<td>↳</td>
 <td>Computer Engineer Intern</td>
 <td>Beavercreek, OH</td>
 <td>🔒</td>
