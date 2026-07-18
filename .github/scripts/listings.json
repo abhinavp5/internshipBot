@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Red Bull",
-        "id": "34f4e390-fe61-4b1c-9868-30c0c5cdf602",
-        "title": "On Premise Apprentice FTC Months",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1763640839,
-        "date_posted": 1763640839,
-        "url": "https://jobs.smartrecruiters.com/RedBull/744000094387754",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Red-Bull",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Veolia",
         "id": "b9591b92-d3a7-49b4-a30a-4a7a7e81a8ad",
         "title": "Engineering Instrumentation Intern",
@@ -305984,7 +305963,7 @@
         "company_name": "Magna",
         "id": "d700b10f-a687-49f6-bd90-94bd0783aeab",
         "title": "Junior Full Stack Developer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -307814,7 +307793,7 @@
         "company_name": "American University",
         "id": "5b4ae178-0df3-49c7-af71-0631e6c99728",
         "title": "Graduate Event Data Assistant - Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -323438,7 +323417,7 @@
         "company_name": "Magna",
         "id": "47c8f8b7-82f7-465e-b6ca-9d1565be305c",
         "title": "Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -335957,7 +335936,7 @@
         "company_name": "GE Healthcare",
         "id": "6fd5f184-953f-41e2-a220-0bc16b7bae48",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -337219,7 +337198,7 @@
         "company_name": "Pylon",
         "id": "f0aadc2c-2a47-404c-bc18-f3863ab3e456",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -337796,7 +337775,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "9de0cd3c-8069-46b0-8a3f-21a2cf350daa",
         "title": "Software Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -337817,7 +337796,7 @@
         "company_name": "RELX",
         "id": "d0fe3c23-78d8-4f8b-a69a-17d72eaa5eb2",
         "title": "Software Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -340786,7 +340765,7 @@
         "company_name": "McKesson",
         "id": "7c8d7a9c-df34-4d65-8b76-da3a59cdb9bc",
         "title": "AI & Strategic Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -342246,7 +342225,7 @@
         "company_name": "GE Healthcare",
         "id": "4483e436-40a3-47b2-b54d-3bb6048b787d",
         "title": "Client Service Technician Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
