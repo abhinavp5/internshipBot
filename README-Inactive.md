@@ -26846,7 +26846,7 @@
 <td>Construction Technologies Intern</td>
 <td>McKinney, TX<br>Tampa, FL<br>Fort Lauderdale, FL</td>
 <td>🔒</td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Travelers?utm_source=GHList&utm_medium=company">Travelers</a></strong></td>
