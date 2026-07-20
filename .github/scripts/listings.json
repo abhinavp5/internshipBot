@@ -65474,99 +65474,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "9606ba12-1151-4b57-9dd0-cf480cb1ecf4",
-        "title": "Part-Time Undergraduate Researcher Narayanan Group",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1763815228,
-        "date_posted": 1763815228,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Undergraduate-Researcher-Narayanan-Group_REQ_0000056170-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "c53f1961-e571-4a77-a084-c5970b120724",
-        "title": "Software Engineer/Principal Software Engineer",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1763812536,
-        "date_posted": 1763812536,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME--DoD-SkillBridge--Software-Engineer-Principal-Software-Engineer_R10198108",
-        "locations": [
-            "Aurora, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "2753bbb8-8695-46ca-9ab3-062953b9c0c0",
-        "title": "Part-Time Research Assistants-Statistics",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1763812052,
-        "date_posted": 1763812052,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistants-Statistics_REQ_0000055596-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Northwestern Mutual",
-        "id": "33863275-2a05-41ff-bedb-8b3c2e3b8867",
-        "title": "Investment Analyst - Private Debt & Equity",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1763809042,
-        "date_posted": 1763809042,
-        "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Analyst---Private-Debt---Equity_JR-40524",
-        "locations": [
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Auctane",
         "id": "9a4bb2dd-90a7-47b4-bbc8-f65bfe3a038b",
         "title": "Data Engineering Intern",
@@ -246002,7 +245909,7 @@
         "company_name": "Pennsylvania State University",
         "id": "e7051c49-c429-4c21-9e2f-c1310a3515f6",
         "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -259028,7 +258935,7 @@
         "company_name": "Tencent",
         "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -273158,7 +273065,7 @@
         "company_name": "Regal Rexnord",
         "id": "f1c88e67-8553-477d-8de8-7eb325c1360a",
         "title": "Lab Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -286403,7 +286310,7 @@
         "company_name": "University of Arkansas",
         "id": "7e07e58f-d061-44dd-bc0d-25fe3939a580",
         "title": "Student Research Assistant-2",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -296949,7 +296856,7 @@
         "company_name": "Leidos",
         "id": "675a9412-93b5-472a-b2b3-fb762ddbcc1a",
         "title": "Reports Officer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -297040,7 +296947,7 @@
         "company_name": "PNC Financial Services",
         "id": "f9a84af2-becf-41f5-a24b-ba28dad12682",
         "title": "Graduate Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -297178,7 +297085,7 @@
         "company_name": "FHLBank Topeka",
         "id": "dea0e73b-d3c0-422c-8972-d3e298024b60",
         "title": "Financial Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -299095,7 +299002,7 @@
         "company_name": "Magna",
         "id": "d507cff6-5d9b-45f2-a806-de4fe7b2e699",
         "title": "Engineering ADAS Perception Features Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -305160,7 +305067,7 @@
         "company_name": "Tencent",
         "id": "f083247a-cf19-43ae-8834-7db704881503",
         "title": "Multimedia Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -327891,7 +327798,7 @@
         "company_name": "Visa",
         "id": "b3481e39-bfac-4371-a229-3988483eefff",
         "title": "3 Applicants Only - Analyst - Visa Consulting and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -330579,7 +330486,7 @@
         "company_name": "GE Healthcare",
         "id": "ca122686-92d2-4b2b-8273-a546c5c21a01",
         "title": "Field Service Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -332793,7 +332700,7 @@
         "company_name": "GE Healthcare",
         "id": "ecd199f5-e642-483c-96ff-7f486862e7ec",
         "title": "Field Service Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -334971,7 +334878,7 @@
         "company_name": "GE Healthcare",
         "id": "913714da-b33d-46f8-89fa-c78911521433",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -337785,7 +337692,7 @@
         "company_name": "GE Healthcare",
         "id": "f7eb1ce6-bd5a-46b6-844d-5b28bcebc3a1",
         "title": "Client Service Technician Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -338715,6 +338622,31 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "ab42be6d-de7a-4175-9360-3aa1b0b3446c",
+        "title": "Surgery Field Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784547835,
+        "date_posted": 1783987200,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice_R4043509",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Certificate"
         ]
     }
 ]
