@@ -81667,7 +81667,7 @@
         "company_name": "GE Appliances",
         "id": "025cdbd3-053c-4ae7-a9b6-7b812684f7ce",
         "title": "Software Engineering Co-op Spring 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -288063,7 +288063,7 @@
         "company_name": "Tencent",
         "id": "395f3030-955c-467e-96f2-92d69de7f491",
         "title": "AI Agent Research & Application Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -298792,7 +298792,7 @@
         "company_name": "Samsung Research America",
         "id": "8e310c90-a96b-4c89-87e2-21f6edcf3b89",
         "title": "Computer Vision/AI Intern - Computer Vision/AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -304518,7 +304518,7 @@
         "company_name": "Tencent",
         "id": "f083247a-cf19-43ae-8834-7db704881503",
         "title": "Multimedia Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -306070,7 +306070,7 @@
         "company_name": "Rippling",
         "id": "0d8819e9-06a6-4bf6-9c18-a00012e17263",
         "title": "Full Stack Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -309172,7 +309172,7 @@
         "company_name": "Zoox",
         "id": "a094bbba-b159-429f-905a-e52b9cadc157",
         "title": "Student Worker Automation & Behavioral Science Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -313695,7 +313695,7 @@
         "company_name": "Centific",
         "id": "33224b22-75a0-49b0-84fb-9dc23b4307ae",
         "title": "Speech Research Intern - Centific AI Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -325445,7 +325445,7 @@
         "company_name": "NVIDIA",
         "id": "cf5b742b-7660-43e5-969b-f4a57b8b9935",
         "title": "Java Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -325903,7 +325903,7 @@
         "company_name": "Blackstone",
         "id": "25b9a125-ee47-46ff-852e-22fb108b21d6",
         "title": "Blackstone Credit and Insurance \u2013 Quant and Portfolio Analytics Summer Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -326585,7 +326585,7 @@
         "company_name": "Rise8",
         "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
         "title": "Skillbridge Intern - Product Manager",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -328457,7 +328457,7 @@
         "company_name": "Jane Street",
         "id": "4770a4e3-28be-40d7-b5a2-700c0307960d",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -328940,7 +328940,7 @@
         "company_name": "Hitachi",
         "id": "a86f5630-f0c3-4242-8953-47503546c39f",
         "title": "Software Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -329611,7 +329611,7 @@
         "company_name": "Amwins",
         "id": "96edf10e-0444-407a-bdcd-f798aedcb75d",
         "title": "Analytics & AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -329842,7 +329842,7 @@
         "company_name": "Rockwell Automation",
         "id": "503be939-a684-4928-96bc-ae4baa9e4e7c",
         "title": "Firmware Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -331482,7 +331482,7 @@
         "company_name": "Aptiv",
         "id": "a62910e6-5d07-4c79-b9be-d6c633815782",
         "title": "Working Student Interior Sensing ML",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -331809,7 +331809,7 @@
         "company_name": "Worcester Polytechnic Institute",
         "id": "0641d192-28a4-4e22-ac57-5ac4fcf90bb8",
         "title": "Research Assistant",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -334329,7 +334329,7 @@
         "company_name": "GE Healthcare",
         "id": "913714da-b33d-46f8-89fa-c78911521433",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -334651,7 +334651,7 @@
         "company_name": "Lumentum",
         "id": "4277f49e-ede5-4c63-8d58-81f59263cd5d",
         "title": "Optical Verification Technician",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -335201,7 +335201,7 @@
         "company_name": "BlackRock",
         "id": "28de39fe-563f-4b16-93f7-5d3bbbb04340",
         "title": "Global Product Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -336858,7 +336858,7 @@
         "company_name": "DNV",
         "id": "94f30519-e919-4254-ba2a-658e89d3d846",
         "title": "AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339206,7 +339206,7 @@
         "company_name": "Odin Dynamics, Inc",
         "id": "7e9c41e0-72f6-4e65-8150-4a44cf26d415",
         "title": "Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -339230,7 +339230,7 @@
         "company_name": "Fab2",
         "id": "e33c66b9-051d-4401-813b-71a5197aa622",
         "title": "Rust Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341786,6 +341786,31 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "BlackEdge Capital",
+        "id": "3a7da9d0-4f05-439f-bde1-b9fca696577d",
+        "title": "Quantitative Trader Intern",
+        "active": true,
+        "terms": [
+            "Winter 2028",
+            "Spring 2028",
+            "Summer 2028"
+        ],
+        "date_updated": 1784654462,
+        "date_posted": 1784644821,
+        "url": "https://job-boards.greenhouse.io/blackedgecapital/jobs/4703820005",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackEdge-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
