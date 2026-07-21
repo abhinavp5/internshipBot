@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 9795 Inactive Internship Roles by Category
+### Browse 9781 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3091)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3082)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (718)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (4407)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (4402)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (134)
 
@@ -186,34 +186,6 @@
 <td>19d</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>Software Engineer Intern 🎓</td>
-<td>California</td>
-<td>🔒</td>
-<td>19d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Software Engineer Intern 🎓</td>
-<td>California</td>
-<td>🔒</td>
-<td>19d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Software Engineer Intern</td>
-<td>California</td>
-<td>🔒</td>
-<td>19d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Software Engineer Intern</td>
-<td>California</td>
-<td>🔒</td>
-<td>19d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/AssetWorks?utm_source=GHList&utm_medium=company">AssetWorks</a></strong></td>
 <td>Software Development Intern - Engineering Team - React Native</td>
 <td>Texas</td>
@@ -375,13 +347,6 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/RELX?utm_source=GHList&utm_medium=company">RELX</a></strong></td>
-<td>Software Engineer Apprentice</td>
-<td>Southampton, UK</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Cubic?utm_source=GHList&utm_medium=company">Cubic</a></strong></td>
 <td>Software Engineering & Automation Intern</td>
 <td>Reston, VA</td>
@@ -420,13 +385,6 @@
 <td><strong><a href="https://simplify.jobs/c/UL-Solutions?utm_source=GHList&utm_medium=company">UL Solutions</a></strong></td>
 <td>Software Development Intern</td>
 <td>Fremont, CA</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Synchrony-Financial?utm_source=GHList&utm_medium=company">Synchrony Financial</a></strong></td>
-<td>Technology Intern - Technology</td>
-<td>Stamford, CT</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -662,13 +620,6 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Copart?utm_source=GHList&utm_medium=company">Copart</a></strong></td>
-<td>Software Engineer Intern</td>
-<td>Dallas, TX</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Bank-Of-America?utm_source=GHList&utm_medium=company">Bank of America</a></strong></td>
 <td>Global Tech Apprentice - Software Engineer</td>
 <td>Charlotte, NC<br>Lawrence Township, NJ</td>
@@ -742,20 +693,6 @@
 <td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
 <td>Software Developer Intern</td>
 <td>St. Louis, MO</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/GE-Vernova?utm_source=GHList&utm_medium=company">GE Vernova</a></strong></td>
-<td>Grid Automation & Software Intern</td>
-<td>United States</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Grid Automation & Software Intern</td>
-<td>United States</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -12398,7 +12335,7 @@
 <td>Online Portals & Next Gen Platforms – Intern - Opng</td>
 <td>Greensboro, NC</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/American-Express?utm_source=GHList&utm_medium=company">American Express</a></strong></td>
@@ -19338,14 +19275,14 @@
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company">TD Bank</a></strong></td>
 <td>2026 Summer Internship Program - Platforms & Technology - Software Engineer</td>
 <td>Mt Laurel Township, NJ</td>
 <td>🔒</td>
 <td>6mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/TD-Bank?utm_source=GHList&utm_medium=company">TD Bank</a></strong></td>
+<td>↳</td>
 <td>Software Developer Intern/Co-op</td>
 <td>Toronto, ON, Canada</td>
 <td>🔒</td>
@@ -19489,7 +19426,7 @@
 <td>Software Development Intern</td>
 <td>Bismarck, ND</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NTConcepts?utm_source=GHList&utm_medium=company">NT Concepts</a></strong></td>
@@ -20997,7 +20934,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Marmon-Holdings?utm_source=GHList&utm_medium=company">Marmon Holdings</a></strong></td>
+<td>↳</td>
 <td>Engineering Intern</td>
 <td>Decatur, AL</td>
 <td>🔒</td>
@@ -26863,13 +26800,6 @@
 <td>15d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Moss-And-Associates?utm_source=GHList&utm_medium=company">Moss & Associates</a></strong></td>
-<td>Construction Technologies Intern</td>
-<td>McKinney, TX<br>Tampa, FL<br>Fort Lauderdale, FL</td>
-<td>🔒</td>
-<td>17d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/University-Of-Maryland-College-Park?utm_source=GHList&utm_medium=company">University of Maryland - College Park</a></strong></td>
 <td>Office of Career Services Intern - Technology Team</td>
 <td>Hyattsville, MD</td>
@@ -26922,13 +26852,6 @@
 <td><strong><a href="https://simplify.jobs/c/PLS?utm_source=GHList&utm_medium=company">PLS</a></strong></td>
 <td>AI Intern</td>
 <td>Chicago, IL</td>
-<td>🔒</td>
-<td>20d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Thyssenkrupp?utm_source=GHList&utm_medium=company">thyssenkrupp</a></strong></td>
-<td>Analytics Intern</td>
-<td>Cleveland, OH</td>
 <td>🔒</td>
 <td>20d</td>
 </tr>
@@ -26990,13 +26913,6 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/National-Laboratory-Of-The-Rockies?utm_source=GHList&utm_medium=company">National Laboratory of the Rockies</a></strong></td>
-<td>Graduate Intern</td>
-<td>Golden, CO</td>
-<td>🔒</td>
-<td>26d</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>Graduate Intern - Building Energy Modeling and Analysis</td>
 <td>LA</td>
 <td>🔒</td>
@@ -27524,13 +27440,6 @@
 <td><strong><a href="https://simplify.jobs/c/CIBC?utm_source=GHList&utm_medium=company">CIBC</a></strong></td>
 <td>Workforce Experience Analytics Co-op</td>
 <td>Toronto, ON, Canada</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Agilent-Technologies?utm_source=GHList&utm_medium=company">Agilent Technologies</a></strong></td>
-<td>Predictive Sales Prospecting Intern</td>
-<td>Wilmington, DE</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -28217,13 +28126,6 @@
 <td><strong><a href="https://simplify.jobs/c/Applied-Intuition?utm_source=GHList&utm_medium=company">Applied Intuition</a></strong></td>
 <td>Research Intern - Reinforcement Learning - Self-Driving 🎓</td>
 <td>Sunnyvale, CA</td>
-<td>🔒</td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">NVIDIA</a></strong></td>
-<td>PhD Research Intern - Generative AI 🎓</td>
-<td>California<br>Santa Clara, CA<br>United States</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -42918,7 +42820,7 @@
 <td>AI-Driven Supply Chain Data & Data Management Intern/Co-op</td>
 <td>Round Rock, TX</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Pennsylvania-State-University?utm_source=GHList&utm_medium=company">Pennsylvania State University</a></strong></td>
@@ -64682,7 +64584,7 @@
 <td>Custom Circuit/Software Undergrad Intern</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/GlobalFoundries?utm_source=GHList&utm_medium=company">GlobalFoundries</a></strong></td>
