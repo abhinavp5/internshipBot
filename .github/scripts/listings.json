@@ -317792,7 +317792,7 @@
         "company_name": "Copart",
         "id": "7e13e0d3-bd62-458e-869e-bb070af80106",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -318501,7 +318501,7 @@
         "company_name": "Tencent",
         "id": "16adbd1f-0eba-4546-abbb-47028c0abca4",
         "title": "Video Generation Content Understanding and Feedback Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -320040,7 +320040,7 @@
         "company_name": "Aptiv",
         "id": "58f6524f-2134-4e8e-83e4-975dcef45f99",
         "title": "Associate Engineer - Cloud",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -322090,7 +322090,7 @@
         "company_name": "Ribbon",
         "id": "97d542d1-34cd-4cd5-a7fc-6d841b5b0a28",
         "title": "UI Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -322135,7 +322135,7 @@
         "company_name": "KeyBank",
         "id": "fe57e53f-bdb9-4695-9ea0-f16628645798",
         "title": "Marketing Analytics Analyst Program",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -322250,7 +322250,7 @@
         "company_name": "Copart",
         "id": "dc2f3a9e-bfd2-4ade-a19a-e77dfdcd2301",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -322965,7 +322965,7 @@
         "company_name": "RFCUNY",
         "id": "4d6d9d8d-ef9c-4af6-98d5-d441afd6ea36",
         "title": "Fullstack Web Development Peer Tutor",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -323447,7 +323447,7 @@
         "company_name": "Copart",
         "id": "188c70e9-8a5c-445e-8bcf-9061fecdd0bb",
         "title": "Database Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -325973,7 +325973,7 @@
         "company_name": "Aptiv",
         "id": "f31b6c02-6615-4940-99d0-cbfb01419b3c",
         "title": "Associate Engineer - Cloud",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -325997,7 +325997,7 @@
         "company_name": "Fidelity Investments",
         "id": "405b9ad2-32a7-4811-9fc5-d6d4c4992b8c",
         "title": "Leap Systems Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -327254,7 +327254,7 @@
         "company_name": "CTGT",
         "id": "8c8a1f21-e711-48d0-8cec-601018138920",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -328071,7 +328071,7 @@
         "company_name": "University of Nevada, Reno",
         "id": "57a3c271-a794-45fe-bc73-920a2e417498",
         "title": "Student Worker - Data Integrity Specialist",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -328116,7 +328116,7 @@
         "company_name": "American University",
         "id": "6e1d88dd-30e6-454a-935b-beb34fbb9077",
         "title": "Quantitative Research Methodology Assistant - Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -328844,7 +328844,7 @@
         "company_name": "Hitachi",
         "id": "3274d779-e985-4d1a-a236-73e8fe32e66e",
         "title": "Software Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -329724,7 +329724,7 @@
         "company_name": "Amgen",
         "id": "242592f3-d34b-4408-83fc-12609e3b71f9",
         "title": "Software Engineer Co-op - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -329771,7 +329771,7 @@
         "company_name": "Rockwell Automation",
         "id": "36b79a50-6c90-42a0-8884-86ce10b25d38",
         "title": "Firmware Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -329939,7 +329939,7 @@
         "company_name": "GE Healthcare",
         "id": "cf736802-724f-4f8f-874b-185fd97a9f55",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -330587,7 +330587,7 @@
         "company_name": "National Laboratory of the Rockies",
         "id": "c1d1053c-438a-481e-8375-57149313ea2f",
         "title": "Software and Data Infrastructure Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -341928,5 +341928,29 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hitachi Energy",
+        "id": "ddb70cb2-7fcb-4a14-815e-7c1756538921",
+        "title": "Engineering Knowledge Management Intern - 8 months",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1784668141,
+        "date_posted": 1783404638,
+        "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Engineering-Knowledge-Management-Intern--Fall-2026--8-months-_R1012818-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/83d28c1e-7f20-4aac-afd9-6bc8a468d7eb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
