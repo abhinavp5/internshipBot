@@ -1,47 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Red Bull",
-        "id": "1d1ac864-cac4-4703-8198-4651618383e2",
-        "title": "Intern - Academy Performance Analysis",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1763969338,
-        "date_posted": 1763969338,
-        "url": "https://jobs.smartrecruiters.com/RedBull/744000095044055",
-        "locations": [
-            "Livingston, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Red-Bull",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "LinkedIn",
-        "id": "45b99e64-32cd-4d59-b80f-e1ea760e36d2",
-        "title": "Software Engineer Intern - First Play",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1763968859,
-        "date_posted": 1763968859,
-        "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000095054345",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/LinkedIn",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1766399119,
         "sponsorship": "Other",
         "active": false,
@@ -320040,7 +319998,7 @@
         "company_name": "Aptiv",
         "id": "58f6524f-2134-4e8e-83e4-975dcef45f99",
         "title": "Associate Engineer - Cloud",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -331551,7 +331509,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
         "title": "Editorial Data Reporting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -336350,7 +336308,7 @@
         "company_name": "Solar Turbines",
         "id": "f35a104f-8aa2-4e17-9c25-aec1fe42185e",
         "title": "Gas Turbine Products Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
