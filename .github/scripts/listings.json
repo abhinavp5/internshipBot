@@ -64108,7 +64108,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "818b6742-1ac3-4971-a101-50412e68b6f8",
         "title": "Military Fellowship Program: Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -67307,7 +67307,7 @@
         "company_name": "Leggett & Platt",
         "id": "6df90fe0-0a56-42ee-a66e-f1859ede5389",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -273867,7 +273867,7 @@
         "company_name": "Pennsylvania State University",
         "id": "53c34c77-e7ea-4353-8938-bccf7cd46971",
         "title": "Research Assistant Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -288179,7 +288179,7 @@
         "company_name": "Primetals Technologies",
         "id": "8bcfb3f6-ce15-48ea-bde9-874808ef8dba",
         "title": "Data Science Intern - Data Platforms",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -290899,7 +290899,7 @@
         "company_name": "BorgWarner",
         "id": "fe59e903-3f33-41f3-add0-3ce0ba6fe501",
         "title": "Validation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -293581,7 +293581,7 @@
         "company_name": "Southern Company",
         "id": "bb12af8d-b281-4c9c-8bfa-7c8821fc31bf",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -302076,7 +302076,7 @@
         "company_name": "ServiceNow",
         "id": "a321ad73-583a-4203-bee3-a9fe75923346",
         "title": "Futures Summit Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -310724,7 +310724,7 @@
         "company_name": "Seaspan",
         "id": "aad404ae-f5e1-4e23-833b-2011968dc347",
         "title": "Energy Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -316244,7 +316244,7 @@
         "company_name": "Magna",
         "id": "efc03c50-2d1e-44d3-be7f-f649e778c10b",
         "title": "Systems Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -317469,7 +317469,7 @@
         "company_name": "Magna",
         "id": "47c8f8b7-82f7-465e-b6ca-9d1565be305c",
         "title": "Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -323678,7 +323678,7 @@
         "company_name": "Zipline",
         "id": "ae07548a-a2c2-42c2-950d-889a02c663bc",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -325099,7 +325099,7 @@
         "company_name": "Eight Sleep",
         "id": "35815487-d699-4826-8eeb-d44f024341ba",
         "title": "Prototype & Test Engineer Intern - New Product Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -325306,7 +325306,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "a904747c-0a1b-4b0e-822d-ca3184c2c4b5",
         "title": "Relationship Manager Commercial Markets Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -326561,7 +326561,7 @@
         "company_name": "Rise8",
         "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
         "title": "Skillbridge Intern - Product Manager",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -327183,7 +327183,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "ac237463-1f16-49c9-a219-27e3ac54a9a3",
         "title": "Office of Career Services Intern - Technology Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -330723,7 +330723,7 @@
         "company_name": "Jump Trading",
         "id": "45cb500e-6cea-48a1-941e-f33226a37036",
         "title": "Campus Quantitative Trader Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -330859,7 +330859,7 @@
         "company_name": "ABB",
         "id": "dc9a39f7-72fa-452b-8863-2071f8e63489",
         "title": "Application Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -332313,7 +332313,7 @@
         "company_name": "Jump Trading",
         "id": "f5ed05a7-6060-4e96-b382-c4c74b0268cd",
         "title": "Campus Quantitative Researcher M1/M2 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -332454,7 +332454,7 @@
         "company_name": "Jump Trading",
         "id": "a7c171b9-3bae-433c-ba6d-a3f97c7b2008",
         "title": "Campus AI Researcher Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -332500,7 +332500,7 @@
         "company_name": "Jump Trading",
         "id": "6ebea6a5-6a3e-4838-a4c3-c99817331a2e",
         "title": "Campus Quantitative Researcher Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -332524,7 +332524,7 @@
         "company_name": "Jump Trading",
         "id": "1de8fe40-f91e-490d-9460-77065dcf122f",
         "title": "Campus Quantitative Trader Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -342653,5 +342653,224 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Castleton Commodities International",
+        "id": "d0dbf9a8-a0ca-45d2-b171-45c248cd72b6",
+        "title": "Front Office Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784686992,
+        "date_posted": 1784592000,
+        "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Front-Office-Software-Engineer-Internship--Summer-2027-_R1347",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Castleton-Commodities-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Castleton Commodities International",
+        "id": "6c60c226-bf8b-45f1-b610-d9835abb7ce2",
+        "title": "Commodities Trading Analyst Internship",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784686995,
+        "date_posted": 1784592000,
+        "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Houston-TX/Commodities-Trading-Summer-Analyst-Internship-Program--Summer-2027-Internship-_R1333-1",
+        "locations": [
+            "Houston, TX",
+            "Stamford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Castleton-Commodities-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Schweitzer Engineering Laboratories",
+        "id": "60269fbe-dbec-4b5f-a446-c717e9dd0fe7",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1784683998,
+        "date_posted": 1784592000,
+        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22321",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/SEL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Castleton Commodities International",
+        "id": "2c656f83-6247-4e1c-a019-3126608b9e23",
+        "title": "Data Science Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784685868,
+        "date_posted": 1784592000,
+        "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Science-Machine-Learning-Internship--Summer-2027-_R1344",
+        "locations": [
+            "Houston, TX",
+            "Stamford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Castleton-Commodities-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Castleton Commodities International",
+        "id": "ef340463-f818-4cd0-874c-2b1574493963",
+        "title": "Data Science Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784685816,
+        "date_posted": 1784592000,
+        "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Castleton-Commodities-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Castleton Commodities International",
+        "id": "ca850495-3c93-4d92-9e87-2385877ea5c5",
+        "title": "Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784685814,
+        "date_posted": 1784592000,
+        "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London/Data-Engineering-Internship--Summer-2027-_R1348",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Castleton-Commodities-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Castleton Commodities International",
+        "id": "e01898a9-7ee0-4abc-a2e4-d7973c542041",
+        "title": "Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784685821,
+        "date_posted": 1784592000,
+        "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346",
+        "locations": [
+            "Houston, TX",
+            "Stamford, CT",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Castleton-Commodities-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Castleton Commodities International",
+        "id": "cab3486c-17b7-4cac-ad2b-49f4007f98e4",
+        "title": "Commodities Trading Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784685822,
+        "date_posted": 1784592000,
+        "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Commodities-Trading-Summer-Analyst-Internship-Programme--Summer-2027-_R1335-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Castleton-Commodities-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Castleton Commodities International",
+        "id": "41018f36-15af-46ed-8719-1fb8d0abe78e",
+        "title": "Full-Stack Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1784685812,
+        "date_posted": 1784592000,
+        "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350",
+        "locations": [
+            "Houston, TX",
+            "Stamford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Castleton-Commodities-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
