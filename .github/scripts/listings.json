@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Robert Bosch Venture Capital",
-        "id": "479ffd19-d761-4b6c-9bfc-48d2304e9e89",
-        "title": "Reinforcement Learning for ADAS \u2013 Research and Engineering Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1764174745,
-        "date_posted": 1764174745,
-        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000095699173",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Bosch",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Genies",
         "id": "07e8b773-4e60-4cfd-8807-0b74c389e1ee",
         "title": "Research Engineer Intern - Speech Generation - Spring 2026",
@@ -216956,7 +216935,7 @@
         "company_name": "Eurofins",
         "id": "4cebd7e3-5455-4983-b475-3512278305c2",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -217000,7 +216979,7 @@
         "company_name": "Eurofins",
         "id": "e5716292-b894-459b-87fd-e4c3f4077547",
         "title": "Engineering Intern - Test Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -305988,7 +305967,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "dc49cbf7-d6af-4a4d-aab5-0b1b99434349",
         "title": "Hardware & Embedded Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -313475,7 +313454,7 @@
         "company_name": "Zoox",
         "id": "63b2b431-dd8a-4ed5-8d8d-ae9abcc4878a",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -315802,7 +315781,7 @@
         "company_name": "Ciena",
         "id": "42d6ca6a-8aa6-404b-a0fa-0251620e1565",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334954,7 +334933,7 @@
         "company_name": "GE Healthcare",
         "id": "0b12884f-ce29-40d6-a184-ded1653ddc1b",
         "title": "Engineering Development Program Intern - Hardware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -340963,7 +340942,7 @@
         "company_name": "Axogen",
         "id": "04df6f78-d556-4fc7-964d-e85ebb3a67ff",
         "title": "AI/ML Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
