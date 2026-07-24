@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 9743 Inactive Internship Roles by Category
+### Browse 9741 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3066)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (3064)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (713)
 
@@ -6945,7 +6945,7 @@
 <td>Computer Science Intern - AI/ML Tools - Bachelor's</td>
 <td>Huntsville, AL</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
@@ -11922,28 +11922,28 @@
 <td>Resource Sharing-Software Engineer Intern</td>
 <td>Dublin, OH</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Ticketmaster?utm_source=GHList&utm_medium=company">Ticketmaster</a></strong></td>
 <td>Intern Software Engineering</td>
 <td>Reston, VA</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/COUNTRY-Financial?utm_source=GHList&utm_medium=company">COUNTRY Financial</a></strong></td>
 <td>Software Developer Intern</td>
 <td>Urbana, IL</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/T-Mobile?utm_source=GHList&utm_medium=company">T-Mobile</a></strong></td>
 <td>Associate Engineer Internship 🛂</td>
 <td>Bellevue, WA</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Carnegie-Mellon-University?utm_source=GHList&utm_medium=company">Carnegie Mellon University</a></strong></td>
@@ -21532,20 +21532,6 @@
 <td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
 <td>Software Engineering Intern</td>
 <td>Morrisville, NC<br>SF</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/KLA?utm_source=GHList&utm_medium=company">KLA</a></strong></td>
-<td>VC++ Software Developer Intern</td>
-<td>Totowa, NJ</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Walmart?utm_source=GHList&utm_medium=company">Walmart</a></strong></td>
-<td>2026 Summer Intern: Software Engineering II</td>
-<td>Sunnyvale, CA</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
@@ -34938,14 +34924,14 @@
 <td>DXC Degree Apprentice Programme - Data/ AI</td>
 <td>Aldershot, UK</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/FMC-Corporation?utm_source=GHList&utm_medium=company">FMC Corporation</a></strong></td>
 <td>Market Intelligence & Data Analyst Intern</td>
 <td>Philadelphia, PA</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Applied-Materials?utm_source=GHList&utm_medium=company">Applied Materials</a></strong></td>
@@ -42260,28 +42246,28 @@
 <td>Data Science Intern</td>
 <td>Dublin, OH</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/COUNTRY-Financial?utm_source=GHList&utm_medium=company">COUNTRY Financial</a></strong></td>
 <td>Data Science Intern - Digitalab</td>
 <td>Urbana, IL</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong>Arcline</strong></td>
 <td>ML / AI Infrastructure Engineering Intern</td>
 <td>San Francisco, CA<br>Remote in USa</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Agentic AI R&D Intern</td>
 <td>San Francisco, CA<br>Remote in USA</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Roku?utm_source=GHList&utm_medium=company">Roku</a></strong></td>
@@ -53097,14 +53083,14 @@
 <td>Intern – Digital Innovation & Software Development Internships – Graduate - Technology & Digital Solutions</td>
 <td>Palo Alto, CA</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Gusto?utm_source=GHList&utm_medium=company">Gusto</a></strong></td>
 <td>CX AI & Automation Internship 🛂</td>
 <td>Denver, CO</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Reli?utm_source=GHList&utm_medium=company">Reli</a></strong></td>
@@ -54955,7 +54941,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Rolls-Royce-Motorcars?utm_source=GHList&utm_medium=company">Rolls Royce</a></strong></td>
+<td>↳</td>
 <td>APEX/Oracle Co-Op - Summer 2026</td>
 <td>Spartanburg, SC</td>
 <td>🔒</td>
@@ -61595,14 +61581,14 @@
 <td>Electrical Design Apprentice</td>
 <td>Swansea, UK</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Hitachi?utm_source=GHList&utm_medium=company">Hitachi</a></strong></td>
 <td>Software Analyst Intern</td>
 <td>Scarborough, ON, Canada</td>
 <td>🔒</td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Thorlabs?utm_source=GHList&utm_medium=company">Thorlabs</a></strong></td>
@@ -64255,7 +64241,7 @@
 <td>Test Engineering Specialist Co-op</td>
 <td>Andover, MA</td>
 <td>🔒</td>
-<td>4mo</td>
+<td>5mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NXP-Semiconductors?utm_source=GHList&utm_medium=company">NXP Semiconductors</a></strong></td>
