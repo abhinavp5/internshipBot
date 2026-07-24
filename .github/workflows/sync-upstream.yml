@@ -198,7 +198,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: email-body
-          path: email/body.txt
+          path: email/
 
       - name: Check if there are new internships
         if: steps.check-for-upstream-changes.outputs.skip != 'true' && steps.check-readme.outputs.has_readme_changes == 'true'
@@ -220,6 +220,12 @@ jobs:
           {
             echo "EMAIL_BODY<<EOF"
             echo "$EMAIL_BODY"
+            echo "EOF"
+          } >> "$GITHUB_ENV"
+          EMAIL_HTML="$(cat email/body.html)"
+          {
+            echo "EMAIL_HTML<<EOF"
+            echo "$EMAIL_HTML"
             echo "EOF"
           } >> "$GITHUB_ENV"
 
@@ -246,11 +252,12 @@ jobs:
           secure: true
           username: ${{ secrets.MAIL_USERNAME }} # Emailing myself so using same email and pass
           password: ${{ secrets.MAIL_PASSWORD }}
-          subject: New Internship Posted
+          subject: ☀️ New Summer 2026 internship(s) just posted
           to: ${{ env.RECIPIENTS }}
-          from: ${{ secrets.MAIL_USERNAME }}
+          from: Summer Internship Tracker <${{ secrets.MAIL_USERNAME }}>
           ignore_cert: true
           convert_markdown: false
+          html_body: ${{ env.EMAIL_HTML }}
           body: ${{ env.EMAIL_BODY }}
 
       - name: Print email body (for logs)
