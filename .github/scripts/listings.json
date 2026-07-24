@@ -57702,7 +57702,7 @@
         "company_name": "Samsung Research America",
         "id": "311bab17-1a4e-44b2-83ec-8effa88827de",
         "title": "Health AI Scholar",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -307916,7 +307916,7 @@
         "company_name": "Autodesk",
         "id": "2d6183be-3318-46d4-b9b9-0365de329244",
         "title": "Machine Learning Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -313018,7 +313018,7 @@
         "company_name": "Tesla",
         "id": "27b0ff71-9c47-4670-a917-7c371d53f755",
         "title": "Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026",
@@ -335430,7 +335430,7 @@
         "company_name": "Deloitte",
         "id": "694ca9d6-abb6-4b8a-8fbb-743c035e90dd",
         "title": "Audit & Assurance - Assistant - Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
