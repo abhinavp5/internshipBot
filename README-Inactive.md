@@ -711,7 +711,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Tesla?utm_source=GHList&utm_medium=company">Tesla</a></strong></td>
+<td>↳</td>
 <td>Software Development Engineer Intern - Software Developer - Integration Platforms</td>
 <td>Palo Alto, CA</td>
 <td>🔒</td>
@@ -8068,7 +8068,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company">ByteDance</a></strong></td>
+<td>↳</td>
 <td>Software Engineer Intern - Security-Data - BS/MS</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
@@ -10189,7 +10189,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Rolls-Royce-Motorcars?utm_source=GHList&utm_medium=company">Rolls Royce</a></strong></td>
+<td>↳</td>
 <td>Innovations Software Developer Intern</td>
 <td>Spartanburg, SC</td>
 <td>🔒</td>
@@ -37034,7 +37034,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Red-Bull?utm_source=GHList&utm_medium=company">Red Bull</a></strong></td>
+<td>↳</td>
 <td>Intern Program - Digital Products</td>
 <td>Santa Monica, CA</td>
 <td>🔒</td>
