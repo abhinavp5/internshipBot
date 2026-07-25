@@ -3931,7 +3931,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company">Tencent</a></strong></td>
 <td>Software Engineering Intern - PC Game Client Development</td>
 <td>London, UK</td>
 <td>🔒</td>
@@ -21512,7 +21512,7 @@
 <td>Software Engineer, Intern</td>
 <td>New York, NY</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 </tbody>
 </table>
@@ -54906,7 +54906,7 @@
 <td>7mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Rolls-Royce-Motorcars?utm_source=GHList&utm_medium=company">Rolls Royce</a></strong></td>
+<td>↳</td>
 <td>APEX/Oracle Co-Op - Summer 2026</td>
 <td>Spartanburg, SC</td>
 <td>🔒</td>
@@ -57136,21 +57136,21 @@
 <td>3D Vision and Scene Understanding - AI Research & Engineering Intern 🎓</td>
 <td>Sunnyvale, CA</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
 <td>2026 Summer Intern - Software Engineer, Machine Learning Validation (PhD) 🎓 🛂</td>
 <td>Mountain View, CA<br>Sunnyvale, CA</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/T-Mobile?utm_source=GHList&utm_medium=company">T-Mobile</a></strong></td>
 <td>Summer 2026 AI Engineering Internship 🛂</td>
 <td>Bellevue, WA</td>
 <td>🔒</td>
-<td>7mo</td>
+<td>8mo</td>
 </tr>
 </tbody>
 </table>
@@ -62508,7 +62508,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/University-Of-Rochester?utm_source=GHList&utm_medium=company">University of Rochester</a></strong></td>
+<td>↳</td>
 <td>Co-op Research Student 1</td>
 <td>Rochester, NY</td>
 <td>🔒</td>
