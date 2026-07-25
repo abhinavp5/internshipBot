@@ -60759,30 +60759,6 @@
     {
         "source": "Simplify",
         "category": "Product",
-        "company_name": "TikTok",
-        "id": "603d9e4a-8d3d-412c-b7b7-c5bdd22b00dd",
-        "title": "Product Manager",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1764215011,
-        "date_posted": 1764215011,
-        "url": "https://lifeattiktok.com/search/7532237822393436434",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
         "company_name": "Stanley Black & Decker",
         "id": "d4a51940-5442-40ae-a6b6-adac7867ae7b",
         "title": "Stanley Leadership Development Program \u2013 Engineering",
@@ -315585,7 +315561,7 @@
         "company_name": "TikTok",
         "id": "c0de8fc2-6482-4a33-b95c-9054e2e850e0",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -327957,7 +327933,7 @@
         "company_name": "M&T Bank",
         "id": "aa21a374-ee42-473d-9242-410e327ad5e3",
         "title": "Technology Development Program",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -338237,7 +338213,7 @@
         "company_name": "Humana",
         "id": "66058658-b81c-4603-b721-ad005299ed84",
         "title": "Senior Data Governance Professional",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -339461,7 +339437,7 @@
         "company_name": "T. Rowe Price",
         "id": "a1fe3ca1-9cc9-4c37-96ce-93e032594d55",
         "title": "Software Engineer Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
