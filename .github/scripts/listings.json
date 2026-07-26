@@ -191628,7 +191628,7 @@
         "company_name": "University of Arkansas",
         "id": "b9bcf351-5da5-411a-9194-d85ff25786a8",
         "title": "Graduate Assistant - Information Science",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -223713,7 +223713,7 @@
         "company_name": "GE Appliances",
         "id": "a4d76612-8c17-43cd-ae7e-d0bcebd21928",
         "title": "Engineering Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -283933,7 +283933,7 @@
         "company_name": "Kinaxis",
         "id": "e7dc0189-14fe-4910-a64f-2eabfc192e2f",
         "title": "Engineer Co-op/Intern - Data & Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -300158,7 +300158,7 @@
         "company_name": "CHEP",
         "id": "513d3867-26bc-4203-8cd2-ade981572975",
         "title": "FP&A Business Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -325757,7 +325757,7 @@
         "company_name": "Pylon",
         "id": "f0aadc2c-2a47-404c-bc18-f3863ab3e456",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -326536,7 +326536,7 @@
         "company_name": "GE Healthcare",
         "id": "d72456b7-6689-4c34-84b3-3f394ad3fb4d",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -328812,7 +328812,7 @@
         "company_name": "GE Healthcare",
         "id": "913714da-b33d-46f8-89fa-c78911521433",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -330160,7 +330160,7 @@
         "company_name": "Copart",
         "id": "95db5bec-3f24-4913-816e-bfabc131f401",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -330880,7 +330880,7 @@
         "company_name": "JP Morgan Chase",
         "id": "eb1d24c5-f96d-49eb-88c4-9c78d81659f8",
         "title": "Machine Learning Center of Excellence Summer Associate Time Series & Reinforcement Learning Interns\u2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -331651,7 +331651,7 @@
         "company_name": "Magna",
         "id": "59c58f10-3239-45d4-9c44-cd1342e15ae8",
         "title": "Manufacturing Execution Systems Co-op - Manufacturing Execution Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -333021,7 +333021,7 @@
         "company_name": "RTX",
         "id": "767f82db-4e0c-412d-8bc3-4ec75d0a247a",
         "title": "Machine Learning Researcher Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -334006,7 +334006,7 @@
         "company_name": "NeoSigma",
         "id": "f472ec8a-728e-429e-ba5c-4e72d559732f",
         "title": "Member of Technical Staff Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -334121,7 +334121,7 @@
         "company_name": "SpreeAI ",
         "id": "b307b311-8a8c-4096-bd3b-0d244f3423f0",
         "title": "Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -334309,7 +334309,7 @@
         "company_name": "Gitar, Inc.",
         "id": "c8b23aef-956a-4e8f-bf36-9f747b2a67ef",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -334355,7 +334355,7 @@
         "company_name": "NERv Technology Inc. D.B.A. FluidAI Medical",
         "id": "aea064c1-caa5-4d1b-ac55-f280216fe181",
         "title": "Data and AI Engineering Associate Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -334399,7 +334399,7 @@
         "company_name": "Moon",
         "id": "de36e85a-366d-49db-98a9-fb9c3004ef0b",
         "title": "Software Engineer Intern - Backend & API",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -334487,7 +334487,7 @@
         "company_name": "Blue Robotics",
         "id": "9d41334e-0aa3-4509-8eba-8d8c172355e6",
         "title": "Electronics Design Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -340054,6 +340054,29 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Baldwin-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mosaic",
+        "id": "e3601b6a-4638-441c-9854-c14ef8a978d7",
+        "title": "Operations & Automation Engineering Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1785064476,
+        "date_posted": 1784678400,
+        "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Bartow-FL/Operations---Automation-Engineering-Co-op-Intern---Spring-2027_64675-1",
+        "locations": [
+            "Bartow, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Mosaic",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
