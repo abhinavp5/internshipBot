@@ -7,7 +7,7 @@
 
 ---
 
-### Browse 232 Internship Roles by Category
+### Browse 233 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (89)
 
