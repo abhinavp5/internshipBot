@@ -31646,7 +31646,7 @@
         "company_name": "thyssenkrupp",
         "id": "bbda7e7c-7de0-4db9-91d9-c5964f94704a",
         "title": "Sustainability Systems Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -287571,7 +287571,7 @@
         "company_name": "NVIDIA",
         "id": "d2de708b-89ff-406f-bd7a-70f5d52cf392",
         "title": "PhD Software Engineer Intern - Decision Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -325587,7 +325587,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
         "title": "Editorial Data Reporting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -331155,7 +331155,7 @@
         "company_name": "GE Healthcare",
         "id": "f7eb1ce6-bd5a-46b6-844d-5b28bcebc3a1",
         "title": "Client Service Technician Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339595,7 +339595,7 @@
         "company_name": "Mosaic",
         "id": "e3601b6a-4638-441c-9854-c14ef8a978d7",
         "title": "Operations & Automation Engineering Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
