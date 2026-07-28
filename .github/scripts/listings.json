@@ -2,175 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Astera Labs",
-        "id": "5c6215a1-af94-4ddf-87d7-46031c7d56b0",
-        "title": "Product Engineering Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1764531142,
-        "date_posted": 1764531142,
-        "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4605639005",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AsteraLabs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Metron",
-        "id": "3aa8795b-9213-43b6-b00e-0e4610d27d88",
-        "title": "Metron Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764531130,
-        "date_posted": 1764531130,
-        "url": "https://job-boards.greenhouse.io/metron/jobs/4958803007",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/22c7fd64-5419-4c19-8f0b-c4e2b6620614",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Walt Disney Company",
-        "id": "82a8570a-442c-4d6e-a606-0fa55a4b5ed3",
-        "title": "Content Planning & Analysis Graduate Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764530678,
-        "date_posted": 1764530678,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Content-Planning---Analysis-Graduate-Intern--Summer-2026_10135438-1",
-        "locations": [
-            "Glendale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Aerospace Corporation",
-        "id": "17a0f2b4-89aa-4a01-b8fe-dd858c213c94",
-        "title": "Signal Processing AI/ML Undergrad Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764530227,
-        "date_posted": 1764530227,
-        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Signal-Processing-AI-ML-Undergrad-Intern_R014039",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Marvell",
-        "id": "21818437-c8c0-42eb-bf98-082b8e191f2f",
-        "title": "Hardware Engineer Intern - Bachelor's Degree",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1764532627,
-        "date_posted": 1764532627,
-        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Hardware-Engineer-Intern---Bachelor-s-Degree_2502353",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Marvell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "DigiKey",
-        "id": "0e34ff51-6f40-4924-82d7-b3bcea4e7626",
-        "title": "Application Engineering \u2013 Intern Industrial Automation",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1764531945,
-        "date_posted": 1764531945,
-        "url": "https://digikey.wd5.myworkdayjobs.com/digi-key/job/Thief-River-Falls-MN/Application-Engineering--Intern-Industrial-Automation_R5120",
-        "locations": [
-            "Erskine, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/DigiKey",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Motors",
-        "id": "7e86a379-e215-4667-bcfd-52debfedde32",
-        "title": "Intern - Machine Learning Validation",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764531690,
-        "date_posted": 1764531690,
-        "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Software-Engineer--Machine-Learning-Validation--PhD-_JR-202523181",
-        "locations": [
-            "Sunnyvale, CA",
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Motors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Anduril",
-        "id": "98971aab-cef6-4cbf-b8de-98440950c6aa",
-        "title": "Perception Engineering Intern",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1764531196,
-        "date_posted": 1764531196,
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4830032007",
-        "locations": [
-            "Newport Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Anduril",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "GE Aerospace",
         "id": "1591d3a5-9787-4c13-94cb-2f6d48aabda1",
         "title": "Unison Engineering Intern - Fall 2026",
@@ -56297,27 +56128,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "042e85d4-d693-4d65-bcfa-4550a3c6baee",
-        "title": "Boeing Pre-Employment Training - Bpet - Students",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1764531756,
-        "date_posted": 1764531756,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Boeing-Pre-Employment-Training--BPET--Students---Assembly-Electrical-Mechanics--Variable-Shift-_JR2025463247-1",
-        "locations": [
-            "North Charleston, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Rocket Science Group",
         "id": "d9563b77-6e70-4694-a83c-b496417fc526",
@@ -71288,30 +71098,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Autodesk",
-        "id": "e69cc3d6-6ff3-49e8-8bdd-7fe271eaa856",
-        "title": "PhD Intern - Human-Computer Interaction & Visualization Research",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1764531719,
-        "date_posted": 1764531719,
-        "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/PhD-Intern--HCI---Visualization-Research_25WD91740",
-        "locations": [
-            "Toronto, ON, Canada",
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Autodesk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
         ]
     },
     {
@@ -165663,7 +165449,7 @@
         "company_name": "Meta",
         "id": "de215e2c-25b9-4713-90e5-31dba65622de",
         "title": "Research Scientist Intern PhD - Applied Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -339419,7 +339205,7 @@
         "company_name": "RSM",
         "id": "dd063926-c4ed-4671-9412-bc5e8fcb7b5d",
         "title": "Application Development Consulting Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
