@@ -1,30 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Wayve",
-        "id": "527b0ead-74a7-4f99-a31d-b90ad6c1ffad",
-        "title": "Research Scientist Intern - Data for Embodied AI",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1764538781,
-        "date_posted": 1764538781,
-        "url": "https://job-boards.greenhouse.io/wayve/jobs/8217788002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Wayve",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Walmart",
         "id": "fec0b54b-dc4a-4397-8f00-bf0f1bf6369a",
@@ -276405,7 +276381,7 @@
         "company_name": "ATCO",
         "id": "72a990c3-d541-41db-9b3c-7ca3dc7bb197",
         "title": "Data Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -299033,7 +299009,7 @@
         "company_name": "Tesla",
         "id": "899430e7-72cd-4e65-9394-58fd69b316ad",
         "title": "Failure Analysis Engineer Intern - Failure Analysis Engineer - Energy Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -299174,7 +299150,7 @@
         "company_name": "Tesla",
         "id": "a8790742-1793-4b5a-b3a7-faf1d438c4fb",
         "title": "Software Engineer Intern - Software Engineer Opticaster - Energy Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -313049,7 +313025,7 @@
         "company_name": "Altasciences",
         "id": "60d97eba-f793-4277-98fb-82245aabd7bf",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -318974,7 +318950,7 @@
         "company_name": "ByteDance",
         "id": "81a22594-7cb3-4fa8-a10f-7d86bc57fcf6",
         "title": "Research Scientist Intern - AI Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -318997,7 +318973,7 @@
         "company_name": "ByteDance",
         "id": "39b14011-bd7a-48d9-b759-cf7d5b7cd8b9",
         "title": "Research Scientist Intern - AI Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -320507,7 +320483,7 @@
         "company_name": "Cloudflare",
         "id": "823c7521-30db-4a2c-98a3-b7ec0dd88f1d",
         "title": "AI Builder Intern - Global Customer Engineering - Service Sales",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -328453,7 +328429,7 @@
         "company_name": "Sparksoft",
         "id": "5f921f62-bbfa-454c-978f-31310fc72515",
         "title": "Data Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
