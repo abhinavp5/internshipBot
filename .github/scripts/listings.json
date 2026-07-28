@@ -97194,7 +97194,7 @@
         "company_name": "Sila Nanotechnologies",
         "id": "c63b8bb6-93cf-413a-843e-f9afd9aa57b2",
         "title": "Battery Simulation & Computational Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332172,7 +332172,7 @@
         "company_name": "NatWest Group",
         "id": "8404ef1c-8c35-4f52-9c75-b63bf68e2bac",
         "title": "Trading Product Control Associate - Months",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -340740,6 +340740,78 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "498eccae-caa0-431f-8c04-ffd7922d92a6",
+        "title": "Vehicle Software Intern - Vehicle Controls",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785195096,
+        "date_posted": 1785190403,
+        "url": "https://www.tesla.com/careers/search/job/278203",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nelnet",
+        "id": "11cb0443-c90b-467f-a21d-c37c98257a5f",
+        "title": "Program Intern - Agentic AI",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785195115,
+        "date_posted": 1785110400,
+        "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904",
+        "locations": [
+            "Lincoln, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Nelnet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Deloitte",
+        "id": "4b79443f-64b0-4381-aa54-5febee12149d",
+        "title": "Consultative Offerings Intern - Government & Public Services - Cyber Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1785194946,
+        "date_posted": 1785191053,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Cyber-Analytics/360259",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
         ]
     }
 ]
