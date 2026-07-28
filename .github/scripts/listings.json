@@ -36140,27 +36140,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Nidec",
-        "id": "2af0a51c-33d4-4593-b335-9cfe855455fe",
-        "title": "Engineering Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764495607,
-        "date_posted": 1764495607,
-        "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---ACIM-MO/Engineering-Co-op_R0012604",
-        "locations": [
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Nidec",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Analog Devices",
         "id": "7efe2695-25d6-44db-bb7b-516390f3fe0d",
         "title": "Design Evaluation Engineer Intern",
@@ -46809,27 +46788,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "DigiKey",
-        "id": "91eb4c45-9129-4d93-83bb-0feecd8a49e2",
-        "title": "Product Management & Supplier Development Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767964404,
-        "date_posted": 1764495788,
-        "url": "https://digikey.wd5.myworkdayjobs.com/digi-key/job/Thief-River-Falls-MN/Supplier-Intern_R5122",
-        "locations": [
-            "Erskine, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/DigiKey",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Nokia",
         "id": "2dca2ddf-8d63-43ee-85f1-3705c37dff8c",
@@ -56739,30 +56697,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Huntsman",
-        "id": "3b4fe0ef-9c0c-4322-b5c1-11a510585186",
-        "title": "IT - Data & Analytics",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1764494722,
-        "date_posted": 1764494722,
-        "url": "https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/IT---Data---Analytics_J-018964-1",
-        "locations": [
-            "The Woodlands, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Huntsman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -77577,7 +77511,7 @@
         "company_name": "Boston Consulting Group",
         "id": "aba3cf97-4ffd-4dce-876d-ab3305231512",
         "title": "AI Engineer Intern - BCG X",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -155990,7 +155924,7 @@
         "company_name": "TikTok",
         "id": "4a90203d-7ab9-4b43-be0f-6ca5034548cb",
         "title": "Product Manager Intern - TikTok Product Content Ecosystem - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -242362,7 +242296,7 @@
         "company_name": "GE Healthcare",
         "id": "16245ae0-c25a-4918-a292-b5fdd502742f",
         "title": "Surgery Field Engineer Apprentice Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -299467,7 +299401,7 @@
         "company_name": "CHEP",
         "id": "513d3867-26bc-4203-8cd2-ade981572975",
         "title": "FP&A Business Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -315458,7 +315392,7 @@
         "company_name": "thyssenkrupp",
         "id": "7185eeaf-ca13-448b-9914-08c197b45f81",
         "title": "Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -319813,7 +319747,7 @@
         "company_name": "Fidelity Investments",
         "id": "405b9ad2-32a7-4811-9fc5-d6d4c4992b8c",
         "title": "Leap Systems Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -320377,7 +320311,7 @@
         "company_name": "Rise8",
         "id": "b80b54aa-fe0f-4421-9c51-fe418ac5fa01",
         "title": "Skillbridge Intern - Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -321932,7 +321866,7 @@
         "company_name": "American University",
         "id": "6e1d88dd-30e6-454a-935b-beb34fbb9077",
         "title": "Quantitative Research Methodology Assistant - Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -324804,7 +324738,7 @@
         "company_name": "GE Healthcare",
         "id": "27cd0b35-4964-4f9e-95d3-2968a5776184",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -330960,7 +330894,7 @@
         "company_name": "Magna",
         "id": "59c58f10-3239-45d4-9c44-cd1342e15ae8",
         "title": "Manufacturing Execution Systems Co-op - Manufacturing Execution Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331096,7 +331030,7 @@
         "company_name": "Commercial Metals",
         "id": "92bdbbc5-72a9-46ee-a83f-4d2066e29381",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331973,7 +331907,7 @@
         "company_name": "Xsolla",
         "id": "9e8ca483-fab3-4b31-8a1a-bcc2e1db15ef",
         "title": "AI-First Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332330,7 +332264,7 @@
         "company_name": "RTX",
         "id": "767f82db-4e0c-412d-8bc3-4ec75d0a247a",
         "title": "Machine Learning Researcher Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332998,7 +332932,7 @@
         "company_name": "Odin Dynamics, Inc",
         "id": "7e9c41e0-72f6-4e65-8150-4a44cf26d415",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333430,7 +333364,7 @@
         "company_name": "SpreeAI ",
         "id": "b307b311-8a8c-4096-bd3b-0d244f3423f0",
         "title": "Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333664,7 +333598,7 @@
         "company_name": "NERv Technology Inc. D.B.A. FluidAI Medical",
         "id": "aea064c1-caa5-4d1b-ac55-f280216fe181",
         "title": "Data and AI Engineering Associate Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333750,7 +333684,7 @@
         "company_name": "Mobius Renewables",
         "id": "8a94a455-b2cb-44e4-9b0b-00bfda978a73",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333796,7 +333730,7 @@
         "company_name": "Blue Robotics",
         "id": "9d41334e-0aa3-4509-8eba-8d8c172355e6",
         "title": "Electronics Design Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -338643,7 +338577,7 @@
         "company_name": "MSM Inc.",
         "id": "6277e90d-1e91-4b5e-9644-631c6bdaa131",
         "title": "AI Solutions Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -338708,7 +338642,7 @@
         "company_name": "GE Healthcare",
         "id": "18762fe0-77c9-4c38-9e4c-d649c204e975",
         "title": "Surgery Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -338986,7 +338920,7 @@
         "company_name": "City of Austin",
         "id": "3a2496b3-b945-417b-9b77-f1aecc9a466e",
         "title": "Austin Aviation Undergraduate Intern - IT Business Systems Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339929,7 +339863,7 @@
         "company_name": "East Penn Manufacturing Company",
         "id": "81c27c2f-7650-4a5b-ad93-720da3891b10",
         "title": "Product Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -340481,7 +340415,7 @@
         "company_name": "Intel",
         "id": "9f6ad53e-65d3-42d1-b55f-c31f172b9cc8",
         "title": "AI Applied Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -340615,6 +340549,71 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "0b7bf7f5-040c-4d9b-afff-7324441aeb52",
+        "title": "Undergraduate Researcher - Cee",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784693359,
+        "date_posted": 1781361071,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Undergraduate-Researcher--CEE_REQ_0000065530",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "2e17e435-e594-47c6-89d4-9fd698967ff5",
+        "title": "Marketing Research Assistant - Marketing Dept - Computer Science",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1784608363,
+        "date_posted": 1781361041,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-time---Smeal--Marketing-Dept---Research-Assistant---Computer-Science_REQ_0000065852-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Marsh",
+        "id": "61c905e5-2281-4abd-afcc-83089ab79869",
+        "title": "Data & Analytics Research Fellow - Data & Analytics Research Fellowship",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785219488,
+        "date_posted": 1781359468,
+        "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics-Research-Fellowship---Newcastle-upon-Tyne_R_327852-1",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/55341c12-8fd6-4cce-8472-d15c4a3ab583",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
