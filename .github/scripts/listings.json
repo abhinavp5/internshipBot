@@ -2,69 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "NBCUniversal",
-        "id": "ab56e98e-f29c-4c5a-8cec-b70041f344ac",
-        "title": "Media Tech Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764514809,
-        "date_posted": 1764514809,
-        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000092794882",
-        "locations": [
-            "Centennial, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/NBCUniversal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "NBCUniversal",
-        "id": "5b11cc92-9f3a-4eaa-b2cf-8003e8952b08",
-        "title": "Media Tech \u2013 Enterprise Product Internships - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764514813,
-        "date_posted": 1764514813,
-        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000092796287",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/NBCUniversal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NBCUniversal",
-        "id": "163ed35d-b8bc-4ced-bea7-7db8c98908ef",
-        "title": "Media Tech Data Engineering Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764514820,
-        "date_posted": 1764514820,
-        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000092796425",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/NBCUniversal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Seagate Technology ",
         "id": "d0c89212-5037-46e1-8f70-d91d64dd1182",
         "title": "Software Engineer",
@@ -335756,7 +335693,7 @@
         "company_name": "Virtu Financial",
         "id": "ce1d842e-89a6-4905-a608-3eca02ddd233",
         "title": "Quantitative Trading Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -339578,7 +339515,7 @@
         "company_name": "Apptronik",
         "id": "03e27deb-c124-4ce6-9e6c-49eed4353493",
         "title": "Software Engineer Intern - ML Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -339786,7 +339723,7 @@
         "company_name": "Bank of Montreal",
         "id": "b3adad35-fbd3-410d-a07f-c9df9cf024d9",
         "title": "Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -340267,7 +340204,7 @@
         "company_name": "Marsh",
         "id": "61c905e5-2281-4abd-afcc-83089ab79869",
         "title": "Data & Analytics Research Fellow - Data & Analytics Research Fellowship",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
