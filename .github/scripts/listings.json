@@ -36901,7 +36901,7 @@
         "company_name": "Voltus",
         "id": "0b7d9c7a-6864-4792-846e-e52cf3087746",
         "title": "Energy Markets Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -252154,7 +252154,7 @@
         "company_name": "Copart",
         "id": "8a0769fc-4aa4-4b2f-a6e9-d5fcc27c11a6",
         "title": "Technology Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -257651,7 +257651,7 @@
         "company_name": "Apptronik",
         "id": "607b4415-ebae-4f35-9ca9-6d14d2ce86ce",
         "title": "Robotics Software Intern - Real-Time Controls",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -272421,7 +272421,7 @@
         "company_name": "TSC",
         "id": "3bfb4bf7-06c9-49ef-afe3-cb05435f4792",
         "title": "Hardware Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -276075,7 +276075,7 @@
         "company_name": "BDO Canada",
         "id": "89cd8782-07fb-498b-98cc-0e43e5a50f79",
         "title": "Data & Analytics Co-op/Intern - Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -278219,7 +278219,7 @@
         "company_name": "SiFive",
         "id": "ec5e83b4-1cb5-4b81-9056-28110a076c6e",
         "title": "Platform Technologies Language Design Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -281320,7 +281320,7 @@
         "company_name": "Kinaxis",
         "id": "e7dc0189-14fe-4910-a64f-2eabfc192e2f",
         "title": "Engineer Co-op/Intern - Data & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -323445,7 +323445,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
         "title": "Editorial Data Reporting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -330102,7 +330102,7 @@
         "company_name": "GE Healthcare",
         "id": "0b12884f-ce29-40d6-a184-ded1653ddc1b",
         "title": "Engineering Development Program Intern - Hardware",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -330127,7 +330127,7 @@
         "company_name": "GE Healthcare",
         "id": "f09f0a56-4999-4d19-afb4-894ea819d401",
         "title": "Engineering Development Program Intern - Software",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -338195,7 +338195,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "66aed69d-0acd-43a5-9aa1-fcbdc96ceebd",
         "title": "Computer Specialist - Software",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -338881,7 +338881,7 @@
         "company_name": "Riverside Research",
         "id": "bf0e1cf7-901b-4621-90eb-5ef97b7894df",
         "title": "Junior Artificial Intelligence / Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -339940,6 +339940,425 @@
             "Southfield, MI"
         ],
         "company_url": "https://simplify.jobs/c/Bosch-Home-Comfort",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dexterra Group",
+        "id": "4d3560e6-35ec-4909-aef6-325e6f3920b4",
+        "title": "Coordinator AI & Data Systems Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785363207,
+        "date_posted": 1785362714,
+        "url": "https://jobs.smartrecruiters.com/Dexterra/744000140536634",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Dexterra-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Euronext",
+        "id": "4312a2c5-15b1-48e5-98cf-0ad7f7ee2333",
+        "title": "Sales Analyst - Vie",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785362765,
+        "date_posted": 1785283200,
+        "url": "https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/London/Sales-Analyst--VIE-_R28184",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Euronext",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Loop",
+        "id": "512aa7d8-2939-4cfc-a1c7-078cb2bf5f94",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2027"
+        ],
+        "date_updated": 1785365940,
+        "date_posted": 1785363606,
+        "url": "https://ats.rippling.com/loop-careers/jobs/e016b693-7ce9-4dad-95ff-03b934fbd580",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Loop-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KBR",
+        "id": "e5cda4c5-0633-455f-8d0d-b5ae18db552d",
+        "title": "Computer Science Technician Trainee",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785364561,
+        "date_posted": 1785283200,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/Computer-Science-Technician-Trainee_R2127492",
+        "locations": [
+            "Beavercreek, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/KBR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "589c3fd9-a059-4f9e-a14c-c3e9ebebfc74",
+        "title": "Application Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1785365663,
+        "date_posted": 1785283200,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "f28ce710-20a1-4d92-ad55-c5af195bebef",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785365598,
+        "date_posted": 1785283200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01862842",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "93127e7e-efae-4f1e-9ad1-c722e20cf3aa",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1785365632,
+        "date_posted": 1785283200,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Data-Science-Intern_R-00188405",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Generac",
+        "id": "1198914e-0b05-4c13-a78b-3ef38d2f9697",
+        "title": "AI Productivity & Adoption Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785365550,
+        "date_posted": 1785283200,
+        "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Toronto-Canada/AI-Productivity---Adoption--Co-op_JR15113",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Generac",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rockwell Automation",
+        "id": "aeb14b2f-abb3-4021-9504-a2a018bbda23",
+        "title": "Applied AI Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785365506,
+        "date_posted": 1785283200,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Austin-Texas-United-States/Intern--Applied-AI_R26-5631-2",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Royal Bank of Canada",
+        "id": "5083267e-7caf-40f1-ad4c-7ca8ac259584",
+        "title": "Developer Grm - AI Innovation for Risk Management",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785365489,
+        "date_posted": 1785283200,
+        "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Developer---AI-Innovation-for-Risk-Management--4-Months-_R-0000174224-3",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "08a728f0-6281-4206-a022-403284d64763",
+        "title": "Analytics & Behavior Change - Engineering Undergrad - Conversion",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785364561,
+        "date_posted": 1785283200,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Analytics---Behavior-Change---Engineering-Undergrad--Conversion-_R0991666",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rockwell Automation",
+        "id": "7f0b4b51-7fe2-4636-acda-1f3a52a12e19",
+        "title": "Applied AI Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785365432,
+        "date_posted": 1785283200,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Austin-Texas-United-States/Intern--Applied-AI_R26-5631-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "229ace69-8177-42cc-a85f-c0517803f03b",
+        "title": "Analytics & Behavior Change \u2013 Data Science Grad - Conversion",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785364561,
+        "date_posted": 1785283200,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Analytics---Behavior-Change---Data-Science-Grad--Conversion-_R0991627",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "National Laboratory of the Rockies",
+        "id": "d821822b-83af-4852-9853-6c6285ac4f11",
+        "title": "Focused Ion Beam, Electron Microscopy, and Autonomous Characterization Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785365396,
+        "date_posted": 1785283200,
+        "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---Focused-Ion-Beam--Electron-Microscopy--and-Autonomous-Characterization_R14431",
+        "locations": [
+            "Golden, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Laboratory-Of-The-Rockies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RSM",
+        "id": "08777d9c-a0f0-4302-b6ef-149f9ae7422b",
+        "title": "Application Development Consulting Associate",
+        "active": true,
+        "terms": [
+            "Fall 2027"
+        ],
+        "date_updated": 1785364561,
+        "date_posted": 1785283200,
+        "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/Application-Development-Consulting-Associate---Fall-2027_JR116796",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/RSM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Teledyne",
+        "id": "27efbcea-6708-4710-8174-3ba9ade33314",
+        "title": "CMOS Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785365314,
+        "date_posted": 1785283200,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/CMOS-Coop_REQ34538-1",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Canadian Tire",
+        "id": "28a39a26-10ea-4b63-8937-ec8a232212ed",
+        "title": "AI Enablement Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785363482,
+        "date_posted": 1785283200,
+        "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/AI-Enablement-Student--4-months----Fall-2026_JR161998",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Canadian-Tire",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Arkema Global",
+        "id": "73204d10-3227-4e0a-a54c-1c869cac51f0",
+        "title": "Manufacturing Data Systems Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785364317,
+        "date_posted": 1785363000,
+        "url": "https://jobs.arkema.com/job/Radnor-Manufacturing-Data-Systems-Intern-Job-PA/1420491833/?ats=successfactors",
+        "locations": [
+            "Villanova, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Arkema-Global",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
