@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Washpost",
-        "id": "e6a2cbb9-4025-46a1-9da7-0f8e3168bac4",
-        "title": "Intern - Advertising Product Management",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764634079,
-        "date_posted": 1764634079,
-        "url": "https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Summer-Intern--Advertising-Product-Management_JR-90275619",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Washpost",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "DV Trading",
-        "id": "6a8575ab-b947-4179-8291-3806aca55092",
-        "title": "2026 Summer Internship - Trading - DV Equities",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764638726,
-        "date_posted": 1764638726,
-        "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4634788005",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/DV-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "MarketAxess",
         "id": "6b4c006f-b474-41f6-afb1-da5874c9f5ce",
@@ -143,69 +101,6 @@
             "Wilton, CT"
         ],
         "company_url": "https://simplify.jobs/c/ASML",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Walt Disney Company",
-        "id": "cc019177-4017-4303-9d58-573cd5d7cbff",
-        "title": "ESPN Research Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764640616,
-        "date_posted": 1764640616,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bristol-CT-USA/ESPN-Research-Intern--Summer-2026_10134504",
-        "locations": [
-            "Bristol, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Centene",
-        "id": "1786a2c6-97fb-4c15-8a5e-2126cc14ff28",
-        "title": "Data Science Intern \u2013 Graduate - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764640337,
-        "date_posted": 1764640337,
-        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-TX/Intern--Graduate---Summer-_1620138",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Centene",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Barclays",
-        "id": "b1b1a068-364f-43f1-bd43-7ac2e340b17c",
-        "title": "Sales Trading and Structuring Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1764639800,
-        "date_posted": 1764639800,
-        "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/745-7th-Avenue-New-York/Sales--Trading-and-Structuring-Analyst-Summer-Internship-Program-2027-New-York_JR-0000083406",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Barclays",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -35100,27 +34995,6 @@
             "Casa Grande, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Lucid-Motors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Two Six Technologies",
-        "id": "ebda5290-2f44-48c1-bdbe-0fa85a4b1eeb",
-        "title": "Research Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764638802,
-        "date_posted": 1764638802,
-        "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/5687808004",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Two-Six-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -322867,7 +322741,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "3d5030c9-5b53-4ead-8664-250c3688b6ee",
         "title": "Editorial Data Reporting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339960,6 +339834,76 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/RapDev",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Forus",
+        "id": "0b70d1e1-a241-43ea-b553-844b484972d9",
+        "title": "Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785374711,
+        "date_posted": 1785374564,
+        "url": "https://jobs.ashbyhq.com/forus/82e10191-232e-4e8d-9c5e-cb82940cdfc7/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Forus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leidos",
+        "id": "205cf06e-c0ef-44b0-b53d-7779000c4f23",
+        "title": "Reports Officer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785374481,
+        "date_posted": 1785283200,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Reports-Officer_R-00188433",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "0fe46774-0c06-4ab5-94e3-f5f8af293290",
+        "title": "Software Engineer Intern - Software Engineer - AI Infrastructure",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785374928,
+        "date_posted": 1785374147,
+        "url": "https://www.tesla.com/careers/search/job/278578",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
