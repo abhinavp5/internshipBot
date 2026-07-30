@@ -1,28 +1,5 @@
 [
     {
-        "date_updated": 1764858222,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://smbc.recsolu.com/external/requisitions/cvDDu80WqB4iAQYvnDFZwA",
-        "company_name": "Sumitomo Mitsui Banking Corporation",
-        "title": "Fixed Income Systematic Trading Strats",
-        "locations": [
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Quantitative Finance",
-        "source": "adamthorne27",
-        "id": "7ec94309-1528-4767-8498-2536ec23b035",
-        "date_posted": 1764679929,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1764689200,
         "sponsorship": "Other",
         "active": true,
@@ -28798,7 +28775,7 @@
         "company_name": "thyssenkrupp",
         "id": "bbda7e7c-7de0-4db9-91d9-c5964f94704a",
         "title": "Sustainability Systems Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -248622,7 +248599,7 @@
         "company_name": "Tencent",
         "id": "ba133a6e-7d68-423a-a0ab-6235909272c2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -255424,7 +255401,7 @@
         "company_name": "Intel",
         "id": "e18b5659-3658-49dd-a554-9ba2b49123a9",
         "title": "AI Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -286701,7 +286678,7 @@
         "company_name": "thyssenkrupp",
         "id": "ccf39ec4-c9ad-4fc2-bac6-17ab53ca8bdc",
         "title": "Trader Trainee - Industrial Minerals",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -294868,7 +294845,7 @@
         "company_name": "Tencent",
         "id": "f083247a-cf19-43ae-8834-7db704881503",
         "title": "Multimedia Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -296025,7 +296002,7 @@
         "company_name": "CHEP",
         "id": "513d3867-26bc-4203-8cd2-ade981572975",
         "title": "FP&A Business Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -299130,7 +299107,7 @@
         "company_name": "Copart",
         "id": "ecb57e2b-b9a6-4967-9d05-bd9596de3537",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -310319,7 +310296,7 @@
         "company_name": "Liberty University",
         "id": "ea053f2a-38d8-4cc1-af0b-e280de37935e",
         "title": "Business Analyst Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -310892,7 +310869,7 @@
         "company_name": "Worcester Polytechnic Institute",
         "id": "64f8ea93-94b9-49f5-8369-66579fc43d6d",
         "title": "Research Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -312016,7 +311993,7 @@
         "company_name": "thyssenkrupp",
         "id": "7185eeaf-ca13-448b-9914-08c197b45f81",
         "title": "Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -315565,7 +315542,7 @@
         "company_name": "Valeo",
         "id": "57867254-f2d4-4dde-8c88-48df01a1f80f",
         "title": "Warranty Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -325708,7 +325685,7 @@
         "company_name": "Copart",
         "id": "b8a3808e-1eee-4b31-a9ed-c8790b1c82b9",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -327466,7 +327443,7 @@
         "company_name": "GE Healthcare",
         "id": "c1a4bf61-90df-42b7-8c6c-5b197e81cb7d",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -327518,7 +327495,7 @@
         "company_name": "Magna",
         "id": "59c58f10-3239-45d4-9c44-cd1342e15ae8",
         "title": "Manufacturing Execution Systems Co-op - Manufacturing Execution Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -328582,7 +328559,7 @@
         "company_name": "GE Healthcare",
         "id": "0b12884f-ce29-40d6-a184-ded1653ddc1b",
         "title": "Engineering Development Program Intern - Hardware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -328607,7 +328584,7 @@
         "company_name": "GE Healthcare",
         "id": "f09f0a56-4999-4d19-afb4-894ea819d401",
         "title": "Engineering Development Program Intern - Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -328654,7 +328631,7 @@
         "company_name": "Copart",
         "id": "3c097d8a-920c-4a58-ad96-84d012227d92",
         "title": "Technology Product Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -332829,7 +332806,7 @@
         "company_name": "Copart",
         "id": "5b932774-622e-427c-ae8d-ae23becc0c8d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -337223,7 +337200,7 @@
         "company_name": "Marsh",
         "id": "61c905e5-2281-4abd-afcc-83089ab79869",
         "title": "Data & Analytics Research Fellow - Data & Analytics Research Fellowship",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -338294,7 +338271,7 @@
         "company_name": "RTX",
         "id": "c59f71b0-614c-493e-909b-978a9b21eb58",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -338477,7 +338454,7 @@
         "company_name": "Loop",
         "id": "512aa7d8-2939-4cfc-a1c7-078cb2bf5f94",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Winter 2027"
@@ -338524,7 +338501,7 @@
         "company_name": "Leidos",
         "id": "589c3fd9-a059-4f9e-a14c-c3e9ebebfc74",
         "title": "Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -338942,7 +338919,7 @@
         "company_name": "Generac",
         "id": "5fc3c1a1-dbbe-4761-91dd-17a0ab5f94c1",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
