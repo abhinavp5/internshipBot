@@ -2,114 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Kimley-Horn",
-        "id": "0ca542fc-7df1-43a1-b90a-7a00baa1ffb9",
-        "title": "GIS Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764692796,
-        "date_posted": 1764692796,
-        "url": "https://careers-kimley-horn.icims.com/jobs/20922/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Fort Lauderdale, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Kimley-Horn",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nokia",
-        "id": "fb402575-1cb4-4606-8b8b-e0c1c25e88ba",
-        "title": "Wireless/Digital Twin Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764692536,
-        "date_posted": 1764692536,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27345",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Newham",
-        "id": "6b509f40-745a-4788-867b-7af6efacc349",
-        "title": "Trading Standards Professional Level 6 Apprentice",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764692135,
-        "date_posted": 1764692135,
-        "url": "https://elyq.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/5174",
-        "locations": [
-            "Southampton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Newham",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "OakNorth Bank",
-        "id": "9ea94a29-e337-4be9-8c4f-af3789f2fa7d",
-        "title": "AI Innovation Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764691395,
-        "date_posted": 1764691395,
-        "url": "https://jobs.lever.co/oaknorth.ai/47ddb59a-8ff4-4c6f-95c8-fe5bd87c04e1/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/OakNorthBank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ramboll",
-        "id": "f7925d14-8e9e-432b-b5cb-76c45f2ad1b4",
-        "title": "Intern Geologist/Engineer",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764692865,
-        "date_posted": 1764692865,
-        "url": "https://jobs.smartrecruiters.com/Ramboll3/744000096635191",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Ramboll",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Harvard Business Publishing",
         "id": "e6ca74c2-8674-4fe2-a88f-e5dae2ebbf82",
         "title": "Data Engineering Co-Op",
@@ -2294,27 +2186,6 @@
             "California"
         ],
         "company_url": "https://simplify.jobs/c/Block",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "0228371c-2e46-4c9f-aab5-1ed2fa8028a6",
-        "title": "Software Intern Engineer for Crypto and Cross Domain Solutions",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764804758,
-        "date_posted": 1764692433,
-        "url": "https://careers-gdms.icims.com/jobs/69289/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -222435,7 +222306,7 @@
         "company_name": "Notion",
         "id": "26784233-d6f5-4845-b5af-e3b1350f1199",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -226945,30 +226816,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ekimetrics",
-        "id": "97964cb8-fdda-4a97-a78d-19c194e59388",
-        "title": "6 months Internship in Strategy & Data Science - New York",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764755615,
-        "date_posted": 1764691488,
-        "url": "https://jobs.lever.co/ekimetrics/d8f0b664-ad5b-4111-a1dc-a8143934bf24/apply",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Ekimetrics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -336326,7 +336173,7 @@
         "company_name": " CCC Intelligent Solutions",
         "id": "0f92cafb-0f29-4673-a008-b02b0445f75c",
         "title": "Applied AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339148,7 +338995,7 @@
         "company_name": "Capital One",
         "id": "1e0a3f9d-9e1d-4b13-b9c6-eccbe4b65079",
         "title": "Full Stack Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
