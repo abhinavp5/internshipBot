@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Harvard Business Publishing",
-        "id": "e6ca74c2-8674-4fe2-a88f-e5dae2ebbf82",
-        "title": "Data Engineering Co-Op",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764700208,
-        "date_posted": 1764700208,
-        "url": "https://hbpublishing.wd1.myworkdayjobs.com/en-US/Careers/job/Boston/Data-Engineering-Co-Op_JR250407",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/d81af397-171b-4d7e-972e-b4ec5cf23ea0",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Washpost",
-        "id": "7302efc7-3bda-4998-8b68-c0b44443fb5e",
-        "title": "Intern - PhD AI/ML Scientist",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764700141,
-        "date_posted": 1764700141,
-        "url": "https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Summer-Intern--PhD-AI-ML-Scientist_JR-90275622",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Washpost",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Altera Corporation",
         "id": "de5b5445-7a0c-4909-8604-bff3a9b625a4",
@@ -79,98 +37,6 @@
             "Vernon Hills, IL"
         ],
         "company_url": "https://simplify.jobs/c/Camping-World",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "PTC",
-        "id": "a1750e2f-6fcd-4ace-88a0-e649c5e1e57d",
-        "title": "Servicemax Product Management Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764701913,
-        "date_posted": 1764701913,
-        "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/USA-San-Ramon-CA/ServiceMax-Product-Management-Intern_JR111259-1",
-        "locations": [
-            "San Ramon, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/PTC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AT&T",
-        "id": "7096c3ca-a59e-46db-bab7-533b7aaa191b",
-        "title": "AT&T Labs Internship - Advanced Degrees - Cnv",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764701956,
-        "date_posted": 1764701956,
-        "url": "https://att.wd1.myworkdayjobs.com/ATTSpecialInvite/job/Middletown-New-Jersey/AT-T-Labs-Internship---Advanced-Degrees--CNV-_R-92124",
-        "locations": [
-            "Austin, TX",
-            "Bothell, WA",
-            "Dallas, TX",
-            "San Ramon, CA",
-            "Redmond, WA",
-            "Plano, TX",
-            "Bedminster, NJ",
-            "Alpharetta, GA",
-            "Middletown Township, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/ATT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Covestro",
-        "id": "7a7711bd-9e58-4aa4-925c-d7afb8244cc9",
-        "title": "Intern - In Chemical Development",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764701249,
-        "date_posted": 1764701249,
-        "url": "https://covestro.wd3.myworkdayjobs.com/cov_external/job/Leverkusen/Praktikant-in--m-w-d--im-Bereich-Chemische-Entwicklung---mit-Gehaltsangabe_JR-2025-02534",
-        "locations": [
-            "Neukirchen-Vluyn, Germany"
-        ],
-        "company_url": "https://simplify.jobs/c/a64ca911-92ef-4bce-99ec-a890a343a30c",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Robert Bosch Venture Capital",
-        "id": "08fe25f6-60ba-4863-b07e-058a731c7f62",
-        "title": "AI-Driven Vehicle Simulation Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764701144,
-        "date_posted": 1764701144,
-        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000096642970",
-        "locations": [
-            "Southfield, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Bosch",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -197994,7 +197860,7 @@
         "company_name": "Varda Space",
         "id": "609e2d0d-89d6-434b-ab49-1968ef08c157",
         "title": "Mission Software \u2013 Intern - Python",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -278168,7 +278034,7 @@
         "company_name": "Tencent",
         "id": "395f3030-955c-467e-96f2-92d69de7f491",
         "title": "AI Agent Research & Application Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -330970,7 +330836,7 @@
         "company_name": "Tencent",
         "id": "dabc1659-9f8e-46a2-aeab-f8c530bdc54d",
         "title": "AI Agent Research & Application Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331543,7 +331409,7 @@
         "company_name": "Pennsylvania State University",
         "id": "5353964a-acc8-4fef-ad52-0223d28c4883",
         "title": "Research Assistant/Programmer - Recendes",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -335322,7 +335188,7 @@
         "company_name": "Bank of Montreal",
         "id": "3bd15e3e-ccea-4147-9d76-8699875570f9",
         "title": "Market Risk Analyst Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
