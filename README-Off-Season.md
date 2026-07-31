@@ -1302,7 +1302,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (989)</summary>
+<summary>🗃️ Inactive roles (988)</summary>
 
 <table>
 <thead>
@@ -9220,14 +9220,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Cisco?utm_source=GHList&utm_medium=company">Cisco</a></strong></td>
-<td>Software Developer PhD Co-op 🎓</td>
-<td>Kanata, Ottawa, ON, Canada</td>
-<td>Spring 2026</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -12482,7 +12474,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1333)</summary>
+<summary>🗃️ Inactive roles (1331)</summary>
 
 <table>
 <thead>
@@ -12616,6 +12608,14 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>6d</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Golden-Pet-Brands?utm_source=GHList&utm_medium=company">Golden Pet Brands</a></strong></td>
+<td>Data Analytics Intern</td>
+<td>Remote in USA</td>
+<td>Fall 2026</td>
+<td>🔒</td>
+<td>7d</td>
+</tr>
 
 </tbody>
 </table>
@@ -12642,14 +12642,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 </thead>
 <tbody>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Golden-Pet-Brands?utm_source=GHList&utm_medium=company">Golden Pet Brands</a></strong></td>
-<td>Data Analytics Intern</td>
-<td>Remote in USA</td>
-<td>Fall 2026</td>
-<td>🔒</td>
-<td>7d</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Axogen?utm_source=GHList&utm_medium=company">Axogen</a></strong></td>
 <td>AI/ML Engineer Intern</td>
@@ -20755,7 +20747,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>6mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Sanofi?utm_source=GHList&utm_medium=company">Sanofi</a></strong></td>
 <td>Digital Patient Experience Analytics Summer-Fall 2026 Co-op</td>
 <td>Cambridge, MA</td>
 <td>Summer 2026, Fall 2026</td>
@@ -23178,22 +23170,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Nokia?utm_source=GHList&utm_medium=company">Nokia</a></strong></td>
-<td>Radio Frequency IC Intern</td>
-<td>Berkeley Heights, NJ</td>
-<td>Spring 2026</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Paccar?utm_source=GHList&utm_medium=company">Paccar</a></strong></td>
-<td>2026 Summer Internship: Liaison Engineering</td>
-<td>Denton, TX</td>
-<td>Spring 2026</td>
-<td>🔒</td>
-<td>8mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -24514,7 +24490,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (576)</summary>
+<summary>🗃️ Inactive roles (575)</summary>
 
 <table>
 <thead>
@@ -29127,14 +29103,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Spring 2026</td>
 <td>🔒</td>
 <td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Rheem?utm_source=GHList&utm_medium=company">Rheem</a></strong></td>
-<td>Engineering Intern</td>
-<td>Fort Smith, AR</td>
-<td>Spring 2026</td>
-<td>🔒</td>
-<td>8mo</td>
 </tr>
 </tbody>
 </table>
