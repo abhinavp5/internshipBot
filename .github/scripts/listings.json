@@ -2,93 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Motorola",
-        "id": "c3778776-8ed1-4ec8-8781-ce5569be1206",
-        "title": "Data Scientist Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764734198,
-        "date_posted": 1764734198,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Data-Scientist-Intern--Summer-2026-Internship-_R59966",
-        "locations": [
-            "Chicago, IL",
-            "Hoffman Estates, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Trimble",
-        "id": "2ae087b2-bee4-48e8-87bb-cf61108bce55",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764733589,
-        "date_posted": 1764733589,
-        "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OR-Lake-Oswego/Software-Engineer-Intern_R52971",
-        "locations": [
-            "Portland, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Trimble",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Takeda",
-        "id": "e92ee221-83e3-488c-8c92-4b74cbeef5f1",
-        "title": "Intern Program: Audio Processing & Machine Learning Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764734918,
-        "date_posted": 1764734918,
-        "url": "https://takeda.wd3.myworkdayjobs.com/external/job/Boston-MA/XMLNAME-2026-Summer-Internship-Program--Audio-Processing---Machine-Learning-Intern_R0165952",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Takeda",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Adobe",
-        "id": "1680d782-02c0-462d-a55d-36adf2d17dc0",
-        "title": "2026 Intern - Generative AI Software Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1764743162,
-        "date_posted": 1764743162,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Generative-AI-Software-Engineer_R162233",
-        "locations": [
-            "San Jose, CA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Philips",
         "id": "9eb17c96-29a0-4f0f-9a4d-4afcbc2d5a9b",
         "title": "Intern Data Strategy & Analytics",
@@ -33551,27 +33464,6 @@
             "Houston, TX"
         ],
         "company_url": "https://simplify.jobs/c/SP-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Zoetis",
-        "id": "1374dbba-65b8-4bad-8f03-ef7cf0d3b814",
-        "title": "Tech and Digital Intern: Process Optimization & Automation Developer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764733752,
-        "date_posted": 1764733752,
-        "url": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Parsippany/Tech-and-Digital-Intern---Process-Optimization---Automation-Developer_JR00019606-2",
-        "locations": [
-            "Parsippany-Troy Hills, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Zoetis",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -310991,7 +310883,7 @@
         "company_name": "KeyBank",
         "id": "fe57e53f-bdb9-4695-9ea0-f16628645798",
         "title": "Marketing Analytics Analyst Program",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -328948,7 +328840,7 @@
         "company_name": "NationGraph",
         "id": "a196474c-7f86-4710-8275-f7701867a7ad",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332682,7 +332574,7 @@
         "company_name": "Iowa State University",
         "id": "029b9666-a3d9-4d99-a944-c7560692ad2b",
         "title": "Postdoctoral Research Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -334026,7 +333918,7 @@
         "company_name": "City of Austin",
         "id": "3a2496b3-b945-417b-9b77-f1aecc9a466e",
         "title": "Austin Aviation Undergraduate Intern - IT Business Systems Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -337354,7 +337246,7 @@
         "company_name": "Menasha Corporation",
         "id": "720b84ca-84d8-43bc-9284-172ad2ed475f",
         "title": "Supply Chain Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -337654,7 +337546,7 @@
         "company_name": "BlackRock",
         "id": "87da713b-e024-4492-b0c5-f4967a852bdb",
         "title": "Veterans Transition Program Associate - Platform Enablement Application Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -338362,5 +338254,70 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Heliux",
+        "id": "8b98f33d-21b5-4ae4-af04-3b7378193f39",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785479149,
+        "date_posted": 1785478970,
+        "url": "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Heliux",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Heliux",
+        "id": "5410157c-2206-4b07-8f6c-ef7f52129039",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1785479147,
+        "date_posted": 1785478970,
+        "url": "https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Heliux",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "b5c7fd89-4672-4907-87b7-68a4b6957acb",
+        "title": "Vehicle Software Intern - Vehicle Software Engineer-Diagnostic User Interface",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1785478904,
+        "date_posted": 1785478503,
+        "url": "https://www.tesla.com/careers/search/job/278703",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
