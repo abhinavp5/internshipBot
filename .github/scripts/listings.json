@@ -2,28 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Oracle",
-        "id": "f0ae404f-2f29-4ba8-aed0-6904806b603d",
-        "title": "Undergrad Data Science Intern - Oracle Cloud Infrastructure - Oci",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1764819051,
-        "date_posted": 1764819051,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/318176",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Institute of Foundation Models",
         "id": "0f2e6b7c-2185-4da8-9eab-26cb0081ec69",
         "title": "AIE Intern",
@@ -309744,7 +309722,7 @@
         "company_name": "Blue Cross Blue Shield of Arizona",
         "id": "468a6978-f0fe-405f-88d2-84f7d0a0cbac",
         "title": "Analyst Analytics and Data Science 2-3",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -333030,7 +333008,7 @@
         "company_name": "L3Harris Technologies",
         "id": "d378c42b-5e79-40b8-91ea-020a28e4bc43",
         "title": "Associate Integration and Test Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
