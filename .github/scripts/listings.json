@@ -1,133 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Aerospace Corporation",
-        "id": "2c289eb5-790f-40ad-82fd-132a54ea6869",
-        "title": "2026 Machine Learning Engineering Undergrad Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764919715,
-        "date_posted": 1764919715,
-        "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2026-Machine-Learning-Engineering-Undergrad-Intern_R014077",
-        "locations": [
-            "Chantilly, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Aerospace Corporation",
-        "id": "24f7a161-0fd6-4fd0-9a1d-613e0b3d14b2",
-        "title": "Machine Learning Engineering Grad Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764919720,
-        "date_posted": 1764919720,
-        "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2026-Machine-Learning-Engineering-Grad-Intern_R014076",
-        "locations": [
-            "Chantilly, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sony Interactive Entertainment",
-        "id": "bd629b9d-aa73-4e73-9567-de41120e71db",
-        "title": "Graphics Programming Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764919198,
-        "date_posted": 1764919198,
-        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5674863004",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sony-Interactive-Entertainment",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Roche",
-        "id": "542a867f-4862-4d30-bb45-79e18130ff48",
-        "title": "Intern - Csi",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764918869,
-        "date_posted": 1764918869,
-        "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Santa-Clara/XMLNAME-2026-Summer-Intern---Computational-Science---Software-Test-Engineering--CSI-_202511-130554",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Roche",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "MongoDB",
-        "id": "11ba0a85-1952-404c-a943-7c066930047d",
-        "title": "2026 \u2013 Product Management Intern - US",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764918715,
-        "date_posted": 1764918715,
-        "url": "https://www.mongodb.com/careers/job/?gh_jid=7375696",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/MongoDB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Delta Dental",
-        "id": "e7c684c3-a3bf-434b-9c76-f9e3ebc46c17",
-        "title": "Intern - Application Developer",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1764918331,
-        "date_posted": 1764918331,
-        "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101083",
-        "locations": [
-            "East Lansing, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Delta-Dental",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Northrop Grumman",
         "id": "ef781138-b3d1-429f-895f-30bbe42d0840",
@@ -325,71 +198,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Vistra",
-        "id": "fb1529b7-3d1f-4bb4-b5b5-f415f5b8b1b9",
-        "title": "Intern - Nuclear Power Generation",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764919787,
-        "date_posted": 1764919787,
-        "url": "https://vst.wd5.myworkdayjobs.com/en-US/vistra_careers/job/Irving-Texas/Summer-2026-Internship---Nuclear-Power-Generation--Vistra-Corporation-_40014323",
-        "locations": [
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Vistra",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Vistra",
-        "id": "68dd1fc5-8b41-4c18-9f05-b1ac86e2c543",
-        "title": "Intern - Digital Agent Development",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764919788,
-        "date_posted": 1764919788,
-        "url": "https://vst.wd5.myworkdayjobs.com/en-US/vistra_careers/job/Irving-Texas/Summer-2026-Internship---Digital-Agent-Development--Vistra-Corporation-_40014320",
-        "locations": [
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Vistra",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Vistra",
-        "id": "5f726170-636a-4310-b4c5-0f6e4836d027",
-        "title": "Intern - Solar Power Generation",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764919792,
-        "date_posted": 1764919792,
-        "url": "https://vst.wd5.myworkdayjobs.com/en-US/vistra_careers/job/Irving-Texas/Summer-2026-Internship---Solar-Power-Generation--Vistra-Corporation-_40014322",
-        "locations": [
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Vistra",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -321012,9 +320820,9 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Rivian",
-        "id": "bd784f4e-7ef9-4ba6-98c3-407476163c6d",
+        "id": "3d06c27f-be5d-4769-a58b-6bf05b60a50a",
         "title": "Machine Learning Compiler Intern - Machine Learning Compiler",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -336480,7 +336288,7 @@
         "company_name": "Marsh & McLennan",
         "id": "f9fe7e9f-de7d-47c2-875e-a933cee69ede",
         "title": "Data and Analytics Team Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
