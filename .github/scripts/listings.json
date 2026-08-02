@@ -1,50 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Tanium",
-        "id": "112775b1-9926-4305-aa04-e22ef0f62e6a",
-        "title": "Product Operations Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1764928831,
-        "date_posted": 1764928831,
-        "url": "https://www.tanium.com/careers/7371406?gh_jid=7371406",
-        "locations": [
-            "Oakland, CA",
-            "Durham, NC",
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Tanium",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Fidelity National Information Services",
-        "id": "603d74b6-44a9-4139-9ce5-02ea3362c4ce",
-        "title": "Intern \u2013 AI ML Engineer",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1764927781,
-        "date_posted": 1764927781,
-        "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/CAN-TRNT-5000-Ste-900/Intern--AI-ML-Engineer_JR0303201",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Fidelity-National-Information-Services",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Intuitive Surgical",
         "id": "8115eff0-f296-4ad9-98ae-c0003df21639",
@@ -103,49 +59,6 @@
             "Sunnyvale, CA"
         ],
         "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "MAXISIQ",
-        "id": "a8136048-6e6b-402b-a5fc-0a122c10bec8",
-        "title": "Software Engineer Intern - Spring - Summer",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1764931626,
-        "date_posted": 1764931626,
-        "url": "https://jobs.smartrecruiters.com/IOMAXISLLC/3743990010573726",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/MAXISIQ",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "MarketAxess",
-        "id": "8f89e3bb-1869-421b-bc12-5270dc204339",
-        "title": "Quant Research Intern",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1764930822,
-        "date_posted": 1764930822,
-        "url": "https://www.marketaxess.com/careers/current-openings/detail/jobs/4588565006?gh_jid=4588565006",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/MarketAxess",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -215080,7 +214993,7 @@
         "company_name": "GE Appliances",
         "id": "a4d76612-8c17-43cd-ae7e-d0bcebd21928",
         "title": "Engineering Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -280840,7 +280753,7 @@
         "company_name": "thyssenkrupp",
         "id": "bd01268d-018b-42de-992a-fbdb6d74c2c0",
         "title": "Trader Trainee",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -287670,7 +287583,7 @@
         "company_name": "American University",
         "id": "5b4ae178-0df3-49c7-af71-0631e6c99728",
         "title": "Graduate Event Data Assistant - Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -308075,7 +307988,7 @@
         "company_name": "Copart",
         "id": "dc2f3a9e-bfd2-4ade-a19a-e77dfdcd2301",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -320130,7 +320043,7 @@
         "company_name": "GE Healthcare",
         "id": "913714da-b33d-46f8-89fa-c78911521433",
         "title": "Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -322566,7 +322479,7 @@
         "company_name": "CuspAI",
         "id": "6b1b10ea-f6d5-4ef2-893e-11b5c623b352",
         "title": "Chemistry Intern - MLFF Distillation & GCMC Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -337861,7 +337774,7 @@
         "company_name": "Medtronic",
         "id": "43929c26-d19b-4057-9543-bf087c4bbf62",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
