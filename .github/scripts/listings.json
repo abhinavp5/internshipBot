@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dexcom",
-        "id": "20b6ea75-9646-40c3-a3f4-aaac9c4fcdbe",
-        "title": "Intern 2 - Firmware Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765086318,
-        "date_posted": 1765086318,
-        "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Intern-II---Firmware-Engineering_JR115337",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dexcoma",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "AECOM",
         "id": "f1a39450-52dc-4b4a-8471-f8f790518200",
@@ -17641,27 +17620,6 @@
             "Birmingham, UK"
         ],
         "company_url": "https://simplify.jobs/c/Atos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "X-energy",
-        "id": "5027f42f-7c99-4f47-bfd2-79d7b2d8ab32",
-        "title": "Engineering Intern - Systems",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766063144,
-        "date_posted": 1765086553,
-        "url": "https://xenergy.wd5.myworkdayjobs.com/X-energyUS/job/Oak-Ridge-TN/Engineering-Intern--Systems_R100694-1",
-        "locations": [
-            "Oak Ridge, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/X-Energy",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -49226,27 +49184,6 @@
             "Master's",
             "PhD"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Argonne National Laboratory",
-        "id": "460c121a-307a-4178-bb4a-b91a55d959a4",
-        "title": "Graduate Research Aide - Nuclear Engineering",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1765086364,
-        "date_posted": 1765086364,
-        "url": "https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/Graduate-Research-Aide---Nuclear-Engineering_419425",
-        "locations": [
-            "Woodridge, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -158017,7 +157954,7 @@
         "company_name": "John Deere",
         "id": "a1f9bdda-ef89-4be4-b96d-0b533c672b33",
         "title": "Part Time Student - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -331021,7 +330958,7 @@
         "company_name": "Assurant",
         "id": "cd8ad71e-1cf7-47e2-a955-1b09ab203e48",
         "title": "Digital & AI Transformation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
