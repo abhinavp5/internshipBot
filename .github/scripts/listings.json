@@ -125565,7 +125565,7 @@
         "company_name": "Huxley",
         "id": "85e161ce-7df7-4b28-b13e-71f36a0670de",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -195991,7 +195991,7 @@
         "company_name": "Cirrus Logic",
         "id": "4d9c7c93-c503-4699-be97-2e6d8a20f260",
         "title": "Co-op - Design Verification Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -277242,7 +277242,7 @@
         "company_name": "Adobe",
         "id": "4e10af7c-c752-4dc9-8fe9-8eb17f45f0a1",
         "title": "AI/ML Intern \u2013 Machine Learning Engineer/Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -299151,7 +299151,7 @@
         "company_name": "Definity Financial",
         "id": "35b298f5-dbfb-476b-a5c0-782ae622f7cd",
         "title": "Data Analyst Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -317968,7 +317968,7 @@
         "company_name": "Cirrus Logic",
         "id": "5f3f7649-8bab-4c94-b667-18e0c7aa3f25",
         "title": "Analog Design Engineer Co-op - Analog Design Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -322482,7 +322482,7 @@
         "company_name": "Cirrus Logic",
         "id": "5a87d599-5c9b-4a61-af5e-84755a75597c",
         "title": "AI Business Analytics Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -338598,7 +338598,7 @@
         "company_name": "QuEra Computing",
         "id": "3f75b98c-3c6a-4192-8268-3e946dae7519",
         "title": "Photonics Data Engineer Intern - Data Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
