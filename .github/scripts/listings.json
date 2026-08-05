@@ -330174,7 +330174,7 @@
         "company_name": "Bank of Montreal",
         "id": "b3adad35-fbd3-410d-a07f-c9df9cf024d9",
         "title": "Data and AI Operations Analyst Intern/Co-op - Cloud - 8 months",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342484,6 +342484,54 @@
             "Bachelor's",
             "Master's",
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Maven Securities",
+        "id": "f8c7b2c2-899a-4a4f-9f36-7893a8512aed",
+        "title": "Trader Intern - Summer",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785940230,
+        "date_posted": 1785940179,
+        "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Maven-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Maven Securities",
+        "id": "76d0cd65-7277-4783-9523-cf9608d9d9b0",
+        "title": "Trader Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1785940255,
+        "date_posted": 1785940169,
+        "url": "https://job-boards.greenhouse.io/emergingtalent/jobs/8051938",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Maven-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
