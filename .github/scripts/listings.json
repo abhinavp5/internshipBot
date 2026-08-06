@@ -1,135 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Visa",
-        "id": "a2e17d59-a750-4e5a-aa9d-2e5eb48e34dc",
-        "title": "Data Science Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765234915,
-        "date_posted": 1765234915,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000097578236",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sony Pictures Entertainment",
-        "id": "e369f60b-4de4-4ccf-907f-4dad75bdf985",
-        "title": "Intern \u2013 Technology Development",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765236742,
-        "date_posted": 1765236742,
-        "url": "https://spe.wd1.myworkdayjobs.com/en-US/SonyPicturesEntertainment/job/London-United-Kingdom/Intern---Technology-Development_JR109648",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sony-Pictures-Entertainment",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "UntilLabs",
-        "id": "04e1164f-b898-4da9-83c5-c990b7d4070b",
-        "title": "Embedded Software Intern - Winter 2026",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1765235487,
-        "date_posted": 1765235487,
-        "url": "https://jobs.lever.co/until/2fca0046-89c0-429c-809f-62f143d41866/apply",
-        "locations": [
-            "California"
-        ],
-        "company_url": "https://simplify.jobs/c/UntilLabs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Williams-Sonoma",
-        "id": "cd15d5cd-ca15-492c-b8f7-d7e7be96944a",
-        "title": "Williams-Sonoma Corporate Internship - Technology Software Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765236217,
-        "date_posted": 1765236217,
-        "url": "https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/17445",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Williams-Sonoma",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Seagate Technology ",
-        "id": "2b91f74d-82c4-4b30-b619-7bec752fed9c",
-        "title": "Firmware Development Engineer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765236131,
-        "date_posted": 1765236131,
-        "url": "https://seagatecareers.com/job/Longmont-Firmware-Development-Engineering-Intern-Summer-2026-CO-80501/1348189200/?ats=successfactors",
-        "locations": [
-            "Longmont, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Seagate-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cadence Design Systems",
-        "id": "98e2db32-fe48-4033-baae-1472175506e7",
-        "title": "Software Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765235109,
-        "date_posted": 1765235109,
-        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R52214-1",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "General Dynamics Mission Systems",
         "id": "21ac5ca2-4cca-42fa-b9db-dee80999373f",
@@ -37097,80 +36968,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Etched.ai",
-        "id": "6d720695-b1a1-4efc-929e-9c6024f34ff0",
-        "title": "ASIC Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765532043,
-        "date_posted": 1765235280,
-        "url": "https://jobs.ashbyhq.com/Etched/57decba7-ade0-448f-b5ab-e8ba5b7baf12/application",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Etched-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Etched.ai",
-        "id": "20d5ae1c-50e7-48e9-81d2-5bb3126aafc1",
-        "title": "Architecture Intern",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765531732,
-        "date_posted": 1765235270,
-        "url": "https://jobs.ashbyhq.com/Etched/6f23713f-5409-45b7-aae8-adb8710cdbc3/application",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Etched-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Etched.ai",
-        "id": "0cac70d8-1f99-4481-beb9-5a5f22a0357d",
-        "title": "Platform Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765531922,
-        "date_posted": 1765235267,
-        "url": "https://jobs.ashbyhq.com/Etched/097cf1d6-592c-4ce4-910e-401512278368/application",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Etched-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Nokia",
         "id": "2dca2ddf-8d63-43ee-85f1-3705c37dff8c",
@@ -46435,29 +46232,6 @@
         "degrees": [
             "Bachelor's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "ION Group",
-        "id": "7710d917-a6a9-41b1-84b6-c3c59c92b5c2",
-        "title": "Rotational Analyst - 2026 Leadership Development Program - Toronto",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1765236308,
-        "date_posted": 1765236308,
-        "url": "https://jobs.lever.co/ion/775afbf6-0e2c-40a8-ae85-d7f50fc011a8/apply",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/ION-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -132071,7 +131845,7 @@
         "company_name": "Sony",
         "id": "1c8db85e-f34a-4b3b-b809-3502d6cdbfa2",
         "title": "Intern \u2013 Advanced Computer Graphics Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -334055,7 +333829,7 @@
         "company_name": "Centerfield",
         "id": "172c59ae-8170-4234-a70a-6be80850c2d1",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
