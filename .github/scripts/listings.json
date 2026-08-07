@@ -1,92 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The National Football League",
-        "id": "d846c68d-418a-4abf-a4c8-74fe2ec62768",
-        "title": "2026 Graduate Summer Intern - NY",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765364349,
-        "date_posted": 1765364349,
-        "url": "https://job-boards.greenhouse.io/nflcareers/jobs/5016231008",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/The-National-Football-League",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Aramark",
-        "id": "a196ed22-d4aa-4ac8-a0b1-37c28a6accf6",
-        "title": "Sustainability Data Analysis Program Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765363951,
-        "date_posted": 1765363951,
-        "url": "https://aramarkcareers.com/UnitedStates/job/Tempe-ASU-Sustainability-Data-Analysis-Program-Intern,-ASU-Tempe-AZ-85281/1335351700/?ats=successfactors",
-        "locations": [
-            "Tempe, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Aramark",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Tenstorrent",
-        "id": "1abafbf0-6e65-49bb-8556-1a35768e1287",
-        "title": "Data Movement Architecture Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765365701,
-        "date_posted": 1765365701,
-        "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4999339007",
-        "locations": [
-            "Austin, TX",
-            "Santa Clara, CA",
-            "Fort Collins, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Tenstorrent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Realtor.com",
-        "id": "c6c86aa7-29e4-497c-a843-74d2b6a8bd4f",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765364858,
-        "date_posted": 1765364858,
-        "url": "https://boards.greenhouse.io/rdccareers/jobs/7453221003",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Realtordotcom",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Sika",
         "id": "1416b578-211a-41ac-911b-3a064b487512",
@@ -20746,7 +20660,7 @@
         "company_name": "thyssenkrupp",
         "id": "bbda7e7c-7de0-4db9-91d9-c5964f94704a",
         "title": "Sustainability Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -240605,7 +240519,7 @@
         "company_name": "Tencent",
         "id": "6e53b9de-07c4-4545-b612-707fca641b88",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -303154,7 +303068,7 @@
         "company_name": "thyssenkrupp",
         "id": "7185eeaf-ca13-448b-9914-08c197b45f81",
         "title": "Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -315437,7 +315351,7 @@
         "company_name": "QuantCo",
         "id": "da17d790-4a1d-4cc5-830f-91dcb97ae8ed",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -321492,7 +321406,7 @@
         "company_name": "Blue Robotics",
         "id": "9d41334e-0aa3-4509-8eba-8d8c172355e6",
         "title": "Electronics Design Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -333615,7 +333529,7 @@
         "company_name": "ConocoPhillips",
         "id": "6782ff48-fa1d-47f8-bab9-bb94b0ab30f1",
         "title": "Geosciences Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2027"
         ],
@@ -340127,7 +340041,7 @@
         "company_name": "GE Appliances",
         "id": "bdefa1b8-76a9-4d2c-8b53-192783c6edd7",
         "title": "Software Engineer Co-op - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341852,7 +341766,7 @@
         "company_name": "Canva",
         "id": "8695d3de-326d-44ff-976a-ba070dbbe750",
         "title": "PhD Research Scientist Intern - Reinforcement Learning - Images",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
