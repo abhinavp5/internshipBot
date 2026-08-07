@@ -1,53 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Sika",
-        "id": "1416b578-211a-41ac-911b-3a064b487512",
-        "title": "Product Management Apprentice",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765367426,
-        "date_posted": 1765367426,
-        "url": "https://jobs.smartrecruiters.com/SikaAG/744000098013061",
-        "locations": [
-            "Solihull, UK",
-            "Leeds, UK",
-            "Glasgow, UK",
-            "Welwyn Garden City, UK",
-            "Blackpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sika",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ServiceNow",
-        "id": "6bc9048c-0168-4ee2-af5e-6e02b18baf60",
-        "title": "Intern Associate Technical Portfolio Analyst",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765369146,
-        "date_posted": 1765369146,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000097991956",
-        "locations": [
-            "Staines-upon-Thames, UK",
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Microsoft",
         "id": "2e350d27-cce6-45f2-aecd-45ed31f5f06f",
@@ -18879,7 +18832,7 @@
         "company_name": "Tencent",
         "id": "eb14174f-2e4d-4c27-90c6-67df2ddef557",
         "title": "Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -20660,7 +20613,7 @@
         "company_name": "thyssenkrupp",
         "id": "bbda7e7c-7de0-4db9-91d9-c5964f94704a",
         "title": "Sustainability Systems Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -340041,7 +339994,7 @@
         "company_name": "GE Appliances",
         "id": "bdefa1b8-76a9-4d2c-8b53-192783c6edd7",
         "title": "Software Engineer Co-op - Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
