@@ -347,7 +347,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Salesforce?utm_source=GHList&utm_medium=company">Salesforce</a></strong></td>
 <td>Software Engineer Intern</td>
 <td><details><summary><strong>8 locations</strong></summary>Palo Alto, CA<br>Seattle, WA<br>Indianapolis, IN<br>SF<br>NYC<br>Bellevue, WA<br>Atlanta, GA<br>Burlington, MA</details></td>
 <td>🔒</td>
