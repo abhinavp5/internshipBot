@@ -1,225 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Moog ",
-        "id": "e208c5f9-3bb1-4ecd-b75c-da96d3f16b32",
-        "title": "Intern \u2013 Product Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765376870,
-        "date_posted": 1765376870,
-        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Product-Engineering_R-25-15225",
-        "locations": [
-            "Buffalo, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Moog",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "BorgWarner",
-        "id": "fc8ca754-15ad-4916-86c7-cf37bd1cba0d",
-        "title": "Computer Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765376367,
-        "date_posted": 1765376367,
-        "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Computer-Science-Summer-Intern_R2025-4709",
-        "locations": [
-            "Auburn Hills, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/BorgWarner",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "BorgWarner",
-        "id": "df55afe5-6d8d-48a0-9e7f-f3cd83bd440c",
-        "title": "Prototype Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2025"
-        ],
-        "date_updated": 1765376368,
-        "date_posted": 1765376368,
-        "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Prototype-Engineering--Intern--Summer-_R2025-4708",
-        "locations": [
-            "Auburn Hills, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/BorgWarner",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "9eaf1e16-e50b-4a1e-aa7a-896bd22c331d",
-        "title": "Intern-Technician",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765376165,
-        "date_posted": 1765376165,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/PA---Mount-Holly-Springs/Intern-Technician_R2628-25",
-        "locations": [
-            "Carlisle, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "HCSC",
-        "id": "7439d7d0-93b1-40d1-a228-b7dd817db4f5",
-        "title": "Early Careers \u2013 Automation Programmer Associate Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765376169,
-        "date_posted": 1765376169,
-        "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Posting-Title--Early-Careers---Automation-Programmer-Associate-Intern_R0046548",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/de9db5fc-93ac-4e2a-873c-61d8a830873c",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "T-Mobile",
-        "id": "41b07f0f-6632-4219-9338-c383dd98f6b8",
-        "title": "AI Product Innovation Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765376235,
-        "date_posted": 1765376235,
-        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/AI-Product-Innovation-Intern_REQ339262",
-        "locations": [
-            "Frisco, TX",
-            "Bellevue, WA",
-            "Overland Park, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/T-Mobile",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PharmD",
-            "PhD",
-            "Incomplete"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "04892e10-87b8-4ea9-9ee7-650767b64d53",
-        "title": "2026 Systems Engineer Intern - Baltimore MD",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765376051,
-        "date_posted": 1765376051,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2026-Systems-Engineer-Intern---Baltimore-MD_R10213260",
-        "locations": [
-            "Baltimore, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Magna",
-        "id": "ee536092-a4df-44a0-9cb6-113470b5426d",
-        "title": "Software Engineering Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1765377660,
-        "date_posted": 1765377660,
-        "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Newmarket-Ontario-CA/Software-Engineering-Co-op_R00214955",
-        "locations": [
-            "Newmarket, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Magna",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cadence Design Systems",
-        "id": "e6258f35-a95c-4926-b65a-a44c7a80a7c3",
-        "title": "Software Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765377604,
-        "date_posted": 1765377604,
-        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Intern_R52209",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Zoetis",
-        "id": "a5f4b474-a438-41c4-b204-e98b01c83da6",
-        "title": "ZOETIS Tech & Digital \u2013 Solutions Architecture & Engineering Intern - Ztd - Gms",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765377631,
-        "date_posted": 1765377631,
-        "url": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Parsippany/ZOETIS-Tech---Digital--ZTD--Solutions-Architecture---Engineering-Intern--GMS_JR00019615-2",
-        "locations": [
-            "Parsippany-Troy Hills, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Zoetis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "CACI",
         "id": "fee49486-4e88-429c-98a3-2cb4060a1c4c",
@@ -235,50 +16,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Insperity",
-        "id": "e21cbd1b-7a17-4480-908d-91ceeced7a67",
-        "title": "Intern Technology",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765375897,
-        "date_posted": 1765375897,
-        "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Intern-Technology_JR101852",
-        "locations": [
-            "Kingwood, Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Insperity",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "T-Mobile",
-        "id": "51ae8864-0fe2-412c-ac1f-4b10d4038cfc",
-        "title": "Product Development Intern - Peace of Mind",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765378047,
-        "date_posted": 1765378047,
-        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2026-Product-Development-Intern--Peace-of-Mind_REQ339264",
-        "locations": [
-            "Frisco, TX",
-            "Bellevue, WA",
-            "Overland Park, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/T-Mobile",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -267017,7 +266754,7 @@
         "company_name": "Sun Life",
         "id": "8faaec18-134c-4920-952c-046aa22b3053",
         "title": "Student Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -272263,7 +272000,7 @@
         "company_name": "Magna",
         "id": "06de75c2-cc22-4498-95d5-a96d0f6f920b",
         "title": "Artificial Intelligence Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -333762,7 +333499,7 @@
         "company_name": "SRI International",
         "id": "75880263-18a3-4cf6-b94e-6780699c7aa3",
         "title": "Computer Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -337711,7 +337448,7 @@
         "company_name": "Swift",
         "id": "af0010c7-8bfd-4664-aa13-4626a4140ee2",
         "title": "Industry Engagement Research Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -340165,5 +339902,49 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "63347020-90de-4daa-bacc-ff4e521ca908",
+        "title": "Software Developer Intern - Fall 2026",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786111921,
+        "date_posted": 1786060800,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Delta Dental",
+        "id": "7d4b9464-fcce-47d6-9331-a1d0c501709f",
+        "title": "Application Development Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786111912,
+        "date_posted": 1786060800,
+        "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101382",
+        "locations": [
+            "Okemos, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Delta-Dental",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
