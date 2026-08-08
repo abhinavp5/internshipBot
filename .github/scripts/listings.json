@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NVIDIA",
-        "id": "62a7a49a-e107-4f65-9b35-03794dc40743",
-        "title": "Performance Engineering Intern - Deep Learning and HPC - Winter 2026",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765437290,
-        "date_posted": 1765437290,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Deep-Learning-and-HPC----Winter-2026_JR2008287",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Baselayer",
         "id": "0752126c-b743-4d01-b298-21dd4893d3f0",
