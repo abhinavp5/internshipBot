@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 122 Inactive Internship Roles by Category
+### Browse 121 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (38)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (8)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (29)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (28)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (34)
 
@@ -471,13 +471,6 @@
 <td>Bartlesville, OK</td>
 <td>🔒</td>
 <td>7d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/FTI-Consulting?utm_source=GHList&utm_medium=company">FTI Consulting</a></strong></td>
-<td>Technology Intern</td>
-<td><details><summary><strong>7 locations</strong></summary>Houston, TX<br>Washington, DC<br>SF<br>LA<br>Chicago, IL<br>NYC<br>Atlanta, GA</details></td>
-<td>🔒</td>
-<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Conagra-Brands?utm_source=GHList&utm_medium=company">Conagra Brands</a></strong></td>
