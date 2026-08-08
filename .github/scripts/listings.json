@@ -1,28 +1,5 @@
 [
     {
-        "date_updated": 1765983013,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [
-            "Bachelor's"
-        ],
-        "url": "https://manh.wd5.myworkdayjobs.com/campus/job/Atlanta-GA/Cloud-Ops-Software-Engineer---Campus--Summer-2026-_16711",
-        "company_name": "Manhattan Associates",
-        "title": "Cloud Ops Software Engineer - Campus",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "c7b834a0-a2d2-41da-9e14-7a8db40ad432",
-        "date_posted": 1765484388,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Analytical Mechanics Associates",
