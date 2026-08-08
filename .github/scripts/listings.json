@@ -296840,7 +296840,7 @@
         "company_name": "Kabam",
         "id": "1f004155-2261-4b65-b964-4b7862bea55d",
         "title": "User Research Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2026"
@@ -299459,7 +299459,7 @@
         "company_name": "Copart",
         "id": "188c70e9-8a5c-445e-8bcf-9061fecdd0bb",
         "title": "Database Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -324304,7 +324304,7 @@
         "company_name": "CVS Health",
         "id": "08a728f0-6281-4206-a022-403284d64763",
         "title": "Analytics & Behavior Change - Engineering Undergrad - Conversion",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -333526,7 +333526,7 @@
         "company_name": "The Federal Reserve System",
         "id": "1924d443-3b61-47d4-addf-d6db4308935b",
         "title": "Graduate Statistical Analysis Intern - Regional & Community Outreach",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -338370,6 +338370,30 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Systems Planning and Analysis (SPA)",
+        "id": "0c687375-0fdb-4eb5-b7da-1951113f5b0a",
+        "title": "Science & Technology Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786181581,
+        "date_posted": 1786054266,
+        "url": "https://spa.jibeapply.com/jobs/23220?icims=1",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/System-Planning-And-Analysis",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
