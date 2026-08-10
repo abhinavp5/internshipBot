@@ -15768,27 +15768,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Mercer University",
-        "id": "ace4d0eb-8e17-4766-bf50-7bbc3ec27da8",
-        "title": "Engineering Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765638246,
-        "date_posted": 1765638246,
-        "url": "https://merceruniversity.wd1.myworkdayjobs.com/student/job/Warner-Robins-GA--31088-7810/Engineering-Intern_JR102934",
-        "locations": [
-            "Warner Robins, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mercer-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Zurich Insurance",
         "id": "a6ace6b4-e6b4-49e7-8966-5989c14cf7d9",
@@ -16498,28 +16477,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "HNTB",
-        "id": "ab95ccde-6879-429b-8442-43a769148ccb",
-        "title": "Environmental Planning Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765638923,
-        "date_posted": 1765638923,
-        "url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Raleigh-NC/Environmental-Planning-Intern---Summer-2026_R-27426",
-        "locations": [
-            "Raleigh, NC",
-            "North Charleston, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/HNTB",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -35173,30 +35130,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Avis Budget Group",
-        "id": "95546583-c57a-4303-a47b-ed41e3bc1f69",
-        "title": "Accelerate - Business Insights Analyst - Post Graduation Opportunity",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1765640056,
-        "date_posted": 1765640056,
-        "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Business-Insights-Analyst--Post-Graduation-Opportunity-_R0181082",
-        "locations": [
-            "Parsippany-Troy Hills, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Avis-Budget-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "British Columbia Investment",
         "id": "efcf2bcd-b5e8-4c93-a2db-7d560e17f645",
@@ -36788,31 +36721,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Centific",
-        "id": "0d4aced9-22bc-43d7-b6c8-2a964648b80e",
-        "title": "Student Worker",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1765638616,
-        "date_posted": 1765638616,
-        "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Part-time-student-worker_JR100994",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Centific",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
             "PhD"
         ]
     },
@@ -45802,30 +45710,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cadence Design Systems",
-        "id": "d83a6452-602f-437b-bd53-f9e7b112fb0a",
-        "title": "Product Engineering Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765639896,
-        "date_posted": 1765639896,
-        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/AUSTIN/Product-Engineering-Intern_R51691-2",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -259215,7 +259099,7 @@
         "company_name": "Primetals Technologies",
         "id": "8bcfb3f6-ce15-48ea-bde9-874808ef8dba",
         "title": "Data Science Intern - Data Platforms",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -275530,7 +275414,7 @@
         "company_name": "Tencent",
         "id": "f083247a-cf19-43ae-8834-7db704881503",
         "title": "Multimedia Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -319069,7 +318953,7 @@
         "company_name": "Dexterra Group",
         "id": "4d3560e6-35ec-4909-aef6-325e6f3920b4",
         "title": "Coordinator AI & Data Systems Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -322015,7 +321899,7 @@
         "company_name": "Pennsylvania State University",
         "id": "5fbba90c-984b-42ee-9d19-08f6cb6ad548",
         "title": "Electronic Materials and Devices Engineer Intern - Electronic Materials and Devices",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -325561,7 +325445,7 @@
         "company_name": "Capital One",
         "id": "53a2a495-c3df-469b-964d-b5d126fdc219",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -331464,7 +331348,7 @@
         "company_name": "CLEAResult",
         "id": "0d46d0ee-0a76-4970-9c7c-c4db40ae4fe5",
         "title": "Energy Efficiency Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
