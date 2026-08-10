@@ -265341,7 +265341,7 @@
         "company_name": "Canadian Tire",
         "id": "0f463052-90cf-461f-8e7e-1212e29e75df",
         "title": "Data Engineering Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -295324,7 +295324,7 @@
         "company_name": "Copart",
         "id": "188c70e9-8a5c-445e-8bcf-9061fecdd0bb",
         "title": "Database Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -316744,7 +316744,7 @@
         "company_name": "GE Healthcare",
         "id": "18762fe0-77c9-4c38-9e4c-d649c204e975",
         "title": "Surgery Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -329366,7 +329366,7 @@
         "company_name": "The Federal Reserve System",
         "id": "1924d443-3b61-47d4-addf-d6db4308935b",
         "title": "Graduate Statistical Analysis Intern - Regional & Community Outreach",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334358,6 +334358,50 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sony Music Entertainment",
+        "id": "4ff7c715-a529-4fd1-b03a-7e208e1721da",
+        "title": "Insight & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786353842,
+        "date_posted": 1786353760,
+        "url": "https://www.sonymusic.co.uk/careers/job-description/?gh_jid=8638298002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony-Music",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sony Music Entertainment",
+        "id": "08783e42-22f6-47ea-b391-ad53b2579350",
+        "title": "Data Analytics Intern - A&R Research",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1786353842,
+        "date_posted": 1786353758,
+        "url": "https://www.sonymusic.co.uk/careers/job-description/?gh_jid=8653163002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony-Music",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
