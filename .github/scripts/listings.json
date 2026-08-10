@@ -16071,27 +16071,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Thales",
-        "id": "16ccf466-0f7e-4730-8f8a-b40f9e1bf780",
-        "title": "Academy Engineer Apprentice \u2013 Level 5 Higher Level Apprenticeship - Mechatronic Engineering",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1765627964,
-        "date_posted": 1765627964,
-        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Belfast/XMLNAME-2026-Academy-Engineer-Apprentice--Level-5-_R0298427-1",
-        "locations": [
-            "Belfast, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Thales",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Marvell",
         "id": "dbad81b0-1aaf-4d32-8213-f645ba8f1ced",
         "title": "Design DSP Verification Intern - Bachelor's Degree",
@@ -17103,27 +17082,6 @@
             "Oshkosh, WI"
         ],
         "company_url": "https://simplify.jobs/c/Oshkosh",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Tokyo Electron",
-        "id": "0248af8a-217c-43b7-bfd2-db26a2af017b",
-        "title": "ATG 3DI Simulation Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765629726,
-        "date_posted": 1765629726,
-        "url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-MET-15/ATG-3DI-Simulation-Intern--Summer-2026-_R25-01554",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Tokyo-Electron",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -210779,7 +210737,7 @@
         "company_name": "Moog ",
         "id": "d8ba3403-7b44-457e-b0fa-fa0b885bfec1",
         "title": "Intern IT Computer Science - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -328425,7 +328383,7 @@
         "company_name": "PNC Financial Services",
         "id": "8d9b8a71-2379-496c-bfbe-ba06bd67f73e",
         "title": "Data and Analytics Intern - Modeling",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -333828,6 +333786,27 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Marshall-Wace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "eac8db70-c9b5-4336-aacd-473e34b2745d",
+        "title": "Research Assistant - FAIR Lab",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1785662101,
+        "date_posted": 1783163277,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant-in-FAIR-Lab--Prof-Hadi-Hosseini-_REQ_0000059527-2",
+        "locations": [
+            "University Park, State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
