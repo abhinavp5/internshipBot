@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 130 Inactive Internship Roles by Category
+### Browse 131 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (43)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (9)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (28)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (29)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (37)
 
@@ -504,6 +504,13 @@
 <td><strong><a href="https://simplify.jobs/c/Williams?utm_source=GHList&utm_medium=company">Williams</a></strong></td>
 <td>Engineering Intern</td>
 <td>Salt Lake City, UT<br>Houston, TX<br>Tulsa, OK</td>
+<td>🔒</td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/CNO-Financial-Group?utm_source=GHList&utm_medium=company">CNO Financial Group </a></strong></td>
+<td>Artificial Intelligence Information Technology Intern - AI</td>
+<td>Carmel, IN</td>
 <td>🔒</td>
 <td>7d</td>
 </tr>
