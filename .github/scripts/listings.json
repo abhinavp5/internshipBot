@@ -15915,27 +15915,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Micron Technology",
-        "id": "05e7612f-663c-407f-b254-06aa3c818000",
-        "title": "Intern \u2013 Probe Equipment Engineer",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765643083,
-        "date_posted": 1765643083,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Probe-Equipment-Engineer_JR81059",
-        "locations": [
-            "Boise, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "AMC Networks",
         "id": "1ed78cbb-38bf-4362-bda9-56a223e0b8ac",
@@ -333290,7 +333269,7 @@
         "company_name": "Eko Health",
         "id": "ccc26e13-7964-413d-8db2-404361781e7a",
         "title": "Clinical Product Strategy Intern - Clinical Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
