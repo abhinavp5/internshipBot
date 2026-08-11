@@ -309708,7 +309708,7 @@
         "company_name": "Odin Dynamics, Inc",
         "id": "7e9c41e0-72f6-4e65-8150-4a44cf26d415",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331626,7 +331626,7 @@
         "company_name": "RTX",
         "id": "5e274ea4-55e9-4ee0-8e93-82d466c18810",
         "title": "Systems Engineer 1 Intern - Intern Conversion",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
