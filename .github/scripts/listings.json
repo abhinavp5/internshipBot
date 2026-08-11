@@ -315904,7 +315904,7 @@
         "company_name": "Pennsylvania State University",
         "id": "cff6c5a6-5c4a-4f30-bb48-4543328cc059",
         "title": "Research Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333421,7 +333421,7 @@
         "company_name": "CLEAResult",
         "id": "cf9613df-d8e3-4474-87fd-386eaa1816e8",
         "title": "Energy Efficiency Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
