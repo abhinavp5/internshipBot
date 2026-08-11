@@ -304213,7 +304213,7 @@
         "company_name": "Leidos",
         "id": "51614fe5-c79b-42d9-997f-c9a22d17645c",
         "title": "Engineering Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -317398,7 +317398,7 @@
         "company_name": "Smiths Detection Group",
         "id": "138aace0-50eb-474e-bdb9-b1b513a1aa72",
         "title": "Commercial Intern - Commercial Tools & Business Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
