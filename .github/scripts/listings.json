@@ -88980,7 +88980,7 @@
         "company_name": "Exa Labs",
         "id": "35fa2d9c-f299-480e-9fe2-b35b1808c7aa",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -294257,7 +294257,7 @@
         "company_name": "ConnectPrep",
         "id": "a6f6dea0-a60c-411e-b4f6-09d69755164b",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -306193,7 +306193,7 @@
         "company_name": "Copart",
         "id": "2852d53d-1e2d-4026-9f6f-90758dc79f0a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -306373,7 +306373,7 @@
         "company_name": "Western Digital",
         "id": "01925f31-564d-4bc0-94fc-2a2717d3132d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -327203,7 +327203,7 @@
         "company_name": "HUB International",
         "id": "2930e1fb-2b4f-4e11-885f-44f806cb97cb",
         "title": "Student Programmer Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -330745,7 +330745,7 @@
         "company_name": "Rochester Regional Health",
         "id": "385dc12f-2ac2-4312-8605-7f8b09d77fd9",
         "title": "Web Applications Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331753,7 +331753,7 @@
         "company_name": "Deloitte",
         "id": "0b10eb53-ff2e-4bfb-bbac-181b11ff4891",
         "title": "Risk Analytics Analyst Intern - Government & Public Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -334324,7 +334324,7 @@
         "company_name": "Assured Guaranty",
         "id": "26469c50-c009-48da-9415-b146a1d441df",
         "title": "Product Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335669,6 +335669,52 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "f76334f0-b144-4ec8-9a36-f7bab853e4e7",
+        "title": "Firmware Engineer Intern - New Programs Engineering",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1786612888,
+        "date_posted": 1786612768,
+        "url": "https://www.tesla.com/careers/search/job/279991",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "5c3d16dc-fd92-4496-aeb5-c3bead9bdd18",
+        "title": "Data Science Intern - Advertisement Team",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786612321,
+        "date_posted": 1786612217,
+        "url": "https://lifeattiktok.com/search/7673226686054107445",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
