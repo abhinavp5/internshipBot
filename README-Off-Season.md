@@ -111,7 +111,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Roanoke, VA</td>
 <td>Spring 2027</td>
 <td><div align="center"><a href="https://apply.workable.com/tmeic-corporation-americas/j/D44B74C42B/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8805a32d-c38e-4a8a-8843-ed203eec617f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/1538700b-2577-4b98-8b18-62956174eca0?utm_source=GHList&utm_medium=company">Felix Magazine</a></strong></td>
