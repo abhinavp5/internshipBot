@@ -301794,7 +301794,7 @@
         "company_name": "National Laboratory of the Rockies",
         "id": "cbd572b1-88d5-4325-a534-e4b8b03290c6",
         "title": "Graduate Intern - Transportation Systems Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -303565,7 +303565,7 @@
         "company_name": "Semtech",
         "id": "165173b5-9af2-4e5c-929e-0274613ad6b0",
         "title": "Salesforce QA & Data Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -310370,7 +310370,7 @@
         "company_name": "Adtheorant",
         "id": "3233fcfb-8678-4efa-8fe0-1034b9db4a52",
         "title": "Enterprise AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
