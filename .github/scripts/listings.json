@@ -310370,7 +310370,7 @@
         "company_name": "Adtheorant",
         "id": "3233fcfb-8678-4efa-8fe0-1034b9db4a52",
         "title": "Enterprise AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -321875,7 +321875,7 @@
         "company_name": "SRI International",
         "id": "0184a4dc-b3d8-4d2b-ab22-6675bc6e4ec3",
         "title": "Embedded Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
