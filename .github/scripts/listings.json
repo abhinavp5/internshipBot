@@ -1,26 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Baker Hughes",
-        "id": "76d54f13-b82e-4e08-bbc4-3c0faf3eab51",
-        "title": "Engineering Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765892593,
-        "date_posted": 1765892593,
-        "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-OX-ABINGDON-16-NORTH-CENTRAL/Engineering-Intern_R157688",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Baker-Hughes",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1765902404,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -190388,7 +190367,7 @@
         "company_name": "ByteDance",
         "id": "f1916feb-f156-4153-baa5-e26c75d5ae6f",
         "title": "Research Scientist in Large Language Model - LLM",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -190694,7 +190673,7 @@
         "company_name": "ByteDance",
         "id": "fe92a675-1a53-4b88-a3e3-7e810871610d",
         "title": "Research Scientist in Vision Foundation Model \u2013 Graduates",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -272455,7 +272434,7 @@
         "company_name": "Tencent",
         "id": "f083247a-cf19-43ae-8834-7db704881503",
         "title": "Multimedia Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -307550,7 +307529,7 @@
         "company_name": "SpreeAI ",
         "id": "b307b311-8a8c-4096-bd3b-0d244f3423f0",
         "title": "Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -309581,7 +309560,7 @@
         "company_name": "GE Aerospace",
         "id": "ceffdfc7-2794-424e-836b-524a7a195428",
         "title": "Embedded Systems Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -319202,7 +319181,7 @@
         "company_name": "Protech Automotive Solutions",
         "id": "dd115846-414f-4a92-b7d1-b2079912aecb",
         "title": "Automotive ADAS Calibration Technician Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332858,7 +332837,7 @@
         "company_name": "RTX",
         "id": "41b56c92-c264-49ff-abb9-86b1d910b890",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -335763,5 +335742,26 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics",
+        "id": "fcd17b4c-48db-46a4-8f82-aab4e940189e",
+        "title": "Tester Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786627125,
+        "date_posted": 1786388338,
+        "url": "https://careers-gd-ots.icims.com/jobs/36775/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Colchester, VT"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
