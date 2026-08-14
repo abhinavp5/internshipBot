@@ -1,157 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Method",
-        "id": "3cf3f51b-bc07-4e1e-b863-27ad1f3a8dac",
-        "title": "Residency Program - UK",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765989923,
-        "date_posted": 1765989923,
-        "url": "https://job-boards.greenhouse.io/method/jobs/6302663003",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/MethodGL",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cadence Design Systems",
-        "id": "ae49a04a-b4ee-4e1d-a162-de2baa6ee87b",
-        "title": "Intern Software Engineer - Summer 2026 - Three Month Duration",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765990296,
-        "date_posted": 1765990296,
-        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/EDINBURGH-01/Intern-Software-Engineer--Summer-2026--Three-Month-Duration-_R52359",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ripple",
-        "id": "c889cf3d-666f-43b8-ac9d-bcdb0a69a6c9",
-        "title": "C++ Software Engineer Intern - Ripplex",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765989917,
-        "date_posted": 1765989917,
-        "url": "https://ripple.com/careers/all-jobs/job/7467107?gh_jid=7467107",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ripple",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ciena",
-        "id": "22c4d75a-9770-4e81-a709-7304bb5e54de",
-        "title": "Hardware Design Co-Op - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765989704,
-        "date_posted": 1765989704,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Design-Co-Op--Summer-2026-_R029620",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Realtor.com",
-        "id": "bc43a8f3-9ece-4593-8cb0-7df3083419e2",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765989966,
-        "date_posted": 1765989966,
-        "url": "https://boards.greenhouse.io/rdccareers/jobs/7453223003",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Realtordotcom",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Method",
-        "id": "d00fad58-6666-4c20-81ed-911b3ac86884",
-        "title": "Residency Program - USA",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765989934,
-        "date_posted": 1765989934,
-        "url": "https://job-boards.greenhouse.io/method/jobs/5959593003",
-        "locations": [
-            "Canada",
-            "Santa Clara, CA",
-            "Charlotte, NC",
-            "NYC",
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/MethodGL",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Aberdeen",
-        "id": "f8dc4fbc-efee-4c75-b473-5b81bc0a75fa",
-        "title": "Data & Analytics Apprentice",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1765990140,
-        "date_posted": 1765990140,
-        "url": "https://abrdn.wd3.myworkdayjobs.com/abrdn/job/Edinburgh/Data---Analytics-Apprentice_R0073486",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Aberdeen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Royal Bank of Canada",
         "id": "47369e3c-7b4c-4cb5-9f90-c8f641c04e2c",
@@ -24374,30 +24223,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Westwood",
-        "id": "351c4649-67e4-4a07-ae95-4105095dcb82",
-        "title": "Survey Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768260626,
-        "date_posted": 1765989274,
-        "url": "https://careers-westwoodps.icims.com/jobs/7163/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Westwood",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Kapitus",
         "id": "cb5dcac7-30c7-439b-8077-d204eeb8589b",
         "title": "Intern \u2013 Data Science",
@@ -32846,29 +32671,6 @@
             "Liberty Lake, WA"
         ],
         "company_url": "https://simplify.jobs/c/SEL",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Mission Systems",
-        "id": "ef8f5bde-ff3f-459e-a5bf-5bdc98d382b1",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768519543,
-        "date_posted": 1765989247,
-        "url": "https://careers-gdms.icims.com/jobs/70183/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -319229,7 +319031,7 @@
         "company_name": "Rodan Energy Solutions Inc.",
         "id": "31064e52-65df-476b-89b9-d83f6663a2cc",
         "title": "Artificial Intelligence Co-op - Data Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -328033,7 +327835,7 @@
         "company_name": "CLEAResult",
         "id": "cf9613df-d8e3-4474-87fd-386eaa1816e8",
         "title": "Energy Efficiency Analyst Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -334471,5 +334273,141 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dmg Media",
+        "id": "4d2fd538-d00b-4c2f-9137-dd8193ee0066",
+        "title": "AI Engineer Intern - Innovation Team",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786728270,
+        "date_posted": 1786728035,
+        "url": "https://www.dmgmedia.co.uk/careers/jobs/id/8130352?gh_jid=8130352",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Dmg-Media",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Pikeville",
+        "id": "7c0230d2-2b89-42c4-a691-ceb3f880dd7b",
+        "title": "Economic Development and Tourism Assistant Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1786728200,
+        "date_posted": 1786727876,
+        "url": "https://upike.bamboohr.com/careers/491/",
+        "locations": [
+            "Pikeville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/3ff34a66-5376-4805-977f-32d0b7c61b05",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Inherent",
+        "id": "f69493f0-d5b2-484f-9ae5-3af6564e37c3",
+        "title": "Research Fellow",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1786728184,
+        "date_posted": 1786727866,
+        "url": "https://jobs.ashbyhq.com/inherent/99476712-ec65-415d-928a-ec92e5c27a73/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/3416e53e-5836-4629-b9ff-228fb66475e0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Schweitzer Engineering Laboratories",
+        "id": "96d0c172-f893-4193-9ab7-44f5238a335c",
+        "title": "Test Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786728131,
+        "date_posted": 1786665600,
+        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Engineering-Intern_2026-22411",
+        "locations": [
+            "Pullman, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SEL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "PGIM",
+        "id": "9cc8a439-1e3e-458b-86ca-a66d29624c35",
+        "title": "Public Credit Summer Investment Analyst Intern - Portfolio Analysis Group",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786727974,
+        "date_posted": 1786665600,
+        "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Public-Credit--Summer-Investment-Analyst-Program--Portfolio-Analysis-Group-_R-124835",
+        "locations": [
+            "Newark, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/PGIM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Baker Hughes",
+        "id": "25747e2e-ee6b-44e3-bc88-704d6db5696a",
+        "title": "Benefit Tool Developer Intern - Month Fixed Term Contract",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786727987,
+        "date_posted": 1786665600,
+        "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-AC-ABERDEEN-BAKER-HUGHES-BUILDING/Intern---Benefit-Tool-Developer--12-Month-Fixed-Term-Contract-_R168066",
+        "locations": [
+            "Aberdeen, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Baker-Hughes",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
