@@ -578,16 +578,16 @@
 <td>2d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Sargent-And-Lundy?utm_source=GHList&utm_medium=company">Sargent & Lundy</a></strong></td>
-<td>AI & Automation Intern - Enterprise Data & Analytics</td>
-<td>Chicago, IL</td>
+<td><strong><a href="https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company">Booz Allen</a></strong></td>
+<td>AI RAN Telecommunications Engineer Intern</td>
+<td>McLean, VA</td>
 <td>🔒</td>
 <td>3d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Montenson?utm_source=GHList&utm_medium=company">Montenson</a></strong></td>
-<td>Sustainability Engineer Intern</td>
-<td>Denver, CO</td>
+<td><strong><a href="https://simplify.jobs/c/Sargent-And-Lundy?utm_source=GHList&utm_medium=company">Sargent & Lundy</a></strong></td>
+<td>AI & Automation Intern - Enterprise Data & Analytics</td>
+<td>Chicago, IL</td>
 <td>🔒</td>
 <td>3d</td>
 </tr>
@@ -771,7 +771,7 @@
 <td>Data Engineering Intern Co-op</td>
 <td>Milwaukee, WI</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Vanguard?utm_source=GHList&utm_medium=company">Vanguard</a></strong></td>
