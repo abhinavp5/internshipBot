@@ -1,113 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "KBR",
-        "id": "4ad6b447-d58a-4bf8-93c3-a6b770eb8ecd",
-        "title": "National Security Solutions \u2013 Software Engineering Intern - Nss",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1765929661,
-        "date_posted": 1765929661,
-        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/National-Security-Solutions--NSS----Systems-Engineering-Learning-Coordinator-Intern_R2116573",
-        "locations": [
-            "Beavercreek, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/KBR",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Applied Materials",
-        "id": "a8c13f3a-4a13-4143-8d8f-2c992bfb16c1",
-        "title": "2026 Summer \u2013 Plasma Products Modeling Physicist/Scientist Intern - PhD - Santa Clara, CA",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765930216,
-        "date_posted": 1765930216,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer---Plasma-Products-Modeling-Physicist-Scientist-Intern---PhD--Santa-Clara--CA-_R2519927",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Bose",
-        "id": "fc27401f-6958-43c8-9e4b-dfd74316ed97",
-        "title": "Software Engineer in Test Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Spring 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1765932156,
-        "date_posted": 1765932156,
-        "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Software-Engineer-in-Test-Co-op_R28310",
-        "locations": [
-            "Framingham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Bose",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "HCSC",
-        "id": "52db06f8-9617-4e7c-b776-eef2a1b0c832",
-        "title": "Early Careers \u2013 Associate Automation Programmer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1765932146,
-        "date_posted": 1765932146,
-        "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Early-Careers---Associate-Automation-Programmer-Intern_R0053163",
-        "locations": [
-            "Richardson, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/de9db5fc-93ac-4e2a-873c-61d8a830873c",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Samsung Research America",
-        "id": "056cee09-b28b-4ba9-8202-185094b38e2e",
-        "title": "Intern - Product Development Engineer - Summer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765938057,
-        "date_posted": 1765938057,
-        "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8335701002",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Samsung-Research-America",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Royal Bank of Canada",
         "id": "f81069ed-ad4e-4318-8dfc-c634ebb35a20",
@@ -12012,48 +11905,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Genentech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "c625f680-78e2-4820-8b43-ec1cce15d9c9",
-        "title": "Web Applications Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765937337,
-        "date_posted": 1765937337,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28482",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "286eaf1e-7806-4660-be9d-cb2487a36369",
-        "title": "Wireless Systems Research Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1765937344,
-        "date_posted": 1765937344,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28470",
-        "locations": [
-            "Berkeley Heights, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -31730,32 +31581,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Royal Bank of Canada",
-        "id": "ddccae9f-2815-4948-8c25-9fac2c92e9b9",
-        "title": "2026 Summer Student Opportunities RBC Borealis-Machine Learning Software Engineer - 4 - 8 Months",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1765930995,
-        "date_posted": 1765930995,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Summer-Student-Opportunities-RBC-Borealis--Developer--4-8-Months-_R-0000152088",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Calgary, AB, Canada",
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -307993,7 +307818,7 @@
         "company_name": "Ciena",
         "id": "3dbf7cdf-f9d4-45de-88c4-96a4d3ec984d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -316793,7 +316618,7 @@
         "company_name": "American Enterprise Institute",
         "id": "f5642c16-daa2-4dc0-b84e-72e8da651a10",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -323209,7 +323034,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "430476fa-929a-40d6-baa9-2ff79a9c2899",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
