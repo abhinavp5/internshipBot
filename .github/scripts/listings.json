@@ -33123,7 +33123,7 @@
         "company_name": "Vendelux",
         "id": "08a8a761-d653-47a6-87d0-fb6aeef65d5e",
         "title": "Part Time Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025"
@@ -45421,7 +45421,7 @@
         "company_name": "Vendelux",
         "id": "58ae974d-ee3d-44c5-bcbd-c75bfd65521d",
         "title": "Tech Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2025"
@@ -326699,7 +326699,7 @@
         "company_name": "John Deere",
         "id": "17936a1f-6724-46a7-a97a-6feceb9c2a92",
         "title": "Part-Time Student - Dynamic Systems Modeling - Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
