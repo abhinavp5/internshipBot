@@ -185428,7 +185428,7 @@
         "company_name": "Berkshire Hathaway Energy",
         "id": "13a714f5-027b-4b8e-be94-64ba849ff5a6",
         "title": "Intern \u2013 Corp IT - Grid Operations Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -301590,7 +301590,7 @@
         "company_name": "Signify",
         "id": "53b05ee3-6604-4622-a8aa-3ec9ea7bfde6",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -307212,7 +307212,7 @@
         "company_name": "Excel Sports Management",
         "id": "8561f5cd-b767-461e-9de0-0a7862069ef8",
         "title": "Analytics Intern - Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
