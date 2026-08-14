@@ -316120,7 +316120,7 @@
         "company_name": "Pennsylvania State University",
         "id": "81bbe61a-df86-4fa1-a950-419d7386fe0b",
         "title": "Research Associate",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
