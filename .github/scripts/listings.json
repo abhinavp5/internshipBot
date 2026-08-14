@@ -284296,7 +284296,7 @@
         "company_name": "Centerfield",
         "id": "5116a1a4-a977-4162-a4be-3d2edc2d0f4a",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -312569,7 +312569,7 @@
         "company_name": "Ciena",
         "id": "526d4a4f-c5cc-4a59-9843-9913e8ac5685",
         "title": "Software Liquid Spectrum Applications Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
