@@ -228727,7 +228727,7 @@
         "company_name": "Apptronik",
         "id": "607b4415-ebae-4f35-9ca9-6d14d2ce86ce",
         "title": "Robotics Software Intern - Real-Time Controls",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -249295,7 +249295,7 @@
         "company_name": "SiFive",
         "id": "ec5e83b4-1cb5-4b81-9056-28110a076c6e",
         "title": "Platform Technologies Language Design Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -311307,7 +311307,7 @@
         "company_name": "National Laboratory of the Rockies",
         "id": "d821822b-83af-4852-9853-6c6285ac4f11",
         "title": "Focused Ion Beam, Electron Microscopy, and Autonomous Characterization Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -311355,7 +311355,7 @@
         "company_name": "Teledyne",
         "id": "27efbcea-6708-4710-8174-3ba9ade33314",
         "title": "CMOS Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -311399,7 +311399,7 @@
         "company_name": "Arkema Global",
         "id": "73204d10-3227-4e0a-a54c-1c869cac51f0",
         "title": "Manufacturing Data Systems Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -311422,7 +311422,7 @@
         "company_name": "Cloudflare",
         "id": "c97b1332-a2e5-4276-8d54-70df4b7c21e7",
         "title": "Research Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -311466,7 +311466,7 @@
         "company_name": "Virtu Financial",
         "id": "d8419553-b116-44e9-8ec0-d1ae843c6512",
         "title": "Frontend Developer Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -311489,7 +311489,7 @@
         "company_name": "Redwood Materials",
         "id": "42a4495c-329d-4277-8dcf-363d9fabcffd",
         "title": "Embedded Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -311648,7 +311648,7 @@
         "company_name": "Tesla",
         "id": "0fe46774-0c06-4ab5-94e3-f5f8af293290",
         "title": "Software Engineer Intern - Software Engineer - AI Infrastructure",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -312391,7 +312391,7 @@
         "company_name": "University of Virginia Investment Management Company (UVIMCO)",
         "id": "7c270e85-d47c-4c59-88ce-1f61ded9511a",
         "title": "Investment Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -333035,7 +333035,7 @@
         "company_name": "First American",
         "id": "cacbb3b2-0e62-4234-a536-a54968746677",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333859,7 +333859,7 @@
         "company_name": "Goldman Sachs",
         "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333880,7 +333880,7 @@
         "company_name": "Goldman Sachs",
         "id": "a81b0d30-e122-4b3c-9290-3e85c9f02707",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -333901,7 +333901,7 @@
         "company_name": "Goldman Sachs",
         "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
         "title": "Summer Associate Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333927,7 +333927,7 @@
         "company_name": "Goldman Sachs",
         "id": "1c9f2e98-f998-4541-bd39-aec405d39f11",
         "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333950,7 +333950,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
         "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -334042,7 +334042,7 @@
         "company_name": "Goldman Sachs",
         "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -334068,7 +334068,7 @@
         "company_name": "Goldman Sachs",
         "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -334094,7 +334094,7 @@
         "company_name": "Goldman Sachs",
         "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -334117,7 +334117,7 @@
         "company_name": "Goldman Sachs",
         "id": "1d850622-b67b-4965-a25c-f6872d8a1c79",
         "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -334140,7 +334140,7 @@
         "company_name": "Goldman Sachs",
         "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
         "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -334156,6 +334156,31 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Replit",
+        "id": "7e21b76f-fae1-4564-9f64-456d019b46b2",
+        "title": "Software Engineer Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786833603,
+        "date_posted": 1786833496,
+        "url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Replit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
