@@ -1,263 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GE Vernova",
-        "id": "7d75038b-93ac-43e1-a4da-a295dd81507c",
-        "title": "GE Vernova Data Scientist Intern - Market & Customer Insights - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766015880,
-        "date_posted": 1766015880,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Cambridge/GE-Vernova-Data-Scientist-Intern---Market---Customer-Insights---Summer-2026_R5028300-1",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Motorola",
-        "id": "25c10f28-e59e-45e8-82af-1153992322c4",
-        "title": "Data Engineering Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766015567,
-        "date_posted": 1766015567,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Data-Engineering-Co-Op_R60013",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Inmar Intelligence",
-        "id": "cb6576b7-d144-4b9e-8290-d69c83ec49fc",
-        "title": "Backend Platform Intern - Digital Promotions Network Team",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766015195,
-        "date_posted": 1766015195,
-        "url": "https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Headquarters-Winston-Salem-NC/Backend-Platform-Intern--Digital-Promotions-Network-Team--Summer-2026_JY2526687",
-        "locations": [
-            "Winston-Salem, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Inmar-Intelligence",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ASML",
-        "id": "db25d4b3-623e-46d9-9818-fb16cee75542",
-        "title": "Intern - Optical Imaging Product Engineer",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766014858,
-        "date_posted": 1766014858,
-        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Optical-Imaging-Product-Engineer_J-00328141",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ASML",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Realtor.com",
-        "id": "c7f817fe-2fde-49bf-b802-d667040ae7fc",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766014938,
-        "date_posted": 1766014938,
-        "url": "https://boards.greenhouse.io/rdccareers/jobs/7453218003",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Realtordotcom",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ASML",
-        "id": "c2dd1ba2-3b3f-4b79-b53e-56d67de2396a",
-        "title": "Internship - Software Engineer In Test - Mod",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766014850,
-        "date_posted": 1766014850,
-        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Engineer-In-Test--MOD-_J-00328009",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ASML",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Astranis",
-        "id": "5f0e404d-5fde-482a-aee6-8b80ba36ce3d",
-        "title": "Software Developer \u2013 Network Software Intern - Spring 2026",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766014541,
-        "date_posted": 1766014541,
-        "url": "https://job-boards.greenhouse.io/astranis/jobs/4601717006",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Astranis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Genmab",
-        "id": "91a09c24-a82c-496a-9169-747909f02bf1",
-        "title": "External Data Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766016854,
-        "date_posted": 1766016854,
-        "url": "https://genmab.wd3.myworkdayjobs.com/Genmab_Careers_Site/job/Princeton/External-Data-Management-Intern_R14859-1",
-        "locations": [
-            "Princeton, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Genmab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Leidos",
-        "id": "bb5bb588-74ac-4afb-b046-540419cb6bb5",
-        "title": "Engineering Intern - Modeling & Simulation Applications",
-        "active": false,
-        "terms": [
-            "Winter 2025"
-        ],
-        "date_updated": 1766014411,
-        "date_posted": 1766014411,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/XMLNAME---Engineering-Intern---Modeling---Simulation-Applications-_R-00172342",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Leidos",
-        "id": "ba238e5e-0d7f-4ab0-8497-58ce80b64109",
-        "title": "FPGA Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766014404,
-        "date_posted": 1766014404,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/FPGA-Engineer-Intern_R-00167328",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Roche",
-        "id": "f970bccc-1cfc-43d0-9481-9f06952115cc",
-        "title": "2026 Summer Intern - Contact Center - AI Reshape",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766015915,
-        "date_posted": 1766015915,
-        "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Indianapolis/XMLNAME-2026-Summer-Intern---Contact-Center---AI-Reshape_202512-131762",
-        "locations": [
-            "Indianapolis, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Roche",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Washington Post",
-        "id": "30faaca0-ae57-46ad-b694-ed719a6bffc4",
-        "title": "Intern - iOS App Development",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766014341,
-        "date_posted": 1766014341,
-        "url": "https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Summer-Intern--iOS-App-Development_JR-90275642",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Washington-Post",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Crane Co.",
         "id": "03f529ba-ec2e-4f9c-91f6-058feebe17d8",
@@ -9911,27 +9654,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "AstraZeneca",
-        "id": "4e462424-1e3b-4a65-8bd8-b3656a838e7b",
-        "title": "Automation Technician Intern - Waltham - MA",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766015759,
-        "date_posted": 1766015759,
-        "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Waltham---MA/Automation-Technician-Intern---Waltham--MA_R-242042",
-        "locations": [
-            "Waltham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/AstraZeneca",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "AMC Networks",
         "id": "1ed78cbb-38bf-4362-bda9-56a223e0b8ac",
@@ -10011,27 +9733,6 @@
             "Independence, KS"
         ],
         "company_url": "https://simplify.jobs/c/Textron",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AstraZeneca",
-        "id": "587b6f02-dca7-4a2e-81c5-93322bb5778e",
-        "title": "Quantitative Sciences & Statistical Programming Intern \u2013 Graduate",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766014833,
-        "date_posted": 1766014833,
-        "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Boston---MA/Quantitative-Sciences---Statistical-Programming-Intern---Graduate_R-242061-1",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/AstraZeneca",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -60996,29 +60697,6 @@
         "date_updated": 1769740801,
         "date_posted": 1769740801,
         "url": "https://job-boards.greenhouse.io/astranis/jobs/4646558006",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Astranis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Astranis",
-        "id": "f261c77c-0715-41ae-b517-3e4e0158793a",
-        "title": "Software Developer - Network Software Associate",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1769740805,
-        "date_posted": 1766014536,
-        "url": "https://job-boards.greenhouse.io/astranis/jobs/4621916006",
         "locations": [
             "SF"
         ],
@@ -286848,7 +286526,7 @@
         "company_name": "Kensington",
         "id": "242eb72c-f5bc-41bc-ac2c-bbefd8da41a9",
         "title": "Operations Intern - Ultraluxe Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -321390,7 +321068,7 @@
         "company_name": "RTX",
         "id": "7a398a79-2792-4181-8700-a5fbd8d17e76",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -325523,7 +325201,7 @@
         "company_name": "Axon",
         "id": "6eff9788-f38e-4357-8646-cd6f5984f3cb",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -330915,7 +330593,7 @@
         "company_name": "Cotiviti",
         "id": "094fc400-8cf1-4839-8605-e5f144700551",
         "title": "Agentic AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
