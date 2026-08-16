@@ -222293,7 +222293,7 @@
         "company_name": "Corpay",
         "id": "3f608301-24e9-44cc-a414-5e9d5f26a2d3",
         "title": "Software Developer \u2013 Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -248080,7 +248080,7 @@
         "company_name": "SiFive",
         "id": "ec5e83b4-1cb5-4b81-9056-28110a076c6e",
         "title": "Platform Technologies Language Design Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -330032,7 +330032,7 @@
         "company_name": "RTX",
         "id": "58f7e9f6-b7b9-4af8-bfd7-466b0e3255e7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
