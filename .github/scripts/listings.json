@@ -133318,7 +133318,7 @@
         "company_name": "Tencent",
         "id": "f682356d-55da-4f90-987d-77f140cc652d",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -239580,7 +239580,7 @@
         "company_name": "SOTI",
         "id": "10b8ba9b-4b53-4c9d-ac43-9343422d6e2d",
         "title": "Associate Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
