@@ -265433,7 +265433,7 @@
         "company_name": "CHEP",
         "id": "513d3867-26bc-4203-8cd2-ade981572975",
         "title": "FP&A Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -323325,7 +323325,7 @@
         "company_name": "RTX",
         "id": "52462af1-1206-44dd-b198-4abe760812d3",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -329780,7 +329780,7 @@
         "company_name": "RTX",
         "id": "39be2363-aaad-4bf0-9f3a-19906a6a8182",
         "title": "Electrical Computer-Aided Design Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
