@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 176 Inactive Internship Roles by Category
+### Browse 177 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (61)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (62)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (10)
 
@@ -110,6 +110,13 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/GE-Vernova?utm_source=GHList&utm_medium=company">GE Vernova</a></strong></td>
+<td>Engineering Intern</td>
+<td>Niskayuna, NY</td>
+<td>🔒</td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Engineering Intern</td>
 <td>Niskayuna, NY</td>
 <td>🔒</td>

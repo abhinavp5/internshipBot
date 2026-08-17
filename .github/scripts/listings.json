@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Oracle",
-        "id": "ca02d914-593b-486b-8f1a-3cbedfb545cd",
-        "title": "Advanced Degree Software Engineer Intern - Industries",
-        "active": true,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766247431,
-        "date_posted": 1766247431,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/320947",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Tencent",
         "id": "eb14174f-2e4d-4c27-90c6-67df2ddef557",
@@ -326610,7 +326589,7 @@
         "company_name": "GE Vernova",
         "id": "f34b1f76-8c04-44e3-af69-ab94a7694d4b",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
