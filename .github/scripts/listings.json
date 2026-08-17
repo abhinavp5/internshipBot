@@ -277047,7 +277047,7 @@
         "company_name": "Toyota Research Institute",
         "id": "273f2fca-4713-4c20-bec3-d66035a63bee",
         "title": "Energy & Materials Intern - XRD Advanced Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -280760,7 +280760,7 @@
         "company_name": "GE Healthcare",
         "id": "009aa0e5-f1fe-461e-a657-02ba62af5a90",
         "title": "Field Service Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -281872,7 +281872,7 @@
         "company_name": "Intuitive Surgical",
         "id": "674ac6b3-40da-4f19-a637-3d0afc3a261b",
         "title": "Computer Vision Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
