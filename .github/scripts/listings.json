@@ -1,49 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Royal Bank of Canada",
-        "id": "9790c1c2-2514-44e8-a1a7-b754c7f8afa7",
-        "title": "Relationship Manager \u2013 Business Markets Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766193904,
-        "date_posted": 1766193904,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/LLOYDMINSTER-Alberta-Canada/Relationship-Manager--Business-Markets-Intern_R-0000144603",
-        "locations": [
-            "Kitscoty, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Arch Capital Group",
-        "id": "b5ee5175-e0a8-4b2b-bd1a-6457c28830da",
-        "title": "Insurance Operations Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766193520,
-        "date_posted": 1766193520,
-        "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Jersey-City-NJ-United-States-of-America/Insurance-Operations-Summer-Intern_R25_808",
-        "locations": [
-            "Hartford, CT",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Arch-Capital-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Motorola",
         "id": "2682d4f1-2fb9-495a-bed3-46d5d16125fd",
@@ -22404,29 +22361,6 @@
         "degrees": [
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Clayton",
-        "id": "aa2d6b26-2406-490e-8588-22b7f3680b6f",
-        "title": "Marketing Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768389680,
-        "date_posted": 1766195121,
-        "url": "https://claytonhomes.wd1.myworkdayjobs.com/ClaytonCareers/job/Maryville-TN/Consumer-Insights-Intern_JR126944",
-        "locations": [
-            "Maryville, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/Clayton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
