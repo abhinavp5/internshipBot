@@ -6105,27 +6105,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AbbVie",
-        "id": "e2367c3d-4be5-4b5d-aff3-039fec081dac",
-        "title": "Statistics Intern - PhD",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766222335,
-        "date_posted": 1766222335,
-        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990010808696",
-        "locations": [
-            "Livingston, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/AbbVie",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Evercore",
         "id": "73f2a6a1-42b0-42e0-83b5-d44e276b2a30",
@@ -329801,7 +329780,7 @@
         "company_name": "RTX",
         "id": "39be2363-aaad-4bf0-9f3a-19906a6a8182",
         "title": "Electrical Computer-Aided Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -331022,7 +331001,7 @@
         "company_name": "Photon",
         "id": "3a2e2c86-3612-46c8-891d-50a65e292f46",
         "title": "Software Engineering Intern - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
