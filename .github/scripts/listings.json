@@ -281354,7 +281354,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "3cb15cd2-4921-403c-adee-e05fb84c6dda",
         "title": "Quantitative Trader Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -302026,7 +302026,7 @@
         "company_name": "Tencent",
         "id": "1a2e27d2-16f9-4a71-9f87-70a2b51b8041",
         "title": "AI Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
