@@ -294910,7 +294910,7 @@
         "company_name": "Perplexity AI",
         "id": "667a14b7-c214-403c-b1c1-adcde95fec1a",
         "title": "AI Inference Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -302797,7 +302797,7 @@
         "company_name": "Rivian",
         "id": "c2ae75ae-db63-4c6a-8c96-45db53afbd4c",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -324632,7 +324632,7 @@
         "company_name": "RTX",
         "id": "4e5a3408-a4e1-4fd4-bdc8-f76d25074374",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -326633,7 +326633,7 @@
         "company_name": "GE Vernova",
         "id": "2c773875-aa62-411f-a839-511d6f823d7d",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -331355,6 +331355,218 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rivian",
+        "id": "b6112e21-7193-4107-bf60-6a9ac74a7a62",
+        "title": "FPGA Design Intern - FPGA Design",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786975776,
+        "date_posted": 1786975587,
+        "url": "https://careers.rivian.com/jobs/32954?icims=1",
+        "locations": [
+            "Champaign, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "FAST Enterprises",
+        "id": "7838c307-daa5-4e75-b8c2-7218ab2354cb",
+        "title": "Implementation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786975561,
+        "date_posted": 1786975505,
+        "url": "https://careers.fastenterprises.com/jobs/1709?icims=1",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/FAST-Enterprises",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Levi Strauss & Co.",
+        "id": "2d31a59a-d33d-49cb-be61-428d92dfb81f",
+        "title": "Analytics Intern - eCommerce",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786975220,
+        "date_posted": 1786924800,
+        "url": "https://levistraussandco.wd5.myworkdayjobs.com/external/job/London-United-Kingdom/Analytics-Intern_R-0155618-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Levi-Strauss-And-Co",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Daktronics",
+        "id": "2d5652ce-87cd-41ef-8453-45d2959aa511",
+        "title": "Firmware/Hardware Design Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1786977361,
+        "date_posted": 1786977305,
+        "url": "https://careers-daktronics.icims.com/jobs/7491/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Brookings, SD"
+        ],
+        "company_url": "https://simplify.jobs/c/Daktronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Datadog",
+        "id": "31355168-e211-42dc-a7b5-c84567c929cc",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1786977361,
+        "date_posted": 1786977338,
+        "url": "https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Datadog",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Daktronics",
+        "id": "e658f2bd-3684-4904-93bd-12354df5a4de",
+        "title": "Software Design Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1786977361,
+        "date_posted": 1786977303,
+        "url": "https://careers-daktronics.icims.com/jobs/7493/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Brookings, SD",
+            "Rapid City, SD"
+        ],
+        "company_url": "https://simplify.jobs/c/Daktronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Daktronics",
+        "id": "acf8f34c-8d43-4ef2-9889-9015ed860c47",
+        "title": "Firmware/Hardware Design Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1786977361,
+        "date_posted": 1786977304,
+        "url": "https://careers-daktronics.icims.com/jobs/7492/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Rapid City, SD"
+        ],
+        "company_url": "https://simplify.jobs/c/Daktronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Datadog",
+        "id": "47fe2157-ddd3-4233-87d7-cf96058a286d",
+        "title": "Software Engineer Intern - Observability and Security Platform",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1786977431,
+        "date_posted": 1786977339,
+        "url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095",
+        "locations": [
+            "Boston, MA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Datadog",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Canadian Tire",
+        "id": "34101c0f-9710-4470-98d2-e87daabec45b",
+        "title": "Digital Product Owner Student",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1786977181,
+        "date_posted": 1786924800,
+        "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Digital-Product-Owner-Student--4-months----Fall-2026_JR164224",
+        "locations": [
+            "Oakville, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Canadian-Tire",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
