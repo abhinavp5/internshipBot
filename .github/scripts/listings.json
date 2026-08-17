@@ -315359,7 +315359,7 @@
         "company_name": "Samsara",
         "id": "43a2a7c2-28cb-4d16-9914-b1e324a8c4a5",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2028"
         ],
@@ -328528,7 +328528,7 @@
         "company_name": "SAM",
         "id": "4d89d8ce-29c7-48d4-9a03-db3096797ce6",
         "title": "Geomatics Technician Apprentice - Survey and Mapping",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -329236,7 +329236,7 @@
         "company_name": "Arevon",
         "id": "3df0dee1-2ac5-4bbe-b99a-36f1eeb8f927",
         "title": "Data Science Intern - Interconnection & Transmission",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
