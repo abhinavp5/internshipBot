@@ -306791,7 +306791,7 @@
         "company_name": "Bosch Home Comfort",
         "id": "7b87bfa3-a92f-4b2b-b94d-0a62fcd2df64",
         "title": "ADAS Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -319000,7 +319000,7 @@
         "company_name": "Ameren",
         "id": "1d141ae3-445d-4c73-a4f0-91e749a0625b",
         "title": "Data Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -327219,7 +327219,7 @@
         "company_name": "Picton Mahoney Asset Management",
         "id": "a4e3a190-9d69-4f63-b959-816725dea114",
         "title": "Business Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -329642,7 +329642,7 @@
         "company_name": "Hershey",
         "id": "269abe35-b7d1-4875-92c4-5b1761663135",
         "title": "Product Development Intern - R&D",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -331563,6 +331563,82 @@
             "Oakville, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Canadian-Tire",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ryan Companies",
+        "id": "bff3221b-d0ea-4c07-9c51-4ba9501e3a5c",
+        "title": "Business Intelligence Intern - Mission Critical",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786980241,
+        "date_posted": 1786924800,
+        "url": "https://ryancompanies.wd5.myworkdayjobs.com/ryancompanies/job/Minneapolis/Business-Intelligence-Intern--Mission-Critical_R-101961",
+        "locations": [
+            "Des Moines, IA",
+            "Austin, TX",
+            "Tampa, FL",
+            "Dallas, TX",
+            "Chicago, IL",
+            "Minneapolis, MN",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ryan-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DiDi Global",
+        "id": "04e15531-638a-4578-bc04-9d717f8f01f0",
+        "title": "Motion Planning Engineer Intern - PhD",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786980281,
+        "date_posted": 1786980062,
+        "url": "https://job-boards.greenhouse.io/didi/jobs/8131863",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/DiDi-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Optiver",
+        "id": "b723e864-0d78-4dec-835e-0f2da12a40db",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1786979624,
+        "date_posted": 1786979366,
+        "url": "https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
