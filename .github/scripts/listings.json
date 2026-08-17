@@ -330038,7 +330038,7 @@
         "company_name": "AltaGas",
         "id": "8a4adc2e-9c94-4aca-a96e-f08577bb106e",
         "title": "Data Science and Analytics Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
