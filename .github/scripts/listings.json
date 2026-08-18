@@ -217084,7 +217084,7 @@
         "company_name": "University of Nevada, Reno",
         "id": "6731f217-2663-4905-a34f-077fa361c987",
         "title": "Student Worker - Media Webmaster Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -326544,7 +326544,7 @@
         "company_name": "RTX",
         "id": "bd6358b0-c6b0-436e-bb7a-e2dcb370e692",
         "title": "Software Engineering Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
