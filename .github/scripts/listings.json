@@ -24498,32 +24498,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "John Deere",
-        "id": "3b31b4d4-fed0-455d-bb98-88baf1ca2012",
-        "title": "Part-Time Student - Data Analytics",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1766333643,
-        "date_posted": 1766333643,
-        "url": "https://johndeere.eightfold.ai/careers/job/137469617377",
-        "locations": [
-            "Ames, IA",
-            "Grimes, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/John-Deere",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "British Columbia Investment",
         "id": "efcf2bcd-b5e8-4c93-a2db-7d560e17f645",
