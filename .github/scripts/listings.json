@@ -294532,7 +294532,7 @@
         "company_name": "McKesson",
         "id": "7c8d7a9c-df34-4d65-8b76-da3a59cdb9bc",
         "title": "AI & Strategic Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -308560,7 +308560,7 @@
         "company_name": "Turner & Townsend",
         "id": "60982936-8c74-4ce2-b381-e2ef98139011",
         "title": "Corporate Responsibility Data Analyst 4 Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -326432,7 +326432,7 @@
         "company_name": "New Balance",
         "id": "c249395f-01c2-45e9-bc84-85cb3cc66408",
         "title": "Sports Research Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
