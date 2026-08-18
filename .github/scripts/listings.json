@@ -837,7 +837,7 @@
         "company_name": "Copart",
         "id": "4fa1b683-fa30-44b0-a279-ea52a60e6a84",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -141968,7 +141968,7 @@
         "company_name": "Tencent",
         "id": "66572abf-79bc-4959-81dc-2d51e16c64a4",
         "title": "Hunyuan Multimodal Reinforcement Learning Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -315170,7 +315170,7 @@
         "company_name": "PNC Financial Services",
         "id": "50302205-471f-44ae-b50c-6d339917d72f",
         "title": "Product Innovation Intern - Retail Product Innovation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -320815,7 +320815,7 @@
         "company_name": "RTX",
         "id": "5e274ea4-55e9-4ee0-8e93-82d466c18810",
         "title": "Systems Engineer 1 Intern - Intern Conversion",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -330510,7 +330510,7 @@
         "company_name": "RTX",
         "id": "51b1f750-bdc8-4369-865b-5edb226a9d44",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -333286,7 +333286,7 @@
         "company_name": "GE Vernova",
         "id": "6debbf93-aaea-4c7a-ad54-72c5345709a4",
         "title": "GridOS Solution Integration Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
