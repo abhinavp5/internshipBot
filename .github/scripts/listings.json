@@ -309084,7 +309084,7 @@
         "company_name": "GoDaddy",
         "id": "12d18ee4-5916-44bb-8d90-d5b39f8a7c4b",
         "title": "Software Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -309780,7 +309780,7 @@
         "company_name": "Arizona State University",
         "id": "13bded89-387e-4599-bde0-b61dc8d82ab3",
         "title": "Student Assistant - Gift Administration and Data Management",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
