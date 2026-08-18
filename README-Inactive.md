@@ -316,7 +316,7 @@
 <td>Software Engineer Intern</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Google?utm_source=GHList&utm_medium=company">Google</a></strong></td>
@@ -491,7 +491,7 @@
 <td>Inference Intern</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company">Booz Allen</a></strong></td>
@@ -680,7 +680,7 @@
 <td>AI & Automation Intern - Summer 2027</td>
 <td>Wilmington, DE</td>
 <td>🔒</td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Williams?utm_source=GHList&utm_medium=company">Williams</a></strong></td>
@@ -844,7 +844,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Vanguard?utm_source=GHList&utm_medium=company">Vanguard</a></strong></td>
+<td>↳</td>
 <td>College to Corporate IT Intern - Data Science</td>
 <td>Charlotte, NC</td>
 <td>🔒</td>
@@ -1324,49 +1324,49 @@
 <td>Electrical Platform Intern</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Firmware Intern</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Chip Simulation Intern</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>RTL Intern</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Supercomputing Intern</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Mech / Thermal Intern</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Design Verification Intern</td>
 <td>San Jose, CA</td>
 <td>🔒</td>
-<td>2mo</td>
+<td>3mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Menasha-Corporation?utm_source=GHList&utm_medium=company">Menasha Corporation</a></strong></td>
