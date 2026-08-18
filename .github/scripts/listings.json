@@ -837,7 +837,7 @@
         "company_name": "Copart",
         "id": "4fa1b683-fa30-44b0-a279-ea52a60e6a84",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -288081,7 +288081,7 @@
         "company_name": "Blue River Technology",
         "id": "5faf35a0-7208-492e-8ae8-bd9bab34001e",
         "title": "Machine Learning Intern - Autonomy",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -315170,7 +315170,7 @@
         "company_name": "PNC Financial Services",
         "id": "50302205-471f-44ae-b50c-6d339917d72f",
         "title": "Product Innovation Intern - Retail Product Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -329055,7 +329055,7 @@
         "company_name": "Dmg Media",
         "id": "4d2fd538-d00b-4c2f-9137-dd8193ee0066",
         "title": "AI Engineer Intern - Innovation Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -329576,7 +329576,7 @@
         "company_name": "RTX",
         "id": "41986a09-1859-46a8-b15d-e6722a502ca7",
         "title": "Radar Digital Products Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -330510,7 +330510,7 @@
         "company_name": "RTX",
         "id": "51b1f750-bdc8-4369-865b-5edb226a9d44",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -330671,7 +330671,7 @@
         "company_name": "Goldman Sachs",
         "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
         "title": "Summer Associate Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -334113,7 +334113,7 @@
         "company_name": "RTX",
         "id": "3f4f4fd0-b89f-44c1-a62a-e5aef817d7f4",
         "title": "Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
