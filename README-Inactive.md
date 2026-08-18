@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 183 Inactive Internship Roles by Category
+### Browse 184 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (64)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (65)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (10)
 
@@ -98,6 +98,13 @@
 <td>↳</td>
 <td>Software Engineer Intern</td>
 <td>Annapolis, MD</td>
+<td>🔒</td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Methods Intern - Hot Section Engineering</td>
+<td>East Hartford, CT</td>
 <td>🔒</td>
 <td>5d</td>
 </tr>
