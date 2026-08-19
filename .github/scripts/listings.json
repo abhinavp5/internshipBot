@@ -1,26 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Crowdstrike",
-        "id": "3d8792b3-8040-45bb-aaa6-baeb1e8ca036",
-        "title": "Intelligence Intern - Intelligence Automation",
-        "active": false,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1766371989,
-        "date_posted": 1766371989,
-        "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Intelligence-Intern---Intelligence-Automation--Remote--GBR-_R25779",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Crowdstrike",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1771250196,
         "sponsorship": "Offers Sponsorship",
         "active": false,
@@ -252261,7 +252240,7 @@
         "company_name": "Cadence Design Systems",
         "id": "21733e97-8cdc-4e2f-ae0c-75d18a8802da",
         "title": "Product Engineering Intern - Simulation and Verification",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -336039,7 +336018,7 @@
         "company_name": "Intuit",
         "id": "9cc1f56c-0976-4b70-858c-3ca47bbd6331",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
