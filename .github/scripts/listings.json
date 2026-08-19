@@ -324624,7 +324624,7 @@
         "company_name": "Cambium Learning Group",
         "id": "ef507edc-8e28-42bb-8700-a616adc2d5cb",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -325006,7 +325006,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "072dbf25-7509-499b-9478-b00e9e52963d",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
