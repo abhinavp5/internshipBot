@@ -24132,29 +24132,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Citi",
-        "id": "2acb3dc2-a5f1-4c03-9351-ab77c46b1f1d",
-        "title": "Technology - Application Development - Placement Analyst",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1766428924,
-        "date_posted": 1766428924,
-        "url": "https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Technology---Application-Development--Placement-Analyst--Belfast--2026_25920708",
-        "locations": [
-            "Belfast, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Citigroup",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "British Columbia Investment",
         "id": "efcf2bcd-b5e8-4c93-a2db-7d560e17f645",
         "title": "Enterprise Solutions Software Engineer Intern/Co-op",
@@ -303587,7 +303564,7 @@
         "company_name": "Western Digital",
         "id": "9a969dee-3299-4199-9e37-0f0e37a0d66f",
         "title": "Failure Analysis Automation Engineer Intern - Failure Analysis Automation Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -319128,7 +319105,7 @@
         "company_name": "Canva",
         "id": "b42d28f6-494f-4b0a-8e40-29dd669c4846",
         "title": "PhD Research Scientist Intern - Generative AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -319151,7 +319128,7 @@
         "company_name": "Canva",
         "id": "40fce4fe-2ffc-4371-9b54-174b5b8f649b",
         "title": "PhD Research Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -324980,7 +324957,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "aa614bc4-58c3-40d5-a9fb-f5fdbe4a7c43",
         "title": "Computational Engineering Graduate Intern - Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -331752,7 +331729,7 @@
         "company_name": "Renesas Electronics",
         "id": "a4a2a918-bd94-4e72-8cf5-303e07eff8ce",
         "title": "Digital Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -336551,6 +336528,29 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bosch Home Comfort",
+        "id": "2c6373f0-4ada-44c6-a3a6-d37c99f02cef",
+        "title": "Electrochemistry Modeling Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787165281,
+        "date_posted": 1787165248,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144370279",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch-Home-Comfort",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
