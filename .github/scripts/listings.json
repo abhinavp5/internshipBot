@@ -1,74 +1,5 @@
 [
     {
-        "date_updated": 1771250196,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Factory-Cooling-R-D-Intern---Summer-2026_JR2009351",
-        "company_name": "NVIDIA",
-        "title": "AI Factory Cooling R&D Intern",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "5c2f25fb-153e-42b4-8621-11af4f469bfd",
-        "date_posted": 1766398336,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1771250196,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Factory-Digital-Twin-R-D-Intern---Summer-2026_JR2009349",
-        "company_name": "NVIDIA",
-        "title": "AI Factory Digital Twin R&D Intern",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "1409cfee-ec08-4d71-b1cb-f5062a612693",
-        "date_posted": 1766398382,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1771250196,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Boston---MA/Quantitative-Sciences---Statistical-Programming-Intern---Graduate_R-242061-1",
-        "company_name": "AstraZeneca",
-        "title": "Quantitative Sciences & Statistical Programming Intern - Graduate",
-        "locations": [
-            "Boston, MA"
-        ],
-        "terms": [
-            "Summer 2026"
-        ],
-        "category": "Quantitative Finance",
-        "source": "AlmondCroffle",
-        "id": "35041dc3-edfc-483f-8ac5-509a6d519d59",
-        "date_posted": 1766398428,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1766409720,
         "sponsorship": "Other",
         "active": true,
@@ -272095,7 +272026,7 @@
         "company_name": "Intel",
         "id": "438a49bd-1732-4815-b2b2-e048f205949f",
         "title": "AI Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -311683,7 +311614,7 @@
         "company_name": "Medtronic",
         "id": "43929c26-d19b-4057-9543-bf087c4bbf62",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -319611,7 +319542,7 @@
         "company_name": "Cohesity",
         "id": "53ae6844-073a-4934-8b5a-e05573679b27",
         "title": "Data Cleansing and Sales Enablement Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -330603,7 +330534,7 @@
         "company_name": "Goldman Sachs",
         "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
         "title": "Summer Associate Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
