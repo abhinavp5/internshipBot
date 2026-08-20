@@ -271456,7 +271456,7 @@
         "company_name": "Cadence Design Systems",
         "id": "7399b9f8-0c80-46ff-917e-a92d246e936f",
         "title": "Characterization and Support Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -315846,7 +315846,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "0d5b6431-b3ab-4450-8dc4-f912a69e0e6a",
         "title": "Data Analyst Intern - Power - Emerging Talent",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -329177,7 +329177,7 @@
         "company_name": "Goldman Sachs",
         "id": "1c9f2e98-f998-4541-bd39-aec405d39f11",
         "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -329292,7 +329292,7 @@
         "company_name": "Goldman Sachs",
         "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -329318,7 +329318,7 @@
         "company_name": "Goldman Sachs",
         "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -329344,7 +329344,7 @@
         "company_name": "Goldman Sachs",
         "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -329367,7 +329367,7 @@
         "company_name": "Goldman Sachs",
         "id": "1d850622-b67b-4965-a25c-f6872d8a1c79",
         "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -329390,7 +329390,7 @@
         "company_name": "Goldman Sachs",
         "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
         "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332987,7 +332987,7 @@
         "company_name": "University of St. Thomas",
         "id": "8993ee30-7300-40e6-ba43-5432b097d3e9",
         "title": "Academic Technology Solutions Student Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -336257,5 +336257,415 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Western Magnetics",
+        "id": "67334d37-7e0d-42f1-8946-bdab22643cc3",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787187289,
+        "date_posted": 1787187185,
+        "url": "https://apply.workable.com/western-magnetics/j/E366930F3F/apply",
+        "locations": [
+            "South SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Magnetics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Notion",
+        "id": "efc56001-b148-410d-babd-1c8374028468",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1787187061,
+        "date_posted": 1787186886,
+        "url": "https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Notion",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boston Consulting Group",
+        "id": "f6f17706-f32e-4624-8175-889945a160e5",
+        "title": "Forward Deployed AI Engineer - Campus",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1787187126,
+        "date_posted": 1787186938,
+        "url": "https://careers.bcg.com/global/en/job/59067",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Washington, DC",
+            "SF",
+            "LA",
+            "Miami, FL",
+            "Dallas, TX",
+            "Chicago, IL",
+            "Pittsburgh, PA",
+            "NYC",
+            "Brooklyn, NY",
+            "Manhattan Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "METECS",
+        "id": "4fd996db-84f4-40ce-9d98-4134847d754f",
+        "title": "Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1787186981,
+        "date_posted": 1787186877,
+        "url": "https://metecs.applytojob.com/apply/XTBhKHIVhQ/Summer-Software-Internship",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/METECS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ampersand",
+        "id": "e1f3338c-95a0-4b9f-b987-07fa38a8a4a6",
+        "title": "Data Engineering Co-op - Open to Northeastern students only",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787187448,
+        "date_posted": 1787186852,
+        "url": "https://ats.rippling.com/ampersand-biomedicines/jobs/be3f5479-379e-4d48-9bd1-82a69b2dcfd3",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ampersand-Bio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "StudyFetch",
+        "id": "179e11a1-a541-4256-a6c3-e36544663802",
+        "title": "AI Research Assistant - Machine Learning & AI",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1787187451,
+        "date_posted": 1787186853,
+        "url": "https://ats.rippling.com/studyfetch/jobs/ae12be8f-32a4-469f-8d71-452c8409a92a",
+        "locations": [
+            "Beverly Hills, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/StudyFetch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Miami University",
+        "id": "f49f2253-11f4-4f56-bf6b-3ed2334cb2bc",
+        "title": "Undergraduate Research Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1787186521,
+        "date_posted": 1787097600,
+        "url": "https://miamioh.wd5.myworkdayjobs.com/miamioh-staff/job/Hamilton-Campus/Undergraduate-Research-Assistant---Master-2-Undergrad_JR104707",
+        "locations": [
+            "Hamilton, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Miami-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Matter",
+        "id": "52758ea7-052d-4c85-9fbe-2558a05538f1",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787187982,
+        "date_posted": 1787187862,
+        "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5377118008",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Matter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "f9783cfd-0933-41da-8102-1c15ae7d9c3c",
+        "title": "Software Engineer Intern - Recommendation Infra - Performance Efficiency",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787190481,
+        "date_posted": 1787190347,
+        "url": "https://lifeattiktok.com/search/7675159726676101381",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "dcab0a63-0790-4990-ad6c-517c42b6436b",
+        "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787190481,
+        "date_posted": 1787190347,
+        "url": "https://lifeattiktok.com/search/7672926068681951493",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "89769fe8-b21d-48e7-bc68-0ac457b3a934",
+        "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure",
+        "active": true,
+        "terms": [
+            "Fall 2027"
+        ],
+        "date_updated": 1787190481,
+        "date_posted": 1787190347,
+        "url": "https://lifeattiktok.com/search/7672934842451577141",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "7a6d014a-e6ad-4587-8acf-9acfe710342d",
+        "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787190481,
+        "date_posted": 1787190347,
+        "url": "https://lifeattiktok.com/search/7672930401597671733",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "4ecdff57-6188-48f4-9540-4521c485bc53",
+        "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure",
+        "active": true,
+        "terms": [
+            "Fall 2027"
+        ],
+        "date_updated": 1787190481,
+        "date_posted": 1787190347,
+        "url": "https://lifeattiktok.com/search/7674029284224092421",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "c2b2c451-d750-4afe-a76b-18cec45fff86",
+        "title": "Software Engineer Intern - TikTok Search Architecture",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787190481,
+        "date_posted": 1787190346,
+        "url": "https://lifeattiktok.com/search/7675517686256863541",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "af4f346b-7d83-473b-b205-a8487c067438",
+        "title": "Software Engineer Intern - TikTok Search Architecture",
+        "active": true,
+        "terms": [
+            "Fall 2027"
+        ],
+        "date_updated": 1787190481,
+        "date_posted": 1787190347,
+        "url": "https://lifeattiktok.com/search/7675524738811218229",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "0027f5ce-0bdc-419e-ac80-095bae27c176",
+        "title": "Software Engineer Intern - Recommendation Infra - Performance Efficiency",
+        "active": true,
+        "terms": [
+            "Fall 2027"
+        ],
+        "date_updated": 1787190481,
+        "date_posted": 1787190346,
+        "url": "https://lifeattiktok.com/search/7675163472469444917",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Epic Games",
+        "id": "bc9d071a-1dae-48fc-a18e-293c48a4ccb0",
+        "title": "Tools Programmer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787190121,
+        "date_posted": 1787190052,
+        "url": "https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004",
+        "locations": [
+            "Cary, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
