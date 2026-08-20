@@ -334840,7 +334840,7 @@
         "company_name": "Dedalus",
         "id": "7ec884ae-14d0-4b0a-ba73-3ccaaa8dab51",
         "title": "Software Development Apprentice - Digital Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -337158,6 +337158,76 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Blue Shield of California",
+        "id": "f8c3812a-4e5d-48e3-b329-54a28233db3a",
+        "title": "Data Full Stack Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1787265413,
+        "date_posted": 1787265278,
+        "url": "https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/20261580",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Shield-Of-California",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zipline",
+        "id": "d8608143-b6cd-4a6e-9563-519ce1b5d368",
+        "title": "Software Engineer Intern - Spring 2027",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1787265181,
+        "date_posted": 1787265072,
+        "url": "https://www.zipline.com/open-roles?gh_jid=7907191003",
+        "locations": [
+            "South SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Zipline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zipline",
+        "id": "7c1afd88-0826-4992-92dc-ef6210a2efbc",
+        "title": "Perception Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787265181,
+        "date_posted": 1787265066,
+        "url": "https://www.zipline.com/open-roles?gh_jid=7909570003",
+        "locations": [
+            "South SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Zipline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
