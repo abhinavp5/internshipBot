@@ -223017,7 +223017,7 @@
         "company_name": "Intel",
         "id": "e18b5659-3658-49dd-a554-9ba2b49123a9",
         "title": "AI Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -270390,7 +270390,7 @@
         "company_name": "Intel",
         "id": "438a49bd-1732-4815-b2b2-e048f205949f",
         "title": "AI Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -297744,7 +297744,7 @@
         "company_name": "Gitar, Inc.",
         "id": "c8b23aef-956a-4e8f-bf36-9f747b2a67ef",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -328618,7 +328618,7 @@
         "company_name": "RTX",
         "id": "dfbe29a3-2c22-426e-9544-2185963e401f",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332457,7 +332457,7 @@
         "company_name": "RTX",
         "id": "df3b11d6-07b6-49f9-a445-97f32c89967e",
         "title": "Software Engineer Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -336058,7 +336058,7 @@
         "company_name": "Boston Consulting Group",
         "id": "f6f17706-f32e-4624-8175-889945a160e5",
         "title": "Forward Deployed AI Engineer - Campus",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
