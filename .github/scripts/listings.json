@@ -267887,7 +267887,7 @@
         "company_name": "Rivian and Volkswagen Group Technologies",
         "id": "554f3e1a-4eb2-4aaf-96be-6aef77c84495",
         "title": "Software Engineer Intern - Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -268005,7 +268005,7 @@
         "company_name": "Rivian and Volkswagen Group Technologies",
         "id": "39b0338f-985f-4dd5-8adf-290b1e4ca1de",
         "title": "Software Engineer Intern - Connected Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -295706,7 +295706,7 @@
         "company_name": "Fab2",
         "id": "21f8248c-0403-4432-91a0-b92f3bc0fbb9",
         "title": "Automation Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -301690,7 +301690,7 @@
         "company_name": "CoreWeave",
         "id": "52830e94-cf6d-4ff6-a6a4-f0891b29449d",
         "title": "Data Center Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -335357,7 +335357,7 @@
         "company_name": "Geico",
         "id": "0cc71c0c-aed8-49d9-a23c-45e22cc9e8ad",
         "title": "Technology Development Program Intern - AI Engineer Development Track",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -338036,5 +338036,26 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PricewaterhouseCoopers (PwC)",
+        "id": "4224f174-efb8-4ec2-a4e8-813078f9d109",
+        "title": "Cloud, Data and AI Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787336477,
+        "date_posted": 1787270400,
+        "url": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Montreal/May-2027---Cloud--Data-and-AI---Summer-Intern---Montreal_753364WD",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/PwC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
