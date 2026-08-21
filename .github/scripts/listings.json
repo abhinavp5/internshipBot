@@ -1,111 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Roche",
-        "id": "38c91d95-996b-405f-aa24-f6d2546c8f5f",
-        "title": "Intern - Systems Engineer - Systems & Hardware Engineering Chapter",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766536470,
-        "date_posted": 1766536470,
-        "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Tucson/XMLNAME-2026-Summer-Intern---Systems-Engineer---Systems---Hardware-Engineering-Chapter_202512-132267-1",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Roche",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Neurocrine Biosciences",
-        "id": "5acb080d-7afc-43d5-9b0c-cbc7b977c177",
-        "title": "Data Analyst Clinical Solutions Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766536208,
-        "date_posted": 1766536208,
-        "url": "https://neurocrine.wd5.myworkdayjobs.com/en-US/Neurocrinecareers/job/US-CA-San-Diego/Data-Analyst-Clinical-Solutions-Intern_R6356",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Neurocrine-Biosciences",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Neurocrine Biosciences",
-        "id": "3eb82e46-7911-4057-8dd4-2a403b9325b1",
-        "title": "Epidemiology/Real World Evidence Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766536218,
-        "date_posted": 1766536218,
-        "url": "https://neurocrine.wd5.myworkdayjobs.com/en-US/Neurocrinecareers/job/US-CA-San-Diego/EPI-RWE-Analytics-Intern_R6330",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Neurocrine-Biosciences",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Neurocrine Biosciences",
-        "id": "3a43edc7-2bad-44e8-a327-5b441007864d",
-        "title": "Supply Chain Data Analytics",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766536213,
-        "date_posted": 1766536213,
-        "url": "https://neurocrine.wd5.myworkdayjobs.com/en-US/Neurocrinecareers/job/US-CA-San-Diego/Supply-Chain-Data-Analytics-Intern_R6345",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Neurocrine-Biosciences",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Neurocrine Biosciences",
-        "id": "163b2904-c918-4fd0-a9fb-f535043fcaf4",
-        "title": "Commercial Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766536215,
-        "date_posted": 1766536215,
-        "url": "https://neurocrine.wd5.myworkdayjobs.com/en-US/Neurocrinecareers/job/US-CA-San-Diego/Commercial-Analytics-Intern_R6360",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Neurocrine-Biosciences",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ASML",
         "id": "c6392809-db86-430a-9b90-1764a073577d",
@@ -121,27 +16,6 @@
             "Hillsboro, OR"
         ],
         "company_url": "https://simplify.jobs/c/ASML",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Micron Technology",
-        "id": "cb571ad6-5cf1-4f39-b917-7201a5bc3db4",
-        "title": "Intern \u2013 Thermal Modeling & Simulation",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1766537082,
-        "date_posted": 1766537082,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Thermal-Modeling---Simulation_JR87693",
-        "locations": [
-            "Boise, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -3890,27 +3764,6 @@
             "Belfast, UK"
         ],
         "company_url": "https://simplify.jobs/c/CME-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Neurocrine Biosciences",
-        "id": "51e1a8f2-47da-46fc-9e31-2348c5188f5b",
-        "title": "IT Business Partner Commercial Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1766536207,
-        "date_posted": 1766536207,
-        "url": "https://neurocrine.wd5.myworkdayjobs.com/en-US/Neurocrinecareers/job/US-CA-San-Diego/IT-Business-Partner-Commercial-Intern_R6354",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Neurocrine-Biosciences",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -30770,7 +30623,7 @@
         "company_name": "Cadence Design Systems",
         "id": "91c0873c-728c-4585-9b82-4d3dd3dd4253",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -264558,7 +264411,7 @@
         "company_name": "Tesla",
         "id": "6148bc47-e98c-4c1a-9255-16279e18a578",
         "title": "Software Engineer Intern - Software Engineer - AI Hardware Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Summer 2026",
