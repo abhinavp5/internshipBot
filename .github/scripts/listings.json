@@ -40796,7 +40796,7 @@
         "company_name": "Boston Consulting Group",
         "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -167476,7 +167476,7 @@
         "company_name": "University of Arkansas",
         "id": "613121a0-b6ea-469c-bf10-9bb507ad6f4c",
         "title": "Cosmos Graduate Research Assistant - ML/AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -327360,7 +327360,7 @@
         "company_name": "Goldman Sachs",
         "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333370,7 +333370,7 @@
         "company_name": "NVIDIA",
         "id": "60fd19b0-17cd-4cb7-8cf0-99bd3743c1c9",
         "title": "Hardware Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -334645,7 +334645,7 @@
         "company_name": "StudyFetch",
         "id": "179e11a1-a541-4256-a6c3-e36544663802",
         "title": "AI Research Assistant - Machine Learning & AI",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
