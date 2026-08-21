@@ -26082,16 +26082,16 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 </tr>
 <tr>
 <td>↳</td>
-<td>Software Engineer Intern Co-op - Vehicle Controls</td>
-<td>Toronto, ON, Canada<br>Vancouver, BC, Canada</td>
+<td>Software Engineer Intern - Embedded Platforms</td>
+<td>Palo Alto, CA<br>Irvine, CA</td>
 <td>Fall 2026</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
 <tr>
 <td>↳</td>
-<td>Software Engineer Intern - Embedded Platforms</td>
-<td>Palo Alto, CA<br>Irvine, CA</td>
+<td>Software Engineer Intern Co-op - Vehicle Controls</td>
+<td>Toronto, ON, Canada<br>Vancouver, BC, Canada</td>
 <td>Fall 2026</td>
 <td>🔒</td>
 <td>2mo</td>
