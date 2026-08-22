@@ -282302,7 +282302,7 @@
         "company_name": "Moment Energy",
         "id": "dbf73971-bce3-47b3-929f-77929a59c11c",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
