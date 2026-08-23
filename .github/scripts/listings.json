@@ -273941,7 +273941,7 @@
         "company_name": "Copart",
         "id": "7e13e0d3-bd62-458e-869e-bb070af80106",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -332043,7 +332043,7 @@
         "company_name": "Zuckerman Investment Group",
         "id": "f85f7117-84b9-438b-9f08-795e4061600a",
         "title": "Investment Analyst Intern - MBA",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334240,7 +334240,7 @@
         "company_name": "Boston Consulting Group",
         "id": "f6f17706-f32e-4624-8175-889945a160e5",
         "title": "Forward Deployed AI Engineer - Campus",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
