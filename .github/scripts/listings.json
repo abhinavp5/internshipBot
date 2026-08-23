@@ -314739,7 +314739,7 @@
         "company_name": "GE Appliances",
         "id": "bdefa1b8-76a9-4d2c-8b53-192783c6edd7",
         "title": "Software Engineer Co-op - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333073,7 +333073,7 @@
         "company_name": "NVIDIA",
         "id": "be628885-fde3-4b73-bb0a-58e11856e97b",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
