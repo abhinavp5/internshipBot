@@ -278113,7 +278113,7 @@
         "company_name": "Copart",
         "id": "dc2f3a9e-bfd2-4ade-a19a-e77dfdcd2301",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -336661,7 +336661,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "deafc16b-b9d8-4b84-b748-2dafcb25b2c7",
         "title": "Business Insights and Analytics Intern - Member Services",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
