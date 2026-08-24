@@ -248134,7 +248134,7 @@
         "company_name": "Apple",
         "id": "6def9049-74e8-421a-8971-f231e638e844",
         "title": "Hardware PhD Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -321640,7 +321640,7 @@
         "company_name": "RTX",
         "id": "52ceda8c-4220-45e3-b041-4de25d61aaee",
         "title": "Electro-Optical Systems Technician Intern - AN/ZSQ-2",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -328040,7 +328040,7 @@
         "company_name": "KeyBank",
         "id": "530c60b3-3de0-4a8e-bb7c-5f32553939ac",
         "title": "Data Intern - Key Technology & Services - Data Track",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
