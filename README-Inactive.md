@@ -6,7 +6,7 @@
 
 ---
 
-### Browse 227 Inactive Internship Roles by Category
+### Browse 226 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (78)
 
@@ -16,7 +16,7 @@
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (53)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (33)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (32)
 
 ---
 
@@ -288,7 +288,7 @@
 <td>Software Engineer Intern - Summer 2027</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>16d</td>
+<td>17d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sargent-And-Lundy?utm_source=GHList&utm_medium=company">Sargent & Lundy</a></strong></td>
@@ -1582,13 +1582,6 @@
 <td>↳</td>
 <td>Software Engineer Intern</td>
 <td>East Hartford, CT</td>
-<td>🔒</td>
-<td>10d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Software Engineer Intern - Summer 2027</td>
-<td>Cedar Rapids, IA</td>
 <td>🔒</td>
 <td>10d</td>
 </tr>
