@@ -293095,7 +293095,7 @@
         "company_name": "Deepgram",
         "id": "9b8c84ef-c762-4da1-9f47-56e4a62375d5",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -306066,7 +306066,7 @@
         "company_name": "New York Post Holdings",
         "id": "63312998-23b7-4617-994a-97b67a1866fb",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -324834,7 +324834,7 @@
         "company_name": "Pacific Northwest National Laboratory",
         "id": "4a11cda3-4166-42d6-99ed-a4fad1821adb",
         "title": "Undergraduate Technical Intern - Nuclear Facility",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
