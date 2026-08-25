@@ -162242,7 +162242,7 @@
         "company_name": "Copart",
         "id": "1727d396-3a35-4e8b-a6b8-3de2b9259352",
         "title": "Technology Product Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -251647,7 +251647,7 @@
         "company_name": "NewsBreak",
         "id": "ee5e38e3-bc10-4546-b6de-d39065ac25f1",
         "title": "Research Intern - Agent Reinforcement Learning Training",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -261681,7 +261681,7 @@
         "company_name": "Rippling",
         "id": "0271dfee-afcf-4a95-ad39-156710edc8ce",
         "title": "Machine Learning Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -278503,7 +278503,7 @@
         "company_name": "PsiQuantum",
         "id": "6b3ff2a0-0ae4-4f6b-8e17-0a87442dd4e8",
         "title": "System Architecture Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -280025,7 +280025,7 @@
         "company_name": "Optiver",
         "id": "95f1deb7-1dce-443a-ad6d-1d1c78b64892",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -284271,7 +284271,7 @@
         "company_name": "Jane Street",
         "id": "4770a4e3-28be-40d7-b5a2-700c0307960d",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -284292,7 +284292,7 @@
         "company_name": "Jane Street",
         "id": "24534a41-4bd7-4c4d-9ae9-8eb9bbc7c79c",
         "title": "Machine Learning Researcher",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -292604,7 +292604,7 @@
         "company_name": "Databricks",
         "id": "ae507b57-02d4-4bfc-a7e8-6e6d6c0a6521",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -295795,7 +295795,7 @@
         "company_name": "LightGuide, Inc.",
         "id": "045f6eba-6e94-4fbc-85c8-1ba3affc21d4",
         "title": "Product Innovation Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -300730,7 +300730,7 @@
         "company_name": "GE Healthcare",
         "id": "18762fe0-77c9-4c38-9e4c-d649c204e975",
         "title": "Surgery Field Engineer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -306224,7 +306224,7 @@
         "company_name": "Brio Water Technology",
         "id": "18f9ec09-a50a-4e02-bb0b-47cdeb648ccc",
         "title": "AI Automation & Business Analytics Intern - Rotational Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -311461,7 +311461,7 @@
         "company_name": "Samsara",
         "id": "43a2a7c2-28cb-4d16-9914-b1e324a8c4a5",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2028"
         ],
@@ -316155,7 +316155,7 @@
         "company_name": "Samsung Research America",
         "id": "398433b0-f2f4-4367-80dd-7f56b0ee3d6b",
         "title": "Digital Health Algorithms Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -317230,7 +317230,7 @@
         "company_name": "Axon",
         "id": "6eff9788-f38e-4357-8646-cd6f5984f3cb",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -317332,7 +317332,7 @@
         "company_name": "Epic Games",
         "id": "9d04080d-0ad1-42fe-b047-599eef0c1fd7",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Summer 2027"
@@ -320736,7 +320736,7 @@
         "company_name": "RTX",
         "id": "f8ec7bff-3025-47ad-8fc9-aeb60501ffcf",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -321228,7 +321228,7 @@
         "company_name": "Blue Origin",
         "id": "2d12bca6-cc8c-4e3f-877e-0219f82a069b",
         "title": "Software Development Engineer 1 Intern - Corporate Functions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -329522,7 +329522,7 @@
         "company_name": "Bluestaq",
         "id": "57efe4c7-9370-4c4e-9497-aeb4a91462c2",
         "title": "Graduate Research Scholar - NDSU Partnership",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -332737,7 +332737,7 @@
         "company_name": "NVIDIA",
         "id": "26db23e0-d70f-49b8-ab98-f6c54330d92b",
         "title": "Hardware Physical Design / VLSI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -334037,7 +334037,7 @@
         "company_name": "StudyFetch",
         "id": "179e11a1-a541-4256-a6c3-e36544663802",
         "title": "AI Research Assistant - Machine Learning & AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -336310,7 +336310,7 @@
         "company_name": "AMD",
         "id": "859f3772-e32c-49b4-a277-ec18490b63ed",
         "title": "Hardware Design Verification Engineer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027",
@@ -337842,7 +337842,7 @@
         "company_name": "Capacity",
         "id": "16d31201-b650-445a-bd1c-acf6b02d80b7",
         "title": "Speech Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341937,7 +341937,7 @@
         "company_name": "Brunswick",
         "id": "23283fde-40f1-42d9-bf10-9b7362a6c553",
         "title": "Software Engineer Intern - Boating Intelligence Design Lab",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342216,7 +342216,7 @@
         "company_name": "Meridian Partners",
         "id": "ce5ce805-2b7c-460d-a010-28c5e413b7f6",
         "title": "Flight Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342457,7 +342457,7 @@
         "company_name": "Meridian Partners",
         "id": "7a0e26e4-7787-42a2-8128-e496212ae724",
         "title": "Full Stack Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342482,7 +342482,7 @@
         "company_name": "Meridian Partners",
         "id": "eeda0ac4-569c-4d27-927d-56e668f95ffa",
         "title": "Python Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342507,7 +342507,7 @@
         "company_name": "Meridian Partners",
         "id": "c27d16b6-b660-4fb5-b2f8-825ddf9072f7",
         "title": "Cloud Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342531,7 +342531,7 @@
         "company_name": "Meridian Partners",
         "id": "d7b507c0-bb45-40b2-97e2-575198d7b5c7",
         "title": "Front End Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342554,7 +342554,7 @@
         "company_name": "Meridian Partners",
         "id": "721b1502-72bd-47a9-91c2-a71011c5fd1c",
         "title": "Data Scientist Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342606,7 +342606,7 @@
         "company_name": "Meridian Partners",
         "id": "bc77c289-ab13-4062-adf6-da8e0aa72034",
         "title": "Machine Learning Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342633,7 +342633,7 @@
         "company_name": "Meridian Partners",
         "id": "850ae44b-e26e-426b-a045-99d7bb70e509",
         "title": "Full Stack Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342658,7 +342658,7 @@
         "company_name": "Meridian Partners",
         "id": "b6132ac2-9368-4e6a-aa27-567060ba3f3f",
         "title": "Front End Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342707,7 +342707,7 @@
         "company_name": "Meridian Partners",
         "id": "d4337bc3-9805-4025-bbb6-1871543e465f",
         "title": "Embedded Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342977,5 +342977,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Concentric",
+        "id": "d509448f-62cd-47bc-9971-4fb9b4f23a31",
+        "title": "AI Workflow Intern - AI Workflow Optimization",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787651489,
+        "date_posted": 1786412275,
+        "url": "https://job-boards.greenhouse.io/concentric/jobs/4703940006",
+        "locations": [
+            "Kirkland, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Concentric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
