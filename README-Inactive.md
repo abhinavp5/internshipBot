@@ -8,15 +8,15 @@
 
 ### Browse 222 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (81)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (80)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (11)
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (51)
 
-📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (47)
+📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (46)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (32)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (34)
 
 ---
 
@@ -93,13 +93,6 @@
 <td>Montreal, QC, Canada<br>Toronto, ON, Canada<br>Waterloo, ON, Canada</td>
 <td>🔒</td>
 <td>0d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Freddie-Mac?utm_source=GHList&utm_medium=company">Freddie Mac</a></strong></td>
-<td>Technology Intern - Enterprise Operations + Technology</td>
-<td>McLean, VA</td>
-<td>🔒</td>
-<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -1156,17 +1149,10 @@
 <td>Quantitative Developer Internship - Summer 2027</td>
 <td>Dubai - United Arab Emirates<br>NYC</td>
 <td>🔒</td>
-<td>5d</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Goldman-Sachs?utm_source=GHList&utm_medium=company">Goldman Sachs</a></strong></td>
-<td>Quantitative Strategist Associate Intern - The Core Quantitative Strats 🎓</td>
-<td>London, UK</td>
-<td>🔒</td>
-<td>10d</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>Summer Analyst Intern - FICC and Equities - Sales and Trading</td>
 <td>West Palm Beach, FL</td>
 <td>🔒</td>
@@ -1509,6 +1495,13 @@
 <td>6d</td>
 </tr>
 <tr>
+<td>↳</td>
+<td>Mixed Signal Design Intern</td>
+<td>Santa Clara, CA</td>
+<td>🔒</td>
+<td>6d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Software Engineer Intern - Summer 2027</td>
 <td>Indianapolis, IN</td>
@@ -1575,6 +1568,13 @@
 <td>↳</td>
 <td>Software Engineer Intern - Summer 2027</td>
 <td>Burnsville, MN</td>
+<td>🔒</td>
+<td>11d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Electrical Computer-Aided Design Engineer Intern</td>
+<td>Tucson, AZ</td>
 <td>🔒</td>
 <td>11d</td>
 </tr>
