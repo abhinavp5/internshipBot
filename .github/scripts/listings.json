@@ -250741,7 +250741,7 @@
         "company_name": "University of Virginia",
         "id": "7dc5c5a8-3a1b-4c63-ac80-e2dd4b336f29",
         "title": "TFWS Research and Insights Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -318327,7 +318327,7 @@
         "company_name": "InfiniteQuant",
         "id": "9ac6ae38-9b5a-4373-934b-b04f5fbdc09c",
         "title": "Quantitative Researcher Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332909,7 +332909,7 @@
         "company_name": "NVIDIA",
         "id": "c61cdf4f-3d6a-41b3-90d6-c83ad103fffd",
         "title": "Hardware Design for Test Intern - DFT",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -343338,6 +343338,54 @@
         "degrees": [
             "Bachelor's",
             "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "InfiniteQuant",
+        "id": "925fd340-08ca-444f-ab27-237fdfe56b27",
+        "title": "Quantitative Researcher Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787667517,
+        "date_posted": 1787582788,
+        "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000145264634",
+        "locations": [
+            "Dubai - United Arab Emirates",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/InfiniteQuant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bosch Home Comfort",
+        "id": "4338e55f-78ed-4a37-8c3d-482e13c4cff0",
+        "title": "AI Security Research Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1787667121,
+        "date_posted": 1787667120,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145507908",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch-Home-Comfort",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "PhD"
         ]
     }
