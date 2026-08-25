@@ -324811,7 +324811,7 @@
         "company_name": "Pacific Northwest National Laboratory",
         "id": "44f2b4fd-9794-4f17-9b94-57b4e1b43ea3",
         "title": "Detection Physics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
