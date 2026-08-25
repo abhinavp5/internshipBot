@@ -264278,7 +264278,7 @@
         "company_name": "Eurofins",
         "id": "185813f4-0060-4a31-820e-efb3dc2ac8a8",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -265129,7 +265129,7 @@
         "company_name": "Eurofins",
         "id": "0aa79267-f4f3-4104-9034-edd9903b03e5",
         "title": "Business Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -266132,7 +266132,7 @@
         "company_name": "Meshy",
         "id": "951080fa-b448-4ec1-8e54-80b5a3176cca",
         "title": "Fullstack Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -279730,7 +279730,7 @@
         "company_name": "Citadel Securities",
         "id": "e2a8f8b3-cb1a-4411-871c-916776913b34",
         "title": "Machine Learning Researcher PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -291831,7 +291831,7 @@
         "company_name": "Citadel Securities",
         "id": "a869b3f7-71bd-4b08-9c7e-8c6706e98035",
         "title": "Quantitative Research Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -338499,7 +338499,7 @@
         "company_name": "Elevate Semiconductor",
         "id": "9d5887c5-a484-493a-a9cd-38e0b51c1ef6",
         "title": "Product Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
