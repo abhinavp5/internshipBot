@@ -22960,7 +22960,7 @@
         "company_name": "Faire",
         "id": "21a2fc47-75fb-4613-8e44-d2b16c4bb504",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -229279,7 +229279,7 @@
         "company_name": "Magnet Forensics",
         "id": "798c001c-3faa-430c-8a69-25c9e5746c89",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -239288,7 +239288,7 @@
         "company_name": "Astera",
         "id": "2bf9596e-6416-4fef-8c6d-48ac964d59fa",
         "title": "Computational Neuroscience Intern - Data Analysis and Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -278135,7 +278135,7 @@
         "company_name": "Persistent Systems",
         "id": "99b96750-4604-4ae8-8e56-d3c3287cc493",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -294214,7 +294214,7 @@
         "company_name": "Odin Dynamics, Inc",
         "id": "7e9c41e0-72f6-4e65-8150-4a44cf26d415",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -320739,7 +320739,7 @@
         "company_name": "Booz Allen",
         "id": "4928dfb2-7a20-4da6-8405-a591089e515c",
         "title": "AI RAN Telecommunications Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -333780,7 +333780,7 @@
         "company_name": "Goldman Sachs",
         "id": "de048c9f-8cf0-45fe-b307-40b9a04a9416",
         "title": "Summer Analyst Intern - Americas - AWM Product Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -333804,7 +333804,7 @@
         "company_name": "Goldman Sachs",
         "id": "aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
         "title": "AWM Product Management Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -345015,5 +345015,77 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WhiteWater Midstream",
+        "id": "0421e841-beed-4315-83cf-cbc7ffc68617",
+        "title": "Data Science Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787763961,
+        "date_posted": 1787763856,
+        "url": "https://job-boards.greenhouse.io/whitewatermidstream/jobs/5217853007",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/WhiteWater-Midstream",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "WhiteWater Midstream",
+        "id": "0e885dce-37ca-4760-9073-ee759cf89860",
+        "title": "Trading Operations Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1787764019,
+        "date_posted": 1787763856,
+        "url": "https://job-boards.greenhouse.io/whitewatermidstream/jobs/5221723007",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/WhiteWater-Midstream",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Jain Global",
+        "id": "6b6c9174-7b35-478a-be6c-09c442dc9586",
+        "title": "Quantitative Research Extern - Rice University",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1787763957,
+        "date_posted": 1787702400,
+        "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/Houston-Texas/Commodities-Quantitative-Research-Extern_JR100560",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Jain-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
