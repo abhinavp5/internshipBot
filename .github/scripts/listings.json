@@ -327612,7 +327612,7 @@
         "company_name": "Canadian Tire",
         "id": "34101c0f-9710-4470-98d2-e87daabec45b",
         "title": "Digital Product Owner Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -344260,7 +344260,7 @@
         "company_name": "CSL",
         "id": "a1ed0eeb-abf6-4f36-b1e0-18fd23fe6bee",
         "title": "Data Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
