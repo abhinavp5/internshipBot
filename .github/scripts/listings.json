@@ -302933,7 +302933,7 @@
         "company_name": "Magna",
         "id": "75ba4d37-69a8-4034-b556-d8837ef4a500",
         "title": "IoT Systems Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -331954,7 +331954,7 @@
         "company_name": "NVIDIA",
         "id": "79fa5677-0cf7-4393-b826-2aa0806bbcd9",
         "title": "Ph.D. Research Graphics and Simulation Intern - Graphics and Simulation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -332173,7 +332173,7 @@
         "company_name": "NVIDIA",
         "id": "78faf2f2-9391-4542-b593-468ce69a67b5",
         "title": "Mixed Signal Design Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
