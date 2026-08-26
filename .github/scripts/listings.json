@@ -340572,7 +340572,7 @@
         "company_name": "Booz Allen",
         "id": "fa59ec3c-a4bd-4395-87e0-3817d5e0f9f6",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
