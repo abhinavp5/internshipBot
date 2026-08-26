@@ -338,6 +338,16 @@ def create_category_table(
         header = f"\n\n## {emoji} {category_name} Internship Roles\n\n"
         header += "[Back to top](#summer-2027-tech-internships-by-pitt-csc--simplify)\n\n"
 
+    # Note about opening links in a new tab (only for active listings)
+    if not inactive_only and category_name == "Software Engineering":
+        extension_url = "https://simplify.jobs/install?utm_source=GHList&utm_medium=newtab"
+        header += (
+            "> 🔗 GitHub strips the code that makes links open in a new tab, so clicking a role here "
+            f"navigates away from the list. The [Simplify extension]({extension_url}) opens them in a "
+            "new tab instead, so you keep your place.\n"
+            "\n"
+        )
+
     # Optional callout under Data Science section (only for active listings)
     if not inactive_only and category_name == "Data Science, AI & Machine Learning":
         resume_url = "https://docs.google.com/document/d/1azvJt51U2CbpvyO0ZkICqYFDhzdfGxU_lsPQTGhsn94/edit?usp=sharing"
