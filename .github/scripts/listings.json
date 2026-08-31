@@ -18546,31 +18546,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Capital One",
-        "id": "9ad674bb-f879-49d6-b13c-ad2364947fed",
-        "title": "Manager \u2013 Data Scientist - Velocity Black - Remote-Eligible",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1767424722,
-        "date_posted": 1767424722,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Scientist---Velocity-Black--Remote-Eligible-_R226868-2",
-        "locations": [
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Auctane",
         "id": "9a4bb2dd-90a7-47b4-bbc8-f65bfe3a038b",
         "title": "Data Engineering Intern",
@@ -31511,29 +31486,6 @@
         "sponsorship": "Other",
         "degrees": [
             "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Copart",
-        "id": "bfc7551f-36a8-4e18-8c84-cd29ed4949a8",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767424763,
-        "date_posted": 1767424763,
-        "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineer-Intern_JR103138",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Copart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
         ]
     },
     {
@@ -259667,7 +259619,7 @@
         "company_name": "Tesla",
         "id": "90c5d0b6-db8a-4cbe-bd09-bc14d5433132",
         "title": "Software Machine Learning Engineer Intern - Reliability Energy Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -259690,7 +259642,7 @@
         "company_name": "Tesla",
         "id": "87840e6d-dbd7-4d75-8c8f-875bc8946ef0",
         "title": "Software Engineer Intern - Site Controller Software Engineer - Energy Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -260438,7 +260390,7 @@
         "company_name": "Keysight Technologies",
         "id": "d2e6b4e9-d706-4c25-9b2c-c8d4a9eda75b",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -265719,7 +265671,7 @@
         "company_name": "Tesla",
         "id": "e899751e-0313-4b38-844c-137b5cba368a",
         "title": "Commercial UI Software Engineer Intern - Energy Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -267420,7 +267372,7 @@
         "company_name": "Tesla",
         "id": "85552c86-a402-4c13-80b0-25f02bf023cb",
         "title": "Embedded System Software Engineer Intern - Embedded System Software Engineer - Energy Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -276467,7 +276419,7 @@
         "company_name": "Tesla",
         "id": "87b3e2e9-6e48-46cf-a3ad-0144480aaea6",
         "title": "Software Engineer Intern - Distributed Systems Software Engineer - Energy Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -277051,7 +277003,7 @@
         "company_name": "Tesla",
         "id": "9a7e7535-216f-41a8-b35c-5005ec017d35",
         "title": "Firmware Engineer Intern - Power Electronics Firmware Engineer - Energy Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -278529,7 +278481,7 @@
         "company_name": "Tesla",
         "id": "cbf7c33c-7f5a-40a6-9ec5-b27895094847",
         "title": "Energy Engineering Intern - Software Engineer Diagnostics - Energy Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -283551,7 +283503,7 @@
         "company_name": "Tesla",
         "id": "f5df0ff3-923c-48b4-abf3-9c10848eb7ed",
         "title": "Software Engineer Intern - Energy Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -288879,7 +288831,7 @@
         "company_name": "Tesla",
         "id": "ce535c93-f706-49f8-98ac-5f72c9bd6729",
         "title": "Energy Battery Firmware Intern - Software Engineer - Energy Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -299289,7 +299241,7 @@
         "company_name": "Texas Instruments",
         "id": "aff149ec-8435-4f94-9798-ea3716d37883",
         "title": "Product Operations Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -304013,7 +303965,7 @@
         "company_name": "Trend Micro",
         "id": "f3a572bd-6402-4a23-9a65-ff29f1dd08cb",
         "title": "Malware Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -319531,7 +319483,7 @@
         "company_name": "RRS Group",
         "id": "e0791588-2fd5-4867-8c40-2b4af827a16d",
         "title": "Software Engineer Intern - Placement Year",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -334820,7 +334772,7 @@
         "company_name": "Microsoft",
         "id": "6245b5b1-9a7d-4d30-aabb-19a2cedbde40",
         "title": "AI Software Engineer Intern - Edge",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335476,7 +335428,7 @@
         "company_name": "The Walt Disney Company",
         "id": "fca521d9-9f1c-4b18-aeb4-0edd5281b9f5",
         "title": "Transportation Logistics & Analytics Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -335523,7 +335475,7 @@
         "company_name": "The Walt Disney Company",
         "id": "1a60f341-1e73-446d-957c-8011859ac7aa",
         "title": "Labor Systems Web Integration Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -335571,7 +335523,7 @@
         "company_name": "The Walt Disney Company",
         "id": "5dc06638-a693-4c36-a677-6550cd99957d",
         "title": "Pricing & Revenue Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -335594,7 +335546,7 @@
         "company_name": "The Walt Disney Company",
         "id": "3c2660f1-564f-4b37-8947-dd2725c2560f",
         "title": "Environmental Sustainability Data Analytics Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -335640,7 +335592,7 @@
         "company_name": "The Walt Disney Company",
         "id": "23aca199-d8e5-4ce4-a030-42cd3eff7a05",
         "title": "Labor Systems Data Analytics & Integration Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -338188,7 +338140,7 @@
         "company_name": "The Walt Disney Company",
         "id": "c4b8ec04-6b92-4826-a44f-65b18f7f4af3",
         "title": "Menu Planning Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -339376,7 +339328,7 @@
         "company_name": "L3Harris Technologies",
         "id": "b6d77c85-4c5b-4da2-819e-86166d105648",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339401,7 +339353,7 @@
         "company_name": "L3Harris Technologies",
         "id": "e179d914-b70e-45ab-994b-6317583a37d7",
         "title": "Security Research Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339424,7 +339376,7 @@
         "company_name": "L3Harris Technologies",
         "id": "b65e3651-3dfc-4e67-a3bc-0a32f8f46d54",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339449,7 +339401,7 @@
         "company_name": "L3Harris Technologies",
         "id": "9779cb97-3712-4e51-9ee6-6c3054eddb59",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339474,7 +339426,7 @@
         "company_name": "L3Harris Technologies",
         "id": "108a515b-4b16-408c-93fe-5932b4f01064",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339574,7 +339526,7 @@
         "company_name": "L3Harris Technologies",
         "id": "6a6f09cf-a286-49e6-bce0-4e4dd947034d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339814,7 +339766,7 @@
         "company_name": "GE Appliances",
         "id": "bd5a92c9-7503-495c-a022-ad6970c624c8",
         "title": "People & Workforce Analytics Intern - Culture",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -342246,7 +342198,7 @@
         "company_name": "Parsons",
         "id": "64a54a24-5ab6-415b-bce1-88cd157d415d",
         "title": "Software Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -344151,7 +344103,7 @@
         "company_name": "RTX",
         "id": "992a2117-4cf1-47d8-bb15-9770955da023",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -347354,7 +347306,7 @@
         "company_name": "Leidos",
         "id": "d21090d2-9885-45c0-804e-7946a6e64376",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -347497,7 +347449,7 @@
         "company_name": "Intuit",
         "id": "1795d6df-fcca-45dc-836d-41a82dc36894",
         "title": "Software Engineer Intern - Full Stack",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -347646,7 +347598,7 @@
         "company_name": "Charles Schwab",
         "id": "09239b96-d26a-4691-b9ab-9b8b442caa9f",
         "title": "Software Engineering Intern - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -347674,7 +347626,7 @@
         "company_name": "Charles Schwab",
         "id": "93f4951e-c280-428f-8f6f-a0611c97b96e",
         "title": "Data Engineering Intern - Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -347887,7 +347839,7 @@
         "company_name": "Tesla",
         "id": "b06bb8f0-2561-491a-833c-68686d80da8e",
         "title": "Access Control Systems Integration Engineer Intern - Vehicle Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -349523,6 +349475,127 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Stryker",
+        "id": "ac16b37b-d5ee-4a02-8d77-305bc1ab5168",
+        "title": "Software Engineering Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788161455,
+        "date_posted": 1788134400,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624",
+        "locations": [
+            "Fremont, CA",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qorvo",
+        "id": "ffbfdb0a-160a-44a5-90b1-76d8bdfccee7",
+        "title": "IC Layout Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788186999,
+        "date_posted": 1788186901,
+        "url": "https://careers.qorvo.com/job/Richardson-IC-Layout-Engineering-Intern-TX-75081/1424795900/?ats=successfactors",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Qorvo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "a35e806c-4423-4046-bc8f-f81f8e6782c1",
+        "title": "Data Analyst Intern - Group Risk Management",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788186991,
+        "date_posted": 1788134400,
+        "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Data-Analyst-Intern--4-Months-_R-0000186286-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qorvo",
+        "id": "8c53032c-d29b-4077-82e5-835b75a70990",
+        "title": "Test Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788186997,
+        "date_posted": 1788186899,
+        "url": "https://careers.qorvo.com/job/Richardson-Test-Engineering-Intern-TX-75080/1424797000/?ats=successfactors",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Qorvo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Qorvo",
+        "id": "58886ea6-6ba4-42a2-9521-ca7677660b8d",
+        "title": "Product Engineer Intern - Design and Applications",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788187001,
+        "date_posted": 1788186900,
+        "url": "https://careers.qorvo.com/job/Richardson-Product-Engineer-D&A-Intern-TX-75081/1424806900/?ats=successfactors",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Qorvo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
