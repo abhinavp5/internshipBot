@@ -806,7 +806,7 @@
 <td>Product Manager Intern</td>
 <td>Redmond, WA</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/t-rowe-price?utm_source=GHList&utm_medium=company">T. Rowe Price</a></strong></td>
@@ -932,7 +932,7 @@
 <td>Materials Engineer Intern</td>
 <td>LA</td>
 <td>🔒</td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Vanguard?utm_source=GHList&utm_medium=company">Vanguard</a></strong></td>
@@ -953,7 +953,7 @@
 <td>Summer Internship - Dr. Chris Scolese</td>
 <td><details><summary><strong>4 locations</strong></summary>Aurora, CO<br>Chantilly, VA<br>White Sands Missile Range, NM<br>Fort Belvoir, VA</details></td>
 <td>🔒</td>
-<td>12d</td>
+<td>13d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Vanguard?utm_source=GHList&utm_medium=company">Vanguard</a></strong></td>
@@ -1058,7 +1058,7 @@
 <td>AI & Automation Intern - Summer 2027</td>
 <td>Wilmington, DE</td>
 <td>🔒</td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/GE-Vernova?utm_source=GHList&utm_medium=company">GE Vernova</a></strong></td>
@@ -1079,7 +1079,7 @@
 <td>Data Internship - Data & AI Program</td>
 <td><details><summary><strong>8 locations</strong></summary>Palo Alto, CA<br>Newark, DE<br>Plano, TX<br>Chicago, IL<br>Jersey City, NJ<br>Columbus, OH<br>NYC<br>Wilmington, DE</details></td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Williams?utm_source=GHList&utm_medium=company">Williams</a></strong></td>
@@ -1156,7 +1156,7 @@
 <td>Corporate Intern - Digital and Analytics</td>
 <td>Peoria, IL<br>Chicago, IL<br>Irving, TX</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/IMC-Trading?utm_source=GHList&utm_medium=company">IMC Trading</a></strong></td>
@@ -1352,7 +1352,7 @@
 <td>Quantitative Researcher Intern - Summer 2027 🎓</td>
 <td>Dubai - United Arab Emirates<br>NYC</td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/PEAK6?utm_source=GHList&utm_medium=company">PEAK6</a></strong></td>
@@ -1580,6 +1580,13 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/BP?utm_source=GHList&utm_medium=company">BP</a></strong></td>
+<td>Finance & Risk Intern - Multiple Teams</td>
+<td>Houston, TX</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Supply, Trading, & Shipping Intern - Multiple Teams</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
@@ -1589,13 +1596,6 @@
 <td>↳</td>
 <td>Supply, Trading & Shipping Intern - Supply, Trading & Shipping - Commercial</td>
 <td>Chicago, IL</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Finance & Risk Intern - Multiple Teams</td>
-<td>Houston, TX</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
