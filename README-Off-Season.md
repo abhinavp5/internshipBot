@@ -10806,7 +10806,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Austin, TX</td>
 <td>Fall 2026</td>
 <td><div align="center"><a href="https://careers-upbring.icims.com/jobs/7139/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a9caf1f2-3786-455d-a542-e77edf6a7bc2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Qorvo?utm_source=GHList&utm_medium=company">Qorvo</a></strong></td>
@@ -12791,7 +12791,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Toronto, ON, Canada</td>
 <td>Winter 2026</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/riversidenaturalfoodsltd/jobs/5409377008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/cd370010-ba2c-4a69-901c-5d7c5cb882d7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/L3Harris-Technologies?utm_source=GHList&utm_medium=company">L3Harris Technologies</a></strong></td>
@@ -12799,7 +12799,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Rochester, NY</td>
 <td>Winter 2026</td>
 <td><div align="center"><a href="https://jobs.l3harris.com/job/Rochester-IT-Business-Analysis-Intern-NY-14606/1425549200/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/cbe43bb3-21d6-4108-aab0-ab1d06246c86?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Western-Southern-Financial-Group?utm_source=GHList&utm_medium=company">Western & Southern Financial Group</a></strong></td>
@@ -13071,7 +13071,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Cape Canaveral, FL</td>
 <td>Fall 2026</td>
 <td><div align="center"><a href="https://careers.astrion.us/jobs/24801?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ab6635d0-534f-41f5-83c5-c9b1fae53dd4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Integra-FEC?utm_source=GHList&utm_medium=company">Integra FEC</a></strong></td>
@@ -27389,7 +27389,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Wilmington, MA</td>
 <td>Winter 2026</td>
 <td><div align="center"><a href="https://jobs.l3harris.com/job/Wilmington-Intern,-Software-Engineer-MA-01887/1425515000/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/70637f48-372f-47ac-9ea0-d8cc4f9c42b0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -27397,7 +27397,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 <td>Herndon, VA</td>
 <td>Winter 2026</td>
 <td><div align="center"><a href="https://jobs.l3harris.com/job/Herndon-Software-Engineer-Intern-VA-20171/1413343400/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a7a21277-7af0-4b06-894f-af2ce1530e21?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Geotab?utm_source=GHList&utm_medium=company">Geotab</a></strong></td>

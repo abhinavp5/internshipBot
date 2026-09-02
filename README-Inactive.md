@@ -106,7 +106,7 @@
 <td>Software Engineer Intern - 8 months/40hrs per week</td>
 <td>Farmington Hills, MI</td>
 <td>🔒</td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Medline?utm_source=GHList&utm_medium=company">Medline</a></strong></td>
