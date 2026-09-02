@@ -6,17 +6,17 @@
 
 ---
 
-### Browse 298 Inactive Internship Roles by Category
+### Browse 302 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (113)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (12)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (62)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (65)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (71)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (40)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (41)
 
 ---
 
@@ -183,7 +183,7 @@
 <td>Technology Fintern - Software Engineering - Product Management</td>
 <td><details><summary><strong>4 locations</strong></summary>Austin, TX<br>Dallas, TX<br>Chicago, IL<br>NYC</details></td>
 <td>🔒</td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -407,14 +407,14 @@
 <td>Software Developer Intern</td>
 <td>Cary, NC</td>
 <td>🔒</td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Quantbot-Technologies?utm_source=GHList&utm_medium=company">Quantbot Technologies</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -1012,11 +1012,18 @@
 <td>0d</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/United-Airlines?utm_source=GHList&utm_medium=company">United Airlines</a></strong></td>
 <td>Digital Technology Intern - Summer 2027</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
-<td>0d</td>
+<td>1d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Geico?utm_source=GHList&utm_medium=company">Geico</a></strong></td>
+<td>Artificial Intelligence Applied Research & Machine Learning Intern - PhD 🎓</td>
+<td>Palo Alto, CA<br>NYC</td>
+<td>🔒</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Stryten?utm_source=GHList&utm_medium=company">Stryten</a></strong></td>
@@ -1170,7 +1177,7 @@
 <td>Machine Learning Research Engineer Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Regions-Bank?utm_source=GHList&utm_medium=company">Regions Bank</a></strong></td>
@@ -1267,6 +1274,20 @@
 <td><strong><a href="https://simplify.jobs/c/t-rowe-price?utm_source=GHList&utm_medium=company">T. Rowe Price</a></strong></td>
 <td>Technology and Data Intern</td>
 <td>Owings Mills, MD<br>Baltimore, MD</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Castleton-Commodities-International?utm_source=GHList&utm_medium=company">Castleton Commodities International</a></strong></td>
+<td>Data Engineering Intern</td>
+<td>Houston, TX<br>Stamford, CT<br>NYC</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Data Science Machine Learning Intern</td>
+<td>London, UK</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -1555,7 +1576,7 @@
 <td>Quantitative Developer Intern</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
@@ -1997,6 +2018,13 @@
 <td>Austin, TX</td>
 <td>🔒</td>
 <td>5d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Cedar Rapids, IA</td>
+<td>🔒</td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
