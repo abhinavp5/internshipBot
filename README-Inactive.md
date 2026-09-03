@@ -1177,7 +1177,7 @@
 <td>Sales Product Intern</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Post-Holdings?utm_source=GHList&utm_medium=company">Post Holdings</a></strong></td>
@@ -1429,14 +1429,14 @@
 <td>Digital & IT Intern - Analyst - Machine Learning</td>
 <td>Charlotte, NC</td>
 <td>🔒</td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Raw Material Engineering Intern - Summer 2027</td>
 <td>Painted Post, NY</td>
 <td>🔒</td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory?utm_source=GHList&utm_medium=company">Johns Hopkins Applied Physics Laboratory</a></strong></td>
