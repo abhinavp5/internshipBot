@@ -2,29 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "A Thinking Ape",
-        "id": "ae679862-5a2f-47ae-80d4-6c2e722d931c",
-        "title": "Software Engineer Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767861798,
-        "date_posted": 1767861798,
-        "url": "https://job-boards.greenhouse.io/athinkingape/jobs/7436071",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/A-Thinking-Ape",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Unity",
         "id": "8386a979-b004-4216-98e2-c7dfe93b8a00",
         "title": "Software Engineer - Engine Support",
@@ -182999,7 +182976,7 @@
         "company_name": "Anthropic",
         "id": "0d633297-0371-40a5-bcfe-d66992c2ba79",
         "title": "Anthropic Fellows Program - ML Systems & Performance",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -315656,7 +315633,7 @@
         "company_name": "Goldman Sachs",
         "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
         "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -327678,7 +327655,7 @@
         "company_name": "Mastercard",
         "id": "78c03ab4-f50a-445d-9802-fb785330b50f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -339329,7 +339306,7 @@
         "company_name": "The Walt Disney Company",
         "id": "2988cc76-e6a5-4e83-83b9-4b0ea07da23a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -339493,7 +339470,7 @@
         "company_name": "Booz Allen",
         "id": "0b789ff7-5e0b-41ba-98b2-35370afdd223",
         "title": "Software Developer Intern - University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -351252,7 +351229,7 @@
         "company_name": "Booz Allen",
         "id": "21c2dbb5-58dc-42ce-b2f5-f7a3eed6a47f",
         "title": "Data Scientist Intern - University - Summer Games",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -353071,7 +353048,7 @@
         "company_name": "Zurich Insurance",
         "id": "17b7544f-c3be-49f8-838a-a79a4ed854e0",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -355209,7 +355186,7 @@
         "company_name": "Boston Scientific",
         "id": "1660f3b8-719e-4c50-ab5b-b793e4f1da1f",
         "title": "Research Algorithm & Data Science Intern - Interns/Graduates",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -358037,7 +358014,7 @@
         "company_name": "RTX",
         "id": "86109c63-191c-484b-838b-4448f2812c98",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -361292,7 +361269,7 @@
         "company_name": "Cisco",
         "id": "2e2b9880-d6c9-4502-b647-d93be679e9a2",
         "title": "Machine Learning Engineer 2 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -369970,7 +369947,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "757dc2f7-3e8d-4e4f-bba1-a5c378ea6ca9",
         "title": "Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -371596,7 +371573,7 @@
         "company_name": "Goldman Sachs",
         "id": "0f4448c3-2086-46c1-b64b-2ecdf04a0881",
         "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -371690,7 +371667,7 @@
         "company_name": "Goldman Sachs",
         "id": "792220f4-3ba1-4cf8-843e-e23208ba8d24",
         "title": "Summer Analyst Intern - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -378600,6 +378577,29 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics UK",
+        "id": "0d504ec1-4c20-45c1-95c9-bd8e7239a5b8",
+        "title": "Software Engineering Co-op - Months",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788596901,
+        "date_posted": 1788473329,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000147563929",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
