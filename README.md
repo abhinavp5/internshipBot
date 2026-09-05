@@ -280,7 +280,7 @@
 <td>Software Development Engineer Intern - Robotics</td>
 <td><details><summary><strong>7 locations</strong></summary>Seattle, WA<br>Nashville, TN<br>Austin, TX<br>North Reading, MA<br>Arlington County, Arlington, VA<br>Bellevue, WA<br>Westborough, MA</details></td>
 <td><div align="center"><a href="https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ea127849-c2ce-48a3-8ef5-8024831dc02e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TJX?utm_source=GHList&utm_medium=company">TJX</a></strong></td>
@@ -1631,14 +1631,14 @@
 <td>Business Technology Solutions Intern - Data & Software Engineering</td>
 <td>Irvine, CA</td>
 <td><div align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014860306?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/41047974-7321-45cf-b910-ac9710ae6e39?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Business Technology Solutions Intern - Data & Software Engineering - Undergraduate</td>
 <td>South SF</td>
 <td><div align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014860391?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8172b446-22d1-4377-b335-6f5fd54371aa?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Honeywell?utm_source=GHList&utm_medium=company">Honeywell</a></strong></td>
@@ -2016,7 +2016,7 @@
 <td>Software Engineering Intern</td>
 <td>LA</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/generalmatter/jobs/5377118008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/52758ea7-052d-4c85-9fbe-2558a05538f1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Deloitte?utm_source=GHList&utm_medium=company">Deloitte</a></strong></td>
@@ -3126,7 +3126,7 @@
 <td>Merchandising Intern</td>
 <td>Brooklyn, NY</td>
 <td><div align="center"><a href="https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20062?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/92299913-f387-419d-84a4-fa4d2f9f952e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Vanguard?utm_source=GHList&utm_medium=company">Vanguard</a></strong></td>
@@ -4028,21 +4028,21 @@
 <td>Digital & IT Intern - Analyst - Data & AI Platform Engineering</td>
 <td>Charlotte, NC</td>
 <td><div align="center"><a href="https://corningjobs.corning.com/job/Charlotte-Digital-&-IT-Intern,-Analyst,-Data-&-AI-Platform-Engineering-Summer-2027-NC-28216/1425716600/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/6960822e-4578-44ab-a953-a8185d77fad5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Digital & IT Intern - Manufacturing AI/ML</td>
 <td>Charlotte, NC</td>
 <td><div align="center"><a href="https://corningjobs.corning.com/job/Charlotte-Digital-&-IT-Intern,-Analyst,-Manufacturing-AIML-Summer-2027-NC-28216/1425708000/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/966f0e61-e253-4b56-ba21-34cdff18547e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Digital & IT Intern - Analyst - Enterprise Data Management</td>
 <td>Charlotte, NC</td>
 <td><div align="center"><a href="https://corningjobs.corning.com/job/Charlotte-Digital-&-IT-Intern,-Analyst,-Enterprise-Data-Management-Summer-2027-NC-28216/1425715900/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3a274aff-4c7a-4023-b434-2eb14e2e7eba?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Vermeer?utm_source=GHList&utm_medium=company">Vermeer</a></strong></td>
@@ -7362,7 +7362,7 @@
 <td>Engineering Intern</td>
 <td>New Orleans, LA</td>
 <td><div align="center"><a href="https://jobs.entergy.com/job/New-Orleans-Student,-Intern-Engineering-Summer-2027-Loui/1426672400/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/19556cf9-c959-43f7-9756-b2fe1bf9af0c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company">Motorola</a></strong></td>

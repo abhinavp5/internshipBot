@@ -1590,7 +1590,7 @@
 <td>Data Engineering Intern</td>
 <td>Bridgeton, MO</td>
 <td>🔒</td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Xcel-Energy?utm_source=GHList&utm_medium=company">Xcel Energy</a></strong></td>
@@ -2087,7 +2087,7 @@
 <td>Computational Engineering Graduate Intern</td>
 <td>Livermore, CA</td>
 <td>🔒</td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/PwC?utm_source=GHList&utm_medium=company">PricewaterhouseCoopers (PwC)</a></strong></td>
@@ -2734,7 +2734,7 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Vanguard?utm_source=GHList&utm_medium=company">Vanguard</a></strong></td>
+<td>↳</td>
 <td>College to Corporate IT Intern - Data Science</td>
 <td>Charlotte, NC</td>
 <td>🔒</td>
@@ -3760,7 +3760,7 @@
 <td>Electrical Engineering Intern</td>
 <td>LA</td>
 <td>🔒</td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">NVIDIA</a></strong></td>
