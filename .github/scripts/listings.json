@@ -201142,7 +201142,7 @@
         "company_name": "Tencent",
         "id": "ebfbd4aa-1575-4433-ae61-19d71eac1f5d",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -251352,7 +251352,7 @@
         "company_name": "Copart",
         "id": "ecb57e2b-b9a6-4967-9d05-bd9596de3537",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -253272,7 +253272,7 @@
         "company_name": "Evolver",
         "id": "2283b39a-bd55-4fc6-8bb7-6e3a6a999b59",
         "title": "Applied Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -262423,7 +262423,7 @@
         "company_name": "Copart",
         "id": "26ca5f88-4aa3-47dd-b7c2-3d192287ce69",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -294311,7 +294311,7 @@
         "company_name": "k-ID",
         "id": "d1956f60-b9eb-4d52-8da7-ac5ab857772b",
         "title": "Engineering Intern - Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -305747,7 +305747,7 @@
         "company_name": "Montenson",
         "id": "5acb5ba5-b61d-4432-922b-9dea91c7815d",
         "title": "Data Analytics Intern - Insights",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -324884,7 +324884,7 @@
         "company_name": "Marsh",
         "id": "2e60bfbc-eba1-46bb-b68b-c273e8465412",
         "title": "Government Health Consulting Informatics Intern - College Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -336460,7 +336460,7 @@
         "company_name": "Tencent",
         "id": "275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
         "title": "Multimodal Algorithm Researcher Intern - Omni-Modal",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -337485,7 +337485,7 @@
         "company_name": "Brunswick",
         "id": "1a7cd887-6c00-45f3-bf3d-87fa5aebe90f",
         "title": "Reinforcement Learning Intern - Boating Intelligence Design Lab",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2027",
@@ -375624,7 +375624,7 @@
         "company_name": "AArete",
         "id": "4450e57d-6850-4b61-b0f6-39350674e9d9",
         "title": "Business Analytics Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -377000,5 +377000,37 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "56f40262-c4cd-4b41-a304-a541df7d38a7",
+        "title": "Advanced Packaging Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027",
+            "Fall 2027",
+            "Winter 2028",
+            "Spring 2028",
+            "Summer 2028"
+        ],
+        "date_updated": 1788688496,
+        "date_posted": 1788566400,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Advanced-Packaging-Intern--MS---Summer-2027_2604519",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA",
+            "Westlake Village, CA",
+            "Burlington, VT",
+            "Chandler, AZ",
+            "Westborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
