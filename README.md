@@ -5211,7 +5211,7 @@
 <td>AI Intern - Summer Internship Program</td>
 <td>Jersey City, NJ</td>
 <td><div align="center"><a href="https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4682?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/11d79971-ac6a-48a4-aea8-bb00009860a9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Auto-Owners-Insurance?utm_source=GHList&utm_medium=company">Auto-Owners Insurance</a></strong></td>
