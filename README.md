@@ -2660,7 +2660,7 @@
 <td>Business Technology Solutions Intern - Data & Software Engineering - Undergraduate</td>
 <td>North Chicago, IL</td>
 <td><div align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014697918?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8569a45d-e504-4cc5-897a-de907ab8e0f7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
@@ -2828,7 +2828,7 @@
 <td>Implementation Intern</td>
 <td>United States</td>
 <td><div align="center"><a href="https://careers.fastenterprises.com/jobs/1709?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/7838c307-daa5-4e75-b8c2-7218ab2354cb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Google?utm_source=GHList&utm_medium=company">Google</a></strong></td>
@@ -4085,21 +4085,21 @@
 <td>Product Management Competitive Product Assessment Intern - Summer 2027</td>
 <td>Middleton, WI</td>
 <td><div align="center"><a href="https://careers-springswindowfashions.icims.com/jobs/12883/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3ba0ee0f-9499-46e0-a269-8b7c01b0adf3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Product Management Dashboard Analytics Intern</td>
 <td>Middleton, WI</td>
 <td><div align="center"><a href="https://careers-springswindowfashions.icims.com/jobs/12882/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1f240169-1dfc-46e6-8e84-6e70ff3d98da?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Product Management Intern</td>
 <td>Long Island City, Queens, NY</td>
 <td><div align="center"><a href="https://careers-springswindowfashions.icims.com/jobs/12892/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/fb4c05e4-dae7-48e3-b6d3-5e670ed8556d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
@@ -7015,35 +7015,35 @@
 <td>Data Analyst Intern - Consumer Business Unit</td>
 <td>Middleton, WI</td>
 <td><div align="center"><a href="https://careers-springswindowfashions.icims.com/jobs/12874/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b59dc602-a7f2-4fe8-b95c-1d885aaf533c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Textile Engineering Intern - Summer 2027</td>
 <td>Middleton, WI</td>
 <td><div align="center"><a href="https://careers-springswindowfashions.icims.com/jobs/12881/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/3b263339-ab18-4363-b881-4222882cc14b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>AI Analyst Intern - Consumer Business Unit</td>
 <td>Middleton, WI</td>
 <td><div align="center"><a href="https://careers-springswindowfashions.icims.com/jobs/12875/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a9cd2f49-efd8-4433-b2f9-c9ddea84ea80?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Dealer Business Operations & Analytics Intern - Summer 2027</td>
 <td>Middleton, WI</td>
 <td><div align="center"><a href="https://careers-springswindowfashions.icims.com/jobs/12886/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c305bb04-1a47-46b7-9176-388a1f0d73f2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Sustainability Data Specialist Intern - Commercial Marketing</td>
 <td>Long Island City, Queens, NY</td>
 <td><div align="center"><a href="https://careers-springswindowfashions.icims.com/jobs/12896/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1c7c189b-83fd-4021-9d8d-baedf194d7e0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>18d</td>
+<td>19d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/AMD?utm_source=GHList&utm_medium=company">AMD</a></strong></td>
@@ -9406,14 +9406,14 @@
 <td>Diagnostics Design Engineering Intern/Co-op</td>
 <td>Markham, ON, Canada</td>
 <td><div align="center"><a href="https://careers.amd.com/jobs/91308?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f16c4b8c-a66a-4096-b0d8-d0cb78d6664f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Hardware Design Verification Engineer Intern/Co-op</td>
 <td>Markham, ON, Canada</td>
 <td><div align="center"><a href="https://careers.amd.com/jobs/91361?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/a2fac682-df8e-4350-892b-83885e143bac?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Apex?utm_source=GHList&utm_medium=company">Apex</a></strong></td>
